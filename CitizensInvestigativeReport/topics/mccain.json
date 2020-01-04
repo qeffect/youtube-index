@@ -1,0 +1,1365 @@
+{
+  "indexed": "_4cUOL3WjoQ,_4Qz2wgXF-0,_8pSTgIxZYs,_Dbmz9RiNz8,_FzxnbyTxxQ,_oalbnteAOs,_OFjUWoWjWA,_oFMGK4Zh0A,_wl1SQ5vloE,-_jy9XWrtVk,--S8YcaR4e0,-p4aixMy9C4,-TnUgDxmhcM,-UfGgbKad1g,-YMqBPbzLf4,-zegrO4DwyY,-zp_jtLiWGk,0_wrqY4QP1E,0c2dd2MuBdw,0Hdas49YCcc,0p6fPfG6eEc,0qKt8Cx_ddw,18zfwUCc61M,1a-U_X08U6I,1d-2uv-xfmE,1DrHzWvI6KM,1jFANB5HfVw,1rSUgsXkMV0,1SgrMFFmtXk,1x_vXcUl-5U,2-KyGPW6w2o,2AsamkPRWkQ,2AZ6VHCqhUM,2CveVgGWJ1Q,2eBSc_bwnWU,2isbWX0zE40,2n51hzqIt0U,30V4Szn4Iuk,3FDNRfZmq40,3i07C4yqOJE,3Od71di7MIo,42B7PCn1Snk,4c4fWaJxAlI,4CljEa5NWyM,4NHl0qZswsM,4pjGWGmVlVo,4QaAgo9xq-I,4tIXYYEObRw,4wtx2cZ0Kbg,57ly_O6zk1A,5ez2srKespc,5fKoGtGai84,5g7ly1jWyh4,5l_hHwjMj84,5Vd-T0ytuDo,5ZAoB5_5Z9U,6_w68fyEHQc,69-YMBkQjMI,6fchAsMqtiI,6hqfPPhwYEc,6nJMwv18PhY,6ORf3NMddJw,6PlU0kJsMgg,7EeZJ3nqRi4,7gQa2DnB57E,7kFWz6d6QE0,7TxVMkmEflw,7Z1stYjs00o,8597QdaRrYg,8DPY5g6bmnI,8IC-EoVQ4Xw,8mQgCzVLJNQ,8NN2XuMbWvM,8tD41JIC-_s,8u9QT__UJw8,8W3YXImU6m0,9_Av3k1XGlI,99tcg2P0X00,9CjCqKVUaXU,9fg2HjtiQnw,9j5zzgc_ZW8,9njNU0ihgk4,9sbvu6QbGFQ,a1NA7RMfN2g,a4aHKKrnkIU,a59mWRqqJVc,AAAqCJKxkwY,aC2UGtWJMMw,AJZaQtuk-4U,ajzXU44c9l0,aKwDn2vzjnE,ANcWcVKyFEU,aUFEtFY36i4,AuV31bAKsW0,aV2xcCxaoTQ,AVGvXMl-ItU,aWDsJdeJWUY,b-byy2INS9E,BaLiAUykwk0,BeiNOvXEgeE,BhTX5laZ2dk,biSiJkBSrRU,bNkOryQKYhw,bQKYJG_NiuA,bWxE0JiEk5s,c0ng2LuHw3M,c6ngdj0aaBM,C8qMDMjmTyI,C9R-YD7lyhQ,CbNcUJ8HhXI,CbwoJvdo1BA,cFwd5UYWjxg,ClGKQvSylxk,clPhNj9RaOA,CPvD8HQ9Koc,csJU-a0MsZU,CwPvAUnU1Yg,CZvTFgzePlE,D0-lVCkgnIo,D183UhhCkdY,d76FqB5mBAw,DC6aYwKxQuw,dcQwuAxJb1I,DCTFYjIyqKA,dDxwcnUK53M,dgq3HSm2erQ,dgSTsrt-xX4,dHEMRwLEmlE,DiwdnJM3nAo,DJv8lb0mOqM,dkM8045LNbE,DlzLPVjHTeQ,DnTmhNoGyII,DQC5UiWzy-8,drFJG5-3RkA,Dro05nL_8Q8,dTF780QtN4E,dU0lvgrh6DQ,DVBzdQkRXWA,dXWAJLtJB6Y,E_lX3ZHA37U,e56SvLE_RGg,E60RhCVo0Nc,e6N1eCPGlBU,EhJieMpQXss,EKJBGDEHACI,emFk7vdarkA,eNUUqqwl0y4,eQFO3jslMHQ,ezw5g2S3888,f5J1g1S6goc,F6FfGbDGadc,f83TwcKnBp0,fDmxsQuEP90,Fef0ckAi630,fElxhk6SPu0,ffMAs2enoSo,FFTR2iEL2js,FJxIZeGscPc,FL5dULT3V94,fnBTbYAloFI,Fqv09KbOBTs,FRWbHgBA0d4,FsAGKSpgOVA,G8RApYO_n4c,gAunspUVzt8,GeoMB0WD9zU,GL_l7uGX8WY,GmFrEcyOCp0,gsudyktd4fc,GTFYwFVnXcQ,GUGdEdeZudM,Gv1ywPbHj-o,gxQe3UABhx4,GYcc_-8ADXw,GYzjtOTWk-M,h7lUMLj5xc8,h8fY2MYcoNI,HCV4jvriRkE,hF85EcXHdcI,HHSnx8HC97A,HJeWmOs9wws,hm7vb0wXijM,hM8sH1MZw_g,hmy7oxlLags,hn24hIKvZbE,hnoAixwDefg,hoZ1m8riCT0,hpnqURGkTvg,hrxVT4O_yXw,hT2dO3hM0RU,ht4idpfAARg,HtAF-S85w3o,hUkXVxPeP1U,hWCe5072mGg,I0zqCx1naaM,I3O-3gOOu7U,I5v4YoUjjhA,ibKILQFF3Hg,IBsxf0_Fiic,iBT6FhBCxp4,IHYV7n-1zGo,IiaKY5Ujz7o,IiVbtXtLoNk,IMLdY9Nid_M,imUQxYkMdMk,IR0YwQ0eWdk,iwb8_ldGl0Q,iZPnPKNZFyE,iZsEJ9Ll3DM,J7kMoeWHbAI,J8hdeaykViY,jJCU5JneN4U,JjZFIj6NXCc,JlKOJvTxmSw,JMLGr0t6WiE,joSVWRny9HY,JPE9wHKtcOE,jRYWKOVi9pc,jsibKmea0xs,JuSQ-NzDoxg,jVpWkmxdXZw,jwGExC1hK2w,jwgPeHMA0XQ,jXc0VnfROxk,JxhlF_Z7WBM,JxKmYtvPBgE,jXO0XeoKttw,Jz9V0uTiyX0,k088BHq7MwA,K0gos2mEDoM,k1d1W0FUIeI,K1GPxgU4GYc,k5zAPe3j-P8,kdxBP7B-Adg,kFOvXGMP19Y,kGmVWi6HGz8,ki5x7vPxw2k,kI9qKn5aUQo,kiOrZBcyc1Y,kNWM4qCBjFQ,KRGSqTF8gQs,krxOVnXMgaU,Ksvn8UI904Y,KuMFUPtKpWU,KWlDcvcMSP0,kx1_z42TIek,KyFXo23tZrY,L_AioX3MApk,l_eG95KK0ko,L6DFq19kCJE,lCv2RSt-JHw,ldS90gRrNJ8,LIlfhpscpJc,ll4IuzQmlvg,LNwU2glC7us,lOvRgFBALEE,Ls6pFKYsuRQ,Lud9cMxisCU,Lvf3UmSv7hQ,lwlUMKv6yKk,LYiNW4p6mTc,M-OAIeWVUDM,m78DMlWY5jU,mfnne9u9Cu4,mk2O0Qu5Ipw,mkyo0m45CBM,MmaN6V7_U3w,mqFZp6EQEoo,msftou8Vxk8,mWXhdPz1L9o,MXdC-izUy0M,Na2MqQzIAWU,NEadjTosApo,nhlRiZtgfsw,NMOEpMntZ3I,nQ-0S4_mZrY,nWNoUZTN608,nyh7YbsGMQc,nzY2NnJ1J-M,o__gS7JUijA,O08ze6jltco,O3cKYCEcCnQ,o4mGsJ23IA4,O4qUKaf9bD0,o5yAF9IIO4A,oaA15FYN6pc,ODM8N8bDjqc,oDskmmkin4c,OgGTcg1AihQ,om3LDAA8yVU,oQRZaJOlSks,OSBqv2i2UOk,OsOBa27SOnY,Ov3Pyqr1U7Y,ow-WxWBd10M,oWCdApAaLH0,OZE1KEtsqaM,ozT-lj5XpsE,p_8uD_4uX_0,P-_5KJ5EauM,P1q67rQAgdY,P2z0UhWg2gw,p5nZX-r7On4,pbPqTtqMTUQ,pfFRcVFhr_w,PHjE6wH3OB0,PInpDeOIhKA,PKobwTynNHA,pl0fwd-P78k,pLhgQLWQ-JY,pMWD6H6J6XE,POvz-gw3EOA,pp29EPi2Nwk,PS4IQx8T8ew,PVA8g-1ZALM,PZaRVcudtpA,pZMOu5AGars,q2BoeQDb5cw,Q4lYHA1-5NI,QcA3NVCYYWM,qeKqoJMDCM4,QfabmC75wZo,qfvttt2-pD4,QI-R7580Rsg,qlfMm_3mRUM,qPj6F9EIiJ0,QREPrbHU5hE,QT9GR13m5tU,qTxF4G8Pv6k,qx5yJKzKdDo,qyHeRsJaOZM,qYTw5XHHlTI,QYVw6lFa2Dw,QzRgzW-vIpY,r-xFCir8FpU,R6Bn5Eb7KFQ,RiGvVpKGkJg,rjmozTz_hlw,RnnD5KWqURk,RoXwhmL6yk8,Rs_aMycvbRY,rw3bpnmOaOE,rYLOgFQPEZE,ryS7Gvupg1Q,s1yQvbIWklg,S29kJPp3Ad8,S5PPhpbmt0k,SccFd5RrtlY,scnr8t3L4Wk,seROfjjMZiM,sK3cWjgBo50,SmoJQloPBHo,sqdpWV0fsEM,stNCvaIyjXA,Suful5k9TD0,SXo1cP5spks,szuPUju1yDQ,T_rt5tZWITc,t4GTAV3tf_k,t8qFpNI6yEM,tdiYCDXpk6I,TEiHLbWSCjg,TFB_WmGDb68,TJAryFVNobk,Tm8ZULL-zhk,to7v8Ndz5Dk,toSmM8-7XQY,TQha2IMjYBA,TqjbXClcNjs,Ts1U1iWq5w0,TTD7TgHI41Q,TVSkK_uZsdY,tX-MZm7lG9k,TXWLPzYNjgs,tYCL2clTy7k,U8-rksGOIKw,ubLtyQx4d2g,Uc1dgkXKgsI,uGmQeN7__6A,Uh397S0AxoM,UhgdWME2v0w,uHIrFFUWMkk,UJ7YySYLIPA,uoZG3XG7t0k,UqfKAvJ94Pg,urKkOdgMzIs,uwW6MeAvOQE,v036BBaxXe0,VaFOU9dVE7k,VCniIY1N4YE,vkp2CaEbhiU,VncyqSWVJ1A,vP8G3gztQWA,VtSXKVw20bo,vVfyUAbNzb8,vwEYKWtzgJE,Vz6_nf_Sav4,w0WYAvWrMI4,W4IXATAA-HI,W4vxQB8tpDI,W8856fu_UG0,w8XTiVE3ej8,WBPI6wqGjjI,WcGmPQLhS-g,WeQOS11pAuE,WGuSyYujJCg,WM3BdU7uig4,wo825dKxQJc,WTLpneg-TiE,wTV4wML2Syg,WVR_d33tydI,wyDr_3phD6A,WyFwfxjVmHU,x1GukexVR9w,X7XMlZzPn_g,x9YqAiZo7jE,xcjHb6BxTrY,XCwr86ol3Oo,XddDHRwCA6Q,XdfdQT3XSBg,XEDGXGXKsPk,xEqavcwFyLY,XEVieVy5tA0,XfuNLvrXCo4,xLY5r0jjR9Y,XNrwbfS6f1Q,XPbSQ67Hxe8,xU16fgjFWek,XWrKp_tL4VE,XyN4KiYqsqs,y-874vzHt4A,y-ZyS9x6JNk,y4AhWpuyomw,Y9B1jNym-K8,yAXz6lYNxHE,YDZxU7hSkE8,YHeh4p3hPIQ,YJbF_WyHOVg,yJCimzETdYQ,yOpkW6xCbo8,YPT-X7gTA4o,yqgU3coXHpY,YU1dT0inBgg,YVTrXMak0UU,yW2tYWuXafY,YW7MVkX9o_Q,yZPh6hYXIFI,z2yDHKVsLqg,Z4i2A6q_4Rk,Z4u2xZqZKn0,ZD_4uv4ef-k,ZdBQqomzssg,zEBIukow088,ZgM3WPC5LSw,zhGG_oIrsCw,Zjr-J3FOvek,zlTIq16o_Jo,ZmelaC42YqU,ZMjEM7D61oo,ZNaN4eVbOEQ,zQhjVOzzoBw,zsp80ZqtMzo,zUCswDyNLsk,zurUyF0byS0,zvCofZWMmuc,ZW_LiXGfSkA,zWP_ImZu2zg,zzJ-tlw_GvY,ZzpP6lcBjsY",
+  "topic": "McCain",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "-p4aixMy9C4",
+      "segments": [
+        {
+          "text": "john *mccain* always said his name but",
+          "location": 2638
+        }
+      ]
+    },
+    {
+      "id": "-UfGgbKad1g",
+      "segments": [
+        {
+          "text": "cancer-stricken senator john *mccain*",
+          "location": 2767
+        }
+      ]
+    },
+    {
+      "id": "-zegrO4DwyY",
+      "segments": [
+        {
+          "text": "*mccain* and you can see according to a",
+          "location": 306
+        },
+        {
+          "text": "statement from his office *mccain* died at",
+          "location": 309
+        },
+        {
+          "text": "to the john *mccain* post if i come on are",
+          "location": 482
+        },
+        {
+          "text": "then it's got august 24 it's john *mccain*",
+          "location": 596
+        },
+        {
+          "text": "that john *mccain* like faked his own",
+          "location": 652
+        },
+        {
+          "text": "article about *mccain* so i'm looking",
+          "location": 2967
+        },
+        {
+          "text": "washington post *mccain* fudged his navy",
+          "location": 2968
+        },
+        {
+          "text": "for *mccain* condolences oh whatever who",
+          "location": 2980
+        },
+        {
+          "text": "mainstream you got *mccain* and all his",
+          "location": 3094
+        }
+      ]
+    },
+    {
+      "id": "1a-U_X08U6I",
+      "segments": [
+        {
+          "text": "2017 *mccain* denies again to inspector",
+          "location": 1618
+        }
+      ]
+    },
+    {
+      "id": "1d-2uv-xfmE",
+      "segments": [
+        {
+          "text": "them john *mccain* the the navy the name",
+          "location": 672
+        },
+        {
+          "text": "john *mccain* - i think it's called anyway",
+          "location": 676
+        },
+        {
+          "text": "crashed in singapore us destroyer *mccain*",
+          "location": 724
+        },
+        {
+          "text": "guided missile destroyer uss john *mccain*",
+          "location": 773
+        },
+        {
+          "text": "like i was talking about jhanas *mccain*",
+          "location": 776
+        },
+        {
+          "text": "uss john s *mccain* with a tanker near",
+          "location": 810
+        },
+        {
+          "text": "involving the *mccain* and the uss",
+          "location": 823
+        },
+        {
+          "text": "*mccain* collision the navy relieved the",
+          "location": 838
+        }
+      ]
+    },
+    {
+      "id": "1rSUgsXkMV0",
+      "segments": [
+        {
+          "text": "and borders that's i guess megan *mccain*",
+          "location": 1442
+        }
+      ]
+    },
+    {
+      "id": "30V4Szn4Iuk",
+      "segments": [
+        {
+          "text": "*mccain* so i didn't vote during that",
+          "location": 1516
+        }
+      ]
+    },
+    {
+      "id": "42B7PCn1Snk",
+      "segments": [
+        {
+          "text": "relates to *mccain* being fired and it is",
+          "location": 1594
+        }
+      ]
+    },
+    {
+      "id": "4CljEa5NWyM",
+      "segments": [
+        {
+          "text": "pull that crap on john *mccain* and i have",
+          "location": 1620
+        },
+        {
+          "text": "controversy that john *mccain* doesn't",
+          "location": 1634
+        },
+        {
+          "text": "meet *mccain* and then here's did",
+          "location": 1644
+        }
+      ]
+    },
+    {
+      "id": "4pjGWGmVlVo",
+      "segments": [
+        {
+          "text": "so annie *mccain* threatens to torch the",
+          "location": 2036
+        },
+        {
+          "text": "*mccain* resigns after fbi director ray",
+          "location": 2107
+        }
+      ]
+    },
+    {
+      "id": "5ez2srKespc",
+      "segments": [
+        {
+          "text": "in the *mccain* institute staff nicholas",
+          "location": 543
+        },
+        {
+          "text": "rasmussen with the *mccain* institute",
+          "location": 814
+        },
+        {
+          "text": "*mccain* institute arizona it's just got",
+          "location": 826
+        }
+      ]
+    },
+    {
+      "id": "5g7ly1jWyh4",
+      "segments": [
+        {
+          "text": "had or page struck the *mccain* aide and",
+          "location": 286
+        }
+      ]
+    },
+    {
+      "id": "69-YMBkQjMI",
+      "segments": [
+        {
+          "text": "name successor and senate cindy *mccain*",
+          "location": 2142
+        },
+        {
+          "text": "succeed john *mccain* in the senate and",
+          "location": 2190
+        },
+        {
+          "text": "succeed the late senator john *mccain* no",
+          "location": 2205
+        },
+        {
+          "text": "*mccain* in that position and that will be",
+          "location": 2370
+        },
+        {
+          "text": "john *mccain* was forced to step back",
+          "location": 2467
+        },
+        {
+          "text": "apparently they've got cindy *mccain* i'm",
+          "location": 2469
+        },
+        {
+          "text": "*mccain* and he's replying to richard",
+          "location": 2603
+        },
+        {
+          "text": "media john *mccain* was godfather leader",
+          "location": 2715
+        }
+      ]
+    },
+    {
+      "id": "6PlU0kJsMgg",
+      "segments": [
+        {
+          "text": "memos and them and the *mccain* memo so i",
+          "location": 1584
+        },
+        {
+          "text": "to podesta stone *mccain* deripaska",
+          "location": 1842
+        },
+        {
+          "text": "here is that no name or john *mccain* had",
+          "location": 2345
+        },
+        {
+          "text": "controversy that john *mccain* doesn't",
+          "location": 2358
+        },
+        {
+          "text": "*mccain* who didn't know this and neither",
+          "location": 2410
+        },
+        {
+          "text": "*mccain* met twice with all the dark",
+          "location": 2416
+        },
+        {
+          "text": "the *mccain* camp that there was possible",
+          "location": 2436
+        },
+        {
+          "text": "banned from the us while *mccain* did",
+          "location": 2460
+        },
+        {
+          "text": "*mccain* did not return requests for",
+          "location": 2463
+        }
+      ]
+    },
+    {
+      "id": "8tD41JIC-_s",
+      "segments": [
+        {
+          "text": "with graham and *mccain* and osama bin",
+          "location": 2723
+        }
+      ]
+    },
+    {
+      "id": "9sbvu6QbGFQ",
+      "segments": [
+        {
+          "text": "all has to do with john *mccain* and his",
+          "location": 714
+        },
+        {
+          "text": "they're saying this is about john *mccain*",
+          "location": 818
+        }
+      ]
+    },
+    {
+      "id": "aWDsJdeJWUY",
+      "segments": [
+        {
+          "text": "two is john *mccain* three is nancy pelosi",
+          "location": 834
+        },
+        {
+          "text": "john *mccain* 3h rc vc go ahead help bill",
+          "location": 853
+        },
+        {
+          "text": "*mccain* which is number two age rcbc",
+          "location": 865
+        }
+      ]
+    },
+    {
+      "id": "C9R-YD7lyhQ",
+      "segments": [
+        {
+          "text": "they call you *mccain* i did not support",
+          "location": 316
+        },
+        {
+          "text": "senator *mccain* in 2008 i voted for bob",
+          "location": 321
+        },
+        {
+          "text": "better than *mccain*",
+          "location": 335
+        },
+        {
+          "text": "i knew i knew at the time what *mccain*",
+          "location": 336
+        },
+        {
+          "text": "that agree about *mccain* but at the time",
+          "location": 355
+        },
+        {
+          "text": "just because i would not support *mccain*",
+          "location": 369
+        }
+      ]
+    },
+    {
+      "id": "D183UhhCkdY",
+      "segments": [
+        {
+          "text": "with the picture of john *mccain* which i",
+          "location": 508
+        }
+      ]
+    },
+    {
+      "id": "dgSTsrt-xX4",
+      "segments": [
+        {
+          "text": "talks about senator *mccain* michelle",
+          "location": 2573
+        }
+      ]
+    },
+    {
+      "id": "E_lX3ZHA37U",
+      "segments": [
+        {
+          "text": "all the key players *mccain* obama who",
+          "location": 2673
+        }
+      ]
+    },
+    {
+      "id": "e56SvLE_RGg",
+      "segments": [
+        {
+          "text": "or talking to john *mccain* well the last",
+          "location": 1399
+        },
+        {
+          "text": "talk to people like john *mccain* because",
+          "location": 1449
+        }
+      ]
+    },
+    {
+      "id": "eNUUqqwl0y4",
+      "segments": [
+        {
+          "text": "washington dc for the john *mccain*",
+          "location": 495
+        }
+      ]
+    },
+    {
+      "id": "ffMAs2enoSo",
+      "segments": [
+        {
+          "text": "no name hüseyin so between *mccain* and",
+          "location": 793
+        },
+        {
+          "text": "is *mccain*",
+          "location": 965
+        },
+        {
+          "text": "well when you click as *mccain* institute",
+          "location": 1186
+        },
+        {
+          "text": "page here's the *mccain* institute nicolas",
+          "location": 1188
+        },
+        {
+          "text": "the *mccain* institute's counterterrorism",
+          "location": 1196
+        },
+        {
+          "text": "*mccain* institute's counterterrorism",
+          "location": 1202
+        },
+        {
+          "text": "guy is now he's on the *mccain* institute",
+          "location": 1246
+        },
+        {
+          "text": "relationship to no name the *mccain*",
+          "location": 1424
+        },
+        {
+          "text": "with *mccain* and and for barack obama i",
+          "location": 1449
+        },
+        {
+          "text": "*mccain* brennan obama then you've got",
+          "location": 1458
+        },
+        {
+          "text": "*mccain* brennan comey and obama you see",
+          "location": 1462
+        },
+        {
+          "text": "no it wasn't it was for *mccain* brennan",
+          "location": 1466
+        },
+        {
+          "text": "*mccain* about the the dossier all right",
+          "location": 1544
+        },
+        {
+          "text": "brought up this fox news *mccain*",
+          "location": 1635
+        },
+        {
+          "text": "article that q has pointed us to *mccain*",
+          "location": 1656
+        },
+        {
+          "text": "*mccain* associate this is february 22nd",
+          "location": 1673
+        },
+        {
+          "text": "an article *mccain* associate takes fifth",
+          "location": 1676
+        },
+        {
+          "text": "senator john *mccain* has invoked his",
+          "location": 1714
+        },
+        {
+          "text": "republican senator john *mccain* of the",
+          "location": 1795
+        },
+        {
+          "text": "in november 2016 senator john *mccain*",
+          "location": 1839
+        },
+        {
+          "text": "*mccain* a fine man would insist he never",
+          "location": 1853
+        },
+        {
+          "text": "senator *mccain* along with the senator",
+          "location": 1942
+        },
+        {
+          "text": "sir andrew wood and *mccain* institute",
+          "location": 1946
+        },
+        {
+          "text": "records state *mccain* told cramer to get",
+          "location": 1953
+        },
+        {
+          "text": "senator *mccain* with hard copies in",
+          "location": 1961
+        },
+        {
+          "text": "january senator *mccain* gave a dossier to",
+          "location": 1963
+        },
+        {
+          "text": "john *mccain* about the controversial",
+          "location": 2018
+        },
+        {
+          "text": "*mccain* found out then he ordered mr.",
+          "location": 2086
+        },
+        {
+          "text": "february 22nd *mccain* that *mccain* that",
+          "location": 2104
+        },
+        {
+          "text": "*mccain* takes the fifth on the trump",
+          "location": 2110
+        },
+        {
+          "text": "have *mccain* associate shared unverified",
+          "location": 2125
+        },
+        {
+          "text": "senator john *mccain* an associate of his",
+          "location": 2135
+        },
+        {
+          "text": "reported that a top *mccain* associate",
+          "location": 2162
+        },
+        {
+          "text": "handling of the dossier *mccain* has",
+          "location": 2180
+        },
+        {
+          "text": "the filing *mccain* sent kramer told you",
+          "location": 2205
+        },
+        {
+          "text": "the *mccain* institute for international",
+          "location": 2211
+        },
+        {
+          "text": "the *mccain* institute write *mccain* had",
+          "location": 2219
+        },
+        {
+          "text": "the one i just read you *mccain* associate",
+          "location": 2392
+        },
+        {
+          "text": "*mccain* new shop buzzfeed news unlocks so",
+          "location": 2404
+        }
+      ]
+    },
+    {
+      "id": "Fqv09KbOBTs",
+      "segments": [
+        {
+          "text": "what *mccain* is saying oh that's fine i",
+          "location": 2822
+        }
+      ]
+    },
+    {
+      "id": "FRWbHgBA0d4",
+      "segments": [
+        {
+          "text": "photo collage posted reference to *mccain*",
+          "location": 2511
+        }
+      ]
+    },
+    {
+      "id": "GmFrEcyOCp0",
+      "segments": [
+        {
+          "text": "the john *mccain* to the pelosi to the",
+          "location": 1455
+        },
+        {
+          "text": "guys so pelosi *mccain* chuck schumer and",
+          "location": 1460
+        }
+      ]
+    },
+    {
+      "id": "GTFYwFVnXcQ",
+      "segments": [
+        {
+          "text": "iron eagle like john *mccain* or something",
+          "location": 1368
+        },
+        {
+          "text": "ask let's ask cia google john *mccain*",
+          "location": 1408
+        },
+        {
+          "text": "name is john *mccain* he told us that on",
+          "location": 1626
+        }
+      ]
+    },
+    {
+      "id": "Gv1ywPbHj-o",
+      "segments": [
+        {
+          "text": "the *mccain* institute and then no name",
+          "location": 2097
+        }
+      ]
+    },
+    {
+      "id": "gxQe3UABhx4",
+      "segments": [
+        {
+          "text": "*mccain* institute and the clinton",
+          "location": 308
+        }
+      ]
+    },
+    {
+      "id": "GYzjtOTWk-M",
+      "segments": [
+        {
+          "text": "passed to *mccain* and *mccain* leaked at",
+          "location": 1099
+        }
+      ]
+    },
+    {
+      "id": "h7lUMLj5xc8",
+      "segments": [
+        {
+          "text": "deal but so fbi director andrew *mccain*",
+          "location": 261
+        }
+      ]
+    },
+    {
+      "id": "hm7vb0wXijM",
+      "segments": [
+        {
+          "text": "*mccain* and then it goes through it goes",
+          "location": 1372
+        },
+        {
+          "text": "so basically *mccain* is new shopping he",
+          "location": 1380
+        },
+        {
+          "text": "wow i'll tell you what *mccain* associates",
+          "location": 1417
+        },
+        {
+          "text": "*mccain* and sure enough we hear it as",
+          "location": 1429
+        },
+        {
+          "text": "republican senator john *mccain* shared",
+          "location": 1434
+        },
+        {
+          "text": "so *mccain* is nala acknowledged giving",
+          "location": 1452
+        },
+        {
+          "text": "the filing *mccain* sent kramer a director",
+          "location": 1477
+        },
+        {
+          "text": "at the *mccain* institute for leadership",
+          "location": 1480
+        },
+        {
+          "text": "reporting the *mccain* institute did not",
+          "location": 1515
+        },
+        {
+          "text": "senator no-name *mccain* new shop buzzfeed",
+          "location": 1548
+        },
+        {
+          "text": "cute right so *mccain* associate shared",
+          "location": 1553
+        },
+        {
+          "text": "article again this *mccain* article ok",
+          "location": 2136
+        },
+        {
+          "text": "boy for senator john *mccain* in the trump",
+          "location": 2312
+        },
+        {
+          "text": "shell to christopher steele john *mccain*",
+          "location": 2559
+        }
+      ]
+    },
+    {
+      "id": "I0zqCx1naaM",
+      "segments": [
+        {
+          "text": "she been *mccain* i don't know you know",
+          "location": 358
+        }
+      ]
+    },
+    {
+      "id": "I3O-3gOOu7U",
+      "segments": [
+        {
+          "text": "new new developments in the *mccain* memo",
+          "location": 854
+        },
+        {
+          "text": "here at this time did i just say *mccain*",
+          "location": 857
+        },
+        {
+          "text": "but i said *mccain* but i meant the mccabe",
+          "location": 869
+        },
+        {
+          "text": "*mccain* was braiding his contemporaneous",
+          "location": 2683
+        }
+      ]
+    },
+    {
+      "id": "I5v4YoUjjhA",
+      "segments": [
+        {
+          "text": "*mccain* members of our country's free",
+          "location": 1238
+        }
+      ]
+    },
+    {
+      "id": "JPE9wHKtcOE",
+      "segments": [
+        {
+          "text": "name hussein so between *mccain* and okay",
+          "location": 2640
+        }
+      ]
+    },
+    {
+      "id": "KRGSqTF8gQs",
+      "segments": [
+        {
+          "text": "republican senator john *mccain* who",
+          "location": 2191
+        }
+      ]
+    },
+    {
+      "id": "Lvf3UmSv7hQ",
+      "segments": [
+        {
+          "text": "*mccain* whether it's president obama",
+          "location": 973
+        }
+      ]
+    },
+    {
+      "id": "M-OAIeWVUDM",
+      "segments": [
+        {
+          "text": "so between *mccain* and okay no name",
+          "location": 1700
+        },
+        {
+          "text": "that is *mccain*",
+          "location": 1870
+        }
+      ]
+    },
+    {
+      "id": "mqFZp6EQEoo",
+      "segments": [
+        {
+          "text": "is it's two people one hussein *mccain* hr",
+          "location": 2267
+        }
+      ]
+    },
+    {
+      "id": "MXdC-izUy0M",
+      "segments": [
+        {
+          "text": "taken about struck paige *mccain* and",
+          "location": 1784
+        }
+      ]
+    },
+    {
+      "id": "nhlRiZtgfsw",
+      "segments": [
+        {
+          "text": "like we did with john *mccain* we knew",
+          "location": 963
+        }
+      ]
+    },
+    {
+      "id": "O08ze6jltco",
+      "segments": [
+        {
+          "text": "did the same thing with *mccain*",
+          "location": 89
+        }
+      ]
+    },
+    {
+      "id": "o4mGsJ23IA4",
+      "segments": [
+        {
+          "text": "the information to senator john *mccain*",
+          "location": 904
+        }
+      ]
+    },
+    {
+      "id": "ow-WxWBd10M",
+      "segments": [
+        {
+          "text": "called the john *mccain* national defense",
+          "location": 797
+        }
+      ]
+    },
+    {
+      "id": "OZE1KEtsqaM",
+      "segments": [
+        {
+          "text": "letter about *mccain* investigated not",
+          "location": 128
+        },
+        {
+          "text": "his new book *mccain* even investigated",
+          "location": 140
+        }
+      ]
+    },
+    {
+      "id": "ozT-lj5XpsE",
+      "segments": [
+        {
+          "text": "news *mccain* warns us can act over the",
+          "location": 1749
+        },
+        {
+          "text": "senator john *mccain* ward sunday as he",
+          "location": 1775
+        },
+        {
+          "text": "repression of the demonstrators *mccain*",
+          "location": 1815
+        },
+        {
+          "text": "kiev after john *mccain* are you guys can",
+          "location": 2412
+        }
+      ]
+    },
+    {
+      "id": "P1q67rQAgdY",
+      "segments": [
+        {
+          "text": "name hussien so between *mccain* and okay",
+          "location": 1047
+        },
+        {
+          "text": "name okay we know who that is *mccain*",
+          "location": 1219
+        }
+      ]
+    },
+    {
+      "id": "pl0fwd-P78k",
+      "segments": [
+        {
+          "text": "*mccain* syrian terrorists se tf syrian",
+          "location": 155
+        },
+        {
+          "text": "*mccain* is in syria included general",
+          "location": 221
+        },
+        {
+          "text": "group *mccain* spokesman brian roger told",
+          "location": 255
+        },
+        {
+          "text": "john *mccain* leaving after he met with",
+          "location": 292
+        },
+        {
+          "text": "talking about john *mccain* okay and then",
+          "location": 314
+        },
+        {
+          "text": "*mccain* so let's talk about john *mccain*",
+          "location": 348
+        },
+        {
+          "text": "are who *mccain* posed with why doesn't",
+          "location": 611
+        },
+        {
+          "text": "formerly of s etf now works for *mccain*",
+          "location": 619
+        },
+        {
+          "text": "senator john *mccain* during the us senate",
+          "location": 680
+        },
+        {
+          "text": "john *mccain* isn't that lovely",
+          "location": 753
+        },
+        {
+          "text": "and *mccain* cite is evidence of why we",
+          "location": 764
+        },
+        {
+          "text": "*mccain* hires her as a legislative",
+          "location": 772
+        },
+        {
+          "text": "*mccain* senator coons general allen",
+          "location": 1387
+        },
+        {
+          "text": "john *mccain* and his association with",
+          "location": 1908
+        },
+        {
+          "text": "contractor for security for john *mccain*",
+          "location": 2157
+        }
+      ]
+    },
+    {
+      "id": "PS4IQx8T8ew",
+      "segments": [
+        {
+          "text": "admiral at john s *mccain* so mmm i'm",
+          "location": 1395
+        },
+        {
+          "text": "podesta group and tifa *mccain* institute",
+          "location": 1542
+        },
+        {
+          "text": "connects to john *mccain* and he was the",
+          "location": 1627
+        }
+      ]
+    },
+    {
+      "id": "QI-R7580Rsg",
+      "segments": [
+        {
+          "text": "general michael flynn mr. *mccain* is",
+          "location": 610
+        }
+      ]
+    },
+    {
+      "id": "qPj6F9EIiJ0",
+      "segments": [
+        {
+          "text": "*mccain* is what's happening here and",
+          "location": 808
+        }
+      ]
+    },
+    {
+      "id": "qTxF4G8Pv6k",
+      "segments": [
+        {
+          "text": "re-listen senator john *mccain* released a",
+          "location": 2470
+        }
+      ]
+    },
+    {
+      "id": "QYVw6lFa2Dw",
+      "segments": [
+        {
+          "text": "know named *mccain* chops it to buzzfeed",
+          "location": 1712
+        }
+      ]
+    },
+    {
+      "id": "QzRgzW-vIpY",
+      "segments": [
+        {
+          "text": "letter to don *mccain* who's the one who",
+          "location": 466
+        }
+      ]
+    },
+    {
+      "id": "RoXwhmL6yk8",
+      "segments": [
+        {
+          "text": "john *mccain* wouldn't that make a lot of",
+          "location": 1119
+        },
+        {
+          "text": "when did john *mccain* go when did john",
+          "location": 1126
+        },
+        {
+          "text": "john *mccain* go to lot to england to",
+          "location": 1133
+        },
+        {
+          "text": "ordinary citizen john *mccain* dispatched",
+          "location": 1164
+        },
+        {
+          "text": "supposedly *mccain* was in canada for some",
+          "location": 1179
+        },
+        {
+          "text": "sent senator john *mccain* and then the",
+          "location": 1197
+        },
+        {
+          "text": "fbi *mccain* ad put out a statement",
+          "location": 1198
+        },
+        {
+          "text": "john *mccain* he issued a new on statement",
+          "location": 1230
+        },
+        {
+          "text": "saying he did not give *mccain* the",
+          "location": 1233
+        },
+        {
+          "text": "but he did not deny telling *mccain* at",
+          "location": 1236
+        },
+        {
+          "text": "was then john *mccain* sent um sent his",
+          "location": 1240
+        },
+        {
+          "text": "like john *mccain* in that picture but you",
+          "location": 1514
+        }
+      ]
+    },
+    {
+      "id": "rYLOgFQPEZE",
+      "segments": [
+        {
+          "text": "page *mccain* and others involved in this",
+          "location": 867
+        }
+      ]
+    },
+    {
+      "id": "s1yQvbIWklg",
+      "segments": [
+        {
+          "text": "hedge that talks about *mccain* institute",
+          "location": 2274
+        },
+        {
+          "text": "starts talking about the *mccain* group",
+          "location": 2311
+        },
+        {
+          "text": "right the *mccain* group also accepted at",
+          "location": 2320
+        },
+        {
+          "text": "tweet from sidney *mccain* my heart is",
+          "location": 2357
+        },
+        {
+          "text": "you know john *mccain* didn't die and",
+          "location": 2555
+        }
+      ]
+    },
+    {
+      "id": "scnr8t3L4Wk",
+      "segments": [
+        {
+          "text": "*mccain* strop says i told him i'm sure we",
+          "location": 2427
+        }
+      ]
+    },
+    {
+      "id": "sK3cWjgBo50",
+      "segments": [
+        {
+          "text": "*mccain* and mitt romney oh okay there's",
+          "location": 1939
+        }
+      ]
+    },
+    {
+      "id": "Suful5k9TD0",
+      "segments": [
+        {
+          "text": "about john *mccain* about the pope having",
+          "location": 1042
+        }
+      ]
+    },
+    {
+      "id": "t8qFpNI6yEM",
+      "segments": [
+        {
+          "text": "we're talking *mccain* etc of known",
+          "location": 1956
+        }
+      ]
+    },
+    {
+      "id": "TEiHLbWSCjg",
+      "segments": [
+        {
+          "text": "arabia the *mccain* pelosi chuck schumer",
+          "location": 1238
+        }
+      ]
+    },
+    {
+      "id": "TFB_WmGDb68",
+      "segments": [
+        {
+          "text": "donated to try to find milo *mccain* kevin",
+          "location": 2310
+        }
+      ]
+    },
+    {
+      "id": "TXWLPzYNjgs",
+      "segments": [
+        {
+          "text": "say his name senator john *mccain* which",
+          "location": 1915
+        },
+        {
+          "text": "alright so john *mccain* shots the dossier",
+          "location": 1970
+        }
+      ]
+    },
+    {
+      "id": "uoZG3XG7t0k",
+      "segments": [
+        {
+          "text": "*mccain* institute donors and the obama",
+          "location": 718
+        },
+        {
+          "text": "here here's the *mccain* institute and",
+          "location": 733
+        },
+        {
+          "text": "foundations obama clinton *mccain*",
+          "location": 799
+        }
+      ]
+    },
+    {
+      "id": "UqfKAvJ94Pg",
+      "segments": [
+        {
+          "text": "question about the *mccain* funeral could",
+          "location": 2237
+        },
+        {
+          "text": "wanted to know your take on *mccain*",
+          "location": 2403
+        },
+        {
+          "text": "jennifer i wonder if *mccain* was part of",
+          "location": 2623
+        },
+        {
+          "text": "if so they would have me lately *mccain*",
+          "location": 2632
+        }
+      ]
+    },
+    {
+      "id": "vVfyUAbNzb8",
+      "segments": [
+        {
+          "text": "and john *mccain* coordinating to frame",
+          "location": 470
+        }
+      ]
+    },
+    {
+      "id": "vwEYKWtzgJE",
+      "segments": [
+        {
+          "text": "*mccain* obtained a foreign a foreign",
+          "location": 2230
+        }
+      ]
+    },
+    {
+      "id": "WVR_d33tydI",
+      "segments": [
+        {
+          "text": "*mccain* began his career as a special",
+          "location": 2385
+        }
+      ]
+    },
+    {
+      "id": "wyDr_3phD6A",
+      "segments": [
+        {
+          "text": "i'm the the *mccain* foundation all that",
+          "location": 856
+        }
+      ]
+    },
+    {
+      "id": "XddDHRwCA6Q",
+      "segments": [
+        {
+          "text": "whatever man drew *mccain* who became the",
+          "location": 2688
+        }
+      ]
+    },
+    {
+      "id": "XWrKp_tL4VE",
+      "segments": [
+        {
+          "text": "scheduled one *mccain* memos and mccade",
+          "location": 586
+        },
+        {
+          "text": "kramer the *mccain* guy loretta lynch",
+          "location": 1473
+        }
+      ]
+    },
+    {
+      "id": "YDZxU7hSkE8",
+      "segments": [
+        {
+          "text": "john *mccain* talked about a new world",
+          "location": 1031
+        },
+        {
+          "text": "senator john *mccain* has spoken out about",
+          "location": 1035
+        },
+        {
+          "text": "this john warren john *mccain* talking",
+          "location": 1045
+        }
+      ]
+    },
+    {
+      "id": "YVTrXMak0UU",
+      "segments": [
+        {
+          "text": "they're connected to john *mccain* but why",
+          "location": 1321
+        },
+        {
+          "text": "name john *mccain* should know better we",
+          "location": 1405
+        },
+        {
+          "text": "john *mccain* which i cannot yet do so i'm",
+          "location": 1473
+        },
+        {
+          "text": "here here um and as far as john *mccain*",
+          "location": 1495
+        }
+      ]
+    },
+    {
+      "id": "Z4i2A6q_4Rk",
+      "segments": [
+        {
+          "text": "we know john *mccain* was a obviously was",
+          "location": 2055
+        }
+      ]
+    },
+    {
+      "id": "Z4u2xZqZKn0",
+      "segments": [
+        {
+          "text": "*mccain* us senator one and senator to",
+          "location": 824
+        },
+        {
+          "text": "*mccain* diffusion gps perkins kobe",
+          "location": 1040
+        },
+        {
+          "text": "well right here no name media so *mccain*",
+          "location": 1067
+        },
+        {
+          "text": "palace pair breaking *mccain* coordinated",
+          "location": 1079
+        },
+        {
+          "text": "ahead of trump inauguration so *mccain*",
+          "location": 1091
+        },
+        {
+          "text": "*mccain* leaked to the media john brennan",
+          "location": 1128
+        }
+      ]
+    },
+    {
+      "id": "Zjr-J3FOvek",
+      "segments": [
+        {
+          "text": "andrew *mccain* to the us attorney was",
+          "location": 741
+        },
+        {
+          "text": "danny *mccain* the number two in the fbi",
+          "location": 1012
+        }
+      ]
+    },
+    {
+      "id": "ZMjEM7D61oo",
+      "segments": [
+        {
+          "text": "andy mccabe *mccain* rod rosenstein susan",
+          "location": 2224
+        }
+      ]
+    },
+    {
+      "id": "ZW_LiXGfSkA",
+      "segments": [
+        {
+          "text": "organize the deal so what if john *mccain*",
+          "location": 453
+        },
+        {
+          "text": "*mccain* that's why they don't say his",
+          "location": 716
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,896 @@
+{
+  "indexed": "_3_9jNnqSLs,_84VsnBpaBc,_93RNA5Ha70,_Awvc8QlDz4,_AxZQUqtJsA,_beFZDjQdW4,_doyaNsa-pQ,_eg0ITfj_qQ,_fY9I8Nv7Lw,_H1YgL0RznE,_jNixS1mbhw,_kjF5FIvGZw,_lCYmAZo7sw,_OomAKMJPOI,_pHvjJVPcN8,_VV3NsbBwrM,_wm27SsFDUI,--KGd8543KY,-A1QXJPxNKk,-AUYiNIOBIY,-bt0XdlECmo,-C_bR9GeDYg,-c86Aow016c,-HkaT32jmhw,-HlG0W6-vmE,-IrgjkkM6lQ,-jHFOTPlZaI,-jmPwHHE89E,-oQyw8s0S84,-sA7wkR8UB0,-tHxUIgbg7M,-UKFQbdZpPY,-ZZAkZpTXIQ,00CCQDR3fL4,00Hf7lUrPyc,04FOeZBZxc0,04ycuYtnGas,07BCgoDxBVE,0aFUemaJFVY,0E7DwReRt04,0huECwWFIsk,0I-VTk_zTqc,0kmuhPreeYY,0lVpfRdqKA0,0N8m2YJnPuo,0QO_xmRyaNk,0tERS6Uq4qA,0ujo6SQJ6LQ,1_9hcn4t38I,1A3qJWY3_L4,1dYaLq4QLQY,1E_KfRzWu0Q,1Etm_hTRVeA,1M9dy5DMI9E,1V4JzFqKaJc,22AU1lrH7Ls,2CP8xTCgtfE,2d5qlKFsZzA,2hW8LHTkStA,2j-qy0AIt7Y,2LufOwLiBis,2MiU_vQHuhQ,2PrXFlocDYU,2REUfU97jhs,2Ve67t_uOf4,2VYEiCqkRTI,2zi0PNq4bkk,30bOiqbusQ0,335wkvmX5vg,368sHIBHpAo,3aOeVRKLb4c,3DMaiyiS1Lg,3f4jGulfRwI,3g7lq9jPgWA,3U_ap4R6vdo,3Uj1_qSvQdM,4-_B_e26qMc,4-a_MvhVnC4,4-K7fN5Jk7s,400edNy_ni0,40ToCc712RQ,41HmC9YpFeo,43X77-0Mxk0,4eC5ShxBcFU,4FhT3SbVFis,4GaYnV7Fh8U,4I_5Onwb7Ss,4nh69vhSftk,4NMb5c7hbGQ,4UWUZQ0yrNI,4vf5cD_3FCY,5fRiEMjJMfw,5Gu5Z8hoE9c,5poquW251MU,5rSvzWuZKfg,5U4ZPlJjJdw,5Zw7tKJT9GM,6Dl7BqoQw7g,6FaHx01j-5s,6g0gWvCnyyY,6G3ESBGC_4k,6kxLuR_hc2g,6lIwy_rUGC4,6Md_28o7Y4U,6MUonL3L6Xo,6o4PE7BZEtk,6ophCz8lTCE,6Px52BhaPXo,6zPiSKXu20Q,7-39lGBwGf4,7425763TuLU,78Sy0Z0VE8w,7d5rqWzxayk,7Kvt9DCqM4E,7NumZVPxeUY,7TDCozqNzfo,7wdZ3Vcn63E,8-P2j0E4qmY,88yfd3QkbWc,8bFizNFJ65s,8gUUCnDw7bQ,8i_Pa6_mnMk,8I01RmblRoU,8j96g3074yQ,8rCRN8p-qaE,8vm-WMalEyA,92zIM-H_OlQ,9CSDk0QrrbI,9dnWjr2dwKE,9EbZMn-XIEM,9FB7DLvib8c,9HNRi_RNFJU,9HPGIpbOjLY,9hu6rgAp9RU,9i-fexWiOqM,9qdCetVazSw,9tIaPchdlx8,9UL4-qJIOIs,9W8NVIuNGfg,A_GyZMHraMw,A-L4oM1TviQ,A3T2487JWiQ,A5u9XLWx7O0,AAr6KmurWHk,abm5ilF5UEc,ABnoHIMGEtM,Adlk-Fd9Z3c,ahYQzAvhNjQ,AjoBJmFp23k,ajpeQ26EMVg,ameA5eNkxEk,ANc2YPRntzo,aouy1eOFILs,aQ3l5YiK2eA,AQ8yuh8tfKo,As9Fp3euKP0,aSaAYVvwTqI,ASj7Z_A6VvQ,ata21yb9Bnw,av_I5CbyFHM,AvSJQiTPr8U,AvssE-w5oes,aWx0FDWC_yQ,ax-fLACWZVQ,ax706dVg8Y4,AZE2QGS27Zc,B14_7XPCjGY,B1IA6YZ5B88,b9ATGOEE2Ak,Ba8wxZLp_c0,BAZP3_t6_3k,BBFwDktGjgU,bdhoF0WHkjw,BEh8VFQCFc4,BfpHBMhsPb4,BGBjHI5vEms,BGnTSKjizC8,BIyn24hd4_w,bk7ldBrVG6o,bKc6RQd54aQ,bmzZIhsUfO4,BNIFaLBvku4,BqwQEPGN54c,BrihPR8lAoI,BRnrQnLdWbU,BRxT9wJT67o,BttAEQuo6Qk,bXZvpE22ZFM,bY6kNlrb7lQ,C-7r58C0qiA,C0_JjTASDto,c0JKggUZ028,C6Q-GCX62ms,c8rd7yx1Asc,CArCwfHHacQ,cAY147Txzxg,CBv1Iy_E5lI,ceJRYVThNcs,CGLcVJUDwk0,cJNuWm8m3-Q,cJzaQc5diYs,cLYAbfJMQMw,cmvFQHqzYnY,cnkl7yadh5E,cO44KG0AMiY,CoXobUWxHXI,CrDv03cDYL0,CSeG9anxjpo,cugV1VK6jV4,cWwr5WpypZs,cZzJIudDGHI,db0BMqNo0Fg,DbZ0D6E7u4w,dcD2esCoW7o,der_2oCAjiM,dg3ISnKD6dA,DHxPqxERYX8,Dl6Cxeh_nyY,dLkmXjXZmMA,DOfyCq5xvZY,DQ0-oJrRr3Q,DRrAZZ0Iuyg,DRu4kDanXk0,DSCgUtdjUrY,DtN8mf93Te8,dTUApE4DU10,DUSRyUwm-gM,dVB86fl8t6M,dx7gs-krRjw,DXsYZZ1mzG4,dzAhAflB6s0,DZCdgZfalD4,E-KewVNO38M,E6E05M89Wd0,EDublqR_5JU,eGbYnP1Et30,EgNpxiRrPfw,EHa8I45qMMc,EhZ7udzTJ5o,eJ-otgb_tg8,EKc1-XVqxyI,ENkWUPcpOE0,EoiuSDSivh4,eP6hz4wmwFc,ER4g2Tb-HbA,ErCxjqBe6AU,EVU9bfki-LU,EwDzzFdFO1Q,ewMNDqpA4mA,EYCCXXkAPQA,F-BRTD3Csco,f-kKEyiVVwo,F6IYn4iGwjI,F9BclaKfoac,FcElJxMypMU,fcUXyrphxgA,Fi5OkAjc-vc,fib2sf26pOM,FIYTR5uoMNM,fNSUxHEPHtk,FPZQdrCD97U,fQ3X7xMypg8,ftWB7T3EVGU,fUc1es3e9-s,fUIVoeryTsI,fUW7hfoDEp8,fVgAazqQarI,FysQzQeY_2U,g0mnw3iFKrE,g0td3qUP-Nc,G63GWS9GxgA,GCgI2VkLr3w,gfrgrfzcuyY,GGcBiGMSPcI,GgzoQZAO6r0,gMMr8m85HQw,GQbjkSj7F-Y,GqeHEmbYy2A,gu0IbFpVdf4,GuO3hW25FKE,gwgOJbOgX9g,gXm_ysbwlSU,GXqikbjZydc,gzMCu9C85rM,H7USwoa5QqI,h9sI48iPRFs,H9zOSlnVz3A,HaGG5aApgTA,hby1lvnYnK8,hdeoc0uMPYI,hEgGt1t7Swk,hf_gZSt0kps,HgsDem-itYw,hj1p2Ni7h2I,Hk00p90xnj0,hLmfGwfjk00,hN7nl4JqClA,hqKg14dEylQ,Hr5x3sbooaw,hRIO6bWbfzk,Hshq59C2vM4,HVnUANzdJlI,hwFa7lTr0vs,hwus0Rr7K1s,HY1_ErPhaK8,I-P2lMBMdHE,I0KRAnljhBY,I0M73_jCMow,I3PAPJ6bsq8,id7jH-rT8Dk,IE_FgjUAnmQ,Ie4vh_uPrFU,IEX5TOERLgo,IgiJ8D3RoV4,IHVG77ZucUU,iJ6IqFUIhSo,IJo-J5O5QZE,IkR1zohQ9VE,IMO8zFbAu8c,iNHsUBsbRLI,InoVWK8a5H8,ipCkwQDxaiM,IQCa2padKIM,ISxeMvt3s4U,iTw-9Q3QGNA,ityzooj6Z9w,IvH-D2hhqyk,iZgbikWE7yA,j1KcS2TccCw,j5lsFf3cV9E,j7jtYUployI,J7WeQuZU-sc,J8a11EilEEk,JEFH6j-UIQA,JLgJq-b8aEI,jlK9AJcFB0A,jNVJSIuRb8Y,JR-MzJ6fDaE,jr3vL6Rmm7M,jYVdKNEZUHw,JzvUX4bFLAQ,k1h2g6fsFv0,K2qBcmowSQE,K4IUGJ3DHFM,K5gGbRYD6Ro,KcsnuRYS5tk,KCTu3nv8xE8,KFb4nHmut2s,kfF3pAHXj30,kff9xWbBCnw,Kg85wki662E,kI-t3mGWWQs,kQr4-Yxpz44,kQW9_GYatgs,kTPxvk1B0Hc,KWr5uJuObwU,ky2WjqFhjj4,l0bWGKuNsCI,L2V-1dQ0n-0,L6WDBPfLuYY,Lbo_WcwcFmU,lcg_yoIS1Yw,Lep0WYoe7Sc,LGLUpqfUuSQ,lHJn-XwhkpU,lHL-6-qYzQY,LHM4GEHUZBE,ljhVxvAbEhE,lJzeDEQ6J9Y,lkKlLAOTJPY,LNIFpbcg17o,lOqhbDn7RCY,lQNRIFpWuQc,lqpTLDqewPI,lsDYimKBWzA,Lsv1GMI7Ck8,LV1pXXsI89M,lvKy5X1zA8A,lXNYG17twtI,LYGkGtuCEb0,m_6bftMf-8w,M2Q_-pADhm0,M4w_xAOaGD0,MAo0HuH-dAU,MbUaLBD2cPo,mFLifAJZoAw,mftoxsrzl9w,MGFrzWikMsE,MHjNOIJB9gk,MIdOiZVZq04,MiI61UMtf70,mIZBPh3j_oY,MK6ZJ8Y7_H0,MKlHF7hjMrk,MmC4KQ5ScNw,MO0gwMl-0CE,MotM4c-nQCk,MQwsfj_ixMQ,msPHFMRkBiw,mVm_I7RZraE,MXAovKmB5WM,mY2TUO5kYCY,Myd3GRR65YY,myIQChpgtN8,mzB-9GoYb3Y,N24HKBWgwy0,Na0dF5v2y_M,nED5_AV8URQ,netc5DITbWA,NF1lpvcpWog,nflPhrkaSEk,nIUAOJQqMwk,njM4no6DIrU,NK6btC5LWAk,nL6EXjus6-o,nM09tCiEeb0,NNF1_g3HYYo,nPEGU2nR2dM,nSuGzA_p7yk,nTMFqovdXno,NVKSDQ8EhBY,ny_CoYXrcew,nZQlcxHjRuo,o1-igj3nuBE,O5S6Ej4K3Co,o7NRAlhjZks,OAEcYUOdGWo,oeIk7YrMXfs,oeWLBFiwB08,OfRZMNN35CI,oFxMHPaEKig,OG6qckEf1Eo,Ogn0lUtVB30,ok5Lw6UKVWA,OkRqFqfznRY,oTP78AH4vk0,OVZcBaBLAJM,OzSQPUNEX1Y,p-qXg_JfUUs,p-SzWzFERN8,p4vsdIhVLRE,PbD4kFH2GSw,pBod4miQ1po,PCImEJv37ZA,pEE6wSvIdH8,pFc4Sohzxyg,Pgb6pamGX9M,phSS8PbGX1E,Pi6FijU1qJw,pN8qgKZSxtg,PQFSD72x0Ic,pRyuXPFqxqA,pt1M-kl-atg,PtgW7xTG428,PXcEVOzCLJM,Py11WiNhEvU,q4DDiKob_gY,Q8NhENBNyyk,QeuDOlRTHB0,QF2rJkUKMrY,QhgNItzDV54,QKANTV1X-04,QmYwSijaoik,qRjUM6Fx7ww,r_JL8vekSoY,R_tIG5zyJ0g,R-6SIciSc4c,R1_b-Pf3KNw,R2dDhC-0etM,r2GFtcsNhTU,R5jcM1Zbm30,r6twJUsuSOI,R7Ar8OG3yuQ,rda35BHlMUs,RHKbO1krLQs,riiiqXFtw5c,RJVYmN0eAuI,RKx5ANX93fE,rLN6mMplynI,RMMzPYcKVpA,RoFZBVPep6s,rqF_NJF-1h8,RQPOQB8upmw,RRnSeDNg368,rrOKtWMvHQg,RRxTeVBpEZU,Rvnnpt0CYFE,s39MfWPR07c,S6ZgTlSGF8Q,S9lyhm543Sc,s9XPvUNIvsw,Sa2nt1B9JRQ,sb1c2oG54gw,scZT-cIPwkw,SFWSnU8dolk,SipMJtAXmJY,SIQDBcg8thM,SLlRyO6_xrI,SqJmoJANdrY,SsqfiC7M7Xc,swnXUdVp3Dc,SxlUgNSLqvo,T-rKedrhRyY,T4SaRz8JME8,T9RgEmAwhgI,TaouWXb0TOA,TgZrDSK3HGg,TIei7eta0uw,tM8Qd2nSMs4,TOGn8EBE7Q0,tP1dSZ4JDDQ,tQR__3LXOyE,tR-G27nl0zk,tR4LuV0lI5w,tRrvGSBqEnI,tsfFNiqDU5w,TTZ4ssYx7_M,TW0svE7k-yg,txtwyCMxpFc,TYcslztwl7o,TyNxd8tdMW4,tyxT-ZZnXUg,U_7e9KeYQ3Q,u2LPCIl5QMI,U5PQ2P0SXcU,U8ba9Dndv5M,uBmS5RboEs0,UE_6el_A3pw,ugXxmj3thCA,UhON5Y1TdCU,UhxdIJe1H0U,uHYiItvKEbc,ulaxUszIqYM,UN6ry1_HJis,uNeMTlW6n3s,UoXSkZZ7HTg,Up__8B8eMhw,uq_XBsBOanc,url3_C-M2S4,uX13WbNqlBU,UY3WagHWKCs,UYYMId_dlao,uzDHRbsZyzQ,v-5pNb0dSeo,v-7GiZjDJ_g,v75UxqTSd-U,VaaZ-HAptPw,VBqbbPcIwkA,Vd4za_x25zU,vDxIOTBR3AE,veCRl2F8JY4,Vh7dkYT_8Tk,vIk-VfKu7w0,vKC-7RdORbw,VMdIpZfmpRk,vn10WEyJ_C8,VNbFPI6evs4,VNvGLN7JB4I,Vqjcvl7OL_I,vsOoRbj5QtY,vuAa0Pn0z_k,VUb6IFyt-Q0,vuCmDgARMJw,VvB-9_zxEBA,VVGtkZD9TTU,vWKwO6XnBNE,VY2Nu-MZseQ,VY8HIV2tpLw,VzUVq1K6If0,w_bSXes3tCc,w1FgKkHknsg,W1JPXx4eckg,W1mtswcthVI,W46qLjiG6bE,W6sLZKBHAN0,wACjGwOYhBQ,WalYLpN970c,WBaZACYxsrA,wD66LPDIP20,wHCbeGaIG-8,wnAwPHXM9dg,wndjUTqAQgM,WnFXguaTIc0,wOJfbj4fCAg,WQfFVkWsfbo,WsP5mGcicWM,wvRjXXxowDk,Ww26APxpkJo,wWhS3QxK1wY,X0yOJO_Xq0o,X4yw71zwXCs,X6wfhEtWwyw,xAsEWayiYxM,XATzwG7VuiU,XBfY_vBDwWE,xC5t2QnzdgE,xcMo6bqu_xM,XfytSneFuow,XiV-gQtp71M,xMhsDlXJaG8,XMMKDHO9cDI,xNSqW2yOIzQ,xP1vq13Cudk,XpCHXFTmPY4,XpxhWQniTUM,xqa5koaMZN4,xtKRHEf4Qxo,XUJYVYMivj8,xuUifNY5Tb0,XVlnFC-iKME,xxLDbO_L3No,y7GsaCb87dw,yb2PreneQAM,yFBSt-ZUYvQ,ygE4GdXfgbs,yIQxcL6ayD4,yJ6pkGapoUE,YkQ8EIpvv4Q,ylnzIxBxkfA,ymS-qCPTgzQ,YnwfHRu_dsk,YTRfNb6HTkA,Yu6P4YYW0vs,yvjv45AjEI4,ywNsn7mkDKg,YyrXeXIzzZY,z3n6wC6HsXM,Z5Y49GjEPqg,z6FoTfoznUI,ZdUNq3UAQvw,ZGU-d6Ie7Bw,ZitpbhRc9pc,ZJArfdL13CQ,zjffrWDqrTw,ZKAJFutc098,ZKPKvVQ6F6g,zKQy0x_bOIY,ZLN7QmFf-7g,ZLsueURVgkI,zmYleuo1UjM,ZPNKcrhIFDg,zqNtRBF4bt4,ZrBZdi00St0,Zrjz_9qqKHU,zRnr5QcUqCQ,zV2LxHqOq-I,Zwfv2PVt1uw,zXPzz0FtjC4,zzVXx4mxt18,3fUXewJ5G70,p3x-cOMdhVI,IKkdg3u4Ud0,lp_zbwVefFQ",
+  "topic": "COVID-19",
+  "aliases": [
+    "corona",
+    "coronavirus",
+    "covid",
+    "covid 19"
+  ],
+  "hash": null,
+  "results": [
+    {
+      "id": "_84VsnBpaBc",
+      "segments": [
+        {
+          "text": "updated to include *corona* sauce included",
+          "location": 1913
+        },
+        {
+          "text": "humanity awakening *corona* hmm",
+          "location": 2600
+        },
+        {
+          "text": "*coronavirus* icu without a face mask",
+          "location": 2633
+        },
+        {
+          "text": "greatness *coronavirus* thank you for the",
+          "location": 2983
+        }
+      ]
+    },
+    {
+      "id": "_beFZDjQdW4",
+      "segments": [
+        {
+          "text": "she liked *corona* beer i told her it was",
+          "location": 874
+        },
+        {
+          "text": "time with advertisements for *corona* beer",
+          "location": 882
+        }
+      ]
+    },
+    {
+      "id": "-A1QXJPxNKk",
+      "segments": [
+        {
+          "text": "his the pope asked *coronavirus* the",
+          "location": 1499
+        },
+        {
+          "text": "*coronavirus* these people are dying i",
+          "location": 1503
+        },
+        {
+          "text": "don't think the *coronavirus* is what we",
+          "location": 1506
+        }
+      ]
+    },
+    {
+      "id": "-ZZAkZpTXIQ",
+      "segments": [
+        {
+          "text": "*corona* virus this is actually coming out",
+          "location": 69
+        },
+        {
+          "text": "that this *coronavirus* is nothing to be",
+          "location": 1598
+        },
+        {
+          "text": "see here very faintly that the *corona*",
+          "location": 1610
+        }
+      ]
+    },
+    {
+      "id": "2CP8xTCgtfE",
+      "segments": [
+        {
+          "text": "extent of the *corona* virus pandemic or",
+          "location": 651
+        },
+        {
+          "text": "*coronavirus* tracking numbers hopefully",
+          "location": 655
+        },
+        {
+          "text": "*coronavirus* latest updates says see all",
+          "location": 1358
+        },
+        {
+          "text": "after his *coronavirus* symptoms worsen",
+          "location": 1367
+        },
+        {
+          "text": "gates get arrested for the *corona* great",
+          "location": 1541
+        }
+      ]
+    },
+    {
+      "id": "3f4jGulfRwI",
+      "segments": [
+        {
+          "text": "*corona* virus saw it on a podcast thanks",
+          "location": 1559
+        },
+        {
+          "text": "cut by a *corona* scissors i can tell you",
+          "location": 3168
+        },
+        {
+          "text": "antic oh yeah *corona* says there's no",
+          "location": 3285
+        }
+      ]
+    },
+    {
+      "id": "3g7lq9jPgWA",
+      "segments": [
+        {
+          "text": "much will *coronavirus* impact what many",
+          "location": 301
+        },
+        {
+          "text": "will *corona* red to green very",
+          "location": 317
+        },
+        {
+          "text": "got *coronavirus* crazy they're both down",
+          "location": 621
+        }
+      ]
+    },
+    {
+      "id": "4GaYnV7Fh8U",
+      "segments": [
+        {
+          "text": "will be the new *corona* that says trump",
+          "location": 2610
+        },
+        {
+          "text": "and pence *corona* mask doesn't few days",
+          "location": 2623
+        },
+        {
+          "text": "gonna totally hold up the *coronavirus*",
+          "location": 2646
+        }
+      ]
+    },
+    {
+      "id": "4I_5Onwb7Ss",
+      "segments": [
+        {
+          "text": "from areas affected with the *coronavirus*",
+          "location": 1752
+        },
+        {
+          "text": "introduction and spread of the *corona*",
+          "location": 1878
+        },
+        {
+          "text": "*coronavirus* cases many of these",
+          "location": 1900
+        },
+        {
+          "text": "people safe from the *coronavirus* the",
+          "location": 1953
+        },
+        {
+          "text": "americans from the *corona* virus",
+          "location": 1983
+        },
+        {
+          "text": "travel related case of *coronavirus*",
+          "location": 2015
+        },
+        {
+          "text": "already fighting the *corona* virus",
+          "location": 2146
+        },
+        {
+          "text": "*corona* virus thank you mr. president for",
+          "location": 2161
+        },
+        {
+          "text": "spread of the *corona* virus and to keep",
+          "location": 2166
+        },
+        {
+          "text": "president the white house *coronavirus*",
+          "location": 2469
+        },
+        {
+          "text": "respond to the threat of the *coronavirus*",
+          "location": 2488
+        },
+        {
+          "text": "*coronavirus* as the president mentioned",
+          "location": 2545
+        },
+        {
+          "text": "*coronavirus* we have a policy of",
+          "location": 2663
+        },
+        {
+          "text": "struggling with the *coronavirus* but also",
+          "location": 2740
+        },
+        {
+          "text": "*coronavirus* and it'll also free up",
+          "location": 2762
+        },
+        {
+          "text": "from the *corona* virus remains low every",
+          "location": 2793
+        }
+      ]
+    },
+    {
+      "id": "5U4ZPlJjJdw",
+      "segments": [
+        {
+          "text": "president the white house *coronavirus*",
+          "location": 2895
+        },
+        {
+          "text": "potential for the *coronavirus* to impact",
+          "location": 2979
+        },
+        {
+          "text": "*coronavirus* guidelines and as you will",
+          "location": 3071
+        },
+        {
+          "text": "*corona* virus we want to we continue to",
+          "location": 3120
+        },
+        {
+          "text": "*coronavirus* and other illnesses in a",
+          "location": 3151
+        }
+      ]
+    },
+    {
+      "id": "9EbZMn-XIEM",
+      "segments": [
+        {
+          "text": "for your leadership during this *corona*",
+          "location": 3228
+        },
+        {
+          "text": "against the *corona* virus and those words",
+          "location": 3242
+        },
+        {
+          "text": "the *corona* virus since the very",
+          "location": 3346
+        },
+        {
+          "text": "options associated with *coronavirus* and",
+          "location": 3361
+        },
+        {
+          "text": "*coronavirus* and we're extremely",
+          "location": 3404
+        }
+      ]
+    },
+    {
+      "id": "ANc2YPRntzo",
+      "segments": [
+        {
+          "text": "and i think that under this *corona* virus",
+          "location": 362
+        }
+      ]
+    },
+    {
+      "id": "AQ8yuh8tfKo",
+      "segments": [
+        {
+          "text": "out i do not have *corona* i have a tickle",
+          "location": 244
+        }
+      ]
+    },
+    {
+      "id": "BAZP3_t6_3k",
+      "segments": [
+        {
+          "text": "box *coronavirus* will freeze up the us",
+          "location": 303
+        },
+        {
+          "text": "*corona* con devastates world economy all",
+          "location": 320
+        },
+        {
+          "text": "this *coronavirus* is a last-ditch gambit",
+          "location": 440
+        },
+        {
+          "text": "the *coronavirus* is dangerous it was",
+          "location": 472
+        }
+      ]
+    },
+    {
+      "id": "bY6kNlrb7lQ",
+      "segments": [
+        {
+          "text": "and wide spread it like the *corona*",
+          "location": 512
+        },
+        {
+          "text": "that tweet like the *corona*",
+          "location": 520
+        },
+        {
+          "text": "what is it christie alvarado *corona*",
+          "location": 610
+        },
+        {
+          "text": "that i tested for *coronavirus* no what do",
+          "location": 2437
+        },
+        {
+          "text": "suspected case of *coronavirus* they're",
+          "location": 2511
+        },
+        {
+          "text": "the state of emergency for *coronavirus*",
+          "location": 2533
+        },
+        {
+          "text": "up while *coronavirus* is perfect",
+          "location": 2609
+        },
+        {
+          "text": "*coronavirus* is the perfect way to keep",
+          "location": 2613
+        },
+        {
+          "text": "*corona* do you understand like that that",
+          "location": 2646
+        },
+        {
+          "text": "trojan horse and beat being *corona* the",
+          "location": 2915
+        }
+      ]
+    },
+    {
+      "id": "CArCwfHHacQ",
+      "segments": [
+        {
+          "text": "*coronavirus* crisis leads to riya",
+          "location": 528
+        },
+        {
+          "text": "current *coronavirus* crisis as a wake-up",
+          "location": 601
+        },
+        {
+          "text": "a member of the white house *coronavirus*",
+          "location": 660
+        },
+        {
+          "text": "*coronavirus* now look for other posts",
+          "location": 859
+        },
+        {
+          "text": "*coronavirus* pandemic has been to",
+          "location": 1708
+        },
+        {
+          "text": "new state and screenings for the *corona*",
+          "location": 1766
+        },
+        {
+          "text": "*coronavirus*",
+          "location": 2260
+        },
+        {
+          "text": "*corona* virus",
+          "location": 2295
+        },
+        {
+          "text": "let's see excuse me it's just *corona*",
+          "location": 3160
+        }
+      ]
+    },
+    {
+      "id": "CGLcVJUDwk0",
+      "segments": [
+        {
+          "text": "2017 or post confirming shutdown *corona*",
+          "location": 1928
+        },
+        {
+          "text": "my hunch that the *corona* is related to",
+          "location": 1931
+        },
+        {
+          "text": "2018 you can see *corona* *corona* *corona* 8",
+          "location": 1975
+        },
+        {
+          "text": "could be *corona* 16 tout tas crowd i i",
+          "location": 1985
+        },
+        {
+          "text": "these things off taking them out *corona*",
+          "location": 2018
+        },
+        {
+          "text": "dying from *coronavirus* does this sound",
+          "location": 2599
+        },
+        {
+          "text": "the global *coronavirus* outbreak he hates",
+          "location": 2627
+        },
+        {
+          "text": "*coronavirus* coverage absolutely the",
+          "location": 2659
+        }
+      ]
+    },
+    {
+      "id": "dx7gs-krRjw",
+      "segments": [
+        {
+          "text": "icu nurse about this *coronavirus* that i",
+          "location": 453
+        },
+        {
+          "text": "*coronavirus* patent i'll put it in the",
+          "location": 1186
+        },
+        {
+          "text": "the *coronavirus* is a species of viruses",
+          "location": 1305
+        },
+        {
+          "text": "belonging to the subfamily of *corona*",
+          "location": 1308
+        },
+        {
+          "text": "lays *corona* viruses are enveloped",
+          "location": 1320
+        },
+        {
+          "text": "symptoms of most *corona* viruses are",
+          "location": 1340
+        },
+        {
+          "text": "won't know whether you have a *corona*",
+          "location": 1355
+        },
+        {
+          "text": "oh you got the *coronavirus* have you seen",
+          "location": 1530
+        },
+        {
+          "text": "*corona* virus causes common cold no",
+          "location": 1691
+        },
+        {
+          "text": "*corona* virus in quotes is sweeping the",
+          "location": 1809
+        },
+        {
+          "text": "there's a patent for the *corona* virus it",
+          "location": 1814
+        }
+      ]
+    },
+    {
+      "id": "gfrgrfzcuyY",
+      "segments": [
+        {
+          "text": "patients testing negative for the *corona*",
+          "location": 1778
+        }
+      ]
+    },
+    {
+      "id": "hqKg14dEylQ",
+      "segments": [
+        {
+          "text": "one's in a panic don't be that *corona* oh",
+          "location": 305
+        }
+      ]
+    },
+    {
+      "id": "hRIO6bWbfzk",
+      "segments": [
+        {
+          "text": "*corona* one offline *corona* for offline so",
+          "location": 1020
+        },
+        {
+          "text": "are *corona* for what i want i wonder what",
+          "location": 1027
+        },
+        {
+          "text": "on a for offline *corona* eight reroute t",
+          "location": 1032
+        },
+        {
+          "text": "*corona* 16 tasks throughout seven or zi8",
+          "location": 1039
+        },
+        {
+          "text": "301 *corona* 69th wine queue so are these",
+          "location": 1043
+        },
+        {
+          "text": "what is *corona* are these satellites if",
+          "location": 1053
+        }
+      ]
+    },
+    {
+      "id": "lQNRIFpWuQc",
+      "segments": [
+        {
+          "text": "detailing the *corona* virus get out of",
+          "location": 1565
+        }
+      ]
+    },
+    {
+      "id": "M4w_xAOaGD0",
+      "segments": [
+        {
+          "text": "he doesn't have *coronavirus* that's true",
+          "location": 1831
+        },
+        {
+          "text": "getting the *corona* virus and i mean it",
+          "location": 1842
+        },
+        {
+          "text": "you're gonna get *coronavirus* and then",
+          "location": 2765
+        }
+      ]
+    },
+    {
+      "id": "MHjNOIJB9gk",
+      "segments": [
+        {
+          "text": "odd edge *corona* along the hairline",
+          "location": 1077
+        }
+      ]
+    },
+    {
+      "id": "msPHFMRkBiw",
+      "segments": [
+        {
+          "text": "looks like the *corona* my wife and",
+          "location": 1394
+        },
+        {
+          "text": "don't have *corona* in all honesty guys we",
+          "location": 2116
+        },
+        {
+          "text": "*coronavirus* task force met this morning",
+          "location": 2885
+        },
+        {
+          "text": "*corona* virus in the weeks and months",
+          "location": 3152
+        },
+        {
+          "text": "on dod's *coronavirus* up efforts as we",
+          "location": 3394
+        }
+      ]
+    },
+    {
+      "id": "nflPhrkaSEk",
+      "segments": [
+        {
+          "text": "targeted the *corona* 19 virus to go after",
+          "location": 705
+        }
+      ]
+    },
+    {
+      "id": "OAEcYUOdGWo",
+      "segments": [
+        {
+          "text": "*coronavirus* in six days 100 percent why",
+          "location": 2460
+        },
+        {
+          "text": "*coronavirus* in just six days we have",
+          "location": 2484
+        },
+        {
+          "text": "*corona* patients guys this is gonna be a",
+          "location": 2527
+        },
+        {
+          "text": "role in *corona*",
+          "location": 3137
+        }
+      ]
+    },
+    {
+      "id": "oTP78AH4vk0",
+      "segments": [
+        {
+          "text": "because of the *corona* virus and the",
+          "location": 641
+        },
+        {
+          "text": "*corona* virus this is the most hype",
+          "location": 643
+        },
+        {
+          "text": "from the *corona* virus they just whipping",
+          "location": 687
+        }
+      ]
+    },
+    {
+      "id": "pt1M-kl-atg",
+      "segments": [
+        {
+          "text": "our war against the *coronavirus* over 1",
+          "location": 1214
+        },
+        {
+          "text": "the *corona* virus and those that are not",
+          "location": 2819
+        },
+        {
+          "text": "people that need a *coronavirus* test",
+          "location": 2865
+        },
+        {
+          "text": "the *corona* virus pandemic and there are",
+          "location": 2998
+        }
+      ]
+    },
+    {
+      "id": "R-6SIciSc4c",
+      "segments": [
+        {
+          "text": "the cia servers *corona* satellites and",
+          "location": 447
+        }
+      ]
+    },
+    {
+      "id": "R1_b-Pf3KNw",
+      "segments": [
+        {
+          "text": "coincidence *coronavirus* rocket hits the",
+          "location": 998
+        }
+      ]
+    },
+    {
+      "id": "S9lyhm543Sc",
+      "segments": [
+        {
+          "text": "delivery rules a mid *corona*",
+          "location": 998
+        },
+        {
+          "text": "he says *coronavirus* and karna boris have",
+          "location": 1954
+        },
+        {
+          "text": "*coronavirus* bill passed yet",
+          "location": 2152
+        }
+      ]
+    },
+    {
+      "id": "tP1dSZ4JDDQ",
+      "segments": [
+        {
+          "text": "with sars like corn *coronavirus* after",
+          "location": 1115
+        },
+        {
+          "text": "with the *corona* virus for china the",
+          "location": 1130
+        }
+      ]
+    },
+    {
+      "id": "tQR__3LXOyE",
+      "segments": [
+        {
+          "text": "*coronavirus* is why i feel like i had",
+          "location": 3109
+        },
+        {
+          "text": "*coronavirus* is what was removed in that",
+          "location": 3113
+        },
+        {
+          "text": "*coronavirus* on the planes yeah yeah",
+          "location": 3129
+        },
+        {
+          "text": "yeah spreading *coronavirus* all across",
+          "location": 3145
+        }
+      ]
+    },
+    {
+      "id": "UoXSkZZ7HTg",
+      "segments": [
+        {
+          "text": "*coronavirus* even though they didn't",
+          "location": 974
+        },
+        {
+          "text": "malaria *coronavirus* stunning correlation",
+          "location": 1568
+        },
+        {
+          "text": "for the treatment of *corona* virus the",
+          "location": 1595
+        },
+        {
+          "text": "*corona* do virus is not survive so long",
+          "location": 1733
+        },
+        {
+          "text": "another *coronavirus* with similar",
+          "location": 1777
+        },
+        {
+          "text": "*coronavirus* in two weeks ago he was",
+          "location": 1853
+        },
+        {
+          "text": "*coronavirus* reminds you bad bad language",
+          "location": 1984
+        },
+        {
+          "text": "time of current the *coronavirus* the",
+          "location": 2645
+        },
+        {
+          "text": "aged dynamic to the *corona* that is going",
+          "location": 2772
+        },
+        {
+          "text": "attacking the *corona* you know what",
+          "location": 2896
+        }
+      ]
+    },
+    {
+      "id": "VBqbbPcIwkA",
+      "segments": [
+        {
+          "text": "239 sweetest *corona* is $25 is that what",
+          "location": 731
+        }
+      ]
+    },
+    {
+      "id": "VY8HIV2tpLw",
+      "segments": [
+        {
+          "text": "*corona* light and relax if we control the",
+          "location": 697
+        }
+      ]
+    },
+    {
+      "id": "xMhsDlXJaG8",
+      "segments": [
+        {
+          "text": "son remote-controlled says *corona* in my",
+          "location": 795
+        }
+      ]
+    },
+    {
+      "id": "xuUifNY5Tb0",
+      "segments": [
+        {
+          "text": "celebrity *corona* you know what fantasy",
+          "location": 555
+        }
+      ]
+    },
+    {
+      "id": "YkQ8EIpvv4Q",
+      "segments": [
+        {
+          "text": "disease speaking of that *coronavirus*",
+          "location": 622
+        },
+        {
+          "text": "and joining a cold *corona* get my mask",
+          "location": 647
+        },
+        {
+          "text": "but *corona* is an ff for sure maybe",
+          "location": 793
+        },
+        {
+          "text": "frosty frost no 17 drops on *corona* so",
+          "location": 833
+        },
+        {
+          "text": "right *coronavirus* max maximus don't be",
+          "location": 1569
+        },
+        {
+          "text": "*corona* right look at this",
+          "location": 1603
+        },
+        {
+          "text": "*corona* 8 rerouted *corona* 8 new control",
+          "location": 1606
+        },
+        {
+          "text": "*corona* 8 now offline you remember this",
+          "location": 1609
+        },
+        {
+          "text": "satellites offline *corona* 4 now offline",
+          "location": 1624
+        }
+      ]
+    },
+    {
+      "id": "Zwfv2PVt1uw",
+      "segments": [
+        {
+          "text": "channel about this *coronavirus* i don't",
+          "location": 3630
+        }
+      ]
+    },
+    {
+      "id": "IKkdg3u4Ud0",
+      "segments": [
+        {
+          "text": "out about the *coronavirus* numbers so i",
+          "location": 1281
+        },
+        {
+          "text": "from the *corona* virus which was 89 now",
+          "location": 1297
+        },
+        {
+          "text": "passed if i had the *corona* virus in my",
+          "location": 1331
+        },
+        {
+          "text": "a *corona* virus death under both",
+          "location": 1339
+        },
+        {
+          "text": "*coronavirus* press coverages and i just",
+          "location": 1489
+        }
+      ]
+    },
+    {
+      "id": "lp_zbwVefFQ",
+      "segments": [
+        {
+          "text": "*coronavirus* lucas life today at 22 years",
+          "location": 839
+        }
+      ]
+    }
+  ]
+}

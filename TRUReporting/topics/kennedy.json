@@ -1,0 +1,882 @@
+{
+  "indexed": "_3_9jNnqSLs,_84VsnBpaBc,_93RNA5Ha70,_Awvc8QlDz4,_AxZQUqtJsA,_beFZDjQdW4,_doyaNsa-pQ,_eg0ITfj_qQ,_fY9I8Nv7Lw,_H1YgL0RznE,_jNixS1mbhw,_kjF5FIvGZw,_lCYmAZo7sw,_OomAKMJPOI,_pHvjJVPcN8,_VV3NsbBwrM,_wm27SsFDUI,--KGd8543KY,-A1QXJPxNKk,-AUYiNIOBIY,-bt0XdlECmo,-C_bR9GeDYg,-c86Aow016c,-HkaT32jmhw,-HlG0W6-vmE,-IrgjkkM6lQ,-jHFOTPlZaI,-jmPwHHE89E,-oQyw8s0S84,-sA7wkR8UB0,-tHxUIgbg7M,-UKFQbdZpPY,-ZZAkZpTXIQ,00CCQDR3fL4,00Hf7lUrPyc,04FOeZBZxc0,04ycuYtnGas,07BCgoDxBVE,0aFUemaJFVY,0E7DwReRt04,0huECwWFIsk,0I-VTk_zTqc,0kmuhPreeYY,0lVpfRdqKA0,0N8m2YJnPuo,0QO_xmRyaNk,0tERS6Uq4qA,0ujo6SQJ6LQ,1_9hcn4t38I,1A3qJWY3_L4,1dYaLq4QLQY,1E_KfRzWu0Q,1Etm_hTRVeA,1M9dy5DMI9E,1V4JzFqKaJc,22AU1lrH7Ls,2CP8xTCgtfE,2d5qlKFsZzA,2hW8LHTkStA,2j-qy0AIt7Y,2LufOwLiBis,2MiU_vQHuhQ,2PrXFlocDYU,2REUfU97jhs,2Ve67t_uOf4,2VYEiCqkRTI,2zi0PNq4bkk,30bOiqbusQ0,335wkvmX5vg,368sHIBHpAo,3aOeVRKLb4c,3DMaiyiS1Lg,3f4jGulfRwI,3g7lq9jPgWA,3U_ap4R6vdo,3Uj1_qSvQdM,4-_B_e26qMc,4-a_MvhVnC4,4-K7fN5Jk7s,400edNy_ni0,40ToCc712RQ,41HmC9YpFeo,43X77-0Mxk0,4eC5ShxBcFU,4FhT3SbVFis,4GaYnV7Fh8U,4I_5Onwb7Ss,4nh69vhSftk,4NMb5c7hbGQ,4UWUZQ0yrNI,4vf5cD_3FCY,5fRiEMjJMfw,5Gu5Z8hoE9c,5poquW251MU,5rSvzWuZKfg,5U4ZPlJjJdw,5Zw7tKJT9GM,6Dl7BqoQw7g,6FaHx01j-5s,6g0gWvCnyyY,6G3ESBGC_4k,6kxLuR_hc2g,6lIwy_rUGC4,6Md_28o7Y4U,6MUonL3L6Xo,6o4PE7BZEtk,6ophCz8lTCE,6Px52BhaPXo,6zPiSKXu20Q,7-39lGBwGf4,7425763TuLU,78Sy0Z0VE8w,7d5rqWzxayk,7Kvt9DCqM4E,7NumZVPxeUY,7TDCozqNzfo,7wdZ3Vcn63E,8-P2j0E4qmY,88yfd3QkbWc,8bFizNFJ65s,8gUUCnDw7bQ,8i_Pa6_mnMk,8I01RmblRoU,8j96g3074yQ,8rCRN8p-qaE,8vm-WMalEyA,92zIM-H_OlQ,9CSDk0QrrbI,9dnWjr2dwKE,9EbZMn-XIEM,9FB7DLvib8c,9HNRi_RNFJU,9HPGIpbOjLY,9hu6rgAp9RU,9i-fexWiOqM,9qdCetVazSw,9tIaPchdlx8,9UL4-qJIOIs,9W8NVIuNGfg,A_GyZMHraMw,A-L4oM1TviQ,A3T2487JWiQ,A5u9XLWx7O0,AAr6KmurWHk,abm5ilF5UEc,ABnoHIMGEtM,Adlk-Fd9Z3c,ahYQzAvhNjQ,AjoBJmFp23k,ajpeQ26EMVg,ameA5eNkxEk,ANc2YPRntzo,aouy1eOFILs,aQ3l5YiK2eA,AQ8yuh8tfKo,As9Fp3euKP0,aSaAYVvwTqI,ASj7Z_A6VvQ,ata21yb9Bnw,av_I5CbyFHM,AvSJQiTPr8U,AvssE-w5oes,aWx0FDWC_yQ,ax-fLACWZVQ,ax706dVg8Y4,AZE2QGS27Zc,B14_7XPCjGY,B1IA6YZ5B88,b9ATGOEE2Ak,Ba8wxZLp_c0,BAZP3_t6_3k,BBFwDktGjgU,bdhoF0WHkjw,BEh8VFQCFc4,BfpHBMhsPb4,BGBjHI5vEms,BGnTSKjizC8,BIyn24hd4_w,bk7ldBrVG6o,bKc6RQd54aQ,bmzZIhsUfO4,BNIFaLBvku4,BqwQEPGN54c,BrihPR8lAoI,BRnrQnLdWbU,BRxT9wJT67o,BttAEQuo6Qk,bXZvpE22ZFM,bY6kNlrb7lQ,C-7r58C0qiA,C0_JjTASDto,c0JKggUZ028,C6Q-GCX62ms,c8rd7yx1Asc,CArCwfHHacQ,cAY147Txzxg,CBv1Iy_E5lI,ceJRYVThNcs,CGLcVJUDwk0,cJNuWm8m3-Q,cJzaQc5diYs,cLYAbfJMQMw,cmvFQHqzYnY,cnkl7yadh5E,cO44KG0AMiY,CoXobUWxHXI,CrDv03cDYL0,CSeG9anxjpo,cugV1VK6jV4,cWwr5WpypZs,cZzJIudDGHI,db0BMqNo0Fg,DbZ0D6E7u4w,dcD2esCoW7o,der_2oCAjiM,dg3ISnKD6dA,DHxPqxERYX8,Dl6Cxeh_nyY,dLkmXjXZmMA,DOfyCq5xvZY,DQ0-oJrRr3Q,DRrAZZ0Iuyg,DRu4kDanXk0,DSCgUtdjUrY,DtN8mf93Te8,dTUApE4DU10,DUSRyUwm-gM,dVB86fl8t6M,dx7gs-krRjw,DXsYZZ1mzG4,dzAhAflB6s0,DZCdgZfalD4,E-KewVNO38M,E6E05M89Wd0,EDublqR_5JU,eGbYnP1Et30,EgNpxiRrPfw,EHa8I45qMMc,EhZ7udzTJ5o,eJ-otgb_tg8,EKc1-XVqxyI,ENkWUPcpOE0,EoiuSDSivh4,eP6hz4wmwFc,ER4g2Tb-HbA,ErCxjqBe6AU,EVU9bfki-LU,EwDzzFdFO1Q,ewMNDqpA4mA,EYCCXXkAPQA,F-BRTD3Csco,f-kKEyiVVwo,F6IYn4iGwjI,F9BclaKfoac,FcElJxMypMU,fcUXyrphxgA,Fi5OkAjc-vc,fib2sf26pOM,FIYTR5uoMNM,fNSUxHEPHtk,FPZQdrCD97U,fQ3X7xMypg8,ftWB7T3EVGU,fUc1es3e9-s,fUIVoeryTsI,fUW7hfoDEp8,fVgAazqQarI,FysQzQeY_2U,g0mnw3iFKrE,g0td3qUP-Nc,G63GWS9GxgA,GCgI2VkLr3w,gfrgrfzcuyY,GGcBiGMSPcI,GgzoQZAO6r0,gMMr8m85HQw,GQbjkSj7F-Y,GqeHEmbYy2A,gu0IbFpVdf4,GuO3hW25FKE,gwgOJbOgX9g,gXm_ysbwlSU,GXqikbjZydc,gzMCu9C85rM,H7USwoa5QqI,h9sI48iPRFs,H9zOSlnVz3A,HaGG5aApgTA,hby1lvnYnK8,hdeoc0uMPYI,hEgGt1t7Swk,hf_gZSt0kps,HgsDem-itYw,hj1p2Ni7h2I,Hk00p90xnj0,hLmfGwfjk00,hN7nl4JqClA,hqKg14dEylQ,Hr5x3sbooaw,hRIO6bWbfzk,Hshq59C2vM4,HVnUANzdJlI,hwFa7lTr0vs,hwus0Rr7K1s,HY1_ErPhaK8,I-P2lMBMdHE,I0KRAnljhBY,I0M73_jCMow,I3PAPJ6bsq8,id7jH-rT8Dk,IE_FgjUAnmQ,Ie4vh_uPrFU,IEX5TOERLgo,IgiJ8D3RoV4,IHVG77ZucUU,iJ6IqFUIhSo,IJo-J5O5QZE,IkR1zohQ9VE,IMO8zFbAu8c,iNHsUBsbRLI,InoVWK8a5H8,ipCkwQDxaiM,IQCa2padKIM,ISxeMvt3s4U,iTw-9Q3QGNA,ityzooj6Z9w,IvH-D2hhqyk,iZgbikWE7yA,j1KcS2TccCw,j5lsFf3cV9E,j7jtYUployI,J7WeQuZU-sc,J8a11EilEEk,JEFH6j-UIQA,JLgJq-b8aEI,jlK9AJcFB0A,jNVJSIuRb8Y,JR-MzJ6fDaE,jr3vL6Rmm7M,jYVdKNEZUHw,JzvUX4bFLAQ,k1h2g6fsFv0,K2qBcmowSQE,K4IUGJ3DHFM,K5gGbRYD6Ro,KcsnuRYS5tk,KCTu3nv8xE8,KFb4nHmut2s,kfF3pAHXj30,kff9xWbBCnw,Kg85wki662E,kI-t3mGWWQs,kQr4-Yxpz44,kQW9_GYatgs,kTPxvk1B0Hc,KWr5uJuObwU,ky2WjqFhjj4,l0bWGKuNsCI,L2V-1dQ0n-0,L6WDBPfLuYY,Lbo_WcwcFmU,lcg_yoIS1Yw,Lep0WYoe7Sc,LGLUpqfUuSQ,lHJn-XwhkpU,lHL-6-qYzQY,LHM4GEHUZBE,ljhVxvAbEhE,lJzeDEQ6J9Y,lkKlLAOTJPY,LNIFpbcg17o,lOqhbDn7RCY,lQNRIFpWuQc,lqpTLDqewPI,lsDYimKBWzA,Lsv1GMI7Ck8,LV1pXXsI89M,lvKy5X1zA8A,lXNYG17twtI,LYGkGtuCEb0,m_6bftMf-8w,M2Q_-pADhm0,M4w_xAOaGD0,MAo0HuH-dAU,MbUaLBD2cPo,mFLifAJZoAw,mftoxsrzl9w,MGFrzWikMsE,MHjNOIJB9gk,MIdOiZVZq04,MiI61UMtf70,mIZBPh3j_oY,MK6ZJ8Y7_H0,MKlHF7hjMrk,MmC4KQ5ScNw,MO0gwMl-0CE,MotM4c-nQCk,MQwsfj_ixMQ,msPHFMRkBiw,mVm_I7RZraE,MXAovKmB5WM,mY2TUO5kYCY,Myd3GRR65YY,myIQChpgtN8,mzB-9GoYb3Y,N24HKBWgwy0,Na0dF5v2y_M,nED5_AV8URQ,netc5DITbWA,NF1lpvcpWog,nflPhrkaSEk,nIUAOJQqMwk,njM4no6DIrU,NK6btC5LWAk,nL6EXjus6-o,nM09tCiEeb0,NNF1_g3HYYo,nPEGU2nR2dM,nSuGzA_p7yk,nTMFqovdXno,NVKSDQ8EhBY,ny_CoYXrcew,nZQlcxHjRuo,o1-igj3nuBE,O5S6Ej4K3Co,o7NRAlhjZks,OAEcYUOdGWo,oeIk7YrMXfs,oeWLBFiwB08,OfRZMNN35CI,oFxMHPaEKig,OG6qckEf1Eo,Ogn0lUtVB30,ok5Lw6UKVWA,OkRqFqfznRY,oTP78AH4vk0,OVZcBaBLAJM,OzSQPUNEX1Y,p-qXg_JfUUs,p-SzWzFERN8,p4vsdIhVLRE,PbD4kFH2GSw,pBod4miQ1po,PCImEJv37ZA,pEE6wSvIdH8,pFc4Sohzxyg,Pgb6pamGX9M,phSS8PbGX1E,Pi6FijU1qJw,pN8qgKZSxtg,PQFSD72x0Ic,pRyuXPFqxqA,pt1M-kl-atg,PtgW7xTG428,PXcEVOzCLJM,Py11WiNhEvU,q4DDiKob_gY,Q8NhENBNyyk,QeuDOlRTHB0,QF2rJkUKMrY,QhgNItzDV54,QKANTV1X-04,QmYwSijaoik,qRjUM6Fx7ww,r_JL8vekSoY,R_tIG5zyJ0g,R-6SIciSc4c,R1_b-Pf3KNw,R2dDhC-0etM,r2GFtcsNhTU,R5jcM1Zbm30,r6twJUsuSOI,R7Ar8OG3yuQ,rda35BHlMUs,RHKbO1krLQs,riiiqXFtw5c,RJVYmN0eAuI,RKx5ANX93fE,rLN6mMplynI,RMMzPYcKVpA,RoFZBVPep6s,rqF_NJF-1h8,RQPOQB8upmw,RRnSeDNg368,rrOKtWMvHQg,RRxTeVBpEZU,Rvnnpt0CYFE,s39MfWPR07c,S6ZgTlSGF8Q,S9lyhm543Sc,s9XPvUNIvsw,Sa2nt1B9JRQ,sb1c2oG54gw,scZT-cIPwkw,SFWSnU8dolk,SipMJtAXmJY,SIQDBcg8thM,SLlRyO6_xrI,SqJmoJANdrY,SsqfiC7M7Xc,swnXUdVp3Dc,SxlUgNSLqvo,T-rKedrhRyY,T4SaRz8JME8,T9RgEmAwhgI,TaouWXb0TOA,TgZrDSK3HGg,TIei7eta0uw,tM8Qd2nSMs4,TOGn8EBE7Q0,tP1dSZ4JDDQ,tQR__3LXOyE,tR-G27nl0zk,tR4LuV0lI5w,tRrvGSBqEnI,tsfFNiqDU5w,TTZ4ssYx7_M,TW0svE7k-yg,txtwyCMxpFc,TYcslztwl7o,TyNxd8tdMW4,tyxT-ZZnXUg,U_7e9KeYQ3Q,u2LPCIl5QMI,U5PQ2P0SXcU,U8ba9Dndv5M,uBmS5RboEs0,UE_6el_A3pw,ugXxmj3thCA,UhON5Y1TdCU,UhxdIJe1H0U,uHYiItvKEbc,ulaxUszIqYM,UN6ry1_HJis,uNeMTlW6n3s,UoXSkZZ7HTg,Up__8B8eMhw,uq_XBsBOanc,url3_C-M2S4,uX13WbNqlBU,UY3WagHWKCs,UYYMId_dlao,uzDHRbsZyzQ,v-5pNb0dSeo,v-7GiZjDJ_g,v75UxqTSd-U,VaaZ-HAptPw,VBqbbPcIwkA,Vd4za_x25zU,vDxIOTBR3AE,veCRl2F8JY4,Vh7dkYT_8Tk,vIk-VfKu7w0,vKC-7RdORbw,VMdIpZfmpRk,vn10WEyJ_C8,VNbFPI6evs4,VNvGLN7JB4I,Vqjcvl7OL_I,vsOoRbj5QtY,vuAa0Pn0z_k,VUb6IFyt-Q0,vuCmDgARMJw,VvB-9_zxEBA,VVGtkZD9TTU,vWKwO6XnBNE,VY2Nu-MZseQ,VY8HIV2tpLw,VzUVq1K6If0,w_bSXes3tCc,w1FgKkHknsg,W1JPXx4eckg,W1mtswcthVI,W46qLjiG6bE,W6sLZKBHAN0,wACjGwOYhBQ,WalYLpN970c,WBaZACYxsrA,wD66LPDIP20,wHCbeGaIG-8,wnAwPHXM9dg,wndjUTqAQgM,WnFXguaTIc0,wOJfbj4fCAg,WQfFVkWsfbo,WsP5mGcicWM,wvRjXXxowDk,Ww26APxpkJo,wWhS3QxK1wY,X0yOJO_Xq0o,X4yw71zwXCs,X6wfhEtWwyw,xAsEWayiYxM,XATzwG7VuiU,XBfY_vBDwWE,xC5t2QnzdgE,xcMo6bqu_xM,XfytSneFuow,XiV-gQtp71M,xMhsDlXJaG8,XMMKDHO9cDI,xNSqW2yOIzQ,xP1vq13Cudk,XpCHXFTmPY4,XpxhWQniTUM,xqa5koaMZN4,xtKRHEf4Qxo,XUJYVYMivj8,xuUifNY5Tb0,XVlnFC-iKME,xxLDbO_L3No,y7GsaCb87dw,yb2PreneQAM,yFBSt-ZUYvQ,ygE4GdXfgbs,yIQxcL6ayD4,yJ6pkGapoUE,YkQ8EIpvv4Q,ylnzIxBxkfA,ymS-qCPTgzQ,YnwfHRu_dsk,YTRfNb6HTkA,Yu6P4YYW0vs,yvjv45AjEI4,ywNsn7mkDKg,YyrXeXIzzZY,z3n6wC6HsXM,Z5Y49GjEPqg,z6FoTfoznUI,ZdUNq3UAQvw,ZGU-d6Ie7Bw,ZitpbhRc9pc,ZJArfdL13CQ,zjffrWDqrTw,ZKAJFutc098,ZKPKvVQ6F6g,zKQy0x_bOIY,ZLN7QmFf-7g,ZLsueURVgkI,zmYleuo1UjM,ZPNKcrhIFDg,zqNtRBF4bt4,ZrBZdi00St0,Zrjz_9qqKHU,zRnr5QcUqCQ,zV2LxHqOq-I,Zwfv2PVt1uw,zXPzz0FtjC4,zzVXx4mxt18,3fUXewJ5G70,p3x-cOMdhVI,IKkdg3u4Ud0,lp_zbwVefFQ",
+  "topic": "Kennedy",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_93RNA5Ha70",
+      "segments": [
+        {
+          "text": "oh roberts robert *kennedy* what's his",
+          "location": 1023
+        }
+      ]
+    },
+    {
+      "id": "--KGd8543KY",
+      "segments": [
+        {
+          "text": "one and move forward edward *kennedy* beau",
+          "location": 725
+        },
+        {
+          "text": "face better prospects than *kennedy* so i",
+          "location": 954
+        },
+        {
+          "text": "m *kennedy* in 2009 so this gentleman says",
+          "location": 976
+        }
+      ]
+    },
+    {
+      "id": "-HkaT32jmhw",
+      "segments": [
+        {
+          "text": "supposedly john f *kennedy* juniors was be",
+          "location": 489
+        }
+      ]
+    },
+    {
+      "id": "0E7DwReRt04",
+      "segments": [
+        {
+          "text": "gonna be honest if john f *kennedy* jr. is",
+          "location": 1273
+        }
+      ]
+    },
+    {
+      "id": "3f4jGulfRwI",
+      "segments": [
+        {
+          "text": "*kennedy* center still in the bill i know",
+          "location": 2664
+        },
+        {
+          "text": "*kennedy* kids singing i did i saw that",
+          "location": 2739
+        },
+        {
+          "text": "*kennedy* was killed by papa bush because",
+          "location": 2922
+        }
+      ]
+    },
+    {
+      "id": "4GaYnV7Fh8U",
+      "segments": [
+        {
+          "text": "the *kennedy* kids that come out on",
+          "location": 3089
+        }
+      ]
+    },
+    {
+      "id": "4nh69vhSftk",
+      "segments": [
+        {
+          "text": "forrestal byrd and *kennedy* now let me",
+          "location": 1769
+        }
+      ]
+    },
+    {
+      "id": "5rSvzWuZKfg",
+      "segments": [
+        {
+          "text": "assassinating john f *kennedy* so good",
+          "location": 420
+        },
+        {
+          "text": "planes thank jf *kennedy* jr. think remote",
+          "location": 801
+        }
+      ]
+    },
+    {
+      "id": "6lIwy_rUGC4",
+      "segments": [
+        {
+          "text": "*kennedy* jr. there's a lot you know",
+          "location": 367
+        },
+        {
+          "text": "it's insane to think that john f *kennedy*",
+          "location": 674
+        }
+      ]
+    },
+    {
+      "id": "7d5rqWzxayk",
+      "segments": [
+        {
+          "text": "majority *kennedy* and roberts equal no",
+          "location": 226
+        }
+      ]
+    },
+    {
+      "id": "7NumZVPxeUY",
+      "segments": [
+        {
+          "text": "john f *kennedy* we will succeed pyramid",
+          "location": 363
+        }
+      ]
+    },
+    {
+      "id": "9FB7DLvib8c",
+      "segments": [
+        {
+          "text": "is right there john f *kennedy* jr. plays",
+          "location": 1332
+        }
+      ]
+    },
+    {
+      "id": "9qdCetVazSw",
+      "segments": [
+        {
+          "text": "that this could be *kennedy* jr. it says",
+          "location": 568
+        }
+      ]
+    },
+    {
+      "id": "ABnoHIMGEtM",
+      "segments": [
+        {
+          "text": "that was *kennedy* and three obama had a",
+          "location": 1756
+        }
+      ]
+    },
+    {
+      "id": "ASj7Z_A6VvQ",
+      "segments": [
+        {
+          "text": "martha's vineyard airport *kennedy* house",
+          "location": 144
+        }
+      ]
+    },
+    {
+      "id": "AvSJQiTPr8U",
+      "segments": [
+        {
+          "text": "*kennedy* in the neck okay i also don't",
+          "location": 1967
+        }
+      ]
+    },
+    {
+      "id": "BBFwDktGjgU",
+      "segments": [
+        {
+          "text": "jacqueline *kennedy* his last deal that he",
+          "location": 1591
+        }
+      ]
+    },
+    {
+      "id": "BNIFaLBvku4",
+      "segments": [
+        {
+          "text": "past pictures of john f *kennedy* juniors",
+          "location": 197
+        }
+      ]
+    },
+    {
+      "id": "c0JKggUZ028",
+      "segments": [
+        {
+          "text": "the *kennedy* is the atomic bomb",
+          "location": 1165
+        }
+      ]
+    },
+    {
+      "id": "cugV1VK6jV4",
+      "segments": [
+        {
+          "text": "this is even crazier vincent *kennedy*",
+          "location": 1413
+        },
+        {
+          "text": "this person on twitter vincent *kennedy*",
+          "location": 1420
+        }
+      ]
+    },
+    {
+      "id": "EhZ7udzTJ5o",
+      "segments": [
+        {
+          "text": "massive and this is from vincent *kennedy*",
+          "location": 1325
+        }
+      ]
+    },
+    {
+      "id": "ER4g2Tb-HbA",
+      "segments": [
+        {
+          "text": "people say he's john f *kennedy* jr. start",
+          "location": 868
+        },
+        {
+          "text": "and panic and speaking of john f *kennedy*",
+          "location": 879
+        },
+        {
+          "text": "john f *kennedy* jr. was giving attached",
+          "location": 889
+        },
+        {
+          "text": "voice sounds a lot like john f *kennedy*",
+          "location": 908
+        },
+        {
+          "text": "*kennedy* jr. so wow why don't you fill me",
+          "location": 934
+        }
+      ]
+    },
+    {
+      "id": "fcUXyrphxgA",
+      "segments": [
+        {
+          "text": "*kennedy* could run a successful",
+          "location": 886
+        }
+      ]
+    },
+    {
+      "id": "FPZQdrCD97U",
+      "segments": [
+        {
+          "text": "john f *kennedy* airport",
+          "location": 111
+        },
+        {
+          "text": "*kennedy* international airport undergoing",
+          "location": 118
+        }
+      ]
+    },
+    {
+      "id": "fUIVoeryTsI",
+      "segments": [
+        {
+          "text": "all patriots you know john f *kennedy* was",
+          "location": 1555
+        }
+      ]
+    },
+    {
+      "id": "GCgI2VkLr3w",
+      "segments": [
+        {
+          "text": "swallowed vincent *kennedy* or john f",
+          "location": 1118
+        },
+        {
+          "text": "*kennedy* jr. i'm on twitter or raising",
+          "location": 1121
+        },
+        {
+          "text": "what you know *kennedy* was talking about",
+          "location": 1638
+        }
+      ]
+    },
+    {
+      "id": "gwgOJbOgX9g",
+      "segments": [
+        {
+          "text": "*kennedy* jr. and the correlations between",
+          "location": 16
+        },
+        {
+          "text": "what's been coming out with john *kennedy*",
+          "location": 65
+        },
+        {
+          "text": "is john f *kennedy* jr. and just you know",
+          "location": 514
+        },
+        {
+          "text": "july 16th the day of john f *kennedy* jr.",
+          "location": 665
+        },
+        {
+          "text": "with john f *kennedy* and john f *kennedy*",
+          "location": 750
+        },
+        {
+          "text": "*kennedy* center",
+          "location": 1195
+        },
+        {
+          "text": "here we see john f *kennedy* juniors wife",
+          "location": 1669
+        },
+        {
+          "text": "*kennedy* juniors wife that is the same",
+          "location": 1674
+        },
+        {
+          "text": "see the picture of john f *kennedy* jr.",
+          "location": 1706
+        },
+        {
+          "text": "down here these are john f *kennedy* jr.",
+          "location": 1723
+        },
+        {
+          "text": "is validating that john f *kennedy* jr.",
+          "location": 1780
+        }
+      ]
+    },
+    {
+      "id": "gXm_ysbwlSU",
+      "segments": [
+        {
+          "text": "right john f *kennedy* told us about it",
+          "location": 2474
+        }
+      ]
+    },
+    {
+      "id": "hLmfGwfjk00",
+      "segments": [
+        {
+          "text": "f *kennedy* but they got to him now in",
+          "location": 340
+        }
+      ]
+    },
+    {
+      "id": "HVnUANzdJlI",
+      "segments": [
+        {
+          "text": "is his name robert *kennedy* john f",
+          "location": 698
+        },
+        {
+          "text": "*kennedy* jr. in the stands unbelievable",
+          "location": 700
+        },
+        {
+          "text": "*kennedy* facebook absolutely sorry i love",
+          "location": 784
+        },
+        {
+          "text": "fitzgerald *kennedy* jr. is the name of",
+          "location": 2572
+        },
+        {
+          "text": "about *kennedy* assassination okay thanks",
+          "location": 3583
+        },
+        {
+          "text": "what does trump know about *kennedy*",
+          "location": 3587
+        }
+      ]
+    },
+    {
+      "id": "hwus0Rr7K1s",
+      "segments": [
+        {
+          "text": "assassination of john f *kennedy* the war",
+          "location": 162
+        },
+        {
+          "text": "the *kennedy* assassination and secret",
+          "location": 472
+        }
+      ]
+    },
+    {
+      "id": "I-P2lMBMdHE",
+      "segments": [
+        {
+          "text": "assassination of john *kennedy* so maybe",
+          "location": 1628
+        }
+      ]
+    },
+    {
+      "id": "id7jH-rT8Dk",
+      "segments": [
+        {
+          "text": "*kennedy* so there's a lot of shady stuff",
+          "location": 980
+        }
+      ]
+    },
+    {
+      "id": "IHVG77ZucUU",
+      "segments": [
+        {
+          "text": "president *kennedy* was talking about",
+          "location": 559
+        }
+      ]
+    },
+    {
+      "id": "IvH-D2hhqyk",
+      "segments": [
+        {
+          "text": "steven spielberg kathleen *kennedy*",
+          "location": 855
+        }
+      ]
+    },
+    {
+      "id": "k1h2g6fsFv0",
+      "segments": [
+        {
+          "text": "that also is true john f *kennedy* jr. is",
+          "location": 329
+        },
+        {
+          "text": "prove that john f *kennedy* jr. is",
+          "location": 713
+        }
+      ]
+    },
+    {
+      "id": "KcsnuRYS5tk",
+      "segments": [
+        {
+          "text": "is desperate panic dallas john f *kennedy*",
+          "location": 595
+        }
+      ]
+    },
+    {
+      "id": "L6WDBPfLuYY",
+      "segments": [
+        {
+          "text": "*kennedy* school's belfer center for",
+          "location": 1592
+        }
+      ]
+    },
+    {
+      "id": "lcg_yoIS1Yw",
+      "segments": [
+        {
+          "text": "you can look at what bobby *kennedy* and",
+          "location": 1320
+        },
+        {
+          "text": "*kennedy* they fought against that to",
+          "location": 1334
+        }
+      ]
+    },
+    {
+      "id": "Lsv1GMI7Ck8",
+      "segments": [
+        {
+          "text": "why is senator *kennedy* making weird",
+          "location": 239
+        }
+      ]
+    },
+    {
+      "id": "MiI61UMtf70",
+      "segments": [
+        {
+          "text": "f *kennedy* jr. this is from about four",
+          "location": 710
+        },
+        {
+          "text": "robert f *kennedy* united states senate",
+          "location": 727
+        }
+      ]
+    },
+    {
+      "id": "mIZBPh3j_oY",
+      "segments": [
+        {
+          "text": "were talking about john f *kennedy* jr.",
+          "location": 1145
+        }
+      ]
+    },
+    {
+      "id": "OkRqFqfznRY",
+      "segments": [
+        {
+          "text": "assassinated president john f *kennedy*",
+          "location": 440
+        }
+      ]
+    },
+    {
+      "id": "OzSQPUNEX1Y",
+      "segments": [
+        {
+          "text": "*kennedy* tried to former cia officer and",
+          "location": 1067
+        },
+        {
+          "text": "since the presidency of john f *kennedy*",
+          "location": 1134
+        }
+      ]
+    },
+    {
+      "id": "pBod4miQ1po",
+      "segments": [
+        {
+          "text": "just like *kennedy* trump is declaring war",
+          "location": 335
+        },
+        {
+          "text": "lineage with john f *kennedy*",
+          "location": 386
+        },
+        {
+          "text": "you did not know *kennedy* and trump came",
+          "location": 388
+        },
+        {
+          "text": "about with *kennedy* and trump coming from",
+          "location": 401
+        },
+        {
+          "text": "*kennedy* was assassinated hw bush is now",
+          "location": 484
+        },
+        {
+          "text": "same policy when president *kennedy*",
+          "location": 559
+        }
+      ]
+    },
+    {
+      "id": "PQFSD72x0Ic",
+      "segments": [
+        {
+          "text": "*kennedy* jr. queuing on grant",
+          "location": 419
+        }
+      ]
+    },
+    {
+      "id": "PXcEVOzCLJM",
+      "segments": [
+        {
+          "text": "*kennedy* so you guys can check that out",
+          "location": 1097
+        }
+      ]
+    },
+    {
+      "id": "r6twJUsuSOI",
+      "segments": [
+        {
+          "text": "*kennedy* before trump eventually",
+          "location": 995
+        }
+      ]
+    },
+    {
+      "id": "RRxTeVBpEZU",
+      "segments": [
+        {
+          "text": "is talking about how john f *kennedy* was",
+          "location": 372
+        }
+      ]
+    },
+    {
+      "id": "Rvnnpt0CYFE",
+      "segments": [
+        {
+          "text": "*kennedy* jr. talk on larry king and then",
+          "location": 1797
+        },
+        {
+          "text": "history of the world that john f *kennedy*",
+          "location": 1815
+        },
+        {
+          "text": "i think that john f *kennedy* jr. is going",
+          "location": 1922
+        },
+        {
+          "text": "united states the day after *kennedy* was",
+          "location": 3075
+        }
+      ]
+    },
+    {
+      "id": "tM8Qd2nSMs4",
+      "segments": [
+        {
+          "text": "anniversary of john f *kennedy* juniors",
+          "location": 3
+        },
+        {
+          "text": "anniversary of john f *kennedy* juniors",
+          "location": 73
+        },
+        {
+          "text": "*kennedy* jr. and trump and we begin to",
+          "location": 665
+        },
+        {
+          "text": "fitzgerald's 54 equals 9 *kennedy* 33",
+          "location": 952
+        },
+        {
+          "text": "*kennedy* jr. 17 equals q plus 1 equals r",
+          "location": 991
+        }
+      ]
+    },
+    {
+      "id": "TYcslztwl7o",
+      "segments": [
+        {
+          "text": "a young john f *kennedy* jr. and this",
+          "location": 129
+        },
+        {
+          "text": "*kennedy* jr. but just 20 years later so",
+          "location": 168
+        },
+        {
+          "text": "*kennedy* clan members immediately forbid",
+          "location": 497
+        },
+        {
+          "text": "*kennedy* family for decades and quickly",
+          "location": 558
+        }
+      ]
+    },
+    {
+      "id": "tyxT-ZZnXUg",
+      "segments": [
+        {
+          "text": "*kennedy* jr. and his father john f",
+          "location": 55
+        },
+        {
+          "text": "*kennedy* very strange that trump said",
+          "location": 57
+        },
+        {
+          "text": "we see here we see john f *kennedy* jr.",
+          "location": 926
+        },
+        {
+          "text": "to be shown john f *kennedy* jr. is there",
+          "location": 1284
+        }
+      ]
+    },
+    {
+      "id": "ulaxUszIqYM",
+      "segments": [
+        {
+          "text": "chief of staff john f *kennedy* or two to",
+          "location": 2008
+        }
+      ]
+    },
+    {
+      "id": "uX13WbNqlBU",
+      "segments": [
+        {
+          "text": "roberts now robert i forgot i'm *kennedy*",
+          "location": 2049
+        },
+        {
+          "text": "*kennedy* is interviewing potus tonight at",
+          "location": 2959
+        }
+      ]
+    },
+    {
+      "id": "v-5pNb0dSeo",
+      "segments": [
+        {
+          "text": "four of them on john f *kennedy* jr. he's",
+          "location": 2741
+        }
+      ]
+    },
+    {
+      "id": "Vh7dkYT_8Tk",
+      "segments": [
+        {
+          "text": "assassination of president *kennedy* like",
+          "location": 251
+        },
+        {
+          "text": "assassination of president *kennedy*",
+          "location": 266
+        }
+      ]
+    },
+    {
+      "id": "vIk-VfKu7w0",
+      "segments": [
+        {
+          "text": "attempts i believe of *kennedy* too so you",
+          "location": 649
+        }
+      ]
+    },
+    {
+      "id": "VNbFPI6evs4",
+      "segments": [
+        {
+          "text": "something people say it might be *kennedy*",
+          "location": 333
+        }
+      ]
+    },
+    {
+      "id": "VvB-9_zxEBA",
+      "segments": [
+        {
+          "text": "on twitter president john f *kennedy* jr.",
+          "location": 712
+        },
+        {
+          "text": "excuse me john f *kennedy* signed a",
+          "location": 716
+        }
+      ]
+    },
+    {
+      "id": "w1FgKkHknsg",
+      "segments": [
+        {
+          "text": "*kennedy* from the smithsonian national",
+          "location": 1001
+        },
+        {
+          "text": "privately john f *kennedy* believed that",
+          "location": 1108
+        }
+      ]
+    },
+    {
+      "id": "WBaZACYxsrA",
+      "segments": [
+        {
+          "text": "*kennedy* clooney wrote to the los angeles",
+          "location": 1604
+        }
+      ]
+    },
+    {
+      "id": "wHCbeGaIG-8",
+      "segments": [
+        {
+          "text": "no i don't think q is john f *kennedy*",
+          "location": 1774
+        }
+      ]
+    },
+    {
+      "id": "wWhS3QxK1wY",
+      "segments": [
+        {
+          "text": "*kennedy* exiting a plane on the day of",
+          "location": 591
+        }
+      ]
+    },
+    {
+      "id": "X0yOJO_Xq0o",
+      "segments": [
+        {
+          "text": "that john f *kennedy* jr. is six foot one",
+          "location": 1300
+        },
+        {
+          "text": "f *kennedy* jr. want to dispute this we",
+          "location": 1305
+        }
+      ]
+    },
+    {
+      "id": "X6wfhEtWwyw",
+      "segments": [
+        {
+          "text": "from nearby *kennedy* space center the",
+          "location": 728
+        }
+      ]
+    },
+    {
+      "id": "xxLDbO_L3No",
+      "segments": [
+        {
+          "text": "president john f *kennedy* with his wife",
+          "location": 102
+        },
+        {
+          "text": "prior to the john f *kennedy*",
+          "location": 169
+        }
+      ]
+    },
+    {
+      "id": "yFBSt-ZUYvQ",
+      "segments": [
+        {
+          "text": "*kennedy* jr. frederic fekkai and a couple",
+          "location": 367
+        },
+        {
+          "text": "*kennedy* jr. in there we also see mr.",
+          "location": 382
+        }
+      ]
+    },
+    {
+      "id": "Yu6P4YYW0vs",
+      "segments": [
+        {
+          "text": "knew that between *kennedy* made a mistake",
+          "location": 1764
+        },
+        {
+          "text": "*kennedy* felt because can we thought i go",
+          "location": 1782
+        }
+      ]
+    },
+    {
+      "id": "zKQy0x_bOIY",
+      "segments": [
+        {
+          "text": "reference to president *kennedy* and",
+          "location": 377
+        },
+        {
+          "text": "goals set by president *kennedy* and",
+          "location": 399
+        }
+      ]
+    }
+  ]
+}

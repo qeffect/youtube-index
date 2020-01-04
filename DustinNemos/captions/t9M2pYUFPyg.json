@@ -1,0 +1,6152 @@
+[
+  {
+    "start": 0.0,
+    "duraction": 3.87,
+    "value": "[Music]"
+  },
+  {
+    "start": 0.29,
+    "duraction": 5.29,
+    "value": "all right we're on this is Dustin Nemo's"
+  },
+  {
+    "start": 3.87,
+    "duraction": 3.84,
+    "value": "of destiny moose calm welcome back"
+  },
+  {
+    "start": 5.58,
+    "duraction": 4.53,
+    "value": "everyone and I am joined by the"
+  },
+  {
+    "start": 7.71,
+    "duraction": 4.259,
+    "value": "epistemologies you guys if maybe"
+  },
+  {
+    "start": 10.11,
+    "duraction": 4.14,
+    "value": "remember them I did a short interview"
+  },
+  {
+    "start": 11.969,
+    "duraction": 4.441,
+    "value": "with them a while back heavy into the"
+  },
+  {
+    "start": 14.25,
+    "duraction": 3.66,
+    "value": "logic and the thinking and we're gonna"
+  },
+  {
+    "start": 16.41,
+    "duraction": 4.5,
+    "value": "talk a little bit about you know"
+  },
+  {
+    "start": 17.91,
+    "duraction": 4.32,
+    "value": "decentralization and and you guys I'm"
+  },
+  {
+    "start": 20.91,
+    "duraction": 3.029,
+    "value": "gonna let you just kind of run with it"
+  },
+  {
+    "start": 22.23,
+    "duraction": 4.76,
+    "value": "at first and just ask questions and"
+  },
+  {
+    "start": 23.939,
+    "duraction": 6.66,
+    "value": "bounce around some ideas with you great"
+  },
+  {
+    "start": 26.99,
+    "duraction": 7.51,
+    "value": "so I think what we wanted to talk about"
+  },
+  {
+    "start": 30.599,
+    "duraction": 6.441,
+    "value": "decentralization we're both computer"
+  },
+  {
+    "start": 34.5,
+    "duraction": 5.76,
+    "value": "scientists and we both are programmers"
+  },
+  {
+    "start": 37.04,
+    "duraction": 5.109,
+    "value": "particularly in the web space and so we"
+  },
+  {
+    "start": 40.26,
+    "duraction": 4.79,
+    "value": "kind of first have first-hand knowledge"
+  },
+  {
+    "start": 42.149,
+    "duraction": 5.401,
+    "value": "of what sort of decentralized"
+  },
+  {
+    "start": 45.05,
+    "duraction": 5.29,
+    "value": "communities and how and how they kind of"
+  },
+  {
+    "start": 47.55,
+    "duraction": 6.18,
+    "value": "work in the computer science industry"
+  },
+  {
+    "start": 50.34,
+    "duraction": 7.379,
+    "value": "there's the there's this idea of open"
+  },
+  {
+    "start": 53.73,
+    "duraction": 8.009,
+    "value": "source and open source is essentially"
+  },
+  {
+    "start": 57.719,
+    "duraction": 6.151,
+    "value": "meaning that whatever can be built or"
+  },
+  {
+    "start": 61.739,
+    "duraction": 5.431,
+    "value": "their hits people release sort of the"
+  },
+  {
+    "start": 63.87,
+    "duraction": 8.84,
+    "value": "the building plans the the blueprints to"
+  },
+  {
+    "start": 67.17,
+    "duraction": 8.01,
+    "value": "build what they a website or a program"
+  },
+  {
+    "start": 72.71,
+    "duraction": 5.589,
+    "value": "that other engineers can look at that"
+  },
+  {
+    "start": 75.18,
+    "duraction": 5.579,
+    "value": "and then be able to recreate that"
+  },
+  {
+    "start": 78.299,
+    "duraction": 4.11,
+    "value": "building and then add stuff on top of"
+  },
+  {
+    "start": 80.759,
+    "duraction": 3.72,
+    "value": "that and that's kind of how the computer"
+  },
+  {
+    "start": 82.409,
+    "duraction": 5.451,
+    "value": "science industry has has existed for"
+  },
+  {
+    "start": 84.479,
+    "duraction": 6.361,
+    "value": "quite some time and that's where"
+  },
+  {
+    "start": 87.86,
+    "duraction": 5.68,
+    "value": "decentralization how that's kind of"
+  },
+  {
+    "start": 90.84,
+    "duraction": 5.22,
+    "value": "worked in is because nobody owns these"
+  },
+  {
+    "start": 93.54,
+    "duraction": 4.8,
+    "value": "ideas or these blueprints there are"
+  },
+  {
+    "start": 96.06,
+    "duraction": 5.34,
+    "value": "proprietary things but they always seem"
+  },
+  {
+    "start": 98.34,
+    "duraction": 6.779,
+    "value": "to fall behind because just the sheer"
+  },
+  {
+    "start": 101.4,
+    "duraction": 6.63,
+    "value": "staggering might of the progress made"
+  },
+  {
+    "start": 105.119,
+    "duraction": 5.221,
+    "value": "from having all these copies of copies"
+  },
+  {
+    "start": 108.03,
+    "duraction": 5.49,
+    "value": "and everything continually be improved"
+  },
+  {
+    "start": 110.34,
+    "duraction": 5.629,
+    "value": "on no large no company no matter how"
+  },
+  {
+    "start": 113.52,
+    "duraction": 4.98,
+    "value": "large it is can really compete with it"
+  },
+  {
+    "start": 115.969,
+    "duraction": 4.18,
+    "value": "open source just like the queue and on"
+  },
+  {
+    "start": 118.5,
+    "duraction": 3.75,
+    "value": "open source investigation stuff like"
+  },
+  {
+    "start": 120.149,
+    "duraction": 2.57,
+    "value": "open source hivemind it's a powerful"
+  },
+  {
+    "start": 122.25,
+    "duraction": 3.36,
+    "value": "thing"
+  },
+  {
+    "start": 122.719,
+    "duraction": 7.391,
+    "value": "exactly that's actually an example of it"
+  },
+  {
+    "start": 125.61,
+    "duraction": 8.17,
+    "value": "yes I see it as a three-step process"
+  },
+  {
+    "start": 130.11,
+    "duraction": 6.28,
+    "value": "where you're copying some information"
+  },
+  {
+    "start": 133.78,
+    "duraction": 3.539,
+    "value": "from the community you're solving a"
+  },
+  {
+    "start": 136.39,
+    "duraction": 3.21,
+    "value": "problem with it"
+  },
+  {
+    "start": 137.319,
+    "duraction": 6.631,
+    "value": "right in front of you and then you share"
+  },
+  {
+    "start": 139.6,
+    "duraction": 9.14,
+    "value": "back the solution so it's you know copy"
+  },
+  {
+    "start": 143.95,
+    "duraction": 7.68,
+    "value": "solve share as a iterating cycle and"
+  },
+  {
+    "start": 148.74,
+    "duraction": 5.26,
+    "value": "this is something that you see in"
+  },
+  {
+    "start": 151.63,
+    "duraction": 7.77,
+    "value": "software and it's something that you see"
+  },
+  {
+    "start": 154.0,
+    "duraction": 9.42,
+    "value": "in on the boards for all the open source"
+  },
+  {
+    "start": 159.4,
+    "duraction": 5.97,
+    "value": "intelligence gathering yeah it actually"
+  },
+  {
+    "start": 163.42,
+    "duraction": 5.099,
+    "value": "does a really good job of building"
+  },
+  {
+    "start": 165.37,
+    "duraction": 6.36,
+    "value": "knowledge just because all of these"
+  },
+  {
+    "start": 168.519,
+    "duraction": 5.491,
+    "value": "mines are going at it in parallel yeah"
+  },
+  {
+    "start": 171.73,
+    "duraction": 4.289,
+    "value": "and it really you know it allows every"
+  },
+  {
+    "start": 174.01,
+    "duraction": 4.17,
+    "value": "person to contribute what they can like"
+  },
+  {
+    "start": 176.019,
+    "duraction": 4.531,
+    "value": "I get you know I get all sorts of"
+  },
+  {
+    "start": 178.18,
+    "duraction": 4.68,
+    "value": "messages from you know not necessarily"
+  },
+  {
+    "start": 180.55,
+    "duraction": 4.469,
+    "value": "like the deep researchers of things and"
+  },
+  {
+    "start": 182.86,
+    "duraction": 3.599,
+    "value": "politics but you know they'll bring me"
+  },
+  {
+    "start": 185.019,
+    "duraction": 3.781,
+    "value": "like a first-hand account of something"
+  },
+  {
+    "start": 186.459,
+    "duraction": 4.711,
+    "value": "that was relevant that they were missing"
+  },
+  {
+    "start": 188.8,
+    "duraction": 4.019,
+    "value": "that maybe a part of you know and and"
+  },
+  {
+    "start": 191.17,
+    "duraction": 3.899,
+    "value": "then we have some of the Pareto"
+  },
+  {
+    "start": 192.819,
+    "duraction": 5.161,
+    "value": "principle guys who are out there you"
+  },
+  {
+    "start": 195.069,
+    "duraction": 4.2,
+    "value": "know doing the heavy heavy research and"
+  },
+  {
+    "start": 197.98,
+    "duraction": 5.069,
+    "value": "compiling all this stuff together and"
+  },
+  {
+    "start": 199.269,
+    "duraction": 6.261,
+    "value": "then making it digestible for people you"
+  },
+  {
+    "start": 203.049,
+    "duraction": 5.761,
+    "value": "know and I'm a big fan of that kind of"
+  },
+  {
+    "start": 205.53,
+    "duraction": 5.59,
+    "value": "kind of Napoleon Hill called the"
+  },
+  {
+    "start": 208.81,
+    "duraction": 4.05,
+    "value": "mastermind group but just putting"
+  },
+  {
+    "start": 211.12,
+    "duraction": 4.589,
+    "value": "people's brains together the power is"
+  },
+  {
+    "start": 212.86,
+    "duraction": 5.159,
+    "value": "greater than the sum of the parts ya"
+  },
+  {
+    "start": 215.709,
+    "duraction": 5.151,
+    "value": "know we're in the in this process does"
+  },
+  {
+    "start": 218.019,
+    "duraction": 6.84,
+    "value": "someone's identity matter as much as"
+  },
+  {
+    "start": 220.86,
+    "duraction": 8.02,
+    "value": "just following that three-step cycle the"
+  },
+  {
+    "start": 224.859,
+    "duraction": 8.19,
+    "value": "the expert might come in as a source of"
+  },
+  {
+    "start": 228.88,
+    "duraction": 8.22,
+    "value": "good explanations but the fact that they"
+  },
+  {
+    "start": 233.049,
+    "duraction": 7.621,
+    "value": "are an expert doesn't really matter as"
+  },
+  {
+    "start": 237.1,
+    "duraction": 5.49,
+    "value": "much as the explanation itself so that's"
+  },
+  {
+    "start": 240.67,
+    "duraction": 4.439,
+    "value": "why you have all these add-ons on the"
+  },
+  {
+    "start": 242.59,
+    "duraction": 4.17,
+    "value": "board able to work together and"
+  },
+  {
+    "start": 245.109,
+    "duraction": 3.171,
+    "value": "contribute to each other without really"
+  },
+  {
+    "start": 246.76,
+    "duraction": 3.81,
+    "value": "even knowing who they're working with"
+  },
+  {
+    "start": 248.28,
+    "duraction": 5.32,
+    "value": "and it doesn't really matter I mean Q"
+  },
+  {
+    "start": 250.57,
+    "duraction": 6.15,
+    "value": "himself is an anonymous source who's"
+  },
+  {
+    "start": 253.6,
+    "duraction": 8.16,
+    "value": "able to demonstrate his knowledge just"
+  },
+  {
+    "start": 256.72,
+    "duraction": 6.509,
+    "value": "by posting in a certain way it's the"
+  },
+  {
+    "start": 261.76,
+    "duraction": 4.86,
+    "value": "content that matters"
+  },
+  {
+    "start": 263.229,
+    "duraction": 4.391,
+    "value": "so whenever you see someone trying to"
+  },
+  {
+    "start": 266.62,
+    "duraction": 3.85,
+    "value": "disc"
+  },
+  {
+    "start": 267.62,
+    "duraction": 4.74,
+    "value": "credit queue it seems like the the brunt"
+  },
+  {
+    "start": 270.47,
+    "duraction": 3.36,
+    "value": "of their argument goes after the"
+  },
+  {
+    "start": 272.36,
+    "duraction": 4.44,
+    "value": "identity of queue"
+  },
+  {
+    "start": 273.83,
+    "duraction": 4.14,
+    "value": "oh yeah that's all of it that's 99% of"
+  },
+  {
+    "start": 276.8,
+    "duraction": 3.03,
+    "value": "it there's a few people that play with"
+  },
+  {
+    "start": 277.97,
+    "duraction": 4.59,
+    "value": "the technical jargon and and try to"
+  },
+  {
+    "start": 279.83,
+    "duraction": 4.92,
+    "value": "confuse the muddy the waters but and I"
+  },
+  {
+    "start": 282.56,
+    "duraction": 4.26,
+    "value": "think I like that it the anonymous thing"
+  },
+  {
+    "start": 284.75,
+    "duraction": 3.33,
+    "value": "takes the ego out of it and and imagine"
+  },
+  {
+    "start": 286.82,
+    "duraction": 4.17,
+    "value": "that's I don't know if that's the same"
+  },
+  {
+    "start": 288.08,
+    "duraction": 5.04,
+    "value": "in like the the decentralized you know"
+  },
+  {
+    "start": 290.99,
+    "duraction": 5.19,
+    "value": "computing in computer design world but"
+  },
+  {
+    "start": 293.12,
+    "duraction": 6.03,
+    "value": "yeah yeah it is actually"
+  },
+  {
+    "start": 296.18,
+    "duraction": 4.109,
+    "value": "it really is people very rarely get"
+  },
+  {
+    "start": 299.15,
+    "duraction": 3.239,
+    "value": "attached"
+  },
+  {
+    "start": 300.289,
+    "duraction": 4.19,
+    "value": "maybe maybe at some point they get"
+  },
+  {
+    "start": 302.389,
+    "duraction": 4.53,
+    "value": "attached to maybe a company"
+  },
+  {
+    "start": 304.479,
+    "duraction": 5.051,
+    "value": "personalities sort of personalities but"
+  },
+  {
+    "start": 306.919,
+    "duraction": 7.411,
+    "value": "it's it's fairly rare like you know"
+  },
+  {
+    "start": 309.53,
+    "duraction": 6.93,
+    "value": "there are celebrities inside the yeah"
+  },
+  {
+    "start": 314.33,
+    "duraction": 4.709,
+    "value": "yeah but I understand what you mean yeah"
+  },
+  {
+    "start": 316.46,
+    "duraction": 5.82,
+    "value": "that's it's fairly rare and it's in the"
+  },
+  {
+    "start": 319.039,
+    "duraction": 5.19,
+    "value": "celebrity isn't as impactful like it's"
+  },
+  {
+    "start": 322.28,
+    "duraction": 5.31,
+    "value": "not like George Clooney saying something"
+  },
+  {
+    "start": 324.229,
+    "duraction": 5.041,
+    "value": "it's like this guy who is well-known to"
+  },
+  {
+    "start": 327.59,
+    "duraction": 3.48,
+    "value": "be really good at this specific thing"
+  },
+  {
+    "start": 329.27,
+    "duraction": 3.75,
+    "value": "says something about that specific thing"
+  },
+  {
+    "start": 331.07,
+    "duraction": 4.71,
+    "value": "and people are like oh that must be that"
+  },
+  {
+    "start": 333.02,
+    "duraction": 4.709,
+    "value": "must be buddies that must be write that"
+  },
+  {
+    "start": 335.78,
+    "duraction": 4.08,
+    "value": "that's that's my thing with McAfee like"
+  },
+  {
+    "start": 337.729,
+    "duraction": 4.291,
+    "value": "I I like him because of his arguments"
+  },
+  {
+    "start": 339.86,
+    "duraction": 3.69,
+    "value": "you know I've been talking about is his"
+  },
+  {
+    "start": 342.02,
+    "duraction": 3.78,
+    "value": "bit fee wallet and it's how it's"
+  },
+  {
+    "start": 343.55,
+    "duraction": 6.06,
+    "value": "supposedly unhackable and everything and"
+  },
+  {
+    "start": 345.8,
+    "duraction": 5.28,
+    "value": "coming from him that is a bold claim and"
+  },
+  {
+    "start": 349.61,
+    "duraction": 3.2,
+    "value": "something I could actually believe no"
+  },
+  {
+    "start": 351.08,
+    "duraction": 4.95,
+    "value": "one else saying that I would believe but"
+  },
+  {
+    "start": 352.81,
+    "duraction": 6.82,
+    "value": "I'm pretty sure we'll get hacked but I"
+  },
+  {
+    "start": 356.03,
+    "duraction": 5.31,
+    "value": "don't know exactly what it might be it"
+  },
+  {
+    "start": 359.63,
+    "duraction": 2.94,
+    "value": "might be something around it yeah"
+  },
+  {
+    "start": 361.34,
+    "duraction": 3.359,
+    "value": "there's there might be an unhackable"
+  },
+  {
+    "start": 362.57,
+    "duraction": 5.64,
+    "value": "core of sorts kind of like how"
+  },
+  {
+    "start": 364.699,
+    "duraction": 6.121,
+    "value": "cryptocurrencies work in Pasadena"
+  },
+  {
+    "start": 368.21,
+    "duraction": 4.86,
+    "value": "currencies are still hackable you can"
+  },
+  {
+    "start": 370.82,
+    "duraction": 6.569,
+    "value": "have for instance with Bitcoin right now"
+  },
+  {
+    "start": 373.07,
+    "duraction": 7.319,
+    "value": "if you owned 51% of the of the critter"
+  },
+  {
+    "start": 377.389,
+    "duraction": 5.821,
+    "value": "the bitcoins you would be able to make"
+  },
+  {
+    "start": 380.389,
+    "duraction": 5.371,
+    "value": "determine determinations on you know"
+  },
+  {
+    "start": 383.21,
+    "duraction": 4.23,
+    "value": "whether or not then what's owned by what"
+  },
+  {
+    "start": 385.76,
+    "duraction": 3.779,
+    "value": "so you could essentially once you own"
+  },
+  {
+    "start": 387.44,
+    "duraction": 6.42,
+    "value": "51% you can take over the whole"
+  },
+  {
+    "start": 389.539,
+    "duraction": 7.821,
+    "value": "blockchain but the likelihood is it not"
+  },
+  {
+    "start": 393.86,
+    "duraction": 7.109,
+    "value": "that 51% of the no it's not the pool oh"
+  },
+  {
+    "start": 397.36,
+    "duraction": 6.729,
+    "value": "it's the the miners it's the hash"
+  },
+  {
+    "start": 400.969,
+    "duraction": 4.91,
+    "value": "yeah yeah yeah so if you owned 51% of a"
+  },
+  {
+    "start": 404.089,
+    "duraction": 4.76,
+    "value": "minor that's even more ridiculous so"
+  },
+  {
+    "start": 405.879,
+    "duraction": 5.62,
+    "value": "very concentrated is a problem yeah"
+  },
+  {
+    "start": 408.849,
+    "duraction": 4.57,
+    "value": "that's a known problem it's it's well"
+  },
+  {
+    "start": 411.499,
+    "duraction": 6.861,
+    "value": "written about but you know it's every"
+  },
+  {
+    "start": 413.419,
+    "duraction": 8.191,
+    "value": "every system can be abused you know like"
+  },
+  {
+    "start": 418.36,
+    "duraction": 6.129,
+    "value": "there every system has to make some kind"
+  },
+  {
+    "start": 421.61,
+    "duraction": 5.129,
+    "value": "of assumptions on what you know in order"
+  },
+  {
+    "start": 424.489,
+    "duraction": 5.69,
+    "value": "to do its work yeah and those"
+  },
+  {
+    "start": 426.739,
+    "duraction": 3.44,
+    "value": "assumptions can be gamed"
+  },
+  {
+    "start": 430.239,
+    "duraction": 5.32,
+    "value": "so it's looking for it I mean there's"
+  },
+  {
+    "start": 433.819,
+    "duraction": 3.96,
+    "value": "better systems and worse systems but"
+  },
+  {
+    "start": 435.559,
+    "duraction": 8.52,
+    "value": "it's not like any system is unhackable"
+  },
+  {
+    "start": 437.779,
+    "duraction": 8.73,
+    "value": "and in every way it's the best choice"
+  },
+  {
+    "start": 444.079,
+    "duraction": 4.92,
+    "value": "I've seen it it's far better I'm having"
+  },
+  {
+    "start": 446.509,
+    "duraction": 6.63,
+    "value": "my money in a bank I think oh could be"
+  },
+  {
+    "start": 448.999,
+    "duraction": 7.59,
+    "value": "yeah I mean it works for further look is"
+  },
+  {
+    "start": 453.139,
+    "duraction": 6.57,
+    "value": "that is that there's still like you"
+  },
+  {
+    "start": 456.589,
+    "duraction": 5.79,
+    "value": "could have something that's ran by you"
+  },
+  {
+    "start": 459.709,
+    "duraction": 3.03,
+    "value": "know some massive string of numbers and"
+  },
+  {
+    "start": 462.379,
+    "duraction": 2.7,
+    "value": "letters"
+  },
+  {
+    "start": 462.739,
+    "duraction": 4.32,
+    "value": "that's your password and it's double"
+  },
+  {
+    "start": 465.079,
+    "duraction": 5.64,
+    "value": "encrypted and it has all these extra"
+  },
+  {
+    "start": 467.059,
+    "duraction": 5.4,
+    "value": "things but if somebody torches the"
+  },
+  {
+    "start": 470.719,
+    "duraction": 3.57,
+    "value": "information out of you they can still"
+  },
+  {
+    "start": 472.459,
+    "duraction": 3.87,
+    "value": "get into your computer they can still"
+  },
+  {
+    "start": 474.289,
+    "duraction": 5.1,
+    "value": "get into your you know whatever secure"
+  },
+  {
+    "start": 476.329,
+    "duraction": 5.04,
+    "value": "thing that you have built it so long as"
+  },
+  {
+    "start": 479.389,
+    "duraction": 2.61,
+    "value": "they have you there to guide them"
+  },
+  {
+    "start": 481.369,
+    "duraction": 2.85,
+    "value": "through it"
+  },
+  {
+    "start": 481.999,
+    "duraction": 4.92,
+    "value": "right there are ways around this like"
+  },
+  {
+    "start": 484.219,
+    "duraction": 4.891,
+    "value": "all that hacking no yeah no well it's"
+  },
+  {
+    "start": 486.919,
+    "duraction": 4.62,
+    "value": "fun well I mean it's funny what people"
+  },
+  {
+    "start": 489.11,
+    "duraction": 6.389,
+    "value": "call hacking because oh yeah they were"
+  },
+  {
+    "start": 491.539,
+    "duraction": 8.071,
+    "value": "calling DDoS inge hack which isn't that"
+  },
+  {
+    "start": 495.499,
+    "duraction": 8.611,
+    "value": "not alex jones that's not a hack at all"
+  },
+  {
+    "start": 499.61,
+    "duraction": 6.659,
+    "value": "that's DDoS it's an attack for sure but"
+  },
+  {
+    "start": 504.11,
+    "duraction": 4.379,
+    "value": "it's external and they've never even"
+  },
+  {
+    "start": 506.269,
+    "duraction": 4.47,
+    "value": "touched the files or change the state of"
+  },
+  {
+    "start": 508.489,
+    "duraction": 3.45,
+    "value": "anything they just overwhelm it that's"
+  },
+  {
+    "start": 510.739,
+    "duraction": 4.02,
+    "value": "when they're trying to shut down their"
+  },
+  {
+    "start": 511.939,
+    "duraction": 5.25,
+    "value": "service provider right link right okay"
+  },
+  {
+    "start": 514.759,
+    "duraction": 4.62,
+    "value": "yeah they're trying to hit it's it's"
+  },
+  {
+    "start": 517.189,
+    "duraction": 4.111,
+    "value": "upper limit on what it can handle it so"
+  },
+  {
+    "start": 519.379,
+    "duraction": 4.47,
+    "value": "they're trying to overwhelm it so they"
+  },
+  {
+    "start": 521.3,
+    "duraction": 5.43,
+    "value": "get a bunch of a botnet which is a"
+  },
+  {
+    "start": 523.849,
+    "duraction": 4.92,
+    "value": "series of are of may be compromised"
+  },
+  {
+    "start": 526.73,
+    "duraction": 4.979,
+    "value": "maybe uncompromised machines that have a"
+  },
+  {
+    "start": 528.769,
+    "duraction": 5.731,
+    "value": "lot of processing power to just go to"
+  },
+  {
+    "start": 531.709,
+    "duraction": 3.151,
+    "value": "that site you know millions and billions"
+  },
+  {
+    "start": 534.5,
+    "duraction": 2.579,
+    "value": "of"
+  },
+  {
+    "start": 534.86,
+    "duraction": 4.83,
+    "value": "time's all at the same time and the"
+  },
+  {
+    "start": 537.079,
+    "duraction": 5.94,
+    "value": "server which is a single point of"
+  },
+  {
+    "start": 539.69,
+    "duraction": 6.51,
+    "value": "failure will fail and people are getting"
+  },
+  {
+    "start": 543.019,
+    "duraction": 5.611,
+    "value": "confused by this the splash screen the"
+  },
+  {
+    "start": 546.2,
+    "duraction": 4.41,
+    "value": "sort of screen that Infowars put up"
+  },
+  {
+    "start": 548.63,
+    "duraction": 6.06,
+    "value": "afterwards and saying oh this it must"
+  },
+  {
+    "start": 550.61,
+    "duraction": 5.849,
+    "value": "mean that he didn't he hacked himself"
+  },
+  {
+    "start": 554.69,
+    "duraction": 5.04,
+    "value": "for something he still has donated for"
+  },
+  {
+    "start": 556.459,
+    "duraction": 6.69,
+    "value": "show kind of thing but that just what"
+  },
+  {
+    "start": 559.73,
+    "duraction": 6.359,
+    "value": "that is is they've set up a proxy so the"
+  },
+  {
+    "start": 563.149,
+    "duraction": 6.361,
+    "value": "main server will just route to a static"
+  },
+  {
+    "start": 566.089,
+    "duraction": 5.701,
+    "value": "page which the server's can handle super"
+  },
+  {
+    "start": 569.51,
+    "duraction": 4.949,
+    "value": "fast rather than like a full complex"
+  },
+  {
+    "start": 571.79,
+    "duraction": 5.13,
+    "value": "site they they handle just like a basic"
+  },
+  {
+    "start": 574.459,
+    "duraction": 5.281,
+    "value": "HTML page and say here you go"
+  },
+  {
+    "start": 576.92,
+    "duraction": 4.62,
+    "value": "and it has links and has the donate and"
+  },
+  {
+    "start": 579.74,
+    "duraction": 6.21,
+    "value": "it has those sorts of things it's looks"
+  },
+  {
+    "start": 581.54,
+    "duraction": 7.289,
+    "value": "better than a server error page yeah"
+  },
+  {
+    "start": 585.95,
+    "duraction": 4.74,
+    "value": "server error page and oh and you can see"
+  },
+  {
+    "start": 588.829,
+    "duraction": 4.771,
+    "value": "this with like 404 pages that's kind of"
+  },
+  {
+    "start": 590.69,
+    "duraction": 4.769,
+    "value": "the same idea right so we would we would"
+  },
+  {
+    "start": 593.6,
+    "duraction": 5.489,
+    "value": "reasonably assume that Q should know"
+  },
+  {
+    "start": 595.459,
+    "duraction": 4.62,
+    "value": "better than then to think you know he"
+  },
+  {
+    "start": 599.089,
+    "duraction": 2.401,
+    "value": "would know these things that you're"
+  },
+  {
+    "start": 600.079,
+    "duraction": 4.231,
+    "value": "saying or at least someone on his team"
+  },
+  {
+    "start": 601.49,
+    "duraction": 4.68,
+    "value": "would yeah and Q someone on yeah have"
+  },
+  {
+    "start": 604.31,
+    "duraction": 4.649,
+    "value": "you guys seen that newer post that just"
+  },
+  {
+    "start": 606.17,
+    "duraction": 5.099,
+    "value": "came out yeah actors will be actors as"
+  },
+  {
+    "start": 608.959,
+    "duraction": 5.521,
+    "value": "they only actors will act that will act"
+  },
+  {
+    "start": 611.269,
+    "duraction": 7.291,
+    "value": "how do you interpret that cuz well maybe"
+  },
+  {
+    "start": 614.48,
+    "duraction": 5.37,
+    "value": "call out Alex Jones yeah no no um what"
+  },
+  {
+    "start": 618.56,
+    "duraction": 5.339,
+    "value": "we're saying is that this isn't"
+  },
+  {
+    "start": 619.85,
+    "duraction": 8.609,
+    "value": "necessarily evidence that he's putting"
+  },
+  {
+    "start": 623.899,
+    "duraction": 6.661,
+    "value": "on his own show but it we're not saying"
+  },
+  {
+    "start": 628.459,
+    "duraction": 4.38,
+    "value": "that it's he's not putting on his own"
+  },
+  {
+    "start": 630.56,
+    "duraction": 4.5,
+    "value": "show I actually kind of I wouldn't be"
+  },
+  {
+    "start": 632.839,
+    "duraction": 4.971,
+    "value": "surprised if he is acting here that this"
+  },
+  {
+    "start": 635.06,
+    "duraction": 4.5,
+    "value": "whole attack is contrived and"
+  },
+  {
+    "start": 637.81,
+    "duraction": 4.6,
+    "value": "orchestrated with the rest of the"
+  },
+  {
+    "start": 639.56,
+    "duraction": 5.279,
+    "value": "mainstream media a DDoS attack is not"
+  },
+  {
+    "start": 642.41,
+    "duraction": 5.07,
+    "value": "hard to pull off and a single person can"
+  },
+  {
+    "start": 644.839,
+    "duraction": 5.461,
+    "value": "pull it off if they just know you know"
+  },
+  {
+    "start": 647.48,
+    "duraction": 6.479,
+    "value": "if they know the right places to go"
+  },
+  {
+    "start": 650.3,
+    "duraction": 6.09,
+    "value": "right you can you can hire a botnet they"
+  },
+  {
+    "start": 653.959,
+    "duraction": 3.511,
+    "value": "they are for sale and I know I know Alex"
+  },
+  {
+    "start": 656.39,
+    "duraction": 2.73,
+    "value": "Jones have been dealing with that for"
+  },
+  {
+    "start": 657.47,
+    "duraction": 5.04,
+    "value": "years and he's got basically like the"
+  },
+  {
+    "start": 659.12,
+    "duraction": 6.779,
+    "value": "best on the planet instant so it's"
+  },
+  {
+    "start": 662.51,
+    "duraction": 4.889,
+    "value": "something big but even in the lake back"
+  },
+  {
+    "start": 665.899,
+    "duraction": 2.701,
+    "value": "we'll get out of it back to the topic"
+  },
+  {
+    "start": 667.399,
+    "duraction": 2.791,
+    "value": "but the context of how they"
+  },
+  {
+    "start": 668.6,
+    "duraction": 3.419,
+    "value": "said that I'm not even sure that that"
+  },
+  {
+    "start": 670.19,
+    "duraction": 3.6,
+    "value": "means that they're talking about Alex"
+  },
+  {
+    "start": 672.019,
+    "duraction": 3.481,
+    "value": "like maybe they mean bad actors and then"
+  },
+  {
+    "start": 673.79,
+    "duraction": 5.25,
+    "value": "talking about NBC immediately after I"
+  },
+  {
+    "start": 675.5,
+    "duraction": 8.009,
+    "value": "don't know yeah yeah it's it's"
+  },
+  {
+    "start": 679.04,
+    "duraction": 6.539,
+    "value": "interesting Alex Jones is a little uh he"
+  },
+  {
+    "start": 683.509,
+    "duraction": 4.531,
+    "value": "he that he's an interesting character"
+  },
+  {
+    "start": 685.579,
+    "duraction": 4.801,
+    "value": "and it's it's difficult to really"
+  },
+  {
+    "start": 688.04,
+    "duraction": 4.62,
+    "value": "because he's gonna run for so long it's"
+  },
+  {
+    "start": 690.38,
+    "duraction": 4.92,
+    "value": "difficult to peg him down cuz he's been"
+  },
+  {
+    "start": 692.66,
+    "duraction": 5.58,
+    "value": "back and forth on and a few things like"
+  },
+  {
+    "start": 695.3,
+    "duraction": 5.519,
+    "value": "well he's but he's big enough that he's"
+  },
+  {
+    "start": 698.24,
+    "duraction": 5.43,
+    "value": "kind of a target so yeah it's a target"
+  },
+  {
+    "start": 700.819,
+    "duraction": 6.421,
+    "value": "for leverage not just DD OSS and not"
+  },
+  {
+    "start": 703.67,
+    "duraction": 6.39,
+    "value": "just trolls but also big money coming in"
+  },
+  {
+    "start": 707.24,
+    "duraction": 5.67,
+    "value": "trying to influence as well I mean I'm"
+  },
+  {
+    "start": 710.06,
+    "duraction": 3.48,
+    "value": "I'm pointing to his apology to James"
+  },
+  {
+    "start": 712.91,
+    "duraction": 5.099,
+    "value": "Ellis"
+  },
+  {
+    "start": 713.54,
+    "duraction": 7.89,
+    "value": "mm-hmm as a sign that yeah yeah he's got"
+  },
+  {
+    "start": 718.009,
+    "duraction": 6.51,
+    "value": "some other leverage put on him he may be"
+  },
+  {
+    "start": 721.43,
+    "duraction": 6.0,
+    "value": "compromised it's that you know that"
+  },
+  {
+    "start": 724.519,
+    "duraction": 5.82,
+    "value": "would plus the context of coming out"
+  },
+  {
+    "start": 727.43,
+    "duraction": 4.829,
+    "value": "against Q plus the you know I'm gonna"
+  },
+  {
+    "start": 730.339,
+    "duraction": 3.331,
+    "value": "call it just a clear limey I can't prove"
+  },
+  {
+    "start": 732.259,
+    "duraction": 3.361,
+    "value": "he's lying I can't prove he didn't go"
+  },
+  {
+    "start": 733.67,
+    "duraction": 6.18,
+    "value": "have go talk to people that were playing"
+  },
+  {
+    "start": 735.62,
+    "duraction": 5.88,
+    "value": "golf with Q but you know I can't prove"
+  },
+  {
+    "start": 739.85,
+    "duraction": 4.95,
+    "value": "he didn't talk to Q on the phone but I"
+  },
+  {
+    "start": 741.5,
+    "duraction": 5.85,
+    "value": "don't believe it did and you know he was"
+  },
+  {
+    "start": 744.8,
+    "duraction": 4.589,
+    "value": "gotten us results and that's linked to"
+  },
+  {
+    "start": 747.35,
+    "duraction": 4.71,
+    "value": "Trump and I trust Trump more than I do"
+  },
+  {
+    "start": 749.389,
+    "duraction": 5.281,
+    "value": "Alex Jones at this point right right"
+  },
+  {
+    "start": 752.06,
+    "duraction": 6.66,
+    "value": "yeah that makes sense it's hard to trust"
+  },
+  {
+    "start": 754.67,
+    "duraction": 6.899,
+    "value": "Alex Jones I mean even if I like a lot"
+  },
+  {
+    "start": 758.72,
+    "duraction": 5.27,
+    "value": "of his memes I use it I used to like"
+  },
+  {
+    "start": 761.569,
+    "duraction": 6.061,
+    "value": "look up to the sky like like not quite"
+  },
+  {
+    "start": 763.99,
+    "duraction": 5.079,
+    "value": "like the stood for you know like I grew"
+  },
+  {
+    "start": 767.63,
+    "duraction": 4.41,
+    "value": "up on the internet and this guy was my"
+  },
+  {
+    "start": 769.069,
+    "duraction": 6.27,
+    "value": "hero yes he had a he had a time where he"
+  },
+  {
+    "start": 772.04,
+    "duraction": 4.739,
+    "value": "was filling a niche for sure yeah well"
+  },
+  {
+    "start": 775.339,
+    "duraction": 2.43,
+    "value": "either way trust him or not you got to"
+  },
+  {
+    "start": 776.779,
+    "duraction": 3.781,
+    "value": "pay attention to him because he's a"
+  },
+  {
+    "start": 777.769,
+    "duraction": 4.32,
+    "value": "player but oh yeah oh yeah um sorry to"
+  },
+  {
+    "start": 780.56,
+    "duraction": 3.959,
+    "value": "get off the topic back to the visa wall"
+  },
+  {
+    "start": 782.089,
+    "duraction": 4.021,
+    "value": "well it kind of is on topic don't yeah"
+  },
+  {
+    "start": 784.519,
+    "duraction": 5.49,
+    "value": "because we're talking about"
+  },
+  {
+    "start": 786.11,
+    "duraction": 6.18,
+    "value": "centralization being a putting putting"
+  },
+  {
+    "start": 790.009,
+    "duraction": 4.95,
+    "value": "on bull's-eye on your back right so Alex"
+  },
+  {
+    "start": 792.29,
+    "duraction": 5.609,
+    "value": "Jones is a centralized figure people can"
+  },
+  {
+    "start": 794.959,
+    "duraction": 5.911,
+    "value": "put pressure on Alex Jones it's harder"
+  },
+  {
+    "start": 797.899,
+    "duraction": 4.111,
+    "value": "to put pressure on cue nobody knows who"
+  },
+  {
+    "start": 800.87,
+    "duraction": 3.0,
+    "value": "Q is"
+  },
+  {
+    "start": 802.01,
+    "duraction": 3.9,
+    "value": "wherever don't know if you don't know"
+  },
+  {
+    "start": 803.87,
+    "duraction": 4.77,
+    "value": "who Q is how can you put pressure on"
+  },
+  {
+    "start": 805.91,
+    "duraction": 5.4,
+    "value": "them or then on top of that the Rando is"
+  },
+  {
+    "start": 808.64,
+    "duraction": 6.78,
+    "value": "on the Internet yeah it knows who they"
+  },
+  {
+    "start": 811.31,
+    "duraction": 8.04,
+    "value": "are and the trip code hack that is is"
+  },
+  {
+    "start": 815.42,
+    "duraction": 6.48,
+    "value": "cosmetic yeah and he cured already set"
+  },
+  {
+    "start": 819.35,
+    "duraction": 4.44,
+    "value": "up you know means he was expecting it"
+  },
+  {
+    "start": 821.9,
+    "duraction": 5.97,
+    "value": "and was kind of a setup I think right"
+  },
+  {
+    "start": 823.79,
+    "duraction": 7.2,
+    "value": "yeah yeah cuz what I the way I took it"
+  },
+  {
+    "start": 827.87,
+    "duraction": 5.64,
+    "value": "was that all of these alt media figures"
+  },
+  {
+    "start": 830.99,
+    "duraction": 4.65,
+    "value": "were using that against him mmm right"
+  },
+  {
+    "start": 833.51,
+    "duraction": 3.66,
+    "value": "right as of course the MSM we're coming"
+  },
+  {
+    "start": 835.64,
+    "duraction": 3.09,
+    "value": "out and attacking and doing their"
+  },
+  {
+    "start": 837.17,
+    "duraction": 3.48,
+    "value": "censorship and everything else all of it"
+  },
+  {
+    "start": 838.73,
+    "duraction": 5.61,
+    "value": "kind of hit it once but now the alt"
+  },
+  {
+    "start": 840.65,
+    "duraction": 5.19,
+    "value": "media figures kind of looks stupid you"
+  },
+  {
+    "start": 844.34,
+    "duraction": 3.72,
+    "value": "know I'm thinking that maybe it's the"
+  },
+  {
+    "start": 845.84,
+    "duraction": 5.7,
+    "value": "time to switch from just focusing on the"
+  },
+  {
+    "start": 848.06,
+    "duraction": 6.78,
+    "value": "MSM and start purging are fakes yeah"
+  },
+  {
+    "start": 851.54,
+    "duraction": 5.79,
+    "value": "could be I think I think really what"
+  },
+  {
+    "start": 854.84,
+    "duraction": 10.08,
+    "value": "what should be we should focus on is"
+  },
+  {
+    "start": 857.33,
+    "duraction": 11.22,
+    "value": "improving the our ability to tell like"
+  },
+  {
+    "start": 864.92,
+    "duraction": 5.1,
+    "value": "what raises red flags because Flay if"
+  },
+  {
+    "start": 868.55,
+    "duraction": 4.2,
+    "value": "you look at people who are not like"
+  },
+  {
+    "start": 870.02,
+    "duraction": 4.89,
+    "value": "attacking the argument we saw this we"
+  },
+  {
+    "start": 872.75,
+    "duraction": 4.59,
+    "value": "were kind of watching David Seaman for"
+  },
+  {
+    "start": 874.91,
+    "duraction": 5.79,
+    "value": "quite some time and then his sudden like"
+  },
+  {
+    "start": 877.34,
+    "duraction": 6.02,
+    "value": "fulcrum news is something like attack on"
+  },
+  {
+    "start": 880.7,
+    "duraction": 5.4,
+    "value": "cue it just didn't it didn't make sense"
+  },
+  {
+    "start": 883.36,
+    "duraction": 4.6,
+    "value": "right but there was no logical reason"
+  },
+  {
+    "start": 886.1,
+    "duraction": 4.32,
+    "value": "than he was just attacking saying that"
+  },
+  {
+    "start": 887.96,
+    "duraction": 5.16,
+    "value": "cue was bad for some reason he wasn't"
+  },
+  {
+    "start": 890.42,
+    "duraction": 4.17,
+    "value": "fully explaining himself yeah he had a"
+  },
+  {
+    "start": 893.12,
+    "duraction": 4.95,
+    "value": "lot of character attacks like they're"
+  },
+  {
+    "start": 894.59,
+    "duraction": 5.7,
+    "value": "doing and saying his sources in DC were"
+  },
+  {
+    "start": 898.07,
+    "duraction": 6.69,
+    "value": "the best and he's certain certain"
+  },
+  {
+    "start": 900.29,
+    "duraction": 7.23,
+    "value": "certain and all of it was certainly not"
+  },
+  {
+    "start": 904.76,
+    "duraction": 5.19,
+    "value": "what I'm looking for in a compelling"
+  },
+  {
+    "start": 907.52,
+    "duraction": 4.47,
+    "value": "argument oh yeah I used to like him I"
+  },
+  {
+    "start": 909.95,
+    "duraction": 4.08,
+    "value": "used to respect him for it not not his"
+  },
+  {
+    "start": 911.99,
+    "duraction": 3.33,
+    "value": "personality because you know just sit"
+  },
+  {
+    "start": 914.03,
+    "duraction": 3.98,
+    "value": "there smoke pot brag about your"
+  },
+  {
+    "start": 915.32,
+    "duraction": 6.0,
+    "value": "aetherium all day and then insult people"
+  },
+  {
+    "start": 918.01,
+    "duraction": 6.16,
+    "value": "but he was he was on pedo gay right and"
+  },
+  {
+    "start": 921.32,
+    "duraction": 6.03,
+    "value": "yeah history yeah I I really appreciated"
+  },
+  {
+    "start": 924.17,
+    "duraction": 5.16,
+    "value": "his rants against these people even Liz"
+  },
+  {
+    "start": 927.35,
+    "duraction": 3.72,
+    "value": "croakin yeah we that was just like the"
+  },
+  {
+    "start": 929.33,
+    "duraction": 2.97,
+    "value": "emotional stuff like even Liz croakin"
+  },
+  {
+    "start": 931.07,
+    "duraction": 3.33,
+    "value": "called him out basically for not"
+  },
+  {
+    "start": 932.3,
+    "duraction": 3.3,
+    "value": "actually doing a lot for pizza gate you"
+  },
+  {
+    "start": 934.4,
+    "duraction": 3.41,
+    "value": "know disclosure"
+  },
+  {
+    "start": 935.6,
+    "duraction": 5.82,
+    "value": "but just bitching a lot about cue and uh"
+  },
+  {
+    "start": 937.81,
+    "duraction": 9.279,
+    "value": "you know he lied about me like I was"
+  },
+  {
+    "start": 941.42,
+    "duraction": 7.409,
+    "value": "whatever I'm done yeah you know I don't"
+  },
+  {
+    "start": 947.089,
+    "duraction": 3.81,
+    "value": "even think you like like I've been in"
+  },
+  {
+    "start": 948.829,
+    "duraction": 3.81,
+    "value": "other events with other people where"
+  },
+  {
+    "start": 950.899,
+    "duraction": 3.551,
+    "value": "there's like a multiple thing going on"
+  },
+  {
+    "start": 952.639,
+    "duraction": 4.041,
+    "value": "and he won't show because I'm invited"
+  },
+  {
+    "start": 954.45,
+    "duraction": 5.569,
+    "value": "[Laughter]"
+  },
+  {
+    "start": 956.68,
+    "duraction": 5.649,
+    "value": "over on the other channel like the the"
+  },
+  {
+    "start": 960.019,
+    "duraction": 7.141,
+    "value": "uni rock channel they call me he who not"
+  },
+  {
+    "start": 962.329,
+    "duraction": 9.211,
+    "value": "who will not be named no I love it it's"
+  },
+  {
+    "start": 967.16,
+    "duraction": 6.9,
+    "value": "so hilarious but it's funny a badge of"
+  },
+  {
+    "start": 971.54,
+    "duraction": 5.099,
+    "value": "honor I guess but assuming and that"
+  },
+  {
+    "start": 974.06,
+    "duraction": 6.54,
+    "value": "whole first attack sort of illustrates"
+  },
+  {
+    "start": 976.639,
+    "duraction": 7.051,
+    "value": "the the point of you shouldn't pay"
+  },
+  {
+    "start": 980.6,
+    "duraction": 5.359,
+    "value": "attention to just character attack it's"
+  },
+  {
+    "start": 983.69,
+    "duraction": 5.579,
+    "value": "important when somebody attacks an idea"
+  },
+  {
+    "start": 985.959,
+    "duraction": 5.831,
+    "value": "it's not important if they attack just"
+  },
+  {
+    "start": 989.269,
+    "duraction": 6.151,
+    "value": "the character you can be a horrible"
+  },
+  {
+    "start": 991.79,
+    "duraction": 8.13,
+    "value": "person but with good ideas mm-hmm and"
+  },
+  {
+    "start": 995.42,
+    "duraction": 6.18,
+    "value": "actually okay some I get some ideas but"
+  },
+  {
+    "start": 999.92,
+    "duraction": 4.169,
+    "value": "the part of what makes you horrible is"
+  },
+  {
+    "start": 1001.6,
+    "duraction": 5.7,
+    "value": "just you have some bad idea really bad"
+  },
+  {
+    "start": 1004.089,
+    "duraction": 10.951,
+    "value": "idea in music you can be the dumbest man"
+  },
+  {
+    "start": 1007.3,
+    "duraction": 10.05,
+    "value": "in the world and yeah yeah and but yes"
+  },
+  {
+    "start": 1015.04,
+    "duraction": 5.01,
+    "value": "you can be you can or you can do some"
+  },
+  {
+    "start": 1017.35,
+    "duraction": 4.739,
+    "value": "nefarious things and have had a had a"
+  },
+  {
+    "start": 1020.05,
+    "duraction": 5.149,
+    "value": "checkered past and still have good ideas"
+  },
+  {
+    "start": 1022.089,
+    "duraction": 6.391,
+    "value": "can still be of benefit to society and"
+  },
+  {
+    "start": 1025.199,
+    "duraction": 6.73,
+    "value": "to you in your past so much as it"
+  },
+  {
+    "start": 1028.48,
+    "duraction": 6.0,
+    "value": "matters what you're saying right now I"
+  },
+  {
+    "start": 1031.929,
+    "duraction": 4.591,
+    "value": "would say rephrase it from so much from"
+  },
+  {
+    "start": 1034.48,
+    "duraction": 4.14,
+    "value": "good ideas to truth you know or true"
+  },
+  {
+    "start": 1036.52,
+    "duraction": 5.789,
+    "value": "statements or you know as close as we"
+  },
+  {
+    "start": 1038.62,
+    "duraction": 5.4,
+    "value": "can get so even even a blind man can be"
+  },
+  {
+    "start": 1042.309,
+    "duraction": 5.311,
+    "value": "right or even a dumb man can be right or"
+  },
+  {
+    "start": 1044.02,
+    "duraction": 6.269,
+    "value": "even a murderer can be right yeah can I"
+  },
+  {
+    "start": 1047.62,
+    "duraction": 5.0,
+    "value": "can I take that as an opportunity to"
+  },
+  {
+    "start": 1050.289,
+    "duraction": 6.241,
+    "value": "explain the constraint cycle yeah"
+  },
+  {
+    "start": 1052.62,
+    "duraction": 5.65,
+    "value": "because you bring up truth so truth is a"
+  },
+  {
+    "start": 1056.53,
+    "duraction": 6.72,
+    "value": "tricky thing because it's something we"
+  },
+  {
+    "start": 1058.27,
+    "duraction": 6.899,
+    "value": "all want but it has a tendency to betray"
+  },
+  {
+    "start": 1063.25,
+    "duraction": 4.83,
+    "value": "a bit because we can feel like something"
+  },
+  {
+    "start": 1065.169,
+    "duraction": 4.0,
+    "value": "is true and that feeling is kind of a"
+  },
+  {
+    "start": 1068.08,
+    "duraction": 2.65,
+    "value": "surrogate"
+  },
+  {
+    "start": 1069.169,
+    "duraction": 4.86,
+    "value": "are actually understanding what's going"
+  },
+  {
+    "start": 1070.73,
+    "duraction": 6.36,
+    "value": "on mm-hmm so people can get distracted"
+  },
+  {
+    "start": 1074.029,
+    "duraction": 6.78,
+    "value": "by how confident they are that they lose"
+  },
+  {
+    "start": 1077.09,
+    "duraction": 8.85,
+    "value": "track of what the real truth is so the"
+  },
+  {
+    "start": 1080.809,
+    "duraction": 8.671,
+    "value": "constraint cycle is a way to tease the"
+  },
+  {
+    "start": 1085.94,
+    "duraction": 5.729,
+    "value": "truth out iteratively and it's something"
+  },
+  {
+    "start": 1089.48,
+    "duraction": 5.699,
+    "value": "I've used as a programmer and that I"
+  },
+  {
+    "start": 1091.669,
+    "duraction": 5.671,
+    "value": "advocate in in general for all knowledge"
+  },
+  {
+    "start": 1095.179,
+    "duraction": 5.401,
+    "value": "building because it sets up an obstacle"
+  },
+  {
+    "start": 1097.34,
+    "duraction": 7.11,
+    "value": "course for information so you put a"
+  },
+  {
+    "start": 1100.58,
+    "duraction": 6.809,
+    "value": "guess especially an explanatory guess"
+  },
+  {
+    "start": 1104.45,
+    "duraction": 4.62,
+    "value": "through this obstacle course and the"
+  },
+  {
+    "start": 1107.389,
+    "duraction": 4.86,
+    "value": "obstacle course will put it through"
+  },
+  {
+    "start": 1109.07,
+    "duraction": 5.88,
+    "value": "certain tests and if it fails the tests"
+  },
+  {
+    "start": 1112.249,
+    "duraction": 5.071,
+    "value": "it ends up being a bad guess so the"
+  },
+  {
+    "start": 1114.95,
+    "duraction": 7.199,
+    "value": "tests come in basically four categories"
+  },
+  {
+    "start": 1117.32,
+    "duraction": 7.709,
+    "value": "and they build on each other the first"
+  },
+  {
+    "start": 1122.149,
+    "duraction": 5.85,
+    "value": "one is a logical test you end up"
+  },
+  {
+    "start": 1125.029,
+    "duraction": 7.02,
+    "value": "searching for logical contradictions in"
+  },
+  {
+    "start": 1127.999,
+    "duraction": 6.481,
+    "value": "general so if you ever find that when"
+  },
+  {
+    "start": 1132.049,
+    "duraction": 5.01,
+    "value": "you take this guessed seriously and you"
+  },
+  {
+    "start": 1134.48,
+    "duraction": 5.25,
+    "value": "look at all the parts of it you will"
+  },
+  {
+    "start": 1137.059,
+    "duraction": 6.511,
+    "value": "find certain contradictions like it's"
+  },
+  {
+    "start": 1139.73,
+    "duraction": 5.48,
+    "value": "saying on one hand a is true and then on"
+  },
+  {
+    "start": 1143.57,
+    "duraction": 3.9,
+    "value": "the other hand it's saying a is not true"
+  },
+  {
+    "start": 1145.21,
+    "duraction": 4.38,
+    "value": "and if you hold them together you can"
+  },
+  {
+    "start": 1147.47,
+    "duraction": 8.309,
+    "value": "reveal to yourself this objective"
+  },
+  {
+    "start": 1149.59,
+    "duraction": 8.74,
+    "value": "failure to be coherent and then you back"
+  },
+  {
+    "start": 1155.779,
+    "duraction": 7.22,
+    "value": "up and reevaluate back up and reevaluate"
+  },
+  {
+    "start": 1158.33,
+    "duraction": 9.77,
+    "value": "that's the cycle so the after logic it's"
+  },
+  {
+    "start": 1162.999,
+    "duraction": 7.691,
+    "value": "what we call science in general it's"
+  },
+  {
+    "start": 1168.1,
+    "duraction": 5.199,
+    "value": "searching for logical contradictions"
+  },
+  {
+    "start": 1170.69,
+    "duraction": 6.719,
+    "value": "between what is actual and what is"
+  },
+  {
+    "start": 1173.299,
+    "duraction": 8.1,
+    "value": "expected so your guess an explanatory"
+  },
+  {
+    "start": 1177.409,
+    "duraction": 9.781,
+    "value": "guess is a hypothesis in this case that"
+  },
+  {
+    "start": 1181.399,
+    "duraction": 9.9,
+    "value": "has expectations it says basically this"
+  },
+  {
+    "start": 1187.19,
+    "duraction": 9.479,
+    "value": "is a rule that's been true in the past"
+  },
+  {
+    "start": 1191.299,
+    "duraction": 8.22,
+    "value": "and it also expects it to continue to be"
+  },
+  {
+    "start": 1196.669,
+    "duraction": 6.131,
+    "value": "true so for the things that we will see"
+  },
+  {
+    "start": 1199.519,
+    "duraction": 5.561,
+    "value": "like the results of a future experiment"
+  },
+  {
+    "start": 1202.8,
+    "duraction": 8.67,
+    "value": "we will expect this particular result"
+  },
+  {
+    "start": 1205.08,
+    "duraction": 10.26,
+    "value": "and when we go into the world and test"
+  },
+  {
+    "start": 1211.47,
+    "duraction": 7.44,
+    "value": "that particular result we have an"
+  },
+  {
+    "start": 1215.34,
+    "duraction": 5.88,
+    "value": "opportunity to falsify that guess so"
+  },
+  {
+    "start": 1218.91,
+    "duraction": 6.54,
+    "value": "it's yet another logical contradiction"
+  },
+  {
+    "start": 1221.22,
+    "duraction": 5.61,
+    "value": "but it's between what's what's actual"
+  },
+  {
+    "start": 1225.45,
+    "duraction": 6.44,
+    "value": "that is what we're seeing right in front"
+  },
+  {
+    "start": 1226.83,
+    "duraction": 7.14,
+    "value": "of us and what is expected and that"
+  },
+  {
+    "start": 1231.89,
+    "duraction": 5.08,
+    "value": "contradiction is yet another problem"
+  },
+  {
+    "start": 1233.97,
+    "duraction": 5.67,
+    "value": "that falsifies and again back to the"
+  },
+  {
+    "start": 1236.97,
+    "duraction": 4.77,
+    "value": "drawing board if it passes that"
+  },
+  {
+    "start": 1239.64,
+    "duraction": 5.01,
+    "value": "particular phase the science phase it"
+  },
+  {
+    "start": 1241.74,
+    "duraction": 6.54,
+    "value": "goes on to engineering phase if the"
+  },
+  {
+    "start": 1244.65,
+    "duraction": 5.97,
+    "value": "explanation covers what we're building"
+  },
+  {
+    "start": 1248.28,
+    "duraction": 5.25,
+    "value": "like what kind of world we want or what"
+  },
+  {
+    "start": 1250.62,
+    "duraction": 6.32,
+    "value": "kind of thing we want in our life if"
+  },
+  {
+    "start": 1253.53,
+    "duraction": 6.24,
+    "value": "anytime we're building something and"
+  },
+  {
+    "start": 1256.94,
+    "duraction": 6.13,
+    "value": "this applies to knowledge itself because"
+  },
+  {
+    "start": 1259.77,
+    "duraction": 7.38,
+    "value": "knowledge is built but anytime we're"
+  },
+  {
+    "start": 1263.07,
+    "duraction": 7.56,
+    "value": "building anything we have logical"
+  },
+  {
+    "start": 1267.15,
+    "duraction": 5.52,
+    "value": "contradictions or potential for logical"
+  },
+  {
+    "start": 1270.63,
+    "duraction": 7.35,
+    "value": "contradiction between what we actually"
+  },
+  {
+    "start": 1272.67,
+    "duraction": 7.59,
+    "value": "built and what we expected to build so"
+  },
+  {
+    "start": 1277.98,
+    "duraction": 5.67,
+    "value": "this is building on top of science as"
+  },
+  {
+    "start": 1280.26,
+    "duraction": 4.77,
+    "value": "you can see but it's carrying it forward"
+  },
+  {
+    "start": 1283.65,
+    "duraction": 3.72,
+    "value": "into the realm of building things"
+  },
+  {
+    "start": 1285.03,
+    "duraction": 5.01,
+    "value": "because it's another objective test in"
+  },
+  {
+    "start": 1287.37,
+    "duraction": 8.28,
+    "value": "that realm so that's the engineering"
+  },
+  {
+    "start": 1290.04,
+    "duraction": 7.89,
+    "value": "realm then finally there is art which is"
+  },
+  {
+    "start": 1295.65,
+    "duraction": 6.42,
+    "value": "a search for logical contradictions"
+  },
+  {
+    "start": 1297.93,
+    "duraction": 6.86,
+    "value": "between the impression of what you have"
+  },
+  {
+    "start": 1302.07,
+    "duraction": 7.47,
+    "value": "built what you've actually built and"
+  },
+  {
+    "start": 1304.79,
+    "duraction": 7.15,
+    "value": "what impressions we expected to build so"
+  },
+  {
+    "start": 1309.54,
+    "duraction": 4.41,
+    "value": "it's getting more specific but"
+  },
+  {
+    "start": 1311.94,
+    "duraction": 5.78,
+    "value": "essentially as an artist you are"
+  },
+  {
+    "start": 1313.95,
+    "duraction": 7.08,
+    "value": "building some piece of art and you are"
+  },
+  {
+    "start": 1317.72,
+    "duraction": 4.96,
+    "value": "gathering an impression and you are"
+  },
+  {
+    "start": 1321.03,
+    "duraction": 5.01,
+    "value": "deciding for yourself if that's the"
+  },
+  {
+    "start": 1322.68,
+    "duraction": 5.72,
+    "value": "impression you wanted like some kind of"
+  },
+  {
+    "start": 1326.04,
+    "duraction": 5.12,
+    "value": "experience or feeling or some kind of"
+  },
+  {
+    "start": 1328.4,
+    "duraction": 6.09,
+    "value": "atmosphere you're trying to strike and"
+  },
+  {
+    "start": 1331.16,
+    "duraction": 5.499,
+    "value": "if that is on-track"
+  },
+  {
+    "start": 1334.49,
+    "duraction": 3.97,
+    "value": "you can"
+  },
+  {
+    "start": 1336.659,
+    "duraction": 4.35,
+    "value": "that into the world and let it live its"
+  },
+  {
+    "start": 1338.46,
+    "duraction": 6.439,
+    "value": "life and give other people impressions"
+  },
+  {
+    "start": 1341.009,
+    "duraction": 7.47,
+    "value": "that go on to give people new ideas and"
+  },
+  {
+    "start": 1344.899,
+    "duraction": 7.181,
+    "value": "those new ideas can then go back into"
+  },
+  {
+    "start": 1348.479,
+    "duraction": 6.591,
+    "value": "this constraint cycle and it begins anew"
+  },
+  {
+    "start": 1352.08,
+    "duraction": 5.579,
+    "value": "so that's the constraint cycle it's"
+  },
+  {
+    "start": 1355.07,
+    "duraction": 4.63,
+    "value": "really just a description of a process"
+  },
+  {
+    "start": 1357.659,
+    "duraction": 5.311,
+    "value": "of how to build knowledge by employing"
+  },
+  {
+    "start": 1359.7,
+    "duraction": 5.549,
+    "value": "objective tests and it takes the ego out"
+  },
+  {
+    "start": 1362.97,
+    "duraction": 3.629,
+    "value": "of it you know you don't have to be you"
+  },
+  {
+    "start": 1365.249,
+    "duraction": 4.35,
+    "value": "know hurt if you're wrong is kind of"
+  },
+  {
+    "start": 1366.599,
+    "duraction": 6.991,
+    "value": "looking at it like a scientist exactly"
+  },
+  {
+    "start": 1369.599,
+    "duraction": 6.54,
+    "value": "yeah only expanded because it includes"
+  },
+  {
+    "start": 1373.59,
+    "duraction": 4.86,
+    "value": "things like for science there's"
+  },
+  {
+    "start": 1376.139,
+    "duraction": 6.811,
+    "value": "reproducibility of experiments but that"
+  },
+  {
+    "start": 1378.45,
+    "duraction": 6.209,
+    "value": "usually is in terms of things that was"
+  },
+  {
+    "start": 1382.95,
+    "duraction": 4.02,
+    "value": "actually there you're trying to figure"
+  },
+  {
+    "start": 1384.659,
+    "duraction": 4.59,
+    "value": "out what's actually there and rather"
+  },
+  {
+    "start": 1386.97,
+    "duraction": 6.12,
+    "value": "than hypothesis is trying to define"
+  },
+  {
+    "start": 1389.249,
+    "duraction": 5.31,
+    "value": "what's expected yeah and that's after"
+  },
+  {
+    "start": 1393.09,
+    "duraction": 3.389,
+    "value": "you've built this thing and it's lit"
+  },
+  {
+    "start": 1394.559,
+    "duraction": 4.021,
+    "value": "it's going on to live its life in the"
+  },
+  {
+    "start": 1396.479,
+    "duraction": 4.471,
+    "value": "real world you can still gather"
+  },
+  {
+    "start": 1398.58,
+    "duraction": 5.099,
+    "value": "information about it and you can still"
+  },
+  {
+    "start": 1400.95,
+    "duraction": 5.64,
+    "value": "be wrong about this or that but like"
+  },
+  {
+    "start": 1403.679,
+    "duraction": 5.7,
+    "value": "like a bridge that eventually degrades"
+  },
+  {
+    "start": 1406.59,
+    "duraction": 4.409,
+    "value": "and and falls apart in 40 years or"
+  },
+  {
+    "start": 1409.379,
+    "duraction": 3.93,
+    "value": "something and you ought to get it to"
+  },
+  {
+    "start": 1410.999,
+    "duraction": 4.5,
+    "value": "fall apart in 50 or whatever something"
+  },
+  {
+    "start": 1413.309,
+    "duraction": 3.87,
+    "value": "yeah you can eventually learn that you"
+  },
+  {
+    "start": 1415.499,
+    "duraction": 4.02,
+    "value": "were wrong about something and that's"
+  },
+  {
+    "start": 1417.179,
+    "duraction": 4.47,
+    "value": "the attitude that it takes is that every"
+  },
+  {
+    "start": 1419.519,
+    "duraction": 4.921,
+    "value": "idea that you pass through you're not"
+  },
+  {
+    "start": 1421.649,
+    "duraction": 5.7,
+    "value": "looking to support the idea you're"
+  },
+  {
+    "start": 1424.44,
+    "duraction": 6.059,
+    "value": "looking to rule it out so you're trying"
+  },
+  {
+    "start": 1427.349,
+    "duraction": 7.44,
+    "value": "to apply all of these tests as a measure"
+  },
+  {
+    "start": 1430.499,
+    "duraction": 7.92,
+    "value": "of constraint and that constraint is"
+  },
+  {
+    "start": 1434.789,
+    "duraction": 7.37,
+    "value": "what gives you an objective way of"
+  },
+  {
+    "start": 1438.419,
+    "duraction": 5.97,
+    "value": "telling if this is a good guess without"
+  },
+  {
+    "start": 1442.159,
+    "duraction": 5.02,
+    "value": "saying that this is likely to be true"
+  },
+  {
+    "start": 1444.389,
+    "duraction": 5.46,
+    "value": "it's just a really good like way of"
+  },
+  {
+    "start": 1447.179,
+    "duraction": 5.641,
+    "value": "disqualifying or you know simplified a"
+  },
+  {
+    "start": 1449.849,
+    "duraction": 7.14,
+    "value": "bullshit filter yeah"
+  },
+  {
+    "start": 1452.82,
+    "duraction": 8.599,
+    "value": "the there's a sort of contradiction when"
+  },
+  {
+    "start": 1456.989,
+    "duraction": 8.991,
+    "value": "we use the term truth between being"
+  },
+  {
+    "start": 1461.419,
+    "duraction": 6.571,
+    "value": "looking for truth and being open-minded"
+  },
+  {
+    "start": 1465.98,
+    "duraction": 6.11,
+    "value": "if you believe you have the truth"
+  },
+  {
+    "start": 1467.99,
+    "duraction": 7.59,
+    "value": "already why would you keep an open mind"
+  },
+  {
+    "start": 1472.09,
+    "duraction": 6.66,
+    "value": "why would you keep looking for problems"
+  },
+  {
+    "start": 1475.58,
+    "duraction": 6.78,
+    "value": "in what you know well if you honestly"
+  },
+  {
+    "start": 1478.75,
+    "duraction": 6.34,
+    "value": "believed you were correct see this is"
+  },
+  {
+    "start": 1482.36,
+    "duraction": 4.74,
+    "value": "the thing with humans like we we we take"
+  },
+  {
+    "start": 1485.09,
+    "duraction": 4.02,
+    "value": "the path of least resistance so we kind"
+  },
+  {
+    "start": 1487.1,
+    "duraction": 4.14,
+    "value": "of get into that like quick summary"
+  },
+  {
+    "start": 1489.11,
+    "duraction": 5.1,
+    "value": "version and then make a make a belief"
+  },
+  {
+    "start": 1491.24,
+    "duraction": 4.74,
+    "value": "decision tire you go to it and then you"
+  },
+  {
+    "start": 1494.21,
+    "duraction": 4.29,
+    "value": "know we just most of us just go off what"
+  },
+  {
+    "start": 1495.98,
+    "duraction": 5.55,
+    "value": "the common wisdom is herb or I like to"
+  },
+  {
+    "start": 1498.5,
+    "duraction": 5.52,
+    "value": "call it the the collective wisdom of"
+  },
+  {
+    "start": 1501.53,
+    "duraction": 5.13,
+    "value": "individual ignorance but prevailing"
+  },
+  {
+    "start": 1504.02,
+    "duraction": 4.23,
+    "value": "winds yeah just kind of make that"
+  },
+  {
+    "start": 1506.66,
+    "duraction": 3.48,
+    "value": "assessment and then that's what they"
+  },
+  {
+    "start": 1508.25,
+    "duraction": 3.12,
+    "value": "stick to because their egos involved and"
+  },
+  {
+    "start": 1510.14,
+    "duraction": 3.06,
+    "value": "then they don't go back and they don't"
+  },
+  {
+    "start": 1511.37,
+    "duraction": 4.35,
+    "value": "really don't do any of this what's"
+  },
+  {
+    "start": 1513.2,
+    "duraction": 7.74,
+    "value": "interesting is its relative it's"
+  },
+  {
+    "start": 1515.72,
+    "duraction": 9.93,
+    "value": "actually should be easier to not tie"
+  },
+  {
+    "start": 1520.94,
+    "duraction": 6.6,
+    "value": "your ego to any such idea so so we have"
+  },
+  {
+    "start": 1525.65,
+    "duraction": 4.38,
+    "value": "this idea that we should have you know"
+  },
+  {
+    "start": 1527.54,
+    "duraction": 4.53,
+    "value": "like we have this view of the world and"
+  },
+  {
+    "start": 1530.03,
+    "duraction": 5.19,
+    "value": "that view is bright and anything that"
+  },
+  {
+    "start": 1532.07,
+    "duraction": 4.77,
+    "value": "messes with that worldview is too much"
+  },
+  {
+    "start": 1535.22,
+    "duraction": 5.64,
+    "value": "for us to deal with we shouldn't deal"
+  },
+  {
+    "start": 1536.84,
+    "duraction": 6.15,
+    "value": "with it mm-hmm but it's easier to say"
+  },
+  {
+    "start": 1540.86,
+    "duraction": 5.76,
+    "value": "well this is how I think the world is"
+  },
+  {
+    "start": 1542.99,
+    "duraction": 9.18,
+    "value": "but I'm not exactly sure and this is"
+  },
+  {
+    "start": 1546.62,
+    "duraction": 9.66,
+    "value": "like I'm pretty agnostic in terms of my"
+  },
+  {
+    "start": 1552.17,
+    "duraction": 6.0,
+    "value": "my belief in God and all a theist will"
+  },
+  {
+    "start": 1556.28,
+    "duraction": 3.99,
+    "value": "argue oh well you're just being lazy"
+  },
+  {
+    "start": 1558.17,
+    "duraction": 4.5,
+    "value": "then and that's and that's kind of true"
+  },
+  {
+    "start": 1560.27,
+    "duraction": 4.95,
+    "value": "because I'm I'm not necessarily taking a"
+  },
+  {
+    "start": 1562.67,
+    "duraction": 5.43,
+    "value": "stance because I don't need to take a"
+  },
+  {
+    "start": 1565.22,
+    "duraction": 4.89,
+    "value": "stance and when you get your ego"
+  },
+  {
+    "start": 1568.1,
+    "duraction": 5.37,
+    "value": "involved it's often more work to try to"
+  },
+  {
+    "start": 1570.11,
+    "duraction": 5.94,
+    "value": "keep that worldview together and be what"
+  },
+  {
+    "start": 1573.47,
+    "duraction": 4.95,
+    "value": "you think is right than it is to not"
+  },
+  {
+    "start": 1576.05,
+    "duraction": 5.46,
+    "value": "keep the world be together and be wrong"
+  },
+  {
+    "start": 1578.42,
+    "duraction": 4.2,
+    "value": "sometimes be wrong often in fact we're"
+  },
+  {
+    "start": 1581.51,
+    "duraction": 4.05,
+    "value": "always wrong"
+  },
+  {
+    "start": 1582.62,
+    "duraction": 5.01,
+    "value": "I like being wrong I liked a proven"
+  },
+  {
+    "start": 1585.56,
+    "duraction": 4.62,
+    "value": "wrong and I like people now correct"
+  },
+  {
+    "start": 1587.63,
+    "duraction": 4.05,
+    "value": "and explain why you're wrong yeah that's"
+  },
+  {
+    "start": 1590.18,
+    "duraction": 3.66,
+    "value": "the best because then you get that's"
+  },
+  {
+    "start": 1591.68,
+    "duraction": 3.99,
+    "value": "correct your behavior they do you a"
+  },
+  {
+    "start": 1593.84,
+    "duraction": 4.98,
+    "value": "favor when they do that but so many"
+  },
+  {
+    "start": 1595.67,
+    "duraction": 4.2,
+    "value": "people get angry yeah they feel"
+  },
+  {
+    "start": 1598.82,
+    "duraction": 2.82,
+    "value": "challenged and then"
+  },
+  {
+    "start": 1599.87,
+    "duraction": 3.15,
+    "value": "that eco and I don't know yeah I don't"
+  },
+  {
+    "start": 1601.64,
+    "duraction": 2.91,
+    "value": "I've always been trying to figure out"
+  },
+  {
+    "start": 1603.02,
+    "duraction": 3.39,
+    "value": "how to disassociate people's egos from"
+  },
+  {
+    "start": 1604.55,
+    "duraction": 3.63,
+    "value": "their views so that I can I can actually"
+  },
+  {
+    "start": 1606.41,
+    "duraction": 3.75,
+    "value": "get across to them and debates but"
+  },
+  {
+    "start": 1608.18,
+    "duraction": 4.11,
+    "value": "really you know I actually I gave up and"
+  },
+  {
+    "start": 1610.16,
+    "duraction": 4.53,
+    "value": "I just decided to to make use of them"
+  },
+  {
+    "start": 1612.29,
+    "duraction": 4.08,
+    "value": "and and you know do the useful useful"
+  },
+  {
+    "start": 1614.69,
+    "duraction": 3.93,
+    "value": "debate concept or the useful idiot"
+  },
+  {
+    "start": 1616.37,
+    "duraction": 3.48,
+    "value": "concept where I show the audience that"
+  },
+  {
+    "start": 1618.62,
+    "duraction": 3.66,
+    "value": "this person has no idea what they're"
+  },
+  {
+    "start": 1619.85,
+    "duraction": 5.31,
+    "value": "talking about right yeah it's an"
+  },
+  {
+    "start": 1622.28,
+    "duraction": 4.95,
+    "value": "important skill to be able to take"
+  },
+  {
+    "start": 1625.16,
+    "duraction": 5.58,
+    "value": "pretty much an entire worldview"
+  },
+  {
+    "start": 1627.23,
+    "duraction": 8.55,
+    "value": "seriously for just a second just like a"
+  },
+  {
+    "start": 1630.74,
+    "duraction": 7.77,
+    "value": "moment to discuss with someone the"
+  },
+  {
+    "start": 1635.78,
+    "duraction": 4.98,
+    "value": "merits or flaws of it and then and then"
+  },
+  {
+    "start": 1638.51,
+    "duraction": 3.72,
+    "value": "come back up for error and then come"
+  },
+  {
+    "start": 1640.76,
+    "duraction": 2.64,
+    "value": "back over to another worldview that"
+  },
+  {
+    "start": 1642.23,
+    "duraction": 2.91,
+    "value": "you're more familiar with"
+  },
+  {
+    "start": 1643.4,
+    "duraction": 3.029,
+    "value": "there's a quote kind of it says"
+  },
+  {
+    "start": 1645.14,
+    "duraction": 2.73,
+    "value": "basically what you just said I don't"
+  },
+  {
+    "start": 1646.429,
+    "duraction": 2.731,
+    "value": "remember what it is exactly but it was"
+  },
+  {
+    "start": 1647.87,
+    "duraction": 3.51,
+    "value": "something along the lines of holding"
+  },
+  {
+    "start": 1649.16,
+    "duraction": 4.47,
+    "value": "multiple conflicting ideas in your head"
+  },
+  {
+    "start": 1651.38,
+    "duraction": 3.44,
+    "value": "at once is like the mark of a great mind"
+  },
+  {
+    "start": 1653.63,
+    "duraction": 4.679,
+    "value": "or something like that"
+  },
+  {
+    "start": 1654.82,
+    "duraction": 6.04,
+    "value": "well it's not that you're holding"
+  },
+  {
+    "start": 1658.309,
+    "duraction": 5.701,
+    "value": "conflicting ideas that's important it's"
+  },
+  {
+    "start": 1660.86,
+    "duraction": 6.06,
+    "value": "that you are able to Ewing that's what I"
+  },
+  {
+    "start": 1664.01,
+    "duraction": 4.56,
+    "value": "mean yeah yeah because it would it would"
+  },
+  {
+    "start": 1666.92,
+    "duraction": 5.42,
+    "value": "be conflicting if you held all the"
+  },
+  {
+    "start": 1668.57,
+    "duraction": 6.66,
+    "value": "worldviews in your head yeah at once"
+  },
+  {
+    "start": 1672.34,
+    "duraction": 4.36,
+    "value": "it's more like the idea of being able to"
+  },
+  {
+    "start": 1675.23,
+    "duraction": 3.15,
+    "value": "like taste them without being"
+  },
+  {
+    "start": 1676.7,
+    "duraction": 4.109,
+    "value": "overwhelmed by them and committing to"
+  },
+  {
+    "start": 1678.38,
+    "duraction": 4.29,
+    "value": "yeah yeah right yeah I can feel very"
+  },
+  {
+    "start": 1680.809,
+    "duraction": 4.861,
+    "value": "overwhelming to take on a whole"
+  },
+  {
+    "start": 1682.67,
+    "duraction": 5.58,
+    "value": "worldview and Intuit on it for a while"
+  },
+  {
+    "start": 1685.67,
+    "duraction": 6.66,
+    "value": "we like the term immerse ourselves in a"
+  },
+  {
+    "start": 1688.25,
+    "duraction": 6.6,
+    "value": "world that's great a lot of people don't"
+  },
+  {
+    "start": 1692.33,
+    "duraction": 4.26,
+    "value": "like like the feeling of it they get"
+  },
+  {
+    "start": 1694.85,
+    "duraction": 4.89,
+    "value": "used to the familiarity of their"
+  },
+  {
+    "start": 1696.59,
+    "duraction": 5.07,
+    "value": "particular foundation it's a it's a it's"
+  },
+  {
+    "start": 1699.74,
+    "duraction": 5.43,
+    "value": "a particularly like jumping in cold"
+  },
+  {
+    "start": 1701.66,
+    "duraction": 5.73,
+    "value": "water that first second of shock for"
+  },
+  {
+    "start": 1705.17,
+    "duraction": 3.81,
+    "value": "some for once you get like used to"
+  },
+  {
+    "start": 1707.39,
+    "duraction": 3.84,
+    "value": "jumping in cold water you kind of like"
+  },
+  {
+    "start": 1708.98,
+    "duraction": 2.85,
+    "value": "it because you're like yeah yeah it's"
+  },
+  {
+    "start": 1711.23,
+    "duraction": 3.18,
+    "value": "really good"
+  },
+  {
+    "start": 1711.83,
+    "duraction": 6.3,
+    "value": "but then but the first time you do it"
+  },
+  {
+    "start": 1714.41,
+    "duraction": 5.85,
+    "value": "like this is awful I don't know why but"
+  },
+  {
+    "start": 1718.13,
+    "duraction": 4.47,
+    "value": "this is gonna be an even more important"
+  },
+  {
+    "start": 1720.26,
+    "duraction": 5.52,
+    "value": "skill as we you know probably over the"
+  },
+  {
+    "start": 1722.6,
+    "duraction": 5.73,
+    "value": "next few years yeah I think I think"
+  },
+  {
+    "start": 1725.78,
+    "duraction": 5.21,
+    "value": "because the the current foundation"
+  },
+  {
+    "start": 1728.33,
+    "duraction": 4.349,
+    "value": "that's set up by the mainstream is"
+  },
+  {
+    "start": 1730.99,
+    "duraction": 4.96,
+    "value": "crumbling"
+  },
+  {
+    "start": 1732.679,
+    "duraction": 5.041,
+    "value": "as we speak and people are going to have"
+  },
+  {
+    "start": 1735.95,
+    "duraction": 4.829,
+    "value": "to reevaluate the foundation they were"
+  },
+  {
+    "start": 1737.72,
+    "duraction": 4.89,
+    "value": "given the entire thing and and the the"
+  },
+  {
+    "start": 1740.779,
+    "duraction": 3.421,
+    "value": "whole economic system and everything"
+  },
+  {
+    "start": 1742.61,
+    "duraction": 3.659,
+    "value": "else is falling at the same time so"
+  },
+  {
+    "start": 1744.2,
+    "duraction": 5.28,
+    "value": "there is going to be some sort of a"
+  },
+  {
+    "start": 1746.269,
+    "duraction": 4.591,
+    "value": "breaking before there's a fixing and I"
+  },
+  {
+    "start": 1749.48,
+    "duraction": 3.419,
+    "value": "just don't know how to get people ready"
+  },
+  {
+    "start": 1750.86,
+    "duraction": 6.11,
+    "value": "for that and it's on a personal level"
+  },
+  {
+    "start": 1752.899,
+    "duraction": 7.65,
+    "value": "that breaking happens in at your head"
+  },
+  {
+    "start": 1756.97,
+    "duraction": 7.39,
+    "value": "not on a societal level necessarily it"
+  },
+  {
+    "start": 1760.549,
+    "duraction": 7.291,
+    "value": "was a very individual thing so everyone"
+  },
+  {
+    "start": 1764.36,
+    "duraction": 6.029,
+    "value": "will have to face it give me one second"
+  },
+  {
+    "start": 1767.84,
+    "duraction": 4.799,
+    "value": "here hey everyone this is Dustin emos"
+  },
+  {
+    "start": 1770.389,
+    "duraction": 5.311,
+    "value": "and briefly I want to take a moment of"
+  },
+  {
+    "start": 1772.639,
+    "duraction": 4.53,
+    "value": "your time to discuss carbon 60 and some"
+  },
+  {
+    "start": 1775.7,
+    "duraction": 2.969,
+    "value": "of the other products that we discuss on"
+  },
+  {
+    "start": 1777.169,
+    "duraction": 2.97,
+    "value": "this show now if you've been around the"
+  },
+  {
+    "start": 1778.669,
+    "duraction": 3.39,
+    "value": "show a while you know I like to talk"
+  },
+  {
+    "start": 1780.139,
+    "duraction": 5.16,
+    "value": "about game changers I like to talk about"
+  },
+  {
+    "start": 1782.059,
+    "duraction": 5.49,
+    "value": "high impact and preferably low costs and"
+  },
+  {
+    "start": 1785.299,
+    "duraction": 4.71,
+    "value": "often times things that you can di why"
+  },
+  {
+    "start": 1787.549,
+    "duraction": 4.411,
+    "value": "at home to really change your health I"
+  },
+  {
+    "start": 1790.009,
+    "duraction": 4.081,
+    "value": "mean health starts with research and"
+  },
+  {
+    "start": 1791.96,
+    "duraction": 4.5,
+    "value": "quality products now if you're making"
+  },
+  {
+    "start": 1794.09,
+    "duraction": 4.65,
+    "value": "your own c60 it's really imperative to"
+  },
+  {
+    "start": 1796.46,
+    "duraction": 3.99,
+    "value": "get high quality oil I've done a little"
+  },
+  {
+    "start": 1798.74,
+    "duraction": 3.45,
+    "value": "bit of research on this and you know the"
+  },
+  {
+    "start": 1800.45,
+    "duraction": 3.78,
+    "value": "California brand is in most stores it's"
+  },
+  {
+    "start": 1802.19,
+    "duraction": 4.14,
+    "value": "great and you can do your own c60 at"
+  },
+  {
+    "start": 1804.23,
+    "duraction": 5.37,
+    "value": "home for those interested I do also"
+  },
+  {
+    "start": 1806.33,
+    "duraction": 5.459,
+    "value": "produce coconut and olive oil c60 my"
+  },
+  {
+    "start": 1809.6,
+    "duraction": 3.63,
+    "value": "brain is called apex but you know we go"
+  },
+  {
+    "start": 1811.789,
+    "duraction": 3.21,
+    "value": "into a lot of other products as well in"
+  },
+  {
+    "start": 1813.23,
+    "duraction": 3.779,
+    "value": "the show but just real briefly I want to"
+  },
+  {
+    "start": 1814.999,
+    "duraction": 4.14,
+    "value": "discuss with you guys kind of some of"
+  },
+  {
+    "start": 1817.009,
+    "duraction": 4.321,
+    "value": "the benefits of c60 according to self"
+  },
+  {
+    "start": 1819.139,
+    "duraction": 5.61,
+    "value": "hacked comm no claims but let's look at"
+  },
+  {
+    "start": 1821.33,
+    "duraction": 5.13,
+    "value": "the research see 60 improves longevity"
+  },
+  {
+    "start": 1824.749,
+    "duraction": 3.81,
+    "value": "possibly as much as you know doubling"
+  },
+  {
+    "start": 1826.46,
+    "duraction": 3.299,
+    "value": "your lifespan like the rats see 60"
+  },
+  {
+    "start": 1828.559,
+    "duraction": 3.151,
+    "value": "protects against free radicals"
+  },
+  {
+    "start": 1829.759,
+    "duraction": 3.451,
+    "value": "inflammation kills viruses it protects"
+  },
+  {
+    "start": 1831.71,
+    "duraction": 3.329,
+    "value": "nerves it prevents osteoarthritis"
+  },
+  {
+    "start": 1833.21,
+    "duraction": 4.559,
+    "value": "improves obesity and metabolic syndrome"
+  },
+  {
+    "start": 1835.039,
+    "duraction": 3.09,
+    "value": "it kills bacteria and it prevents UV"
+  },
+  {
+    "start": 1837.769,
+    "duraction": 3.48,
+    "value": "damage"
+  },
+  {
+    "start": 1838.129,
+    "duraction": 5.64,
+    "value": "alright this stuff is fairly powerful"
+  },
+  {
+    "start": 1841.249,
+    "duraction": 5.04,
+    "value": "it's fairly recent and it's kind of"
+  },
+  {
+    "start": 1843.769,
+    "duraction": 5.191,
+    "value": "experimental because of that but for"
+  },
+  {
+    "start": 1846.289,
+    "duraction": 4.59,
+    "value": "pennies a day I mean in theory you can"
+  },
+  {
+    "start": 1848.96,
+    "duraction": 3.15,
+    "value": "double your lifespan and who can beat"
+  },
+  {
+    "start": 1850.879,
+    "duraction": 3.961,
+    "value": "that for something that the head"
+  },
+  {
+    "start": 1852.11,
+    "duraction": 5.069,
+    "value": "researcher said is safe at high doses"
+  },
+  {
+    "start": 1854.84,
+    "duraction": 4.319,
+    "value": "over long periods of time so stay tuned"
+  },
+  {
+    "start": 1857.179,
+    "duraction": 4.531,
+    "value": "there's definitely some other exciting"
+  },
+  {
+    "start": 1859.159,
+    "duraction": 4.23,
+    "value": "things out there to discuss and this is"
+  },
+  {
+    "start": 1861.71,
+    "duraction": 3.689,
+    "value": "the place to hear about it find this and"
+  },
+  {
+    "start": 1863.389,
+    "duraction": 4.37,
+    "value": "much more at dustin emos comm slash"
+  },
+  {
+    "start": 1865.399,
+    "duraction": 2.36,
+    "value": "support"
+  },
+  {
+    "start": 1872.71,
+    "duraction": 7.27,
+    "value": "good to go well everyone's alright face"
+  },
+  {
+    "start": 1876.73,
+    "duraction": 5.17,
+    "value": "the new new world views and have to"
+  },
+  {
+    "start": 1879.98,
+    "duraction": 4.92,
+    "value": "change their world view over and I I"
+  },
+  {
+    "start": 1881.9,
+    "duraction": 9.21,
+    "value": "have I think that part of that with that"
+  },
+  {
+    "start": 1884.9,
+    "duraction": 8.909,
+    "value": "is that we should what what we can do"
+  },
+  {
+    "start": 1891.11,
+    "duraction": 5.31,
+    "value": "what people can do to help others"
+  },
+  {
+    "start": 1893.809,
+    "duraction": 4.5,
+    "value": "understand it is in part helping them"
+  },
+  {
+    "start": 1896.42,
+    "duraction": 4.35,
+    "value": "understand how to immerse oneself in"
+  },
+  {
+    "start": 1898.309,
+    "duraction": 6.951,
+    "value": "world view and helping them understand"
+  },
+  {
+    "start": 1900.77,
+    "duraction": 8.34,
+    "value": "how to better build knowledge and"
+  },
+  {
+    "start": 1905.26,
+    "duraction": 5.56,
+    "value": "because that's what's gonna kind of save"
+  },
+  {
+    "start": 1909.11,
+    "duraction": 3.949,
+    "value": "us I don't know if that's the right word"
+  },
+  {
+    "start": 1910.82,
+    "duraction": 6.84,
+    "value": "it's more like it's going to help us"
+  },
+  {
+    "start": 1913.059,
+    "duraction": 8.201,
+    "value": "dramatically in what is probably gonna"
+  },
+  {
+    "start": 1917.66,
+    "duraction": 6.59,
+    "value": "happen next which is the shifting and"
+  },
+  {
+    "start": 1921.26,
+    "duraction": 6.45,
+    "value": "the mass interconnection that we have"
+  },
+  {
+    "start": 1924.25,
+    "duraction": 6.73,
+    "value": "where the old school new sources are"
+  },
+  {
+    "start": 1927.71,
+    "duraction": 5.969,
+    "value": "like CNN and the mainstream news sources"
+  },
+  {
+    "start": 1930.98,
+    "duraction": 5.97,
+    "value": "are dying and it's gonna be very"
+  },
+  {
+    "start": 1933.679,
+    "duraction": 7.321,
+    "value": "decentralized people will probably write"
+  },
+  {
+    "start": 1936.95,
+    "duraction": 6.6,
+    "value": "come and go you know relatively quickly"
+  },
+  {
+    "start": 1941.0,
+    "duraction": 6.72,
+    "value": "you won't have that stable name quite"
+  },
+  {
+    "start": 1943.55,
+    "duraction": 7.62,
+    "value": "it'll take a real nimble person to me"
+  },
+  {
+    "start": 1947.72,
+    "duraction": 8.16,
+    "value": "remain on top forever if only because"
+  },
+  {
+    "start": 1951.17,
+    "duraction": 6.66,
+    "value": "people will be more prepared for looking"
+  },
+  {
+    "start": 1955.88,
+    "duraction": 5.01,
+    "value": "at the content rather than trusting the"
+  },
+  {
+    "start": 1957.83,
+    "duraction": 5.88,
+    "value": "source right and that's really the best"
+  },
+  {
+    "start": 1960.89,
+    "duraction": 4.71,
+    "value": "possible future we have a video called"
+  },
+  {
+    "start": 1963.71,
+    "duraction": 6.15,
+    "value": "the future is amazing where we kind of"
+  },
+  {
+    "start": 1965.6,
+    "duraction": 6.99,
+    "value": "talked about this too and and the best"
+  },
+  {
+    "start": 1969.86,
+    "duraction": 5.88,
+    "value": "possible future is one where people have"
+  },
+  {
+    "start": 1972.59,
+    "duraction": 7.469,
+    "value": "their sort of ways that they've build"
+  },
+  {
+    "start": 1975.74,
+    "duraction": 6.99,
+    "value": "knowledge is evolved is better then"
+  },
+  {
+    "start": 1980.059,
+    "duraction": 4.531,
+    "value": "using things like authority or using"
+  },
+  {
+    "start": 1982.73,
+    "duraction": 5.73,
+    "value": "things like what the general prevailing"
+  },
+  {
+    "start": 1984.59,
+    "duraction": 7.43,
+    "value": "winds are and and we see the people"
+  },
+  {
+    "start": 1988.46,
+    "duraction": 5.58,
+    "value": "starting to actually work on"
+  },
+  {
+    "start": 1992.02,
+    "duraction": 3.7,
+    "value": "collectively building a better"
+  },
+  {
+    "start": 1994.04,
+    "duraction": 5.28,
+    "value": "understanding of what's happening"
+  },
+  {
+    "start": 1995.72,
+    "duraction": 6.03,
+    "value": "I you know I I know I'm a little cynical"
+  },
+  {
+    "start": 1999.32,
+    "duraction": 4.32,
+    "value": "on some people as far as"
+  },
+  {
+    "start": 2001.75,
+    "duraction": 5.88,
+    "value": "ever being able to think for themselves"
+  },
+  {
+    "start": 2003.64,
+    "duraction": 5.58,
+    "value": "but at the same point there's gonna be"
+  },
+  {
+    "start": 2007.63,
+    "duraction": 3.48,
+    "value": "definitely some cognitive dissonance"
+  },
+  {
+    "start": 2009.22,
+    "duraction": 4.53,
+    "value": "although I think the decentralization"
+  },
+  {
+    "start": 2011.11,
+    "duraction": 5.19,
+    "value": "means a much faster bounce-back I think"
+  },
+  {
+    "start": 2013.75,
+    "duraction": 4.08,
+    "value": "letting that run is gonna is gonna in"
+  },
+  {
+    "start": 2016.3,
+    "duraction": 4.2,
+    "value": "the free market is just gonna solve most"
+  },
+  {
+    "start": 2017.83,
+    "duraction": 5.07,
+    "value": "of our problems when this whole system"
+  },
+  {
+    "start": 2020.5,
+    "duraction": 3.78,
+    "value": "crashes but you know for the idea part"
+  },
+  {
+    "start": 2022.9,
+    "duraction": 3.93,
+    "value": "for the for the cognitive dissonance"
+  },
+  {
+    "start": 2024.28,
+    "duraction": 5.34,
+    "value": "part for the the broken ideologies and"
+  },
+  {
+    "start": 2026.83,
+    "duraction": 4.86,
+    "value": "worldviews you know that's that's gonna"
+  },
+  {
+    "start": 2029.62,
+    "duraction": 5.25,
+    "value": "take some some videos like this you know"
+  },
+  {
+    "start": 2031.69,
+    "duraction": 5.46,
+    "value": "some some how to's on on on reasoning"
+  },
+  {
+    "start": 2034.87,
+    "duraction": 4.2,
+    "value": "abilities well on this and that's kind"
+  },
+  {
+    "start": 2037.15,
+    "duraction": 4.56,
+    "value": "of why we well that's what kind of why"
+  },
+  {
+    "start": 2039.07,
+    "duraction": 5.22,
+    "value": "we started our channel is we think that"
+  },
+  {
+    "start": 2041.71,
+    "duraction": 5.19,
+    "value": "it's important to at least start getting"
+  },
+  {
+    "start": 2044.29,
+    "duraction": 7.5,
+    "value": "the word out there for how to better"
+  },
+  {
+    "start": 2046.9,
+    "duraction": 7.41,
+    "value": "approach the coming future world or the"
+  },
+  {
+    "start": 2051.79,
+    "duraction": 4.08,
+    "value": "coming way that we're going to interact"
+  },
+  {
+    "start": 2054.31,
+    "duraction": 4.2,
+    "value": "with one another and interact with the"
+  },
+  {
+    "start": 2055.87,
+    "duraction": 6.87,
+    "value": "world and then how to progress faster"
+  },
+  {
+    "start": 2058.51,
+    "duraction": 7.2,
+    "value": "there's no upward limit to how much"
+  },
+  {
+    "start": 2062.74,
+    "duraction": 7.62,
+    "value": "progress can be made in enduring any"
+  },
+  {
+    "start": 2065.71,
+    "duraction": 6.24,
+    "value": "period of time so we could fly to space"
+  },
+  {
+    "start": 2070.36,
+    "duraction": 4.02,
+    "value": "tomorrow and we could go to Mars"
+  },
+  {
+    "start": 2071.95,
+    "duraction": 4.74,
+    "value": "tomorrow and set up a colony if we just"
+  },
+  {
+    "start": 2074.38,
+    "duraction": 5.58,
+    "value": "knew the technology that it would take"
+  },
+  {
+    "start": 2076.69,
+    "duraction": 5.85,
+    "value": "to go to Mars and set up a colony yeah"
+  },
+  {
+    "start": 2079.96,
+    "duraction": 4.14,
+    "value": "we don't have that knowledge and we have"
+  },
+  {
+    "start": 2082.54,
+    "duraction": 2.879,
+    "value": "to build that knowledge and that's a"
+  },
+  {
+    "start": 2084.1,
+    "duraction": 4.02,
+    "value": "very expensive process"
+  },
+  {
+    "start": 2085.419,
+    "duraction": 6.411,
+    "value": "it requires yeah trial and error all"
+  },
+  {
+    "start": 2088.12,
+    "duraction": 5.76,
+    "value": "knowledge essentially is trial and error"
+  },
+  {
+    "start": 2091.83,
+    "duraction": 4.33,
+    "value": "meaning it's built through that"
+  },
+  {
+    "start": 2093.88,
+    "duraction": 5.7,
+    "value": "iterative yeah trial and error"
+  },
+  {
+    "start": 2096.16,
+    "duraction": 7.86,
+    "value": "correction you can you can let the but"
+  },
+  {
+    "start": 2099.58,
+    "duraction": 6.87,
+    "value": "there's really no upper bound to the"
+  },
+  {
+    "start": 2104.02,
+    "duraction": 4.02,
+    "value": "rate of progress I think what you guys"
+  },
+  {
+    "start": 2106.45,
+    "duraction": 4.08,
+    "value": "have basically already mentioned you"
+  },
+  {
+    "start": 2108.04,
+    "duraction": 5.46,
+    "value": "know the the the open source nature of"
+  },
+  {
+    "start": 2110.53,
+    "duraction": 4.38,
+    "value": "some of these some of these things that"
+  },
+  {
+    "start": 2113.5,
+    "duraction": 2.79,
+    "value": "are going on in the computer design"
+  },
+  {
+    "start": 2114.91,
+    "duraction": 4.11,
+    "value": "world like those and things like that"
+  },
+  {
+    "start": 2116.29,
+    "duraction": 4.26,
+    "value": "that I think is going to start you know"
+  },
+  {
+    "start": 2119.02,
+    "duraction": 3.15,
+    "value": "we've already seen like you know thirty"
+  },
+  {
+    "start": 2120.55,
+    "duraction": 3.72,
+    "value": "years ago what was a cell phone and then"
+  },
+  {
+    "start": 2122.17,
+    "duraction": 4.53,
+    "value": "and then they were kind of clunky and"
+  },
+  {
+    "start": 2124.27,
+    "duraction": 4.26,
+    "value": "then and then dial-up and then high"
+  },
+  {
+    "start": 2126.7,
+    "duraction": 3.24,
+    "value": "speed internet and then just gets faster"
+  },
+  {
+    "start": 2128.53,
+    "duraction": 4.41,
+    "value": "than momentum builds and accelerates"
+  },
+  {
+    "start": 2129.94,
+    "duraction": 4.56,
+    "value": "just faster and faster I think I don't"
+  },
+  {
+    "start": 2132.94,
+    "duraction": 2.08,
+    "value": "even know what is possible I can't even"
+  },
+  {
+    "start": 2134.5,
+    "duraction": 2.01,
+    "value": "imagine"
+  },
+  {
+    "start": 2135.02,
+    "duraction": 6.63,
+    "value": "as possible even ten years down the road"
+  },
+  {
+    "start": 2136.51,
+    "duraction": 7.87,
+    "value": "so well yeah well I think one of the"
+  },
+  {
+    "start": 2141.65,
+    "duraction": 4.11,
+    "value": "bigger steps and I think it's not wrong"
+  },
+  {
+    "start": 2144.38,
+    "duraction": 3.93,
+    "value": "it's been we've been waiting for it for"
+  },
+  {
+    "start": 2145.76,
+    "duraction": 4.5,
+    "value": "quite some time and is in 3d printing"
+  },
+  {
+    "start": 2148.31,
+    "duraction": 4.26,
+    "value": "but I don't think it's quite in the same"
+  },
+  {
+    "start": 2150.26,
+    "duraction": 4.26,
+    "value": "way that people think about 3d printing"
+  },
+  {
+    "start": 2152.57,
+    "duraction": 4.95,
+    "value": "the thing that they had now is a 3d"
+  },
+  {
+    "start": 2154.52,
+    "duraction": 6.21,
+    "value": "printer and it does cool things but it"
+  },
+  {
+    "start": 2157.52,
+    "duraction": 5.61,
+    "value": "does one type of material and it does"
+  },
+  {
+    "start": 2160.73,
+    "duraction": 6.93,
+    "value": "one certain thing and it builds a little"
+  },
+  {
+    "start": 2163.13,
+    "duraction": 7.08,
+    "value": "statue or whatever it does but what's"
+  },
+  {
+    "start": 2167.66,
+    "duraction": 4.47,
+    "value": "really going to kick things off is 3d"
+  },
+  {
+    "start": 2170.21,
+    "duraction": 5.49,
+    "value": "printing that can do build something"
+  },
+  {
+    "start": 2172.13,
+    "duraction": 5.82,
+    "value": "like a circuit board mm-hmm so so if we"
+  },
+  {
+    "start": 2175.7,
+    "duraction": 4.53,
+    "value": "get if they have metamaterials where"
+  },
+  {
+    "start": 2177.95,
+    "duraction": 4.95,
+    "value": "they can and they have something similar"
+  },
+  {
+    "start": 2180.23,
+    "duraction": 6.72,
+    "value": "to that where they can you know print"
+  },
+  {
+    "start": 2182.9,
+    "duraction": 6.62,
+    "value": "out a metamaterial and sorry have"
+  },
+  {
+    "start": 2186.95,
+    "duraction": 5.31,
+    "value": "multiple materials at the same printer"
+  },
+  {
+    "start": 2189.52,
+    "duraction": 4.48,
+    "value": "so do you guys think like I kind of I"
+  },
+  {
+    "start": 2192.26,
+    "duraction": 3.87,
+    "value": "like to say that we're almost to class"
+  },
+  {
+    "start": 2194.0,
+    "duraction": 4.89,
+    "value": "one civilization so we're almost to like"
+  },
+  {
+    "start": 2196.13,
+    "duraction": 4.77,
+    "value": "Star Trek but do you guys think we're"
+  },
+  {
+    "start": 2198.89,
+    "duraction": 3.6,
+    "value": "getting pretty close to those uh those"
+  },
+  {
+    "start": 2200.9,
+    "duraction": 3.24,
+    "value": "like you push the button you tell it to"
+  },
+  {
+    "start": 2202.49,
+    "duraction": 4.74,
+    "value": "give you a coffee or a Big Mac or"
+  },
+  {
+    "start": 2204.14,
+    "duraction": 8.73,
+    "value": "whatever and that's it out well there's"
+  },
+  {
+    "start": 2207.23,
+    "duraction": 8.1,
+    "value": "a lot of technology that that is out"
+  },
+  {
+    "start": 2212.87,
+    "duraction": 6.03,
+    "value": "there that people have discovered that"
+  },
+  {
+    "start": 2215.33,
+    "duraction": 6.69,
+    "value": "just doesn't have a lot of publicity or"
+  },
+  {
+    "start": 2218.9,
+    "duraction": 5.85,
+    "value": "is kept secret oh yes and it's really"
+  },
+  {
+    "start": 2222.02,
+    "duraction": 7.41,
+    "value": "hard to to understand that the full"
+  },
+  {
+    "start": 2224.75,
+    "duraction": 9.36,
+    "value": "depth of that because of the of the"
+  },
+  {
+    "start": 2229.43,
+    "duraction": 10.64,
+    "value": "secrecy but I think the biggest hurdle"
+  },
+  {
+    "start": 2234.11,
+    "duraction": 5.96,
+    "value": "right now because of those secrets is to"
+  },
+  {
+    "start": 2240.91,
+    "duraction": 11.74,
+    "value": "bust through the door basically and and"
+  },
+  {
+    "start": 2245.92,
+    "duraction": 8.71,
+    "value": "grab by the horns the the the right to"
+  },
+  {
+    "start": 2252.65,
+    "duraction": 5.07,
+    "value": "progress we don't we shouldn't be"
+  },
+  {
+    "start": 2254.63,
+    "duraction": 7.59,
+    "value": "struggling in a state of perpetual"
+  },
+  {
+    "start": 2257.72,
+    "duraction": 6.72,
+    "value": "stagnation because some Butthead wants"
+  },
+  {
+    "start": 2262.22,
+    "duraction": 3.84,
+    "value": "to preserve their empire yeah you're"
+  },
+  {
+    "start": 2264.44,
+    "duraction": 4.53,
+    "value": "either growing or dying in nature and"
+  },
+  {
+    "start": 2266.06,
+    "duraction": 4.02,
+    "value": "you know one of my biggest things"
+  },
+  {
+    "start": 2268.97,
+    "duraction": 2.49,
+    "value": "and I like to focus on its new"
+  },
+  {
+    "start": 2270.08,
+    "duraction": 2.61,
+    "value": "technology especially in the energy"
+  },
+  {
+    "start": 2271.46,
+    "duraction": 3.72,
+    "value": "sector because that seems to be where"
+  },
+  {
+    "start": 2272.69,
+    "duraction": 4.83,
+    "value": "the control is the worst but you know"
+  },
+  {
+    "start": 2275.18,
+    "duraction": 3.63,
+    "value": "also you know holistically speaking"
+  },
+  {
+    "start": 2277.52,
+    "duraction": 3.48,
+    "value": "there's some great new technology"
+  },
+  {
+    "start": 2278.81,
+    "duraction": 3.99,
+    "value": "although I think old wisdom there is"
+  },
+  {
+    "start": 2281.0,
+    "duraction": 4.08,
+    "value": "kind of the best you know nature gives"
+  },
+  {
+    "start": 2282.8,
+    "duraction": 3.45,
+    "value": "us what we need to be healthy although"
+  },
+  {
+    "start": 2285.08,
+    "duraction": 2.91,
+    "value": "there's some cool breakthroughs like"
+  },
+  {
+    "start": 2286.25,
+    "duraction": 3.69,
+    "value": "carbon 60 things like that that can"
+  },
+  {
+    "start": 2287.99,
+    "duraction": 4.83,
+    "value": "extend your life but you know in theory"
+  },
+  {
+    "start": 2289.94,
+    "duraction": 5.159,
+    "value": "but you know energy wise that's really"
+  },
+  {
+    "start": 2292.82,
+    "duraction": 6.18,
+    "value": "what's gonna set mankind free from the"
+  },
+  {
+    "start": 2295.099,
+    "duraction": 6.601,
+    "value": "daily work the daily job so long as I"
+  },
+  {
+    "start": 2299.0,
+    "duraction": 6.45,
+    "value": "have the energy is able to provide like"
+  },
+  {
+    "start": 2301.7,
+    "duraction": 5.61,
+    "value": "energy is a bottleneck and it seems"
+  },
+  {
+    "start": 2305.45,
+    "duraction": 3.24,
+    "value": "right now it's because of that like"
+  },
+  {
+    "start": 2307.31,
+    "duraction": 2.7,
+    "value": "you're saying in the control you know"
+  },
+  {
+    "start": 2308.69,
+    "duraction": 4.169,
+    "value": "there's so many things like the Tesla"
+  },
+  {
+    "start": 2310.01,
+    "duraction": 4.92,
+    "value": "stuff that was able to not make energy"
+  },
+  {
+    "start": 2312.859,
+    "duraction": 3.51,
+    "value": "out of nothing but pull it out of you"
+  },
+  {
+    "start": 2314.93,
+    "duraction": 4.56,
+    "value": "know space or something or just you know"
+  },
+  {
+    "start": 2316.369,
+    "duraction": 5.701,
+    "value": "find no novel new ways of creating"
+  },
+  {
+    "start": 2319.49,
+    "duraction": 5.609,
+    "value": "energy for human use that that don't"
+  },
+  {
+    "start": 2322.07,
+    "duraction": 3.87,
+    "value": "require as much input and and in raw"
+  },
+  {
+    "start": 2325.099,
+    "duraction": 4.201,
+    "value": "material and things"
+  },
+  {
+    "start": 2325.94,
+    "duraction": 6.57,
+    "value": "oh yeah it's super interesting and I"
+  },
+  {
+    "start": 2329.3,
+    "duraction": 6.45,
+    "value": "mean there's been there's technology"
+  },
+  {
+    "start": 2332.51,
+    "duraction": 4.29,
+    "value": "like have you ever heard of a Trump TR"
+  },
+  {
+    "start": 2335.75,
+    "duraction": 5.49,
+    "value": "om PE"
+  },
+  {
+    "start": 2336.8,
+    "duraction": 7.98,
+    "value": "no not in that sense not a Trump it's a"
+  },
+  {
+    "start": 2341.24,
+    "duraction": 8.27,
+    "value": "Trump and what it is is it's a method of"
+  },
+  {
+    "start": 2344.78,
+    "duraction": 8.13,
+    "value": "producing compressed air by without any"
+  },
+  {
+    "start": 2349.51,
+    "duraction": 7.39,
+    "value": "moving mechanical parts essentially a"
+  },
+  {
+    "start": 2352.91,
+    "duraction": 6.11,
+    "value": "series of pipes that flows into one"
+  },
+  {
+    "start": 2356.9,
+    "duraction": 5.28,
+    "value": "another and it at the bottom of it is a"
+  },
+  {
+    "start": 2359.02,
+    "duraction": 6.61,
+    "value": "chamber that welcome that contains"
+  },
+  {
+    "start": 2362.18,
+    "duraction": 6.27,
+    "value": "compressed air because of how water when"
+  },
+  {
+    "start": 2365.63,
+    "duraction": 6.6,
+    "value": "you have a column of water the deeper"
+  },
+  {
+    "start": 2368.45,
+    "duraction": 6.81,
+    "value": "you go the more pressure there is so if"
+  },
+  {
+    "start": 2372.23,
+    "duraction": 5.609,
+    "value": "you have 50 feet of water the bottom has"
+  },
+  {
+    "start": 2375.26,
+    "duraction": 5.04,
+    "value": "even if it's just in a in a pipe the"
+  },
+  {
+    "start": 2377.839,
+    "duraction": 4.801,
+    "value": "bottom has a lot of pressure and so you"
+  },
+  {
+    "start": 2380.3,
+    "duraction": 3.9,
+    "value": "put bubble run bubbles through that and"
+  },
+  {
+    "start": 2382.64,
+    "duraction": 3.69,
+    "value": "then that column of water compresses"
+  },
+  {
+    "start": 2384.2,
+    "duraction": 3.18,
+    "value": "that air and then brilliant that makes"
+  },
+  {
+    "start": 2386.33,
+    "duraction": 4.14,
+    "value": "perfect sense"
+  },
+  {
+    "start": 2387.38,
+    "duraction": 5.34,
+    "value": "yeah into a into a small canister sort"
+  },
+  {
+    "start": 2390.47,
+    "duraction": 4.41,
+    "value": "of thing and yeah you can use compressed"
+  },
+  {
+    "start": 2392.72,
+    "duraction": 4.02,
+    "value": "air like for basically for free like"
+  },
+  {
+    "start": 2394.88,
+    "duraction": 3.54,
+    "value": "that I mean that that's useful for so"
+  },
+  {
+    "start": 2396.74,
+    "duraction": 5.17,
+    "value": "many things I mean you have technology"
+  },
+  {
+    "start": 2398.42,
+    "duraction": 6.46,
+    "value": "and and and yeah it's great"
+  },
+  {
+    "start": 2401.91,
+    "duraction": 6.599,
+    "value": "and the hilarious thing about that is"
+  },
+  {
+    "start": 2404.88,
+    "duraction": 7.319,
+    "value": "for that people have known about Trump's"
+  },
+  {
+    "start": 2408.509,
+    "duraction": 6.121,
+    "value": "it was almost Roman era technology the"
+  },
+  {
+    "start": 2412.199,
+    "duraction": 5.31,
+    "value": "Chinese knew about it and used use them"
+  },
+  {
+    "start": 2414.63,
+    "duraction": 7.439,
+    "value": "for doing smelting and kiln kiln fires"
+  },
+  {
+    "start": 2417.509,
+    "duraction": 7.28,
+    "value": "to blow air into the virus but they"
+  },
+  {
+    "start": 2422.069,
+    "duraction": 6.03,
+    "value": "actually the Vatican knew about it and"
+  },
+  {
+    "start": 2424.789,
+    "duraction": 6.22,
+    "value": "they would perform miracles using it and"
+  },
+  {
+    "start": 2428.099,
+    "duraction": 4.561,
+    "value": "it was a closely-guarded technology by"
+  },
+  {
+    "start": 2431.009,
+    "duraction": 6.151,
+    "value": "the Vatican in like the medieval"
+  },
+  {
+    "start": 2432.66,
+    "duraction": 6.78,
+    "value": "medieval era and so it was something"
+  },
+  {
+    "start": 2437.16,
+    "duraction": 4.409,
+    "value": "that I always kind of thought because if"
+  },
+  {
+    "start": 2439.44,
+    "duraction": 3.839,
+    "value": "you want you know evidence of like"
+  },
+  {
+    "start": 2441.569,
+    "duraction": 4.02,
+    "value": "here's like this great technology"
+  },
+  {
+    "start": 2443.279,
+    "duraction": 3.54,
+    "value": "compressed air it can be used for so"
+  },
+  {
+    "start": 2445.589,
+    "duraction": 2.851,
+    "value": "many things especially if you're not"
+  },
+  {
+    "start": 2446.819,
+    "duraction": 4.14,
+    "value": "talking you're talking about a world"
+  },
+  {
+    "start": 2448.44,
+    "duraction": 4.889,
+    "value": "without electricity and yet here it is"
+  },
+  {
+    "start": 2450.959,
+    "duraction": 5.971,
+    "value": "being used to you know open big doors"
+  },
+  {
+    "start": 2453.329,
+    "duraction": 7.98,
+    "value": "and and for you know making the mother"
+  },
+  {
+    "start": 2456.93,
+    "duraction": 6.649,
+    "value": "mother Mary cry really I think I'm a big"
+  },
+  {
+    "start": 2461.309,
+    "duraction": 4.05,
+    "value": "believer that any technology that is not"
+  },
+  {
+    "start": 2463.579,
+    "duraction": 3.37,
+    "value": "distributed to the people in a"
+  },
+  {
+    "start": 2465.359,
+    "duraction": 3.72,
+    "value": "widespread easy-to-understand manner"
+  },
+  {
+    "start": 2466.949,
+    "duraction": 6.12,
+    "value": "will be abused against us"
+  },
+  {
+    "start": 2469.079,
+    "duraction": 6.45,
+    "value": "yeah if it can be yeah and that's and"
+  },
+  {
+    "start": 2473.069,
+    "duraction": 6.93,
+    "value": "that's sort of the the goal of open"
+  },
+  {
+    "start": 2475.529,
+    "duraction": 7.26,
+    "value": "source is that is that we we were"
+  },
+  {
+    "start": 2479.999,
+    "duraction": 4.98,
+    "value": "discussing before this what the perfect"
+  },
+  {
+    "start": 2482.789,
+    "duraction": 6.42,
+    "value": "what we would believe the perfect sort"
+  },
+  {
+    "start": 2484.979,
+    "duraction": 6.75,
+    "value": "of economy would be and it would be"
+  },
+  {
+    "start": 2489.209,
+    "duraction": 5.61,
+    "value": "essentially an open source for all all"
+  },
+  {
+    "start": 2491.729,
+    "duraction": 5.97,
+    "value": "technology all blueprints all ways of"
+  },
+  {
+    "start": 2494.819,
+    "duraction": 6.15,
+    "value": "making things are shared and then"
+  },
+  {
+    "start": 2497.699,
+    "duraction": 6.181,
+    "value": "companies have a you know a research"
+  },
+  {
+    "start": 2500.969,
+    "duraction": 5.79,
+    "value": "department that is constantly trying to"
+  },
+  {
+    "start": 2503.88,
+    "duraction": 6.03,
+    "value": "keep secrets right where they're they're"
+  },
+  {
+    "start": 2506.759,
+    "duraction": 5.431,
+    "value": "trying to make something but but they"
+  },
+  {
+    "start": 2509.91,
+    "duraction": 4.889,
+    "value": "and they have that thin layer of what we"
+  },
+  {
+    "start": 2512.19,
+    "duraction": 6.269,
+    "value": "call secret sauce sort of that thin like"
+  },
+  {
+    "start": 2514.799,
+    "duraction": 5.641,
+    "value": "just above the thing just above the just"
+  },
+  {
+    "start": 2518.459,
+    "duraction": 3.6,
+    "value": "above the mountain of open source that"
+  },
+  {
+    "start": 2520.44,
+    "duraction": 4.74,
+    "value": "they're using that's out in the public"
+  },
+  {
+    "start": 2522.059,
+    "duraction": 5.55,
+    "value": "domain they they build on their own thin"
+  },
+  {
+    "start": 2525.18,
+    "duraction": 6.269,
+    "value": "layer that they can use to make money"
+  },
+  {
+    "start": 2527.609,
+    "duraction": 6.36,
+    "value": "yeah and but we expect that that layer"
+  },
+  {
+    "start": 2531.449,
+    "duraction": 4.501,
+    "value": "is going to be constantly over eroded"
+  },
+  {
+    "start": 2533.969,
+    "duraction": 4.831,
+    "value": "into the public domain"
+  },
+  {
+    "start": 2535.95,
+    "duraction": 4.83,
+    "value": "leeks and by back-engineering and"
+  },
+  {
+    "start": 2538.8,
+    "duraction": 4.79,
+    "value": "basically people taking your your"
+  },
+  {
+    "start": 2540.78,
+    "duraction": 7.44,
+    "value": "product spec and implementing it"
+  },
+  {
+    "start": 2543.59,
+    "duraction": 7.18,
+    "value": "themselves in such a way that it brings"
+  },
+  {
+    "start": 2548.22,
+    "duraction": 4.07,
+    "value": "it to the open source Mountain and"
+  },
+  {
+    "start": 2550.77,
+    "duraction": 3.51,
+    "value": "you're just gonna have to innovate again"
+  },
+  {
+    "start": 2552.29,
+    "duraction": 3.79,
+    "value": "you know you're just gonna have to build"
+  },
+  {
+    "start": 2554.28,
+    "duraction": 4.02,
+    "value": "another layer on top of that I think"
+  },
+  {
+    "start": 2556.08,
+    "duraction": 3.93,
+    "value": "yeah we always catch up to the"
+  },
+  {
+    "start": 2558.3,
+    "duraction": 3.42,
+    "value": "technology like now we're using the"
+  },
+  {
+    "start": 2560.01,
+    "duraction": 3.84,
+    "value": "technology they created against them you"
+  },
+  {
+    "start": 2561.72,
+    "duraction": 3.9,
+    "value": "know but yeah the same point I think"
+  },
+  {
+    "start": 2563.85,
+    "duraction": 5.13,
+    "value": "that this energy bottleneck we talked"
+  },
+  {
+    "start": 2565.62,
+    "duraction": 5.13,
+    "value": "about once we solve that to the non"
+  },
+  {
+    "start": 2568.98,
+    "duraction": 5.04,
+    "value": "perfect energy you know but to the"
+  },
+  {
+    "start": 2570.75,
+    "duraction": 5.79,
+    "value": "extent that we can use energy so cheaply"
+  },
+  {
+    "start": 2574.02,
+    "duraction": 4.56,
+    "value": "that it's like water now and it's just"
+  },
+  {
+    "start": 2576.54,
+    "duraction": 4.53,
+    "value": "everywhere and it's abundant and people"
+  },
+  {
+    "start": 2578.58,
+    "duraction": 3.96,
+    "value": "can use that to basically you know that"
+  },
+  {
+    "start": 2581.07,
+    "duraction": 3.21,
+    "value": "would that would get people free from"
+  },
+  {
+    "start": 2582.54,
+    "duraction": 3.57,
+    "value": "that daily toil and then they would be"
+  },
+  {
+    "start": 2584.28,
+    "duraction": 3.99,
+    "value": "able to kind of turn their head to the"
+  },
+  {
+    "start": 2586.11,
+    "duraction": 4.47,
+    "value": "Stars and wonder a little bit and a lot"
+  },
+  {
+    "start": 2588.27,
+    "duraction": 4.83,
+    "value": "so long as they could also you know hook"
+  },
+  {
+    "start": 2590.58,
+    "duraction": 3.78,
+    "value": "that up to some sort of hydrology farm"
+  },
+  {
+    "start": 2593.1,
+    "duraction": 3.33,
+    "value": "or something like that that would"
+  },
+  {
+    "start": 2594.36,
+    "duraction": 3.51,
+    "value": "seasonal yeah I mean it would at least"
+  },
+  {
+    "start": 2596.43,
+    "duraction": 3.03,
+    "value": "free people up enough to where they"
+  },
+  {
+    "start": 2597.87,
+    "duraction": 3.42,
+    "value": "would have more time to like run some"
+  },
+  {
+    "start": 2599.46,
+    "duraction": 3.45,
+    "value": "sort of food production and and I think"
+  },
+  {
+    "start": 2601.29,
+    "duraction": 4.08,
+    "value": "that we're gonna have more automation"
+  },
+  {
+    "start": 2602.91,
+    "duraction": 3.69,
+    "value": "going on there as well but you know"
+  },
+  {
+    "start": 2605.37,
+    "duraction": 3.0,
+    "value": "we're almost at that point where"
+  },
+  {
+    "start": 2606.6,
+    "duraction": 3.63,
+    "value": "technology which is responsible for"
+  },
+  {
+    "start": 2608.37,
+    "duraction": 4.17,
+    "value": "pretty much all freedom you you know we"
+  },
+  {
+    "start": 2610.23,
+    "duraction": 3.93,
+    "value": "we ever enjoy as a species like the"
+  },
+  {
+    "start": 2612.54,
+    "duraction": 3.89,
+    "value": "reason that we're not spending 18 hours"
+  },
+  {
+    "start": 2614.16,
+    "duraction": 4.17,
+    "value": "a day hunting for berries that"
+  },
+  {
+    "start": 2616.43,
+    "duraction": 4.41,
+    "value": "technology like the plow and the"
+  },
+  {
+    "start": 2618.33,
+    "duraction": 4.65,
+    "value": "Internet these things have freed us up"
+  },
+  {
+    "start": 2620.84,
+    "duraction": 4.36,
+    "value": "but that we're almost to that point"
+  },
+  {
+    "start": 2622.98,
+    "duraction": 4.35,
+    "value": "where people will hopefully and I'm not"
+  },
+  {
+    "start": 2625.2,
+    "duraction": 4.2,
+    "value": "being utopia about this or idealistic"
+  },
+  {
+    "start": 2627.33,
+    "duraction": 3.84,
+    "value": "but many more people than now will be"
+  },
+  {
+    "start": 2629.4,
+    "duraction": 4.77,
+    "value": "able to focus on the things that really"
+  },
+  {
+    "start": 2631.17,
+    "duraction": 4.95,
+    "value": "matter like loving passions and and"
+  },
+  {
+    "start": 2634.17,
+    "duraction": 4.41,
+    "value": "solving the problems and helping people"
+  },
+  {
+    "start": 2636.12,
+    "duraction": 5.19,
+    "value": "and pursuing artistic and spiritual"
+  },
+  {
+    "start": 2638.58,
+    "duraction": 4.62,
+    "value": "avenues rather than just focusing on the"
+  },
+  {
+    "start": 2641.31,
+    "duraction": 3.39,
+    "value": "money and I think that's why that one of"
+  },
+  {
+    "start": 2643.2,
+    "duraction": 3.06,
+    "value": "the biggest reasons obviously for the"
+  },
+  {
+    "start": 2644.7,
+    "duraction": 2.82,
+    "value": "profit obviously for the control but I"
+  },
+  {
+    "start": 2646.26,
+    "duraction": 4.29,
+    "value": "think that's one of the biggest reasons"
+  },
+  {
+    "start": 2647.52,
+    "duraction": 5.13,
+    "value": "the elite are really trying to stop all"
+  },
+  {
+    "start": 2650.55,
+    "duraction": 6.36,
+    "value": "of those breakthroughs and an energy"
+  },
+  {
+    "start": 2652.65,
+    "duraction": 6.42,
+    "value": "technology maybe if you great a week if"
+  },
+  {
+    "start": 2656.91,
+    "duraction": 4.59,
+    "value": "you want to see an example of open"
+  },
+  {
+    "start": 2659.07,
+    "duraction": 6.87,
+    "value": "source engineering or open source"
+  },
+  {
+    "start": 2661.5,
+    "duraction": 7.66,
+    "value": "manufacturing you can look to the open"
+  },
+  {
+    "start": 2665.94,
+    "duraction": 6.01,
+    "value": "source ecology group if he's ever"
+  },
+  {
+    "start": 2669.16,
+    "duraction": 6.27,
+    "value": "of them and also their offshoot open"
+  },
+  {
+    "start": 2671.95,
+    "duraction": 7.46,
+    "value": "building Institute which is focusing on"
+  },
+  {
+    "start": 2675.43,
+    "duraction": 9.179,
+    "value": "building a house in the open source"
+  },
+  {
+    "start": 2679.41,
+    "duraction": 8.5,
+    "value": "neurology yeah it's the the problems"
+  },
+  {
+    "start": 2684.609,
+    "duraction": 6.541,
+    "value": "that they're solving are many and they"
+  },
+  {
+    "start": 2687.91,
+    "duraction": 7.98,
+    "value": "have lot lots to work through but"
+  },
+  {
+    "start": 2691.15,
+    "duraction": 8.189,
+    "value": "they're forging ahead a path that others"
+  },
+  {
+    "start": 2695.89,
+    "duraction": 5.969,
+    "value": "I don't see too much activity in but I"
+  },
+  {
+    "start": 2699.339,
+    "duraction": 5.641,
+    "value": "think that's a an example of someone"
+  },
+  {
+    "start": 2701.859,
+    "duraction": 8.24,
+    "value": "who's really blazing a trail that into"
+  },
+  {
+    "start": 2704.98,
+    "duraction": 8.22,
+    "value": "an area that I expect to be forming"
+  },
+  {
+    "start": 2710.099,
+    "duraction": 5.561,
+    "value": "entire industries in the future mm-hmm"
+  },
+  {
+    "start": 2713.2,
+    "duraction": 3.96,
+    "value": "and there's still waste I mean the"
+  },
+  {
+    "start": 2715.66,
+    "duraction": 3.419,
+    "value": "modern economy works better when you"
+  },
+  {
+    "start": 2717.16,
+    "duraction": 4.05,
+    "value": "just give the information away for free"
+  },
+  {
+    "start": 2719.079,
+    "duraction": 5.04,
+    "value": "and people that want to support you and"
+  },
+  {
+    "start": 2721.21,
+    "duraction": 5.909,
+    "value": "respect you they do and you you can"
+  },
+  {
+    "start": 2724.119,
+    "duraction": 4.531,
+    "value": "monetize and earn your living by by your"
+  },
+  {
+    "start": 2727.119,
+    "duraction": 4.95,
+    "value": "reputation and your integrity rather"
+  },
+  {
+    "start": 2728.65,
+    "duraction": 7.5,
+    "value": "than then your secret sauce you know"
+  },
+  {
+    "start": 2732.069,
+    "duraction": 7.76,
+    "value": "like you're talking about yes yeah yeah"
+  },
+  {
+    "start": 2736.15,
+    "duraction": 6.75,
+    "value": "that that's the sort of ideal way I mean"
+  },
+  {
+    "start": 2739.829,
+    "duraction": 9.46,
+    "value": "for instance and not that Facebook is a"
+  },
+  {
+    "start": 2742.9,
+    "duraction": 11.25,
+    "value": "great wonderful company but they do have"
+  },
+  {
+    "start": 2749.289,
+    "duraction": 7.8,
+    "value": "a project called react that is an open"
+  },
+  {
+    "start": 2754.15,
+    "duraction": 4.62,
+    "value": "source project and they what they"
+  },
+  {
+    "start": 2757.089,
+    "duraction": 4.53,
+    "value": "receive out of it because it's open"
+  },
+  {
+    "start": 2758.77,
+    "duraction": 6.24,
+    "value": "source it's not like you know they can"
+  },
+  {
+    "start": 2761.619,
+    "duraction": 4.71,
+    "value": "hide anything inside of it so they what"
+  },
+  {
+    "start": 2765.01,
+    "duraction": 5.579,
+    "value": "they kind of receive out of it is"
+  },
+  {
+    "start": 2766.329,
+    "duraction": 6.21,
+    "value": "support for their for their foundational"
+  },
+  {
+    "start": 2770.589,
+    "duraction": 4.26,
+    "value": "or sort of their what their what they're"
+  },
+  {
+    "start": 2772.539,
+    "duraction": 4.8,
+    "value": "doing one of the things that's really"
+  },
+  {
+    "start": 2774.849,
+    "duraction": 4.621,
+    "value": "interesting about open source is it's"
+  },
+  {
+    "start": 2777.339,
+    "duraction": 3.99,
+    "value": "often beneficial for a large company to"
+  },
+  {
+    "start": 2779.47,
+    "duraction": 3.78,
+    "value": "release their things open source because"
+  },
+  {
+    "start": 2781.329,
+    "duraction": 4.2,
+    "value": "then people will find problems with"
+  },
+  {
+    "start": 2783.25,
+    "duraction": 5.4,
+    "value": "something and they'll fix the problem"
+  },
+  {
+    "start": 2785.529,
+    "duraction": 6.181,
+    "value": "and you'll upload that back into the"
+  },
+  {
+    "start": 2788.65,
+    "duraction": 7.52,
+    "value": "blueprint so they get the benefits of"
+  },
+  {
+    "start": 2791.71,
+    "duraction": 8.54,
+    "value": "having things that are you know improved"
+  },
+  {
+    "start": 2796.17,
+    "duraction": 6.49,
+    "value": "they get a huge team for almost free"
+  },
+  {
+    "start": 2800.25,
+    "duraction": 4.39,
+    "value": "they're working us"
+  },
+  {
+    "start": 2802.66,
+    "duraction": 5.01,
+    "value": "working on problems that they didn't"
+  },
+  {
+    "start": 2804.64,
+    "duraction": 6.03,
+    "value": "even know existed the resources that"
+  },
+  {
+    "start": 2807.67,
+    "duraction": 6.0,
+    "value": "that contribute to the queue and on you"
+  },
+  {
+    "start": 2810.67,
+    "duraction": 5.99,
+    "value": "know the the queue researchers that sort"
+  },
+  {
+    "start": 2813.67,
+    "duraction": 6.03,
+    "value": "of level of attention to detail and"
+  },
+  {
+    "start": 2816.66,
+    "duraction": 5.26,
+    "value": "looking for problems and trying to sell"
+  },
+  {
+    "start": 2819.7,
+    "duraction": 3.839,
+    "value": "to find solutions is what what big"
+  },
+  {
+    "start": 2821.92,
+    "duraction": 4.08,
+    "value": "companies get by releasing their stuff"
+  },
+  {
+    "start": 2823.539,
+    "duraction": 4.411,
+    "value": "open source I think if it's a good"
+  },
+  {
+    "start": 2826.0,
+    "duraction": 3.63,
+    "value": "project and it's interesting yeah yeah"
+  },
+  {
+    "start": 2827.95,
+    "duraction": 5.49,
+    "value": "and it makes it makes sense to me that"
+  },
+  {
+    "start": 2829.63,
+    "duraction": 6.959,
+    "value": "that open source since it's a few"
+  },
+  {
+    "start": 2833.44,
+    "duraction": 5.94,
+    "value": "decades old now I I think it just moved"
+  },
+  {
+    "start": 2836.589,
+    "duraction": 5.96,
+    "value": "the Overton Window to the point where"
+  },
+  {
+    "start": 2839.38,
+    "duraction": 7.409,
+    "value": "something like queuing on could emerge"
+  },
+  {
+    "start": 2842.549,
+    "duraction": 7.48,
+    "value": "the whole bakery is going on on the"
+  },
+  {
+    "start": 2846.789,
+    "duraction": 6.451,
+    "value": "chance yeah such such time and effort in"
+  },
+  {
+    "start": 2850.029,
+    "duraction": 5.04,
+    "value": "the man-hours and and and and passion"
+  },
+  {
+    "start": 2853.24,
+    "duraction": 8.4,
+    "value": "and intelligence is going into that and"
+  },
+  {
+    "start": 2855.069,
+    "duraction": 12.99,
+    "value": "it's just incredible to see so I mean we"
+  },
+  {
+    "start": 2861.64,
+    "duraction": 8.909,
+    "value": "could there's there is this hosting"
+  },
+  {
+    "start": 2868.059,
+    "duraction": 5.101,
+    "value": "service that that Amazon provides called"
+  },
+  {
+    "start": 2870.549,
+    "duraction": 7.5,
+    "value": "Amazon Web Services which is pretty much"
+  },
+  {
+    "start": 2873.16,
+    "duraction": 6.51,
+    "value": "the go-to hosting provider for the cloud"
+  },
+  {
+    "start": 2878.049,
+    "duraction": 4.26,
+    "value": "they pretty much defined what the cloud"
+  },
+  {
+    "start": 2879.67,
+    "duraction": 6.29,
+    "value": "is and the cloud is basically just"
+  },
+  {
+    "start": 2882.309,
+    "duraction": 6.391,
+    "value": "marketing for for other people's servers"
+  },
+  {
+    "start": 2885.96,
+    "duraction": 5.109,
+    "value": "yeah you know servers that you don't own"
+  },
+  {
+    "start": 2888.7,
+    "duraction": 3.839,
+    "value": "but it didn't need to go that way it"
+  },
+  {
+    "start": 2891.069,
+    "duraction": 6.061,
+    "value": "could have been a personal or private"
+  },
+  {
+    "start": 2892.539,
+    "duraction": 5.911,
+    "value": "sir private cloud that you maintain they"
+  },
+  {
+    "start": 2897.13,
+    "duraction": 4.62,
+    "value": "could they could have built a product"
+  },
+  {
+    "start": 2898.45,
+    "duraction": 5.7,
+    "value": "that let you pretty much infinitely"
+  },
+  {
+    "start": 2901.75,
+    "duraction": 5.64,
+    "value": "expand hardware by adding modules to it"
+  },
+  {
+    "start": 2904.15,
+    "duraction": 6.419,
+    "value": "in your in your home and it provides"
+  },
+  {
+    "start": 2907.39,
+    "duraction": 5.189,
+    "value": "data storage and it provides persistent"
+  },
+  {
+    "start": 2910.569,
+    "duraction": 11.161,
+    "value": "network access that provides all kinds"
+  },
+  {
+    "start": 2912.579,
+    "duraction": 11.371,
+    "value": "of things no sky sky coin box I've not"
+  },
+  {
+    "start": 2921.73,
+    "duraction": 3.99,
+    "value": "heard that crypto and they have this"
+  },
+  {
+    "start": 2923.95,
+    "duraction": 4.589,
+    "value": "little box it's made up of like 12"
+  },
+  {
+    "start": 2925.72,
+    "duraction": 4.349,
+    "value": "raspberry PI's or whatever hmm or the"
+  },
+  {
+    "start": 2928.539,
+    "duraction": 1.8,
+    "value": "orange orange pie or whatever it's"
+  },
+  {
+    "start": 2930.069,
+    "duraction": 2.19,
+    "value": "called"
+  },
+  {
+    "start": 2930.339,
+    "duraction": 3.45,
+    "value": "yeah and it's infinitely scalable you"
+  },
+  {
+    "start": 2932.259,
+    "duraction": 3.961,
+    "value": "could just keep adding units to it and"
+  },
+  {
+    "start": 2933.789,
+    "duraction": 3.901,
+    "value": "stack them if you need more power"
+  },
+  {
+    "start": 2936.22,
+    "duraction": 4.11,
+    "value": "but it basically lets you be your own"
+  },
+  {
+    "start": 2937.69,
+    "duraction": 4.409,
+    "value": "internet service provider and that's"
+  },
+  {
+    "start": 2940.33,
+    "duraction": 4.23,
+    "value": "amazing broadcast it to your neighbor"
+  },
+  {
+    "start": 2942.099,
+    "duraction": 4.081,
+    "value": "through little antennas on the roof link"
+  },
+  {
+    "start": 2944.56,
+    "duraction": 3.78,
+    "value": "it you can you can chain it to a rural"
+  },
+  {
+    "start": 2946.18,
+    "duraction": 3.48,
+    "value": "area basically it's going to put"
+  },
+  {
+    "start": 2948.34,
+    "duraction": 3.69,
+    "value": "Internet service providers out of"
+  },
+  {
+    "start": 2949.66,
+    "duraction": 4.32,
+    "value": "business with a decentralized that's"
+  },
+  {
+    "start": 2952.03,
+    "duraction": 3.69,
+    "value": "awesome application and there's awesome"
+  },
+  {
+    "start": 2953.98,
+    "duraction": 3.18,
+    "value": "they're basically in their testing phase"
+  },
+  {
+    "start": 2955.72,
+    "duraction": 2.55,
+    "value": "now you could they have the plans you"
+  },
+  {
+    "start": 2957.16,
+    "duraction": 1.89,
+    "value": "can build one of these at home for about"
+  },
+  {
+    "start": 2958.27,
+    "duraction": 4.46,
+    "value": "six hundred bucks"
+  },
+  {
+    "start": 2959.05,
+    "duraction": 7.74,
+    "value": "hmm that's really cool you can you know"
+  },
+  {
+    "start": 2962.73,
+    "duraction": 8.74,
+    "value": "have you heard of IP FS interplanetary"
+  },
+  {
+    "start": 2966.79,
+    "duraction": 9.89,
+    "value": "file system no I have it well it's this"
+  },
+  {
+    "start": 2971.47,
+    "duraction": 10.59,
+    "value": "distributed no we're content delivery"
+  },
+  {
+    "start": 2976.68,
+    "duraction": 9.07,
+    "value": "network in protocol that could hey or at"
+  },
+  {
+    "start": 2982.06,
+    "duraction": 6.809,
+    "value": "least its poised to reshape the web d"
+  },
+  {
+    "start": 2985.75,
+    "duraction": 6.349,
+    "value": "tube is an example of a site that uses"
+  },
+  {
+    "start": 2988.869,
+    "duraction": 5.431,
+    "value": "it to establish a peer-to-peer network"
+  },
+  {
+    "start": 2992.099,
+    "duraction": 5.111,
+    "value": "for streaming for streaming video"
+  },
+  {
+    "start": 2994.3,
+    "duraction": 4.79,
+    "value": "content and it's really interesting how"
+  },
+  {
+    "start": 2997.21,
+    "duraction": 4.2,
+    "value": "it works from an engineering standpoint"
+  },
+  {
+    "start": 2999.09,
+    "duraction": 5.249,
+    "value": "because they're keeping all that content"
+  },
+  {
+    "start": 3001.41,
+    "duraction": 7.199,
+    "value": "in essentially two side PFS back-end but"
+  },
+  {
+    "start": 3004.339,
+    "duraction": 7.061,
+    "value": "they're shipping a peer-to-peer node to"
+  },
+  {
+    "start": 3008.609,
+    "duraction": 4.551,
+    "value": "you javascript that runs inside your"
+  },
+  {
+    "start": 3011.4,
+    "duraction": 4.56,
+    "value": "browser and you don't even know it"
+  },
+  {
+    "start": 3013.16,
+    "duraction": 4.54,
+    "value": "so it's it's peer-to-peer and it's doing"
+  },
+  {
+    "start": 3015.96,
+    "duraction": 4.59,
+    "value": "all the things that you would expect a"
+  },
+  {
+    "start": 3017.7,
+    "duraction": 5.31,
+    "value": "peer-to-peer network to do what by"
+  },
+  {
+    "start": 3020.55,
+    "duraction": 4.59,
+    "value": "peer-to-peer like inaho any of the"
+  },
+  {
+    "start": 3023.01,
+    "duraction": 6.21,
+    "value": "torrenting software that's all like slow"
+  },
+  {
+    "start": 3025.14,
+    "duraction": 6.12,
+    "value": "down my computer yeah familiar they they"
+  },
+  {
+    "start": 3029.22,
+    "duraction": 2.58,
+    "value": "really take advantage of that bandwidth"
+  },
+  {
+    "start": 3031.26,
+    "duraction": 5.31,
+    "value": "yes"
+  },
+  {
+    "start": 3031.8,
+    "duraction": 6.27,
+    "value": "yeah but any torrenting any those sorta"
+  },
+  {
+    "start": 3036.57,
+    "duraction": 2.85,
+    "value": "sighs they're all peer-to-peer programs"
+  },
+  {
+    "start": 3038.07,
+    "duraction": 2.91,
+    "value": "meaning you're connecting to other"
+  },
+  {
+    "start": 3039.42,
+    "duraction": 6.36,
+    "value": "people within the network to gather"
+  },
+  {
+    "start": 3040.98,
+    "duraction": 8.07,
+    "value": "files and so what it does is it'll is it"
+  },
+  {
+    "start": 3045.78,
+    "duraction": 5.16,
+    "value": "essentially it's running not a torrent"
+  },
+  {
+    "start": 3049.05,
+    "duraction": 5.43,
+    "value": "necessarily but it's running a note on"
+  },
+  {
+    "start": 3050.94,
+    "duraction": 7.23,
+    "value": "the torrent that allows that network to"
+  },
+  {
+    "start": 3054.48,
+    "duraction": 8.6,
+    "value": "be fully decentralized so the IP FS"
+  },
+  {
+    "start": 3058.17,
+    "duraction": 8.73,
+    "value": "protocol will if it had for example"
+  },
+  {
+    "start": 3063.08,
+    "duraction": 6.09,
+    "value": "users across the u.s. it would you would"
+  },
+  {
+    "start": 3066.9,
+    "duraction": 5.09,
+    "value": "be able to run an internet off of it"
+  },
+  {
+    "start": 3069.17,
+    "duraction": 5.51,
+    "value": "is this similar like it sounds very"
+  },
+  {
+    "start": 3071.99,
+    "duraction": 7.05,
+    "value": "similar to hash graph is that am i right"
+  },
+  {
+    "start": 3074.68,
+    "duraction": 8.26,
+    "value": "I'm not familiar with hash graph so"
+  },
+  {
+    "start": 3079.04,
+    "duraction": 5.61,
+    "value": "basically as I understand it and you can"
+  },
+  {
+    "start": 3082.94,
+    "duraction": 3.24,
+    "value": "go to the mike maloney videos about this"
+  },
+  {
+    "start": 3084.65,
+    "duraction": 4.29,
+    "value": "he talks about crypto and stuff a lot"
+  },
+  {
+    "start": 3086.18,
+    "duraction": 4.8,
+    "value": "but he mentions this it's some it's a"
+  },
+  {
+    "start": 3088.94,
+    "duraction": 3.78,
+    "value": "patented technology unfortunately but it"
+  },
+  {
+    "start": 3090.98,
+    "duraction": 3.389,
+    "value": "uses I think something called the"
+  },
+  {
+    "start": 3092.72,
+    "duraction": 3.329,
+    "value": "whisper protocol and all of the"
+  },
+  {
+    "start": 3094.369,
+    "duraction": 3.48,
+    "value": "computers are decentralized just like"
+  },
+  {
+    "start": 3096.049,
+    "duraction": 4.831,
+    "value": "torrenting and they will talk to each"
+  },
+  {
+    "start": 3097.849,
+    "duraction": 4.651,
+    "value": "other and it's like way way way more"
+  },
+  {
+    "start": 3100.88,
+    "duraction": 3.63,
+    "value": "effective than what bitcoin and Kryptos"
+  },
+  {
+    "start": 3102.5,
+    "duraction": 3.63,
+    "value": "are doing so in a way it could actually"
+  },
+  {
+    "start": 3104.51,
+    "duraction": 3.599,
+    "value": "just destroy all the crypto currently"
+  },
+  {
+    "start": 3106.13,
+    "duraction": 4.77,
+    "value": "and be something just like a light-years"
+  },
+  {
+    "start": 3108.109,
+    "duraction": 4.861,
+    "value": "beyond like exponential better orders of"
+  },
+  {
+    "start": 3110.9,
+    "duraction": 3.87,
+    "value": "magnitude better but you know is"
+  },
+  {
+    "start": 3112.97,
+    "duraction": 3.3,
+    "value": "patented and I'm not sure where where"
+  },
+  {
+    "start": 3114.77,
+    "duraction": 4.17,
+    "value": "that's kind of slowing it down right now"
+  },
+  {
+    "start": 3116.27,
+    "duraction": 5.46,
+    "value": "well yeah I'd imagine so it's if not"
+  },
+  {
+    "start": 3118.94,
+    "duraction": 4.56,
+    "value": "those solves it solves the Byzantine"
+  },
+  {
+    "start": 3121.73,
+    "duraction": 6.21,
+    "value": "generals problem as well which bitcoin"
+  },
+  {
+    "start": 3123.5,
+    "duraction": 7.02,
+    "value": "can't quite do interesting I gotta take"
+  },
+  {
+    "start": 3127.94,
+    "duraction": 4.07,
+    "value": "a look at that yet my favorite way to"
+  },
+  {
+    "start": 3130.52,
+    "duraction": 3.539,
+    "value": "introduce people to that one is the"
+  },
+  {
+    "start": 3132.01,
+    "duraction": 4.47,
+    "value": "hidden secrets of money I think it's"
+  },
+  {
+    "start": 3134.059,
+    "duraction": 5.55,
+    "value": "series episode 8 from Mike Maloney"
+  },
+  {
+    "start": 3136.48,
+    "duraction": 5.41,
+    "value": "because he has a great entry like a"
+  },
+  {
+    "start": 3139.609,
+    "duraction": 3.391,
+    "value": "great animated video he boils it down"
+  },
+  {
+    "start": 3141.89,
+    "duraction": 3.449,
+    "value": "real simple it's really interesting"
+  },
+  {
+    "start": 3143.0,
+    "duraction": 3.63,
+    "value": "technology but I kind of gave up messing"
+  },
+  {
+    "start": 3145.339,
+    "duraction": 3.931,
+    "value": "with that when I found out it was"
+  },
+  {
+    "start": 3146.63,
+    "duraction": 4.59,
+    "value": "patented and I will see what happens"
+  },
+  {
+    "start": 3149.27,
+    "duraction": 5.22,
+    "value": "with it you know a patent that is not"
+  },
+  {
+    "start": 3151.22,
+    "duraction": 6.78,
+    "value": "necessarily a great sign of for open"
+  },
+  {
+    "start": 3154.49,
+    "duraction": 4.65,
+    "value": "people who like open source but like we"
+  },
+  {
+    "start": 3158.0,
+    "duraction": 4.2,
+    "value": "were talking about earlier it could"
+  },
+  {
+    "start": 3159.14,
+    "duraction": 7.409,
+    "value": "always be reverse engineered and patents"
+  },
+  {
+    "start": 3162.2,
+    "duraction": 5.73,
+    "value": "were off so then leaked er yeah enough"
+  },
+  {
+    "start": 3166.549,
+    "duraction": 3.151,
+    "value": "information can come out that an"
+  },
+  {
+    "start": 3167.93,
+    "duraction": 3.53,
+    "value": "engineer can can figure out how to build"
+  },
+  {
+    "start": 3169.7,
+    "duraction": 6.96,
+    "value": "it"
+  },
+  {
+    "start": 3171.46,
+    "duraction": 6.73,
+    "value": "so no copy it so um well you know we've"
+  },
+  {
+    "start": 3176.66,
+    "duraction": 3.57,
+    "value": "covered a lot of good material do you"
+  },
+  {
+    "start": 3178.19,
+    "duraction": 5.129,
+    "value": "guys have anything else so we've left"
+  },
+  {
+    "start": 3180.23,
+    "duraction": 7.109,
+    "value": "out that you want to cover I don't have"
+  },
+  {
+    "start": 3183.319,
+    "duraction": 5.371,
+    "value": "anything yeah well I you know I I'm"
+  },
+  {
+    "start": 3187.339,
+    "duraction": 3.361,
+    "value": "gonna get back to the news at some point"
+  },
+  {
+    "start": 3188.69,
+    "duraction": 3.51,
+    "value": "tonight but I wanted to sit with you"
+  },
+  {
+    "start": 3190.7,
+    "duraction": 2.669,
+    "value": "guys and talk about this cuz you know"
+  },
+  {
+    "start": 3192.2,
+    "duraction": 3.06,
+    "value": "you went you put out your video about"
+  },
+  {
+    "start": 3193.369,
+    "duraction": 4.281,
+    "value": "decentralization and kind of purge my"
+  },
+  {
+    "start": 3195.26,
+    "duraction": 2.39,
+    "value": "interest"
+  },
+  {
+    "start": 3198.39,
+    "duraction": 5.08,
+    "value": "you want to tell people where they can"
+  },
+  {
+    "start": 3200.26,
+    "duraction": 7.08,
+    "value": "find you yeah so we're at the the"
+  },
+  {
+    "start": 3203.47,
+    "duraction": 7.5,
+    "value": "epistemology is on YouTube and this is"
+  },
+  {
+    "start": 3207.34,
+    "duraction": 8.73,
+    "value": "not T with underscores on Twitter"
+  },
+  {
+    "start": 3210.97,
+    "duraction": 7.59,
+    "value": "between each of the words and xerath's"
+  },
+  {
+    "start": 3216.07,
+    "duraction": 7.62,
+    "value": "do you want to throw that a Z a er yes"
+  },
+  {
+    "start": 3218.56,
+    "duraction": 7.71,
+    "value": "Conte went on Twitter as well yeah well"
+  },
+  {
+    "start": 3223.69,
+    "duraction": 4.77,
+    "value": "there you know well the main thing for"
+  },
+  {
+    "start": 3226.27,
+    "duraction": 5.4,
+    "value": "us is that we're going with D an on"
+  },
+  {
+    "start": 3228.46,
+    "duraction": 5.79,
+    "value": "thing just just to focus on the content"
+  },
+  {
+    "start": 3231.67,
+    "duraction": 5.22,
+    "value": "mm not really trying to build up a name"
+  },
+  {
+    "start": 3234.25,
+    "duraction": 4.95,
+    "value": "just trying to put things out yeah we"
+  },
+  {
+    "start": 3236.89,
+    "duraction": 4.02,
+    "value": "want to we want to make you know we're"
+  },
+  {
+    "start": 3239.2,
+    "duraction": 4.26,
+    "value": "trying to build the concept of people"
+  },
+  {
+    "start": 3240.91,
+    "duraction": 5.33,
+    "value": "who who pay attention to knowledge and"
+  },
+  {
+    "start": 3243.46,
+    "duraction": 5.73,
+    "value": "who are looking to build knowledge"
+  },
+  {
+    "start": 3246.24,
+    "duraction": 7.09,
+    "value": "better and faster we're trying to"
+  },
+  {
+    "start": 3249.19,
+    "duraction": 5.7,
+    "value": "improve our meta knowledge tools if you"
+  },
+  {
+    "start": 3253.33,
+    "duraction": 3.75,
+    "value": "build it they will come I think that"
+  },
+  {
+    "start": 3254.89,
+    "duraction": 2.97,
+    "value": "this this is a time this is an idea"
+  },
+  {
+    "start": 3257.08,
+    "duraction": 3.3,
+    "value": "whose time has come"
+  },
+  {
+    "start": 3257.86,
+    "duraction": 4.8,
+    "value": "so yeah internet and with cryptos and"
+  },
+  {
+    "start": 3260.38,
+    "duraction": 6.69,
+    "value": "the precedent set for you know as you"
+  },
+  {
+    "start": 3262.66,
+    "duraction": 5.94,
+    "value": "said open source yeah yeah well thank"
+  },
+  {
+    "start": 3267.07,
+    "duraction": 4.53,
+    "value": "you guys so much for joining me and as"
+  },
+  {
+    "start": 3268.6,
+    "duraction": 5.55,
+    "value": "always it was it was mentally like being"
+  },
+  {
+    "start": 3271.6,
+    "duraction": 8.31,
+    "value": "drugged through a horse horse track or"
+  },
+  {
+    "start": 3274.15,
+    "duraction": 7.62,
+    "value": "something already tired but well take a"
+  },
+  {
+    "start": 3279.91,
+    "duraction": 3.93,
+    "value": "rest we appreciate it"
+  },
+  {
+    "start": 3281.77,
+    "duraction": 3.99,
+    "value": "it's an honor to be on your show so yeah"
+  },
+  {
+    "start": 3283.84,
+    "duraction": 2.94,
+    "value": "it's wonderful I I definitely preciate"
+  },
+  {
+    "start": 3285.76,
+    "duraction": 2.46,
+    "value": "you guys and hopefully we'll get a"
+  },
+  {
+    "start": 3286.78,
+    "duraction": 4.49,
+    "value": "chance to do this again have a great"
+  },
+  {
+    "start": 3288.22,
+    "duraction": 3.05,
+    "value": "night yeah you too"
+  }
+]

@@ -1,0 +1,1223 @@
+{
+  "indexed": "__lGfKxA0WI,_-_MVJecq5I,_5WkbucPT4g,_ec7XMfirg4,_EqneJRgSe8,_idzf18MYXs,_Ne214s756k,_Ob8jo-qOCU,_q5-lvNqF8Y,_TPUfVabVHU,_tRUka84Q10,_UMxGoem_cE,_YS92pFld0Y,-_4Za6eoYwY,-0DjA_r32uQ,-3F6SZZIT-E,-5M7Y-zFyZ0,-9msE7-ydts,-Avsxw6BrhI,-b8zWS3tty4,-e5ABbWTn8M,-i-6mNaKI3I,-icWyKwjrY8,-kDAK81lyaY,-kYE2w6y-GA,-MYXqXNhcnc,-P8dkAqUKZY,-tSHN-cRXo0,-VRexocuLyU,-zsJy_pc_gQ,0-8SzdsEPn0,047r18PmzXg,06ZhNoUqwA4,0C27jD9e-j0,0ICCjllfcD0,0jspiMXND2A,0kkMEbbFd9M,0NUQEdAWVkQ,0q_eYZ-zjys,0SJGTnXKJLk,0th1OKXNQXY,0thRJXOyyOs,0VW3c_f1WOI,0Ytkx1pvnL8,1-v18VEV4Rg,18k-mw0lGZ0,1atlaAzWtj4,1FoSp-tBfp4,1Qa_cX1DPn8,1s9fsICUfOw,1WmbX3JQa0c,1ya6QF21RjE,1ZoQGfCIQP4,22knD94PYNw,23GkaHyU2R4,23Zi93zyS6U,24o5bLbjYh0,29VWyFZAo98,2J-isPoaOe8,2MEzlpSs3hI,2qRm-XvaYGk,2vQA-V9OnxY,2XVtrBvxoNQ,3_9MzitOhpg,3-sR3LmB0N0,305W5z9yzW0,32HzhZpqqHs,32nTGjvWF9c,34kHft924rA,3cgcmRKlIhU,3ciusVGxdno,3E_KWnG6gO8,3fi1bx4oWOE,3GvhthG2rXo,3iT9_AqKX2M,3mCWwiYSQsM,3n_fTHOHmP4,3VJvZsz9VQk,3Vpaplt92is,3WDtVeSSyrU,3WzJtUe634M,3XT99f5rZkY,3YdbQS2xw0E,40cx-g-mfDk,41qO6bukotY,4aR7zbZf3pE,4ATvSzS-TLU,4dX3v4Z4aec,4fS6egD9cSc,4mNbB0RTuoI,4MXimasATsA,4nk3rY194h8,4oXIn88QFbc,4qQd8Qu7aPM,4VCgU1v0c3I,56hnR-UeVbI,59IbF_o4Xxc,5flC3-UkdyU,5PhM32xlVEs,5RLxQOvZxXs,5St08kicLiU,5uzjLst8w68,5VFOltHRXbM,6_wyHLXHqx4,60xrsFvDYYk,6Ezxw-UNmQI,6foOgmaZN-s,6kESQU65fUA,6KttPC8JV3s,6o54Y7dhOus,6PsL7aVI12U,6sbgm3s49BM,6sC4YqrrbsQ,73cggmTCclY,7a8EAuTwhdU,7d3A9Wi1xu0,7drP1GmKuhA,7HQEEo9pTxI,7kzKO982UIQ,7OUm208GUDs,7UT-kOjOka4,80z15a0xsUQ,81p3jRVXGk4,8gkGfhtpurY,8pa8Er939dg,8QiuuwivwsM,8z6EDkIocXI,91aT7JIOIbY,9gYGBZ6wUIE,9hqxfV040oQ,9K-4Jc2l-7U,9lbn3bkROBc,9lgC6A9CGqY,9LwjAgU_2hc,9w_UO-KJccs,9xhpctWntoI,9YBPFZ6r5nY,9yIsVlJ2qAY,9zB7TNiGuDw,A4-cSwxHsV4,a4jwV9NnySU,A52PfmoHm8I,a67Ukzg63u8,A7HbMpBAg8c,A82praOPfpo,AaP-PP8-KGk,aAzQwARAo28,ABM5Oj2s6eI,aC12-gepI3U,aCfOGluhEKI,aDPMNOgOz4E,aDUDC92PxcU,AJ_U54u6gbE,ajiBcgtAY-w,aJWZ_APGg6A,AKPMK0xaRN0,AmbKxQ51VWc,aN9TllOemSA,ANDq9-ttO-w,Ao2abBxOiLY,AOParRtlvFQ,ApHsdbvYgFA,aqGYpuYdbOM,Ar3JvKPGr40,ARwagwGekv0,AuJjdL3A0Wc,AvcEuGghWQk,aWGr7i2-IYA,AwzaAL1pDXQ,aXwILTOVL0M,AyLUG-qQcCA,B5_naGkaBDg,B5MFHmezpn8,B5mo-Rnwm4s,bbAaX9B5ncY,bbpmtRc18WQ,BC_VRjt8gvw,BcZjAF2oFEE,Bd0NHLMVTAQ,BFuaMj35qAo,bG3PLtnHSuc,BGt8AVBwAQc,BLJVjp0lq4g,bmipWlYsyEM,bMWIDBnA6Z4,Bn2OlX_4C4Q,bNHR5T64ooQ,bNMvlOzCsZk,Bozlwr1uHco,BpeOtb7CWeE,bPVLncDuirE,BR9EIDuUBJQ,bTFNebYIotU,bYRSIwwnCFU,bzAYF7yEn7Y,bzCEAKmxlVs,C_h2RLZEGEk,c1C7epr44bw,c7Yfc_JZAaU,CCLJZ-bM01Q,CDZhS3BfdB0,CeXQ15A9BSA,CIkVvgIT6qs,cKGw_Hrtajc,cKObBT3BQ4A,CksmGxdCvPQ,cLcHOtY9fgk,coYoIINOWcQ,cpAeoTwKHlc,cpPgoi7zUjo,cu1homOW9CE,CunzrKChTpI,CX6apttsGjs,CxaPpbC3pgA,CXbRscylFsY,CYE1-7NSG2g,cyjt9Vm0imo,D-va4Jpkt38,D-y5ALLiCZ4,D3zc2JmlHK0,D4AkLrH0WtI,D8mzSBBfnNQ,D8RUia2q5wA,daON-Y2Ph5w,DCkhkkb2nqM,DdiM5lA-05c,ddZfJCoq65o,DeEBJcmrjAU,dh_NJhuVafY,dHHqYCCujKY,DiRI7rhc4qE,DJJw71TSho4,dJspwk8huY4,dKaqjJzl0vg,DksI8ZPmBNE,dlZUFvOqJeY,dNI6tUGGJNM,dONKuAjf26Q,dos0E9blpHw,DsDBNF7mhqk,DSqcbzBojYk,Du5Cit3oe6w,duZHG7VDNm4,DxGp_peYB_A,e6gS2_fX0oY,e6mIdK0LLWk,e8AyslO62b8,e8xXVMiChuQ,E9n2iFMyXjQ,EcbwKNO6TBI,eERaZvdF6Ms,ees6El-Jay0,ejBAqhxqAkQ,EK0R7sdxAFQ,ekJ4hKREY8U,eLy1XqX9IcU,En-VTreZMTs,F3oAIzyo0HQ,F4IPqNACpvI,FAhsY5AIWWY,FDEmEvwZtrM,fHohiZp5hGc,FJGnynqfiCQ,Fo9T0LNhNqQ,fOQPFgF5Etg,FPUae6qsjdw,FS65Eef4z7o,fSwdVMLq8zI,FuBVeoPBd0U,fWjIv0WgyqA,fWk2XKmiQOI,fXA4SlMx-Mg,Fz5fZ_7pia4,G2ZwwI5fN0E,g57p8aQQSbY,G5RiRuFIh8Y,g90iVaKS8Mc,gCaHEfyXkA0,gdEzIz7ievE,gDlgmkVKpy0,GDx66bXgYq4,GFEth1i97yY,gG4fzaWuo9w,GhikRA2no60,gJ7o1StrKv8,Gk2tr29fY6Q,gKGT2jlVrgI,gkMB1_gooM0,gkO-A-sYsH0,GmuQx9AiYD4,GN4nmRCU0AY,gojwzzPJQrg,GrWwOG5yFFM,GThX5ssVBn0,GUip6dZpKEs,gUkB5Kk4WAA,H1FABkrnIaE,h6koxkXAJLU,h6y5TxpDvbs,h9dW3QCrYso,hA31PrCznjw,Hb187lnYh0o,HgE2EqazY68,hhPRDd4gOEI,hIrbIOaAUxg,hKdsv2EbSSo,hl-FK4t_9lA,HLRFTyNBlFY,hLumnOkZynU,hLWMbjtpLn0,Hm1iTIa7rFk,hMhDNxC-EB4,HMpv5DpVVUY,hMQTN9L1dBE,Huj55Cm9qH8,hUouIgbrNZY,HWjAwmGq654,HxhtJ-1kd5k,hy9Uo864i5g,hZGSNKUFjQk,I2-S22FiEvg,I2t1cPgCvJo,I2zRq3kdLbk,I3pn7Xex-Ks,i3rp0Uim-0o,i4AnsQlVTvQ,I5h76-o1Kjw,i8VDK89xXzg,I8VIDULc_jQ,iAIDKPNVjzU,ifJ_GtRJ5qM,Ig7fshISKmk,igDMQaECoSw,IifnpOcm0b4,ik-J2hrNaWo,IKpl4TeHwPg,iOLlT7CbqKs,iPX6pJ1dD1s,IS-CvxLX47Y,IsG3gQIRxno,IsjWF9k7TZE,iTFkB2iXkgI,iTFXxHtlImY,iu9vMZwMqgI,IUcqrB04ZpE,IuIhXyjMG28,iUolMe2Bu-M,IuVzHVFtFIE,iwCYGrXqmqw,iwIfxOwYNOE,IwvvrAh-JyA,ixHuaqf211Y,iXPDVq2lGsc,j6boJmmzNcg,j9gG0WZWO2M,jaInrf7dB30,jal0jAoFV70,Jcekm05d-so,JD4r7qP0OLw,jEgmVdV6HBE,JeGwCPRojJo,jgHK6JZonJM,JLPKO3AKA14,JMN2uWdknac,jN-MkK8djcY,JNaC6eDgjAk,jnUZD1wnBn8,jR_FxV3DYyU,jS-yK_ueKZw,jSZnoRobYTE,JT-aith5f5E,JvaI4JCd5ig,jZ_tr0NnNjE,k2bZBA1A82U,k2MXyXKRlN0,K2TOaYHNhDs,K3kiPpMhKkQ,k3m1P3Vie6s,k55kWdrN8hw,k9LVltxQF2Y,kan3dn8Q8nA,KbWsgGeTrb0,KDVsepSqmys,KgYgMWFqbEc,kHxWvaMOwhM,Kl3MyuzCdRs,KM6DTC_i-8s,kNNz1UEwF-E,KpFP8X1JTiI,KPj--UF1T0k,kRGV4cIdWwM,KSP24qYeWgs,ku6qyUwUgWo,KVb-rUXG6h0,KW1hgV9CBqk,KXHpsXQV82g,KXW0hS3aOjA,L-4ADrZak_4,l0PDi1KDi1w,L1mLdTih8gg,L4Sa4dArQUE,L61XF64Ls8E,l9qBVI4SVP0,lb46GsmPTsI,ldX0CQ2UUfI,LFlKG-VVzMc,LInNbS1JErM,LiU5TfehWW8,lj8AH-4ajRw,LjzWwM9Y9zg,llnr6CG6lHM,Llr69yow55Y,llsND2qpTjM,lNKXqkyE2NQ,lOGKAbcAVzE,LQ4NioOxuGM,lUOYOF9DuSs,LwTvS9v15LE,LXCTMl_Jp9M,LygxI2VGhDU,m_PowDSDjEE,m1HAZ0ESYD0,M1ODHcuO0V0,m2kffLdykTs,m30mwu-9WW0,m3193w4W8Po,m5p9p9LBEpM,MATnFsqiC7Y,Mc5wHbV6irw,mCy59eLFjZg,McZuVVn7fEw,miQPk7qxSvs,Ml1Ys-sDe4o,mlmAUPNPev0,mLZkwKOueVI,mMVX1iGgRac,MO8yy324jyk,MpiqVbdFnlo,mPovmVmAgXs,MsBWU2CFf-U,MUyBpTbvDmw,N-BsO-mirZQ,N-Nsni2kalY,N0l4oFEKoCY,N37LrIj7a8E,N4MwW69zjdk,NbUtbE4Zpoc,Nett68JXMUk,NFBFDRSsaU0,nfDm-SuYSrQ,nhR65A2Cz1U,nJ5B8GnH3mE,NJf-Tr3BrqI,njWcrYwundg,NObMClb6nMY,noiATviQJ3Y,NoLKqBPGGLQ,nPRGWjUYGow,nPtPHMYmnsk,Nqbj_4nIAiA,NqL7EeYTd9s,NS200QxWq7g,nsUd370-n9Q,Nt4ug94a134,NVIEhqdvMCo,NVRVSzP0rFU,NVUbej8exEk,NY7B_THWsM8,Nzx4XSf_fAI,O_R4bM7ONJk,obm0AKIypPI,OCzJwGE7RTY,OdS-XmHla-U,OdXjpK_tLRg,OE_u4IbopVo,OGL_5cu0F-M,OgrLw9IX-Ns,ojYZBeCwYis,oK2ZWHTdbpA,ooHxX3whFXA,OOxgnEI8_NI,oReGR3Bjjmw,oSZzclsh00Y,otE6dhCgsJc,Oun53CRXyeI,OwECoLGRl68,oX7b3YzRNXk,ox9yzjeHt3s,ozbHMNhYe0A,oZz9CJ9K8MA,P0cawbGyBxM,p0Qy24DXfdY,P12Gc4WmCak,P3jy8S0P-2w,p6_gLv5qy8E,p6GmDJEkOQk,p6wFKOTyR60,P8xmUD4Gmrw,PA9MTquQya0,pAK-a8Op8KI,pauS_rhaYO0,PBiBq_DiHmo,pbjkl0DwxHs,Pg21pJPDzEU,phbygYipE-g,Pi8_BZtYNzQ,PkeO8SN0cN4,plJqp67-iX4,PNsZI-uZH7I,PsQlxu6iOzI,pt17lUpcskk,PtAxf8A1Zco,ptvgcLZ3HOw,PvWDJd2UYT8,pwM9WH8pqaY,PWMXacQWEjs,pyMrzxZBZZQ,pZ5q5wUI1-Y,pZhHd9KT2lk,q0IR8IqKZ18,Q1nmx353lDo,q2ItOTBF1ys,Q4MG607MDz4,q6hnQoB_BlI,q78RNxcI38U,q7I8sj_3rlM,q7prMUoyMEo,Q84zuHjjuww,Qa2bfVP6ChQ,qB9zc5VAanc,QC7qRbcWsN0,qcEDt4YOkS8,qCmySBiZXVA,qdwN5mt9V2c,qFumeKZX_MA,QJaNPlhmdSM,QK6Y2tnFIAw,qlFnlzOoFgo,qNurdjNB-rw,Qo2GL5T8T_E,Qq339b2xOrY,qRKU3XXIwlI,qSFeOuQEXXw,QSMC7VnqOnQ,QtYci9jXct4,QuVpIqeSRnU,qwbX5au3Iuw,qWhpDyoLyR8,qX2Z7mLBM1k,qZMy5wog24o,qZZGyHrnsQM,R_iWc7_vQ14,r-vKLD9F61M,R1g3eyyM590,r1IYwxp0NNs,r1pXJkMaAmc,RCPgq96ku4k,rdE4NEIZACI,REcAj2PLMu4,RenafscRgUY,RgdXwexLI_Y,RGFh5qOWU3U,RLczNzWBbpE,RmZj7uATNFM,rqks6sKCmDc,Rt85IKjQ9hs,rUpElK5Qw3E,rVrthFN9dnI,rX0dkfDOO1s,rxMOShu0yQk,RZf9IVaRgdo,S2U7ncJQ000,S4mKQajGJl4,s6H86oQEC2I,SaR5pCeCjao,SAwrlpHFmOc,sBy_LmO3b7k,SePTbZOh8iE,sHUgXraPhAc,siBW29AUMrw,skkII0awwFM,sKMZRv9JY_A,sLv3F7kLpB4,SovJjIjmI6M,sR5B-vb3Fi0,svK1ajIeprU,svwSKZ926yY,SvyN0PlWwkM,swc_HIr-8WA,Sx3ElJlX7wQ,SxPNu1XMYKA,sxWWB5aKNk8,T_mJ1awyakY,T3TRP5tX3T0,T5IM3P9Md-4,t6dwa21eo_M,TCtPeZP1H0g,td8PwMAtpQI,TdNo4qfgAb4,TeFw8eqcLco,tfW6YjVSx0U,Tg0_AZbm71E,TgzkblYi9pg,THy-FwvnIqQ,tJjx9eVGzSY,tK7YaJnYETw,TKK1o-pPPkQ,tkLyxIo8Cqo,tkm-n8lbhLg,TKOI_wF6Rn0,Tr5IR4SqKcA,TsjX9SPfvSA,Tus8Yc2qNXc,TX1rZO2bLJ8,u_apd9SGqLc,U1GOoEoYLy8,u1gZGn0l8y4,u3TgwapRzSA,u9zCkZgwoik,UA8VNiOraJI,uaXp0CBucos,uJn58OP3GEI,uJYAdCT7xFA,uKCq7HfZh9A,UKfHVu47LXo,Up-MRtsG4Tw,UpaXSxM07to,urRt-Yju_SU,UrzdhfUMR6k,UsuA0HSRXzo,UuJpA7lXi7g,uUsLnKlWMkU,UVea--jSv1A,uvYdZu80X9Y,uWFJruvCPhc,UwVr2kwMjI0,uxDmAVpZ91Q,V-8xYjEosOY,V4OPmN3e8F8,V59pKIXUQuM,v5G6fZkyhXg,v6JLwp0aFpc,Vafm-ZaLAyI,vafXYoDY5dw,vcqHF8DDsNk,VfelKh4yN9g,vInE2aOTFdw,ViODeAbI2IQ,vK3bX5D1ysc,VKhRSDIFJK0,vL7VfteARhQ,vLnzuy_aeGQ,VLxlCXAuo08,VtMhFvMTyHQ,VVsAZ0AGHeo,vZDynmvvgWg,w_A3W-OJyNw,W0APO4axfn4,w0OSb7FbXas,W7UmZWUWBMQ,WB_PkYN9MFI,wCcjEszzrTI,wdwWgzAq48E,wdXHxEEAvps,wg5sukd6E6Q,WHSd5tVWq1I,wjeEg2yoJbM,WKfsgQLVsHk,WlZQhQXwYTI,WmhFYQnlKB4,wNgdMwL7isA,WOmDWYRAtiA,WsnaqvLhEUk,wu0Utsff6Jo,WvCBdE6rolk,WwBj0YnLtX0,x1EXDDlmrVU,x1UII7bCsvQ,x27EZLRmoAU,x4XfpmZxDq0,Xe8yEypTfNA,XfNnvWPlprc,Xg7s8fovfh8,xKxi0Bbl_Fs,Xl5iO-2wzq0,xLDnc1Vm99w,XMo_G2k5Wso,XobWx6C6lJs,xQVu3ywd2RU,XRABi40G2T4,xS-hT1sfvfs,Xtk7ntK7k14,xU1ilgRmqsk,xUDwyRTojUM,xXRUfka1XFM,Y31yR524zWU,y3LgzaKBw2w,y3OVColWu-g,Y8DPHUnnvXU,YaMWl4cmqkw,yb_kKBcdsRc,ybgD2ibYB0o,YDS7nKcT3rk,yEf7XF-JNy4,yf8ObyPk568,yFQEK_KaTMA,yIh9oqXg4JU,YiLWFF__qiM,YIPBQ3O8Wr0,yK2UAmF7gYA,ym22gqkQmUA,ymm3YfCfVUs,yOGL3BrXZlA,YpPXlDhdkOg,YSc4GkdMm-E,ysHQziNaMOo,ySHvJqNfN7I,ySSnEYdnsEM,ytA3-R4Fi4M,yu7cOa_9gN0,yVjAH8Wg-hk,ywKQGnLaYdk,Z_nveKGRnsI,Z5o33xspXi4,z5obz0z7rdo,z7s8UaWeshs,Z8oojkEH6Eo,z9GTRwjpZLo,zBBzw6WImlY,zCKlkgpTrXo,zdehlx8vy4U,zffLUSbaqlw,zGk_J9B9MDw,zgK4F6NW32s,ZgOL1h0-8Ok,ZGsWdjqtO-w,zgU0j8HGfX4,zIU-AuvMwqU,zjqEsdevnaU,zKar6awuy2Q,zoQmiHuW8nc,ZpqZoQBWXVo,ZpXeRJcgZlU,ZqMTDLT6akA,ZRISi-Y-X3s,ZseKL2q2S-E,zUxgy98UTp4,zw8yzCjmYcI,zziC-o5xumc,ZZTz8nYZ6vA,hj7ubtDDtik",
+  "topic": "Proof",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "-VRexocuLyU",
+      "segments": [
+        {
+          "text": "same thing nice little q *proof* there but",
+          "location": 313
+        },
+        {
+          "text": "that's not all we get a double q *proof*",
+          "location": 315
+        },
+        {
+          "text": "graphic just shows that *proof* power",
+          "location": 324
+        },
+        {
+          "text": "little *proof* there that they're watching",
+          "location": 461
+        }
+      ]
+    },
+    {
+      "id": "-zsJy_pc_gQ",
+      "segments": [
+        {
+          "text": "little *proof* board and connect them all",
+          "location": 332
+        }
+      ]
+    },
+    {
+      "id": "047r18PmzXg",
+      "segments": [
+        {
+          "text": "secret space program is this *proof* that",
+          "location": 853
+        }
+      ]
+    },
+    {
+      "id": "0ICCjllfcD0",
+      "segments": [
+        {
+          "text": "big way cue *proof* number a million by",
+          "location": 726
+        }
+      ]
+    },
+    {
+      "id": "1FoSp-tBfp4",
+      "segments": [
+        {
+          "text": "that's another cue *proof* we have q",
+          "location": 288
+        },
+        {
+          "text": "her i would like a *proof* of life you",
+          "location": 327
+        }
+      ]
+    },
+    {
+      "id": "1Qa_cX1DPn8",
+      "segments": [
+        {
+          "text": "forward typically without *proof* so that",
+          "location": 326
+        },
+        {
+          "text": "typically without *proof* where's the",
+          "location": 330
+        },
+        {
+          "text": "*proof* that's all we want but it's not",
+          "location": 334
+        }
+      ]
+    },
+    {
+      "id": "1s9fsICUfOw",
+      "segments": [
+        {
+          "text": "says the *proof* is in the pudding because",
+          "location": 400
+        },
+        {
+          "text": "the *proof* is in the pudding like you",
+          "location": 443
+        }
+      ]
+    },
+    {
+      "id": "3cgcmRKlIhU",
+      "segments": [
+        {
+          "text": "*proof* right there quite the queue *proof*",
+          "location": 517
+        }
+      ]
+    },
+    {
+      "id": "3Vpaplt92is",
+      "segments": [
+        {
+          "text": "showing that it's just *proof* and i do",
+          "location": 77
+        }
+      ]
+    },
+    {
+      "id": "41qO6bukotY",
+      "segments": [
+        {
+          "text": "another cue *proof* like you said recently",
+          "location": 412
+        }
+      ]
+    },
+    {
+      "id": "6_wyHLXHqx4",
+      "segments": [
+        {
+          "text": "we get a beautiful cube *proof* here this",
+          "location": 200
+        }
+      ]
+    },
+    {
+      "id": "6Ezxw-UNmQI",
+      "segments": [
+        {
+          "text": "so one *proof* of many that we are getting",
+          "location": 203
+        },
+        {
+          "text": "uh last thing this is actually a q *proof*",
+          "location": 759
+        },
+        {
+          "text": "nice little cute *proof* we've got another",
+          "location": 799
+        }
+      ]
+    },
+    {
+      "id": "6sbgm3s49BM",
+      "segments": [
+        {
+          "text": "*proof* right there so boom we got a shot",
+          "location": 118
+        }
+      ]
+    },
+    {
+      "id": "73cggmTCclY",
+      "segments": [
+        {
+          "text": "more *proof* that vaccinations are",
+          "location": 1090
+        },
+        {
+          "text": "again do we need any more *proof* that",
+          "location": 1137
+        }
+      ]
+    },
+    {
+      "id": "7a8EAuTwhdU",
+      "segments": [
+        {
+          "text": "what do i want to say *proof* health x",
+          "location": 423
+        }
+      ]
+    },
+    {
+      "id": "7OUm208GUDs",
+      "segments": [
+        {
+          "text": "one more piece of *proof* that they are",
+          "location": 1468
+        }
+      ]
+    },
+    {
+      "id": "80z15a0xsUQ",
+      "segments": [
+        {
+          "text": "by way of *proof* huh they're just coming",
+          "location": 1634
+        },
+        {
+          "text": "definitely a q *proof* there and the",
+          "location": 1661
+        },
+        {
+          "text": "demonstrable *proof* to show that not only",
+          "location": 2335
+        }
+      ]
+    },
+    {
+      "id": "ajiBcgtAY-w",
+      "segments": [
+        {
+          "text": "*proof* of life",
+          "location": 1067
+        }
+      ]
+    },
+    {
+      "id": "aN9TllOemSA",
+      "segments": [
+        {
+          "text": "and here's a cue *proof* that we get from",
+          "location": 1528
+        },
+        {
+          "text": "so another *proof* there add that to the",
+          "location": 1557
+        }
+      ]
+    },
+    {
+      "id": "AyLUG-qQcCA",
+      "segments": [
+        {
+          "text": "do we have *proof* no so these manifestos",
+          "location": 717
+        },
+        {
+          "text": "he's showing all this *proof* he's saying",
+          "location": 1488
+        }
+      ]
+    },
+    {
+      "id": "bbpmtRc18WQ",
+      "segments": [
+        {
+          "text": "baseless allegations no *proof* it's all",
+          "location": 278
+        }
+      ]
+    },
+    {
+      "id": "BFuaMj35qAo",
+      "segments": [
+        {
+          "text": "*proof* here in a non asked q to say",
+          "location": 681
+        },
+        {
+          "text": "his tweet another q *proof* with a",
+          "location": 694
+        }
+      ]
+    },
+    {
+      "id": "bPVLncDuirE",
+      "segments": [
+        {
+          "text": "use that as *proof* that pizza gate is",
+          "location": 225
+        }
+      ]
+    },
+    {
+      "id": "BR9EIDuUBJQ",
+      "segments": [
+        {
+          "text": "nice little cue confirmation cue *proof*",
+          "location": 460
+        }
+      ]
+    },
+    {
+      "id": "c1C7epr44bw",
+      "segments": [
+        {
+          "text": "just another qed *proof* here we have",
+          "location": 1126
+        },
+        {
+          "text": "narrative cue *proof* got popcorn cue says",
+          "location": 1200
+        },
+        {
+          "text": "infographic of that cue *proof* from the",
+          "location": 1285
+        },
+        {
+          "text": "*proof* where the call sign for air force",
+          "location": 1291
+        },
+        {
+          "text": "another *proof* somewhere in there and",
+          "location": 1351
+        },
+        {
+          "text": "there huh what a *proof* told us two days",
+          "location": 1549
+        }
+      ]
+    },
+    {
+      "id": "cKGw_Hrtajc",
+      "segments": [
+        {
+          "text": "right here so massive cue *proof* they",
+          "location": 371
+        },
+        {
+          "text": "another cue *proof* another future proving",
+          "location": 382
+        },
+        {
+          "text": "cue *proof* these are the kinds of cue",
+          "location": 395
+        }
+      ]
+    },
+    {
+      "id": "cpPgoi7zUjo",
+      "segments": [
+        {
+          "text": "name and how is that a cute *proof* you",
+          "location": 409
+        },
+        {
+          "text": "this is a great q *proof* right there and",
+          "location": 445
+        }
+      ]
+    },
+    {
+      "id": "cu1homOW9CE",
+      "segments": [
+        {
+          "text": "giving you guys a little bit of a *proof*",
+          "location": 11
+        }
+      ]
+    },
+    {
+      "id": "CXbRscylFsY",
+      "segments": [
+        {
+          "text": "checking in here for a *proof* of life",
+          "location": 28
+        }
+      ]
+    },
+    {
+      "id": "dh_NJhuVafY",
+      "segments": [
+        {
+          "text": "major cue *proof* right here look at this",
+          "location": 41
+        },
+        {
+          "text": "massive cue *proof* right there i'm",
+          "location": 104
+        },
+        {
+          "text": "big q *proof* right there very excited for",
+          "location": 900
+        }
+      ]
+    },
+    {
+      "id": "dHHqYCCujKY",
+      "segments": [
+        {
+          "text": "like *proof* like dot like put a person",
+          "location": 902
+        },
+        {
+          "text": "*proof* of here like where are the measles",
+          "location": 907
+        }
+      ]
+    },
+    {
+      "id": "dKaqjJzl0vg",
+      "segments": [
+        {
+          "text": "president tweets oh boom one *proof* of",
+          "location": 274
+        }
+      ]
+    },
+    {
+      "id": "eERaZvdF6Ms",
+      "segments": [
+        {
+          "text": "each q *proof* q saying trap keyword",
+          "location": 834
+        }
+      ]
+    },
+    {
+      "id": "G2ZwwI5fN0E",
+      "segments": [
+        {
+          "text": "basically like a cue *proof* for us now",
+          "location": 157
+        }
+      ]
+    },
+    {
+      "id": "g57p8aQQSbY",
+      "segments": [
+        {
+          "text": "day in a row now so i would like *proof*",
+          "location": 357
+        }
+      ]
+    },
+    {
+      "id": "gdEzIz7ievE",
+      "segments": [
+        {
+          "text": "people say where's the *proof* where's the",
+          "location": 2383
+        },
+        {
+          "text": "*proof* oh my gosh it's there you know",
+          "location": 2384
+        }
+      ]
+    },
+    {
+      "id": "GhikRA2no60",
+      "segments": [
+        {
+          "text": "shouldn't they be showing the *proof* of",
+          "location": 390
+        }
+      ]
+    },
+    {
+      "id": "gJ7o1StrKv8",
+      "segments": [
+        {
+          "text": "*proof*",
+          "location": 158
+        },
+        {
+          "text": "*proof* that i saw a period that began",
+          "location": 224
+        },
+        {
+          "text": "has meeting *proof* boom plus plus plus",
+          "location": 251
+        },
+        {
+          "text": "saw and i thought that was our *proof* i",
+          "location": 344
+        },
+        {
+          "text": "*proof* balls batman that's three of them",
+          "location": 431
+        },
+        {
+          "text": "one is the corny *proof* yes this one is",
+          "location": 591
+        },
+        {
+          "text": "the i this makes it a *proof* you know",
+          "location": 710
+        },
+        {
+          "text": "so that's why we have a *proof* obviously",
+          "location": 765
+        },
+        {
+          "text": "*proof* number seven don't know why though",
+          "location": 776
+        }
+      ]
+    },
+    {
+      "id": "Gk2tr29fY6Q",
+      "segments": [
+        {
+          "text": "discuss is our cue *proof* of the day and",
+          "location": 171
+        },
+        {
+          "text": "our cue *proof* of the day you know so",
+          "location": 174
+        },
+        {
+          "text": "videos maybe not a q *proof* maybe this is",
+          "location": 197
+        },
+        {
+          "text": "a joe *proof* whatever you want to call it",
+          "location": 200
+        },
+        {
+          "text": "foreknowledge there another q *proof* but",
+          "location": 430
+        },
+        {
+          "text": "coming together we get a q *proof* another",
+          "location": 765
+        },
+        {
+          "text": "finding and finding the queue *proof* so",
+          "location": 831
+        },
+        {
+          "text": "*proof* proves our strength as well thank",
+          "location": 941
+        }
+      ]
+    },
+    {
+      "id": "GN4nmRCU0AY",
+      "segments": [
+        {
+          "text": "another cue *proof* with this one cue",
+          "location": 487
+        }
+      ]
+    },
+    {
+      "id": "HgE2EqazY68",
+      "segments": [
+        {
+          "text": "*proof* with that right there",
+          "location": 396
+        }
+      ]
+    },
+    {
+      "id": "hl-FK4t_9lA",
+      "segments": [
+        {
+          "text": "don't have *proof* of life of her right no",
+          "location": 1363
+        },
+        {
+          "text": "*proof* of life she's canceling this",
+          "location": 1367
+        }
+      ]
+    },
+    {
+      "id": "hLumnOkZynU",
+      "segments": [
+        {
+          "text": "talk about that queue *proof* another one",
+          "location": 139
+        },
+        {
+          "text": "yet another q *proof* q not only having",
+          "location": 186
+        }
+      ]
+    },
+    {
+      "id": "hMhDNxC-EB4",
+      "segments": [
+        {
+          "text": "*proof* of life just saying i wouldn't be",
+          "location": 430
+        }
+      ]
+    },
+    {
+      "id": "I2-S22FiEvg",
+      "segments": [
+        {
+          "text": "speak so q referencing that q *proof*",
+          "location": 446
+        }
+      ]
+    },
+    {
+      "id": "I8VIDULc_jQ",
+      "segments": [
+        {
+          "text": "this is basically a qed *proof* for the",
+          "location": 865
+        }
+      ]
+    },
+    {
+      "id": "iPX6pJ1dD1s",
+      "segments": [
+        {
+          "text": "*proof* that he's the one that wrote that",
+          "location": 817
+        }
+      ]
+    },
+    {
+      "id": "IsG3gQIRxno",
+      "segments": [
+        {
+          "text": "where's the evidence where's the *proof*",
+          "location": 208
+        }
+      ]
+    },
+    {
+      "id": "j9gG0WZWO2M",
+      "segments": [
+        {
+          "text": "itself and we have another *proof* that",
+          "location": 164
+        }
+      ]
+    },
+    {
+      "id": "JeGwCPRojJo",
+      "segments": [
+        {
+          "text": "so he has the *proof* i mean reince",
+          "location": 2532
+        }
+      ]
+    },
+    {
+      "id": "JLPKO3AKA14",
+      "segments": [
+        {
+          "text": "is part of that *proof* of concepts you",
+          "location": 374
+        }
+      ]
+    },
+    {
+      "id": "jN-MkK8djcY",
+      "segments": [
+        {
+          "text": "pretty that's all the *proof* he needs so",
+          "location": 498
+        },
+        {
+          "text": "actual *proof* that gofundme essentially",
+          "location": 1591
+        }
+      ]
+    },
+    {
+      "id": "K3kiPpMhKkQ",
+      "segments": [
+        {
+          "text": "another another *proof* man i mean i don't",
+          "location": 716
+        }
+      ]
+    },
+    {
+      "id": "k55kWdrN8hw",
+      "segments": [
+        {
+          "text": "still still how much *proof* do we have",
+          "location": 1016
+        },
+        {
+          "text": "further we have more *proof* as zero hedge",
+          "location": 1030
+        }
+      ]
+    },
+    {
+      "id": "k9LVltxQF2Y",
+      "segments": [
+        {
+          "text": "that a cute *proof* and that's exactly",
+          "location": 499
+        }
+      ]
+    },
+    {
+      "id": "KM6DTC_i-8s",
+      "segments": [
+        {
+          "text": "devin nunez to unveil *proof* of the",
+          "location": 1001
+        }
+      ]
+    },
+    {
+      "id": "kNNz1UEwF-E",
+      "segments": [
+        {
+          "text": "of it is sourced there's no *proof* like",
+          "location": 286
+        }
+      ]
+    },
+    {
+      "id": "L4Sa4dArQUE",
+      "segments": [
+        {
+          "text": "*proof* as to why it's going from a yellow",
+          "location": 190
+        },
+        {
+          "text": "star to a white star and that *proof*",
+          "location": 193
+        }
+      ]
+    },
+    {
+      "id": "LiU5TfehWW8",
+      "segments": [
+        {
+          "text": "the *proof* was in the pudding so i've",
+          "location": 2813
+        }
+      ]
+    },
+    {
+      "id": "lOGKAbcAVzE",
+      "segments": [
+        {
+          "text": "think we would call it a *proof* could be",
+          "location": 1882
+        },
+        {
+          "text": "a *proof* it's kind of a *proof* let's just",
+          "location": 1884
+        },
+        {
+          "text": "call it a *proof* so this guy you can see",
+          "location": 1887
+        }
+      ]
+    },
+    {
+      "id": "MATnFsqiC7Y",
+      "segments": [
+        {
+          "text": "just yesterday wikileaks tweeted *proof*",
+          "location": 73
+        }
+      ]
+    },
+    {
+      "id": "mLZkwKOueVI",
+      "segments": [
+        {
+          "text": "a q *proof* it was i think just this",
+          "location": 474
+        },
+        {
+          "text": "down but that's quite a q *proof* and then",
+          "location": 487
+        }
+      ]
+    },
+    {
+      "id": "mPovmVmAgXs",
+      "segments": [
+        {
+          "text": "*proof*",
+          "location": 400
+        }
+      ]
+    },
+    {
+      "id": "N37LrIj7a8E",
+      "segments": [
+        {
+          "text": "that's sort of a *proof* right there is",
+          "location": 599
+        }
+      ]
+    },
+    {
+      "id": "NJf-Tr3BrqI",
+      "segments": [
+        {
+          "text": "public soon you know quite a *proof* there",
+          "location": 361
+        },
+        {
+          "text": "*proof* is fun and yeah that durham",
+          "location": 1388
+        }
+      ]
+    },
+    {
+      "id": "noiATviQJ3Y",
+      "segments": [
+        {
+          "text": "well massive queue *proof* and that hugh",
+          "location": 1072
+        }
+      ]
+    },
+    {
+      "id": "NqL7EeYTd9s",
+      "segments": [
+        {
+          "text": "give you *proof* that this whole storm is",
+          "location": 1289
+        }
+      ]
+    },
+    {
+      "id": "obm0AKIypPI",
+      "segments": [
+        {
+          "text": "waiting for that *proof* of life i don't",
+          "location": 613
+        },
+        {
+          "text": "*proof* of life that rbg is alive or or",
+          "location": 632
+        }
+      ]
+    },
+    {
+      "id": "OdXjpK_tLRg",
+      "segments": [
+        {
+          "text": "minute one *proof* of many one of the many",
+          "location": 104
+        },
+        {
+          "text": "here's a giant *proof* how do they know",
+          "location": 873
+        }
+      ]
+    },
+    {
+      "id": "oK2ZWHTdbpA",
+      "segments": [
+        {
+          "text": "coup *proof* because q didn't posted",
+          "location": 971
+        }
+      ]
+    },
+    {
+      "id": "oReGR3Bjjmw",
+      "segments": [
+        {
+          "text": "do the future-*proof* space and link that",
+          "location": 100
+        }
+      ]
+    },
+    {
+      "id": "OwECoLGRl68",
+      "segments": [
+        {
+          "text": "says what happens next if we find *proof*",
+          "location": 638
+        }
+      ]
+    },
+    {
+      "id": "p6GmDJEkOQk",
+      "segments": [
+        {
+          "text": "basically called *proof* of work that",
+          "location": 503
+        }
+      ]
+    },
+    {
+      "id": "Pi8_BZtYNzQ",
+      "segments": [
+        {
+          "text": "this check the q *proof* there but",
+          "location": 1251
+        }
+      ]
+    },
+    {
+      "id": "PtAxf8A1Zco",
+      "segments": [
+        {
+          "text": "mentioned the burden of *proof* right",
+          "location": 636
+        },
+        {
+          "text": "i didn't have *proof* okay if i didn't",
+          "location": 1709
+        }
+      ]
+    },
+    {
+      "id": "pwM9WH8pqaY",
+      "segments": [
+        {
+          "text": "offer any *proof* of me seeing it but i",
+          "location": 444
+        }
+      ]
+    },
+    {
+      "id": "QC7qRbcWsN0",
+      "segments": [
+        {
+          "text": "*proof* one of hundreds one of thousands",
+          "location": 364
+        },
+        {
+          "text": "and an on posting that *proof* from almost",
+          "location": 369
+        },
+        {
+          "text": "a year ago now the red castle *proof*",
+          "location": 371
+        },
+        {
+          "text": "castle we get that *proof* almost a year",
+          "location": 393
+        },
+        {
+          "text": "is aq *proof* skiff dc - cap capitol hill",
+          "location": 747
+        },
+        {
+          "text": "that q *proof* so a little over a year ago",
+          "location": 754
+        },
+        {
+          "text": "julianne tweet here this is the q *proof*",
+          "location": 809
+        }
+      ]
+    },
+    {
+      "id": "RenafscRgUY",
+      "segments": [
+        {
+          "text": "about a huge queue *proof* that happened",
+          "location": 136
+        },
+        {
+          "text": "waa scot-free was that that *proof* that q",
+          "location": 237
+        }
+      ]
+    },
+    {
+      "id": "RLczNzWBbpE",
+      "segments": [
+        {
+          "text": "*proof* that there is a quantum solar",
+          "location": 770
+        }
+      ]
+    },
+    {
+      "id": "s6H86oQEC2I",
+      "segments": [
+        {
+          "text": "find *proof* aliens exist as samples from",
+          "location": 421
+        }
+      ]
+    },
+    {
+      "id": "sHUgXraPhAc",
+      "segments": [
+        {
+          "text": "show with them on it ha ha more *proof* of",
+          "location": 948
+        }
+      ]
+    },
+    {
+      "id": "T_mJ1awyakY",
+      "segments": [
+        {
+          "text": "all cue *proof* you know massive queue",
+          "location": 133
+        },
+        {
+          "text": "*proof* here and what's funny is that i",
+          "location": 136
+        }
+      ]
+    },
+    {
+      "id": "td8PwMAtpQI",
+      "segments": [
+        {
+          "text": "*proof* the standard hotel helicopter",
+          "location": 253
+        }
+      ]
+    },
+    {
+      "id": "tkLyxIo8Cqo",
+      "segments": [
+        {
+          "text": "be correct but not the full truth *proof*",
+          "location": 671
+        },
+        {
+          "text": "of life that's all i want *proof* of life",
+          "location": 674
+        }
+      ]
+    },
+    {
+      "id": "uJYAdCT7xFA",
+      "segments": [
+        {
+          "text": "that's a cute *proof* right there that's a",
+          "location": 559
+        },
+        {
+          "text": "cue *proof* so the president's son",
+          "location": 563
+        }
+      ]
+    },
+    {
+      "id": "UrzdhfUMR6k",
+      "segments": [
+        {
+          "text": "for *proof* that aliens exist and here's",
+          "location": 1322
+        }
+      ]
+    },
+    {
+      "id": "V-8xYjEosOY",
+      "segments": [
+        {
+          "text": "office given us *proof* after *proof* it's",
+          "location": 475
+        }
+      ]
+    },
+    {
+      "id": "vL7VfteARhQ",
+      "segments": [
+        {
+          "text": "*proof* man i mean didn't q give us a",
+          "location": 983
+        },
+        {
+          "text": "that's one q *proof* and another q *proof*",
+          "location": 1022
+        },
+        {
+          "text": "another q *proof* we're getting today is",
+          "location": 1031
+        }
+      ]
+    },
+    {
+      "id": "wjeEg2yoJbM",
+      "segments": [
+        {
+          "text": "what a cute *proof* that was beautiful one",
+          "location": 59
+        },
+        {
+          "text": "it's just what more *proof* do you need",
+          "location": 1002
+        },
+        {
+          "text": "*proof* where we get new stories come out",
+          "location": 1147
+        },
+        {
+          "text": "that john mccain *proof* hughes saying",
+          "location": 1162
+        },
+        {
+          "text": "a way that they made a *proof* for",
+          "location": 1181
+        },
+        {
+          "text": "definitive *proof* of that just me",
+          "location": 1962
+        }
+      ]
+    },
+    {
+      "id": "WlZQhQXwYTI",
+      "segments": [
+        {
+          "text": "little cue *proof* that i want to",
+          "location": 192
+        }
+      ]
+    },
+    {
+      "id": "xUDwyRTojUM",
+      "segments": [
+        {
+          "text": "*proof* you know it's like i'm waiting for",
+          "location": 1518
+        },
+        {
+          "text": "into the idea of *proof* and evidence and",
+          "location": 1542
+        },
+        {
+          "text": "the idea of *proof* and you know not just",
+          "location": 1566
+        },
+        {
+          "text": "whatnot there is a plenty of *proof* out",
+          "location": 1571
+        },
+        {
+          "text": "*proof* is there that if you think you",
+          "location": 1588
+        }
+      ]
+    },
+    {
+      "id": "xXRUfka1XFM",
+      "segments": [
+        {
+          "text": "*proof* that this was a blatant lie in",
+          "location": 1415
+        },
+        {
+          "text": "ii would like *proof* about that measly",
+          "location": 1543
+        }
+      ]
+    },
+    {
+      "id": "ymm3YfCfVUs",
+      "segments": [
+        {
+          "text": "q referencing basically another q *proof*",
+          "location": 401
+        },
+        {
+          "text": "as they can so already q *proof* right",
+          "location": 435
+        },
+        {
+          "text": "that q *proof* an anon here saying we knew",
+          "location": 446
+        },
+        {
+          "text": "obviously massive *proof* right there and",
+          "location": 605
+        }
+      ]
+    },
+    {
+      "id": "yOGL3BrXZlA",
+      "segments": [
+        {
+          "text": "a *proof* of life for *proof* of non-life or",
+          "location": 782
+        }
+      ]
+    },
+    {
+      "id": "ytA3-R4Fi4M",
+      "segments": [
+        {
+          "text": "last thing an interesting little *proof*",
+          "location": 446
+        }
+      ]
+    },
+    {
+      "id": "zffLUSbaqlw",
+      "segments": [
+        {
+          "text": "*proof* for it when they don't okay we can",
+          "location": 1432
+        }
+      ]
+    },
+    {
+      "id": "ZGsWdjqtO-w",
+      "segments": [
+        {
+          "text": "it in reference to a massive queue *proof*",
+          "location": 210
+        },
+        {
+          "text": "says there you go so that's our *proof*",
+          "location": 294
+        },
+        {
+          "text": "*proof* we've got trump rally proofs where",
+          "location": 304
+        }
+      ]
+    },
+    {
+      "id": "ZpXeRJcgZlU",
+      "segments": [
+        {
+          "text": "without *proof* or evidence and it's a",
+          "location": 648
+        }
+      ]
+    },
+    {
+      "id": "ZseKL2q2S-E",
+      "segments": [
+        {
+          "text": "bit of a *proof* of life and also want to",
+          "location": 9
+        }
+      ]
+    }
+  ]
+}

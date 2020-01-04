@@ -1,0 +1,825 @@
+{
+  "indexed": "__lGfKxA0WI,_-_MVJecq5I,_5WkbucPT4g,_ec7XMfirg4,_EqneJRgSe8,_idzf18MYXs,_Ne214s756k,_Ob8jo-qOCU,_q5-lvNqF8Y,_TPUfVabVHU,_tRUka84Q10,_UMxGoem_cE,_YS92pFld0Y,-_4Za6eoYwY,-0DjA_r32uQ,-3F6SZZIT-E,-5M7Y-zFyZ0,-9msE7-ydts,-Avsxw6BrhI,-b8zWS3tty4,-e5ABbWTn8M,-i-6mNaKI3I,-icWyKwjrY8,-kDAK81lyaY,-kYE2w6y-GA,-MYXqXNhcnc,-P8dkAqUKZY,-tSHN-cRXo0,-VRexocuLyU,-zsJy_pc_gQ,0-8SzdsEPn0,047r18PmzXg,06ZhNoUqwA4,0C27jD9e-j0,0ICCjllfcD0,0jspiMXND2A,0kkMEbbFd9M,0NUQEdAWVkQ,0q_eYZ-zjys,0SJGTnXKJLk,0th1OKXNQXY,0thRJXOyyOs,0VW3c_f1WOI,0Ytkx1pvnL8,1-v18VEV4Rg,18k-mw0lGZ0,1atlaAzWtj4,1FoSp-tBfp4,1Qa_cX1DPn8,1s9fsICUfOw,1WmbX3JQa0c,1ya6QF21RjE,1ZoQGfCIQP4,22knD94PYNw,23GkaHyU2R4,23Zi93zyS6U,24o5bLbjYh0,29VWyFZAo98,2J-isPoaOe8,2MEzlpSs3hI,2qRm-XvaYGk,2vQA-V9OnxY,2XVtrBvxoNQ,3_9MzitOhpg,3-sR3LmB0N0,305W5z9yzW0,32HzhZpqqHs,32nTGjvWF9c,34kHft924rA,3cgcmRKlIhU,3ciusVGxdno,3E_KWnG6gO8,3fi1bx4oWOE,3GvhthG2rXo,3iT9_AqKX2M,3mCWwiYSQsM,3n_fTHOHmP4,3VJvZsz9VQk,3Vpaplt92is,3WDtVeSSyrU,3WzJtUe634M,3XT99f5rZkY,3YdbQS2xw0E,40cx-g-mfDk,41qO6bukotY,4aR7zbZf3pE,4ATvSzS-TLU,4dX3v4Z4aec,4fS6egD9cSc,4mNbB0RTuoI,4MXimasATsA,4nk3rY194h8,4oXIn88QFbc,4qQd8Qu7aPM,4VCgU1v0c3I,56hnR-UeVbI,59IbF_o4Xxc,5flC3-UkdyU,5PhM32xlVEs,5RLxQOvZxXs,5St08kicLiU,5uzjLst8w68,5VFOltHRXbM,6_wyHLXHqx4,60xrsFvDYYk,6Ezxw-UNmQI,6foOgmaZN-s,6kESQU65fUA,6KttPC8JV3s,6o54Y7dhOus,6PsL7aVI12U,6sbgm3s49BM,6sC4YqrrbsQ,73cggmTCclY,7a8EAuTwhdU,7d3A9Wi1xu0,7drP1GmKuhA,7HQEEo9pTxI,7kzKO982UIQ,7OUm208GUDs,7UT-kOjOka4,80z15a0xsUQ,81p3jRVXGk4,8gkGfhtpurY,8pa8Er939dg,8QiuuwivwsM,8z6EDkIocXI,91aT7JIOIbY,9gYGBZ6wUIE,9hqxfV040oQ,9K-4Jc2l-7U,9lbn3bkROBc,9lgC6A9CGqY,9LwjAgU_2hc,9w_UO-KJccs,9xhpctWntoI,9YBPFZ6r5nY,9yIsVlJ2qAY,9zB7TNiGuDw,A4-cSwxHsV4,a4jwV9NnySU,A52PfmoHm8I,a67Ukzg63u8,A7HbMpBAg8c,A82praOPfpo,AaP-PP8-KGk,aAzQwARAo28,ABM5Oj2s6eI,aC12-gepI3U,aCfOGluhEKI,aDPMNOgOz4E,aDUDC92PxcU,AJ_U54u6gbE,ajiBcgtAY-w,aJWZ_APGg6A,AKPMK0xaRN0,AmbKxQ51VWc,aN9TllOemSA,ANDq9-ttO-w,Ao2abBxOiLY,AOParRtlvFQ,ApHsdbvYgFA,aqGYpuYdbOM,Ar3JvKPGr40,ARwagwGekv0,AuJjdL3A0Wc,AvcEuGghWQk,aWGr7i2-IYA,AwzaAL1pDXQ,aXwILTOVL0M,AyLUG-qQcCA,B5_naGkaBDg,B5MFHmezpn8,B5mo-Rnwm4s,bbAaX9B5ncY,bbpmtRc18WQ,BC_VRjt8gvw,BcZjAF2oFEE,Bd0NHLMVTAQ,BFuaMj35qAo,bG3PLtnHSuc,BGt8AVBwAQc,BLJVjp0lq4g,bmipWlYsyEM,bMWIDBnA6Z4,Bn2OlX_4C4Q,bNHR5T64ooQ,bNMvlOzCsZk,Bozlwr1uHco,BpeOtb7CWeE,bPVLncDuirE,BR9EIDuUBJQ,bTFNebYIotU,bYRSIwwnCFU,bzAYF7yEn7Y,bzCEAKmxlVs,C_h2RLZEGEk,c1C7epr44bw,c7Yfc_JZAaU,CCLJZ-bM01Q,CDZhS3BfdB0,CeXQ15A9BSA,CIkVvgIT6qs,cKGw_Hrtajc,cKObBT3BQ4A,CksmGxdCvPQ,cLcHOtY9fgk,coYoIINOWcQ,cpAeoTwKHlc,cpPgoi7zUjo,cu1homOW9CE,CunzrKChTpI,CX6apttsGjs,CxaPpbC3pgA,CXbRscylFsY,CYE1-7NSG2g,cyjt9Vm0imo,D-va4Jpkt38,D-y5ALLiCZ4,D3zc2JmlHK0,D4AkLrH0WtI,D8mzSBBfnNQ,D8RUia2q5wA,daON-Y2Ph5w,DCkhkkb2nqM,DdiM5lA-05c,ddZfJCoq65o,DeEBJcmrjAU,dh_NJhuVafY,dHHqYCCujKY,DiRI7rhc4qE,DJJw71TSho4,dJspwk8huY4,dKaqjJzl0vg,DksI8ZPmBNE,dlZUFvOqJeY,dNI6tUGGJNM,dONKuAjf26Q,dos0E9blpHw,DsDBNF7mhqk,DSqcbzBojYk,Du5Cit3oe6w,duZHG7VDNm4,DxGp_peYB_A,e6gS2_fX0oY,e6mIdK0LLWk,e8AyslO62b8,e8xXVMiChuQ,E9n2iFMyXjQ,EcbwKNO6TBI,eERaZvdF6Ms,ees6El-Jay0,ejBAqhxqAkQ,EK0R7sdxAFQ,ekJ4hKREY8U,eLy1XqX9IcU,En-VTreZMTs,F3oAIzyo0HQ,F4IPqNACpvI,FAhsY5AIWWY,FDEmEvwZtrM,fHohiZp5hGc,FJGnynqfiCQ,Fo9T0LNhNqQ,fOQPFgF5Etg,FPUae6qsjdw,FS65Eef4z7o,fSwdVMLq8zI,FuBVeoPBd0U,fWjIv0WgyqA,fWk2XKmiQOI,fXA4SlMx-Mg,Fz5fZ_7pia4,G2ZwwI5fN0E,g57p8aQQSbY,G5RiRuFIh8Y,g90iVaKS8Mc,gCaHEfyXkA0,gdEzIz7ievE,gDlgmkVKpy0,GDx66bXgYq4,GFEth1i97yY,gG4fzaWuo9w,GhikRA2no60,gJ7o1StrKv8,Gk2tr29fY6Q,gKGT2jlVrgI,gkMB1_gooM0,gkO-A-sYsH0,GmuQx9AiYD4,GN4nmRCU0AY,gojwzzPJQrg,GrWwOG5yFFM,GThX5ssVBn0,GUip6dZpKEs,gUkB5Kk4WAA,H1FABkrnIaE,h6koxkXAJLU,h6y5TxpDvbs,h9dW3QCrYso,hA31PrCznjw,Hb187lnYh0o,HgE2EqazY68,hhPRDd4gOEI,hIrbIOaAUxg,hKdsv2EbSSo,hl-FK4t_9lA,HLRFTyNBlFY,hLumnOkZynU,hLWMbjtpLn0,Hm1iTIa7rFk,hMhDNxC-EB4,HMpv5DpVVUY,hMQTN9L1dBE,Huj55Cm9qH8,hUouIgbrNZY,HWjAwmGq654,HxhtJ-1kd5k,hy9Uo864i5g,hZGSNKUFjQk,I2-S22FiEvg,I2t1cPgCvJo,I2zRq3kdLbk,I3pn7Xex-Ks,i3rp0Uim-0o,i4AnsQlVTvQ,I5h76-o1Kjw,i8VDK89xXzg,I8VIDULc_jQ,iAIDKPNVjzU,ifJ_GtRJ5qM,Ig7fshISKmk,igDMQaECoSw,IifnpOcm0b4,ik-J2hrNaWo,IKpl4TeHwPg,iOLlT7CbqKs,iPX6pJ1dD1s,IS-CvxLX47Y,IsG3gQIRxno,IsjWF9k7TZE,iTFkB2iXkgI,iTFXxHtlImY,iu9vMZwMqgI,IUcqrB04ZpE,IuIhXyjMG28,iUolMe2Bu-M,IuVzHVFtFIE,iwCYGrXqmqw,iwIfxOwYNOE,IwvvrAh-JyA,ixHuaqf211Y,iXPDVq2lGsc,j6boJmmzNcg,j9gG0WZWO2M,jaInrf7dB30,jal0jAoFV70,Jcekm05d-so,JD4r7qP0OLw,jEgmVdV6HBE,JeGwCPRojJo,jgHK6JZonJM,JLPKO3AKA14,JMN2uWdknac,jN-MkK8djcY,JNaC6eDgjAk,jnUZD1wnBn8,jR_FxV3DYyU,jS-yK_ueKZw,jSZnoRobYTE,JT-aith5f5E,JvaI4JCd5ig,jZ_tr0NnNjE,k2bZBA1A82U,k2MXyXKRlN0,K2TOaYHNhDs,K3kiPpMhKkQ,k3m1P3Vie6s,k55kWdrN8hw,k9LVltxQF2Y,kan3dn8Q8nA,KbWsgGeTrb0,KDVsepSqmys,KgYgMWFqbEc,kHxWvaMOwhM,Kl3MyuzCdRs,KM6DTC_i-8s,kNNz1UEwF-E,KpFP8X1JTiI,KPj--UF1T0k,kRGV4cIdWwM,KSP24qYeWgs,ku6qyUwUgWo,KVb-rUXG6h0,KW1hgV9CBqk,KXHpsXQV82g,KXW0hS3aOjA,L-4ADrZak_4,l0PDi1KDi1w,L1mLdTih8gg,L4Sa4dArQUE,L61XF64Ls8E,l9qBVI4SVP0,lb46GsmPTsI,ldX0CQ2UUfI,LFlKG-VVzMc,LInNbS1JErM,LiU5TfehWW8,lj8AH-4ajRw,LjzWwM9Y9zg,llnr6CG6lHM,Llr69yow55Y,llsND2qpTjM,lNKXqkyE2NQ,lOGKAbcAVzE,LQ4NioOxuGM,lUOYOF9DuSs,LwTvS9v15LE,LXCTMl_Jp9M,LygxI2VGhDU,m_PowDSDjEE,m1HAZ0ESYD0,M1ODHcuO0V0,m2kffLdykTs,m30mwu-9WW0,m3193w4W8Po,m5p9p9LBEpM,MATnFsqiC7Y,Mc5wHbV6irw,mCy59eLFjZg,McZuVVn7fEw,miQPk7qxSvs,Ml1Ys-sDe4o,mlmAUPNPev0,mLZkwKOueVI,mMVX1iGgRac,MO8yy324jyk,MpiqVbdFnlo,mPovmVmAgXs,MsBWU2CFf-U,MUyBpTbvDmw,N-BsO-mirZQ,N-Nsni2kalY,N0l4oFEKoCY,N37LrIj7a8E,N4MwW69zjdk,NbUtbE4Zpoc,Nett68JXMUk,NFBFDRSsaU0,nfDm-SuYSrQ,nhR65A2Cz1U,nJ5B8GnH3mE,NJf-Tr3BrqI,njWcrYwundg,NObMClb6nMY,noiATviQJ3Y,NoLKqBPGGLQ,nPRGWjUYGow,nPtPHMYmnsk,Nqbj_4nIAiA,NqL7EeYTd9s,NS200QxWq7g,nsUd370-n9Q,Nt4ug94a134,NVIEhqdvMCo,NVRVSzP0rFU,NVUbej8exEk,NY7B_THWsM8,Nzx4XSf_fAI,O_R4bM7ONJk,obm0AKIypPI,OCzJwGE7RTY,OdS-XmHla-U,OdXjpK_tLRg,OE_u4IbopVo,OGL_5cu0F-M,OgrLw9IX-Ns,ojYZBeCwYis,oK2ZWHTdbpA,ooHxX3whFXA,OOxgnEI8_NI,oReGR3Bjjmw,oSZzclsh00Y,otE6dhCgsJc,Oun53CRXyeI,OwECoLGRl68,oX7b3YzRNXk,ox9yzjeHt3s,ozbHMNhYe0A,oZz9CJ9K8MA,P0cawbGyBxM,p0Qy24DXfdY,P12Gc4WmCak,P3jy8S0P-2w,p6_gLv5qy8E,p6GmDJEkOQk,p6wFKOTyR60,P8xmUD4Gmrw,PA9MTquQya0,pAK-a8Op8KI,pauS_rhaYO0,PBiBq_DiHmo,pbjkl0DwxHs,Pg21pJPDzEU,phbygYipE-g,Pi8_BZtYNzQ,PkeO8SN0cN4,plJqp67-iX4,PNsZI-uZH7I,PsQlxu6iOzI,pt17lUpcskk,PtAxf8A1Zco,ptvgcLZ3HOw,PvWDJd2UYT8,pwM9WH8pqaY,PWMXacQWEjs,pyMrzxZBZZQ,pZ5q5wUI1-Y,pZhHd9KT2lk,q0IR8IqKZ18,Q1nmx353lDo,q2ItOTBF1ys,Q4MG607MDz4,q6hnQoB_BlI,q78RNxcI38U,q7I8sj_3rlM,q7prMUoyMEo,Q84zuHjjuww,Qa2bfVP6ChQ,qB9zc5VAanc,QC7qRbcWsN0,qcEDt4YOkS8,qCmySBiZXVA,qdwN5mt9V2c,qFumeKZX_MA,QJaNPlhmdSM,QK6Y2tnFIAw,qlFnlzOoFgo,qNurdjNB-rw,Qo2GL5T8T_E,Qq339b2xOrY,qRKU3XXIwlI,qSFeOuQEXXw,QSMC7VnqOnQ,QtYci9jXct4,QuVpIqeSRnU,qwbX5au3Iuw,qWhpDyoLyR8,qX2Z7mLBM1k,qZMy5wog24o,qZZGyHrnsQM,R_iWc7_vQ14,r-vKLD9F61M,R1g3eyyM590,r1IYwxp0NNs,r1pXJkMaAmc,RCPgq96ku4k,rdE4NEIZACI,REcAj2PLMu4,RenafscRgUY,RgdXwexLI_Y,RGFh5qOWU3U,RLczNzWBbpE,RmZj7uATNFM,rqks6sKCmDc,Rt85IKjQ9hs,rUpElK5Qw3E,rVrthFN9dnI,rX0dkfDOO1s,rxMOShu0yQk,RZf9IVaRgdo,S2U7ncJQ000,S4mKQajGJl4,s6H86oQEC2I,SaR5pCeCjao,SAwrlpHFmOc,sBy_LmO3b7k,SePTbZOh8iE,sHUgXraPhAc,siBW29AUMrw,skkII0awwFM,sKMZRv9JY_A,sLv3F7kLpB4,SovJjIjmI6M,sR5B-vb3Fi0,svK1ajIeprU,svwSKZ926yY,SvyN0PlWwkM,swc_HIr-8WA,Sx3ElJlX7wQ,SxPNu1XMYKA,sxWWB5aKNk8,T_mJ1awyakY,T3TRP5tX3T0,T5IM3P9Md-4,t6dwa21eo_M,TCtPeZP1H0g,td8PwMAtpQI,TdNo4qfgAb4,TeFw8eqcLco,tfW6YjVSx0U,Tg0_AZbm71E,TgzkblYi9pg,THy-FwvnIqQ,tJjx9eVGzSY,tK7YaJnYETw,TKK1o-pPPkQ,tkLyxIo8Cqo,tkm-n8lbhLg,TKOI_wF6Rn0,Tr5IR4SqKcA,TsjX9SPfvSA,Tus8Yc2qNXc,TX1rZO2bLJ8,u_apd9SGqLc,U1GOoEoYLy8,u1gZGn0l8y4,u3TgwapRzSA,u9zCkZgwoik,UA8VNiOraJI,uaXp0CBucos,uJn58OP3GEI,uJYAdCT7xFA,uKCq7HfZh9A,UKfHVu47LXo,Up-MRtsG4Tw,UpaXSxM07to,urRt-Yju_SU,UrzdhfUMR6k,UsuA0HSRXzo,UuJpA7lXi7g,uUsLnKlWMkU,UVea--jSv1A,uvYdZu80X9Y,uWFJruvCPhc,UwVr2kwMjI0,uxDmAVpZ91Q,V-8xYjEosOY,V4OPmN3e8F8,V59pKIXUQuM,v5G6fZkyhXg,v6JLwp0aFpc,Vafm-ZaLAyI,vafXYoDY5dw,vcqHF8DDsNk,VfelKh4yN9g,vInE2aOTFdw,ViODeAbI2IQ,vK3bX5D1ysc,VKhRSDIFJK0,vL7VfteARhQ,vLnzuy_aeGQ,VLxlCXAuo08,VtMhFvMTyHQ,VVsAZ0AGHeo,vZDynmvvgWg,w_A3W-OJyNw,W0APO4axfn4,w0OSb7FbXas,W7UmZWUWBMQ,WB_PkYN9MFI,wCcjEszzrTI,wdwWgzAq48E,wdXHxEEAvps,wg5sukd6E6Q,WHSd5tVWq1I,wjeEg2yoJbM,WKfsgQLVsHk,WlZQhQXwYTI,WmhFYQnlKB4,wNgdMwL7isA,WOmDWYRAtiA,WsnaqvLhEUk,wu0Utsff6Jo,WvCBdE6rolk,WwBj0YnLtX0,x1EXDDlmrVU,x1UII7bCsvQ,x27EZLRmoAU,x4XfpmZxDq0,Xe8yEypTfNA,XfNnvWPlprc,Xg7s8fovfh8,xKxi0Bbl_Fs,Xl5iO-2wzq0,xLDnc1Vm99w,XMo_G2k5Wso,XobWx6C6lJs,xQVu3ywd2RU,XRABi40G2T4,xS-hT1sfvfs,Xtk7ntK7k14,xU1ilgRmqsk,xUDwyRTojUM,xXRUfka1XFM,Y31yR524zWU,y3LgzaKBw2w,y3OVColWu-g,Y8DPHUnnvXU,YaMWl4cmqkw,yb_kKBcdsRc,ybgD2ibYB0o,YDS7nKcT3rk,yEf7XF-JNy4,yf8ObyPk568,yFQEK_KaTMA,yIh9oqXg4JU,YiLWFF__qiM,YIPBQ3O8Wr0,yK2UAmF7gYA,ym22gqkQmUA,ymm3YfCfVUs,yOGL3BrXZlA,YpPXlDhdkOg,YSc4GkdMm-E,ysHQziNaMOo,ySHvJqNfN7I,ySSnEYdnsEM,ytA3-R4Fi4M,yu7cOa_9gN0,yVjAH8Wg-hk,ywKQGnLaYdk,Z_nveKGRnsI,Z5o33xspXi4,z5obz0z7rdo,z7s8UaWeshs,Z8oojkEH6Eo,z9GTRwjpZLo,zBBzw6WImlY,zCKlkgpTrXo,zdehlx8vy4U,zffLUSbaqlw,zGk_J9B9MDw,zgK4F6NW32s,ZgOL1h0-8Ok,ZGsWdjqtO-w,zgU0j8HGfX4,zIU-AuvMwqU,zjqEsdevnaU,zKar6awuy2Q,zoQmiHuW8nc,ZpqZoQBWXVo,ZpXeRJcgZlU,ZqMTDLT6akA,ZRISi-Y-X3s,ZseKL2q2S-E,zUxgy98UTp4,zw8yzCjmYcI,zziC-o5xumc,ZZTz8nYZ6vA,hj7ubtDDtik",
+  "topic": "Seth Rich",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "7HQEEo9pTxI",
+      "segments": [
+        {
+          "text": "dnc how did the server get out well *seth*",
+          "location": 81
+        },
+        {
+          "text": "*rich* and not only that but what was on",
+          "location": 85
+        }
+      ]
+    },
+    {
+      "id": "9LwjAgU_2hc",
+      "segments": [
+        {
+          "text": "instance the like lately the *seth* *rich*",
+          "location": 381
+        }
+      ]
+    },
+    {
+      "id": "aDUDC92PxcU",
+      "segments": [
+        {
+          "text": "about *seth* *rich* in this article is just",
+          "location": 181
+        }
+      ]
+    },
+    {
+      "id": "aN9TllOemSA",
+      "segments": [
+        {
+          "text": "here *seth* *rich* family and defendants",
+          "location": 1686
+        },
+        {
+          "text": "lawyers for aaron *rich* that *seth* ridge",
+          "location": 1741
+        },
+        {
+          "text": "his brother aaron *rich* and aaron *rich* is",
+          "location": 1743
+        },
+        {
+          "text": "*seth* who was murdered in the summer of",
+          "location": 1749
+        }
+      ]
+    },
+    {
+      "id": "cpAeoTwKHlc",
+      "segments": [
+        {
+          "text": "assange tweeting a reference to *seth*",
+          "location": 51
+        },
+        {
+          "text": "*rich* and then discuss some pedo gate",
+          "location": 54
+        },
+        {
+          "text": "calls *seth* *rich* the wikileaks source so",
+          "location": 1364
+        },
+        {
+          "text": "*seth* *rich* being the wikileaks source",
+          "location": 1373
+        },
+        {
+          "text": "get out this information on *seth* *rich*",
+          "location": 1405
+        },
+        {
+          "text": "yes it was *seth* *rich* that gave wikileaks",
+          "location": 1417
+        }
+      ]
+    },
+    {
+      "id": "CxaPpbC3pgA",
+      "segments": [
+        {
+          "text": "the federal prosecutor in the *seth* *rich*",
+          "location": 384
+        }
+      ]
+    },
+    {
+      "id": "DdiM5lA-05c",
+      "segments": [
+        {
+          "text": "dk is a website about *seth* *rich* and the",
+          "location": 237
+        },
+        {
+          "text": "to *seth* *rich* and the background be a a",
+          "location": 252
+        },
+        {
+          "text": "about *seth* *rich* it's just i have to",
+          "location": 305
+        },
+        {
+          "text": "about *seth* *rich* so funny funny stuff",
+          "location": 335
+        }
+      ]
+    },
+    {
+      "id": "ddZfJCoq65o",
+      "segments": [
+        {
+          "text": "wikileaks and *seth* *rich* and and john",
+          "location": 1981
+        }
+      ]
+    },
+    {
+      "id": "DiRI7rhc4qE",
+      "segments": [
+        {
+          "text": "everything pedo gate *seth* *rich* the",
+          "location": 217
+        }
+      ]
+    },
+    {
+      "id": "Du5Cit3oe6w",
+      "segments": [
+        {
+          "text": "basically says *seth* *rich* without",
+          "location": 926
+        },
+        {
+          "text": "actually saying *seth* *rich* in there not",
+          "location": 930
+        },
+        {
+          "text": "buddy hey *seth* *rich* was killed and his",
+          "location": 936
+        },
+        {
+          "text": "article painting *seth* *rich* without",
+          "location": 945
+        },
+        {
+          "text": "saying *seth* *rich* and then saying that",
+          "location": 947
+        }
+      ]
+    },
+    {
+      "id": "ees6El-Jay0",
+      "segments": [
+        {
+          "text": "assange *seth* *rich* ms-13 187 means murder",
+          "location": 181
+        },
+        {
+          "text": "*seth* *rich* looking like there was a hit",
+          "location": 187
+        }
+      ]
+    },
+    {
+      "id": "En-VTreZMTs",
+      "segments": [
+        {
+          "text": "some *seth* *rich* some politics and then go",
+          "location": 15
+        },
+        {
+          "text": "all we'll start with the *seth* *rich* topic",
+          "location": 20
+        },
+        {
+          "text": "kicking ass with the *seth* *rich*",
+          "location": 27
+        },
+        {
+          "text": "murderer of *seth* *rich* and he claims it",
+          "location": 30
+        },
+        {
+          "text": "*seth* *rich* past documents to wikileaks if",
+          "location": 49
+        },
+        {
+          "text": "making progress on truth behind the *seth*",
+          "location": 73
+        },
+        {
+          "text": "*rich* murder and he is not backing down",
+          "location": 76
+        },
+        {
+          "text": "the *seth* *rich* investigations will be",
+          "location": 130
+        },
+        {
+          "text": "many people are getting into the *seth*",
+          "location": 154
+        },
+        {
+          "text": "*rich* story and finding out what's really",
+          "location": 156
+        },
+        {
+          "text": "regards to *seth* *rich* and kind of some",
+          "location": 418
+        },
+        {
+          "text": "*seth* *rich* i'm gonna keep talking about",
+          "location": 882
+        }
+      ]
+    },
+    {
+      "id": "gdEzIz7ievE",
+      "segments": [
+        {
+          "text": "know his name was *seth* *seth* *rich* but we",
+          "location": 144
+        }
+      ]
+    },
+    {
+      "id": "GmuQx9AiYD4",
+      "segments": [
+        {
+          "text": "brazile is going off still about *seth*",
+          "location": 776
+        },
+        {
+          "text": "*rich* and dnc corruption she seems to",
+          "location": 779
+        }
+      ]
+    },
+    {
+      "id": "gojwzzPJQrg",
+      "segments": [
+        {
+          "text": "things regarding *seth* *rich* and wikileaks",
+          "location": 316
+        }
+      ]
+    },
+    {
+      "id": "hIrbIOaAUxg",
+      "segments": [
+        {
+          "text": "*seth* *rich* and to get into that topic i",
+          "location": 790
+        },
+        {
+          "text": "is a great reporter on the set *rich* case",
+          "location": 804
+        },
+        {
+          "text": "*seth* *rich* and is currently in washington",
+          "location": 813
+        },
+        {
+          "text": "dc to investigate *seth* rich's murder but",
+          "location": 815
+        },
+        {
+          "text": "aaron *rich* set rich's brother to stop",
+          "location": 821
+        }
+      ]
+    },
+    {
+      "id": "hLumnOkZynU",
+      "segments": [
+        {
+          "text": "topics *seth* *rich* all sorts of other",
+          "location": 92
+        }
+      ]
+    },
+    {
+      "id": "I2t1cPgCvJo",
+      "segments": [
+        {
+          "text": "gate and sets *rich* in all this",
+          "location": 388
+        },
+        {
+          "text": "pushed pizza gate and *seth* *rich* can",
+          "location": 393
+        }
+      ]
+    },
+    {
+      "id": "iTFkB2iXkgI",
+      "segments": [
+        {
+          "text": "*seth* *rich* actually the *seth* *rich* topic",
+          "location": 162
+        },
+        {
+          "text": "the *seth* *rich* story blowing up which",
+          "location": 384
+        },
+        {
+          "text": "*seth* *rich* story big but that false flag",
+          "location": 392
+        }
+      ]
+    },
+    {
+      "id": "Jcekm05d-so",
+      "segments": [
+        {
+          "text": "of course we could say *seth* *rich*",
+          "location": 419
+        }
+      ]
+    },
+    {
+      "id": "JeGwCPRojJo",
+      "segments": [
+        {
+          "text": "cia have on the *seth* *rich* murder it's",
+          "location": 1192
+        },
+        {
+          "text": "but the reality is that *seth* *rich* was",
+          "location": 1214
+        }
+      ]
+    },
+    {
+      "id": "LFlKG-VVzMc",
+      "segments": [
+        {
+          "text": "regarding *seth* *rich* democrats the ds or",
+          "location": 1341
+        }
+      ]
+    },
+    {
+      "id": "LjzWwM9Y9zg",
+      "segments": [
+        {
+          "text": "gonna talk to some trumps trip *seth* *rich*",
+          "location": 19
+        },
+        {
+          "text": "deeper stuff people and then *seth* *rich*",
+          "location": 327
+        },
+        {
+          "text": "okay i want to get into *seth* *rich*",
+          "location": 330
+        },
+        {
+          "text": "report the *seth* *rich* story there's been",
+          "location": 496
+        },
+        {
+          "text": "then *seth* *rich* is exposing it it's",
+          "location": 680
+        }
+      ]
+    },
+    {
+      "id": "LwTvS9v15LE",
+      "segments": [
+        {
+          "text": "first of all r.i.p *seth* *rich* man i",
+          "location": 14
+        },
+        {
+          "text": "peace *seth* *rich* and also i will be on",
+          "location": 34
+        }
+      ]
+    },
+    {
+      "id": "mLZkwKOueVI",
+      "segments": [
+        {
+          "text": "aka *seth* *rich* julian assange is the key",
+          "location": 634
+        }
+      ]
+    },
+    {
+      "id": "MpiqVbdFnlo",
+      "segments": [
+        {
+          "text": "giuliani pushing the *seth* *rich*",
+          "location": 1178
+        },
+        {
+          "text": "giuliani pushing *seth* *rich* conspiracy",
+          "location": 1192
+        },
+        {
+          "text": "tweet was about *seth* *rich* as answer",
+          "location": 1204
+        }
+      ]
+    },
+    {
+      "id": "NFBFDRSsaU0",
+      "segments": [
+        {
+          "text": "don't think so r.i.p *seth* *rich* so you",
+          "location": 405
+        }
+      ]
+    },
+    {
+      "id": "oX7b3YzRNXk",
+      "segments": [
+        {
+          "text": "that in there real quick and then *seth*",
+          "location": 300
+        },
+        {
+          "text": "*rich* so this is something that's gonna",
+          "location": 303
+        },
+        {
+          "text": "one of my last videos i did the *seth*",
+          "location": 314
+        },
+        {
+          "text": "*rich* story is gonna be that first domino",
+          "location": 316
+        },
+        {
+          "text": "p i that the *seth* *rich* family hired and",
+          "location": 434
+        },
+        {
+          "text": "gonna keep talking about mr. *seth* *rich*",
+          "location": 463
+        },
+        {
+          "text": "report on *seth* *rich* fox news fox news",
+          "location": 531
+        },
+        {
+          "text": "tried to report on *seth* *rich* right after",
+          "location": 535
+        },
+        {
+          "text": "because he tried to report on *seth* *rich*",
+          "location": 546
+        }
+      ]
+    },
+    {
+      "id": "p0Qy24DXfdY",
+      "segments": [
+        {
+          "text": "so big things blowing up by way of *seth*",
+          "location": 157
+        },
+        {
+          "text": "which this *seth* *rich* investigation is",
+          "location": 162
+        },
+        {
+          "text": "this video but *seth* *rich* i mean one week",
+          "location": 173
+        },
+        {
+          "text": "directly connected to *seth* *rich* leaking",
+          "location": 244
+        },
+        {
+          "text": "an eye on this *seth* *rich* story as well",
+          "location": 299
+        }
+      ]
+    },
+    {
+      "id": "pbjkl0DwxHs",
+      "segments": [
+        {
+          "text": "hush-hush again on the *seth* *rich* story",
+          "location": 653
+        }
+      ]
+    },
+    {
+      "id": "pt17lUpcskk",
+      "segments": [
+        {
+          "text": "reward for information into the *seth*",
+          "location": 392
+        },
+        {
+          "text": "*rich* murder instead we will be hiring",
+          "location": 394
+        },
+        {
+          "text": "going on with *seth* *rich* big people",
+          "location": 413
+        }
+      ]
+    },
+    {
+      "id": "PvWDJd2UYT8",
+      "segments": [
+        {
+          "text": "leads on the *seth* *rich* murder",
+          "location": 97
+        },
+        {
+          "text": "it said *seth* rich's family hired former",
+          "location": 116
+        },
+        {
+          "text": "there is evidence *rich* was emailing with",
+          "location": 127
+        },
+        {
+          "text": "the *seth* *rich* murder which most likely",
+          "location": 148
+        },
+        {
+          "text": "i even found out about the new *seth* *rich*",
+          "location": 247
+        },
+        {
+          "text": "from the ceteris and rest *seth* *rich*",
+          "location": 377
+        },
+        {
+          "text": "started coming out on *seth* *rich* and",
+          "location": 490
+        },
+        {
+          "text": "poor *seth* *rich* just trying to do the",
+          "location": 548
+        },
+        {
+          "text": "we have the *seth* *rich* information coming",
+          "location": 672
+        }
+      ]
+    },
+    {
+      "id": "RmZj7uATNFM",
+      "segments": [
+        {
+          "text": "out about *seth* *rich* in vegas so q's",
+          "location": 773
+        },
+        {
+          "text": "saying *seth* *rich* connected to dnc ms-13",
+          "location": 776
+        },
+        {
+          "text": "minute here *seth* *rich* is the one that",
+          "location": 784
+        }
+      ]
+    },
+    {
+      "id": "rVrthFN9dnI",
+      "segments": [
+        {
+          "text": "here robin young about *seth* *rich* a lot",
+          "location": 185
+        },
+        {
+          "text": "of it is about *seth* *rich* sr which is",
+          "location": 187
+        }
+      ]
+    },
+    {
+      "id": "sLv3F7kLpB4",
+      "segments": [
+        {
+          "text": "video we're gonna talk about *seth* *rich*",
+          "location": 687
+        },
+        {
+          "text": "now let's talk about *seth* *rich* so a",
+          "location": 732
+        },
+        {
+          "text": "killers of *seth* *rich* so that press",
+          "location": 750
+        },
+        {
+          "text": "*seth* *rich* murder with a batshit crazy",
+          "location": 763
+        },
+        {
+          "text": "conference about the *seth* *rich* murder",
+          "location": 787
+        },
+        {
+          "text": "this press conference this *seth* *rich*",
+          "location": 1005
+        },
+        {
+          "text": "through *seth* *rich* cue a few articles",
+          "location": 1352
+        }
+      ]
+    },
+    {
+      "id": "td8PwMAtpQI",
+      "segments": [
+        {
+          "text": "regards to *seth* *rich* *seth* *rich* june j a",
+          "location": 31
+        },
+        {
+          "text": "time of arrival for information on *seth*",
+          "location": 39
+        },
+        {
+          "text": "*rich* for that story really to break",
+          "location": 41
+        },
+        {
+          "text": "everything has meaning cue a *seth* *rich*",
+          "location": 881
+        }
+      ]
+    },
+    {
+      "id": "u9zCkZgwoik",
+      "segments": [
+        {
+          "text": "like *seth* *rich* and like imran awan and",
+          "location": 625
+        },
+        {
+          "text": "saying the *seth* *rich* story was made up",
+          "location": 644
+        },
+        {
+          "text": "that *seth* *rich* was made up to distract",
+          "location": 661
+        },
+        {
+          "text": "talking about the *seth* *rich* story couple",
+          "location": 688
+        },
+        {
+          "text": "talking all about the *seth* *rich* story",
+          "location": 695
+        },
+        {
+          "text": "this guy's tweeting about *seth* *rich* he's",
+          "location": 723
+        }
+      ]
+    },
+    {
+      "id": "V59pKIXUQuM",
+      "segments": [
+        {
+          "text": "*seth* *rich* evidence can no longer be",
+          "location": 322
+        },
+        {
+          "text": "indication that my *seth* *rich* evidence",
+          "location": 344
+        }
+      ]
+    },
+    {
+      "id": "VtMhFvMTyHQ",
+      "segments": [
+        {
+          "text": "algorithm you know sometimes if say *seth*",
+          "location": 651
+        },
+        {
+          "text": "*rich* or certain false flags are blowing",
+          "location": 655
+        }
+      ]
+    },
+    {
+      "id": "VVsAZ0AGHeo",
+      "segments": [
+        {
+          "text": "gate dissuade *seth* *rich* all this bs",
+          "location": 492
+        }
+      ]
+    },
+    {
+      "id": "w0OSb7FbXas",
+      "segments": [
+        {
+          "text": "the *seth* *rich* you know they had they",
+          "location": 455
+        }
+      ]
+    },
+    {
+      "id": "WsnaqvLhEUk",
+      "segments": [
+        {
+          "text": "to the *seth* *rich* family spokesman brad",
+          "location": 940
+        },
+        {
+          "text": "put a hush hush on this *seth* *rich*",
+          "location": 987
+        },
+        {
+          "text": "the issue be like hey *seth* *rich* is death",
+          "location": 1024
+        }
+      ]
+    },
+    {
+      "id": "wu0Utsff6Jo",
+      "segments": [
+        {
+          "text": "put the *seth* *rich* conspiracy to rest",
+          "location": 266
+        },
+        {
+          "text": "was *seth* *rich* why was he murdered who",
+          "location": 300
+        }
+      ]
+    },
+    {
+      "id": "y3OVColWu-g",
+      "segments": [
+        {
+          "text": "the family of *seth* *rich* he was the",
+          "location": 667
+        }
+      ]
+    },
+    {
+      "id": "zffLUSbaqlw",
+      "segments": [
+        {
+          "text": "whether it's like *seth* *rich* or pedo gate",
+          "location": 138
+        }
+      ]
+    },
+    {
+      "id": "zIU-AuvMwqU",
+      "segments": [
+        {
+          "text": "*rich* in the news again so check this out",
+          "location": 1156
+        },
+        {
+          "text": "help him investigate *seth* *rich* murder",
+          "location": 1160
+        },
+        {
+          "text": "washington examiner so again guys *seth*",
+          "location": 1166
+        },
+        {
+          "text": "*rich* is not going out in the news he is",
+          "location": 1168
+        }
+      ]
+    },
+    {
+      "id": "ZqMTDLT6akA",
+      "segments": [
+        {
+          "text": "her life after this after *seth* *rich* was",
+          "location": 461
+        },
+        {
+          "text": "her life after *seth* *rich* was killed and",
+          "location": 483
+        }
+      ]
+    },
+    {
+      "id": "zw8yzCjmYcI",
+      "segments": [
+        {
+          "text": "front row q is *seth* alive *seth* *rich*",
+          "location": 617
+        },
+        {
+          "text": "about *seth* *rich* might be alive something",
+          "location": 627
+        }
+      ]
+    },
+    {
+      "id": "zziC-o5xumc",
+      "segments": [
+        {
+          "text": "*seth* *rich* and also another case in point",
+          "location": 449
+        },
+        {
+          "text": "dnc she's talking all about *seth* *rich*",
+          "location": 480
+        }
+      ]
+    }
+  ]
+}

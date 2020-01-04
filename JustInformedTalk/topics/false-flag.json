@@ -1,0 +1,702 @@
+{
+  "indexed": "_0GMW9eop3Q,_0k8gf2hqT8,_3Rl1KrDzlc,_9rpHbIpjdc,_c3-w-w0hd8,_gjH2umHAGw,_RmutDWSGgw,_xRwk1GDCtc,_xXAzbpQxCk,_Y32fnAp_mE,-_D0oq02HRY,-2V-Fidbe4Q,-fBcMRleHJs,-lj5lbMIt9w,-uo9Q6D8210,-WTkkUEgMpA,-wX2rOP6ktI,-x009HbyeMM,0DszWULPnJA,0kSVAa_BmU4,0Rg0lwnxdYA,0RnrwLJ2YB8,0UsEdqoi-uo,0v_9_7NQe7o,0ZQpgASg94o,12UHF03bxqg,12UIMLvh03M,14DEr87tKSc,14goSb7_h8k,188yfjWBsKM,1feiLSIDxzA,1G4XAByqwdc,1IBdXdpMtSQ,1KbA5wwl5iA,1mxwUYRqCLc,1qxksXmFHOw,1Sh9FkZ0Z_M,1WLIn7en9pQ,1ztx8JOWikU,21_5KACaBAA,246yVwb5diI,29I9Zl0qTFQ,2B6uuN4h5To,2B8vstdpb9Y,2hwzvqyTWk0,2kcXiFrNxu8,2KlWnWIW9es,2KpDBlqtvh4,2MJZ9NDs3EY,2nHvxV92Fo8,2NXqxp8mQmI,2Q3ooMM1qAA,2rguDK_EFjs,2VvxKYycSTA,2z1u4f9qxSk,3__6oQQBx4U,366ELkY8w8c,3anaRM4cxWc,3cNC-TuFKTM,3DT04vReamc,3hTjnoctYb8,3in8rDn_GiU,3iNDtYv3ogU,3inrKG1TPqA,3JpE_sVAXtI,3mBJwCIqEp4,3mZH_LNF6QM,3QHT8IoCibY,3QPQ-gJQDio,43l56zl36nA,46EzIkcqsf8,4aeInV5RoBU,4IELe4HKwW8,4krKjHMPsg4,4l3InNocQok,4L5tYESX97M,4pRyUnOoG4k,4QBY4MC9H4A,4reDYsbFjIA,4SVOSBqdzh4,4V_km03gzkc,4Vg0iy8-V8U,4wnZSd3XIrs,5A6dZwdwTxA,5aclmTHqG3Y,5dLvEB_CqP0,5FndfbwFaR4,5GkDWQBxE_Y,5i-ZMBE5r80,5LnqJOG082k,5msn1xthpVw,5OD8QdsbiDU,5teFvGwE9Ec,5tLVsNwlo4E,5ZV3UJmN3j4,5zwSaKW2qzA,6__xoin6aw8,639Gc3bX0Hs,68Bl7RbXS2A,6dPlpdME9bA,6gP2Zh2J4lU,6T7oPFcotQ8,6VOzbo_Xzcs,6vu4aiDJlLI,6ZRbp3qcQWw,77KCplrOQIs,77xVpKuEWnc,79lRgwEbfHQ,7BjNpnHLRlg,7dUatd4L2_I,7HkSIcIUJEI,7KyRGYh74yM,7nBOtseGsvM,7PPE5IfAS8Q,7uKOdZECGKo,84FDa13e5-g,85-ahemlFUU,85y3X4rQxA4,8BvPh2JcG1I,8fechd5G8bQ,8HN_fDiyxps,8Hn9sRON8JU,8IEQfBwVCnI,8pfDKYOa2YQ,8SIxFBeXF3A,8SJ8Si8dOik,8VlLxBGFQbo,9_UKSBXn7ko,9-Ct8QNd5l8,93Ilpb7IySY,94-23EfqkIo,96qHwT4UG7A,9aC20cRhA6A,9bmI1uHhg2Y,9CRaVe_WoRA,9DCeANHAmJk,9E6bhpqXb4Q,9GURyE2qHg0,9iLcGsHVzpM,9IoPnmjsOQg,9IYh49I9vLI,9kWhckKtLyw,9lRA4hj5-zs,9O8VPOd3Dsw,9ObMFi6ReKE,9PqmG_y1mEA,9Rsj2RvPQQY,9v8K97nYOmc,9YpbXzuAYao,A3CcapXxDBc,A3UCbl5D6xw,A4K1C-k9Soo,AaEkl-of76c,aAjl5E-9Xwc,aauT5183_Y0,ABKGKVoSAZs,Ae8VPPrDP3I,aeg4hpZ9Ozw,afbpVahE8m0,AGcXhMgEl-g,AGvin09PnlY,Ai_hTzDSyO0,aiSN2yWRXMk,AJPTbrTUYxI,AKx3yG4zhNQ,altHQp6NMoA,aMjfmqYp1k0,aMU1r-XXIe0,ANNU2PD-HFo,ApxADBQ8v3A,AQn0A4aVW6E,aRH_VcgxE-M,aRk2tCY5P6A,AT7BqWZWWag,ATycYftkD9M,avWKx_cmjpk,aww13Cq9r7Q,ayRMg-VLpmE,aZ_1pPcUgFk,aZ9ow4ZlnfI,AzTWh1-xt14,b-LpBCpFIU0,b0pHnjCKYzI,b1BuM4rDtj4,b2o6RTKxh4I,BBOhxkAxLis,bBQITwVQ2c4,BcVYQ8Qb8WE,bcxBqQ7PMew,BEnGqcIKQBI,BFqiftOTLL8,BFxZRHPz1QI,BgKgV7LyEIo,bJpGmwu9-k4,BjZ3EmeaX5k,bKA-qsz0fsU,BKrYqZUyOIQ,BLbmipYjHR4,BMvOvzcBOq0,BnmAkjBYrZ8,BoMEoJRDgcU,BRRHTfNJMg4,bTO8-X3R_0g,BufAWX9OL9M,bWCu3V4E0Cw,BX0vhcv_pRQ,BYme9spNF9A,BZ6g4cgOQIo,c2JtJ3aEJI4,c3uk_PM4FTU,C52GieN9zdM,c8x6_3FTcmk,Ce_6croEF8c,CeUgCB6lb8Q,cfD7Ifh578E,CFDn-VKYsC0,cjcQ6t4JMXs,CLxo7YDcLzk,Coqn8CHu1cM,CpCLI8mo6T8,cppd4rNaGCY,cQbGXIlAVTM,cRLq7aAC-XI,Ct4sQbD2Dj0,CUobzPBIPYs,CVPDq78OM50,CxlcQbMPATY,CYMHBldnHH4,cZWsTRVduts,d_GwGYmK26Y,d1MKZw4vHEw,d352Nhkd02g,d8l0y2XLq3Q,d9HpahnSk3g,ddO9VroAjuU,DeiOBs9WCFY,dfzrdTb1zZE,dgJVXPaHqP8,dI75N0o_5DI,DJhwFGJhk5k,dLlF7sxrUCQ,DOO7fNIwpYY,dPmQytHJFIs,dS2qkAQ33Xw,Dt0bn771sGA,dTiW7GUvpiE,DTJrCcpKAsE,DWyqBff8MD0,dxXweiDpFuI,dzvqryS1tvM,DZyPZzqwvsA,E0C2qvYK31I,E0IZHA3G3Ig,e4MakjQr6wQ,e5nUedXajQI,E930zZVMjyY,EEnVvVzaBCo,ehplL8V_3rs,ehRpPBA6HgM,ejJhYz7wFwo,ek_MgNKuQKg,EKeXTDJ61eQ,EL6vqvpcreQ,Erfp78sCx3E,etzYB5Acisw,ex1IEZ3gULY,EXbJ0oQART8,eYGFc99WbHU,EyLK_rCRmPI,EzqNatWuS6Y,f4qBTki5iH4,F5FobXrvY3E,f7YHUbjdCzM,FB4dExVms7s,fB7BASL5g54,fbpZlOeQiAM,fbY83L61Kd0,fchREWrn0vY,FDbXuhcLWtU,Ff4fEQVTpSs,FHBsONoVnq0,fhyBcxyxbVI,Fk16jEhiBrQ,fLuLK72GwyA,FLYTjpU15No,ft2oJSlNPtQ,fU5hFfGsdjM,FWZHVOZ4ggQ,g_-JsMSaCdA,g_4yojz2mAs,g-KHTYSFJXA,G0xwAccaQ0A,G2aQUZYgTL4,G5Xu8M-uc60,G6rtL2LbzqA,g8XCMFkFyjY,gAHVZF__So4,GcJnkA-FE1M,Gd0BSKLLqsc,Gf0trv-9tvc,gHZMOupPYsg,GHzp1M24Fsw,gJcJ38T8oNM,GjQpoYm971o,gMSJoVkQZWw,gnDVjDTXE0k,GNedUPBOSqs,Gnmbc4G0dmg,GRBDH_i0FB4,GU2lVhxS9vY,gya_mSZwAl0,GYcdeNuBthM,GYRgczPNxJI,h17tF0Xii1c,h1BC7XmZr8I,h7CqHL04D-Y,HCCtVyqBoRE,HF1kNM1SZWw,hfX559mxFQo,HGHg7Nt2WVo,HiDyMOUhdZY,hIG3MjKRzBE,HjH_ZCvf3_g,hKbE7MG3OIA,HkJj6tZtzKg,hKSHNiPdaQU,hNazips7-k8,HoHfevtIV2w,hQcYnde_RDA,HTETmsKXnkE,hxMqBVB9oIU,i7CsAm6pTpE,i7hxZGH9fCY,iaA6l7wVsGE,IC9FN_fY2go,If2rCEuFeNY,ijaW9oSwCw8,im06ZuqowDk,Ima-kdh9Zo0,IMvbHX-XxMs,iQHR1-6RKGY,iry3kHF_jvI,is45doBHO4k,IubAKIW7LW8,IuGCv6BE808,ivzGKZFp8M8,IyRWVFXn45A,IZLsNynu6Ns,j0aA2J_kFkc,J296P7VE5p8,J2spK-T9ev0,j4__e_WelW0,j598EAg5zdI,J6zapuerlJk,J7b6SPEd0FA,j8A3-iLoEOI,J8tQL-J1p-4,jCLp7eJwIrE,JEKeMGgqEFA,jIf63gDirvc,JkdHKdiTXAM,jnUP8mEuPqc,jO3DSz6VU10,JP_9kWACn3U,jPdBNzia1bQ,JqB96gXQCHs,Jqmk-9gfMoc,jr_aTXakEwk,jSkzvaEVGyw,Jw000N2NVzY,JXObjjcM37E,k1e3a3x0VHE,k2pfkR9ey1o,k3a7JrqCGxM,k5J7_AWQvec,K68zHw0_xp8,K6D4AseiyvA,K6X_A5nDkn8,k7HZG6YnFww,Ka58QhPEBs0,kbsHKl1F3PI,kGrIdTasjN0,KhBpRt0R9-8,kMvmpeySbAk,kmwVSMKdhaU,kmxEhecyMN8,Ko4YrWusYB0,kPNmP4e9jfA,KQYQ6-hMOjY,KsFcbtIB9IQ,kv41joeMcM4,KVAsKc8v5t8,KVvB35XeEig,kZgInLvnTxE,kZSTJv4Hxk0,L_xCuCDisLM,L1AVZd4DsQc,L2Az5A7kcP8,L3Ij2cvGFkY,l6iCUxTXOBw,L6uSGv164Xw,L8KfIdZMszk,l8r-U_GKKPw,l8TEy3DabHA,LBYjX-YKi3A,LcYUTlXa9LA,LDbkkYUWvpA,Lioi0r8CebQ,LIwSMMqCTfU,ljBQV9kO_48,LniEKTpx8Qo,LPcjU1iEMa8,LrIY2UK10UA,lRMkZVPheVA,LTZqQj0xixg,lxUADz6sO24,M-MA0geeqcs,m-ODejCbNWA,m2iCTKjwGZY,M2SBwEaGWjA,m5TtiXCF06Y,m9zakT_UDY4,MbhDYscAAN8,MBmjx6pEVyM,mBU8ggNgS8s,mCG61ZXjwgM,mDGN4mIrYTs,mdj-e3WW1Bo,mDVvkqXidds,mh_UlTxOQQ8,MHhA6kW_K1g,mi6oOSOcu8U,mIMeh-79eFQ,mJWjRqEjk1U,MKMicgqhopw,mkzUXQCz7g0,Mm6WkdjRwXE,Mm8has8rJ6Q,MMiesWjJy3k,ModN7UGbEc4,mOIXtYBUHzE,mpo_IhTE430,mqjohU4wchw,MQkqD0MhKnY,mQmoOcT31Ro,msr6oM0RLew,Mt8NfLhd-bQ,MU2Rcx_7eK0,mU9euZ7sEes,MUy19aL4UNs,MvFElFTEyAo,N_LPPAZ6a5k,n2RdX0ydluc,n5D-l-3F7ik,N5YALJhloAc,nb48sfxaBzA,Nb9AndSj88I,NC02quLtRsA,NC8ofbJYmgQ,NcQDwCqQeO0,nDIenS-L7Qc,NgbBiTBNx_E,NjWZnzfy4Bk,No3ER-UeVEw,no6rrhl9HP4,NPnxrTpCpnw,NQNDDUtnzYk,nRaCGIerr6g,nspGMcDjCKM,ntdGh-KbrDw,NV7heJFREsE,NVweq5WqxQs,Nw0SUu18OzY,NwWi8UclL4k,Nyz8AZ4IvdA,Nz6lrDmtUxk,O_aacfmu4kk,O52v4nUvluw,O5EtoXjZNus,o6KJkaLISn8,o6YcBl2u0n0,o8Akan5GihI,oC62RUXGAeo,ocx0eQ3IYGc,ofmaPjLqKpY,oGgzXrlF0m4,OhcEdpoDPxQ,OipmgYEOOj8,OJj7uOy38hI,OjodkECxTFE,oJslPIbYry4,ojSvumv3RDc,OKRqb03TEUs,okuxViVbyTs,OLDsP1BrbDU,Olfa4vMMDEk,OQCgaoqYPDQ,ornHtBUFohc,OsoQu546x8g,oStMB-W5ovI,Ou8IoZrbRFY,OVGfiwkKdqY,OWfrBrQlhkk,oXoEIlNO77U,oXoo6eYsZ3o,OY0Jqc3-hV0,P2YYC5MMzFc,p4Wc6Zs3qQM,p5s61jAYDzE,PbcQo398070,pbi5dRCB2cA,pDkUn-isAGk,pdW4LVkaiYA,peHd3IOjylg,Pepkc8bM3uo,PfDbmwtawNg,PfZh-XLbE_I,Pi-FHomqwtE,PIHmedWFDBI,piPPWEVM7BI,Pk6jznEcP4U,PMt56AI7XrI,PN8oDcxVDKU,pOgq_axpn1k,PRGJZtCTLVA,pRriJNgzrcs,pUZDbK0a1R4,PwfwMH9cRP0,q0d0OkpV5gs,q1LXh9jQU38,Q23RnpfTgiE,q2tI5JrJKzE,q40i492ZGUU,Q5xDDuhudtU,Q8C-i61AH9Q,q8N3XgSDddU,qaB9Xgr-K-U,qaeEK1ydKHQ,qb8eND6_eH8,qbNEx7wfmRw,qCVOU264zOY,qeyblMlgmf4,QFxy7aHGQAk,QgdmFUaMaTg,QHMQrxZEG0A,Qi1p1ciC6ig,QJ87Y3IHM0E,qJZUzPJM_8o,QlB-DTGsxA4,qnSzR1wZFJw,qQCLQxxZ-JQ,qSIbJjKcNfg,QuIScPQ4-HI,QwJVJTZy7_I,QWt5r7p1prc,R0kUC-zTi_w,R1LjmP8-04A,r509r1pO2R0,r6wUIvkTfA0,RaMEtW-jj3Y,RBg7ln8YvZs,rCig3kho2SM,RDi6epw_6q8,RhIjc2y2tAk,rhU9LM5NMjw,rKsfEM1BgDc,RQ0Vxa8t2lE,RqvIfoLVDOk,RU7GoALMyfc,rvKeEwBBpVI,rWFJYGKR8Q0,rwgpNw7-Z2o,RWoC617ICiE,rWUwM3PSctc,RWwMA7NgHPw,rygv-W2nBMQ,S6nzPrp1znE,s7WQRQMZHpg,sbQRdt546xk,sCpKR0JfQYg,SCrkA-IU-MA,SCYQEWuPQ5k,shbkSBhJ2I0,SIa7IJeIZTs,sj2d6MMMHe8,Smgbk6_u95o,SMJH9hOBoHs,sNJWA5xXzJ4,SnZ6S3mRxL4,Sp4RLy_qYKg,sqjMUSm7P7g,Sr-bsrd1__k,sRO9eUbKbHk,STeFcjPilJQ,stXbBirLOa4,SuFrbJ6SU-o,svsHMcqSxo0,t1tZokS2EvY,t5_FT2IuuU4,t6E_0ndD_uc,t6Lt13vIedE,ta_w9snGNto,tA5qx4py3vk,Tcnt9LQ9ghs,TcTxPlJydUY,tHP9ltlAus8,TiTXAXiDfUc,tIWPr_DcdIo,tjMfQ3p3laE,Tnrn3L8FY0I,tPO2SMpryYw,TQscIaCFOkI,TQZvMICk0VY,tsbPU6Db2kY,TsPRXxIwYko,tvC2gQ4AczY,TvVR9BnYdcM,TwLUyzhOLOg,tYyiFa4vM6U,tyzocNwNQKM,u_GGjeSvYec,U008Q4Nl6Pw,u4vS2DaqFLc,U7kcy4JVL-A,u87rX2092og,UAHuVEBXel4,ubHkJ2JOyYc,udBq5d5QJu4,UDz1OZ08WdM,ufbriRv6ttg,ujGzJFLXyyU,ulqxOJMqlbE,uM3wMO8soPk,UnaCSOYEHJY,uNbF9eE8iQo,uPZH86T-gbU,UqoqSIhUkis,uUHrITp2OII,Uv9kdzginz4,UYZK6SLUDac,uznBzdoryQE,v__k4yoGtr0,v1EVuUPy0TM,V5UBaiLKTJ8,v7n8XMG6_lU,VAb-q4zZZ84,vdBH5hXgTx0,VDegR-PmnPY,VDiIHvrYiP4,VDNvoDprdXw,VdW3BTCrFyk,VEPn4Jpriag,vH2LP87XOhM,vhEhHA1_lYc,VifwNccVoaI,VIVQ8DSeXA0,vK8vS2FLi_8,VkklwV-XWV8,vLkThiVu-7w,VLODkOCKOTQ,Vm1M-wrzD30,vNBvyX0c2GU,VncJ0_vEoR0,VNKopA1AWqc,vNoLVvWSsyo,vo2k76mYB48,VOiG-bND5gw,vOxfriLzg30,vPi9nxUXeXY,vpPs1VYeYq4,VqfhBji9KRg,VSa_TIkV6lE,VU5aarfEf-k,vvIB5CzHtRk,W2YIfMkkfwk,w3TsReVTDJg,w7usO3iDt_o,W9zaoEqRVZA,WAHJQb4hEOc,wENuaVviKSo,wGKkvAU6BXM,wgltyCeZ9pk,WGM4fqCVAQg,wgx-dnhKrBU,WhXBxkP9xE4,WJ_m4kinM7w,wLKBFYSG524,wp-A4Xc_aLU,WQ505PlHjnA,ws0Sia6taoM,Ws3y42YOuCI,wwoXSecjUy0,WxIbdhY0A54,X1Ei27wYEkk,X28tURO5Cq0,X3Sqj3g_n6c,X4jATK5wBgU,X6DgdzLcbTc,x8rM1oZB8U8,XBbVIwgeD2g,xBjg0GydtgY,XD8UWjkcE1s,xDMceMQCI_I,xe9N5iVspPY,Xfgb4YaqMT0,xfoQHcU3MyI,XfSHGaDZbBk,XISLjXeWUwk,XLzGCZkYvIc,Xna5SsHOcUo,xot9iXQ-zBA,XpBu8gmssPY,XqmwL0TTfo0,xsFay-hybec,xsO-xNEhoBI,xSQvQDtzB6U,xTJgKGF--OQ,xwOcpq9TqpE,XXd8q4BfcYQ,xYBSsLGzMlc,Y0exfyEXpfI,Y88ecV_X87E,YACpICjPygE,YAHylAzN21o,YAZ0b3JyML8,yc4umVzljCM,YDbwkcXJXRo,ygVJlwArt0A,YiKnAv4Iw2I,YJiMBvqbCwc,ykP7QXaZp9M,YkrFx8fhafI,YLlsruYA4pk,YlYxp4VTDgw,YnYkBcT-rnY,yQrUOHG8e2k,YSoJN2dPoZw,YSq6X6aQhd0,yuNxrYT4t58,ywlM82gfvbk,yWZgvfLs_ss,yzJ3vadEb_0,YZniSg3z3Iw,z1mRlnZbCF0,Z3cDEAKbMyA,Z5r4RVFd2a8,z5T_1jyN5f8,z7iJ5zZ0cLY,Za2u9FkqiaU,zB8nIspKlco,Zdnvu5QIjXE,ZEn6pbfoNlo,Zfa1UNNaPxc,ZGLLyMlvoUY,zJoO_HiEUno,ZkwW4xznOmQ,zlajBZP3nH0,ZnPojroUsrU,ZOUO80Q44B4,zozvEuKPdKs,ZTV18-GhqyU,Zu2ITGywrmU,zu3muQumFyI,zUQ1UARkl24,ZZJ6BNKXcTw,q_QmpI9cyRY,zy611VHFFwU",
+  "topic": "false flag",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_xRwk1GDCtc",
+      "segments": [
+        {
+          "text": "the enemy *false* *flag* shooter",
+          "location": 365
+        }
+      ]
+    },
+    {
+      "id": "-2V-Fidbe4Q",
+      "segments": [
+        {
+          "text": "of *false* *flag* stage by maduro himself in",
+          "location": 982
+        }
+      ]
+    },
+    {
+      "id": "-lj5lbMIt9w",
+      "segments": [
+        {
+          "text": "start was this syria *false* *flag* now q",
+          "location": 721
+        },
+        {
+          "text": "chlorine not *false* *flag* keep in mind",
+          "location": 883
+        }
+      ]
+    },
+    {
+      "id": "12UIMLvh03M",
+      "segments": [
+        {
+          "text": "to me and q saying *false* *flag* weather",
+          "location": 2056
+        }
+      ]
+    },
+    {
+      "id": "2MJZ9NDs3EY",
+      "segments": [
+        {
+          "text": "be quickly shut down look for more *false*",
+          "location": 768
+        },
+        {
+          "text": "*flag* stay alert be vigilant and above",
+          "location": 771
+        }
+      ]
+    },
+    {
+      "id": "2nHvxV92Fo8",
+      "segments": [
+        {
+          "text": "now i'm not saying that this was a *false*",
+          "location": 1377
+        },
+        {
+          "text": "*flag* or anything i'll leave that to you",
+          "location": 1379
+        }
+      ]
+    },
+    {
+      "id": "2Q3ooMM1qAA",
+      "segments": [
+        {
+          "text": "continued *false* flags and not to mention",
+          "location": 129
+        },
+        {
+          "text": "digital *false* *flag* info so we have quite",
+          "location": 136
+        },
+        {
+          "text": "this is obvious *false* *flag* they're",
+          "location": 301
+        },
+        {
+          "text": "crisis actors in a *false* *flag* but then",
+          "location": 807
+        },
+        {
+          "text": "the first *false* *flag* this is one of them",
+          "location": 1269
+        }
+      ]
+    },
+    {
+      "id": "4SVOSBqdzh4",
+      "segments": [
+        {
+          "text": "*false* *flag* that should be coming within",
+          "location": 221
+        },
+        {
+          "text": "*false* *flag* or seeming *false* *flag* happens",
+          "location": 834
+        }
+      ]
+    },
+    {
+      "id": "7KyRGYh74yM",
+      "segments": [
+        {
+          "text": "fail expect a major *false* *flag* to force",
+          "location": 1767
+        }
+      ]
+    },
+    {
+      "id": "8SIxFBeXF3A",
+      "segments": [
+        {
+          "text": "*false* *flag* operation and what we have in",
+          "location": 352
+        }
+      ]
+    },
+    {
+      "id": "94-23EfqkIo",
+      "segments": [
+        {
+          "text": "and elaborate *false* *flag* operation that",
+          "location": 1295
+        },
+        {
+          "text": "*false* *flag* operation guys you see what",
+          "location": 1369
+        },
+        {
+          "text": "completely faked *false* *flag* but the",
+          "location": 1733
+        }
+      ]
+    },
+    {
+      "id": "9GURyE2qHg0",
+      "segments": [
+        {
+          "text": "*false*-*flag* card area because it seems",
+          "location": 115
+        },
+        {
+          "text": "we got a *false* *flag* this weekend but if",
+          "location": 178
+        },
+        {
+          "text": "the *false* flags because",
+          "location": 399
+        },
+        {
+          "text": "obviously the train attack was a *false*",
+          "location": 401
+        },
+        {
+          "text": "*flag* and i mean this is going to come",
+          "location": 403
+        },
+        {
+          "text": "right let's come back was a *false* *flag*",
+          "location": 557
+        },
+        {
+          "text": "what's the *false* *flag* intel you've got",
+          "location": 623
+        },
+        {
+          "text": "get in this but the superbowl *false* *flag*",
+          "location": 650
+        },
+        {
+          "text": "rogue group trying to *false* *flag* us into",
+          "location": 1330
+        },
+        {
+          "text": "force academy and that's a *false* *flag*",
+          "location": 1510
+        },
+        {
+          "text": "admission is this textbook *false* *flag*",
+          "location": 1795
+        }
+      ]
+    },
+    {
+      "id": "Ae8VPPrDP3I",
+      "segments": [
+        {
+          "text": "themself *false*-*flag* distractions you've",
+          "location": 929
+        },
+        {
+          "text": "distractions and *false* flags have been",
+          "location": 934
+        }
+      ]
+    },
+    {
+      "id": "AQn0A4aVW6E",
+      "segments": [
+        {
+          "text": "disconcerting there was a *false* *flag*",
+          "location": 535
+        },
+        {
+          "text": "*false* *flag* right very much human but a",
+          "location": 540
+        },
+        {
+          "text": "foist a *false* *flag* on this but he failed",
+          "location": 570
+        }
+      ]
+    },
+    {
+      "id": "bKA-qsz0fsU",
+      "segments": [
+        {
+          "text": "be quickly shut down look for more *false*",
+          "location": 375
+        },
+        {
+          "text": "*flag* stay alert be vigilant and above",
+          "location": 378
+        }
+      ]
+    },
+    {
+      "id": "BKrYqZUyOIQ",
+      "segments": [
+        {
+          "text": "you know staged *false* *flag* attacks",
+          "location": 1134
+        }
+      ]
+    },
+    {
+      "id": "BoMEoJRDgcU",
+      "segments": [
+        {
+          "text": "says *false* *flag* weather alert worldwide",
+          "location": 448
+        }
+      ]
+    },
+    {
+      "id": "c3uk_PM4FTU",
+      "segments": [
+        {
+          "text": "that a *false* *flag* has been prevented",
+          "location": 7
+        },
+        {
+          "text": "we're gonna start here *false* *flag*",
+          "location": 50
+        },
+        {
+          "text": "a *false* *flag* that was prevented thank",
+          "location": 1689
+        }
+      ]
+    },
+    {
+      "id": "CFDn-VKYsC0",
+      "segments": [
+        {
+          "text": "to f's obviously *false* *flag* it's the",
+          "location": 966
+        }
+      ]
+    },
+    {
+      "id": "cppd4rNaGCY",
+      "segments": [
+        {
+          "text": "change the narrative to find *false* *flag*",
+          "location": 323
+        },
+        {
+          "text": "to change the narrative to find *false*",
+          "location": 712
+        },
+        {
+          "text": "*flag* well you'll have to be a judge of",
+          "location": 714
+        }
+      ]
+    },
+    {
+      "id": "cRLq7aAC-XI",
+      "segments": [
+        {
+          "text": "for some kind of *false* *flag* and it's",
+          "location": 250
+        }
+      ]
+    },
+    {
+      "id": "d352Nhkd02g",
+      "segments": [
+        {
+          "text": "a lot of reports that say it was a *false*",
+          "location": 457
+        },
+        {
+          "text": "*flag* i've been hearing a lot of reports",
+          "location": 459
+        }
+      ]
+    },
+    {
+      "id": "dzvqryS1tvM",
+      "segments": [
+        {
+          "text": "paul coming out saying *false* *flag* and",
+          "location": 1121
+        }
+      ]
+    },
+    {
+      "id": "E0C2qvYK31I",
+      "segments": [
+        {
+          "text": "news credentials failed at sec *false*",
+          "location": 834
+        },
+        {
+          "text": "*flag* attempt isis on life support the",
+          "location": 839
+        }
+      ]
+    },
+    {
+      "id": "GNedUPBOSqs",
+      "segments": [
+        {
+          "text": "defined *false* *flag* what events changed",
+          "location": 184
+        },
+        {
+          "text": "define a *false* *flag* well according to",
+          "location": 441
+        }
+      ]
+    },
+    {
+      "id": "gya_mSZwAl0",
+      "segments": [
+        {
+          "text": "*false* *flag* in the metaphor kill box here",
+          "location": 545
+        }
+      ]
+    },
+    {
+      "id": "j598EAg5zdI",
+      "segments": [
+        {
+          "text": "you know staging a *false* *flag* nuclear",
+          "location": 1283
+        }
+      ]
+    },
+    {
+      "id": "k5J7_AWQvec",
+      "segments": [
+        {
+          "text": "*false* *flag* to be it was kind of like",
+          "location": 1377
+        }
+      ]
+    },
+    {
+      "id": "KsFcbtIB9IQ",
+      "segments": [
+        {
+          "text": "change the narrative define *false* *flag*",
+          "location": 1044
+        }
+      ]
+    },
+    {
+      "id": "LBYjX-YKi3A",
+      "segments": [
+        {
+          "text": "know the *false* *flag*",
+          "location": 1265
+        }
+      ]
+    },
+    {
+      "id": "LcYUTlXa9LA",
+      "segments": [
+        {
+          "text": "you're gonna see a lot more *false* *flag*",
+          "location": 537
+        }
+      ]
+    },
+    {
+      "id": "MHhA6kW_K1g",
+      "segments": [
+        {
+          "text": "here about the *false* *flag* theory on pipe",
+          "location": 323
+        }
+      ]
+    },
+    {
+      "id": "mi6oOSOcu8U",
+      "segments": [
+        {
+          "text": "self *false* *flag* distractions cue now",
+          "location": 109
+        }
+      ]
+    },
+    {
+      "id": "mIMeh-79eFQ",
+      "segments": [
+        {
+          "text": "tock q was the train incident *false* *flag*",
+          "location": 232
+        },
+        {
+          "text": "about the *false* *flag* the train that was",
+          "location": 238
+        }
+      ]
+    },
+    {
+      "id": "MvFElFTEyAo",
+      "segments": [
+        {
+          "text": "this the reference to the syria *false*",
+          "location": 1564
+        },
+        {
+          "text": "*flag* where they were you know having",
+          "location": 1566
+        },
+        {
+          "text": "chemicals in in some sort of *false* *flag*",
+          "location": 1632
+        },
+        {
+          "text": "hoax by smollett *false*-*flag* designed to",
+          "location": 1837
+        },
+        {
+          "text": "understand what a *false* *flag* is in its",
+          "location": 2058
+        }
+      ]
+    },
+    {
+      "id": "Nw0SUu18OzY",
+      "segments": [
+        {
+          "text": "should that fail expect a major *false*",
+          "location": 549
+        },
+        {
+          "text": "*flag* to force a shift predictable we see",
+          "location": 552
+        }
+      ]
+    },
+    {
+      "id": "o6KJkaLISn8",
+      "segments": [
+        {
+          "text": "what about uss liberty use *false* *flag*",
+          "location": 431
+        }
+      ]
+    },
+    {
+      "id": "OJj7uOy38hI",
+      "segments": [
+        {
+          "text": "much larger scale *false* *flag* than it",
+          "location": 491
+        }
+      ]
+    },
+    {
+      "id": "OKRqb03TEUs",
+      "segments": [
+        {
+          "text": "almost always some kind of *false* *flag* or",
+          "location": 1022
+        }
+      ]
+    },
+    {
+      "id": "OVGfiwkKdqY",
+      "segments": [
+        {
+          "text": "regarding smollett *false* *flag* case what",
+          "location": 278
+        },
+        {
+          "text": "says hate hoax by small at *false* *flag*",
+          "location": 765
+        }
+      ]
+    },
+    {
+      "id": "Q23RnpfTgiE",
+      "segments": [
+        {
+          "text": "this fault you know a *false* *flag*",
+          "location": 444
+        }
+      ]
+    },
+    {
+      "id": "r509r1pO2R0",
+      "segments": [
+        {
+          "text": "points out here just yesterday *false*",
+          "location": 995
+        },
+        {
+          "text": "*flag* distractions we need to be on the",
+          "location": 999
+        }
+      ]
+    },
+    {
+      "id": "Sr-bsrd1__k",
+      "segments": [
+        {
+          "text": "incredibly disastrous *false* *flag* attack",
+          "location": 44
+        },
+        {
+          "text": "intel that they were planning a *false*",
+          "location": 1023
+        },
+        {
+          "text": "*flag* weather event i mean this is a good",
+          "location": 1025
+        }
+      ]
+    },
+    {
+      "id": "tsbPU6Db2kY",
+      "segments": [
+        {
+          "text": "that nuclear *false* *flag* in america",
+          "location": 1726
+        }
+      ]
+    },
+    {
+      "id": "tyzocNwNQKM",
+      "segments": [
+        {
+          "text": "chicago pd regarding small at *false*-*flag*",
+          "location": 717
+        },
+        {
+          "text": "i think it says what *false* *flag* event",
+          "location": 731
+        },
+        {
+          "text": "smaller thing says did the *false*",
+          "location": 737
+        },
+        {
+          "text": "plaintiff act did the *false* *flag* event",
+          "location": 739
+        },
+        {
+          "text": "did the *false* *flag* event sway senators",
+          "location": 742
+        }
+      ]
+    },
+    {
+      "id": "uUHrITp2OII",
+      "segments": [
+        {
+          "text": "the *false* *flag* information that",
+          "location": 58
+        },
+        {
+          "text": "*false* *flag* and serving and pull it up",
+          "location": 70
+        },
+        {
+          "text": "wouldn't do this is crazy it's a *false*",
+          "location": 2444
+        },
+        {
+          "text": "*flag* god this is horrible they all",
+          "location": 2446
+        }
+      ]
+    },
+    {
+      "id": "uznBzdoryQE",
+      "segments": [
+        {
+          "text": "potential *false* *flag* in grass valley",
+          "location": 870
+        }
+      ]
+    },
+    {
+      "id": "vK8vS2FLi_8",
+      "segments": [
+        {
+          "text": "*false* *flag* i don't know that that's",
+          "location": 1012
+        }
+      ]
+    },
+    {
+      "id": "VkklwV-XWV8",
+      "segments": [
+        {
+          "text": "fact that we say oh look another *false*",
+          "location": 1348
+        },
+        {
+          "text": "*flag* if they suggest it's a *false* *flag*",
+          "location": 1349
+        }
+      ]
+    },
+    {
+      "id": "ws0Sia6taoM",
+      "segments": [
+        {
+          "text": "next 10 days *false* *flag* attempts may be",
+          "location": 700
+        }
+      ]
+    },
+    {
+      "id": "X1Ei27wYEkk",
+      "segments": [
+        {
+          "text": "usually will have some kind of *false*",
+          "location": 1461
+        },
+        {
+          "text": "*flag* or some kind of",
+          "location": 1463
+        }
+      ]
+    },
+    {
+      "id": "Xfgb4YaqMT0",
+      "segments": [
+        {
+          "text": "a *false* *flag* event was a real missile",
+          "location": 2541
+        }
+      ]
+    },
+    {
+      "id": "ykP7QXaZp9M",
+      "segments": [
+        {
+          "text": "here you know ff for *false* *flag* in",
+          "location": 263
+        },
+        {
+          "text": "shooting was some kind of *false* *flag* but",
+          "location": 271
+        }
+      ]
+    },
+    {
+      "id": "yQrUOHG8e2k",
+      "segments": [
+        {
+          "text": "today and expect a major *false* *flag* does",
+          "location": 2643
+        },
+        {
+          "text": "is that called *false* *flag* i don't know",
+          "location": 2653
+        }
+      ]
+    }
+  ]
+}

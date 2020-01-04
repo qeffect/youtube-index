@@ -1,0 +1,2017 @@
+[
+  {
+    "start": 30.61,
+    "duraction": 4.83,
+    "value": "hi and welcome you're listening to the x"
+  },
+  {
+    "start": 33.79,
+    "duraction": 4.47,
+    "value": "22 report my name is dave and this is"
+  },
+  {
+    "start": 35.44,
+    "duraction": 5.7,
+    "value": "episode 762 a and today's date is"
+  },
+  {
+    "start": 38.26,
+    "duraction": 5.31,
+    "value": "September 10th 2015 and the title this"
+  },
+  {
+    "start": 41.14,
+    "duraction": 5.52,
+    "value": "episode is the economy is continually"
+  },
+  {
+    "start": 43.57,
+    "duraction": 4.53,
+    "value": "showing signs of collapsing now before I"
+  },
+  {
+    "start": 46.66,
+    "duraction": 3.29,
+    "value": "get started I just want to make an"
+  },
+  {
+    "start": 48.1,
+    "duraction": 5.279,
+    "value": "announcement of what happened yesterday"
+  },
+  {
+    "start": 49.95,
+    "duraction": 6.07,
+    "value": "and today with the site the site was"
+  },
+  {
+    "start": 53.379,
+    "duraction": 4.491,
+    "value": "attacked it started at midnight and went"
+  },
+  {
+    "start": 56.02,
+    "duraction": 5.64,
+    "value": "all through the morning and it really"
+  },
+  {
+    "start": 57.87,
+    "duraction": 6.249,
+    "value": "got really intense around six or seven"
+  },
+  {
+    "start": 61.66,
+    "duraction": 4.26,
+    "value": "in the morning or so and the hosting"
+  },
+  {
+    "start": 64.119,
+    "duraction": 3.481,
+    "value": "company decided that they didn't want to"
+  },
+  {
+    "start": 65.92,
+    "duraction": 3.3,
+    "value": "have this interfere with their other"
+  },
+  {
+    "start": 67.6,
+    "duraction": 4.34,
+    "value": "customers so they disconnected the"
+  },
+  {
+    "start": 69.22,
+    "duraction": 5.16,
+    "value": "database so the site went down and"
+  },
+  {
+    "start": 71.94,
+    "duraction": 5.26,
+    "value": "during that time they said the site was"
+  },
+  {
+    "start": 74.38,
+    "duraction": 4.56,
+    "value": "compromised yes something has happened"
+  },
+  {
+    "start": 77.2,
+    "duraction": 4.68,
+    "value": "they don't know exactly what it is and"
+  },
+  {
+    "start": 78.94,
+    "duraction": 5.429,
+    "value": "what I started to do was take the"
+  },
+  {
+    "start": 81.88,
+    "duraction": 6.42,
+    "value": "database and the files and move them to"
+  },
+  {
+    "start": 84.369,
+    "duraction": 6.211,
+    "value": "a backup server so this way the site and"
+  },
+  {
+    "start": 88.3,
+    "duraction": 5.4,
+    "value": "go back up and run and this is what I'm"
+  },
+  {
+    "start": 90.58,
+    "duraction": 4.86,
+    "value": "doing I'm creating the primary and a"
+  },
+  {
+    "start": 93.7,
+    "duraction": 3.9,
+    "value": "backup server so if this ever happens"
+  },
+  {
+    "start": 95.44,
+    "duraction": 4.56,
+    "value": "again I can switch right over to the"
+  },
+  {
+    "start": 97.6,
+    "duraction": 5.309,
+    "value": "backup server but yes the site was"
+  },
+  {
+    "start": 100.0,
+    "duraction": 6.0,
+    "value": "attacked it brought it down and it took"
+  },
+  {
+    "start": 102.909,
+    "duraction": 5.221,
+    "value": "me pretty much the entire day to get it"
+  },
+  {
+    "start": 106.0,
+    "duraction": 4.56,
+    "value": "up and running once again but it looks"
+  },
+  {
+    "start": 108.13,
+    "duraction": 4.47,
+    "value": "like the site is running it looks like"
+  },
+  {
+    "start": 110.56,
+    "duraction": 5.01,
+    "value": "everything is back to normal a couple"
+  },
+  {
+    "start": 112.6,
+    "duraction": 4.35,
+    "value": "things I need to fix the forum maybe"
+  },
+  {
+    "start": 115.57,
+    "duraction": 3.42,
+    "value": "some other little things here and there"
+  },
+  {
+    "start": 116.95,
+    "duraction": 5.36,
+    "value": "but it looks like everything is back to"
+  },
+  {
+    "start": 118.99,
+    "duraction": 7.47,
+    "value": "normal I know everyone was emailing me"
+  },
+  {
+    "start": 122.31,
+    "duraction": 6.19,
+    "value": "commenting on YouTube and I tried to"
+  },
+  {
+    "start": 126.46,
+    "duraction": 3.57,
+    "value": "answer some people I put some comments"
+  },
+  {
+    "start": 128.5,
+    "duraction": 4.049,
+    "value": "on YouTube to let you know the site was"
+  },
+  {
+    "start": 130.03,
+    "duraction": 5.07,
+    "value": "attacked the best place I think to go"
+  },
+  {
+    "start": 132.549,
+    "duraction": 5.281,
+    "value": "when something like this does occur is"
+  },
+  {
+    "start": 135.1,
+    "duraction": 6.78,
+    "value": "the Twitter account which is Twitter"
+  },
+  {
+    "start": 137.83,
+    "duraction": 6.27,
+    "value": "sports / x 22 report and there I was"
+  },
+  {
+    "start": 141.88,
+    "duraction": 5.25,
+    "value": "updating what was happening so if you"
+  },
+  {
+    "start": 144.1,
+    "duraction": 5.25,
+    "value": "wanted to follow x 20 report on twitter"
+  },
+  {
+    "start": 147.13,
+    "duraction": 3.78,
+    "value": "you can do that in this way i can get"
+  },
+  {
+    "start": 149.35,
+    "duraction": 4.38,
+    "value": "the message out there of what is"
+  },
+  {
+    "start": 150.91,
+    "duraction": 5.79,
+    "value": "happening because it was just impossible"
+  },
+  {
+    "start": 153.73,
+    "duraction": 4.92,
+    "value": "for me to answer all the emails that are"
+  },
+  {
+    "start": 156.7,
+    "duraction": 4.8,
+    "value": "coming in and work on the server again"
+  },
+  {
+    "start": 158.65,
+    "duraction": 5.28,
+    "value": "I'm a one-man shop here I don't have a"
+  },
+  {
+    "start": 161.5,
+    "duraction": 5.069,
+    "value": "crew of people working"
+  },
+  {
+    "start": 163.93,
+    "duraction": 4.559,
+    "value": "it's just me so I can't be in all places"
+  },
+  {
+    "start": 166.569,
+    "duraction": 4.321,
+    "value": "at once but I do appreciate everyone"
+  },
+  {
+    "start": 168.489,
+    "duraction": 5.491,
+    "value": "everyone's concerned what was going on"
+  },
+  {
+    "start": 170.89,
+    "duraction": 5.489,
+    "value": "and I was just concentrating on getting"
+  },
+  {
+    "start": 173.98,
+    "duraction": 3.989,
+    "value": "everything back to normal let's get"
+  },
+  {
+    "start": 176.379,
+    "duraction": 4.5,
+    "value": "right into the economic collapse"
+  },
+  {
+    "start": 177.969,
+    "duraction": 5.011,
+    "value": "financial news we're going to head out"
+  },
+  {
+    "start": 180.879,
+    "duraction": 4.95,
+    "value": "to Greece and talk about what's been"
+  },
+  {
+    "start": 182.98,
+    "duraction": 6.36,
+    "value": "going on there now the central bankers"
+  },
+  {
+    "start": 185.829,
+    "duraction": 5.401,
+    "value": "they got their way they had the"
+  },
+  {
+    "start": 189.34,
+    "duraction": 3.629,
+    "value": "government fold they didn't listen to"
+  },
+  {
+    "start": 191.23,
+    "duraction": 5.31,
+    "value": "the people the government didn't listen"
+  },
+  {
+    "start": 192.969,
+    "duraction": 7.77,
+    "value": "to the people no one cared and we see"
+  },
+  {
+    "start": 196.54,
+    "duraction": 8.729,
+    "value": "that this entire situation is not going"
+  },
+  {
+    "start": 200.739,
+    "duraction": 9.06,
+    "value": "to improve him we're already seeing that"
+  },
+  {
+    "start": 205.269,
+    "duraction": 7.741,
+    "value": "the economy in Greece is getting worse I"
+  },
+  {
+    "start": 209.799,
+    "duraction": 6.651,
+    "value": "mean unemployment when from twenty five"
+  },
+  {
+    "start": 213.01,
+    "duraction": 8.52,
+    "value": "percent now it's at 25.2 percent and"
+  },
+  {
+    "start": 216.45,
+    "duraction": 7.48,
+    "value": "this is a slight increase from June well"
+  },
+  {
+    "start": 221.53,
+    "duraction": 5.549,
+    "value": "any little increase at twenty-five"
+  },
+  {
+    "start": 223.93,
+    "duraction": 6.63,
+    "value": "percent is huge because that means there"
+  },
+  {
+    "start": 227.079,
+    "duraction": 6.75,
+    "value": "are even more people not working in"
+  },
+  {
+    "start": 230.56,
+    "duraction": 6.359,
+    "value": "Greece and Greece is not the only"
+  },
+  {
+    "start": 233.829,
+    "duraction": 6.33,
+    "value": "country we see this in I mean if we"
+  },
+  {
+    "start": 236.919,
+    "duraction": 5.581,
+    "value": "really look around and if we look at"
+  },
+  {
+    "start": 240.159,
+    "duraction": 5.881,
+    "value": "each one of these countries Italy France"
+  },
+  {
+    "start": 242.5,
+    "duraction": 6.87,
+    "value": "Portugal Spain unemployment is"
+  },
+  {
+    "start": 246.04,
+    "duraction": 6.539,
+    "value": "skyrocketing they have a huge amount of"
+  },
+  {
+    "start": 249.37,
+    "duraction": 5.729,
+    "value": "debt and if we look back here in the"
+  },
+  {
+    "start": 252.579,
+    "duraction": 5.22,
+    "value": "United States we really see the same"
+  },
+  {
+    "start": 255.099,
+    "duraction": 4.29,
+    "value": "thing there's really no difference it's"
+  },
+  {
+    "start": 257.799,
+    "duraction": 3.75,
+    "value": "just that the United States government"
+  },
+  {
+    "start": 259.389,
+    "duraction": 4.861,
+    "value": "the central bankers are a little bit"
+  },
+  {
+    "start": 261.549,
+    "duraction": 4.231,
+    "value": "better at covering it up at manipulating"
+  },
+  {
+    "start": 264.25,
+    "duraction": 5.61,
+    "value": "everything and of course we have the"
+  },
+  {
+    "start": 265.78,
+    "duraction": 5.699,
+    "value": "ability to create / print money but"
+  },
+  {
+    "start": 269.86,
+    "duraction": 2.809,
+    "value": "what's very interesting about all this"
+  },
+  {
+    "start": 271.479,
+    "duraction": 3.151,
+    "value": "and they continually say oh"
+  },
+  {
+    "start": 272.669,
+    "duraction": 5.171,
+    "value": "manufacturing is coming back to the"
+  },
+  {
+    "start": 274.63,
+    "duraction": 8.789,
+    "value": "United States we see improvements we see"
+  },
+  {
+    "start": 277.84,
+    "duraction": 8.37,
+    "value": "recovery everything is just fine but"
+  },
+  {
+    "start": 283.419,
+    "duraction": 6.72,
+    "value": "when we really break through all the"
+  },
+  {
+    "start": 286.21,
+    "duraction": 6.179,
+    "value": "propaganda we see completely different"
+  },
+  {
+    "start": 290.139,
+    "duraction": 4.551,
+    "value": "and opposite things that they're talking"
+  },
+  {
+    "start": 292.389,
+    "duraction": 4.991,
+    "value": "about I mean let's take for example"
+  },
+  {
+    "start": 294.69,
+    "duraction": 5.97,
+    "value": "manufacturing"
+  },
+  {
+    "start": 297.38,
+    "duraction": 9.61,
+    "value": "Manufacturing was the driving force here"
+  },
+  {
+    "start": 300.66,
+    "duraction": 10.11,
+    "value": "in America and since the 40s the 50s the"
+  },
+  {
+    "start": 306.99,
+    "duraction": 5.25,
+    "value": "60s even going into the 70s at that"
+  },
+  {
+    "start": 310.77,
+    "duraction": 2.97,
+    "value": "point it started to it started to"
+  },
+  {
+    "start": 312.24,
+    "duraction": 5.25,
+    "value": "deteriorate it started to break down"
+  },
+  {
+    "start": 313.74,
+    "duraction": 5.88,
+    "value": "fall apart and as time went on it got"
+  },
+  {
+    "start": 317.49,
+    "duraction": 5.34,
+    "value": "worse I mean think about this for a"
+  },
+  {
+    "start": 319.62,
+    "duraction": 5.88,
+    "value": "second those employed by the government"
+  },
+  {
+    "start": 322.83,
+    "duraction": 6.87,
+    "value": "in the United States in august of this"
+  },
+  {
+    "start": 325.5,
+    "duraction": 7.47,
+    "value": "year how numbered the employed in the"
+  },
+  {
+    "start": 329.7,
+    "duraction": 6.15,
+    "value": "manufacturing sector by almost 18 to 1"
+  },
+  {
+    "start": 332.97,
+    "duraction": 8.1,
+    "value": "and this is coming from the bureau of"
+  },
+  {
+    "start": 335.85,
+    "duraction": 8.04,
+    "value": "labor statistics there were 20 1.9"
+  },
+  {
+    "start": 341.07,
+    "duraction": 4.23,
+    "value": "million employed by the federal state"
+  },
+  {
+    "start": 343.89,
+    "duraction": 4.08,
+    "value": "and local governments in the united"
+  },
+  {
+    "start": 345.3,
+    "duraction": 7.83,
+    "value": "states in august and again this is from"
+  },
+  {
+    "start": 347.97,
+    "duraction": 9.72,
+    "value": "the BLS and we had 12.3 million employed"
+  },
+  {
+    "start": 353.13,
+    "duraction": 11.93,
+    "value": "in the manufacturing sector in the first"
+  },
+  {
+    "start": 357.69,
+    "duraction": 10.92,
+    "value": "50 years of the 76 year span sins then"
+  },
+  {
+    "start": 365.06,
+    "duraction": 7.0,
+    "value": "manufacturing out employed government"
+  },
+  {
+    "start": 368.61,
+    "duraction": 7.62,
+    "value": "but in august of 1989 government"
+  },
+  {
+    "start": 372.06,
+    "duraction": 7.65,
+    "value": "overtook manufacturing as US as the US"
+  },
+  {
+    "start": 376.23,
+    "duraction": 4.56,
+    "value": "employer and this is of course when they"
+  },
+  {
+    "start": 379.71,
+    "duraction": 4.56,
+    "value": "started shipping a lot of the jobs"
+  },
+  {
+    "start": 380.79,
+    "duraction": 6.75,
+    "value": "overseas when they began and to make up"
+  },
+  {
+    "start": 384.27,
+    "duraction": 8.16,
+    "value": "for those jobs leaving we had government"
+  },
+  {
+    "start": 387.54,
+    "duraction": 8.91,
+    "value": "jobs in that month of August of 1989 the"
+  },
+  {
+    "start": 392.43,
+    "duraction": 9.69,
+    "value": "government employed 17.9 million people"
+  },
+  {
+    "start": 396.45,
+    "duraction": 9.87,
+    "value": "and manufacturing employed 17.9 million"
+  },
+  {
+    "start": 402.12,
+    "duraction": 6.83,
+    "value": "people since then the government"
+  },
+  {
+    "start": 406.32,
+    "duraction": 8.34,
+    "value": "employment increased by 4 million"
+  },
+  {
+    "start": 408.95,
+    "duraction": 8.83,
+    "value": "manufacturing declined by 5.6 million so"
+  },
+  {
+    "start": 414.66,
+    "duraction": 6.24,
+    "value": "what are we seeing here we're seeing for"
+  },
+  {
+    "start": 417.78,
+    "duraction": 5.34,
+    "value": "every manufacturing job they add they"
+  },
+  {
+    "start": 420.9,
+    "duraction": 3.96,
+    "value": "added a government job now of course"
+  },
+  {
+    "start": 423.12,
+    "duraction": 3.9,
+    "value": "this is why we have a government"
+  },
+  {
+    "start": 424.86,
+    "duraction": 5.72,
+    "value": "completely bloated the way we see it"
+  },
+  {
+    "start": 427.02,
+    "duraction": 7.26,
+    "value": "today they needed to do this"
+  },
+  {
+    "start": 430.58,
+    "duraction": 6.46,
+    "value": "why well they needed to keep the job"
+  },
+  {
+    "start": 434.28,
+    "duraction": 5.73,
+    "value": "numbers they got a they have to keep it"
+  },
+  {
+    "start": 437.04,
+    "duraction": 6.06,
+    "value": "like everything is fine here we see the"
+  },
+  {
+    "start": 440.01,
+    "duraction": 6.39,
+    "value": "same thing happening today I mean how"
+  },
+  {
+    "start": 443.1,
+    "duraction": 7.11,
+    "value": "much more can the government take on so"
+  },
+  {
+    "start": 446.4,
+    "duraction": 5.88,
+    "value": "it switched from manufacturing and we"
+  },
+  {
+    "start": 450.21,
+    "duraction": 6.09,
+    "value": "talked about this quite often where we"
+  },
+  {
+    "start": 452.28,
+    "duraction": 6.47,
+    "value": "had manufacturing declining and waiters"
+  },
+  {
+    "start": 456.3,
+    "duraction": 7.68,
+    "value": "and bartenders the service jobs"
+  },
+  {
+    "start": 458.75,
+    "duraction": 8.92,
+    "value": "increasing at the same pace so we are"
+  },
+  {
+    "start": 463.98,
+    "duraction": 7.41,
+    "value": "not recovering manufacturing is not"
+  },
+  {
+    "start": 467.67,
+    "duraction": 9.5,
+    "value": "improving if we go back over time it"
+  },
+  {
+    "start": 471.39,
+    "duraction": 12.08,
+    "value": "just got worse and worse and worse and"
+  },
+  {
+    "start": 477.17,
+    "duraction": 10.96,
+    "value": "we see right now that this economy is"
+  },
+  {
+    "start": 483.47,
+    "duraction": 6.72,
+    "value": "completely in collapse mode I mean"
+  },
+  {
+    "start": 488.13,
+    "duraction": 6.36,
+    "value": "there's no other way to explain it I"
+  },
+  {
+    "start": 490.19,
+    "duraction": 7.47,
+    "value": "mean if we look at everything retail for"
+  },
+  {
+    "start": 494.49,
+    "duraction": 6.51,
+    "value": "example the retail numbers came out"
+  },
+  {
+    "start": 497.66,
+    "duraction": 4.84,
+    "value": "national chain stores the sales have"
+  },
+  {
+    "start": 501.0,
+    "duraction": 3.36,
+    "value": "fallen by one-point-three percent in the"
+  },
+  {
+    "start": 502.5,
+    "duraction": 3.81,
+    "value": "first week of September actually this is"
+  },
+  {
+    "start": 504.36,
+    "duraction": 4.29,
+    "value": "normally a good time for sales because"
+  },
+  {
+    "start": 506.31,
+    "duraction": 4.26,
+    "value": "it's all back to school now they can't"
+  },
+  {
+    "start": 508.65,
+    "duraction": 5.61,
+    "value": "blame it on the weather because it"
+  },
+  {
+    "start": 510.57,
+    "duraction": 7.73,
+    "value": "didn't snow I guess they could say it"
+  },
+  {
+    "start": 514.26,
+    "duraction": 8.16,
+    "value": "was too sunny to warm to sticky outside"
+  },
+  {
+    "start": 518.3,
+    "duraction": 8.32,
+    "value": "but that's not going to fly they'll use"
+  },
+  {
+    "start": 522.42,
+    "duraction": 9.03,
+    "value": "every other excuse except the economy"
+  },
+  {
+    "start": 526.62,
+    "duraction": 6.99,
+    "value": "and during this recovery we've seen many"
+  },
+  {
+    "start": 531.45,
+    "duraction": 4.44,
+    "value": "many many retail stores closed now"
+  },
+  {
+    "start": 533.61,
+    "duraction": 8.3,
+    "value": "Macy's just announced they're going to"
+  },
+  {
+    "start": 535.89,
+    "duraction": 11.94,
+    "value": "be closing 35 to 40 stores in early 2016"
+  },
+  {
+    "start": 541.91,
+    "duraction": 8.71,
+    "value": "35 to 40 stores the largest department"
+  },
+  {
+    "start": 547.83,
+    "duraction": 5.43,
+    "value": "store now if we're truly in this"
+  },
+  {
+    "start": 550.62,
+    "duraction": 6.03,
+    "value": "recovery unemployment of 5.1 percent"
+  },
+  {
+    "start": 553.26,
+    "duraction": 9.02,
+    "value": "near full employment people are making"
+  },
+  {
+    "start": 556.65,
+    "duraction": 6.93,
+    "value": "money why is retail contracting so much"
+  },
+  {
+    "start": 562.28,
+    "duraction": 5.4,
+    "value": "why"
+  },
+  {
+    "start": 563.58,
+    "duraction": 8.9,
+    "value": "is manufacturing declining why our"
+  },
+  {
+    "start": 567.68,
+    "duraction": 8.53,
+    "value": "inventories building up think about this"
+  },
+  {
+    "start": 572.48,
+    "duraction": 6.61,
+    "value": "the only way to cut through all this is"
+  },
+  {
+    "start": 576.21,
+    "duraction": 7.41,
+    "value": "that their statistics they're throwing"
+  },
+  {
+    "start": 579.09,
+    "duraction": 6.57,
+    "value": "at us they're fake that's it that's the"
+  },
+  {
+    "start": 583.62,
+    "duraction": 4.02,
+    "value": "only way to look at this because when we"
+  },
+  {
+    "start": 585.66,
+    "duraction": 4.59,
+    "value": "really look at this we see yeah this"
+  },
+  {
+    "start": 587.64,
+    "duraction": 4.53,
+    "value": "makes no sense whatsoever I mean seagate"
+  },
+  {
+    "start": 590.25,
+    "duraction": 4.53,
+    "value": "is going to be laying off a thousand"
+  },
+  {
+    "start": 592.17,
+    "duraction": 7.29,
+    "value": "people Morris and stores international"
+  },
+  {
+    "start": 594.78,
+    "duraction": 7.56,
+    "value": "11 branches 900 jobs Lockheed Martin 500"
+  },
+  {
+    "start": 599.46,
+    "duraction": 6.63,
+    "value": "Samsung is going to be laying off ten"
+  },
+  {
+    "start": 602.34,
+    "duraction": 5.46,
+    "value": "percent of their headquarters staff the"
+  },
+  {
+    "start": 606.09,
+    "duraction": 4.23,
+    "value": "Baltic Dry Index which is the raw"
+  },
+  {
+    "start": 607.8,
+    "duraction": 5.4,
+    "value": "material they use to use for"
+  },
+  {
+    "start": 610.32,
+    "duraction": 5.73,
+    "value": "manufacturing and we know that they're"
+  },
+  {
+    "start": 613.2,
+    "duraction": 6.15,
+    "value": "not manufacturing because we see we tell"
+  },
+  {
+    "start": 616.05,
+    "duraction": 7.89,
+    "value": "contracting we see consumers they're not"
+  },
+  {
+    "start": 619.35,
+    "duraction": 7.38,
+    "value": "spending it's all shrinking so both the"
+  },
+  {
+    "start": 623.94,
+    "duraction": 8.21,
+    "value": "Baltic Dry Index is falling and it is"
+  },
+  {
+    "start": 626.73,
+    "duraction": 8.01,
+    "value": "falling 25 points it is now down to 830"
+  },
+  {
+    "start": 632.15,
+    "duraction": 7.84,
+    "value": "we know that people aren't purchasing"
+  },
+  {
+    "start": 634.74,
+    "duraction": 9.21,
+    "value": "homes mortgage applications are down six"
+  },
+  {
+    "start": 639.99,
+    "duraction": 6.51,
+    "value": "point two percent if these interest"
+  },
+  {
+    "start": 643.95,
+    "duraction": 6.63,
+    "value": "rates take up just a little bit it is"
+  },
+  {
+    "start": 646.5,
+    "duraction": 9.45,
+    "value": "going to be a disaster a complete"
+  },
+  {
+    "start": 650.58,
+    "duraction": 8.31,
+    "value": "disaster for real estate it's going to"
+  },
+  {
+    "start": 655.95,
+    "duraction": 5.22,
+    "value": "be what happened in 2008 actually it's"
+  },
+  {
+    "start": 658.89,
+    "duraction": 3.54,
+    "value": "going to be a lot worse because we have"
+  },
+  {
+    "start": 661.17,
+    "duraction": 3.27,
+    "value": "a lot of people out there with"
+  },
+  {
+    "start": 662.43,
+    "duraction": 4.5,
+    "value": "adjustable rate mortgages and if these"
+  },
+  {
+    "start": 664.44,
+    "duraction": 5.37,
+    "value": "interest rates tick up they will not be"
+  },
+  {
+    "start": 666.93,
+    "duraction": 4.86,
+    "value": "able to afford these homes new people"
+  },
+  {
+    "start": 669.81,
+    "duraction": 4.98,
+    "value": "coming into the market it will kick them"
+  },
+  {
+    "start": 671.79,
+    "duraction": 6.03,
+    "value": "out of the market instantly and mortgage"
+  },
+  {
+    "start": 674.79,
+    "duraction": 6.87,
+    "value": "applications are going to take a huge"
+  },
+  {
+    "start": 677.82,
+    "duraction": 9.63,
+    "value": "dive they know this the bubble would pop"
+  },
+  {
+    "start": 681.66,
+    "duraction": 9.51,
+    "value": "in about two seconds we understand"
+  },
+  {
+    "start": 687.45,
+    "duraction": 6.29,
+    "value": "Puerto Rico just like Greece it's"
+  },
+  {
+    "start": 691.17,
+    "duraction": 4.55,
+    "value": "collapsing"
+  },
+  {
+    "start": 693.74,
+    "duraction": 3.84,
+    "value": "they're going to run out of cash by the"
+  },
+  {
+    "start": 695.72,
+    "duraction": 7.02,
+    "value": "end of the year they're going to have a"
+  },
+  {
+    "start": 697.58,
+    "duraction": 6.39,
+    "value": "13 billion dollar shortfall ft reports"
+  },
+  {
+    "start": 702.74,
+    "duraction": 4.02,
+    "value": "according to the report of the so-called"
+  },
+  {
+    "start": 703.97,
+    "duraction": 4.59,
+    "value": "working group the Treasury's single cash"
+  },
+  {
+    "start": 706.76,
+    "duraction": 4.65,
+    "value": "account and government development bank"
+  },
+  {
+    "start": 708.56,
+    "duraction": 4.59,
+    "value": "would exhaust available liquidity before"
+  },
+  {
+    "start": 711.41,
+    "duraction": 4.74,
+    "value": "the end of the year creating a cash"
+  },
+  {
+    "start": 713.15,
+    "duraction": 6.63,
+    "value": "shortfall in November or December in"
+  },
+  {
+    "start": 716.15,
+    "duraction": 7.67,
+    "value": "other words Puerto Rico is exactly like"
+  },
+  {
+    "start": 719.78,
+    "duraction": 7.74,
+    "value": "Greece the only differences Puerto Rico"
+  },
+  {
+    "start": 723.82,
+    "duraction": 6.76,
+    "value": "doesn't have any negotiating leverage to"
+  },
+  {
+    "start": 727.52,
+    "duraction": 6.27,
+    "value": "threaten leaving the dollar I mean"
+  },
+  {
+    "start": 730.58,
+    "duraction": 7.89,
+    "value": "there's nothing there and the government"
+  },
+  {
+    "start": 733.79,
+    "duraction": 9.33,
+    "value": "can't bail out puerto rico so we have a"
+  },
+  {
+    "start": 738.47,
+    "duraction": 5.58,
+    "value": "problem Puerto Rico is going to default"
+  },
+  {
+    "start": 743.12,
+    "duraction": 3.18,
+    "value": "of course they're going to call it a"
+  },
+  {
+    "start": 744.05,
+    "duraction": 4.41,
+    "value": "payment moratorium and then going to say"
+  },
+  {
+    "start": 746.3,
+    "duraction": 3.57,
+    "value": "no no no one defaulted we don't have to"
+  },
+  {
+    "start": 748.46,
+    "duraction": 3.42,
+    "value": "make the credit default swap payments"
+  },
+  {
+    "start": 749.87,
+    "duraction": 5.16,
+    "value": "the derivatives are okay everything is"
+  },
+  {
+    "start": 751.88,
+    "duraction": 5.15,
+    "value": "fine look over there we're pushing the"
+  },
+  {
+    "start": 755.03,
+    "duraction": 7.98,
+    "value": "stock market up at least we're trying to"
+  },
+  {
+    "start": 757.03,
+    "duraction": 8.38,
+    "value": "and when we look at this market we see"
+  },
+  {
+    "start": 763.01,
+    "duraction": 7.26,
+    "value": "it is completely fluctuating up and down"
+  },
+  {
+    "start": 765.41,
+    "duraction": 7.32,
+    "value": "like crazy I mean Japan shot their mark"
+  },
+  {
+    "start": 770.27,
+    "duraction": 7.32,
+    "value": "it up a thousand points and then it"
+  },
+  {
+    "start": 772.73,
+    "duraction": 8.55,
+    "value": "dropped almost as much I mean these are"
+  },
+  {
+    "start": 777.59,
+    "duraction": 6.96,
+    "value": "huge swings but we experienced all this"
+  },
+  {
+    "start": 781.28,
+    "duraction": 7.53,
+    "value": "before this is nothing new this is"
+  },
+  {
+    "start": 784.55,
+    "duraction": 8.64,
+    "value": "exactly what you see when we're moving"
+  },
+  {
+    "start": 788.81,
+    "duraction": 7.2,
+    "value": "into a collapsin back in two thousand"
+  },
+  {
+    "start": 793.19,
+    "duraction": 4.56,
+    "value": "eight nine of the 20 largest single-day"
+  },
+  {
+    "start": 796.01,
+    "duraction": 5.4,
+    "value": "declines in the stock market history"
+  },
+  {
+    "start": 797.75,
+    "duraction": 5.52,
+    "value": "happened that year 9 of the 20 largest"
+  },
+  {
+    "start": 801.41,
+    "duraction": 5.85,
+    "value": "single-day increases in the stock market"
+  },
+  {
+    "start": 803.27,
+    "duraction": 8.85,
+    "value": "history also happened in that year we"
+  },
+  {
+    "start": 807.26,
+    "duraction": 6.51,
+    "value": "are seeing the same thing we are"
+  },
+  {
+    "start": 812.12,
+    "duraction": 5.94,
+    "value": "definitely moving into another great"
+  },
+  {
+    "start": 813.77,
+    "duraction": 6.89,
+    "value": "financial crisis and we're going to see"
+  },
+  {
+    "start": 818.06,
+    "duraction": 7.68,
+    "value": "these massive ups and massive downs"
+  },
+  {
+    "start": 820.66,
+    "duraction": 6.53,
+    "value": "warning signs red flags everywhere we've"
+  },
+  {
+    "start": 825.74,
+    "duraction": 3.42,
+    "value": "seen this before and of course"
+  },
+  {
+    "start": 827.19,
+    "duraction": 4.77,
+    "value": "we already had Jack Lew the Treasury"
+  },
+  {
+    "start": 829.16,
+    "duraction": 4.72,
+    "value": "head out there saying the economy is"
+  },
+  {
+    "start": 831.96,
+    "duraction": 4.53,
+    "value": "absolutely fine Obama coming out saying"
+  },
+  {
+    "start": 833.88,
+    "duraction": 7.14,
+    "value": "yes this is great for the economy this"
+  },
+  {
+    "start": 836.49,
+    "duraction": 7.32,
+    "value": "means we're recovering but we know this"
+  },
+  {
+    "start": 841.02,
+    "duraction": 7.05,
+    "value": "is not a recovery this is a complete and"
+  },
+  {
+    "start": 843.81,
+    "duraction": 5.79,
+    "value": "utter collapse of the system now we're"
+  },
+  {
+    "start": 848.07,
+    "duraction": 4.38,
+    "value": "going to see this up-and-down movement"
+  },
+  {
+    "start": 849.6,
+    "duraction": 5.67,
+    "value": "unless something else occurs like a"
+  },
+  {
+    "start": 852.45,
+    "duraction": 5.88,
+    "value": "Black Swan event maybe a natural"
+  },
+  {
+    "start": 855.27,
+    "duraction": 8.01,
+    "value": "disaster or maybe more like a terror"
+  },
+  {
+    "start": 858.33,
+    "duraction": 6.48,
+    "value": "attack or war this way they can blame"
+  },
+  {
+    "start": 863.28,
+    "duraction": 4.71,
+    "value": "this on something else besides"
+  },
+  {
+    "start": 864.81,
+    "duraction": 7.47,
+    "value": "themselves because again they do not"
+  },
+  {
+    "start": 867.99,
+    "duraction": 5.67,
+    "value": "want to be blamed for any of this this"
+  },
+  {
+    "start": 872.28,
+    "duraction": 5.25,
+    "value": "is why they're already pointing the"
+  },
+  {
+    "start": 873.66,
+    "duraction": 6.27,
+    "value": "finger at China they'll point the finger"
+  },
+  {
+    "start": 877.53,
+    "duraction": 4.62,
+    "value": "at Russia North Korea they don't care"
+  },
+  {
+    "start": 879.93,
+    "duraction": 5.67,
+    "value": "who they're pointing at as long it's not"
+  },
+  {
+    "start": 882.15,
+    "duraction": 5.73,
+    "value": "as long as it's not them so we are"
+  },
+  {
+    "start": 885.6,
+    "duraction": 7.29,
+    "value": "definitely seeing this whole thing start"
+  },
+  {
+    "start": 887.88,
+    "duraction": 6.81,
+    "value": "to fall apart right now now coming from"
+  },
+  {
+    "start": 892.89,
+    "duraction": 5.58,
+    "value": "the World Bank the chief economist there"
+  },
+  {
+    "start": 894.69,
+    "duraction": 6.45,
+    "value": "he's putting out a warning that the"
+  },
+  {
+    "start": 898.47,
+    "duraction": 6.06,
+    "value": "Federal Reserve will cause panic and"
+  },
+  {
+    "start": 901.14,
+    "duraction": 5.64,
+    "value": "turmoil if it raises interest rates and"
+  },
+  {
+    "start": 904.53,
+    "duraction": 4.17,
+    "value": "of course we understand that the"
+  },
+  {
+    "start": 906.78,
+    "duraction": 4.08,
+    "value": "emerging markets they'll be completely"
+  },
+  {
+    "start": 908.7,
+    "duraction": 4.13,
+    "value": "destroyed we know here in the United"
+  },
+  {
+    "start": 910.86,
+    "duraction": 5.49,
+    "value": "States things will completely"
+  },
+  {
+    "start": 912.83,
+    "duraction": 8.76,
+    "value": "deteriorate very very quickly it will"
+  },
+  {
+    "start": 916.35,
+    "duraction": 8.9,
+    "value": "not be able to hold and we know this and"
+  },
+  {
+    "start": 921.59,
+    "duraction": 6.85,
+    "value": "eventually what's going to happen is"
+  },
+  {
+    "start": 925.25,
+    "duraction": 5.86,
+    "value": "this whole system is going to be coming"
+  },
+  {
+    "start": 928.44,
+    "duraction": 5.37,
+    "value": "down it there's no other way to look at"
+  },
+  {
+    "start": 931.11,
+    "duraction": 3.87,
+    "value": "this yes they're going to try pumping it"
+  },
+  {
+    "start": 933.81,
+    "duraction": 3.68,
+    "value": "up they're going to do their best"
+  },
+  {
+    "start": 934.98,
+    "duraction": 5.07,
+    "value": "they're going to do whatever it takes"
+  },
+  {
+    "start": 937.49,
+    "duraction": 3.79,
+    "value": "the high-frequency traders the plunge"
+  },
+  {
+    "start": 940.05,
+    "duraction": 4.26,
+    "value": "protection team I mean look at the"
+  },
+  {
+    "start": 941.28,
+    "duraction": 6.0,
+    "value": "market today it barely finished where it"
+  },
+  {
+    "start": 944.31,
+    "duraction": 7.38,
+    "value": "was today I mean yesterday it was"
+  },
+  {
+    "start": 947.28,
+    "duraction": 6.0,
+    "value": "completely down today they got it to 77"
+  },
+  {
+    "start": 951.69,
+    "duraction": 7.83,
+    "value": "points but when we look at Europe and"
+  },
+  {
+    "start": 953.28,
+    "duraction": 7.5,
+    "value": "Asia they were down deep eventually"
+  },
+  {
+    "start": 959.52,
+    "duraction": 3.0,
+    "value": "they'll going to lose control"
+  },
+  {
+    "start": 960.78,
+    "duraction": 7.23,
+    "value": "eventually they will not be able to keep"
+  },
+  {
+    "start": 962.52,
+    "duraction": 6.84,
+    "value": "up with the selling and this is why each"
+  },
+  {
+    "start": 968.01,
+    "duraction": 4.5,
+    "value": "and every one of you needs to be"
+  },
+  {
+    "start": 969.36,
+    "duraction": 6.54,
+    "value": "prepared needs to be ready you don't"
+  },
+  {
+    "start": 972.51,
+    "duraction": 6.18,
+    "value": "want to go out at the last minute to get"
+  },
+  {
+    "start": 975.9,
+    "duraction": 5.73,
+    "value": "your supplies not a good time to do it"
+  },
+  {
+    "start": 978.69,
+    "duraction": 5.16,
+    "value": "because you and about I don't know a"
+  },
+  {
+    "start": 981.63,
+    "duraction": 5.52,
+    "value": "couple million people are going to be"
+  },
+  {
+    "start": 983.85,
+    "duraction": 6.63,
+    "value": "saying what is going on here why is this"
+  },
+  {
+    "start": 987.15,
+    "duraction": 5.1,
+    "value": "happening I better go out to the market"
+  },
+  {
+    "start": 990.48,
+    "duraction": 3.2,
+    "value": "and get my supplies it's almost like"
+  },
+  {
+    "start": 992.25,
+    "duraction": 5.76,
+    "value": "when a storms coming like a hurricane"
+  },
+  {
+    "start": 993.68,
+    "duraction": 5.92,
+    "value": "all of a sudden people run in and they"
+  },
+  {
+    "start": 998.01,
+    "duraction": 3.9,
+    "value": "buy as much water as they possibly can"
+  },
+  {
+    "start": 999.6,
+    "duraction": 3.75,
+    "value": "the shelves are completely empty they"
+  },
+  {
+    "start": 1001.91,
+    "duraction": 4.53,
+    "value": "buy batteries those shelves are"
+  },
+  {
+    "start": 1003.35,
+    "duraction": 4.59,
+    "value": "completely empty they buy milk everyone"
+  },
+  {
+    "start": 1006.44,
+    "duraction": 4.41,
+    "value": "buys milk when there's a disaster coming"
+  },
+  {
+    "start": 1007.94,
+    "duraction": 7.56,
+    "value": "they buy tons of milk that is completely"
+  },
+  {
+    "start": 1010.85,
+    "duraction": 6.56,
+    "value": "gone the same things going to happen and"
+  },
+  {
+    "start": 1015.5,
+    "duraction": 5.04,
+    "value": "you don't want to be in that situation"
+  },
+  {
+    "start": 1017.41,
+    "duraction": 7.93,
+    "value": "this is why you need to continually prep"
+  },
+  {
+    "start": 1020.54,
+    "duraction": 9.24,
+    "value": "I mean look how people get when Walmart"
+  },
+  {
+    "start": 1025.34,
+    "duraction": 8.73,
+    "value": "during black friday they put something"
+  },
+  {
+    "start": 1029.78,
+    "duraction": 6.9,
+    "value": "on sale people have no problem pushing"
+  },
+  {
+    "start": 1034.07,
+    "duraction": 5.25,
+    "value": "people out of the way and trampling over"
+  },
+  {
+    "start": 1036.68,
+    "duraction": 7.29,
+    "value": "them just to get what that ridiculous"
+  },
+  {
+    "start": 1039.32,
+    "duraction": 7.11,
+    "value": "DVD player the HDTV or the computer so"
+  },
+  {
+    "start": 1043.97,
+    "duraction": 4.77,
+    "value": "they have no problem hurting someone to"
+  },
+  {
+    "start": 1046.43,
+    "duraction": 5.61,
+    "value": "get that product what are they going to"
+  },
+  {
+    "start": 1048.74,
+    "duraction": 6.72,
+    "value": "do when they need food or water and"
+  },
+  {
+    "start": 1052.04,
+    "duraction": 4.5,
+    "value": "other supplies for their family do you"
+  },
+  {
+    "start": 1055.46,
+    "duraction": 2.73,
+    "value": "think they're going to be up walking"
+  },
+  {
+    "start": 1056.54,
+    "duraction": 3.27,
+    "value": "down the aisle go and excuse me I just"
+  },
+  {
+    "start": 1058.19,
+    "duraction": 5.37,
+    "value": "want to reach over and get that case of"
+  },
+  {
+    "start": 1059.81,
+    "duraction": 7.68,
+    "value": "water no they're gonna grab it shove you"
+  },
+  {
+    "start": 1063.56,
+    "duraction": 8.97,
+    "value": "down and run and you don't want to be in"
+  },
+  {
+    "start": 1067.49,
+    "duraction": 8.37,
+    "value": "that situation not at all and this is"
+  },
+  {
+    "start": 1072.53,
+    "duraction": 5.58,
+    "value": "why you need to stock up if you haven't"
+  },
+  {
+    "start": 1075.86,
+    "duraction": 4.29,
+    "value": "stocked up and you want to start you can"
+  },
+  {
+    "start": 1078.11,
+    "duraction": 5.43,
+    "value": "go to life reliance com they have food"
+  },
+  {
+    "start": 1080.15,
+    "duraction": 5.82,
+    "value": "they have prepackaged stuff seeds bug"
+  },
+  {
+    "start": 1083.54,
+    "duraction": 6.15,
+    "value": "out bags water water filtration systems"
+  },
+  {
+    "start": 1085.97,
+    "duraction": 7.66,
+    "value": "you name it they have it if you're going"
+  },
+  {
+    "start": 1089.69,
+    "duraction": 6.64,
+    "value": "to sams club bjs the supermarket amazon"
+  },
+  {
+    "start": 1093.63,
+    "duraction": 8.69,
+    "value": "and this is your preference continually"
+  },
+  {
+    "start": 1096.33,
+    "duraction": 8.28,
+    "value": "stock up what you need do not stop even"
+  },
+  {
+    "start": 1102.32,
+    "duraction": 4.72,
+    "value": "if the corporate media tells you"
+  },
+  {
+    "start": 1104.61,
+    "duraction": 7.8,
+    "value": "everything is fine I wouldn't believe"
+  },
+  {
+    "start": 1107.04,
+    "duraction": 10.08,
+    "value": "them I certainly don't and we all need"
+  },
+  {
+    "start": 1112.41,
+    "duraction": 7.5,
+    "value": "to continue stalking now at this point"
+  },
+  {
+    "start": 1117.12,
+    "duraction": 5.4,
+    "value": "everyone realizes how I feel about"
+  },
+  {
+    "start": 1119.91,
+    "duraction": 4.56,
+    "value": "Obamacare I never thought it was a"
+  },
+  {
+    "start": 1122.52,
+    "duraction": 5.16,
+    "value": "positive for the people it was a benefit"
+  },
+  {
+    "start": 1124.47,
+    "duraction": 6.83,
+    "value": "for the people and we're starting to see"
+  },
+  {
+    "start": 1127.68,
+    "duraction": 6.72,
+    "value": "that the taxes and the penalties are"
+  },
+  {
+    "start": 1131.3,
+    "duraction": 6.22,
+    "value": "really now out way out weighing the"
+  },
+  {
+    "start": 1134.4,
+    "duraction": 6.54,
+    "value": "benefits of health insurance because"
+  },
+  {
+    "start": 1137.52,
+    "duraction": 5.22,
+    "value": "when a government is saying this is for"
+  },
+  {
+    "start": 1140.94,
+    "duraction": 4.62,
+    "value": "the people then it should be for the"
+  },
+  {
+    "start": 1142.74,
+    "duraction": 5.73,
+    "value": "people it shouldn't be with other things"
+  },
+  {
+    "start": 1145.56,
+    "duraction": 4.5,
+    "value": "attached to it if you truly wanted to"
+  },
+  {
+    "start": 1148.47,
+    "duraction": 3.51,
+    "value": "give health insurance then just give"
+  },
+  {
+    "start": 1150.06,
+    "duraction": 4.73,
+    "value": "health insurance we don't need penalties"
+  },
+  {
+    "start": 1151.98,
+    "duraction": 6.0,
+    "value": "because if it's that good we'll take it"
+  },
+  {
+    "start": 1154.79,
+    "duraction": 6.04,
+    "value": "but when it's terrible and not a benefit"
+  },
+  {
+    "start": 1157.98,
+    "duraction": 3.99,
+    "value": "to the people we're not going to take it"
+  },
+  {
+    "start": 1160.83,
+    "duraction": 4.11,
+    "value": "and they knew this this is why they"
+  },
+  {
+    "start": 1161.97,
+    "duraction": 4.95,
+    "value": "needed taxes the penalty you name it"
+  },
+  {
+    "start": 1164.94,
+    "duraction": 4.56,
+    "value": "they had to put it in there to force"
+  },
+  {
+    "start": 1166.92,
+    "duraction": 4.5,
+    "value": "people into this and we're seeing the"
+  },
+  {
+    "start": 1169.5,
+    "duraction": 5.94,
+    "value": "rates continually go up and something"
+  },
+  {
+    "start": 1171.42,
+    "duraction": 7.86,
+    "value": "you might not know twenty two percent of"
+  },
+  {
+    "start": 1175.44,
+    "duraction": 6.63,
+    "value": "Obama care enrollees right now drop"
+  },
+  {
+    "start": 1179.28,
+    "duraction": 6.66,
+    "value": "their coverage this year because they"
+  },
+  {
+    "start": 1182.07,
+    "duraction": 8.79,
+    "value": "got their bills and they said whoa this"
+  },
+  {
+    "start": 1185.94,
+    "duraction": 8.94,
+    "value": "is to excite a penalty I mean there are"
+  },
+  {
+    "start": 1190.86,
+    "duraction": 7.08,
+    "value": "other reasons why people dropped one of"
+  },
+  {
+    "start": 1194.88,
+    "duraction": 4.68,
+    "value": "them would be about half a million"
+  },
+  {
+    "start": 1197.94,
+    "duraction": 4.92,
+    "value": "people who enrolled they couldn't prove"
+  },
+  {
+    "start": 1199.56,
+    "duraction": 6.6,
+    "value": "their citizenship and right now"
+  },
+  {
+    "start": 1202.86,
+    "duraction": 7.62,
+    "value": "non-citizens are prohibited from"
+  },
+  {
+    "start": 1206.16,
+    "duraction": 7.29,
+    "value": "purchasing insurance so we have a mixed"
+  },
+  {
+    "start": 1210.48,
+    "duraction": 5.64,
+    "value": "bag here of why people are dropping the"
+  },
+  {
+    "start": 1213.45,
+    "duraction": 4.17,
+    "value": "health insurance and more people are"
+  },
+  {
+    "start": 1216.12,
+    "duraction": 3.6,
+    "value": "going to drop because as we know and"
+  },
+  {
+    "start": 1217.62,
+    "duraction": 6.84,
+    "value": "what we talked about is these premiums"
+  },
+  {
+    "start": 1219.72,
+    "duraction": 6.36,
+    "value": "are going to skyrocket and the benefit"
+  },
+  {
+    "start": 1224.46,
+    "duraction": 4.29,
+    "value": "is not the"
+  },
+  {
+    "start": 1226.08,
+    "duraction": 5.099,
+    "value": "they're the taxes are the penalties"
+  },
+  {
+    "start": 1228.75,
+    "duraction": 4.649,
+    "value": "which is really the taxes are all there"
+  },
+  {
+    "start": 1231.179,
+    "duraction": 10.921,
+    "value": "the penalties for the corporations are"
+  },
+  {
+    "start": 1233.399,
+    "duraction": 10.941,
+    "value": "there but the benefits really aren't so"
+  },
+  {
+    "start": 1242.1,
+    "duraction": 7.189,
+    "value": "we can see at this point in time that"
+  },
+  {
+    "start": 1244.34,
+    "duraction": 7.27,
+    "value": "this was definitely not for the people"
+  },
+  {
+    "start": 1249.289,
+    "duraction": 4.811,
+    "value": "listen everyone thanks a lot for"
+  },
+  {
+    "start": 1251.61,
+    "duraction": 5.9,
+    "value": "listening be well be safe and especially"
+  },
+  {
+    "start": 1254.1,
+    "duraction": 3.41,
+    "value": "be prepared thanks a lot"
+  },
+  {
+    "start": 1276.13,
+    "duraction": 2.06,
+    "value": "you"
+  }
+]

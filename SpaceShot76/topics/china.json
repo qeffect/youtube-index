@@ -1,0 +1,3447 @@
+{
+  "indexed": "_-tnEOuY44w,_0wPPTxMjjo,_2Fk8FU1xbk,_4RwHZb9_PA,_G_hcKUWhf4,_hQM9Ddf6Ho,_ldIMw-SPw0,_OAMEAuRc0E,_OshCG9SNpU,_Qn-Y81PD0I,_qo0lW53uNc,_W3h-RuNK1c,_y08t0-Kul8,_yEtqIDVuLg,-2iyGGoLxEs,-6O-Uw_C7SM,-9sQzYO6uO8,-BJ2TOmqBNM,-C6AID7hb6g,-CQjD6FjO14,-EB6aP-QKME,-ewUXSK6_1M,-fZrlftujAQ,-jzE8UnmpJg,-lY_U-haiG4,-LzcwUA1fWQ,-t4etiU5sgk,-tNvowSC3V8,-uo4_SzSMoI,-WO8P0r86HE,-XALeLZm2MI,-XeQxtgwwl4,-Z2g2yhP7kA,0-XI67-YZpc,06_KHnpD7G8,0CCewULy8GA,0Dv_ps_4dHw,0LPBblPTXHk,0s9V0iQmJ_M,0vbtmE6Lef0,0wCDGLhtROs,135fiJ3kuq8,13RlARBS1VU,18GHu3BC0cY,1CRk10IKzbA,1ej-XIDp0kY,1iK_oT2Qw8E,1kTNLU3Jiz4,1L2dyq17mA0,1lvuw_IJ-qc,1MZAvXjciLg,1NjJwaKIup0,1UCPjVCqRPA,1Xe4qxL0ZK4,1z8NEmTk3xM,25DiuvxURwI,28Ec4Fgp_08,2abaVibjrBU,2BJBfTIaULs,2Kr3Dye0nqw,2McXsEA5S88,2P4jZNAi4p0,2sXd9lKGjF0,2tmmhGN0G7c,2u_0oOHn3cc,2Uskig4HZ54,2vDAKqjbt9k,2YJOWqy25xU,3-4nPSO-BxM,3-5xzopjz7Q,323zMbxMQWQ,34L9V7Gc9_I,3E5xPRJ6doY,3FSxcPxdxzc,3gu5UliwPJ0,3huZuddL6zQ,3LWJQCE0NY8,3O29kMXvRKc,3q6JtBAvjHk,3qh_BUO5oy4,3SCH1DeLwv4,3WQRlcS37VE,3XJOOD7sOMc,4d5S6uzT7ks,4fPYYyoPxLA,4LqGCb0nh-Y,4qUGwQAO7ic,4qZfqvdYehg,4WM32_p5NZI,4zVdTluDrD8,51iINaAkefs,57oztiaMydA,5aYW1IN7vi0,5Ck-fsB8Q_U,5gPcHDIwkyA,5kQBp7OM6dg,5NBJ12AkJns,5nV3vp4B_ow,5NyzM2zIPes,5pMOgATYg-c,5vPhgtoigFs,5xYb6J66_LU,6_2izcUsyrQ,6-pY3oARgQk,6CSmW0EJSgY,6dKqBAta0x4,6HePdAjoYQQ,6mQIxm00H8M,6MRqq5U_VS8,6sj8lf8pJO8,6uFBMOwZKGo,6uKolDWoCBE,6WOv1O2Z_9U,6yrkVT-dM-Q,7-GGvpafPTc,70dDv2y0glc,7CK6T90Mgy8,7ckUpCzidOA,7hGuJjouBto,7MrP2pNvhsI,7P4bVQlGURM,7qWN-KY9CbI,7Rnp47Qi8l8,827Sd1G0HPo,84O62FZOdrI,86n0EMbRr3M,8At1sYv76gM,8D9QWIy7Nyk,8HGBJmVNfRU,8jdzDntzOjo,8rUGX4_84ek,8SLd0KJoiKg,8TxM-MAPhe8,8u0N4Ih1nBA,8UnzsP-6LyU,8YFY8Or8m7c,965rRK4RWHk,9ln9zFZvXs4,9lr00PpSxXE,9mfW16YxL3U,9othBV0EKh8,9OvOOHdNr-w,9YEBZGETgDI,A_q9loFp_yE,a-CAZE9SbiU,A-eNCnX290A,a4QNEfYYmOQ,a5IzBF25Tj0,a8-7B3NdLT8,A8rW-Jm59zA,AamTwoNyBuw,acI59qHys3k,AHAriy9a5qk,Ahp1ZWfmJzw,AhzHP5aEUHo,aL95wyL2Nno,alB7IdYFoBM,AMxJAFsBR8Y,aolzsrFMuXo,aQX9OR9uJtA,AreJ43v82jM,aTgdbr0RZnU,aVDs9iQ0Jm4,AvitG7krXmI,AvJNKjbB5Gk,AWlDjsuvegI,awxXcSm8kOM,axHwWgdMBDM,AxZQ1B58Mhs,ay2sBCw3H1c,aZ6ftibSF6M,b5IGFGNCz7k,ba_itdPbtfY,BbCgNTo63ig,bHgnXTF3F-Q,Bng4OrgNzSw,BnjNJpdrhvg,BpACk9-P94M,BqVOJIE8f3M,BvBYBxwRNU8,BVosPouGqYw,bwsT5IsAGVE,bX18mBXJBMA,bxMEFbSDYD8,BXPH_yc4SIw,c_qd3M0g1mI,C3LnwjLf43M,c3zKX-0J_Xw,C9Q2lpYkchM,CfISqraufaE,CGHH33l1s2g,cmj-73z3RoQ,cogyNOVuTf4,CPwsC1JSknk,CRKu4oKBjLE,ct8Lnf3AvAw,ctaiPYR6ttk,ctWPdhQ40q8,CU8XyMTvAyQ,cXh0mwM2f28,CYXzhK5NCm0,cZ0p8JfpMa0,CzhfhzlcR5E,d_mnryTta64,D3wKX57FniM,D6N4IAv0PtA,d853bKYShMY,daO3qCnHZwE,DdWglthG9o0,dEnpchD0nl8,DfRLhVYQ54o,DH_4-LejBsY,Dkl4cq28gAw,DKPKj1sseNo,dM7iVM7D3Zc,dNHBSVXukH8,Dq4lP7VOOdA,ds-la4lNg-I,Ds0QpX6SUyU,dS3ubI47nZ4,DWDL5lHxI3U,Dwj7Lu58Zhc,dxcsoemOuJc,DYcjeYgkXOY,DZk4Ryo-hZA,dZkRBsyl2Do,E-_VAE0DGl4,e4aVHRbw4F4,EDHOCwVFMsI,EdXZTbHTCOg,EFCrLOl1JOs,EfpRJf5_h-s,eg32_J6VcY4,Ej0d9QRlGbs,ek3hyvqmmVE,EK8UqyjddIQ,EMLuLIE6rd4,eqtoBrJvIs8,eqv3b3fryLM,ETwGW9WSg4s,EV5DgL5JW2k,EVlvp7NT7Z8,EvO7Dkp8pjM,EWd3dvmJ9Qg,F_SsV7hLmRk,F57JWrkZS1I,F9eRvDnk8UU,faMcO2QNeoo,FDymSJmMgAo,fE_SHtfWPPc,FFiBOIoE4RQ,fhbydy18DwA,Fjm284ukOdU,fjRRhcyM20Y,fjsyJDEWRrE,fjUDFb5W-oE,fk2ppQfB_7o,fSKqUHvxB2s,FSOYILVQ9Uo,fuDgdt7tolU,fvsqg6OhqdA,fwTMg5XRc7M,FxovRRLjYIo,fyR3g4UvvtE,G9vIpCbj9J0,gazd0GNSADg,gbz5P5cQhXI,GbzkeijF6jI,gfIp6kBozG8,GgWd74zCSSc,gHlzxRULGMk,gI51l6Wh3Yk,gIt9yrUSDao,GJceEhZ4pJY,GMVz0QyQYxM,GNoMu2tYzu4,GppWaKxBy6s,gqjbHxz-aao,gQyJoGmPKB0,GswLPG3Y-Ok,GVj_wOEPhkc,GvVNIZPpagc,gw7NTDLYZBM,Gwt2xFm0loo,GXkfdi8tJd0,GY-HVyhkwVY,gyu-KR6lN_g,gzUS_FdDBeY,h-UucfDaVkk,H37RxhQm_vA,H46XPd29Bv0,h65eCjixBGk,haLSsJsM7Pw,HAm-X1FyxBg,hcpXvsbEWbE,hCzo3d1lWwE,hEU1mQ2qefM,hgOkTMxqW6s,hJNxGkvhTcQ,Hlnd0h3mV3M,Huo4wOCK2dg,hVo5YhmSvxg,HwfkXQF0S78,Hy6_6-GcpcY,hYFmksb07d0,i_kG99qtXzk,i-_tMOZDkYc,I0dQf0jNtcI,I0OTSHBfcaM,i2OVR_i8MCw,i3J_ofuCq0M,I3rhKJiPcV0,i4cyrrt39MU,IBiyU8RfKkI,iF59Z6IAiUU,IgeUGYmKHnI,iGXfBR_jrAc,im5Dv2nNqj8,iMax5qGzpdA,IpPRL2hv_hk,Irdqtfi1cJk,iRHLnm3z5ok,irKzl9ixCOk,IRReQnEzKJo,iwYcG1yKrrA,j4hiKMfATkg,j55fin9F39A,J6MXY_WIEik,j8tLiy9F3NQ,jAEjyK8R2xk,Jawv5OeHcNE,jCJD4OtVxT0,JdVBAPt7DE4,JH5M8aBGbDY,jJOZODo8iQE,jkFbm5g-CM8,JKp-gk5rcfg,JLFlESy1tGI,jM20EJcS0Ck,jMts3I4Dm0Y,jmzTFedjsRc,JoHtkvjcU6g,JqJT-9QnDX4,jReoknnvXUk,jUY45J7zfzQ,Jvb90xAWgk8,jVl0qH2y-RM,jW96-WGef_A,JXHk43Ug2DA,k_4kW5f71iA,KbneA0K0N24,KcpCRNFTRI8,kEcJKTb5XVs,KEDZQ5XW-qM,KFYT9lZ9bpk,KogmxzL09S4,KpJi0Rv_d1s,kT8he7l3-jg,kue6Nh4SQQ8,KuRzooUC74k,kvBYHiktgrU,Kve5L6tt_YA,KVM6KUrOVvQ,kWwNGy2rC9o,kysCfEmY3co,kZnsG1Lh-_U,l13jZtmN9Ws,L4hhYlRmT7E,L99bHnNivtk,L9iHVWO-gUs,lDJaUL7J8OE,LH21GUrCFlU,lHRqbIp5r80,LkmcI2NRIMs,lKMKTF21Izc,Ll66PRHokQo,LMdBTiuCAmQ,lnISt1u_xfw,LPwKlPNJybM,lREbK2wmUtw,Lt4ZWuQXOMU,lUXxLRmbMZM,lVPANbwla1Q,LwNvdC73xvM,LxmrwJLc9-U,lyVm8IL9agw,M-BcoSZwlxw,m0Q0wjturig,m1rNjyjIvwY,m6DdCQ0YZPs,m7znvs_j8_k,M9z_2C08vO0,MdXPWY7KLdo,MEJjCT8OD1I,mELNZujblCw,MFPvdpl9HYY,mJLK3mS_PUg,mKnIFxEz9j8,MmXG8tasvp8,mqHdtTAJqZ4,MUDnPOu7OQU,Mvu_Tfn3mVA,MWEBNGiL7lo,mxDKhJURX5c,MXOwJVJKF9I,mzD0WsRspB0,n__2EsOFs8s,n_-myZ6nkf0,n734Bpyl2c0,N7dmOThRoCg,N9M7HdiUIKg,NAGmEcfq2U0,nbChzBjreJQ,NbrnyPtVF1A,NBVVn2POPfU,neDSIJscdS8,NhA9zMOZV_8,nhVE68wUjmY,nn9GfBgPdlA,nRJljCpC1zU,O63eWMktkkY,ob2pqqwGzJc,oByMihQhXo8,oEr26PgUaz0,oF5MtUaBlpU,OknuCuFb27Q,OL4lCwtlpns,omVzgMDSzMA,OnAwEzhtW_s,oOmcvPdqGcY,op8EcWf_QnI,oqWCfr0jN3Q,orW_ZHHtF-c,OvgvEHoD_v0,OXGsPf0HW0w,OZA3EvkBHLk,P-AP48CeZcA,p4up4xd6rxM,P9hR-iNR2eE,pbrJ1XxupEg,PbWOmJQtciI,PcWhowZbiX4,Pd42k6l0BOY,peVgkp1gMSA,pGl8QQUXoiM,PgWXixHr8i0,pgZ_c02-7XY,pGz1JhWd-hw,piclzeZJadE,pjCREYAxFCU,PkxlJCoPxtw,pMhedqnnY-I,pn7XxxfmrJk,POOYNiwCiPg,pVncvL_Ns3U,PwmbkeKu7Mc,px1bN6l_Gv4,pyAT8bKb7XU,q_LY8VPchs0,Q4BzmR9UHIQ,Q4ImyzwBy9g,QaaeRCWBqIk,qb3w1OboNvo,qdRYf3N08UY,qe4v8LGob4Y,qkfsoUw_wcw,qmdFYiXPY18,QPN3h2F9EbE,qr_3BOeVgKg,QrBVmjRpJwI,QS98lwr2p2U,Qse6ME4Tfec,QThFVV4NNqg,QwpDTbUsF3E,R12uPqdkkPI,R41Sfh4kBMg,RBHQL96deP4,RblERU2ASro,RBtIMZCG-Oo,RC38ZjyfhkA,Rdq0Hi-_XRo,RDVZSWXkyrU,rJdqcsQ0QP0,rMQCT25EfEs,RrQPki8bI4A,rsavFC1lrtw,RtMZg04mJ2Y,rvNVbjFQH-o,rWW48Wpg5HA,RXfO2VclQGI,rzaDPTTIbhg,rZtPca6s96Y,S1uA3--3ExQ,s3KjT-k31UU,s4qifyO_Ho4,S4ylVMsxOcc,s61iV9hbSRI,sa0om_BBv3A,SbMv9mrXatk,sbtKWPTkyTQ,Sfanj7kgy4g,sIG-J8EARa0,Sk7HnqvW520,smTJcjfSIuo,SpiT4GrgTLs,SS7s22Fnxms,STHwpjP2Uag,SvhpCXCxUfU,SVogkaAV66s,swCSjVRE2bo,sZEDu22LOic,t_9SNDOoHWg,t_iV35zfQI0,T-TtciIe0QA,T6QgUHTZumg,t8lUnjRzmEA,TBKDVUQpVM4,td4eN2xb4Tk,TF52s3GOJFE,Tfk9yg39u9w,TFu3NGQdatM,tIk2zHxCpNA,tk6dQdgVDr0,tKMjx-IaKCU,TmYttL1Y62w,TOeFXMgVkRM,ToxI_8MSPMc,tqILea18Ki8,tsqysbA1Sqo,TTAKyQXMQaM,tUv6KIiNY0A,TVjx2ooENfg,TwH-91D_4cA,tXKoS9V8ydU,Ty2mFF1LB_Q,U_GsF_n_WbQ,U2g7WcwIHHE,U3dsdiae1Bg,u3FYvlb2EiI,U3pocCVZuxM,UBqFWGxhZ20,UcLKjCZhKNg,uIDDTBfsA7Q,ulfINyPBJkk,UOUMoG1AXro,uRKKG5LoYbQ,Us-WzO9pR7Q,utpftrDE2js,uUCkBUzuNio,uVpLuuIxjSw,uwC-LYqe1RA,uXYxNzkUuIw,Uyc7XcOLvSc,uykGoyVB8pM,v_5EKGmNPW4,V-fa3I5dJFQ,V3KIFqANBfU,V6h6opS8FMY,VBIJVUzcqgs,VbUvS3OE47o,vcCJ0CDPkzk,vcHz3dGt-1M,vd39QLgNNH4,vf4cXnF_noc,VFWWzYpJ3vw,VgBeVe-cudA,VKk8ZZmxM68,Vn-bbVdmmDY,Vn6ucpVEWLg,VnBar3klKuM,vO0Voa_Lisw,Vp3fIO4fK8c,vPN_ECcJEho,VQGp5UP7QUk,VrWJhVsCI3E,VstfqsB3kWA,VyhODMtOPjE,W1FejBQxNzQ,W4W0lYqJc68,w85LBpbDyU8,wAdcvMuRPgE,WaG1AHl_-g8,WajmcB3KCbY,WBn0nakKr4I,wbr999AMWgk,wcIWIgRUTy0,wdjECnQZREM,WE2d5fJ_1BM,Wf1KgiaTz9o,WJoq6-kEdxU,wm_ZuIwfmzA,WmocY8qNi1U,WQzdkZp967w,WSkWQskVZIg,wYDsgBWrQIc,WyY8v0ELRPs,WZLyuv5egbw,X-104lYPfPI,x2OGExAn9vw,x4YswNQcnek,X6NEeXNQJzg,x9wG6ZuqJRE,x9zA1a9MS64,Xb08NOyakJQ,XbLNBGWOiy8,xC7cGGC1gLE,xCIWCSaCdmA,XeyZumUcfw4,XG03yPfdf00,XGjq_LrJlJ0,xH_FtMZau6U,XHsPNYQXy1g,XI_3ot9AVRc,XJr7Q4tbrT8,xjtbxj2hGEk,XKffl6CAS9I,XMedk-SpjJU,XNnr9LQN_LI,XO2nK03NahQ,XRyBWFOS1QE,XV9y1gDUVgw,XXhLOXdWdxA,xY_lPkCsAPQ,XZ2Z9CdGc50,Xzbvod8pzjI,XZeIqNQ3kkM,Y_RMMbc6TNo,Y-46yEmK9FQ,Y0BXDzU6kHM,y37qBYWD6Hw,Y3iYk00cX4o,y3SRsQQm9_w,Y4c202or2dc,Y8ABhUh5_Pg,yA5kzWWMyJc,YDYKFLJcXjs,YFR517RuObA,yIYsfr3g_po,YjdAs47casg,ylSWzt4ml3I,yMrbI1KLFx4,YNm2DzdbJ-E,YOnx_oNDwic,YOr_YXfwH8M,yoYvunNGK0E,YRDZYN8n2gE,yuiv2YbQAtQ,yw5DzVosHrI,YwKXFQ6XQXE,ywqkVBuDLww,YxizdmOvN1c,yzH3A2WACUA,Z1r05ISz5Hs,z3hpssm5_1g,Z7G8j3aZvbE,zG5D6Uk3Chg,ZHhi5bP6j30,ZkoOAhaFt-Q,zLZiddgP5tc,znYs-6J5rR4,Zpozrhe5xWk,zpw7Bc07h9Y,ZQK30bEDDpU,ZSOLaD-kbZY,zVdQ0QBwFkE,zw69mTcI9U8,zZ3lGqFFaYI,bUst18PCsRk,JTK8lrosaDI,lcBNIvAc_fE",
+  "topic": "China",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_-tnEOuY44w",
+      "segments": [
+        {
+          "text": "america's secrets and uranium to *china*",
+          "location": 314
+        }
+      ]
+    },
+    {
+      "id": "_2Fk8FU1xbk",
+      "segments": [
+        {
+          "text": "individuals people like in *china*",
+          "location": 1530
+        }
+      ]
+    },
+    {
+      "id": "_4RwHZb9_PA",
+      "segments": [
+        {
+          "text": "travel to *china* pretty early on well i",
+          "location": 149
+        }
+      ]
+    },
+    {
+      "id": "_OAMEAuRc0E",
+      "segments": [
+        {
+          "text": "specifically *china* iran italy",
+          "location": 2053
+        },
+        {
+          "text": "5g set up into those areas like *china*",
+          "location": 2068
+        },
+        {
+          "text": "and *china* had set up iran's",
+          "location": 2075
+        },
+        {
+          "text": "that have went off in *china* you know",
+          "location": 2088
+        }
+      ]
+    },
+    {
+      "id": "_yEtqIDVuLg",
+      "segments": [
+        {
+          "text": "iran posts *china* russia iran fake",
+          "location": 90
+        },
+        {
+          "text": "here iran deal paris accord *china* trade",
+          "location": 118
+        }
+      ]
+    },
+    {
+      "id": "-ewUXSK6_1M",
+      "segments": [
+        {
+          "text": "what he's doing in iran *china* all sorts",
+          "location": 108
+        },
+        {
+          "text": "discussion about ukraine and *china* and",
+          "location": 578
+        }
+      ]
+    },
+    {
+      "id": "-XALeLZm2MI",
+      "segments": [
+        {
+          "text": "recently and this was before the *china*",
+          "location": 102
+        }
+      ]
+    },
+    {
+      "id": "06_KHnpD7G8",
+      "segments": [
+        {
+          "text": "in *china* and maybe even north korea and",
+          "location": 172
+        },
+        {
+          "text": "google eric schmidt north korea *china*",
+          "location": 225
+        }
+      ]
+    },
+    {
+      "id": "135fiJ3kuq8",
+      "segments": [
+        {
+          "text": "copy communist *china* has a list and",
+          "location": 501
+        },
+        {
+          "text": "development between *china* and our",
+          "location": 531
+        },
+        {
+          "text": "the us-*china* governor's collaborations",
+          "location": 546
+        },
+        {
+          "text": "attitudes towards *china* they labeled",
+          "location": 628
+        },
+        {
+          "text": "think you belong someone in *china*",
+          "location": 639
+        },
+        {
+          "text": "with *china* is not just a federal issue",
+          "location": 653
+        },
+        {
+          "text": "this list that *china* has and were they",
+          "location": 715
+        },
+        {
+          "text": "russia *china* and mexico visibility in",
+          "location": 748
+        }
+      ]
+    },
+    {
+      "id": "1ej-XIDp0kY",
+      "segments": [
+        {
+          "text": "geo-located last pic chongqing *china* so",
+          "location": 1213
+        },
+        {
+          "text": "geo-located incheon going *china* eight",
+          "location": 1243
+        },
+        {
+          "text": "that is air *china* so somebody is",
+          "location": 1258
+        },
+        {
+          "text": "it seems that *china* is a greater more",
+          "location": 1275
+        },
+        {
+          "text": "*china* wants to crush us and so many of",
+          "location": 1283
+        },
+        {
+          "text": "*china* there's a youtube link and that's",
+          "location": 1317
+        },
+        {
+          "text": "out all of the things that *china* does to",
+          "location": 1322
+        }
+      ]
+    },
+    {
+      "id": "1iK_oT2Qw8E",
+      "segments": [
+        {
+          "text": "did a tribute to *china* on the fourth of",
+          "location": 236
+        },
+        {
+          "text": "why biden is so soft on *china* oh he has",
+          "location": 2046
+        },
+        {
+          "text": "hunter joe biden so warm towards *china*",
+          "location": 2052
+        },
+        {
+          "text": "shrugged off concerns over the *china*",
+          "location": 2056
+        },
+        {
+          "text": "biden flew aboard air force two to *china*",
+          "location": 2069
+        },
+        {
+          "text": "chinese government's bank of *china* the",
+          "location": 2078
+        },
+        {
+          "text": "favorable to *china* than they are the",
+          "location": 2096
+        },
+        {
+          "text": "billion dollar deal with *china*",
+          "location": 2104
+        }
+      ]
+    },
+    {
+      "id": "1UCPjVCqRPA",
+      "segments": [
+        {
+          "text": "*china* and the companies artificial",
+          "location": 1247
+        },
+        {
+          "text": "in *china* mansoor asked for he's about",
+          "location": 1261
+        },
+        {
+          "text": "google's business engagements in *china*",
+          "location": 1264
+        },
+        {
+          "text": "communist government of *china* mansoura",
+          "location": 1269
+        },
+        {
+          "text": "into *china*",
+          "location": 1308
+        },
+        {
+          "text": "does not have operations in *china* well",
+          "location": 1322
+        },
+        {
+          "text": "an american company and placed in *china*",
+          "location": 1339
+        }
+      ]
+    },
+    {
+      "id": "28Ec4Fgp_08",
+      "segments": [
+        {
+          "text": "international studies *china* australia",
+          "location": 321
+        },
+        {
+          "text": "we were here in *china* we won and if when",
+          "location": 591
+        },
+        {
+          "text": "now he's referencing *china* should have",
+          "location": 1812
+        },
+        {
+          "text": "things *china* never did so italy's got a",
+          "location": 1834
+        },
+        {
+          "text": "directly from *china* rulon they have a",
+          "location": 1843
+        },
+        {
+          "text": "direct flight that comes into *china*",
+          "location": 1846
+        }
+      ]
+    },
+    {
+      "id": "2Kr3Dye0nqw",
+      "segments": [
+        {
+          "text": "*china* yeah so remember he had a",
+          "location": 322
+        },
+        {
+          "text": "but yet he was able to leave *china* and",
+          "location": 330
+        },
+        {
+          "text": "he's working with *china* and the cia what",
+          "location": 346
+        },
+        {
+          "text": "*china* *china* *china* so are they",
+          "location": 713
+        },
+        {
+          "text": "he stopped off in *china* and was led off",
+          "location": 730
+        }
+      ]
+    },
+    {
+      "id": "2P4jZNAi4p0",
+      "segments": [
+        {
+          "text": "*china* in which he brokered a deal they",
+          "location": 2940
+        },
+        {
+          "text": "for *china* the gave *china* access to f-35",
+          "location": 2958
+        },
+        {
+          "text": "technology that gave *china* access to",
+          "location": 2961
+        },
+        {
+          "text": "*china* and the nuclear secrets all that",
+          "location": 2977
+        }
+      ]
+    },
+    {
+      "id": "2sXd9lKGjF0",
+      "segments": [
+        {
+          "text": "*china* and we have this picture here of",
+          "location": 297
+        },
+        {
+          "text": "the flags in *china* now my good friends",
+          "location": 305
+        },
+        {
+          "text": "day of the year in *china* monday october",
+          "location": 319
+        },
+        {
+          "text": "republic of *china* so that's gonna be an",
+          "location": 324
+        },
+        {
+          "text": "southeastern *china*",
+          "location": 383
+        },
+        {
+          "text": "*china* *china* censored search-engine",
+          "location": 472
+        },
+        {
+          "text": "*china* we have to be focused on what we",
+          "location": 480
+        },
+        {
+          "text": "close to launching a product in *china*",
+          "location": 513
+        },
+        {
+          "text": "here *china* and we have a link that's the",
+          "location": 519
+        },
+        {
+          "text": "*china* and what they're doing to us",
+          "location": 526
+        },
+        {
+          "text": "all inside roads to *china* are being",
+          "location": 533
+        },
+        {
+          "text": "*china* and that's the area that miss",
+          "location": 633
+        }
+      ]
+    },
+    {
+      "id": "2tmmhGN0G7c",
+      "segments": [
+        {
+          "text": "into *china* overseeing the launch of the",
+          "location": 287
+        }
+      ]
+    },
+    {
+      "id": "2YJOWqy25xU",
+      "segments": [
+        {
+          "text": "state funded by *china* itself and we have",
+          "location": 1530
+        },
+        {
+          "text": "don't look at *china* *china* *china* his name",
+          "location": 1615
+        }
+      ]
+    },
+    {
+      "id": "3FSxcPxdxzc",
+      "segments": [
+        {
+          "text": "question mark building 8 darpa *china*",
+          "location": 344
+        },
+        {
+          "text": "*china* *china* so supposedly it's facebook",
+          "location": 349
+        },
+        {
+          "text": "building 8 in *china* where they have this",
+          "location": 351
+        },
+        {
+          "text": "falcon 9 *china* hue says explore further",
+          "location": 407
+        },
+        {
+          "text": "picture it says *china* surveillance",
+          "location": 445
+        }
+      ]
+    },
+    {
+      "id": "3huZuddL6zQ",
+      "segments": [
+        {
+          "text": "*china* and india basically going right",
+          "location": 76
+        }
+      ]
+    },
+    {
+      "id": "3O29kMXvRKc",
+      "segments": [
+        {
+          "text": "of guy 1.5 billion dollars from *china*",
+          "location": 1280
+        }
+      ]
+    },
+    {
+      "id": "3XJOOD7sOMc",
+      "segments": [
+        {
+          "text": "next post clowns revealed in *china* slash",
+          "location": 464
+        }
+      ]
+    },
+    {
+      "id": "4d5S6uzT7ks",
+      "segments": [
+        {
+          "text": "know bullet *china* factory well we don't",
+          "location": 236
+        },
+        {
+          "text": "*china* right now",
+          "location": 1151
+        }
+      ]
+    },
+    {
+      "id": "4WM32_p5NZI",
+      "segments": [
+        {
+          "text": "touched on *china* a little bit but we're",
+          "location": 1132
+        },
+        {
+          "text": "hunter biden's deal with *china* his",
+          "location": 1138
+        },
+        {
+          "text": "biden's business dealings in *china* it",
+          "location": 1168
+        },
+        {
+          "text": "government's bank of *china* and it wasn't",
+          "location": 1189
+        },
+        {
+          "text": "government's bank of *china*",
+          "location": 1207
+        },
+        {
+          "text": "dealings with *china* schweitzer reports",
+          "location": 1401
+        },
+        {
+          "text": "and thorton group headed to *china* to",
+          "location": 1492
+        },
+        {
+          "text": "*china* founded an investment fund called",
+          "location": 1549
+        },
+        {
+          "text": "to *china* ba chars website listed",
+          "location": 1558
+        },
+        {
+          "text": "involved with *china*",
+          "location": 1578
+        },
+        {
+          "text": "aviation industry corporation of *china*",
+          "location": 1596
+        }
+      ]
+    },
+    {
+      "id": "57oztiaMydA",
+      "segments": [
+        {
+          "text": "only in ukraine but also in *china*",
+          "location": 190
+        },
+        {
+          "text": "*china* and the 1.5 billion that's that",
+          "location": 312
+        },
+        {
+          "text": "the biden family took out of *china* while",
+          "location": 316
+        },
+        {
+          "text": "*china* didn't give 1.5 billion to his kid",
+          "location": 322
+        },
+        {
+          "text": "from *china* when our vice president when",
+          "location": 349
+        },
+        {
+          "text": "more into *china* remember its it's russia",
+          "location": 434
+        },
+        {
+          "text": "*china* *china* *china* and guys my saturday",
+          "location": 438
+        }
+      ]
+    },
+    {
+      "id": "5Ck-fsB8Q_U",
+      "segments": [
+        {
+          "text": "building a darpa *china* *china* *china* q and",
+          "location": 707
+        },
+        {
+          "text": "*china* regarding facebook we have a link",
+          "location": 723
+        },
+        {
+          "text": "*china* why did *china* some suddenly",
+          "location": 727
+        },
+        {
+          "text": "have not been in *china* for you know ten",
+          "location": 736
+        },
+        {
+          "text": "implemented itself into *china* and they",
+          "location": 751
+        },
+        {
+          "text": "*china* had found out and they ultimately",
+          "location": 757
+        }
+      ]
+    },
+    {
+      "id": "5xYb6J66_LU",
+      "segments": [
+        {
+          "text": "said it maybe russia or *china* or another",
+          "location": 144
+        }
+      ]
+    },
+    {
+      "id": "6yrkVT-dM-Q",
+      "segments": [
+        {
+          "text": "ownership in business connected to *china*",
+          "location": 297
+        },
+        {
+          "text": "ownership in a business in *china* but",
+          "location": 314
+        },
+        {
+          "text": "business relationship in *china* so guys",
+          "location": 327
+        }
+      ]
+    },
+    {
+      "id": "7CK6T90Mgy8",
+      "segments": [
+        {
+          "text": "*china* legend holdings parent company of",
+          "location": 874
+        }
+      ]
+    },
+    {
+      "id": "7ckUpCzidOA",
+      "segments": [
+        {
+          "text": "of *china* party so strung out welcome to",
+          "location": 720
+        },
+        {
+          "text": "*china* party oh knew the silent war",
+          "location": 726
+        },
+        {
+          "text": "ix *china* announces his matt the corona",
+          "location": 1603
+        },
+        {
+          "text": "the first known case outside of *china*",
+          "location": 1619
+        },
+        {
+          "text": "do you terminate potus and *china* trade",
+          "location": 1702
+        },
+        {
+          "text": "*china* mainstream media coverage ooh",
+          "location": 1720
+        },
+        {
+          "text": "ukraine and *china* coverage in the",
+          "location": 1724
+        }
+      ]
+    },
+    {
+      "id": "8SLd0KJoiKg",
+      "segments": [
+        {
+          "text": "pollutions come from *china* and india",
+          "location": 1422
+        },
+        {
+          "text": "their little resolution *china* was",
+          "location": 1435
+        }
+      ]
+    },
+    {
+      "id": "965rRK4RWHk",
+      "segments": [
+        {
+          "text": "reorganize true *china* *china* *china*",
+          "location": 746
+        },
+        {
+          "text": "oh no *china* *china* *china* again open",
+          "location": 751
+        },
+        {
+          "text": "facebook *china* building eight google",
+          "location": 793
+        },
+        {
+          "text": "*china* dragonfly twitter us underscore le",
+          "location": 796
+        },
+        {
+          "text": "won't *china* allow facebook situational",
+          "location": 1607
+        },
+        {
+          "text": "russia why did *china* hkg airport let him",
+          "location": 1832
+        },
+        {
+          "text": "nations yes why did *china* grant access",
+          "location": 1842
+        },
+        {
+          "text": "russia russia russia russia *china* *china*",
+          "location": 1849
+        },
+        {
+          "text": "*china* got all rights now 12:55 and i",
+          "location": 1852
+        }
+      ]
+    },
+    {
+      "id": "AamTwoNyBuw",
+      "segments": [
+        {
+          "text": "japan en *china* en twitter die risico",
+          "location": 635
+        },
+        {
+          "text": "oh familie *china* like and what she saw",
+          "location": 935
+        }
+      ]
+    },
+    {
+      "id": "Ahp1ZWfmJzw",
+      "segments": [
+        {
+          "text": "*china* what are you talking about we've",
+          "location": 2448
+        },
+        {
+          "text": "this huh *china* has closed down its last",
+          "location": 2477
+        }
+      ]
+    },
+    {
+      "id": "AhzHP5aEUHo",
+      "segments": [
+        {
+          "text": "were coming from *china* indeed so they",
+          "location": 2852
+        },
+        {
+          "text": "was not russia you mean it was *china*",
+          "location": 2919
+        },
+        {
+          "text": "it was *china* *china* *china* gee wonder why",
+          "location": 2925
+        },
+        {
+          "text": "from *china* that was arrested for",
+          "location": 2931
+        },
+        {
+          "text": "the attack from *china* were you able to",
+          "location": 3015
+        },
+        {
+          "text": "from the government side of *china* or was",
+          "location": 3020
+        },
+        {
+          "text": "*china* that's where the ip was ip section",
+          "location": 3035
+        },
+        {
+          "text": "come from *china* that part was verified",
+          "location": 3051
+        }
+      ]
+    },
+    {
+      "id": "aL95wyL2Nno",
+      "segments": [
+        {
+          "text": "they were not doing that with *china*",
+          "location": 763
+        },
+        {
+          "text": "*china* according to an internal",
+          "location": 771
+        },
+        {
+          "text": "ongoing work on censored *china* search",
+          "location": 823
+        },
+        {
+          "text": "censored search engine for *china* and say",
+          "location": 834
+        },
+        {
+          "text": "*china* search engine according to three",
+          "location": 863
+        },
+        {
+          "text": "look like in *china* while we've made",
+          "location": 937
+        },
+        {
+          "text": "to roll out in *china* for users of",
+          "location": 1031
+        },
+        {
+          "text": "to that did the fire in *china* cause",
+          "location": 1095
+        }
+      ]
+    },
+    {
+      "id": "aTgdbr0RZnU",
+      "segments": [
+        {
+          "text": "*china* trying to hack into the elections",
+          "location": 1067
+        }
+      ]
+    },
+    {
+      "id": "AvitG7krXmI",
+      "segments": [
+        {
+          "text": "and *china* in addition to several letters",
+          "location": 1080
+        },
+        {
+          "text": "company in *china* based investment firm",
+          "location": 1108
+        },
+        {
+          "text": "ukraine and *china* now this one",
+          "location": 1158
+        },
+        {
+          "text": "entities in *china* and ukraine in this",
+          "location": 1180
+        },
+        {
+          "text": "biden to *china* while in *china*",
+          "location": 1195
+        },
+        {
+          "text": "a quote social meeting after the *china*",
+          "location": 1211
+        },
+        {
+          "text": "aviation industry corporation of *china*",
+          "location": 1223
+        },
+        {
+          "text": "*china* hunter biden also served as a",
+          "location": 1237
+        },
+        {
+          "text": "ukraine and *china* among other countries",
+          "location": 1271
+        },
+        {
+          "text": "in *china* and you would never know about",
+          "location": 1755
+        }
+      ]
+    },
+    {
+      "id": "AxZQ1B58Mhs",
+      "segments": [
+        {
+          "text": "eight *china* now from what i understand",
+          "location": 202
+        },
+        {
+          "text": "in *china* i don't know if there are two",
+          "location": 208
+        },
+        {
+          "text": "as well in the one in the one in *china*",
+          "location": 216
+        }
+      ]
+    },
+    {
+      "id": "ba_itdPbtfY",
+      "segments": [
+        {
+          "text": "russia russia to keep away from *china*",
+          "location": 252
+        },
+        {
+          "text": "*china* *china* all right post 23:54",
+          "location": 254
+        }
+      ]
+    },
+    {
+      "id": "BVosPouGqYw",
+      "segments": [
+        {
+          "text": "timing of potus traveling to *china* and",
+          "location": 1049
+        }
+      ]
+    },
+    {
+      "id": "BXPH_yc4SIw",
+      "segments": [
+        {
+          "text": "*china* wants i mean are we gonna sell",
+          "location": 1898
+        },
+        {
+          "text": "then volume to want them in *china* what",
+          "location": 1910
+        },
+        {
+          "text": "and all that and get it to *china*",
+          "location": 1933
+        },
+        {
+          "text": "*china* and we could offset our trade",
+          "location": 1962
+        },
+        {
+          "text": "much of the mischief related to *china*",
+          "location": 1968
+        },
+        {
+          "text": "have to do with *china* is trying to get",
+          "location": 1970
+        },
+        {
+          "text": "get goods from *china* finish product what",
+          "location": 1979
+        },
+        {
+          "text": "do we got the *china* needs they need oil",
+          "location": 1983
+        },
+        {
+          "text": "offset this trade deficit with *china* we",
+          "location": 2209
+        }
+      ]
+    },
+    {
+      "id": "c_qd3M0g1mI",
+      "segments": [
+        {
+          "text": "security review forced a unit of *china*",
+          "location": 325
+        },
+        {
+          "text": "the agreement in 2012 giving *china*",
+          "location": 354
+        },
+        {
+          "text": "or excuse me ukraine in *china* but also",
+          "location": 1395
+        }
+      ]
+    },
+    {
+      "id": "cmj-73z3RoQ",
+      "segments": [
+        {
+          "text": "everything really made in *china* or if",
+          "location": 1995
+        },
+        {
+          "text": "damage can *china* do two dems what damage",
+          "location": 2072
+        },
+        {
+          "text": "saudi arabia *china* and russia",
+          "location": 2093
+        },
+        {
+          "text": "everything really made in *china*",
+          "location": 2099
+        },
+        {
+          "text": "much russia but at least *china* and iran",
+          "location": 2207
+        },
+        {
+          "text": "prevalent have *china* back in the news",
+          "location": 2212
+        },
+        {
+          "text": "comes out of *china* is always going to be",
+          "location": 2229
+        },
+        {
+          "text": "*china* you know obama's administration",
+          "location": 2245
+        }
+      ]
+    },
+    {
+      "id": "cogyNOVuTf4",
+      "segments": [
+        {
+          "text": "curtail the problem *china* russia iran",
+          "location": 1305
+        }
+      ]
+    },
+    {
+      "id": "cXh0mwM2f28",
+      "segments": [
+        {
+          "text": "for *china* north korea mexico and now i",
+          "location": 437
+        },
+        {
+          "text": "wrong *china* will never pay his tariffs",
+          "location": 444
+        }
+      ]
+    },
+    {
+      "id": "CzhfhzlcR5E",
+      "segments": [
+        {
+          "text": "manufacturing subcontractors in *china*",
+          "location": 781
+        },
+        {
+          "text": "executing this kind of attack *china*",
+          "location": 801
+        },
+        {
+          "text": "army in supermicro *china* china's spies",
+          "location": 823
+        },
+        {
+          "text": "building a dark ax *china* *china* *china*",
+          "location": 870
+        },
+        {
+          "text": "clowns revealed in *china* other 2010 187",
+          "location": 874
+        },
+        {
+          "text": "so building eight and darpa *china* *china*",
+          "location": 926
+        },
+        {
+          "text": "*china* probably with a hub on all this is",
+          "location": 930
+        },
+        {
+          "text": "clowns revealed in *china*",
+          "location": 935
+        },
+        {
+          "text": "were in *china* sold intel hillary rodham",
+          "location": 950
+        }
+      ]
+    },
+    {
+      "id": "D6N4IAv0PtA",
+      "segments": [
+        {
+          "text": "include also dissonant control in *china*",
+          "location": 1635
+        }
+      ]
+    },
+    {
+      "id": "d853bKYShMY",
+      "segments": [
+        {
+          "text": "media *china* known it and known confident",
+          "location": 631
+        }
+      ]
+    },
+    {
+      "id": "DH_4-LejBsY",
+      "segments": [
+        {
+          "text": "roadblock *china* and russia pass-through",
+          "location": 1321
+        }
+      ]
+    },
+    {
+      "id": "DKPKj1sseNo",
+      "segments": [
+        {
+          "text": "*china* and you've got him getting lots of",
+          "location": 1113
+        }
+      ]
+    },
+    {
+      "id": "dM7iVM7D3Zc",
+      "segments": [
+        {
+          "text": "this one's *china* too and and you know",
+          "location": 590
+        },
+        {
+          "text": "about anthony scaramouche ii and *china*",
+          "location": 612
+        },
+        {
+          "text": "*china* deal so it's it's like all these",
+          "location": 617
+        },
+        {
+          "text": "stuff that's happening with *china* and",
+          "location": 728
+        },
+        {
+          "text": "even with the the *china* server stuff",
+          "location": 733
+        }
+      ]
+    },
+    {
+      "id": "dNHBSVXukH8",
+      "segments": [
+        {
+          "text": "people's republic of *china* assistant",
+          "location": 1286
+        },
+        {
+          "text": "officers being targeted by *china* and",
+          "location": 1401
+        },
+        {
+          "text": "promptly got an award back in *china* for",
+          "location": 1788
+        },
+        {
+          "text": "right off to *china* themselves and",
+          "location": 1887
+        }
+      ]
+    },
+    {
+      "id": "dS3ubI47nZ4",
+      "segments": [
+        {
+          "text": "*china* to help them prop up their",
+          "location": 1078
+        },
+        {
+          "text": "literally looking at *china* like a",
+          "location": 1152
+        },
+        {
+          "text": "big problems for *china* and looks like",
+          "location": 1244
+        },
+        {
+          "text": "approach to the to *china* because he",
+          "location": 1261
+        }
+      ]
+    },
+    {
+      "id": "EfpRJf5_h-s",
+      "segments": [
+        {
+          "text": "up by date why is *china* and qatar",
+          "location": 1175
+        },
+        {
+          "text": "from *china* are you kidding me what do we",
+          "location": 1217
+        },
+        {
+          "text": "money from *china* since 2013 i mean if",
+          "location": 1225
+        },
+        {
+          "text": "university and why you why is *china*",
+          "location": 1242
+        },
+        {
+          "text": "contracts from *china* to us universities",
+          "location": 1261
+        },
+        {
+          "text": "mainland *china* in the six and a half",
+          "location": 1273
+        },
+        {
+          "text": "pennsylvania were second and third *china*",
+          "location": 1290
+        },
+        {
+          "text": "to *china* and concealing payments to him",
+          "location": 1318
+        },
+        {
+          "text": "from a chinese university *china* is a",
+          "location": 1320
+        },
+        {
+          "text": "charged in three separate *china* related",
+          "location": 1366
+        },
+        {
+          "text": "republic of *china* dr. charles lieber 60",
+          "location": 1383
+        },
+        {
+          "text": "and conspiracy yee is currently in *china*",
+          "location": 1420
+        },
+        {
+          "text": "biological research to *china* on january",
+          "location": 1436
+        },
+        {
+          "text": "of technology in *china* and was a",
+          "location": 1490
+        },
+        {
+          "text": "and expertise or experience to *china* and",
+          "location": 1525
+        },
+        {
+          "text": "ukraine and *china* and iraq pretty much",
+          "location": 1748
+        }
+      ]
+    },
+    {
+      "id": "eg32_J6VcY4",
+      "segments": [
+        {
+          "text": "*china* if you couldn't tell so we have",
+          "location": 107
+        },
+        {
+          "text": "*china* so are they talking about clinton",
+          "location": 125
+        },
+        {
+          "text": "who so it's *china* guys right remember",
+          "location": 187
+        },
+        {
+          "text": "anything not a peep about *china* do you",
+          "location": 194
+        }
+      ]
+    },
+    {
+      "id": "ek3hyvqmmVE",
+      "segments": [
+        {
+          "text": "look like *china* tried to attack",
+          "location": 1077
+        },
+        {
+          "text": "right no wrong he took air *china*",
+          "location": 1096
+        }
+      ]
+    },
+    {
+      "id": "EK8UqyjddIQ",
+      "segments": [
+        {
+          "text": "forces *china* to sell the",
+          "location": 1067
+        },
+        {
+          "text": "by *china* government so they shut that",
+          "location": 1082
+        },
+        {
+          "text": "import and export trace from *china* /",
+          "location": 1149
+        }
+      ]
+    },
+    {
+      "id": "eqtoBrJvIs8",
+      "segments": [
+        {
+          "text": "so allegations of *china* as well and",
+          "location": 133
+        }
+      ]
+    },
+    {
+      "id": "EvO7Dkp8pjM",
+      "segments": [
+        {
+          "text": "closed *china* access closed russia or",
+          "location": 611
+        }
+      ]
+    },
+    {
+      "id": "F57JWrkZS1I",
+      "segments": [
+        {
+          "text": "roadblock guns roadblock *china*-russia",
+          "location": 320
+        },
+        {
+          "text": "*china* and russia getting their intel",
+          "location": 363
+        }
+      ]
+    },
+    {
+      "id": "Fjm284ukOdU",
+      "segments": [
+        {
+          "text": "was hussein in *china* if you guys aren't",
+          "location": 346
+        },
+        {
+          "text": "right when was hussein in *china* track",
+          "location": 377
+        }
+      ]
+    },
+    {
+      "id": "fjRRhcyM20Y",
+      "segments": [
+        {
+          "text": "*china* virus and the internet is filled",
+          "location": 222
+        },
+        {
+          "text": "yourself how and when did *china* get so",
+          "location": 235
+        },
+        {
+          "text": "*china* whatever other country take a pic",
+          "location": 999
+        }
+      ]
+    },
+    {
+      "id": "FSOYILVQ9Uo",
+      "segments": [
+        {
+          "text": "ukraine *china* i mean this is just a",
+          "location": 342
+        }
+      ]
+    },
+    {
+      "id": "fuDgdt7tolU",
+      "segments": [
+        {
+          "text": "other day *china* came back and said they",
+          "location": 1397
+        },
+        {
+          "text": "hunter did some things in *china* as well",
+          "location": 1408
+        },
+        {
+          "text": "*china* they're not hands and the chinese",
+          "location": 1429
+        },
+        {
+          "text": "find it quite interesting that *china* is",
+          "location": 1598
+        },
+        {
+          "text": "no experience in *china* right he has no",
+          "location": 1619
+        },
+        {
+          "text": "we're talking *china* and actually romania",
+          "location": 1657
+        },
+        {
+          "text": "before you know ukraine and *china* is not",
+          "location": 1665
+        }
+      ]
+    },
+    {
+      "id": "G9vIpCbj9J0",
+      "segments": [
+        {
+          "text": "feinstein and her *china* dealings come on",
+          "location": 621
+        }
+      ]
+    },
+    {
+      "id": "GbzkeijF6jI",
+      "segments": [
+        {
+          "text": "beat in *china* germany france russia",
+          "location": 796
+        }
+      ]
+    },
+    {
+      "id": "gI51l6Wh3Yk",
+      "segments": [
+        {
+          "text": "if *china* if someone else offers you",
+          "location": 276
+        },
+        {
+          "text": "epstein russia *china* mexico saudi arabia",
+          "location": 1182
+        }
+      ]
+    },
+    {
+      "id": "GNoMu2tYzu4",
+      "segments": [
+        {
+          "text": "*china* just announced that that their",
+          "location": 1149
+        },
+        {
+          "text": "terrifying so the next one says *china*",
+          "location": 1159
+        }
+      ]
+    },
+    {
+      "id": "gQyJoGmPKB0",
+      "segments": [
+        {
+          "text": "like *china* to me i think that all the",
+          "location": 106
+        },
+        {
+          "text": "anton says got eyes on someone in *china*",
+          "location": 332
+        }
+      ]
+    },
+    {
+      "id": "GswLPG3Y-Ok",
+      "segments": [
+        {
+          "text": "this guy gets *china* kindergarten ryb",
+          "location": 925
+        }
+      ]
+    },
+    {
+      "id": "GVj_wOEPhkc",
+      "segments": [
+        {
+          "text": "and *china* and cuba and let's look at",
+          "location": 724
+        },
+        {
+          "text": "and *china* i don't know that they would",
+          "location": 995
+        }
+      ]
+    },
+    {
+      "id": "GvVNIZPpagc",
+      "segments": [
+        {
+          "text": "saw *china* do their thing maybe try to",
+          "location": 2762
+        }
+      ]
+    },
+    {
+      "id": "Gwt2xFm0loo",
+      "segments": [
+        {
+          "text": "import-export trace from *china* mexico to",
+          "location": 505
+        },
+        {
+          "text": "from *china* mexico to long beach paul",
+          "location": 690
+        }
+      ]
+    },
+    {
+      "id": "gzUS_FdDBeY",
+      "segments": [
+        {
+          "text": "how did *china* locate primary cia assets",
+          "location": 1486
+        },
+        {
+          "text": "within *china* 187 in the kill box which",
+          "location": 1490
+        },
+        {
+          "text": "and deaths of 20 cia spies in *china* well",
+          "location": 1506
+        },
+        {
+          "text": "with *china* doesn't she but who else do",
+          "location": 1513
+        },
+        {
+          "text": "*china* anybody anybody money buys power",
+          "location": 1518
+        },
+        {
+          "text": "back to a global superpower *china*",
+          "location": 1949
+        },
+        {
+          "text": "reign iran deal paris accord *china* trade",
+          "location": 1985
+        }
+      ]
+    },
+    {
+      "id": "H37RxhQm_vA",
+      "segments": [
+        {
+          "text": "same has *china* sub wash - set up god",
+          "location": 567
+        },
+        {
+          "text": "same has *china* sub wash setup god save",
+          "location": 587
+        },
+        {
+          "text": "parentheses you have same has *china* sub",
+          "location": 626
+        },
+        {
+          "text": "a different way same as *china* sub was so",
+          "location": 635
+        },
+        {
+          "text": "mask ak is the same as the *china* sub was",
+          "location": 664
+        },
+        {
+          "text": "hussein had hacked that *china* sub that",
+          "location": 674
+        }
+      ]
+    },
+    {
+      "id": "H46XPd29Bv0",
+      "segments": [
+        {
+          "text": "work in *china* that directly or",
+          "location": 245
+        }
+      ]
+    },
+    {
+      "id": "HwfkXQF0S78",
+      "segments": [
+        {
+          "text": "this relevant q *china* vietnam",
+          "location": 126
+        },
+        {
+          "text": "korea *china* worldwide guys worldwide and",
+          "location": 144
+        }
+      ]
+    },
+    {
+      "id": "hYFmksb07d0",
+      "segments": [
+        {
+          "text": "coordinate with *china* and south korea on",
+          "location": 1464
+        }
+      ]
+    },
+    {
+      "id": "i_kG99qtXzk",
+      "segments": [
+        {
+          "text": "learning is that *china* chairman shifts",
+          "location": 816
+        }
+      ]
+    },
+    {
+      "id": "I0OTSHBfcaM",
+      "segments": [
+        {
+          "text": "last night from xi jinping of *china* that",
+          "location": 526
+        },
+        {
+          "text": "if it's eric schmidt over in *china* or",
+          "location": 1241
+        }
+      ]
+    },
+    {
+      "id": "i3J_ofuCq0M",
+      "segments": [
+        {
+          "text": "about *china* and some people in *china*",
+          "location": 577
+        },
+        {
+          "text": "in *china* and then of course you've got",
+          "location": 2410
+        },
+        {
+          "text": "in *china* so that was just the first",
+          "location": 2413
+        },
+        {
+          "text": "we just keep coming back to *china* the",
+          "location": 2427
+        },
+        {
+          "text": "to what we saw over *china* and everything",
+          "location": 2435
+        },
+        {
+          "text": "this is all been pointing back to *china*",
+          "location": 2440
+        },
+        {
+          "text": "right back to *china* itself",
+          "location": 2464
+        },
+        {
+          "text": "*china* *china* *china* yep and you know",
+          "location": 2471
+        },
+        {
+          "text": "*china* is a little a little hanky like",
+          "location": 2489
+        }
+      ]
+    },
+    {
+      "id": "i4cyrrt39MU",
+      "segments": [
+        {
+          "text": "did *china* locate primary cia assets",
+          "location": 1299
+        },
+        {
+          "text": "within *china* 187 in the kill box murder",
+          "location": 1301
+        }
+      ]
+    },
+    {
+      "id": "iGXfBR_jrAc",
+      "segments": [
+        {
+          "text": "ukraine and *china* for example that's",
+          "location": 2361
+        },
+        {
+          "text": "*china* was trying to buy this whole big",
+          "location": 2647
+        }
+      ]
+    },
+    {
+      "id": "j8tLiy9F3NQ",
+      "segments": [
+        {
+          "text": "call phase one in the *china* united",
+          "location": 1631
+        }
+      ]
+    },
+    {
+      "id": "Jawv5OeHcNE",
+      "segments": [
+        {
+          "text": "date is important to know possible *china*",
+          "location": 742
+        },
+        {
+          "text": "possible *china* analyzing likelihood of",
+          "location": 749
+        },
+        {
+          "text": "*china* taking steps targeting think the",
+          "location": 754
+        },
+        {
+          "text": "harm potus regarding 2020 possible *china*",
+          "location": 758
+        },
+        {
+          "text": "possible *china* and secure comms with",
+          "location": 772
+        },
+        {
+          "text": "possible *china* put extreme targeting",
+          "location": 779
+        },
+        {
+          "text": "she's also ukraine and *china* connected",
+          "location": 895
+        }
+      ]
+    },
+    {
+      "id": "jM20EJcS0Ck",
+      "segments": [
+        {
+          "text": "*china* some european countries your",
+          "location": 1139
+        },
+        {
+          "text": "*china* hunter hunter cynic rosemont",
+          "location": 2679
+        },
+        {
+          "text": "time now some of the *china* deals happen",
+          "location": 2686
+        },
+        {
+          "text": "also some bigger *china* deals happen",
+          "location": 2692
+        },
+        {
+          "text": "some of *china* dealings with bo and bhr",
+          "location": 2751
+        },
+        {
+          "text": "about what *china* was doing as well i'm",
+          "location": 2792
+        },
+        {
+          "text": "that was sold to *china* that kerry and",
+          "location": 2812
+        },
+        {
+          "text": "the point man in *china* too lucrative",
+          "location": 3138
+        }
+      ]
+    },
+    {
+      "id": "jMts3I4Dm0Y",
+      "segments": [
+        {
+          "text": "getting sent over to *china* does this",
+          "location": 671
+        }
+      ]
+    },
+    {
+      "id": "Jvb90xAWgk8",
+      "segments": [
+        {
+          "text": "doing with hillary's *china* was doing",
+          "location": 1164
+        },
+        {
+          "text": "right there right *china* had it set up so",
+          "location": 1204
+        }
+      ]
+    },
+    {
+      "id": "KbneA0K0N24",
+      "segments": [
+        {
+          "text": "putin and *china* over the next couple",
+          "location": 749
+        },
+        {
+          "text": "heaven yeah it sounds like that *china*",
+          "location": 2721
+        }
+      ]
+    },
+    {
+      "id": "KcpCRNFTRI8",
+      "segments": [
+        {
+          "text": "the *china* deal with mr. biden so it's",
+          "location": 2351
+        }
+      ]
+    },
+    {
+      "id": "KEDZQ5XW-qM",
+      "segments": [
+        {
+          "text": "chongqing *china* for more than a decade",
+          "location": 149
+        },
+        {
+          "text": "tuesday *china*",
+          "location": 214
+        }
+      ]
+    },
+    {
+      "id": "L99bHnNivtk",
+      "segments": [
+        {
+          "text": "blind at lighting late *china* gap",
+          "location": 394
+        }
+      ]
+    },
+    {
+      "id": "Ll66PRHokQo",
+      "segments": [
+        {
+          "text": "cabal worked with *china* zte for the",
+          "location": 1418
+        }
+      ]
+    },
+    {
+      "id": "LMdBTiuCAmQ",
+      "segments": [
+        {
+          "text": "*china* and russia example one they always",
+          "location": 164
+        }
+      ]
+    },
+    {
+      "id": "MdXPWY7KLdo",
+      "segments": [
+        {
+          "text": "provides direct benefit to *china* and",
+          "location": 129
+        },
+        {
+          "text": "the work that google is doing in *china*",
+          "location": 136
+        },
+        {
+          "text": "*china* knowing that there is that",
+          "location": 171
+        },
+        {
+          "text": "work in *china* that directly or",
+          "location": 194
+        },
+        {
+          "text": "previous post i'm working with *china* but",
+          "location": 257
+        },
+        {
+          "text": "*china* *china* *china* assistant attorney",
+          "location": 1182
+        },
+        {
+          "text": "conduit to sell that info to *china*",
+          "location": 1255
+        }
+      ]
+    },
+    {
+      "id": "MEJjCT8OD1I",
+      "segments": [
+        {
+          "text": "the *china* virus and the internet is",
+          "location": 987
+        },
+        {
+          "text": "yourself how and when did *china* get so",
+          "location": 999
+        },
+        {
+          "text": "what *china* really did and you know if we",
+          "location": 1183
+        },
+        {
+          "text": "not *china* as far worse than any of us",
+          "location": 1190
+        },
+        {
+          "text": "up 38 96 do not fear the *china* virus",
+          "location": 1650
+        }
+      ]
+    },
+    {
+      "id": "mzD0WsRspB0",
+      "segments": [
+        {
+          "text": "to ameliorate the gain-of-function *china*",
+          "location": 1162
+        },
+        {
+          "text": "treatment is important *china* released",
+          "location": 1187
+        }
+      ]
+    },
+    {
+      "id": "n_-myZ6nkf0",
+      "segments": [
+        {
+          "text": "over to japan or or *china* from there",
+          "location": 497
+        }
+      ]
+    },
+    {
+      "id": "n734Bpyl2c0",
+      "segments": [
+        {
+          "text": "about india what about *china* and all",
+          "location": 278
+        },
+        {
+          "text": "as *china* increase emissions but pelosi",
+          "location": 292
+        }
+      ]
+    },
+    {
+      "id": "nhVE68wUjmY",
+      "segments": [
+        {
+          "text": "production in manufacturing in *china*",
+          "location": 247
+        },
+        {
+          "text": "sorry out of *china* slows the global",
+          "location": 307
+        },
+        {
+          "text": "brotherhood we have *china* possibly",
+          "location": 571
+        },
+        {
+          "text": "visiting mainland *china* according to",
+          "location": 617
+        },
+        {
+          "text": "enough to test them in *china* let alone",
+          "location": 647
+        },
+        {
+          "text": "of *china* spooking investors and traders",
+          "location": 2470
+        },
+        {
+          "text": "stuff coming from *china* we sell a lot of",
+          "location": 2524
+        },
+        {
+          "text": "stuff to *china* *china* is a large market",
+          "location": 2526
+        }
+      ]
+    },
+    {
+      "id": "nn9GfBgPdlA",
+      "segments": [
+        {
+          "text": "better than *china* well i had changed it",
+          "location": 218
+        }
+      ]
+    },
+    {
+      "id": "nRJljCpC1zU",
+      "segments": [
+        {
+          "text": "queue it appears to be *china* that's it",
+          "location": 103
+        },
+        {
+          "text": "anybody doesn't eat trips to *china*",
+          "location": 111
+        },
+        {
+          "text": "they have over there in *china* i don't",
+          "location": 121
+        },
+        {
+          "text": "steel and aluminum was necessary *china*",
+          "location": 213
+        },
+        {
+          "text": "went to *china* okay",
+          "location": 685
+        },
+        {
+          "text": "trump was in *china*",
+          "location": 726
+        },
+        {
+          "text": "asked *china* to cut off north korea",
+          "location": 734
+        },
+        {
+          "text": "an iran or *china* or wherever it may be",
+          "location": 860
+        },
+        {
+          "text": "happened when obama went went to *china*",
+          "location": 924
+        },
+        {
+          "text": "chaotic arrival at g20 obama's *china*",
+          "location": 931
+        },
+        {
+          "text": "country i love it trump in *china*",
+          "location": 986
+        },
+        {
+          "text": "the story trump in *china* president warns",
+          "location": 1007
+        },
+        {
+          "text": "*china* so i don't know if they have the",
+          "location": 1074
+        }
+      ]
+    },
+    {
+      "id": "OL4lCwtlpns",
+      "segments": [
+        {
+          "text": "*china* yet don't even bother trying to",
+          "location": 1051
+        },
+        {
+          "text": "park in *china* in beijing",
+          "location": 1061
+        },
+        {
+          "text": "censored search engine in *china* no plans",
+          "location": 1090
+        },
+        {
+          "text": "google already gave access to *china*",
+          "location": 1105
+        },
+        {
+          "text": "*china* launched a question mark will",
+          "location": 1107
+        },
+        {
+          "text": "*china* be announcing a state-funded and",
+          "location": 1110
+        }
+      ]
+    },
+    {
+      "id": "omVzgMDSzMA",
+      "segments": [
+        {
+          "text": "were they doing in *china* buying up",
+          "location": 291
+        },
+        {
+          "text": "backing from *china* that they were",
+          "location": 309
+        },
+        {
+          "text": "and *china* allies us political corruption",
+          "location": 464
+        },
+        {
+          "text": "*china* us political corruption ukraine us",
+          "location": 467
+        },
+        {
+          "text": "corruption iran common denominator *china*",
+          "location": 478
+        }
+      ]
+    },
+    {
+      "id": "OnAwEzhtW_s",
+      "segments": [
+        {
+          "text": "*china* good evening folks",
+          "location": 1038
+        },
+        {
+          "text": "ships from *china* which we all know if",
+          "location": 1062
+        },
+        {
+          "text": "in the south *china* sea area all the way",
+          "location": 1174
+        },
+        {
+          "text": "and now with the *china* and also russia",
+          "location": 1196
+        },
+        {
+          "text": "these sanctions but *china* totally",
+          "location": 1285
+        },
+        {
+          "text": "dependent on around oil and *china* was",
+          "location": 1288
+        },
+        {
+          "text": "outside the ors at *china* our own",
+          "location": 2134
+        },
+        {
+          "text": "got somebody sitting in *china* or some",
+          "location": 2626
+        }
+      ]
+    },
+    {
+      "id": "orW_ZHHtF-c",
+      "segments": [
+        {
+          "text": "*china* russia to have them seeing that we",
+          "location": 1403
+        }
+      ]
+    },
+    {
+      "id": "OvgvEHoD_v0",
+      "segments": [
+        {
+          "text": "negotiations between *china* and the us",
+          "location": 1927
+        },
+        {
+          "text": "the us a year what is *china* doing and",
+          "location": 1935
+        },
+        {
+          "text": "*china* for the last 20 years or so in",
+          "location": 1941
+        },
+        {
+          "text": "secrets wealth our wealth over to *china*",
+          "location": 1946
+        },
+        {
+          "text": "numerous times *china* very heavily bet on",
+          "location": 1952
+        },
+        {
+          "text": "*china* with the election of somebody",
+          "location": 1967
+        },
+        {
+          "text": "tremendous strain on *china* to where",
+          "location": 1983
+        },
+        {
+          "text": "assets are gonna be devalued in *china*",
+          "location": 1997
+        },
+        {
+          "text": "beating *china* in the oil situation in",
+          "location": 2031
+        }
+      ]
+    },
+    {
+      "id": "piclzeZJadE",
+      "segments": [
+        {
+          "text": "to *china* where hillary was giving",
+          "location": 942
+        }
+      ]
+    },
+    {
+      "id": "pjCREYAxFCU",
+      "segments": [
+        {
+          "text": "republic of *china* use disinformation in",
+          "location": 1012
+        }
+      ]
+    },
+    {
+      "id": "pn7XxxfmrJk",
+      "segments": [
+        {
+          "text": "russia in other words *china* has over",
+          "location": 1045
+        }
+      ]
+    },
+    {
+      "id": "POOYNiwCiPg",
+      "segments": [
+        {
+          "text": "mexico *china* and other countries all",
+          "location": 376
+        }
+      ]
+    },
+    {
+      "id": "pVncvL_Ns3U",
+      "segments": [
+        {
+          "text": "exotic mammals in southern *china* is a",
+          "location": 419
+        },
+        {
+          "text": "quote the *china* virus worth remembering",
+          "location": 423
+        },
+        {
+          "text": "*china* first biosafety level 4 lab",
+          "location": 468
+        },
+        {
+          "text": "isn't that uh wuhan *china* oh it sure was",
+          "location": 478
+        },
+        {
+          "text": "of technology wut in *china*",
+          "location": 525
+        },
+        {
+          "text": "cell phone users in *china*",
+          "location": 547
+        },
+        {
+          "text": "life in *china*",
+          "location": 568
+        },
+        {
+          "text": "*china*",
+          "location": 572
+        },
+        {
+          "text": "phone the us-based *china* affairs",
+          "location": 574
+        },
+        {
+          "text": "*china* excuse me the chinese regime",
+          "location": 587
+        },
+        {
+          "text": "chinese allowed to move in *china* now",
+          "location": 595
+        },
+        {
+          "text": "*china* introduced mandatory facial scans",
+          "location": 603
+        },
+        {
+          "text": "as early as september 1st 2010 *china*",
+          "location": 610
+        },
+        {
+          "text": "all people in *china* must install a cell",
+          "location": 644
+        },
+        {
+          "text": "installed *china* yes check iran",
+          "location": 739
+        },
+        {
+          "text": "was installed by *china* even over in",
+          "location": 743
+        },
+        {
+          "text": "delay u.s *china* trade negotiations",
+          "location": 804
+        },
+        {
+          "text": "*china* prefer biden plus vp",
+          "location": 807
+        },
+        {
+          "text": "as p so saying *china* prefers biden",
+          "location": 811
+        },
+        {
+          "text": "need help now to survive the *china* virus",
+          "location": 960
+        },
+        {
+          "text": "remember early on videos out of *china*",
+          "location": 1216
+        }
+      ]
+    },
+    {
+      "id": "PwmbkeKu7Mc",
+      "segments": [
+        {
+          "text": "production to *china* well we sure do know",
+          "location": 299
+        },
+        {
+          "text": "about *china* and their conditions they",
+          "location": 302
+        }
+      ]
+    },
+    {
+      "id": "pyAT8bKb7XU",
+      "segments": [
+        {
+          "text": "even stopped production *china* had",
+          "location": 1668
+        },
+        {
+          "text": "states from *china* with their steel and",
+          "location": 1676
+        },
+        {
+          "text": "memory is not that good the *china*",
+          "location": 1912
+        },
+        {
+          "text": "that *china* was pushing oh you know",
+          "location": 1938
+        },
+        {
+          "text": "*china* was absolutely bogus yep now one",
+          "location": 1997
+        }
+      ]
+    },
+    {
+      "id": "qb3w1OboNvo",
+      "segments": [
+        {
+          "text": "clinton server *china* relay if you go",
+          "location": 543
+        },
+        {
+          "text": "company out of *china* had hacked into her",
+          "location": 550
+        }
+      ]
+    },
+    {
+      "id": "qmdFYiXPY18",
+      "segments": [
+        {
+          "text": "by *china* and got a copy of every single",
+          "location": 1144
+        },
+        {
+          "text": "*china* we're now learning that a chinese",
+          "location": 1174
+        }
+      ]
+    },
+    {
+      "id": "QrBVmjRpJwI",
+      "segments": [
+        {
+          "text": "to *china* go way deeper than alleged",
+          "location": 377
+        },
+        {
+          "text": "maybe i was chinese story involves *china*",
+          "location": 385
+        },
+        {
+          "text": "reported back to *china* about local",
+          "location": 410
+        },
+        {
+          "text": "back in *china* for his work noted this",
+          "location": 438
+        }
+      ]
+    },
+    {
+      "id": "Qse6ME4Tfec",
+      "segments": [
+        {
+          "text": "known to be hawkish on russia and *china*",
+          "location": 398
+        }
+      ]
+    },
+    {
+      "id": "QwpDTbUsF3E",
+      "segments": [
+        {
+          "text": "*china* russia",
+          "location": 335
+        }
+      ]
+    },
+    {
+      "id": "RblERU2ASro",
+      "segments": [
+        {
+          "text": "others corrupt *china* ukrainian and",
+          "location": 1040
+        },
+        {
+          "text": "others money *china* used our tax dollars",
+          "location": 1042
+        },
+        {
+          "text": "union counterparts and *china* mr.",
+          "location": 1068
+        }
+      ]
+    },
+    {
+      "id": "RDVZSWXkyrU",
+      "segments": [
+        {
+          "text": "some sort of elementary school in *china*",
+          "location": 1073
+        }
+      ]
+    },
+    {
+      "id": "RXfO2VclQGI",
+      "segments": [
+        {
+          "text": "there in *china* we're not doing any of",
+          "location": 1590
+        },
+        {
+          "text": "the ceo corporation in *china* where they",
+          "location": 1602
+        },
+        {
+          "text": "*china* through their work so that's kind",
+          "location": 1638
+        }
+      ]
+    },
+    {
+      "id": "smTJcjfSIuo",
+      "segments": [
+        {
+          "text": "the connection street *china* and ukraine",
+          "location": 179
+        },
+        {
+          "text": "support of bank of *china* which is not",
+          "location": 329
+        },
+        {
+          "text": "*china* again *china* development big",
+          "location": 333
+        },
+        {
+          "text": "*china* policies of investing outside",
+          "location": 353
+        },
+        {
+          "text": "*china* aid by joe biden and negotiated",
+          "location": 355
+        },
+        {
+          "text": "visiting japan *china* south korea and the",
+          "location": 406
+        },
+        {
+          "text": "and towards asia where *china* was flexing",
+          "location": 422
+        },
+        {
+          "text": "of *china* and it's not just the",
+          "location": 435
+        },
+        {
+          "text": "state-owned bank of *china* so prior to",
+          "location": 437
+        },
+        {
+          "text": "to *china* with daddy and the key",
+          "location": 444
+        },
+        {
+          "text": "negotiations were *china* pivot and during",
+          "location": 447
+        },
+        {
+          "text": "state-controlled bank of *china* and",
+          "location": 454
+        },
+        {
+          "text": "*china* officials which they had signed",
+          "location": 480
+        },
+        {
+          "text": "visited *china* with his father the most",
+          "location": 485
+        },
+        {
+          "text": "*china* the government bank of *china* was",
+          "location": 489
+        },
+        {
+          "text": "rosemont seneca and the bank of *china*",
+          "location": 508
+        },
+        {
+          "text": "status in *china*",
+          "location": 555
+        },
+        {
+          "text": "aviation industry corporation of *china*",
+          "location": 594
+        },
+        {
+          "text": "contractor in *china* it operates under",
+          "location": 614
+        },
+        {
+          "text": "grow *china* up and leave america so these",
+          "location": 719
+        },
+        {
+          "text": "wholly owned subsidiary of *china*",
+          "location": 784
+        },
+        {
+          "text": "corporation of *china* which is our avox",
+          "location": 790
+        },
+        {
+          "text": "the largest acquisitions by *china*",
+          "location": 796
+        },
+        {
+          "text": "asac not *china* is not like the usa the",
+          "location": 826
+        },
+        {
+          "text": "work in billions *china* would have to buy",
+          "location": 866
+        },
+        {
+          "text": "is sas ock is is the government of *china*",
+          "location": 885
+        },
+        {
+          "text": "by the bank of *china*",
+          "location": 932
+        },
+        {
+          "text": "in *china* okay and i want you to remember",
+          "location": 990
+        },
+        {
+          "text": "investments in *china* general nuclear or",
+          "location": 1061
+        },
+        {
+          "text": "charged *china* general nuclear or cgn",
+          "location": 1075
+        },
+        {
+          "text": "so it's *china* again so it is all avic",
+          "location": 1134
+        },
+        {
+          "text": "and *china* baked now we're sorry not no",
+          "location": 1139
+        },
+        {
+          "text": "*china* they did the deal with cg and",
+          "location": 1162
+        },
+        {
+          "text": "*china* general nuclear in 2016 what",
+          "location": 1165
+        },
+        {
+          "text": "from selling products to gn the *china*",
+          "location": 1179
+        },
+        {
+          "text": "thwart the country's made in *china* 2025",
+          "location": 1185
+        },
+        {
+          "text": "we've got *china* nuclear power group kind",
+          "location": 1202
+        },
+        {
+          "text": "a sorry it sa s oc *china* *china* *china*",
+          "location": 1211
+        },
+        {
+          "text": "evidence that *china* general nuclear",
+          "location": 1230
+        },
+        {
+          "text": "helped *china* by luden mining corp in",
+          "location": 1354
+        },
+        {
+          "text": "africa and well it's *china* molybdenum",
+          "location": 1359
+        },
+        {
+          "text": "from *china* so any of those countries",
+          "location": 1572
+        },
+        {
+          "text": "deal for *china* to go in and acquire",
+          "location": 1596
+        },
+        {
+          "text": "instantaneously anywhere in *china* they",
+          "location": 1687
+        },
+        {
+          "text": "then we get to see ef afc *china* energy",
+          "location": 1756
+        },
+        {
+          "text": "company see efc *china* energy to make a",
+          "location": 1783
+        },
+        {
+          "text": "after yee was detained in *china*",
+          "location": 1817
+        },
+        {
+          "text": "and he ends up going back to *china* so he",
+          "location": 1846
+        },
+        {
+          "text": "he gets detained in *china* because he has",
+          "location": 1853
+        },
+        {
+          "text": "to *china* that fell apart due to",
+          "location": 2060
+        },
+        {
+          "text": "thing as sas wok for *china* this is for",
+          "location": 2708
+        }
+      ]
+    },
+    {
+      "id": "SvhpCXCxUfU",
+      "segments": [
+        {
+          "text": "want us to look at *china* but as ktg had",
+          "location": 602
+        }
+      ]
+    },
+    {
+      "id": "SVogkaAV66s",
+      "segments": [
+        {
+          "text": "is it possible possible *china* monitored",
+          "location": 1008
+        },
+        {
+          "text": "*china* analyzed likelihood of potus",
+          "location": 1015
+        },
+        {
+          "text": "reelection in 2020 possible *china* taking",
+          "location": 1017
+        },
+        {
+          "text": "*china* in secure comms so secure",
+          "location": 1027
+        },
+        {
+          "text": "institute us piggy bank possible *china*",
+          "location": 1037
+        },
+        {
+          "text": "they want to skim possible *china* put",
+          "location": 1074
+        }
+      ]
+    },
+    {
+      "id": "TF52s3GOJFE",
+      "segments": [
+        {
+          "text": "hawkish on russia and *china* believe in",
+          "location": 1420
+        }
+      ]
+    },
+    {
+      "id": "TmYttL1Y62w",
+      "segments": [
+        {
+          "text": "posts from yesterday about *china* and",
+          "location": 2792
+        },
+        {
+          "text": "*china* cupid it's like the front page and",
+          "location": 2830
+        }
+      ]
+    },
+    {
+      "id": "tUv6KIiNY0A",
+      "segments": [
+        {
+          "text": "in north korea or *china* perhaps ah gu",
+          "location": 1463
+        }
+      ]
+    },
+    {
+      "id": "tXKoS9V8ydU",
+      "segments": [
+        {
+          "text": "the ominous alternative *china* continues",
+          "location": 574
+        }
+      ]
+    },
+    {
+      "id": "U_GsF_n_WbQ",
+      "segments": [
+        {
+          "text": "we got *china* and sessions gonna come up",
+          "location": 28
+        },
+        {
+          "text": "building up *china* and stealing the",
+          "location": 1014
+        },
+        {
+          "text": "secrets and we'll get into *china* a",
+          "location": 1018
+        },
+        {
+          "text": "what did *china* do *china* came right in",
+          "location": 1178
+        },
+        {
+          "text": "because *china* wants to softly invade the",
+          "location": 1184
+        },
+        {
+          "text": "united states *china* could sit back there",
+          "location": 1188
+        },
+        {
+          "text": "*china* *china* *china* going on here and",
+          "location": 1217
+        },
+        {
+          "text": "we're gonna come back to *china* *china*",
+          "location": 1220
+        },
+        {
+          "text": "*china* in a minute but understand that",
+          "location": 1221
+        },
+        {
+          "text": "involves *china* it has always been about",
+          "location": 1232
+        },
+        {
+          "text": "weakening the us and strengthening *china*",
+          "location": 1235
+        }
+      ]
+    },
+    {
+      "id": "U2g7WcwIHHE",
+      "segments": [
+        {
+          "text": "to how i think it was *china* welcomed",
+          "location": 384
+        },
+        {
+          "text": "to like directly to *china* with that so",
+          "location": 782
+        },
+        {
+          "text": "*china* trying to negotiate a level",
+          "location": 802
+        }
+      ]
+    },
+    {
+      "id": "U3dsdiae1Bg",
+      "segments": [
+        {
+          "text": "eating some *china* fine chinese with her",
+          "location": 1921
+        },
+        {
+          "text": "himself he said about the *china* deal i",
+          "location": 2037
+        },
+        {
+          "text": "trade per day so for *china* to be focused",
+          "location": 2086
+        },
+        {
+          "text": "seems like *china* and and russia are",
+          "location": 2234
+        },
+        {
+          "text": "on *china* and russia and so and so forth",
+          "location": 2930
+        }
+      ]
+    },
+    {
+      "id": "U3pocCVZuxM",
+      "segments": [
+        {
+          "text": "*china* let me go with nobody in their",
+          "location": 230
+        },
+        {
+          "text": "*china* is being replicated with iran and",
+          "location": 1218
+        }
+      ]
+    },
+    {
+      "id": "Us-WzO9pR7Q",
+      "segments": [
+        {
+          "text": "russia or *china* you know that's just too",
+          "location": 344
+        }
+      ]
+    },
+    {
+      "id": "Uyc7XcOLvSc",
+      "segments": [
+        {
+          "text": "biden and *china* big development traitors",
+          "location": 707
+        }
+      ]
+    },
+    {
+      "id": "uykGoyVB8pM",
+      "segments": [
+        {
+          "text": "we know the connections to *china* and so",
+          "location": 2381
+        }
+      ]
+    },
+    {
+      "id": "V6h6opS8FMY",
+      "segments": [
+        {
+          "text": "and then he went to the south *china* sea",
+          "location": 292
+        }
+      ]
+    },
+    {
+      "id": "vd39QLgNNH4",
+      "segments": [
+        {
+          "text": "plus another enemy at the door un *china*",
+          "location": 2967
+        }
+      ]
+    },
+    {
+      "id": "vf4cXnF_noc",
+      "segments": [
+        {
+          "text": "picture that was in *china* from",
+          "location": 346
+        }
+      ]
+    },
+    {
+      "id": "VKk8ZZmxM68",
+      "segments": [
+        {
+          "text": "system that they have in *china* you know",
+          "location": 2888
+        }
+      ]
+    },
+    {
+      "id": "Vn6ucpVEWLg",
+      "segments": [
+        {
+          "text": "q says why did kim traveled to *china*",
+          "location": 78
+        },
+        {
+          "text": "us *china* north korea 3 facebook data",
+          "location": 234
+        },
+        {
+          "text": "business and government biden and *china*",
+          "location": 374
+        },
+        {
+          "text": "whole biden *china* deal where his son",
+          "location": 388
+        },
+        {
+          "text": "or something to that effect him to *china*",
+          "location": 691
+        },
+        {
+          "text": "else was at the meeting in *china* live",
+          "location": 727
+        },
+        {
+          "text": "from *china* operation window clean",
+          "location": 730
+        },
+        {
+          "text": "*china* perhaps",
+          "location": 742
+        },
+        {
+          "text": "cross bite in *china* very important",
+          "location": 867
+        }
+      ]
+    },
+    {
+      "id": "VnBar3klKuM",
+      "segments": [
+        {
+          "text": "box do not look here *china* in the kill",
+          "location": 789
+        },
+        {
+          "text": "threat theft from *china* a lot of",
+          "location": 812
+        },
+        {
+          "text": "different things regarding *china* and how",
+          "location": 815
+        },
+        {
+          "text": "copy stamped and sent right to *china* i",
+          "location": 843
+        }
+      ]
+    },
+    {
+      "id": "vO0Voa_Lisw",
+      "segments": [
+        {
+          "text": "post 1958 clowns revealed in *china* and",
+          "location": 2043
+        },
+        {
+          "text": "yep just us *china* hacked",
+          "location": 2076
+        },
+        {
+          "text": "would do treason all right so *china*",
+          "location": 2107
+        },
+        {
+          "text": "*china* mortified question mark what is",
+          "location": 2337
+        },
+        {
+          "text": "just out *china* hacked hillary clinton",
+          "location": 2872
+        },
+        {
+          "text": "*china* next move better be by the fbi and",
+          "location": 3038
+        }
+      ]
+    },
+    {
+      "id": "Vp3fIO4fK8c",
+      "segments": [
+        {
+          "text": "assisting that *china* has purchased us",
+          "location": 1117
+        },
+        {
+          "text": "soybeans have been shipped to *china*",
+          "location": 1124
+        },
+        {
+          "text": "soybeans cotton pork and sorghum *china*",
+          "location": 1132
+        },
+        {
+          "text": "about that *china* and us agreed to",
+          "location": 1149
+        },
+        {
+          "text": "percent and *china* hit back raising",
+          "location": 1183
+        },
+        {
+          "text": "*china* if beijing stalls under excuse me",
+          "location": 1204
+        },
+        {
+          "text": "if *china* waits and he wins re-election",
+          "location": 1226
+        },
+        {
+          "text": "quote *china* is doing very badly worst",
+          "location": 1232
+        },
+        {
+          "text": "problem with *china* they just don't come",
+          "location": 1242
+        },
+        {
+          "text": "possible *china* monitored the muller",
+          "location": 1315
+        },
+        {
+          "text": "hearing possible *china* analyzing",
+          "location": 1317
+        },
+        {
+          "text": "possible *china* taking steps think",
+          "location": 1321
+        },
+        {
+          "text": "possible *china* in secure comms with",
+          "location": 1326
+        },
+        {
+          "text": "u.s. piggy bank possible *china* and",
+          "location": 1333
+        },
+        {
+          "text": "*china* put extreme threatening pressure",
+          "location": 1344
+        }
+      ]
+    },
+    {
+      "id": "vPN_ECcJEho",
+      "segments": [
+        {
+          "text": "public *china* underscore nam underscore",
+          "location": 139
+        },
+        {
+          "text": "public in *china* and south korea it is",
+          "location": 155
+        },
+        {
+          "text": "the press from his taxpayer paid *china*",
+          "location": 890
+        }
+      ]
+    },
+    {
+      "id": "VQGp5UP7QUk",
+      "segments": [
+        {
+          "text": "somebody in *china* maybe just got nabbed",
+          "location": 579
+        },
+        {
+          "text": "wrote about this this has to mean *china*",
+          "location": 829
+        }
+      ]
+    },
+    {
+      "id": "VrWJhVsCI3E",
+      "segments": [
+        {
+          "text": "in the kill box *china* is not a threat",
+          "location": 287
+        }
+      ]
+    },
+    {
+      "id": "W4W0lYqJc68",
+      "segments": [
+        {
+          "text": "korea *china* russia cuba sudan syria",
+          "location": 1445
+        },
+        {
+          "text": "pending cuba russia *china* north korea",
+          "location": 1462
+        }
+      ]
+    },
+    {
+      "id": "w85LBpbDyU8",
+      "segments": [
+        {
+          "text": "comments about the pictures in *china*",
+          "location": 16
+        },
+        {
+          "text": "saying russia and *china* are playing the",
+          "location": 290
+        }
+      ]
+    },
+    {
+      "id": "wbr999AMWgk",
+      "segments": [
+        {
+          "text": "why is everything really made in *china*",
+          "location": 709
+        },
+        {
+          "text": "*china* and russia why",
+          "location": 717
+        },
+        {
+          "text": "dems what damage can *china* due to dems",
+          "location": 727
+        }
+      ]
+    },
+    {
+      "id": "WE2d5fJ_1BM",
+      "segments": [
+        {
+          "text": "donald trump tweet *china* trade deal and",
+          "location": 395
+        }
+      ]
+    },
+    {
+      "id": "Wf1KgiaTz9o",
+      "segments": [
+        {
+          "text": "*china* virus outbreak with so much",
+          "location": 80
+        },
+        {
+          "text": "not only what *china* is doing with their",
+          "location": 2126
+        }
+      ]
+    },
+    {
+      "id": "wYDsgBWrQIc",
+      "segments": [
+        {
+          "text": "gee the president of *china* or on even",
+          "location": 666
+        },
+        {
+          "text": "down in *china*",
+          "location": 990
+        }
+      ]
+    },
+    {
+      "id": "x9zA1a9MS64",
+      "segments": [
+        {
+          "text": "because we had that big issue with *china*",
+          "location": 2102
+        },
+        {
+          "text": "those channels going back to *china*",
+          "location": 2111
+        },
+        {
+          "text": "the infrastructure to dig *china* out of",
+          "location": 2130
+        }
+      ]
+    },
+    {
+      "id": "xCIWCSaCdmA",
+      "segments": [
+        {
+          "text": "*china* russia pass-through intel pull",
+          "location": 487
+        }
+      ]
+    },
+    {
+      "id": "XGjq_LrJlJ0",
+      "segments": [
+        {
+          "text": "*china* no recognizable faces and to that",
+          "location": 86
+        },
+        {
+          "text": "us official is arriving in *china* purpose",
+          "location": 99
+        },
+        {
+          "text": "this business deal with *china* also when",
+          "location": 151
+        },
+        {
+          "text": "ross but he was in *china* a few days ago",
+          "location": 158
+        },
+        {
+          "text": "over towards *china* i can't confirm or",
+          "location": 169
+        },
+        {
+          "text": "used by *china* for intelligence gathering",
+          "location": 209
+        }
+      ]
+    },
+    {
+      "id": "XHsPNYQXy1g",
+      "segments": [
+        {
+          "text": "together with north korea and *china*",
+          "location": 85
+        },
+        {
+          "text": "both helping north korea and *china* but",
+          "location": 90
+        }
+      ]
+    },
+    {
+      "id": "xjtbxj2hGEk",
+      "segments": [
+        {
+          "text": "money-laundering scheme touches on *china*",
+          "location": 1697
+        },
+        {
+          "text": "*china* deals that's been kicked yeah i",
+          "location": 1743
+        }
+      ]
+    },
+    {
+      "id": "XV9y1gDUVgw",
+      "segments": [
+        {
+          "text": "down transports from *china* from cargo",
+          "location": 477
+        },
+        {
+          "text": "*china* in iran is this coronavirus really",
+          "location": 1114
+        },
+        {
+          "text": "stopped travel to *china* russia has done",
+          "location": 1173
+        },
+        {
+          "text": "out of *china* has basically stopped and",
+          "location": 1179
+        },
+        {
+          "text": "stuff is outsourced to *china* and they",
+          "location": 1216
+        },
+        {
+          "text": "*china* waiting for the port open so they",
+          "location": 1232
+        },
+        {
+          "text": "seeing activity *china* shined a laser on",
+          "location": 1531
+        },
+        {
+          "text": "with people from thai *china* or a cruise",
+          "location": 1835
+        },
+        {
+          "text": "tweets and messages coming out of *china*",
+          "location": 2355
+        },
+        {
+          "text": "chan drop and this is possible *china*",
+          "location": 2743
+        },
+        {
+          "text": "*china* analyzing likelihood of potus",
+          "location": 2748
+        },
+        {
+          "text": "re-election 2020 possible *china* taking",
+          "location": 2750
+        },
+        {
+          "text": "potus pre-election 2020 possible *china*",
+          "location": 2757
+        },
+        {
+          "text": "reinstitute us piggy bank possible *china*",
+          "location": 2768
+        },
+        {
+          "text": "talking about *china*",
+          "location": 2805
+        },
+        {
+          "text": "russia *china* *china* *china* so yeah it's i",
+          "location": 2814
+        }
+      ]
+    },
+    {
+      "id": "yIYsfr3g_po",
+      "segments": [
+        {
+          "text": "*china* chongqing tuesday",
+          "location": 255
+        },
+        {
+          "text": "*china* chung king and we have another",
+          "location": 310
+        }
+      ]
+    },
+    {
+      "id": "YNm2DzdbJ-E",
+      "segments": [
+        {
+          "text": "to *china*",
+          "location": 288
+        },
+        {
+          "text": "right to *china* and how about the wands",
+          "location": 296
+        },
+        {
+          "text": "*china* hacked clinton's private email",
+          "location": 320
+        },
+        {
+          "text": "clinton's emails had been act by *china*",
+          "location": 343
+        },
+        {
+          "text": "*china* next move better be by the fbi and",
+          "location": 350
+        },
+        {
+          "text": "people it is report just out *china* hat",
+          "location": 366
+        },
+        {
+          "text": "in collecting intelligence for *china* you",
+          "location": 414
+        }
+      ]
+    },
+    {
+      "id": "Z7G8j3aZvbE",
+      "segments": [
+        {
+          "text": "north korea iran russia *china* mexico why",
+          "location": 284
+        }
+      ]
+    },
+    {
+      "id": "znYs-6J5rR4",
+      "segments": [
+        {
+          "text": "verified attempts by *china* january 1st",
+          "location": 1006
+        }
+      ]
+    },
+    {
+      "id": "bUst18PCsRk",
+      "segments": [
+        {
+          "text": "lot of connections into *china* what he's",
+          "location": 814
+        },
+        {
+          "text": "connections out to *china* you guys went",
+          "location": 821
+        },
+        {
+          "text": "be *china*",
+          "location": 1847
+        },
+        {
+          "text": "*china* and how she has to play a",
+          "location": 1850
+        }
+      ]
+    },
+    {
+      "id": "JTK8lrosaDI",
+      "segments": [
+        {
+          "text": "giuliani hashtag *china* virus hashtag",
+          "location": 68
+        },
+        {
+          "text": "upset with *china* i'll be honest with you",
+          "location": 678
+        },
+        {
+          "text": "health organization announces *china*",
+          "location": 1203
+        },
+        {
+          "text": "no reason to block *china* travel more",
+          "location": 1211
+        },
+        {
+          "text": "cnn reports *china* has no new cases 320",
+          "location": 1260
+        },
+        {
+          "text": "320 *china* announces they will open who",
+          "location": 1264
+        }
+      ]
+    },
+    {
+      "id": "lcBNIvAc_fE",
+      "segments": [
+        {
+          "text": "*china* quote during america's hashtag",
+          "location": 650
+        },
+        {
+          "text": "self-interest that *china* continued to",
+          "location": 658
+        },
+        {
+          "text": "the bank of *china* *china* is going to eat",
+          "location": 686
+        },
+        {
+          "text": "sent them to *china* it is in our",
+          "location": 701
+        },
+        {
+          "text": "self-interest that *china* continued to",
+          "location": 703
+        },
+        {
+          "text": "on dealing with *china*",
+          "location": 726
+        },
+        {
+          "text": "connections in ukraine and *china* those",
+          "location": 745
+        }
+      ]
+    }
+  ]
+}

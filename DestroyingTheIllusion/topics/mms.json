@@ -1,0 +1,1020 @@
+{
+  "indexed": "__lGfKxA0WI,_-_MVJecq5I,_5WkbucPT4g,_ec7XMfirg4,_EqneJRgSe8,_idzf18MYXs,_Ne214s756k,_Ob8jo-qOCU,_q5-lvNqF8Y,_TPUfVabVHU,_tRUka84Q10,_UMxGoem_cE,_YS92pFld0Y,-_4Za6eoYwY,-0DjA_r32uQ,-3F6SZZIT-E,-5M7Y-zFyZ0,-9msE7-ydts,-Avsxw6BrhI,-b8zWS3tty4,-e5ABbWTn8M,-i-6mNaKI3I,-icWyKwjrY8,-kDAK81lyaY,-kYE2w6y-GA,-MYXqXNhcnc,-P8dkAqUKZY,-tSHN-cRXo0,-VRexocuLyU,-zsJy_pc_gQ,0-8SzdsEPn0,047r18PmzXg,06ZhNoUqwA4,0C27jD9e-j0,0ICCjllfcD0,0jspiMXND2A,0kkMEbbFd9M,0NUQEdAWVkQ,0q_eYZ-zjys,0SJGTnXKJLk,0th1OKXNQXY,0thRJXOyyOs,0VW3c_f1WOI,0Ytkx1pvnL8,1-v18VEV4Rg,18k-mw0lGZ0,1atlaAzWtj4,1FoSp-tBfp4,1Qa_cX1DPn8,1s9fsICUfOw,1WmbX3JQa0c,1ya6QF21RjE,1ZoQGfCIQP4,22knD94PYNw,23GkaHyU2R4,23Zi93zyS6U,24o5bLbjYh0,29VWyFZAo98,2J-isPoaOe8,2MEzlpSs3hI,2qRm-XvaYGk,2vQA-V9OnxY,2XVtrBvxoNQ,3_9MzitOhpg,3-sR3LmB0N0,305W5z9yzW0,32HzhZpqqHs,32nTGjvWF9c,34kHft924rA,3cgcmRKlIhU,3ciusVGxdno,3E_KWnG6gO8,3fi1bx4oWOE,3GvhthG2rXo,3iT9_AqKX2M,3mCWwiYSQsM,3n_fTHOHmP4,3VJvZsz9VQk,3Vpaplt92is,3WDtVeSSyrU,3WzJtUe634M,3XT99f5rZkY,3YdbQS2xw0E,40cx-g-mfDk,41qO6bukotY,4aR7zbZf3pE,4ATvSzS-TLU,4dX3v4Z4aec,4fS6egD9cSc,4mNbB0RTuoI,4MXimasATsA,4nk3rY194h8,4oXIn88QFbc,4qQd8Qu7aPM,4VCgU1v0c3I,56hnR-UeVbI,59IbF_o4Xxc,5flC3-UkdyU,5PhM32xlVEs,5RLxQOvZxXs,5St08kicLiU,5uzjLst8w68,5VFOltHRXbM,6_wyHLXHqx4,60xrsFvDYYk,6Ezxw-UNmQI,6foOgmaZN-s,6kESQU65fUA,6KttPC8JV3s,6o54Y7dhOus,6PsL7aVI12U,6sbgm3s49BM,6sC4YqrrbsQ,73cggmTCclY,7a8EAuTwhdU,7d3A9Wi1xu0,7drP1GmKuhA,7HQEEo9pTxI,7kzKO982UIQ,7OUm208GUDs,7UT-kOjOka4,80z15a0xsUQ,81p3jRVXGk4,8gkGfhtpurY,8pa8Er939dg,8QiuuwivwsM,8z6EDkIocXI,91aT7JIOIbY,9gYGBZ6wUIE,9hqxfV040oQ,9K-4Jc2l-7U,9lbn3bkROBc,9lgC6A9CGqY,9LwjAgU_2hc,9w_UO-KJccs,9xhpctWntoI,9YBPFZ6r5nY,9yIsVlJ2qAY,9zB7TNiGuDw,A4-cSwxHsV4,a4jwV9NnySU,A52PfmoHm8I,a67Ukzg63u8,A7HbMpBAg8c,A82praOPfpo,AaP-PP8-KGk,aAzQwARAo28,ABM5Oj2s6eI,aC12-gepI3U,aCfOGluhEKI,aDPMNOgOz4E,aDUDC92PxcU,AJ_U54u6gbE,ajiBcgtAY-w,aJWZ_APGg6A,AKPMK0xaRN0,AmbKxQ51VWc,aN9TllOemSA,ANDq9-ttO-w,Ao2abBxOiLY,AOParRtlvFQ,ApHsdbvYgFA,aqGYpuYdbOM,Ar3JvKPGr40,ARwagwGekv0,AuJjdL3A0Wc,AvcEuGghWQk,aWGr7i2-IYA,AwzaAL1pDXQ,aXwILTOVL0M,AyLUG-qQcCA,B5_naGkaBDg,B5MFHmezpn8,B5mo-Rnwm4s,bbAaX9B5ncY,bbpmtRc18WQ,BC_VRjt8gvw,BcZjAF2oFEE,Bd0NHLMVTAQ,BFuaMj35qAo,bG3PLtnHSuc,BGt8AVBwAQc,BLJVjp0lq4g,bmipWlYsyEM,bMWIDBnA6Z4,Bn2OlX_4C4Q,bNHR5T64ooQ,bNMvlOzCsZk,Bozlwr1uHco,BpeOtb7CWeE,bPVLncDuirE,BR9EIDuUBJQ,bTFNebYIotU,bYRSIwwnCFU,bzAYF7yEn7Y,bzCEAKmxlVs,C_h2RLZEGEk,c1C7epr44bw,c7Yfc_JZAaU,CCLJZ-bM01Q,CDZhS3BfdB0,CeXQ15A9BSA,CIkVvgIT6qs,cKGw_Hrtajc,cKObBT3BQ4A,CksmGxdCvPQ,cLcHOtY9fgk,coYoIINOWcQ,cpAeoTwKHlc,cpPgoi7zUjo,cu1homOW9CE,CunzrKChTpI,CX6apttsGjs,CxaPpbC3pgA,CXbRscylFsY,CYE1-7NSG2g,cyjt9Vm0imo,D-va4Jpkt38,D-y5ALLiCZ4,D3zc2JmlHK0,D4AkLrH0WtI,D8mzSBBfnNQ,D8RUia2q5wA,daON-Y2Ph5w,DCkhkkb2nqM,DdiM5lA-05c,ddZfJCoq65o,DeEBJcmrjAU,dh_NJhuVafY,dHHqYCCujKY,DiRI7rhc4qE,DJJw71TSho4,dJspwk8huY4,dKaqjJzl0vg,DksI8ZPmBNE,dlZUFvOqJeY,dNI6tUGGJNM,dONKuAjf26Q,dos0E9blpHw,DsDBNF7mhqk,DSqcbzBojYk,Du5Cit3oe6w,duZHG7VDNm4,DxGp_peYB_A,e6gS2_fX0oY,e6mIdK0LLWk,e8AyslO62b8,e8xXVMiChuQ,E9n2iFMyXjQ,EcbwKNO6TBI,eERaZvdF6Ms,ees6El-Jay0,ejBAqhxqAkQ,EK0R7sdxAFQ,ekJ4hKREY8U,eLy1XqX9IcU,En-VTreZMTs,F3oAIzyo0HQ,F4IPqNACpvI,FAhsY5AIWWY,FDEmEvwZtrM,fHohiZp5hGc,FJGnynqfiCQ,Fo9T0LNhNqQ,fOQPFgF5Etg,FPUae6qsjdw,FS65Eef4z7o,fSwdVMLq8zI,FuBVeoPBd0U,fWjIv0WgyqA,fWk2XKmiQOI,fXA4SlMx-Mg,Fz5fZ_7pia4,G2ZwwI5fN0E,g57p8aQQSbY,G5RiRuFIh8Y,g90iVaKS8Mc,gCaHEfyXkA0,gdEzIz7ievE,gDlgmkVKpy0,GDx66bXgYq4,GFEth1i97yY,gG4fzaWuo9w,GhikRA2no60,gJ7o1StrKv8,Gk2tr29fY6Q,gKGT2jlVrgI,gkMB1_gooM0,gkO-A-sYsH0,GmuQx9AiYD4,GN4nmRCU0AY,gojwzzPJQrg,GrWwOG5yFFM,GThX5ssVBn0,GUip6dZpKEs,gUkB5Kk4WAA,H1FABkrnIaE,h6koxkXAJLU,h6y5TxpDvbs,h9dW3QCrYso,hA31PrCznjw,Hb187lnYh0o,HgE2EqazY68,hhPRDd4gOEI,hIrbIOaAUxg,hKdsv2EbSSo,hl-FK4t_9lA,HLRFTyNBlFY,hLumnOkZynU,hLWMbjtpLn0,Hm1iTIa7rFk,hMhDNxC-EB4,HMpv5DpVVUY,hMQTN9L1dBE,Huj55Cm9qH8,hUouIgbrNZY,HWjAwmGq654,HxhtJ-1kd5k,hy9Uo864i5g,hZGSNKUFjQk,I2-S22FiEvg,I2t1cPgCvJo,I2zRq3kdLbk,I3pn7Xex-Ks,i3rp0Uim-0o,i4AnsQlVTvQ,I5h76-o1Kjw,i8VDK89xXzg,I8VIDULc_jQ,iAIDKPNVjzU,ifJ_GtRJ5qM,Ig7fshISKmk,igDMQaECoSw,IifnpOcm0b4,ik-J2hrNaWo,IKpl4TeHwPg,iOLlT7CbqKs,iPX6pJ1dD1s,IS-CvxLX47Y,IsG3gQIRxno,IsjWF9k7TZE,iTFkB2iXkgI,iTFXxHtlImY,iu9vMZwMqgI,IUcqrB04ZpE,IuIhXyjMG28,iUolMe2Bu-M,IuVzHVFtFIE,iwCYGrXqmqw,iwIfxOwYNOE,IwvvrAh-JyA,ixHuaqf211Y,iXPDVq2lGsc,j6boJmmzNcg,j9gG0WZWO2M,jaInrf7dB30,jal0jAoFV70,Jcekm05d-so,JD4r7qP0OLw,jEgmVdV6HBE,JeGwCPRojJo,jgHK6JZonJM,JLPKO3AKA14,JMN2uWdknac,jN-MkK8djcY,JNaC6eDgjAk,jnUZD1wnBn8,jR_FxV3DYyU,jS-yK_ueKZw,jSZnoRobYTE,JT-aith5f5E,JvaI4JCd5ig,jZ_tr0NnNjE,k2bZBA1A82U,k2MXyXKRlN0,K2TOaYHNhDs,K3kiPpMhKkQ,k3m1P3Vie6s,k55kWdrN8hw,k9LVltxQF2Y,kan3dn8Q8nA,KbWsgGeTrb0,KDVsepSqmys,KgYgMWFqbEc,kHxWvaMOwhM,Kl3MyuzCdRs,KM6DTC_i-8s,kNNz1UEwF-E,KpFP8X1JTiI,KPj--UF1T0k,kRGV4cIdWwM,KSP24qYeWgs,ku6qyUwUgWo,KVb-rUXG6h0,KW1hgV9CBqk,KXHpsXQV82g,KXW0hS3aOjA,L-4ADrZak_4,l0PDi1KDi1w,L1mLdTih8gg,L4Sa4dArQUE,L61XF64Ls8E,l9qBVI4SVP0,lb46GsmPTsI,ldX0CQ2UUfI,LFlKG-VVzMc,LInNbS1JErM,LiU5TfehWW8,lj8AH-4ajRw,LjzWwM9Y9zg,llnr6CG6lHM,Llr69yow55Y,llsND2qpTjM,lNKXqkyE2NQ,lOGKAbcAVzE,LQ4NioOxuGM,lUOYOF9DuSs,LwTvS9v15LE,LXCTMl_Jp9M,LygxI2VGhDU,m_PowDSDjEE,m1HAZ0ESYD0,M1ODHcuO0V0,m2kffLdykTs,m30mwu-9WW0,m3193w4W8Po,m5p9p9LBEpM,MATnFsqiC7Y,Mc5wHbV6irw,mCy59eLFjZg,McZuVVn7fEw,miQPk7qxSvs,Ml1Ys-sDe4o,mlmAUPNPev0,mLZkwKOueVI,mMVX1iGgRac,MO8yy324jyk,MpiqVbdFnlo,mPovmVmAgXs,MsBWU2CFf-U,MUyBpTbvDmw,N-BsO-mirZQ,N-Nsni2kalY,N0l4oFEKoCY,N37LrIj7a8E,N4MwW69zjdk,NbUtbE4Zpoc,Nett68JXMUk,NFBFDRSsaU0,nfDm-SuYSrQ,nhR65A2Cz1U,nJ5B8GnH3mE,NJf-Tr3BrqI,njWcrYwundg,NObMClb6nMY,noiATviQJ3Y,NoLKqBPGGLQ,nPRGWjUYGow,nPtPHMYmnsk,Nqbj_4nIAiA,NqL7EeYTd9s,NS200QxWq7g,nsUd370-n9Q,Nt4ug94a134,NVIEhqdvMCo,NVRVSzP0rFU,NVUbej8exEk,NY7B_THWsM8,Nzx4XSf_fAI,O_R4bM7ONJk,obm0AKIypPI,OCzJwGE7RTY,OdS-XmHla-U,OdXjpK_tLRg,OE_u4IbopVo,OGL_5cu0F-M,OgrLw9IX-Ns,ojYZBeCwYis,oK2ZWHTdbpA,ooHxX3whFXA,OOxgnEI8_NI,oReGR3Bjjmw,oSZzclsh00Y,otE6dhCgsJc,Oun53CRXyeI,OwECoLGRl68,oX7b3YzRNXk,ox9yzjeHt3s,ozbHMNhYe0A,oZz9CJ9K8MA,P0cawbGyBxM,p0Qy24DXfdY,P12Gc4WmCak,P3jy8S0P-2w,p6_gLv5qy8E,p6GmDJEkOQk,p6wFKOTyR60,P8xmUD4Gmrw,PA9MTquQya0,pAK-a8Op8KI,pauS_rhaYO0,PBiBq_DiHmo,pbjkl0DwxHs,Pg21pJPDzEU,phbygYipE-g,Pi8_BZtYNzQ,PkeO8SN0cN4,plJqp67-iX4,PNsZI-uZH7I,PsQlxu6iOzI,pt17lUpcskk,PtAxf8A1Zco,ptvgcLZ3HOw,PvWDJd2UYT8,pwM9WH8pqaY,PWMXacQWEjs,pyMrzxZBZZQ,pZ5q5wUI1-Y,pZhHd9KT2lk,q0IR8IqKZ18,Q1nmx353lDo,q2ItOTBF1ys,Q4MG607MDz4,q6hnQoB_BlI,q78RNxcI38U,q7I8sj_3rlM,q7prMUoyMEo,Q84zuHjjuww,Qa2bfVP6ChQ,qB9zc5VAanc,QC7qRbcWsN0,qcEDt4YOkS8,qCmySBiZXVA,qdwN5mt9V2c,qFumeKZX_MA,QJaNPlhmdSM,QK6Y2tnFIAw,qlFnlzOoFgo,qNurdjNB-rw,Qo2GL5T8T_E,Qq339b2xOrY,qRKU3XXIwlI,qSFeOuQEXXw,QSMC7VnqOnQ,QtYci9jXct4,QuVpIqeSRnU,qwbX5au3Iuw,qWhpDyoLyR8,qX2Z7mLBM1k,qZMy5wog24o,qZZGyHrnsQM,R_iWc7_vQ14,r-vKLD9F61M,R1g3eyyM590,r1IYwxp0NNs,r1pXJkMaAmc,RCPgq96ku4k,rdE4NEIZACI,REcAj2PLMu4,RenafscRgUY,RgdXwexLI_Y,RGFh5qOWU3U,RLczNzWBbpE,RmZj7uATNFM,rqks6sKCmDc,Rt85IKjQ9hs,rUpElK5Qw3E,rVrthFN9dnI,rX0dkfDOO1s,rxMOShu0yQk,RZf9IVaRgdo,S2U7ncJQ000,S4mKQajGJl4,s6H86oQEC2I,SaR5pCeCjao,SAwrlpHFmOc,sBy_LmO3b7k,SePTbZOh8iE,sHUgXraPhAc,siBW29AUMrw,skkII0awwFM,sKMZRv9JY_A,sLv3F7kLpB4,SovJjIjmI6M,sR5B-vb3Fi0,svK1ajIeprU,svwSKZ926yY,SvyN0PlWwkM,swc_HIr-8WA,Sx3ElJlX7wQ,SxPNu1XMYKA,sxWWB5aKNk8,T_mJ1awyakY,T3TRP5tX3T0,T5IM3P9Md-4,t6dwa21eo_M,TCtPeZP1H0g,td8PwMAtpQI,TdNo4qfgAb4,TeFw8eqcLco,tfW6YjVSx0U,Tg0_AZbm71E,TgzkblYi9pg,THy-FwvnIqQ,tJjx9eVGzSY,tK7YaJnYETw,TKK1o-pPPkQ,tkLyxIo8Cqo,tkm-n8lbhLg,TKOI_wF6Rn0,Tr5IR4SqKcA,TsjX9SPfvSA,Tus8Yc2qNXc,TX1rZO2bLJ8,u_apd9SGqLc,U1GOoEoYLy8,u1gZGn0l8y4,u3TgwapRzSA,u9zCkZgwoik,UA8VNiOraJI,uaXp0CBucos,uJn58OP3GEI,uJYAdCT7xFA,uKCq7HfZh9A,UKfHVu47LXo,Up-MRtsG4Tw,UpaXSxM07to,urRt-Yju_SU,UrzdhfUMR6k,UsuA0HSRXzo,UuJpA7lXi7g,uUsLnKlWMkU,UVea--jSv1A,uvYdZu80X9Y,uWFJruvCPhc,UwVr2kwMjI0,uxDmAVpZ91Q,V-8xYjEosOY,V4OPmN3e8F8,V59pKIXUQuM,v5G6fZkyhXg,v6JLwp0aFpc,Vafm-ZaLAyI,vafXYoDY5dw,vcqHF8DDsNk,VfelKh4yN9g,vInE2aOTFdw,ViODeAbI2IQ,vK3bX5D1ysc,VKhRSDIFJK0,vL7VfteARhQ,vLnzuy_aeGQ,VLxlCXAuo08,VtMhFvMTyHQ,VVsAZ0AGHeo,vZDynmvvgWg,w_A3W-OJyNw,W0APO4axfn4,w0OSb7FbXas,W7UmZWUWBMQ,WB_PkYN9MFI,wCcjEszzrTI,wdwWgzAq48E,wdXHxEEAvps,wg5sukd6E6Q,WHSd5tVWq1I,wjeEg2yoJbM,WKfsgQLVsHk,WlZQhQXwYTI,WmhFYQnlKB4,wNgdMwL7isA,WOmDWYRAtiA,WsnaqvLhEUk,wu0Utsff6Jo,WvCBdE6rolk,WwBj0YnLtX0,x1EXDDlmrVU,x1UII7bCsvQ,x27EZLRmoAU,x4XfpmZxDq0,Xe8yEypTfNA,XfNnvWPlprc,Xg7s8fovfh8,xKxi0Bbl_Fs,Xl5iO-2wzq0,xLDnc1Vm99w,XMo_G2k5Wso,XobWx6C6lJs,xQVu3ywd2RU,XRABi40G2T4,xS-hT1sfvfs,Xtk7ntK7k14,xU1ilgRmqsk,xUDwyRTojUM,xXRUfka1XFM,Y31yR524zWU,y3LgzaKBw2w,y3OVColWu-g,Y8DPHUnnvXU,YaMWl4cmqkw,yb_kKBcdsRc,ybgD2ibYB0o,YDS7nKcT3rk,yEf7XF-JNy4,yf8ObyPk568,yFQEK_KaTMA,yIh9oqXg4JU,YiLWFF__qiM,YIPBQ3O8Wr0,yK2UAmF7gYA,ym22gqkQmUA,ymm3YfCfVUs,yOGL3BrXZlA,YpPXlDhdkOg,YSc4GkdMm-E,ysHQziNaMOo,ySHvJqNfN7I,ySSnEYdnsEM,ytA3-R4Fi4M,yu7cOa_9gN0,yVjAH8Wg-hk,ywKQGnLaYdk,Z_nveKGRnsI,Z5o33xspXi4,z5obz0z7rdo,z7s8UaWeshs,Z8oojkEH6Eo,z9GTRwjpZLo,zBBzw6WImlY,zCKlkgpTrXo,zdehlx8vy4U,zffLUSbaqlw,zGk_J9B9MDw,zgK4F6NW32s,ZgOL1h0-8Ok,ZGsWdjqtO-w,zgU0j8HGfX4,zIU-AuvMwqU,zjqEsdevnaU,zKar6awuy2Q,zoQmiHuW8nc,ZpqZoQBWXVo,ZpXeRJcgZlU,ZqMTDLT6akA,ZRISi-Y-X3s,ZseKL2q2S-E,zUxgy98UTp4,zw8yzCjmYcI,zziC-o5xumc,ZZTz8nYZ6vA,hj7ubtDDtik",
+  "topic": "MMS",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_-_MVJecq5I",
+      "segments": [
+        {
+          "text": "attacked lately over *mms* over chlorine",
+          "location": 289
+        }
+      ]
+    },
+    {
+      "id": "-0DjA_r32uQ",
+      "segments": [
+        {
+          "text": "*mms* you have the gerson therapy you have",
+          "location": 1200
+        }
+      ]
+    },
+    {
+      "id": "3GvhthG2rXo",
+      "segments": [
+        {
+          "text": "otherwise known as *mms* the medical",
+          "location": 630
+        }
+      ]
+    },
+    {
+      "id": "4oXIn88QFbc",
+      "segments": [
+        {
+          "text": "dr. rife talked a little bit about *mms*",
+          "location": 223
+        }
+      ]
+    },
+    {
+      "id": "7drP1GmKuhA",
+      "segments": [
+        {
+          "text": "know since i've talked about *mms* or",
+          "location": 491
+        }
+      ]
+    },
+    {
+      "id": "7kzKO982UIQ",
+      "segments": [
+        {
+          "text": "*mms* no i haven't it's tough to get it's",
+          "location": 1296
+        },
+        {
+          "text": "for selling *mms* and that was actually in",
+          "location": 1307
+        },
+        {
+          "text": "jail for a few years for selling *mms*",
+          "location": 1320
+        }
+      ]
+    },
+    {
+      "id": "80z15a0xsUQ",
+      "segments": [
+        {
+          "text": "bleach you know *mms* it's not a bleach",
+          "location": 185
+        },
+        {
+          "text": "anybody that throws the *mms* is of bleach",
+          "location": 189
+        },
+        {
+          "text": "over three months ago about *mms* where i",
+          "location": 912
+        },
+        {
+          "text": "*mms* coming soon quite frankly i still",
+          "location": 1316
+        },
+        {
+          "text": "do a video on *mms* discussing the science",
+          "location": 1338
+        },
+        {
+          "text": "connect bringing it back to *mms* chlorine",
+          "location": 2119
+        },
+        {
+          "text": "they're like oh crap *mms* actually works",
+          "location": 2133
+        }
+      ]
+    },
+    {
+      "id": "AKPMK0xaRN0",
+      "segments": [
+        {
+          "text": "and you can also check into *mms* of",
+          "location": 1520
+        },
+        {
+          "text": "releases regarding *mms* being a bleach",
+          "location": 1526
+        },
+        {
+          "text": "tell us but *mms* is actually a wonderful",
+          "location": 1531
+        },
+        {
+          "text": "so you want to be careful with *mms* but",
+          "location": 1549
+        },
+        {
+          "text": "just chlorine dioxide is what *mms* is",
+          "location": 1561
+        },
+        {
+          "text": "two i'm familiar with i've used *mms* i",
+          "location": 1573
+        },
+        {
+          "text": "remedies *mms* is a remedy vitamin b17",
+          "location": 1590
+        }
+      ]
+    },
+    {
+      "id": "AmbKxQ51VWc",
+      "segments": [
+        {
+          "text": "lately *mms* i've been talking about *mms*",
+          "location": 890
+        },
+        {
+          "text": "*mms* makes me wonder if this is why *mms*",
+          "location": 897
+        },
+        {
+          "text": "because *mms* has been shown to be a very",
+          "location": 906
+        },
+        {
+          "text": "such an attack on *mms* lately is because",
+          "location": 926
+        },
+        {
+          "text": "so no wonder they're attacking *mms*",
+          "location": 952
+        }
+      ]
+    },
+    {
+      "id": "bbpmtRc18WQ",
+      "segments": [
+        {
+          "text": "estonian group for promoting *mms* m m s",
+          "location": 766
+        },
+        {
+          "text": "*mms* for some background here is an",
+          "location": 771
+        },
+        {
+          "text": "called chlorine dioxide *mms* stands for a",
+          "location": 777
+        },
+        {
+          "text": "nickname for it but *mms* is amazingly",
+          "location": 782
+        },
+        {
+          "text": "you is that because of how cheap *mms* is",
+          "location": 795
+        },
+        {
+          "text": "dioxide or *mms* citing violations of its",
+          "location": 812
+        }
+      ]
+    },
+    {
+      "id": "BpeOtb7CWeE",
+      "segments": [
+        {
+          "text": "on about *mms* it we'll talk about in a",
+          "location": 971
+        },
+        {
+          "text": "and then last thing speaking of that *mms*",
+          "location": 1042
+        },
+        {
+          "text": "warning *mms* miracle mineral solution as",
+          "location": 1049
+        },
+        {
+          "text": "gonna make *mms* and drinking on camera",
+          "location": 1082
+        }
+      ]
+    },
+    {
+      "id": "BR9EIDuUBJQ",
+      "segments": [
+        {
+          "text": "my video on *mms* a couple of months ago",
+          "location": 1885
+        },
+        {
+          "text": "about *mms* the first one that actually",
+          "location": 1890
+        },
+        {
+          "text": "chlorine dioxide or *mms* on youtube",
+          "location": 1893
+        },
+        {
+          "text": "is attacking *mms* aka chlorine dioxide -",
+          "location": 1913
+        }
+      ]
+    },
+    {
+      "id": "cKGw_Hrtajc",
+      "segments": [
+        {
+          "text": "malaria in *mms* wow *mms* it's very cheap",
+          "location": 1010
+        },
+        {
+          "text": "know it's been said that *mms* can kill",
+          "location": 1018
+        },
+        {
+          "text": "censoring *mms* on the internet maybe",
+          "location": 1037
+        },
+        {
+          "text": "censored about *mms* is because it's so",
+          "location": 1041
+        }
+      ]
+    },
+    {
+      "id": "CXbRscylFsY",
+      "segments": [
+        {
+          "text": "or this *mms* or this you know somebody",
+          "location": 568
+        }
+      ]
+    },
+    {
+      "id": "DeEBJcmrjAU",
+      "segments": [
+        {
+          "text": "this right here *mms* otherwise known as",
+          "location": 1242
+        },
+        {
+          "text": "compound some people just call it *mms*",
+          "location": 1248
+        },
+        {
+          "text": "effects of this *mms* folks you guys right",
+          "location": 1411
+        }
+      ]
+    },
+    {
+      "id": "dh_NJhuVafY",
+      "segments": [
+        {
+          "text": "canada and it has to do with *mms* i",
+          "location": 778
+        },
+        {
+          "text": "literally have *mms* right here i use it i",
+          "location": 781
+        },
+        {
+          "text": "for selling *mms* there's been multiple",
+          "location": 799
+        },
+        {
+          "text": "selling *mms* free daniel smith but we",
+          "location": 805
+        },
+        {
+          "text": "miracle mineral solution *mms* contains",
+          "location": 818
+        },
+        {
+          "text": "so yeah that's some bs right there *mms*",
+          "location": 856
+        },
+        {
+          "text": "gonna decide to go the *mms* route but it",
+          "location": 863
+        },
+        {
+          "text": "about *mms* saying that again *mms* is a",
+          "location": 872
+        }
+      ]
+    },
+    {
+      "id": "duZHG7VDNm4",
+      "segments": [
+        {
+          "text": "the oxygen therapies like *mms* and food",
+          "location": 420
+        },
+        {
+          "text": "gerson rife *mms* i've seen these",
+          "location": 557
+        }
+      ]
+    },
+    {
+      "id": "gCaHEfyXkA0",
+      "segments": [
+        {
+          "text": "video on *mms* i will do that very soon",
+          "location": 743
+        }
+      ]
+    },
+    {
+      "id": "gojwzzPJQrg",
+      "segments": [
+        {
+          "text": "*mms* versus colloidal silver so colloidal",
+          "location": 2750
+        },
+        {
+          "text": "silver in water and *mms* being a form of",
+          "location": 2758
+        },
+        {
+          "text": "two i have seen *mms* cure cancer",
+          "location": 2771
+        },
+        {
+          "text": "i've seen the *mms* and the gerson therapy",
+          "location": 2776
+        },
+        {
+          "text": "to the normal store and get it *mms* is",
+          "location": 2797
+        },
+        {
+          "text": "to you but *mms* is more potent and",
+          "location": 2809
+        },
+        {
+          "text": "depends *mms* you want to be very careful",
+          "location": 2816
+        },
+        {
+          "text": "use same as *mms* yes and no so getting",
+          "location": 2863
+        },
+        {
+          "text": "cancer site normally with *mms* it does",
+          "location": 2885
+        },
+        {
+          "text": "than our human cells that's why *mms* you",
+          "location": 2892
+        },
+        {
+          "text": "food grade hydrogen peroxide and *mms* are",
+          "location": 2907
+        }
+      ]
+    },
+    {
+      "id": "GrWwOG5yFFM",
+      "segments": [
+        {
+          "text": "try that *mms* live but then we all know",
+          "location": 1540
+        },
+        {
+          "text": "chlorine dioxide that's *mms* is actual",
+          "location": 1549
+        }
+      ]
+    },
+    {
+      "id": "IS-CvxLX47Y",
+      "segments": [
+        {
+          "text": "out a very bad article on *mms* and it was",
+          "location": 1786
+        },
+        {
+          "text": "about chlorine dioxide about *mms* is that",
+          "location": 1815
+        },
+        {
+          "text": "that no *mms* is not a drinking",
+          "location": 1862
+        }
+      ]
+    },
+    {
+      "id": "jgHK6JZonJM",
+      "segments": [
+        {
+          "text": "probably doing better than some can *mms*",
+          "location": 1896
+        },
+        {
+          "text": "etc so can any of *mms* be utilized in a",
+          "location": 1929
+        }
+      ]
+    },
+    {
+      "id": "l9qBVI4SVP0",
+      "segments": [
+        {
+          "text": "grade hydrogen peroxide *mms* various",
+          "location": 179
+        }
+      ]
+    },
+    {
+      "id": "M1ODHcuO0V0",
+      "segments": [
+        {
+          "text": "so say *mms* the compound that a lot of",
+          "location": 1176
+        }
+      ]
+    },
+    {
+      "id": "mLZkwKOueVI",
+      "segments": [
+        {
+          "text": "mainstream media about *mms* *mms* is",
+          "location": 78
+        },
+        {
+          "text": "*mms* and then i want to talk about ufos",
+          "location": 90
+        },
+        {
+          "text": "about *mms* i want to take a good few",
+          "location": 1285
+        },
+        {
+          "text": "minutes here to talk about *mms* i'm gonna",
+          "location": 1286
+        },
+        {
+          "text": "youtube took down a video i had on *mms* a",
+          "location": 1294
+        },
+        {
+          "text": "entitled *mms* one of the biggest f views",
+          "location": 1386
+        },
+        {
+          "text": "*mms* has been identified by medical",
+          "location": 1410
+        },
+        {
+          "text": "*mms* has curative powers which the",
+          "location": 1433
+        },
+        {
+          "text": "video that *mms* video youtube deleted it",
+          "location": 1446
+        },
+        {
+          "text": "inquired to youtube about the *mms* videos",
+          "location": 1528
+        },
+        {
+          "text": "warning letter back in 2010 about *mms*",
+          "location": 1639
+        },
+        {
+          "text": "about *mms* but how come the epa the",
+          "location": 1649
+        },
+        {
+          "text": "shit on me right now for *mms* is just",
+          "location": 1762
+        },
+        {
+          "text": "this *mms* stuff and again it's all the",
+          "location": 1782
+        },
+        {
+          "text": "what's funny is that with this *mms*",
+          "location": 1840
+        },
+        {
+          "text": "actually when it comes to *mms* in my",
+          "location": 1851
+        },
+        {
+          "text": "know using *mms* are using it for far",
+          "location": 1863
+        }
+      ]
+    },
+    {
+      "id": "mPovmVmAgXs",
+      "segments": [
+        {
+          "text": "look into *mms* the miracle mineral",
+          "location": 1565
+        },
+        {
+          "text": "somebody said i mentioned *mms* which is a",
+          "location": 1599
+        }
+      ]
+    },
+    {
+      "id": "NbUtbE4Zpoc",
+      "segments": [
+        {
+          "text": "mentioned b17 *mms* cannabis none of those",
+          "location": 80
+        },
+        {
+          "text": "vitamin b17 or *mms* and yes they will",
+          "location": 99
+        }
+      ]
+    },
+    {
+      "id": "Nqbj_4nIAiA",
+      "segments": [
+        {
+          "text": "*mms* will be talking ufos all the stuff",
+          "location": 8
+        },
+        {
+          "text": "now let's move on into talking about *mms*",
+          "location": 447
+        },
+        {
+          "text": "mainstream media today against *mms* *mms*",
+          "location": 457
+        },
+        {
+          "text": "about *mms* i had like 300,000 views i",
+          "location": 477
+        },
+        {
+          "text": "out of the mainstream media against *mms*",
+          "location": 485
+        },
+        {
+          "text": "propaganda push of attacks on *mms* it's",
+          "location": 492
+        },
+        {
+          "text": "about *mms* and chlorine dioxide now a few",
+          "location": 517
+        },
+        {
+          "text": "propaganda about *mms* and chlorine",
+          "location": 535
+        },
+        {
+          "text": "stuff but you can harm yourself with *mms*",
+          "location": 582
+        },
+        {
+          "text": "you know that *mms* video uploaded a",
+          "location": 612
+        },
+        {
+          "text": "scientist who's using *mms* in actual",
+          "location": 624
+        },
+        {
+          "text": "also jim humbles book he's a huge *mms*",
+          "location": 657
+        },
+        {
+          "text": "it very truthfully talking about *mms* for",
+          "location": 762
+        },
+        {
+          "text": "a few q and on *mms* a lot of other things",
+          "location": 1225
+        }
+      ]
+    },
+    {
+      "id": "NS200QxWq7g",
+      "segments": [
+        {
+          "text": "attacked for quite a bit lately is *mms*",
+          "location": 721
+        },
+        {
+          "text": "the mainstream media is *mms* chlorine",
+          "location": 726
+        },
+        {
+          "text": "no *mms* isn't necessarily toxic bleach",
+          "location": 801
+        },
+        {
+          "text": "warning letters about *mms* aka chlorine",
+          "location": 888
+        },
+        {
+          "text": "just call it *mms* fda put out warning",
+          "location": 893
+        },
+        {
+          "text": "letters about *mms* saying it's toxic",
+          "location": 896
+        },
+        {
+          "text": "so *mms* is one of those big topics in",
+          "location": 960
+        },
+        {
+          "text": "*mms* we went through talking about some",
+          "location": 1390
+        }
+      ]
+    },
+    {
+      "id": "oK2ZWHTdbpA",
+      "segments": [
+        {
+          "text": "dioxide or *mms* bleach is just a",
+          "location": 1376
+        }
+      ]
+    },
+    {
+      "id": "Pi8_BZtYNzQ",
+      "segments": [
+        {
+          "text": "especially she's attacked *mms* chlorine",
+          "location": 496
+        }
+      ]
+    },
+    {
+      "id": "pyMrzxZBZZQ",
+      "segments": [
+        {
+          "text": "how often do i use *mms* yeah that'll be",
+          "location": 1605
+        },
+        {
+          "text": "i'm just gonna make *mms* on my channel",
+          "location": 1613
+        },
+        {
+          "text": "*mms* is not technically a beat bleach but",
+          "location": 1650
+        },
+        {
+          "text": "not used *mms* well no i have i used it",
+          "location": 1658
+        },
+        {
+          "text": "too much a lot of questions what is *mms*",
+          "location": 1669
+        },
+        {
+          "text": "disinfectant or water purifier and *mms*",
+          "location": 1683
+        },
+        {
+          "text": "ingredient is chlorine dioxide or *mms*",
+          "location": 1709
+        },
+        {
+          "text": "instead of *mms* do your own research on",
+          "location": 1811
+        },
+        {
+          "text": "to get 35% at least and *mms* for me is",
+          "location": 1990
+        },
+        {
+          "text": "*mms* can't oxidize our body cells it",
+          "location": 2022
+        },
+        {
+          "text": "so i've used *mms* you know i've i'm one",
+          "location": 2830
+        },
+        {
+          "text": "have vaccine injured children go try *mms*",
+          "location": 2845
+        }
+      ]
+    },
+    {
+      "id": "q0IR8IqKZ18",
+      "segments": [
+        {
+          "text": "learn about the *mms* protocol of jim",
+          "location": 1965
+        },
+        {
+          "text": "audience oh yeah *mms* i have a few",
+          "location": 1973
+        },
+        {
+          "text": "funny they say *mms* *mms* is a acronym",
+          "location": 1992
+        },
+        {
+          "text": "the attack *mms* so much because it's so",
+          "location": 2060
+        },
+        {
+          "text": "with it where to get *mms* you're probably",
+          "location": 2078
+        }
+      ]
+    },
+    {
+      "id": "R_iWc7_vQ14",
+      "segments": [
+        {
+          "text": "*mms* will deconstruct those and figure",
+          "location": 51
+        },
+        {
+          "text": "they are going to to attack *mms* to",
+          "location": 863
+        },
+        {
+          "text": "my video on *mms* a few months ago is",
+          "location": 871
+        },
+        {
+          "text": "*mms* and this is just awful again they're",
+          "location": 885
+        },
+        {
+          "text": "of fake propaganda if *mms* was toxic",
+          "location": 893
+        },
+        {
+          "text": "on chlorine dioxide and *mms* i would",
+          "location": 925
+        },
+        {
+          "text": "that's using *mms* is kidding andrew",
+          "location": 950
+        },
+        {
+          "text": "i'm gonna mix up explain *mms* drink it on",
+          "location": 958
+        },
+        {
+          "text": "vaccines and *mms* they wouldn't be doing",
+          "location": 983
+        }
+      ]
+    },
+    {
+      "id": "rX0dkfDOO1s",
+      "segments": [
+        {
+          "text": "they took away my video on *mms* so they",
+          "location": 530
+        },
+        {
+          "text": "yeah guys i will do another *mms* video",
+          "location": 560
+        },
+        {
+          "text": "*mms* miracle mineral supplement into",
+          "location": 584
+        },
+        {
+          "text": "there's been a lot of censorship of *mms*",
+          "location": 596
+        }
+      ]
+    },
+    {
+      "id": "sHUgXraPhAc",
+      "segments": [
+        {
+          "text": "and then some stuff about *mms* we'll",
+          "location": 65
+        },
+        {
+          "text": "thing i have to say is on *mms* *mms* i'm",
+          "location": 2340
+        },
+        {
+          "text": "that are being thrown out about *mms* or",
+          "location": 2352
+        },
+        {
+          "text": "that i've gotten for *mms* is by this dude",
+          "location": 2368
+        },
+        {
+          "text": "history of *mms* and it's not it's really",
+          "location": 2375
+        },
+        {
+          "text": "*mms* and it's really badly done he's",
+          "location": 2398
+        },
+        {
+          "text": "around *mms* or chlorine dioxide and he",
+          "location": 2408
+        },
+        {
+          "text": "a little over two years ago about *mms*",
+          "location": 2420
+        },
+        {
+          "text": "in *mms* into their search engine you",
+          "location": 2460
+        },
+        {
+          "text": "youtube video on *mms* you uploaded",
+          "location": 2481
+        },
+        {
+          "text": "youtube deleted my *mms* video this one",
+          "location": 2493
+        }
+      ]
+    },
+    {
+      "id": "TKOI_wF6Rn0",
+      "segments": [
+        {
+          "text": "home and *mms* the whole state and i must",
+          "location": 1019
+        },
+        {
+          "text": "shrinking jordan with his *mms* and his",
+          "location": 1029
+        }
+      ]
+    },
+    {
+      "id": "UpaXSxM07to",
+      "segments": [
+        {
+          "text": "you know my *mms* video was taken down",
+          "location": 1176
+        },
+        {
+          "text": "funny you know that that *mms* video i",
+          "location": 1198
+        },
+        {
+          "text": "myself another video and i have *mms* i",
+          "location": 1217
+        },
+        {
+          "text": "*mms* i've also had a lot of people ask me",
+          "location": 1251
+        },
+        {
+          "text": "there about *mms* and i might even go to a",
+          "location": 1279
+        },
+        {
+          "text": "seminar on *mms* later this month and i'll",
+          "location": 1283
+        },
+        {
+          "text": "content a lot of good background on *mms*",
+          "location": 1294
+        },
+        {
+          "text": "*mms* and no not *mms* or miss or miss up on",
+          "location": 1575
+        }
+      ]
+    },
+    {
+      "id": "vL7VfteARhQ",
+      "segments": [
+        {
+          "text": "shit for *mms* all the time people call me",
+          "location": 1612
+        }
+      ]
+    },
+    {
+      "id": "ysHQziNaMOo",
+      "segments": [
+        {
+          "text": "is about something called *mms* or",
+          "location": 701
+        },
+        {
+          "text": "you're not familiar with *mms* i'm going",
+          "location": 708
+        },
+        {
+          "text": "*mms* i did a video on this right when i",
+          "location": 720
+        },
+        {
+          "text": "about *mms* because i had it on me and",
+          "location": 738
+        },
+        {
+          "text": "what *mms* is is that it is a mineral it's",
+          "location": 740
+        },
+        {
+          "text": "internally right so *mms* has always been",
+          "location": 757
+        },
+        {
+          "text": "around *mms* and this newsweek article is",
+          "location": 780
+        },
+        {
+          "text": "yet more propaganda *mms* you want to be",
+          "location": 784
+        },
+        {
+          "text": "and i invite you guys to check into *mms*",
+          "location": 815
+        }
+      ]
+    },
+    {
+      "id": "yVjAH8Wg-hk",
+      "segments": [
+        {
+          "text": "recently for *mms* she was attacking this",
+          "location": 429
+        }
+      ]
+    },
+    {
+      "id": "ywKQGnLaYdk",
+      "segments": [
+        {
+          "text": "is *mms* you can literally youtube *mms*",
+          "location": 960
+        },
+        {
+          "text": "of them of people who have tried *mms* and",
+          "location": 966
+        },
+        {
+          "text": "and *mms* is very cheap very simple",
+          "location": 972
+        },
+        {
+          "text": "posts about *mms* in the past there was an",
+          "location": 997
+        },
+        {
+          "text": "check out *mms* in regards to aids",
+          "location": 1011
+        },
+        {
+          "text": "*mms* great stuff in general you can look",
+          "location": 1013
+        }
+      ]
+    },
+    {
+      "id": "zffLUSbaqlw",
+      "segments": [
+        {
+          "text": "*mms* where can you buy it i believe you",
+          "location": 1851
+        },
+        {
+          "text": "america so *mms* is",
+          "location": 1862
+        },
+        {
+          "text": "*mms* some of",
+          "location": 1998
+        },
+        {
+          "text": "describing *mms* it's fantastic internal",
+          "location": 2004
+        }
+      ]
+    },
+    {
+      "id": "ZseKL2q2S-E",
+      "segments": [
+        {
+          "text": "this channel like *mms* chlorine dioxide",
+          "location": 2300
+        }
+      ]
+    }
+  ]
+}

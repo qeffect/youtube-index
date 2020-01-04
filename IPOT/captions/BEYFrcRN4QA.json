@@ -1,0 +1,4032 @@
+[
+  {
+    "start": 4.019,
+    "duraction": 27.6,
+    "value": "[Music]"
+  },
+  {
+    "start": 37.27,
+    "duraction": 4.0,
+    "value": "welcome to in pursuit of truth this is"
+  },
+  {
+    "start": 39.44,
+    "duraction": 4.2,
+    "value": "your host Sir Patrick Matt we are back"
+  },
+  {
+    "start": 41.27,
+    "duraction": 4.44,
+    "value": "once again to grab your coffee fist bump"
+  },
+  {
+    "start": 43.64,
+    "duraction": 3.45,
+    "value": "your neighbor and let's get started"
+  },
+  {
+    "start": 45.71,
+    "duraction": 3.3,
+    "value": "there's a ton of things in the news to"
+  },
+  {
+    "start": 47.09,
+    "duraction": 4.41,
+    "value": "talk about but in particular I want to"
+  },
+  {
+    "start": 49.01,
+    "duraction": 4.049,
+    "value": "talk a little bit about space X today"
+  },
+  {
+    "start": 51.5,
+    "duraction": 6.629,
+    "value": "the US Air Force"
+  },
+  {
+    "start": 53.059,
+    "duraction": 7.441,
+    "value": "Skynet StarLink 5g and even d5 you're"
+  },
+  {
+    "start": 58.129,
+    "duraction": 4.771,
+    "value": "looking at some promo video from SpaceX"
+  },
+  {
+    "start": 60.5,
+    "duraction": 4.8,
+    "value": "and their Starling program and here is a"
+  },
+  {
+    "start": 62.9,
+    "duraction": 5.37,
+    "value": "tweet from the third row podcasts and on"
+  },
+  {
+    "start": 65.3,
+    "duraction": 5.4,
+    "value": "the February 23rd the US Air Force used"
+  },
+  {
+    "start": 68.27,
+    "duraction": 3.48,
+    "value": "starlings first to test satellites to"
+  },
+  {
+    "start": 70.7,
+    "duraction": 3.529,
+    "value": "beam to terminals"
+  },
+  {
+    "start": 71.75,
+    "duraction": 5.25,
+    "value": "fixed to a military plane in flight"
+  },
+  {
+    "start": 74.229,
+    "duraction": 6.071,
+    "value": "demonstrating internet speeds of 610"
+  },
+  {
+    "start": 77.0,
+    "duraction": 5.399,
+    "value": "megabits per second SpaceX SVP Tim"
+  },
+  {
+    "start": 80.3,
+    "duraction": 4.349,
+    "value": "Hughes said that's fast enough to"
+  },
+  {
+    "start": 82.399,
+    "duraction": 4.261,
+    "value": "download a movie in under a minute"
+  },
+  {
+    "start": 84.649,
+    "duraction": 4.651,
+    "value": "okay so we're gonna talk a little bit"
+  },
+  {
+    "start": 86.66,
+    "duraction": 4.95,
+    "value": "about this star link program which"
+  },
+  {
+    "start": 89.3,
+    "duraction": 4.05,
+    "value": "sounds a lot like Skynet but it's not"
+  },
+  {
+    "start": 91.61,
+    "duraction": 3.21,
+    "value": "it's not same thing Skynet with"
+  },
+  {
+    "start": 93.35,
+    "duraction": 5.09,
+    "value": "something completely different this is"
+  },
+  {
+    "start": 94.82,
+    "duraction": 7.049,
+    "value": "star link and now with Skynet totally"
+  },
+  {
+    "start": 98.44,
+    "duraction": 5.319,
+    "value": "different programs anyway let's get a"
+  },
+  {
+    "start": 101.869,
+    "duraction": 4.17,
+    "value": "little bit of information from real"
+  },
+  {
+    "start": 103.759,
+    "duraction": 4.231,
+    "value": "Engineering's YouTube page where they"
+  },
+  {
+    "start": 106.039,
+    "duraction": 4.711,
+    "value": "explain a little bit about this star"
+  },
+  {
+    "start": 107.99,
+    "duraction": 4.92,
+    "value": "link program on the 24th of May SpaceX"
+  },
+  {
+    "start": 110.75,
+    "duraction": 5.069,
+    "value": "launched a falcon 9 rocket filled with"
+  },
+  {
+    "start": 112.91,
+    "duraction": 5.01,
+    "value": "60 satellites into space this marked the"
+  },
+  {
+    "start": 115.819,
+    "duraction": 4.381,
+    "value": "beginning of their ambitious new project"
+  },
+  {
+    "start": 117.92,
+    "duraction": 4.74,
+    "value": "called StarLink which aims to provide"
+  },
+  {
+    "start": 120.2,
+    "duraction": 4.89,
+    "value": "high-quality broadband internet to the"
+  },
+  {
+    "start": 122.66,
+    "duraction": 4.92,
+    "value": "most isolated parts of the planet while"
+  },
+  {
+    "start": 125.09,
+    "duraction": 5.55,
+    "value": "also providing low latency connectivity"
+  },
+  {
+    "start": 127.58,
+    "duraction": 4.409,
+    "value": "to already well-connected cities SpaceX"
+  },
+  {
+    "start": 130.64,
+    "duraction": 3.81,
+    "value": "aimed to make their broadband as"
+  },
+  {
+    "start": 131.989,
+    "duraction": 4.381,
+    "value": "accessible as possible claiming that"
+  },
+  {
+    "start": 134.45,
+    "duraction": 4.2,
+    "value": "anyone will be able to connect to their"
+  },
+  {
+    "start": 136.37,
+    "duraction": 4.5,
+    "value": "network if they buy the pizza box sized"
+  },
+  {
+    "start": 138.65,
+    "duraction": 4.949,
+    "value": "antenna which SpaceX is developing"
+  },
+  {
+    "start": 140.87,
+    "duraction": 5.72,
+    "value": "themselves this launch of 60 satellites"
+  },
+  {
+    "start": 143.599,
+    "duraction": 5.431,
+    "value": "was just the first of money SpaceX has"
+  },
+  {
+    "start": 146.59,
+    "duraction": 4.75,
+    "value": "12,000 satellites planned for launch"
+  },
+  {
+    "start": 149.03,
+    "duraction": 3.929,
+    "value": "over the next decade dramatically"
+  },
+  {
+    "start": 151.34,
+    "duraction": 4.259,
+    "value": "increasing the total amount of"
+  },
+  {
+    "start": 152.959,
+    "duraction": 5.101,
+    "value": "spacecraft around Earth's orbit each"
+  },
+  {
+    "start": 155.599,
+    "duraction": 5.671,
+    "value": "satellite can cover a circular area with"
+  },
+  {
+    "start": 158.06,
+    "duraction": 5.37,
+    "value": "a radius of 500 kilometers at SpaceX's"
+  },
+  {
+    "start": 161.27,
+    "duraction": 5.609,
+    "value": "originally planned orbit this coverage"
+  },
+  {
+    "start": 163.43,
+    "duraction": 4.29,
+    "value": "had a radius of 1060 kilometers lowering"
+  },
+  {
+    "start": 166.879,
+    "duraction": 3.061,
+    "value": "the altitude of"
+  },
+  {
+    "start": 167.72,
+    "duraction": 5.52,
+    "value": "satellite decreases the area can cover"
+  },
+  {
+    "start": 169.94,
+    "duraction": 5.34,
+    "value": "but also decreases the latency this is"
+  },
+  {
+    "start": 173.24,
+    "duraction": 4.23,
+    "value": "particularly noticeable for typical"
+  },
+  {
+    "start": 175.28,
+    "duraction": 4.97,
+    "value": "communication satellites operating in"
+  },
+  {
+    "start": 177.47,
+    "duraction": 5.76,
+    "value": "geostationary orbit at an altitude of"
+  },
+  {
+    "start": 180.25,
+    "duraction": 5.02,
+    "value": "36,000 kilometers the time it takes data"
+  },
+  {
+    "start": 183.23,
+    "duraction": 4.05,
+    "value": "to travel up to the satellites and back"
+  },
+  {
+    "start": 185.27,
+    "duraction": 6.45,
+    "value": "down traveling at the speed of light is"
+  },
+  {
+    "start": 187.28,
+    "duraction": 6.57,
+    "value": "around 240 milliseconds 369 percent"
+  },
+  {
+    "start": 191.72,
+    "duraction": 4.26,
+    "value": "slower thinner subsea cable"
+  },
+  {
+    "start": 193.85,
+    "duraction": 4.59,
+    "value": "however since StarLink is intending to"
+  },
+  {
+    "start": 195.98,
+    "duraction": 4.89,
+    "value": "operate at a much lower altitude the up"
+  },
+  {
+    "start": 198.44,
+    "duraction": 5.61,
+    "value": "and down link theoretical latency could"
+  },
+  {
+    "start": 200.87,
+    "duraction": 5.339,
+    "value": "be as low as 3.6 milliseconds this is"
+  },
+  {
+    "start": 204.05,
+    "duraction": 4.29,
+    "value": "why spacex needs so many satellites in"
+  },
+  {
+    "start": 206.209,
+    "duraction": 4.711,
+    "value": "their constellation in order to provide"
+  },
+  {
+    "start": 208.34,
+    "duraction": 4.77,
+    "value": "worldwide coverage let's look at space"
+  },
+  {
+    "start": 210.92,
+    "duraction": 3.02,
+    "value": "X's proposed constellation to see how"
+  },
+  {
+    "start": 213.11,
+    "duraction": 5.4,
+    "value": "this will work"
+  },
+  {
+    "start": 213.94,
+    "duraction": 8.38,
+    "value": "SpaceX is first phase of 1584 satellites"
+  },
+  {
+    "start": 218.51,
+    "duraction": 6.39,
+    "value": "will occupy 24 orbital planes with 66"
+  },
+  {
+    "start": 222.32,
+    "duraction": 5.1,
+    "value": "satellites and each plane inclined at 53"
+  },
+  {
+    "start": 224.9,
+    "duraction": 5.25,
+    "value": "degrees if everything goes to plan"
+  },
+  {
+    "start": 227.42,
+    "duraction": 5.25,
+    "value": "StarLink is estimated to generate 30"
+  },
+  {
+    "start": 230.15,
+    "duraction": 5.01,
+    "value": "billion to 50 billion in revenue each"
+  },
+  {
+    "start": 232.67,
+    "duraction": 4.89,
+    "value": "year on the back of premium stock"
+  },
+  {
+    "start": 235.16,
+    "duraction": 4.71,
+    "value": "exchange memberships demolishing the"
+  },
+  {
+    "start": 237.56,
+    "duraction": 5.07,
+    "value": "current annual revenue of around 3"
+  },
+  {
+    "start": 239.87,
+    "duraction": 5.1,
+    "value": "billion and this is a vital part of Elon"
+  },
+  {
+    "start": 242.63,
+    "duraction": 4.74,
+    "value": "Musk's long-term goals the money"
+  },
+  {
+    "start": 244.97,
+    "duraction": 4.44,
+    "value": "generated from StarLink will mean SpaceX"
+  },
+  {
+    "start": 247.37,
+    "duraction": 4.53,
+    "value": "will have vastly more funding the NASA"
+  },
+  {
+    "start": 249.41,
+    "duraction": 4.56,
+    "value": "which could go on to fund research and"
+  },
+  {
+    "start": 251.9,
+    "duraction": 4.559,
+    "value": "development of new rockets and the"
+  },
+  {
+    "start": 253.97,
+    "duraction": 4.5,
+    "value": "technologies needed to monetize lunar"
+  },
+  {
+    "start": 256.459,
+    "duraction": 3.511,
+    "value": "and Martian colonies all right so I will"
+  },
+  {
+    "start": 258.47,
+    "duraction": 4.14,
+    "value": "leave you the link to the full video"
+  },
+  {
+    "start": 259.97,
+    "duraction": 4.62,
+    "value": "down below to the real engineering page"
+  },
+  {
+    "start": 262.61,
+    "duraction": 4.559,
+    "value": "you do a great job explaining this"
+  },
+  {
+    "start": 264.59,
+    "duraction": 5.73,
+    "value": "Skynet I'm sorry I need to say Starling"
+  },
+  {
+    "start": 267.169,
+    "duraction": 5.821,
+    "value": "satellite system which SpaceX stands to"
+  },
+  {
+    "start": 270.32,
+    "duraction": 4.86,
+    "value": "make a grip of cash off of like the"
+  },
+  {
+    "start": 272.99,
+    "duraction": 3.54,
+    "value": "video set a budget even bigger than NASA"
+  },
+  {
+    "start": 275.18,
+    "duraction": 3.81,
+    "value": "which is something that we probably"
+  },
+  {
+    "start": 276.53,
+    "duraction": 4.44,
+    "value": "should be talking about but it looks"
+  },
+  {
+    "start": 278.99,
+    "duraction": 4.8,
+    "value": "like regardless of how you feel about"
+  },
+  {
+    "start": 280.97,
+    "duraction": 5.79,
+    "value": "the health effects or the security"
+  },
+  {
+    "start": 283.79,
+    "duraction": 5.939,
+    "value": "ramifications of this system it looks to"
+  },
+  {
+    "start": 286.76,
+    "duraction": 6.0,
+    "value": "me like this is going to be a massive 5g"
+  },
+  {
+    "start": 289.729,
+    "duraction": 4.891,
+    "value": "rollout and we've seen this already the"
+  },
+  {
+    "start": 292.76,
+    "duraction": 3.39,
+    "value": "FCC has already approved a couple of"
+  },
+  {
+    "start": 294.62,
+    "duraction": 4.38,
+    "value": "these rollouts you are looking at a"
+  },
+  {
+    "start": 296.15,
+    "duraction": 4.5,
+    "value": "video from about eight months ago as you"
+  },
+  {
+    "start": 299.0,
+    "duraction": 2.61,
+    "value": "can see there's a little trail of"
+  },
+  {
+    "start": 300.65,
+    "duraction": 3.389,
+    "value": "satellites right"
+  },
+  {
+    "start": 301.61,
+    "duraction": 4.619,
+    "value": "these seem to be smaller satellites that"
+  },
+  {
+    "start": 304.039,
+    "duraction": 3.78,
+    "value": "will burn up upon re-entry I think"
+  },
+  {
+    "start": 306.229,
+    "duraction": 3.18,
+    "value": "they're kind of like reusable but they"
+  },
+  {
+    "start": 307.819,
+    "duraction": 3.69,
+    "value": "use thousands that's the whole plan"
+  },
+  {
+    "start": 309.409,
+    "duraction": 4.41,
+    "value": "thousands of these smaller satellites"
+  },
+  {
+    "start": 311.509,
+    "duraction": 5.88,
+    "value": "which will be hovering at a much lower"
+  },
+  {
+    "start": 313.819,
+    "duraction": 4.771,
+    "value": "orbit to reduce latency and of course"
+  },
+  {
+    "start": 317.389,
+    "duraction": 3.18,
+    "value": "because they're smaller they have a"
+  },
+  {
+    "start": 318.59,
+    "duraction": 3.87,
+    "value": "smaller range and that's the need for"
+  },
+  {
+    "start": 320.569,
+    "duraction": 4.171,
+    "value": "the thousands of satellites so it's a"
+  },
+  {
+    "start": 322.46,
+    "duraction": 4.35,
+    "value": "little bit creepy stuff and I gotta say"
+  },
+  {
+    "start": 324.74,
+    "duraction": 4.44,
+    "value": "you know we already have a lot of great"
+  },
+  {
+    "start": 326.81,
+    "duraction": 5.22,
+    "value": "information in regards to 4G technology"
+  },
+  {
+    "start": 329.18,
+    "duraction": 4.739,
+    "value": "which isn't necessarily healthy there is"
+  },
+  {
+    "start": 332.03,
+    "duraction": 3.509,
+    "value": "it but it seems to operate our phones"
+  },
+  {
+    "start": 333.919,
+    "duraction": 3.331,
+    "value": "and our computers just fine and"
+  },
+  {
+    "start": 335.539,
+    "duraction": 5.701,
+    "value": "depending on your internet service"
+  },
+  {
+    "start": 337.25,
+    "duraction": 5.639,
+    "value": "provider will really be what creates the"
+  },
+  {
+    "start": 341.24,
+    "duraction": 4.62,
+    "value": "difference in your own internet speeds"
+  },
+  {
+    "start": 342.889,
+    "duraction": 4.951,
+    "value": "or latency and whatnot but the way this"
+  },
+  {
+    "start": 345.86,
+    "duraction": 4.29,
+    "value": "is all being sold to us is that this is"
+  },
+  {
+    "start": 347.84,
+    "duraction": 4.74,
+    "value": "going to offer high-speed Internet all"
+  },
+  {
+    "start": 350.15,
+    "duraction": 4.379,
+    "value": "across the planet now is that exactly"
+  },
+  {
+    "start": 352.58,
+    "duraction": 4.619,
+    "value": "what we really need is there really more"
+  },
+  {
+    "start": 354.529,
+    "duraction": 4.021,
+    "value": "to this it seems like there would be now"
+  },
+  {
+    "start": 357.199,
+    "duraction": 3.75,
+    "value": "I want to take you to this article from"
+  },
+  {
+    "start": 358.55,
+    "duraction": 5.16,
+    "value": "the other days from the 21st from"
+  },
+  {
+    "start": 360.949,
+    "duraction": 4.71,
+    "value": "investors calm space X Starling"
+  },
+  {
+    "start": 363.71,
+    "duraction": 5.22,
+    "value": "satellites will play a major role in an"
+  },
+  {
+    "start": 365.659,
+    "duraction": 5.461,
+    "value": "Air Force live-fire exercise in April"
+  },
+  {
+    "start": 368.93,
+    "duraction": 4.199,
+    "value": "and a Virgin Galactic sister company is"
+  },
+  {
+    "start": 371.12,
+    "duraction": 4.859,
+    "value": "in talks to potentially join in as well"
+  },
+  {
+    "start": 373.129,
+    "duraction": 5.07,
+    "value": "in December the Air Force tested its"
+  },
+  {
+    "start": 375.979,
+    "duraction": 4.951,
+    "value": "experimental advanced battle management"
+  },
+  {
+    "start": 378.199,
+    "duraction": 5.37,
+    "value": "system that will connect air sea land"
+  },
+  {
+    "start": 380.93,
+    "duraction": 5.099,
+    "value": "and space assets the exercise was deemed"
+  },
+  {
+    "start": 383.569,
+    "duraction": 4.621,
+    "value": "an overall success with SpaceX Starling"
+  },
+  {
+    "start": 386.029,
+    "duraction": 5.88,
+    "value": "satellites used to link to a Lockheed"
+  },
+  {
+    "start": 388.19,
+    "duraction": 6.149,
+    "value": "Martin ac-130 gunship as a next step the"
+  },
+  {
+    "start": 391.909,
+    "duraction": 6.271,
+    "value": "Air Force is April 8th event is going to"
+  },
+  {
+    "start": 394.339,
+    "duraction": 6.601,
+    "value": "be massive so a massive event on April"
+  },
+  {
+    "start": 398.18,
+    "duraction": 4.59,
+    "value": "8th Air Force acquisition chief William"
+  },
+  {
+    "start": 400.94,
+    "duraction": 4.11,
+    "value": "Roper told reporters asked the Pentagon"
+  },
+  {
+    "start": 402.77,
+    "duraction": 4.17,
+    "value": "at the Pentagon on Friday excuse me the"
+  },
+  {
+    "start": 405.05,
+    "duraction": 3.929,
+    "value": "spacex Starling satellites will play an"
+  },
+  {
+    "start": 406.94,
+    "duraction": 4.56,
+    "value": "even bigger role than in December as"
+  },
+  {
+    "start": 408.979,
+    "duraction": 5.55,
+    "value": "Roper wants them to connect to more"
+  },
+  {
+    "start": 411.5,
+    "duraction": 5.49,
+    "value": "assets including platforms on the ground"
+  },
+  {
+    "start": 414.529,
+    "duraction": 4.38,
+    "value": "SpaceX has been a great industry partner"
+  },
+  {
+    "start": 416.99,
+    "duraction": 3.69,
+    "value": "for us he said they are very excited"
+  },
+  {
+    "start": 418.909,
+    "duraction": 3.06,
+    "value": "I'll bet they are and we are excited to"
+  },
+  {
+    "start": 420.68,
+    "duraction": 3.539,
+    "value": "learn more about their satellites"
+  },
+  {
+    "start": 421.969,
+    "duraction": 5.491,
+    "value": "through the demonstration the exercise"
+  },
+  {
+    "start": 424.219,
+    "duraction": 5.67,
+    "value": "will include live-fire drills such as"
+  },
+  {
+    "start": 427.46,
+    "duraction": 3.72,
+    "value": "taking down a UAV and shooting down a"
+  },
+  {
+    "start": 429.889,
+    "duraction": 2.101,
+    "value": "cruise missile okay well that doesn't"
+  },
+  {
+    "start": 431.18,
+    "duraction": 3.36,
+    "value": "sound"
+  },
+  {
+    "start": 431.99,
+    "duraction": 4.77,
+    "value": "all like just high-speed Internet"
+  },
+  {
+    "start": 434.54,
+    "duraction": 4.08,
+    "value": "doesn't they will be performed across"
+  },
+  {
+    "start": 436.76,
+    "duraction": 4.41,
+    "value": "the country from Marine Corps Air"
+  },
+  {
+    "start": 438.62,
+    "duraction": 5.49,
+    "value": "Station Yuma in Arizona to Eaglin Air"
+  },
+  {
+    "start": 441.17,
+    "duraction": 4.86,
+    "value": "Force Base in Florida space ex StarLink"
+  },
+  {
+    "start": 444.11,
+    "duraction": 4.26,
+    "value": "may not be the only commercial space"
+  },
+  {
+    "start": 446.03,
+    "duraction": 4.35,
+    "value": "provider in the exercises Roper said"
+  },
+  {
+    "start": 448.37,
+    "duraction": 4.35,
+    "value": "that he is in discussions with Virgin"
+  },
+  {
+    "start": 450.38,
+    "duraction": 4.38,
+    "value": "orbits the privately held sister company"
+  },
+  {
+    "start": 452.72,
+    "duraction": 4.43,
+    "value": "of Virgin Galactic to participate with"
+  },
+  {
+    "start": 454.76,
+    "duraction": 5.25,
+    "value": "its launcher one to provide on-demand"
+  },
+  {
+    "start": 457.15,
+    "duraction": 4.63,
+    "value": "launches virgin orbit is dedicated to"
+  },
+  {
+    "start": 460.01,
+    "duraction": 4.2,
+    "value": "launching small satellites via its"
+  },
+  {
+    "start": 461.78,
+    "duraction": 5.46,
+    "value": "launcher one rocket which is launched in"
+  },
+  {
+    "start": 464.21,
+    "duraction": 4.92,
+    "value": "midair off a modified Boeing 747 jumbo"
+  },
+  {
+    "start": 467.24,
+    "duraction": 3.84,
+    "value": "jet now let me skip you down just a"
+  },
+  {
+    "start": 469.13,
+    "duraction": 4.89,
+    "value": "little further here SpaceX founded by"
+  },
+  {
+    "start": 471.08,
+    "duraction": 5.66,
+    "value": "Tesla CEO Elon Musk has said it means"
+  },
+  {
+    "start": 474.02,
+    "duraction": 6.15,
+    "value": "400 Starling satellites for minor"
+  },
+  {
+    "start": 476.74,
+    "duraction": 5.71,
+    "value": "broadband internet coverage and 800 for"
+  },
+  {
+    "start": 480.17,
+    "duraction": 5.88,
+    "value": "moderate coverage the company eventually"
+  },
+  {
+    "start": 482.45,
+    "duraction": 5.91,
+    "value": "plans to deploy over 40,000 satellites"
+  },
+  {
+    "start": 486.05,
+    "duraction": 4.92,
+    "value": "and keep in mind low-flying satellites"
+  },
+  {
+    "start": 488.36,
+    "duraction": 5.04,
+    "value": "to offer space-based internet service"
+  },
+  {
+    "start": 490.97,
+    "duraction": 4.35,
+    "value": "SpaceX launched its latest batch of"
+  },
+  {
+    "start": 493.4,
+    "duraction": 3.69,
+    "value": "Starling satellites on Monday bringing"
+  },
+  {
+    "start": 495.32,
+    "duraction": 5.1,
+    "value": "the total number of satellites in orbit"
+  },
+  {
+    "start": 497.09,
+    "duraction": 5.76,
+    "value": "to over 300 ok so whether you love this"
+  },
+  {
+    "start": 500.42,
+    "duraction": 4.65,
+    "value": "hate this are unsure or indifferent or"
+  },
+  {
+    "start": 502.85,
+    "duraction": 4.68,
+    "value": "somewhere in between this appears to be"
+  },
+  {
+    "start": 505.07,
+    "duraction": 4.89,
+    "value": "going down in a very big way like they"
+  },
+  {
+    "start": 507.53,
+    "duraction": 5.34,
+    "value": "said massive and it remains to be seen"
+  },
+  {
+    "start": 509.96,
+    "duraction": 5.55,
+    "value": "how massive this April 8 event is really"
+  },
+  {
+    "start": 512.87,
+    "duraction": 5.07,
+    "value": "going to be but I imagine it really"
+  },
+  {
+    "start": 515.51,
+    "duraction": 5.04,
+    "value": "truly is going to be huge now this"
+  },
+  {
+    "start": 517.94,
+    "duraction": 4.56,
+    "value": "doesn't just suggest to me a massive 5g"
+  },
+  {
+    "start": 520.55,
+    "duraction": 3.66,
+    "value": "rollout given the air force's"
+  },
+  {
+    "start": 522.5,
+    "duraction": 4.35,
+    "value": "involvement I imagine this is also a"
+  },
+  {
+    "start": 524.21,
+    "duraction": 5.04,
+    "value": "space force rollout right after all so"
+  },
+  {
+    "start": 526.85,
+    "duraction": 4.38,
+    "value": "much of this is in their wheelhouse now"
+  },
+  {
+    "start": 529.25,
+    "duraction": 4.11,
+    "value": "there's a lot of moving parts here good"
+  },
+  {
+    "start": 531.23,
+    "duraction": 4.05,
+    "value": "and bad and it's really really hard to"
+  },
+  {
+    "start": 533.36,
+    "duraction": 4.2,
+    "value": "kind of wrap my head around because I"
+  },
+  {
+    "start": 535.28,
+    "duraction": 4.68,
+    "value": "think this has long-term implications"
+  },
+  {
+    "start": 537.56,
+    "duraction": 4.44,
+    "value": "that we don't really truly understand"
+  },
+  {
+    "start": 539.96,
+    "duraction": 4.2,
+    "value": "just yet now you could argue that so"
+  },
+  {
+    "start": 542.0,
+    "duraction": 4.7,
+    "value": "much of this is in defensive end posture"
+  },
+  {
+    "start": 544.16,
+    "duraction": 4.89,
+    "value": "in relation to China's global ambitions"
+  },
+  {
+    "start": 546.7,
+    "duraction": 4.06,
+    "value": "China has been going after this kind of"
+  },
+  {
+    "start": 549.05,
+    "duraction": 2.88,
+    "value": "thing for quite some time as a matter of"
+  },
+  {
+    "start": 550.76,
+    "duraction": 3.36,
+    "value": "fact they kind of have to jump on"
+  },
+  {
+    "start": 551.93,
+    "duraction": 4.08,
+    "value": "everybody and a lot of our American top"
+  },
+  {
+    "start": 554.12,
+    "duraction": 3.84,
+    "value": "brass has been mentioning this over the"
+  },
+  {
+    "start": 556.01,
+    "duraction": 3.99,
+    "value": "last few years particularly since"
+  },
+  {
+    "start": 557.96,
+    "duraction": 3.45,
+    "value": "President Trump got in office and of"
+  },
+  {
+    "start": 560.0,
+    "duraction": 3.72,
+    "value": "course president Trump has made it a"
+  },
+  {
+    "start": 561.41,
+    "duraction": 3.149,
+    "value": "priority whether he was clowned in the"
+  },
+  {
+    "start": 563.72,
+    "duraction": 3.059,
+    "value": "media about it"
+  },
+  {
+    "start": 564.559,
+    "duraction": 4.23,
+    "value": "to make sure that space force was a big"
+  },
+  {
+    "start": 566.779,
+    "duraction": 5.01,
+    "value": "priority so whether you like it or not"
+  },
+  {
+    "start": 568.789,
+    "duraction": 5.22,
+    "value": "this is essentially going down now there"
+  },
+  {
+    "start": 571.789,
+    "duraction": 5.04,
+    "value": "are other implications of course the"
+  },
+  {
+    "start": 574.009,
+    "duraction": 5.55,
+    "value": "health implications of 5g technology of"
+  },
+  {
+    "start": 576.829,
+    "duraction": 4.74,
+    "value": "which I am NOT an expert on but it seems"
+  },
+  {
+    "start": 579.559,
+    "duraction": 3.9,
+    "value": "to me that a lot of the science that's"
+  },
+  {
+    "start": 581.569,
+    "duraction": 3.66,
+    "value": "out there that's being offered to us"
+  },
+  {
+    "start": 583.459,
+    "duraction": 4.11,
+    "value": "suggests that it's not very beneficial"
+  },
+  {
+    "start": 585.229,
+    "duraction": 3.42,
+    "value": "to humans right now I don't really know"
+  },
+  {
+    "start": 587.569,
+    "duraction": 2.91,
+    "value": "the truth of that and I'm not really"
+  },
+  {
+    "start": 588.649,
+    "duraction": 4.11,
+    "value": "interested in debating about that but I"
+  },
+  {
+    "start": 590.479,
+    "duraction": 5.22,
+    "value": "do think it is something that we should"
+  },
+  {
+    "start": 592.759,
+    "duraction": 4.62,
+    "value": "be talking about and given the fact that"
+  },
+  {
+    "start": 595.699,
+    "duraction": 4.14,
+    "value": "the mainstream media is not talking"
+  },
+  {
+    "start": 597.379,
+    "duraction": 4.8,
+    "value": "about it suggests to me that we should"
+  },
+  {
+    "start": 599.839,
+    "duraction": 4.68,
+    "value": "be talking about this but of course I"
+  },
+  {
+    "start": 602.179,
+    "duraction": 5.76,
+    "value": "make the joke about Skynet which of"
+  },
+  {
+    "start": 604.519,
+    "duraction": 5.58,
+    "value": "course is the famous global security"
+  },
+  {
+    "start": 607.939,
+    "duraction": 5.37,
+    "value": "system that was in the Terminator movies"
+  },
+  {
+    "start": 610.099,
+    "duraction": 5.88,
+    "value": "but this is very much Skynet is right"
+  },
+  {
+    "start": 613.309,
+    "duraction": 5.04,
+    "value": "StarLink Skynet this is essentially what"
+  },
+  {
+    "start": 615.979,
+    "duraction": 4.62,
+    "value": "we're looking at and like I suggested in"
+  },
+  {
+    "start": 618.349,
+    "duraction": 5.76,
+    "value": "earlier in the video this looks to me"
+  },
+  {
+    "start": 620.599,
+    "duraction": 5.46,
+    "value": "like a massive neural link going across"
+  },
+  {
+    "start": 624.109,
+    "duraction": 5.1,
+    "value": "the globe and of course this is going to"
+  },
+  {
+    "start": 626.059,
+    "duraction": 5.82,
+    "value": "involve so much AI technology that we"
+  },
+  {
+    "start": 629.209,
+    "duraction": 4.23,
+    "value": "barely have a grasp of right now so it's"
+  },
+  {
+    "start": 631.879,
+    "duraction": 4.11,
+    "value": "really difficult for me to talk about"
+  },
+  {
+    "start": 633.439,
+    "duraction": 4.86,
+    "value": "not being much of a tech guy but I don't"
+  },
+  {
+    "start": 635.989,
+    "duraction": 4.95,
+    "value": "think it takes a genius to see that this"
+  },
+  {
+    "start": 638.299,
+    "duraction": 4.95,
+    "value": "has some really really big implications"
+  },
+  {
+    "start": 640.939,
+    "duraction": 4.531,
+    "value": "and ramifications that are going to last"
+  },
+  {
+    "start": 643.249,
+    "duraction": 4.59,
+    "value": "decades to come now moving on to our"
+  },
+  {
+    "start": 645.47,
+    "duraction": 4.379,
+    "value": "next story if you are following q and on"
+  },
+  {
+    "start": 647.839,
+    "duraction": 4.92,
+    "value": "you'll know that q and on has referenced"
+  },
+  {
+    "start": 649.849,
+    "duraction": 5.58,
+    "value": "the term d5 quite a few different times"
+  },
+  {
+    "start": 652.759,
+    "duraction": 4.68,
+    "value": "and we have picked up on this and have"
+  },
+  {
+    "start": 655.429,
+    "duraction": 4.05,
+    "value": "analyzed this term quite a few times and"
+  },
+  {
+    "start": 657.439,
+    "duraction": 5.49,
+    "value": "found quite a few different results"
+  },
+  {
+    "start": 659.479,
+    "duraction": 6.12,
+    "value": "right from the Avalanche to the chest"
+  },
+  {
+    "start": 662.929,
+    "duraction": 5.28,
+    "value": "move to the name Donald Trump itself"
+  },
+  {
+    "start": 665.599,
+    "duraction": 4.68,
+    "value": "there's quite a few different d5 answers"
+  },
+  {
+    "start": 668.209,
+    "duraction": 4.2,
+    "value": "that we could be talking about and I"
+  },
+  {
+    "start": 670.279,
+    "duraction": 3.75,
+    "value": "want to expand on one today this is in"
+  },
+  {
+    "start": 672.409,
+    "duraction": 5.16,
+    "value": "regards to an article from ham Modi"
+  },
+  {
+    "start": 674.029,
+    "duraction": 6.66,
+    "value": "accom from the 20th Gant's on fifth"
+  },
+  {
+    "start": 677.569,
+    "duraction": 4.83,
+    "value": "dimension investigation nothing to see"
+  },
+  {
+    "start": 680.689,
+    "duraction": 3.78,
+    "value": "here that also sounds familiar doesn't"
+  },
+  {
+    "start": 682.399,
+    "duraction": 4.17,
+    "value": "it in his first public comments on an"
+  },
+  {
+    "start": 684.469,
+    "duraction": 4.23,
+    "value": "investigation into the activities of the"
+  },
+  {
+    "start": 686.569,
+    "duraction": 4.41,
+    "value": "high-tech company he managed until its"
+  },
+  {
+    "start": 688.699,
+    "duraction": 3.87,
+    "value": "bankruptcy blue and white head Benny"
+  },
+  {
+    "start": 690.979,
+    "duraction": 3.991,
+    "value": "Gant said that the fact that an"
+  },
+  {
+    "start": 692.569,
+    "duraction": 5.251,
+    "value": "investigation was set to take place did"
+  },
+  {
+    "start": 694.97,
+    "duraction": 4.83,
+    "value": "not bother him I am perfectly calm Gant"
+  },
+  {
+    "start": 697.82,
+    "duraction": 3.51,
+    "value": "to old Rochette bet Thursday there was"
+  },
+  {
+    "start": 699.8,
+    "duraction": 4.08,
+    "value": "nothing wrong with the way I managed the"
+  },
+  {
+    "start": 701.33,
+    "duraction": 4.32,
+    "value": "company the investigation is due to"
+  },
+  {
+    "start": 703.88,
+    "duraction": 4.17,
+    "value": "political pressure on the State Attorney"
+  },
+  {
+    "start": 705.65,
+    "duraction": 4.47,
+    "value": "I welcome any investigation I am"
+  },
+  {
+    "start": 708.05,
+    "duraction": 3.93,
+    "value": "positive that I have nothing to hide"
+  },
+  {
+    "start": 710.12,
+    "duraction": 3.87,
+    "value": "Gant's was responding to reports"
+  },
+  {
+    "start": 711.98,
+    "duraction": 3.87,
+    "value": "Wednesday that State Attorney of"
+  },
+  {
+    "start": 713.99,
+    "duraction": 3.99,
+    "value": "ichiemon doublet had authorized the"
+  },
+  {
+    "start": 715.85,
+    "duraction": 4.95,
+    "value": "investigation into possible illegal"
+  },
+  {
+    "start": 717.98,
+    "duraction": 5.61,
+    "value": "activities by the fifth dimension"
+  },
+  {
+    "start": 720.8,
+    "duraction": 4.83,
+    "value": "Hammad Hachi machi tech firm the"
+  },
+  {
+    "start": 723.59,
+    "duraction": 4.19,
+    "value": "investigation will focus on the period"
+  },
+  {
+    "start": 725.63,
+    "duraction": 4.5,
+    "value": "that Gant's was a CEO of the company"
+  },
+  {
+    "start": 727.78,
+    "duraction": 4.95,
+    "value": "documents revealed that Israel hayom"
+  },
+  {
+    "start": 730.13,
+    "duraction": 4.77,
+    "value": "last month show that Israel police"
+  },
+  {
+    "start": 732.73,
+    "duraction": 4.99,
+    "value": "purchased an artificial intelligence"
+  },
+  {
+    "start": 734.9,
+    "duraction": 4.83,
+    "value": "system from fifth dimension the purchase"
+  },
+  {
+    "start": 737.72,
+    "duraction": 3.45,
+    "value": "was made without a tender ignoring"
+  },
+  {
+    "start": 739.73,
+    "duraction": 4.05,
+    "value": "strictures of the Public Security"
+  },
+  {
+    "start": 741.17,
+    "duraction": 4.59,
+    "value": "Ministry which supervises the activities"
+  },
+  {
+    "start": 743.78,
+    "duraction": 4.68,
+    "value": "of the police and which specifically"
+  },
+  {
+    "start": 745.76,
+    "duraction": 4.86,
+    "value": "requires contracts of N is being shekels"
+  },
+  {
+    "start": 748.46,
+    "duraction": 4.2,
+    "value": "50 million shekels or more with outside"
+  },
+  {
+    "start": 750.62,
+    "duraction": 3.93,
+    "value": "agencies to be approved by the"
+  },
+  {
+    "start": 752.66,
+    "duraction": 3.6,
+    "value": "ministry's financial department the"
+  },
+  {
+    "start": 754.55,
+    "duraction": 3.24,
+    "value": "police ignored that requirement and made"
+  },
+  {
+    "start": 756.26,
+    "duraction": 4.05,
+    "value": "the deal with the company the documents"
+  },
+  {
+    "start": 757.79,
+    "duraction": 3.99,
+    "value": "show the documents intensify the"
+  },
+  {
+    "start": 760.31,
+    "duraction": 3.15,
+    "value": "questions that have surrounded the"
+  },
+  {
+    "start": 761.78,
+    "duraction": 3.99,
+    "value": "relationship between police and the"
+  },
+  {
+    "start": 763.46,
+    "duraction": 5.76,
+    "value": "company led by Ganz through the end of"
+  },
+  {
+    "start": 765.77,
+    "duraction": 5.49,
+    "value": "2018 when it went bankrupt last March a"
+  },
+  {
+    "start": 769.22,
+    "duraction": 4.29,
+    "value": "report by the State Comptroller focused"
+  },
+  {
+    "start": 771.26,
+    "duraction": 4.56,
+    "value": "on similar issues with police signing"
+  },
+  {
+    "start": 773.51,
+    "duraction": 4.65,
+    "value": "contracts with the company without going"
+  },
+  {
+    "start": 775.82,
+    "duraction": 5.67,
+    "value": "through a required tender process under"
+  },
+  {
+    "start": 778.16,
+    "duraction": 5.88,
+    "value": "the contracts Hamad hitomi she sold"
+  },
+  {
+    "start": 781.49,
+    "duraction": 6.15,
+    "value": "cyber security technology to police is"
+  },
+  {
+    "start": 784.04,
+    "duraction": 5.3,
+    "value": "real police was Hamad watch emojis only"
+  },
+  {
+    "start": 787.64,
+    "duraction": 5.37,
+    "value": "customer the Comptroller's report"
+  },
+  {
+    "start": 789.34,
+    "duraction": 5.8,
+    "value": "featured no fewer than 18 instances in"
+  },
+  {
+    "start": 793.01,
+    "duraction": 3.69,
+    "value": "which police purchase goods and services"
+  },
+  {
+    "start": 795.14,
+    "duraction": 3.96,
+    "value": "without going through the required"
+  },
+  {
+    "start": 796.7,
+    "duraction": 4.5,
+    "value": "tender process said Shlomo roz a"
+  },
+  {
+    "start": 799.1,
+    "duraction": 5.16,
+    "value": "spokesperson for the state comptroller's"
+  },
+  {
+    "start": 801.2,
+    "duraction": 5.46,
+    "value": "office okay so this is pretty wild so"
+  },
+  {
+    "start": 804.26,
+    "duraction": 4.56,
+    "value": "the Israeli police were the only client"
+  },
+  {
+    "start": 806.66,
+    "duraction": 3.87,
+    "value": "of this fifth dimension group and it"
+  },
+  {
+    "start": 808.82,
+    "duraction": 4.14,
+    "value": "looked like their deal wasn't a very"
+  },
+  {
+    "start": 810.53,
+    "duraction": 4.35,
+    "value": "legit deal considering that if it was"
+  },
+  {
+    "start": 812.96,
+    "duraction": 3.36,
+    "value": "passed so much money it needed to be"
+  },
+  {
+    "start": 814.88,
+    "duraction": 3.33,
+    "value": "approved and they didn't go through the"
+  },
+  {
+    "start": 816.32,
+    "duraction": 3.09,
+    "value": "proper approval this is where it starts"
+  },
+  {
+    "start": 818.21,
+    "duraction": 3.18,
+    "value": "to get interesting right here"
+  },
+  {
+    "start": 819.41,
+    "duraction": 4.56,
+    "value": "immediately upon the release of the"
+  },
+  {
+    "start": 821.39,
+    "duraction": 4.68,
+    "value": "Comptroller's report the Likud demanded"
+  },
+  {
+    "start": 823.97,
+    "duraction": 3.99,
+    "value": "an investigation into the deal state"
+  },
+  {
+    "start": 826.07,
+    "duraction": 3.93,
+    "value": "attorney of each I'm and ablet said at"
+  },
+  {
+    "start": 827.96,
+    "duraction": 3.18,
+    "value": "the time that such an investigation was"
+  },
+  {
+    "start": 830.0,
+    "duraction": 2.579,
+    "value": "unlikely"
+  },
+  {
+    "start": 831.14,
+    "duraction": 3.389,
+    "value": "our dad said that in light of the new"
+  },
+  {
+    "start": 832.579,
+    "duraction": 4.651,
+    "value": "revelations an investigation should be"
+  },
+  {
+    "start": 834.529,
+    "duraction": 4.381,
+    "value": "opened today the truth must come out and"
+  },
+  {
+    "start": 837.23,
+    "duraction": 3.75,
+    "value": "these new documents provide a perfect"
+  },
+  {
+    "start": 838.91,
+    "duraction": 3.57,
+    "value": "backdrop for that to happen there's no"
+  },
+  {
+    "start": 840.98,
+    "duraction": 3.299,
+    "value": "reason that the state attorney should"
+  },
+  {
+    "start": 842.48,
+    "duraction": 3.78,
+    "value": "have left this languishing for 10 months"
+  },
+  {
+    "start": 844.279,
+    "duraction": 3.421,
+    "value": "the public needs to know before the"
+  },
+  {
+    "start": 846.26,
+    "duraction": 3.54,
+    "value": "elections whether a criminal"
+  },
+  {
+    "start": 847.7,
+    "duraction": 3.78,
+    "value": "investigation into Gant and other"
+  },
+  {
+    "start": 849.8,
+    "duraction": 4.02,
+    "value": "suspicious individuals in these"
+  },
+  {
+    "start": 851.48,
+    "duraction": 5.099,
+    "value": "incidents is going to be open he added"
+  },
+  {
+    "start": 853.82,
+    "duraction": 4.32,
+    "value": "speaking to 103 Radio Thursday Gant said"
+  },
+  {
+    "start": 856.579,
+    "duraction": 4.44,
+    "value": "that Benjamin Netanyahu and the Likud"
+  },
+  {
+    "start": 858.14,
+    "duraction": 5.22,
+    "value": "were trying to stir up the matter which"
+  },
+  {
+    "start": 861.019,
+    "duraction": 4.111,
+    "value": "has been investigated already in order"
+  },
+  {
+    "start": 863.36,
+    "duraction": 4.53,
+    "value": "to deflect attention from the Prime"
+  },
+  {
+    "start": 865.13,
+    "duraction": 5.61,
+    "value": "Minister's own legal woes he is trying"
+  },
+  {
+    "start": 867.89,
+    "duraction": 5.73,
+    "value": "to change the agenda which surrounds his"
+  },
+  {
+    "start": 870.74,
+    "duraction": 4.92,
+    "value": "trial Netanyahu has a load of legal"
+  },
+  {
+    "start": 873.62,
+    "duraction": 4.649,
+    "value": "issues on his head Gant said the"
+  },
+  {
+    "start": 875.66,
+    "duraction": 4.799,
+    "value": "investigation will only open after the"
+  },
+  {
+    "start": 878.269,
+    "duraction": 4.741,
+    "value": "March two elections and as of now"
+  },
+  {
+    "start": 880.459,
+    "duraction": 4.261,
+    "value": "neither Gant's nor Nonis al shish who"
+  },
+  {
+    "start": 883.01,
+    "duraction": 4.29,
+    "value": "was head of Israel police at the time"
+  },
+  {
+    "start": 884.72,
+    "duraction": 5.01,
+    "value": "the deals were made are suspected of any"
+  },
+  {
+    "start": 887.3,
+    "duraction": 4.5,
+    "value": "wrongdoing the prosecutor's office said"
+  },
+  {
+    "start": 889.73,
+    "duraction": 3.84,
+    "value": "Thursday okay but we know that deal was"
+  },
+  {
+    "start": 891.8,
+    "duraction": 4.289,
+    "value": "already suspect and of course Benjamin"
+  },
+  {
+    "start": 893.57,
+    "duraction": 4.079,
+    "value": "Netanyahu does want to see this go down"
+  },
+  {
+    "start": 896.089,
+    "duraction": 3.06,
+    "value": "of course he has reasons for that"
+  },
+  {
+    "start": 897.649,
+    "duraction": 3.151,
+    "value": "because he does have a load of legal"
+  },
+  {
+    "start": 899.149,
+    "duraction": 5.461,
+    "value": "issues on his head and interestingly"
+  },
+  {
+    "start": 900.8,
+    "duraction": 6.33,
+    "value": "enough he was on Mark Levin that being"
+  },
+  {
+    "start": 904.61,
+    "duraction": 4.86,
+    "value": "Netanyahu excuse me was on Mark Levin"
+  },
+  {
+    "start": 907.13,
+    "duraction": 4.53,
+    "value": "the other day and I posted it just"
+  },
+  {
+    "start": 909.47,
+    "duraction": 4.29,
+    "value": "yesterday on Twitter and it was"
+  },
+  {
+    "start": 911.66,
+    "duraction": 4.23,
+    "value": "immediately taken down not just the"
+  },
+  {
+    "start": 913.76,
+    "duraction": 4.92,
+    "value": "video but the account itself was removed"
+  },
+  {
+    "start": 915.89,
+    "duraction": 4.59,
+    "value": "now I have no idea if the interview is"
+  },
+  {
+    "start": 918.68,
+    "duraction": 3.63,
+    "value": "still up there I was not able to find it"
+  },
+  {
+    "start": 920.48,
+    "duraction": 4.41,
+    "value": "at the time of making this video that"
+  },
+  {
+    "start": 922.31,
+    "duraction": 4.709,
+    "value": "may have changed but it was I believe"
+  },
+  {
+    "start": 924.89,
+    "duraction": 4.319,
+    "value": "from the 23rd dated the 23rd the"
+  },
+  {
+    "start": 927.019,
+    "duraction": 3.781,
+    "value": "interview with Benjamin Netanyahu where"
+  },
+  {
+    "start": 929.209,
+    "duraction": 3.721,
+    "value": "they actually bring up this case and"
+  },
+  {
+    "start": 930.8,
+    "duraction": 4.229,
+    "value": "Netanyahu was stating that they need to"
+  },
+  {
+    "start": 932.93,
+    "duraction": 3.51,
+    "value": "do this before the elections now of"
+  },
+  {
+    "start": 935.029,
+    "duraction": 2.911,
+    "value": "course we know his reasons for wanting"
+  },
+  {
+    "start": 936.44,
+    "duraction": 4.44,
+    "value": "to do that but this seems very very"
+  },
+  {
+    "start": 937.94,
+    "duraction": 5.519,
+    "value": "sketchy remember only one client and"
+  },
+  {
+    "start": 940.88,
+    "duraction": 4.47,
+    "value": "they poured a ton of money into this and"
+  },
+  {
+    "start": 943.459,
+    "duraction": 3.841,
+    "value": "there were some benefactors from this"
+  },
+  {
+    "start": 945.35,
+    "duraction": 4.799,
+    "value": "group now let's talk about one of them"
+  },
+  {
+    "start": 947.3,
+    "duraction": 4.71,
+    "value": "Russian oligarchs Viktor Vekselberg you"
+  },
+  {
+    "start": 950.149,
+    "duraction": 4.68,
+    "value": "may remember that name was once a"
+  },
+  {
+    "start": 952.01,
+    "duraction": 5.1,
+    "value": "benefactor of fifth dimension Holdings"
+  },
+  {
+    "start": 954.829,
+    "duraction": 3.961,
+    "value": "the now-defunct predictive analytics"
+  },
+  {
+    "start": 957.11,
+    "duraction": 3.719,
+    "value": "company that tarnished the careers of"
+  },
+  {
+    "start": 958.79,
+    "duraction": 4.32,
+    "value": "its chairman Israeli general turned"
+  },
+  {
+    "start": 960.829,
+    "duraction": 3.601,
+    "value": "politician Benny Ganz and president"
+  },
+  {
+    "start": 963.11,
+    "duraction": 4.11,
+    "value": "former deputy head of"
+  },
+  {
+    "start": 964.43,
+    "duraction": 5.01,
+    "value": "Sode rom been Barack in a recent"
+  },
+  {
+    "start": 967.22,
+    "duraction": 4.08,
+    "value": "interview with calculus Vekselberg"
+  },
+  {
+    "start": 969.44,
+    "duraction": 4.08,
+    "value": "talked about what led to the company's"
+  },
+  {
+    "start": 971.3,
+    "duraction": 4.44,
+    "value": "failure fifth dimension failed because"
+  },
+  {
+    "start": 973.52,
+    "duraction": 4.47,
+    "value": "its marketing strategy was incorrect"
+  },
+  {
+    "start": 975.74,
+    "duraction": 4.89,
+    "value": "yeah well I'd say going after only one"
+  },
+  {
+    "start": 977.99,
+    "duraction": 4.89,
+    "value": "client is incorrect there was a serious"
+  },
+  {
+    "start": 980.63,
+    "duraction": 4.92,
+    "value": "strategic mistake and it cost us 30"
+  },
+  {
+    "start": 982.88,
+    "duraction": 4.5,
+    "value": "million dollars vekselberg is not just"
+  },
+  {
+    "start": 985.55,
+    "duraction": 4.53,
+    "value": "another investor looking to capitalize"
+  },
+  {
+    "start": 987.38,
+    "duraction": 4.92,
+    "value": "on israel's booming tech sector one of"
+  },
+  {
+    "start": 990.08,
+    "duraction": 4.56,
+    "value": "Russia's richest men 62 year-old"
+  },
+  {
+    "start": 992.3,
+    "duraction": 4.47,
+    "value": "Vekselberg is worth more than 11 billion"
+  },
+  {
+    "start": 994.64,
+    "duraction": 5.94,
+    "value": "dollars according to Forbes which ranked"
+  },
+  {
+    "start": 996.77,
+    "duraction": 5.31,
+    "value": "him number 119 number 200 me on the 2019"
+  },
+  {
+    "start": 1000.58,
+    "duraction": 3.629,
+    "value": "list of the world's richest a"
+  },
+  {
+    "start": 1002.08,
+    "duraction": 4.5,
+    "value": "businessman and the owner of Moscow"
+  },
+  {
+    "start": 1004.209,
+    "duraction": 4.711,
+    "value": "based assets management company renova"
+  },
+  {
+    "start": 1006.58,
+    "duraction": 3.84,
+    "value": "Group vekselberg is in the inner circle"
+  },
+  {
+    "start": 1008.92,
+    "duraction": 2.46,
+    "value": "of Russian Prime Minister Dmitry"
+  },
+  {
+    "start": 1010.42,
+    "duraction": 3.12,
+    "value": "Medvedev"
+  },
+  {
+    "start": 1011.38,
+    "duraction": 4.2,
+    "value": "and is also close to President Vladimir"
+  },
+  {
+    "start": 1013.54,
+    "duraction": 4.2,
+    "value": "Putin for years"
+  },
+  {
+    "start": 1015.58,
+    "duraction": 5.129,
+    "value": "vekselberg built a reputation as the"
+  },
+  {
+    "start": 1017.74,
+    "duraction": 5.49,
+    "value": "most Western eyes of oligarchs a sort of"
+  },
+  {
+    "start": 1020.709,
+    "duraction": 4.261,
+    "value": "Russian ambassador to the US who has had"
+  },
+  {
+    "start": 1023.23,
+    "duraction": 3.599,
+    "value": "a part in numerous collaborations"
+  },
+  {
+    "start": 1024.97,
+    "duraction": 3.93,
+    "value": "between the two countries the vekselberg"
+  },
+  {
+    "start": 1026.829,
+    "duraction": 4.11,
+    "value": "was a donor and key figure at the"
+  },
+  {
+    "start": 1028.9,
+    "duraction": 3.87,
+    "value": "prestigious Massachusetts Institute of"
+  },
+  {
+    "start": 1030.939,
+    "duraction": 4.831,
+    "value": "Technology and owned several properties"
+  },
+  {
+    "start": 1032.77,
+    "duraction": 5.22,
+    "value": "in New York and Connecticut and then as"
+  },
+  {
+    "start": 1035.77,
+    "duraction": 4.559,
+    "value": "the relations between the US and Russia"
+  },
+  {
+    "start": 1037.99,
+    "duraction": 5.04,
+    "value": "grew contentious Vekselberg found"
+  },
+  {
+    "start": 1040.329,
+    "duraction": 4.98,
+    "value": "himself in the thick of it in March 2018"
+  },
+  {
+    "start": 1043.03,
+    "duraction": 4.11,
+    "value": "when his plane landed in New York"
+  },
+  {
+    "start": 1045.309,
+    "duraction": 4.381,
+    "value": "Vekselberg was detained for questioning"
+  },
+  {
+    "start": 1047.14,
+    "duraction": 4.71,
+    "value": "by special counsel Robert Muller and his"
+  },
+  {
+    "start": 1049.69,
+    "duraction": 4.38,
+    "value": "team as part of an investigation into"
+  },
+  {
+    "start": 1051.85,
+    "duraction": 5.01,
+    "value": "possible Russian interference in the"
+  },
+  {
+    "start": 1054.07,
+    "duraction": 5.19,
+    "value": "2016 US presidential election the"
+  },
+  {
+    "start": 1056.86,
+    "duraction": 4.62,
+    "value": "questioning pertained to vekselberg"
+  },
+  {
+    "start": 1059.26,
+    "duraction": 4.08,
+    "value": "connections with Michael Cohen Donald"
+  },
+  {
+    "start": 1061.48,
+    "duraction": 3.42,
+    "value": "Trump's form a lawyer who is currently"
+  },
+  {
+    "start": 1063.34,
+    "duraction": 3.86,
+    "value": "serving a sentence for fraud and"
+  },
+  {
+    "start": 1064.9,
+    "duraction": 4.38,
+    "value": "violation of campaign finance laws"
+  },
+  {
+    "start": 1067.2,
+    "duraction": 3.94,
+    "value": "Vekselberg was released but his"
+  },
+  {
+    "start": 1069.28,
+    "duraction": 3.87,
+    "value": "connection to Trump is still being"
+  },
+  {
+    "start": 1071.14,
+    "duraction": 3.15,
+    "value": "examined okay so I want to skip you"
+  },
+  {
+    "start": 1073.15,
+    "duraction": 3.24,
+    "value": "forward because this is a pretty long"
+  },
+  {
+    "start": 1074.29,
+    "duraction": 4.23,
+    "value": "article here but Vekselberg ends up"
+  },
+  {
+    "start": 1076.39,
+    "duraction": 3.96,
+    "value": "getting sanctioned by the US Department"
+  },
+  {
+    "start": 1078.52,
+    "duraction": 4.98,
+    "value": "of Treasury and it says here overnight"
+  },
+  {
+    "start": 1080.35,
+    "duraction": 5.31,
+    "value": "Vekselberg became a persona non grata in"
+  },
+  {
+    "start": 1083.5,
+    "duraction": 4.26,
+    "value": "the u.s. he was denied entry into the"
+  },
+  {
+    "start": 1085.66,
+    "duraction": 3.81,
+    "value": "country preventing him from seeing his"
+  },
+  {
+    "start": 1087.76,
+    "duraction": 3.99,
+    "value": "daughter and grandson and if you'll"
+  },
+  {
+    "start": 1089.47,
+    "duraction": 3.87,
+    "value": "remember of course he was being asked"
+  },
+  {
+    "start": 1091.75,
+    "duraction": 4.85,
+    "value": "about this meeting with Michael Cohen"
+  },
+  {
+    "start": 1093.34,
+    "duraction": 6.1,
+    "value": "just before Trump's inauguration but now"
+  },
+  {
+    "start": 1096.6,
+    "duraction": 4.62,
+    "value": "thing was being said about his massive"
+  },
+  {
+    "start": 1099.44,
+    "duraction": 5.02,
+    "value": "contributions to the Clinton Foundation"
+  },
+  {
+    "start": 1101.22,
+    "duraction": 5.51,
+    "value": "John Podesta and Hillary Clinton by way"
+  },
+  {
+    "start": 1104.46,
+    "duraction": 5.94,
+    "value": "of this met com Bank which is part of"
+  },
+  {
+    "start": 1106.73,
+    "duraction": 5.11,
+    "value": "Renova it's all owned by vekselberg and"
+  },
+  {
+    "start": 1110.4,
+    "duraction": 4.05,
+    "value": "of course this money was going straight"
+  },
+  {
+    "start": 1111.84,
+    "duraction": 4.38,
+    "value": "to them a ton of coin using the"
+  },
+  {
+    "start": 1114.45,
+    "duraction": 4.2,
+    "value": "countering America's adversaries through"
+  },
+  {
+    "start": 1116.22,
+    "duraction": 4.71,
+    "value": "sanctions Act Vekselberg American assets"
+  },
+  {
+    "start": 1118.65,
+    "duraction": 4.35,
+    "value": "valued at 2 billion were frozen to this"
+  },
+  {
+    "start": 1120.93,
+    "duraction": 4.14,
+    "value": "day US Nationals are better off not"
+  },
+  {
+    "start": 1123.0,
+    "duraction": 4.53,
+    "value": "being seen with him and then it talks"
+  },
+  {
+    "start": 1125.07,
+    "duraction": 4.77,
+    "value": "about here him being granted Israeli"
+  },
+  {
+    "start": 1127.53,
+    "duraction": 4.92,
+    "value": "citizenship he has Israeli citizenship"
+  },
+  {
+    "start": 1129.84,
+    "duraction": 5.58,
+    "value": "he's got citizenship in Russia and"
+  },
+  {
+    "start": 1132.45,
+    "duraction": 5.22,
+    "value": "Ukraine as well as Cyprus so how about"
+  },
+  {
+    "start": 1135.42,
+    "duraction": 3.51,
+    "value": "that Vekselberg is also considering"
+  },
+  {
+    "start": 1137.67,
+    "duraction": 3.78,
+    "value": "buying a home in the country being"
+  },
+  {
+    "start": 1138.93,
+    "duraction": 4.89,
+    "value": "Israel one of Russia's most famous"
+  },
+  {
+    "start": 1141.45,
+    "duraction": 4.53,
+    "value": "people he is practically unknown in"
+  },
+  {
+    "start": 1143.82,
+    "duraction": 4.08,
+    "value": "Israel despite his frequent visits"
+  },
+  {
+    "start": 1145.98,
+    "duraction": 3.84,
+    "value": "before his name became connected with"
+  },
+  {
+    "start": 1147.9,
+    "duraction": 4.65,
+    "value": "fifth dimension vekselberg had"
+  },
+  {
+    "start": 1149.82,
+    "duraction": 4.86,
+    "value": "successfully maintained a low profile"
+  },
+  {
+    "start": 1152.55,
+    "duraction": 3.9,
+    "value": "founded in 2014"
+  },
+  {
+    "start": 1154.68,
+    "duraction": 3.51,
+    "value": "fifth dimension developed predictive"
+  },
+  {
+    "start": 1156.45,
+    "duraction": 4.76,
+    "value": "policing and threat assessment"
+  },
+  {
+    "start": 1158.19,
+    "duraction": 4.8,
+    "value": "technologies that sounds like sky nets"
+  },
+  {
+    "start": 1161.21,
+    "duraction": 4.18,
+    "value": "for governments and financial"
+  },
+  {
+    "start": 1162.99,
+    "duraction": 4.56,
+    "value": "institutions it quickly gained attention"
+  },
+  {
+    "start": 1165.39,
+    "duraction": 4.2,
+    "value": "among other reasons because it targeted"
+  },
+  {
+    "start": 1167.55,
+    "duraction": 4.65,
+    "value": "a similar market to that of Palo Alto"
+  },
+  {
+    "start": 1169.59,
+    "duraction": 5.91,
+    "value": "based Palantir technologies which also"
+  },
+  {
+    "start": 1172.2,
+    "duraction": 6.51,
+    "value": "is Skynet which is currently planning a"
+  },
+  {
+    "start": 1175.5,
+    "duraction": 5.82,
+    "value": "twenty billion dollar IPO this promise"
+  },
+  {
+    "start": 1178.71,
+    "duraction": 5.4,
+    "value": "attracted ganz who joined in 2015 and"
+  },
+  {
+    "start": 1181.32,
+    "duraction": 5.55,
+    "value": "was then followed in 2016 by the former"
+  },
+  {
+    "start": 1184.11,
+    "duraction": 4.62,
+    "value": "deputy head of Mossad Rompin Barak"
+  },
+  {
+    "start": 1186.87,
+    "duraction": 4.11,
+    "value": "okay so we're skipping you even further"
+  },
+  {
+    "start": 1188.73,
+    "duraction": 5.13,
+    "value": "so long story short this fifth dimension"
+  },
+  {
+    "start": 1190.98,
+    "duraction": 4.29,
+    "value": "went under and Vekselberg was one of the"
+  },
+  {
+    "start": 1193.86,
+    "duraction": 3.12,
+    "value": "ones that was saying that they should"
+  },
+  {
+    "start": 1195.27,
+    "duraction": 4.17,
+    "value": "have diversified more rather than just"
+  },
+  {
+    "start": 1196.98,
+    "duraction": 4.47,
+    "value": "having this one client people close to"
+  },
+  {
+    "start": 1199.44,
+    "duraction": 4.83,
+    "value": "Vekselberg asset management company"
+  },
+  {
+    "start": 1201.45,
+    "duraction": 4.56,
+    "value": "Renova group who spoke to calculus on"
+  },
+  {
+    "start": 1204.27,
+    "duraction": 3.6,
+    "value": "condition of anonymity confirmed that"
+  },
+  {
+    "start": 1206.01,
+    "duraction": 3.69,
+    "value": "there had been an attempt to recruit"
+  },
+  {
+    "start": 1207.87,
+    "duraction": 3.93,
+    "value": "russian clients and that fifth dimension"
+  },
+  {
+    "start": 1209.7,
+    "duraction": 4.17,
+    "value": "executives met with the Russian Ministry"
+  },
+  {
+    "start": 1211.8,
+    "duraction": 4.32,
+    "value": "of Defense these people said that while"
+  },
+  {
+    "start": 1213.87,
+    "duraction": 4.08,
+    "value": "the product was well received ultimately"
+  },
+  {
+    "start": 1216.12,
+    "duraction": 3.6,
+    "value": "the Russians were apprehensive about"
+  },
+  {
+    "start": 1217.95,
+    "duraction": 4.05,
+    "value": "buying Israeli made surveillance"
+  },
+  {
+    "start": 1219.72,
+    "duraction": 3.99,
+    "value": "technology fifth dimensions deep"
+  },
+  {
+    "start": 1222.0,
+    "duraction": 4.2,
+    "value": "connections with the Israeli security"
+  },
+  {
+    "start": 1223.71,
+    "duraction": 4.74,
+    "value": "services went on to hinder several other"
+  },
+  {
+    "start": 1226.2,
+    "duraction": 3.66,
+    "value": "foreign deals these people said okay so"
+  },
+  {
+    "start": 1228.45,
+    "duraction": 2.82,
+    "value": "I got to skip you down even for"
+  },
+  {
+    "start": 1229.86,
+    "duraction": 2.67,
+    "value": "I know it's a really long article here"
+  },
+  {
+    "start": 1231.27,
+    "duraction": 2.97,
+    "value": "but I think this is important but even"
+  },
+  {
+    "start": 1232.53,
+    "duraction": 3.51,
+    "value": "with the ever tightening connections to"
+  },
+  {
+    "start": 1234.24,
+    "duraction": 4.89,
+    "value": "Israel it is hard to ignore the"
+  },
+  {
+    "start": 1236.04,
+    "duraction": 5.519,
+    "value": "importance of us cash or lack thereof in"
+  },
+  {
+    "start": 1239.13,
+    "duraction": 4.56,
+    "value": "the meantime money to Skolkovo flows"
+  },
+  {
+    "start": 1241.559,
+    "duraction": 4.681,
+    "value": "primarily from private investors and"
+  },
+  {
+    "start": 1243.69,
+    "duraction": 4.41,
+    "value": "from Vekselberg himself when the project"
+  },
+  {
+    "start": 1246.24,
+    "duraction": 4.5,
+    "value": "was first launched multinationals such"
+  },
+  {
+    "start": 1248.1,
+    "duraction": 4.92,
+    "value": "as Intel Google and Microsoft showed"
+  },
+  {
+    "start": 1250.74,
+    "duraction": 4.53,
+    "value": "interest Cisco went as far as committing"
+  },
+  {
+    "start": 1253.02,
+    "duraction": 4.38,
+    "value": "to a 1 billion dollar investment but"
+  },
+  {
+    "start": 1255.27,
+    "duraction": 4.2,
+    "value": "then the FBI reminded these companies"
+  },
+  {
+    "start": 1257.4,
+    "duraction": 4.08,
+    "value": "that Skolkovo was still partially backed"
+  },
+  {
+    "start": 1259.47,
+    "duraction": 4.17,
+    "value": "by the Russian government and floated"
+  },
+  {
+    "start": 1261.48,
+    "duraction": 4.62,
+    "value": "concerns of information theft and the"
+  },
+  {
+    "start": 1263.64,
+    "duraction": 4.409,
+    "value": "Americans decided to keep away then came"
+  },
+  {
+    "start": 1266.1,
+    "duraction": 3.36,
+    "value": "the sanctions and another channel of"
+  },
+  {
+    "start": 1268.049,
+    "duraction": 3.901,
+    "value": "funding and collaboration opportunities"
+  },
+  {
+    "start": 1269.46,
+    "duraction": 4.44,
+    "value": "was blocked now I know that this is"
+  },
+  {
+    "start": 1271.95,
+    "duraction": 3.599,
+    "value": "lengthy probably a little bit boring but"
+  },
+  {
+    "start": 1273.9,
+    "duraction": 3.81,
+    "value": "I do think it's important and highly"
+  },
+  {
+    "start": 1275.549,
+    "duraction": 4.411,
+    "value": "relevant I was able to find part of this"
+  },
+  {
+    "start": 1277.71,
+    "duraction": 4.32,
+    "value": "interview I am NOT going to play it for"
+  },
+  {
+    "start": 1279.96,
+    "duraction": 3.69,
+    "value": "you because I'm assuming if the channel"
+  },
+  {
+    "start": 1282.03,
+    "duraction": 3.33,
+    "value": "got there leader than mine possibly"
+  },
+  {
+    "start": 1283.65,
+    "duraction": 4.08,
+    "value": "could - and maybe just even talking"
+  },
+  {
+    "start": 1285.36,
+    "duraction": 4.559,
+    "value": "about this subject could cause me some"
+  },
+  {
+    "start": 1287.73,
+    "duraction": 4.26,
+    "value": "trouble but I will link you this fox"
+  },
+  {
+    "start": 1289.919,
+    "duraction": 3.781,
+    "value": "news article down below where you can"
+  },
+  {
+    "start": 1291.99,
+    "duraction": 2.939,
+    "value": "see part of the interview as you can see"
+  },
+  {
+    "start": 1293.7,
+    "duraction": 4.08,
+    "value": "there's a screenshot right there with"
+  },
+  {
+    "start": 1294.929,
+    "duraction": 4.561,
+    "value": "mark levin and sadly this is the part"
+  },
+  {
+    "start": 1297.78,
+    "duraction": 3.6,
+    "value": "that i would have wanted to show you in"
+  },
+  {
+    "start": 1299.49,
+    "duraction": 3.45,
+    "value": "the interview and maybe by the time that"
+  },
+  {
+    "start": 1301.38,
+    "duraction": 3.84,
+    "value": "this gets posted you'll be able to see"
+  },
+  {
+    "start": 1302.94,
+    "duraction": 4.32,
+    "value": "the entire mark levin interview if you"
+  },
+  {
+    "start": 1305.22,
+    "duraction": 3.93,
+    "value": "have not seen it already but i would"
+  },
+  {
+    "start": 1307.26,
+    "duraction": 4.02,
+    "value": "suggest checking out this part of the"
+  },
+  {
+    "start": 1309.15,
+    "duraction": 3.51,
+    "value": "interview in which he's asking about the"
+  },
+  {
+    "start": 1311.28,
+    "duraction": 4.5,
+    "value": "blue and white party which is the"
+  },
+  {
+    "start": 1312.66,
+    "duraction": 4.59,
+    "value": "opposition party to Netanyahu and of"
+  },
+  {
+    "start": 1315.78,
+    "duraction": 3.779,
+    "value": "course the blue and white party is made"
+  },
+  {
+    "start": 1317.25,
+    "duraction": 4.799,
+    "value": "up of a lot of sub parties that have a"
+  },
+  {
+    "start": 1319.559,
+    "duraction": 4.531,
+    "value": "lot of Arab interests which don't seem"
+  },
+  {
+    "start": 1322.049,
+    "duraction": 4.681,
+    "value": "to be very pro-israel and that's very"
+  },
+  {
+    "start": 1324.09,
+    "duraction": 5.28,
+    "value": "curious - Netanyahu seems to be go"
+  },
+  {
+    "start": 1326.73,
+    "duraction": 4.86,
+    "value": "undergoing a very similar situation as"
+  },
+  {
+    "start": 1329.37,
+    "duraction": 4.32,
+    "value": "President Trump and it seems like a lot"
+  },
+  {
+    "start": 1331.59,
+    "duraction": 4.74,
+    "value": "of the same people that are trying to"
+  },
+  {
+    "start": 1333.69,
+    "duraction": 4.05,
+    "value": "take down Netanyahu are also linked to"
+  },
+  {
+    "start": 1336.33,
+    "duraction": 3.39,
+    "value": "the same kind of people that were trying"
+  },
+  {
+    "start": 1337.74,
+    "duraction": 4.41,
+    "value": "to take down President Trump and at the"
+  },
+  {
+    "start": 1339.72,
+    "duraction": 4.29,
+    "value": "same time both of them have very similar"
+  },
+  {
+    "start": 1342.15,
+    "duraction": 4.59,
+    "value": "connections so it's all very very"
+  },
+  {
+    "start": 1344.01,
+    "duraction": 4.799,
+    "value": "convoluted but I think what we see here"
+  },
+  {
+    "start": 1346.74,
+    "duraction": 5.58,
+    "value": "is that whatever was going on with this"
+  },
+  {
+    "start": 1348.809,
+    "duraction": 6.081,
+    "value": "fifth dimension group seemed to want to"
+  },
+  {
+    "start": 1352.32,
+    "duraction": 4.67,
+    "value": "take down and Yahoo and they"
+  },
+  {
+    "start": 1354.89,
+    "duraction": 5.1,
+    "value": "only had one client it just happened to"
+  },
+  {
+    "start": 1356.99,
+    "duraction": 5.1,
+    "value": "be the police for all that money that"
+  },
+  {
+    "start": 1359.99,
+    "duraction": 3.45,
+    "value": "just seems very very strange and of"
+  },
+  {
+    "start": 1362.09,
+    "duraction": 2.88,
+    "value": "course a lot of the benefactors were"
+  },
+  {
+    "start": 1363.44,
+    "duraction": 4.29,
+    "value": "people that were supporting people like"
+  },
+  {
+    "start": 1364.97,
+    "duraction": 5.25,
+    "value": "Hillary Clinton Joe Biden's and people"
+  },
+  {
+    "start": 1367.73,
+    "duraction": 4.47,
+    "value": "like this it just doesn't seem right"
+  },
+  {
+    "start": 1370.22,
+    "duraction": 5.37,
+    "value": "doesn't I think that seems to start to"
+  },
+  {
+    "start": 1372.2,
+    "duraction": 5.4,
+    "value": "make sense and perhaps this is the du5"
+  },
+  {
+    "start": 1375.59,
+    "duraction": 3.69,
+    "value": "that q is referencing that would"
+  },
+  {
+    "start": 1377.6,
+    "duraction": 3.51,
+    "value": "eventually snowball and bring it all"
+  },
+  {
+    "start": 1379.28,
+    "duraction": 4.14,
+    "value": "down because it seems like everyone is"
+  },
+  {
+    "start": 1381.11,
+    "duraction": 4.53,
+    "value": "wrapped up somehow in this so like I"
+  },
+  {
+    "start": 1383.42,
+    "duraction": 6.48,
+    "value": "said please check out this video now in"
+  },
+  {
+    "start": 1385.64,
+    "duraction": 6.96,
+    "value": "regards to this fifth dimension they"
+  },
+  {
+    "start": 1389.9,
+    "duraction": 4.32,
+    "value": "were also they were started by this guy"
+  },
+  {
+    "start": 1392.6,
+    "duraction": 4.32,
+    "value": "guy Casspi I don't know if it's geek"
+  },
+  {
+    "start": 1394.22,
+    "duraction": 5.16,
+    "value": "Aspie or guy Casspi but he is a"
+  },
+  {
+    "start": 1396.92,
+    "duraction": 5.1,
+    "value": "mathematician and kind of almost has"
+  },
+  {
+    "start": 1399.38,
+    "duraction": 4.2,
+    "value": "that creepy supervillain look about him"
+  },
+  {
+    "start": 1402.02,
+    "duraction": 4.65,
+    "value": "but he also started this group called"
+  },
+  {
+    "start": 1403.58,
+    "duraction": 5.01,
+    "value": "deep instinct cybersecurity company that"
+  },
+  {
+    "start": 1406.67,
+    "duraction": 4.23,
+    "value": "applies deep learning to cybersecurity"
+  },
+  {
+    "start": 1408.59,
+    "duraction": 4.14,
+    "value": "the company implements advanced"
+  },
+  {
+    "start": 1410.9,
+    "duraction": 5.13,
+    "value": "artificial intelligence to the task of"
+  },
+  {
+    "start": 1412.73,
+    "duraction": 5.33,
+    "value": "preventing and detecting malware ok well"
+  },
+  {
+    "start": 1416.03,
+    "duraction": 4.35,
+    "value": "this stuff almost gets into the"
+  },
+  {
+    "start": 1418.06,
+    "duraction": 4.93,
+    "value": "pre-crime aspect of this whole thing"
+  },
+  {
+    "start": 1420.38,
+    "duraction": 4.68,
+    "value": "which is very very strange it says here"
+  },
+  {
+    "start": 1422.99,
+    "duraction": 4.02,
+    "value": "that Nvidia is an investor that's an"
+  },
+  {
+    "start": 1425.06,
+    "duraction": 3.27,
+    "value": "American tech company and I'm not gonna"
+  },
+  {
+    "start": 1427.01,
+    "duraction": 3.18,
+    "value": "talk much about them but I am gonna"
+  },
+  {
+    "start": 1428.33,
+    "duraction": 3.81,
+    "value": "flash you their logo because it's very"
+  },
+  {
+    "start": 1430.19,
+    "duraction": 4.68,
+    "value": "very telling as you can see there's the"
+  },
+  {
+    "start": 1432.14,
+    "duraction": 5.34,
+    "value": "all-seeing eye right there and of course"
+  },
+  {
+    "start": 1434.87,
+    "duraction": 5.37,
+    "value": "that little spiral suggests that they"
+  },
+  {
+    "start": 1437.48,
+    "duraction": 5.1,
+    "value": "like am young if you know what I mean"
+  },
+  {
+    "start": 1440.24,
+    "duraction": 3.9,
+    "value": "in April 2009 teen deep instinct"
+  },
+  {
+    "start": 1442.58,
+    "duraction": 4.92,
+    "value": "commissioned an art project titled the"
+  },
+  {
+    "start": 1444.14,
+    "duraction": 6.32,
+    "value": "persistence of chaos by Chinese artists"
+  },
+  {
+    "start": 1447.5,
+    "duraction": 5.37,
+    "value": "whoa all dumb consisting of a laptop"
+  },
+  {
+    "start": 1450.46,
+    "duraction": 4.66,
+    "value": "infected with six pieces of malware that"
+  },
+  {
+    "start": 1452.87,
+    "duraction": 4.35,
+    "value": "represented 95 billion dollars in"
+  },
+  {
+    "start": 1455.12,
+    "duraction": 4.38,
+    "value": "damages the art was auctioned with a"
+  },
+  {
+    "start": 1457.22,
+    "duraction": 5.01,
+    "value": "final bid of 1 million three hundred and"
+  },
+  {
+    "start": 1459.5,
+    "duraction": 4.29,
+    "value": "forty five thousand dollars ok that"
+  },
+  {
+    "start": 1462.23,
+    "duraction": 2.85,
+    "value": "sounds like another funnelling project"
+  },
+  {
+    "start": 1463.79,
+    "duraction": 3.27,
+    "value": "but that's probably a story for a"
+  },
+  {
+    "start": 1465.08,
+    "duraction": 4.32,
+    "value": "different day but I think you get the"
+  },
+  {
+    "start": 1467.06,
+    "duraction": 4.35,
+    "value": "idea here whatever it was that deep"
+  },
+  {
+    "start": 1469.4,
+    "duraction": 4.35,
+    "value": "instinct and this fifth dimension was"
+  },
+  {
+    "start": 1471.41,
+    "duraction": 5.01,
+    "value": "wrapped up in seems to have a lot of"
+  },
+  {
+    "start": 1473.75,
+    "duraction": 4.14,
+    "value": "information about a lot of people and it"
+  },
+  {
+    "start": 1476.42,
+    "duraction": 4.29,
+    "value": "was a whole bunch of money spent for"
+  },
+  {
+    "start": 1477.89,
+    "duraction": 4.56,
+    "value": "nothing just seems a little suspect to"
+  },
+  {
+    "start": 1480.71,
+    "duraction": 5.07,
+    "value": "me and the people that were benefitting"
+  },
+  {
+    "start": 1482.45,
+    "duraction": 6.27,
+    "value": "the most were also benefactors to people"
+  },
+  {
+    "start": 1485.78,
+    "duraction": 5.46,
+    "value": "like John Podesta and Hillary Clinton"
+  },
+  {
+    "start": 1488.72,
+    "duraction": 5.04,
+    "value": "so is this fifth dimension situation"
+  },
+  {
+    "start": 1491.24,
+    "duraction": 5.04,
+    "value": "part of the D 5 that Q is often"
+  },
+  {
+    "start": 1493.76,
+    "duraction": 3.93,
+    "value": "referencing not really sure but it does"
+  },
+  {
+    "start": 1496.28,
+    "duraction": 3.93,
+    "value": "seem like there is some compelling"
+  },
+  {
+    "start": 1497.69,
+    "duraction": 4.77,
+    "value": "information to suggest that it is indeed"
+  },
+  {
+    "start": 1500.21,
+    "duraction": 3.36,
+    "value": "possible now I do have to move on cuz"
+  },
+  {
+    "start": 1502.46,
+    "duraction": 5.25,
+    "value": "Q's dropping bombs"
+  },
+  {
+    "start": 1503.57,
+    "duraction": 7.56,
+    "value": "after I'm almost 36 minutes an hour of a"
+  },
+  {
+    "start": 1507.71,
+    "duraction": 6.84,
+    "value": "post 38 81 this is a reference to"
+  },
+  {
+    "start": 1511.13,
+    "duraction": 4.59,
+    "value": "December 18 2019 post where Q is talking"
+  },
+  {
+    "start": 1514.55,
+    "duraction": 4.44,
+    "value": "about all the different people fired"
+  },
+  {
+    "start": 1515.72,
+    "duraction": 5.31,
+    "value": "from all the different agencies FBI DOJ"
+  },
+  {
+    "start": 1518.99,
+    "duraction": 3.54,
+    "value": "State Department Senate these are people"
+  },
+  {
+    "start": 1521.03,
+    "duraction": 3.09,
+    "value": "that have either been fired or forced"
+  },
+  {
+    "start": 1522.53,
+    "duraction": 3.9,
+    "value": "we've talked about this over the last"
+  },
+  {
+    "start": 1524.12,
+    "duraction": 4.08,
+    "value": "couple years in great length then the"
+  },
+  {
+    "start": 1526.43,
+    "duraction": 3.48,
+    "value": "Twitter status here takes you to Nate"
+  },
+  {
+    "start": 1528.2,
+    "duraction": 3.54,
+    "value": "Kane we talked about him the other day"
+  },
+  {
+    "start": 1529.91,
+    "duraction": 3.72,
+    "value": "here's the interview you've all been"
+  },
+  {
+    "start": 1531.74,
+    "duraction": 3.48,
+    "value": "waiting for in it I share the details of"
+  },
+  {
+    "start": 1533.63,
+    "duraction": 3.63,
+    "value": "what happened from start to finish and"
+  },
+  {
+    "start": 1535.22,
+    "duraction": 3.33,
+    "value": "the aftermath I pray it will make a"
+  },
+  {
+    "start": 1537.26,
+    "duraction": 3.54,
+    "value": "difference and they're talking about"
+  },
+  {
+    "start": 1538.55,
+    "duraction": 4.65,
+    "value": "this interview with the Bard's of war on"
+  },
+  {
+    "start": 1540.8,
+    "duraction": 4.17,
+    "value": "the bar it's a war podcast please go"
+  },
+  {
+    "start": 1543.2,
+    "duraction": 4.11,
+    "value": "check this out I shared it the other day"
+  },
+  {
+    "start": 1544.97,
+    "duraction": 4.2,
+    "value": "really really great job thanks to you"
+  },
+  {
+    "start": 1547.31,
+    "duraction": 3.9,
+    "value": "from our to war and congratulations for"
+  },
+  {
+    "start": 1549.17,
+    "duraction": 3.6,
+    "value": "both you for getting a shout out from Q"
+  },
+  {
+    "start": 1551.21,
+    "duraction": 4.59,
+    "value": "but this is indeed a great interview"
+  },
+  {
+    "start": 1552.77,
+    "duraction": 5.61,
+    "value": "Nate Cain of course a whistleblower on"
+  },
+  {
+    "start": 1555.8,
+    "duraction": 5.4,
+    "value": "the Clinton Foundation had a bunch of"
+  },
+  {
+    "start": 1558.38,
+    "duraction": 5.64,
+    "value": "black sea's and praxis of information in"
+  },
+  {
+    "start": 1561.2,
+    "duraction": 5.49,
+    "value": "regards to the Clintons uranium one and"
+  },
+  {
+    "start": 1564.02,
+    "duraction": 4.29,
+    "value": "this is a really a worthwhile interview"
+  },
+  {
+    "start": 1566.69,
+    "duraction": 2.94,
+    "value": "Nate Caine's done quite a few different"
+  },
+  {
+    "start": 1568.31,
+    "duraction": 3.69,
+    "value": "interviews but I really particularly"
+  },
+  {
+    "start": 1569.63,
+    "duraction": 4.05,
+    "value": "like this one so I would suggest I will"
+  },
+  {
+    "start": 1572.0,
+    "duraction": 3.09,
+    "value": "link this one down below for you too and"
+  },
+  {
+    "start": 1573.68,
+    "duraction": 4.29,
+    "value": "of course it will be linked if you"
+  },
+  {
+    "start": 1575.09,
+    "duraction": 5.25,
+    "value": "follow these links here on Q map but go"
+  },
+  {
+    "start": 1577.97,
+    "duraction": 5.46,
+    "value": "check it out he says listen carefully"
+  },
+  {
+    "start": 1580.34,
+    "duraction": 6.15,
+    "value": "think regarding why no arrest justice"
+  },
+  {
+    "start": 1583.43,
+    "duraction": 4.8,
+    "value": "yet what if almost every critical"
+  },
+  {
+    "start": 1586.49,
+    "duraction": 4.14,
+    "value": "position senior within the US government"
+  },
+  {
+    "start": 1588.23,
+    "duraction": 4.5,
+    "value": "apparatus was infiltrated"
+  },
+  {
+    "start": 1590.63,
+    "duraction": 3.81,
+    "value": "yeah and President Trump has expressed"
+  },
+  {
+    "start": 1592.73,
+    "duraction": 3.66,
+    "value": "his frustration with this quite often"
+  },
+  {
+    "start": 1594.44,
+    "duraction": 3.81,
+    "value": "right always saying boy this thing runs"
+  },
+  {
+    "start": 1596.39,
+    "duraction": 4.35,
+    "value": "so much deeper than you could ever"
+  },
+  {
+    "start": 1598.25,
+    "duraction": 5.58,
+    "value": "imagine what must be done first the"
+  },
+  {
+    "start": 1600.74,
+    "duraction": 4.59,
+    "value": "swamp runs deep plus sleepers and that's"
+  },
+  {
+    "start": 1603.83,
+    "duraction": 3.72,
+    "value": "really the tricky part right is knowing"
+  },
+  {
+    "start": 1605.33,
+    "duraction": 4.83,
+    "value": "who indeed is a sleeper there's a lot of"
+  },
+  {
+    "start": 1607.55,
+    "duraction": 5.43,
+    "value": "people that come out looking outwardly"
+  },
+  {
+    "start": 1610.16,
+    "duraction": 4.56,
+    "value": "like they are pro POTUS and maybe not so"
+  },
+  {
+    "start": 1612.98,
+    "duraction": 3.03,
+    "value": "much and that's not real easy to figure"
+  },
+  {
+    "start": 1614.72,
+    "duraction": 2.01,
+    "value": "out when you're dealing with this every"
+  },
+  {
+    "start": 1616.01,
+    "duraction": 2.649,
+    "value": "day"
+  },
+  {
+    "start": 1616.73,
+    "duraction": 4.66,
+    "value": "backgrounds are important Muslim"
+  },
+  {
+    "start": 1618.659,
+    "duraction": 5.4,
+    "value": "Brotherhood list of in the news now"
+  },
+  {
+    "start": 1621.39,
+    "duraction": 3.99,
+    "value": "names with known ties to Islam well of"
+  },
+  {
+    "start": 1624.059,
+    "duraction": 3.6,
+    "value": "course you have some of these newer"
+  },
+  {
+    "start": 1625.38,
+    "duraction": 4.23,
+    "value": "folks like Aloha know Mary your bro Mar"
+  },
+  {
+    "start": 1627.659,
+    "duraction": 3.661,
+    "value": "you know she's been taking that care"
+  },
+  {
+    "start": 1629.61,
+    "duraction": 3.84,
+    "value": "money and of course care although they"
+  },
+  {
+    "start": 1631.32,
+    "duraction": 3.959,
+    "value": "won't admit it are directly wrapped up"
+  },
+  {
+    "start": 1633.45,
+    "duraction": 4.56,
+    "value": "with Muslim Brotherhood of course"
+  },
+  {
+    "start": 1635.279,
+    "duraction": 5.071,
+    "value": "Rashida to ieave and you could go back"
+  },
+  {
+    "start": 1638.01,
+    "duraction": 5.1,
+    "value": "to Eric Holder of course Barack Hussein"
+  },
+  {
+    "start": 1640.35,
+    "duraction": 6.84,
+    "value": "in the membrane Obama Valerie Jarrett"
+  },
+  {
+    "start": 1643.11,
+    "duraction": 6.689,
+    "value": "and of course John he's a brute by Menon"
+  },
+  {
+    "start": 1647.19,
+    "duraction": 4.56,
+    "value": "Brennan lots of people that were"
+  },
+  {
+    "start": 1649.799,
+    "duraction": 4.38,
+    "value": "infiltrating our government have ties to"
+  },
+  {
+    "start": 1651.75,
+    "duraction": 5.37,
+    "value": "the Muslim Brotherhood they're still"
+  },
+  {
+    "start": 1654.179,
+    "duraction": 5.25,
+    "value": "getting government funding to this day"
+  },
+  {
+    "start": 1657.12,
+    "duraction": 4.409,
+    "value": "list of in the new in the news now names"
+  },
+  {
+    "start": 1659.429,
+    "duraction": 4.561,
+    "value": "with known ties to Islam this is not"
+  },
+  {
+    "start": 1661.529,
+    "duraction": 4.14,
+    "value": "another four-year election indeed it is"
+  },
+  {
+    "start": 1663.99,
+    "duraction": 3.24,
+    "value": "not and as you can see this thing that's"
+  },
+  {
+    "start": 1665.669,
+    "duraction": 3.901,
+    "value": "gone off the rails"
+  },
+  {
+    "start": 1667.23,
+    "duraction": 4.319,
+    "value": "looks like Bernie Sanders is gaining"
+  },
+  {
+    "start": 1669.57,
+    "duraction": 3.75,
+    "value": "more and more steam and I never thought"
+  },
+  {
+    "start": 1671.549,
+    "duraction": 4.11,
+    "value": "I'd see the day that we would have"
+  },
+  {
+    "start": 1673.32,
+    "duraction": 4.41,
+    "value": "basically a known socialist come out and"
+  },
+  {
+    "start": 1675.659,
+    "duraction": 4.111,
+    "value": "be one of the frontrunners for the"
+  },
+  {
+    "start": 1677.73,
+    "duraction": 3.99,
+    "value": "President of the United States Q says"
+  },
+  {
+    "start": 1679.77,
+    "duraction": 5.519,
+    "value": "assumptions correct package well"
+  },
+  {
+    "start": 1681.72,
+    "duraction": 5.28,
+    "value": "received known q well it sounds like Q"
+  },
+  {
+    "start": 1685.289,
+    "duraction": 4.591,
+    "value": "usually when they get a package they"
+  },
+  {
+    "start": 1687.0,
+    "duraction": 4.26,
+    "value": "usually like to send one back out we're"
+  },
+  {
+    "start": 1689.88,
+    "duraction": 5.22,
+    "value": "gonna move on for now we got one more"
+  },
+  {
+    "start": 1691.26,
+    "duraction": 6.0,
+    "value": "post here 38 82 52 minutes after the"
+  },
+  {
+    "start": 1695.1,
+    "duraction": 5.37,
+    "value": "hour of 8 we get to get back to this"
+  },
+  {
+    "start": 1697.26,
+    "duraction": 4.62,
+    "value": "older document here from 2009 and our"
+  },
+  {
+    "start": 1700.47,
+    "duraction": 3.77,
+    "value": "cue puts a little quote here but let me"
+  },
+  {
+    "start": 1701.88,
+    "duraction": 4.64,
+    "value": "show you the document US government"
+  },
+  {
+    "start": 1704.24,
+    "duraction": 6.189,
+    "value": "counterinsurgency guide from January"
+  },
+  {
+    "start": 1706.52,
+    "duraction": 5.74,
+    "value": "2009 and I also want to point out if"
+  },
+  {
+    "start": 1710.429,
+    "duraction": 4.891,
+    "value": "you'll remember Michelle Bachman back in"
+  },
+  {
+    "start": 1712.26,
+    "duraction": 4.71,
+    "value": "the day was going after the Clintons and"
+  },
+  {
+    "start": 1715.32,
+    "duraction": 4.229,
+    "value": "they were one of the first to kind of"
+  },
+  {
+    "start": 1716.97,
+    "duraction": 4.35,
+    "value": "use it against her calling that a witch"
+  },
+  {
+    "start": 1719.549,
+    "duraction": 3.691,
+    "value": "hunt and I can't help but think that"
+  },
+  {
+    "start": 1721.32,
+    "duraction": 4.859,
+    "value": "when President Trump keeps referencing"
+  },
+  {
+    "start": 1723.24,
+    "duraction": 5.429,
+    "value": "the witch hunt that it has to do with a"
+  },
+  {
+    "start": 1726.179,
+    "duraction": 3.901,
+    "value": "lot of this and unfortunately because I"
+  },
+  {
+    "start": 1728.669,
+    "duraction": 3.51,
+    "value": "just spent most of the video working on"
+  },
+  {
+    "start": 1730.08,
+    "duraction": 3.99,
+    "value": "this other stuff I will probably have to"
+  },
+  {
+    "start": 1732.179,
+    "duraction": 4.201,
+    "value": "see if there's more to drum out of this"
+  },
+  {
+    "start": 1734.07,
+    "duraction": 3.839,
+    "value": "that will be relevant information but I"
+  },
+  {
+    "start": 1736.38,
+    "duraction": 5.669,
+    "value": "will leave this for you down below"
+  },
+  {
+    "start": 1737.909,
+    "duraction": 6.27,
+    "value": "because it is 67 pages but Q douses into"
+  },
+  {
+    "start": 1742.049,
+    "duraction": 4.951,
+    "value": "this insurgency is the organized use of"
+  },
+  {
+    "start": 1744.179,
+    "duraction": 4.681,
+    "value": "subversion and violence to seize nullify"
+  },
+  {
+    "start": 1747.0,
+    "duraction": 2.89,
+    "value": "or challenge political control of a"
+  },
+  {
+    "start": 1748.86,
+    "duraction": 2.85,
+    "value": "region"
+  },
+  {
+    "start": 1749.89,
+    "duraction": 4.74,
+    "value": "the presidency of Barack Hussein Obama"
+  },
+  {
+    "start": 1751.71,
+    "duraction": 6.46,
+    "value": "began at noon Eastern Standard Time on"
+  },
+  {
+    "start": 1754.63,
+    "duraction": 5.73,
+    "value": "January 20th 2009 when Barack Obama was"
+  },
+  {
+    "start": 1758.17,
+    "duraction": 5.01,
+    "value": "inaugurated as the 44th president of the"
+  },
+  {
+    "start": 1760.36,
+    "duraction": 5.61,
+    "value": "United States what country was the true"
+  },
+  {
+    "start": 1763.18,
+    "duraction": 4.74,
+    "value": "intended target well it almost seems"
+  },
+  {
+    "start": 1765.97,
+    "duraction": 3.48,
+    "value": "like the takedown of the United States"
+  },
+  {
+    "start": 1767.92,
+    "duraction": 4.14,
+    "value": "was the target right we talked about"
+  },
+  {
+    "start": 1769.45,
+    "duraction": 4.83,
+    "value": "this before the 16 year plan whether it"
+  },
+  {
+    "start": 1772.06,
+    "duraction": 3.21,
+    "value": "be Barack Obama first and Clinton second"
+  },
+  {
+    "start": 1774.28,
+    "duraction": 3.18,
+    "value": "or vice versa"
+  },
+  {
+    "start": 1775.27,
+    "duraction": 4.41,
+    "value": "that seemed to have been the plan to"
+  },
+  {
+    "start": 1777.46,
+    "duraction": 3.75,
+    "value": "bring it all down from the inside"
+  },
+  {
+    "start": 1779.68,
+    "duraction": 3.75,
+    "value": "because nationally you're not gonna get"
+  },
+  {
+    "start": 1781.21,
+    "duraction": 4.02,
+    "value": "voters to just outwardly vote for"
+  },
+  {
+    "start": 1783.43,
+    "duraction": 4.77,
+    "value": "socialism we're gonna see that struggle"
+  },
+  {
+    "start": 1785.23,
+    "duraction": 5.31,
+    "value": "come up soon enough right but when you"
+  },
+  {
+    "start": 1788.2,
+    "duraction": 3.87,
+    "value": "infiltrate for so many years all these"
+  },
+  {
+    "start": 1790.54,
+    "duraction": 3.89,
+    "value": "different people whether you're like I"
+  },
+  {
+    "start": 1792.07,
+    "duraction": 4.17,
+    "value": "just said guys like John Brennan"
+  },
+  {
+    "start": 1794.43,
+    "duraction": 4.51,
+    "value": "infiltrating our government our"
+  },
+  {
+    "start": 1796.24,
+    "duraction": 5.37,
+    "value": "intelligence agencies it becomes very"
+  },
+  {
+    "start": 1798.94,
+    "duraction": 4.92,
+    "value": "very subversive over small periods of"
+  },
+  {
+    "start": 1801.61,
+    "duraction": 4.26,
+    "value": "you know excuse me over in small"
+  },
+  {
+    "start": 1803.86,
+    "duraction": 4.74,
+    "value": "increments over a long period of time"
+  },
+  {
+    "start": 1805.87,
+    "duraction": 4.98,
+    "value": "and that's essentially why this was a 16"
+  },
+  {
+    "start": 1808.6,
+    "duraction": 4.56,
+    "value": "year plan now there's probably more"
+  },
+  {
+    "start": 1810.85,
+    "duraction": 4.35,
+    "value": "going to be coming on this so I will get"
+  },
+  {
+    "start": 1813.16,
+    "duraction": 4.29,
+    "value": "back to you on more of this but I will"
+  },
+  {
+    "start": 1815.2,
+    "duraction": 4.14,
+    "value": "leave this for you down below those are"
+  },
+  {
+    "start": 1817.45,
+    "duraction": 3.51,
+    "value": "your posts as always if you like this"
+  },
+  {
+    "start": 1819.34,
+    "duraction": 3.12,
+    "value": "video please click like share and"
+  },
+  {
+    "start": 1820.96,
+    "duraction": 3.18,
+    "value": "subscribe thanks to all of you who do"
+  },
+  {
+    "start": 1822.46,
+    "duraction": 3.21,
+    "value": "that already if you're new to my channel"
+  },
+  {
+    "start": 1824.14,
+    "duraction": 3.75,
+    "value": "please understand that you're gonna get"
+  },
+  {
+    "start": 1825.67,
+    "duraction": 3.78,
+    "value": "unclick and unsubscribe from time to"
+  },
+  {
+    "start": 1827.89,
+    "duraction": 4.02,
+    "value": "time it happens all the time just do me"
+  },
+  {
+    "start": 1829.45,
+    "duraction": 4.68,
+    "value": "a favor and re-click yourself and stick"
+  },
+  {
+    "start": 1831.91,
+    "duraction": 4.41,
+    "value": "it to the man all my alternate links are"
+  },
+  {
+    "start": 1834.13,
+    "duraction": 4.65,
+    "value": "down below my get my bitch shoot my"
+  },
+  {
+    "start": 1836.32,
+    "duraction": 4.2,
+    "value": "bride tian calm my drop space sobs all"
+  },
+  {
+    "start": 1838.78,
+    "duraction": 4.17,
+    "value": "down below you know where to find it and"
+  },
+  {
+    "start": 1840.52,
+    "duraction": 4.41,
+    "value": "my email is down there my p.o box is"
+  },
+  {
+    "start": 1842.95,
+    "duraction": 2.91,
+    "value": "down there and my patreon is down there"
+  },
+  {
+    "start": 1844.93,
+    "duraction": 2.67,
+    "value": "if you'd like to support the channel"
+  },
+  {
+    "start": 1845.86,
+    "duraction": 4.58,
+    "value": "it's all linked in the video description"
+  },
+  {
+    "start": 1847.6,
+    "duraction": 31.249,
+    "value": "and until next time stay funky patreon"
+  },
+  {
+    "start": 1850.44,
+    "duraction": 28.409,
+    "value": "[Music]"
+  }
+]

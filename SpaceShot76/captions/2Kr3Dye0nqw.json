@@ -1,0 +1,1887 @@
+[
+  {
+    "start": 3.08,
+    "duraction": 27.56,
+    "value": "[Music]"
+  },
+  {
+    "start": 32.23,
+    "duraction": 7.12,
+    "value": "how's it going my fellow world patriots"
+  },
+  {
+    "start": 35.12,
+    "duraction": 5.97,
+    "value": "it is Sunday March 10 2019 just got"
+  },
+  {
+    "start": 39.35,
+    "duraction": 3.57,
+    "value": "finished with the podcast guys about an"
+  },
+  {
+    "start": 41.09,
+    "duraction": 4.35,
+    "value": "hour and 40 minutes had a great time"
+  },
+  {
+    "start": 42.92,
+    "duraction": 5.34,
+    "value": "interacting with you guys live I'm gonna"
+  },
+  {
+    "start": 45.44,
+    "duraction": 4.41,
+    "value": "try to do that a lot more often we got a"
+  },
+  {
+    "start": 48.26,
+    "duraction": 3.509,
+    "value": "couple post right now this one came in"
+  },
+  {
+    "start": 49.85,
+    "duraction": 4.5,
+    "value": "at 11 o'clock and it's about quarter"
+  },
+  {
+    "start": 51.769,
+    "duraction": 5.461,
+    "value": "past 12 right now and one more had come"
+  },
+  {
+    "start": 54.35,
+    "duraction": 5.849,
+    "value": "in just a couple minutes ago so we'll"
+  },
+  {
+    "start": 57.23,
+    "duraction": 7.889,
+    "value": "get to that as well post 30 19 we have"
+  },
+  {
+    "start": 60.199,
+    "duraction": 8.21,
+    "value": "an NSA link all right NSA may 2018"
+  },
+  {
+    "start": 65.119,
+    "duraction": 6.601,
+    "value": "puzzle periodical shall we play a game"
+  },
+  {
+    "start": 68.409,
+    "duraction": 6.011,
+    "value": "computer tic-tac-toe builds a some"
+  },
+  {
+    "start": 71.72,
+    "duraction": 5.429,
+    "value": "familiar guys shall we play a game"
+  },
+  {
+    "start": 74.42,
+    "duraction": 5.67,
+    "value": "oh-ho I think it does I think it sounds"
+  },
+  {
+    "start": 77.149,
+    "duraction": 6.801,
+    "value": "very very familiar like our friend mr. Q"
+  },
+  {
+    "start": 80.09,
+    "duraction": 3.86,
+    "value": "here may 15 20"
+  },
+  {
+    "start": 84.95,
+    "duraction": 6.269,
+    "value": "this month's NSA puzzle periodical pays"
+  },
+  {
+    "start": 88.969,
+    "duraction": 5.25,
+    "value": "tribute to the 1983 motion picture"
+  },
+  {
+    "start": 91.219,
+    "duraction": 7.771,
+    "value": "wargames in the movie a supercomputer is"
+  },
+  {
+    "start": 94.219,
+    "duraction": 8.79,
+    "value": "programmed to play tic-tac-toe how about"
+  },
+  {
+    "start": 98.99,
+    "duraction": 7.32,
+    "value": "a nice game of chess how about global"
+  },
+  {
+    "start": 103.009,
+    "duraction": 6.0,
+    "value": "thermonuclear war the computer plays"
+  },
+  {
+    "start": 106.31,
+    "duraction": 6.809,
+    "value": "itself with each X and O placed"
+  },
+  {
+    "start": 109.009,
+    "duraction": 6.0,
+    "value": "uniformly at random into any square this"
+  },
+  {
+    "start": 113.119,
+    "duraction": 4.801,
+    "value": "means the computer plays without regard"
+  },
+  {
+    "start": 115.009,
+    "duraction": 6.171,
+    "value": "to strategy what is the probability a"
+  },
+  {
+    "start": 117.92,
+    "duraction": 6.15,
+    "value": "game will end in a draw assume perfect"
+  },
+  {
+    "start": 121.18,
+    "duraction": 5.289,
+    "value": "random number generation the first X"
+  },
+  {
+    "start": 124.07,
+    "duraction": 5.76,
+    "value": "will be placed in any square with"
+  },
+  {
+    "start": 126.469,
+    "duraction": 5.701,
+    "value": "probability 1 over 9 the first zero will"
+  },
+  {
+    "start": 129.83,
+    "duraction": 3.81,
+    "value": "go into any of the remaining squares"
+  },
+  {
+    "start": 132.17,
+    "duraction": 5.34,
+    "value": "with the probability"
+  },
+  {
+    "start": 133.64,
+    "duraction": 5.4,
+    "value": "1 over 8 and so on alright guys so you"
+  },
+  {
+    "start": 137.51,
+    "duraction": 4.199,
+    "value": "know the answer to that let's click the"
+  },
+  {
+    "start": 139.04,
+    "duraction": 5.19,
+    "value": "answer and see solution answer the"
+  },
+  {
+    "start": 141.709,
+    "duraction": 4.711,
+    "value": "probability of a drawer is 8 over 63 if"
+  },
+  {
+    "start": 144.23,
+    "duraction": 5.22,
+    "value": "we number the squares on the board 1 2 9"
+  },
+  {
+    "start": 146.42,
+    "duraction": 5.07,
+    "value": "then every permutation of 1 through 9"
+  },
+  {
+    "start": 149.45,
+    "duraction": 7.35,
+    "value": "defines a game for instance the"
+  },
+  {
+    "start": 151.49,
+    "duraction": 7.14,
+    "value": "permutation 1 7 8 2 9 4 6 3 5 would be"
+  },
+  {
+    "start": 156.8,
+    "duraction": 5.85,
+    "value": "the game where X plays in square one"
+  },
+  {
+    "start": 158.63,
+    "duraction": 5.4,
+    "value": "then o plays in square 7 then X and 8"
+  },
+  {
+    "start": 162.65,
+    "duraction": 4.86,
+    "value": "and so on so forth"
+  },
+  {
+    "start": 164.03,
+    "duraction": 5.04,
+    "value": "this would result in the X's and O's you"
+  },
+  {
+    "start": 167.51,
+    "duraction": 3.96,
+    "value": "see on the left side on the top guys"
+  },
+  {
+    "start": 169.07,
+    "duraction": 5.55,
+    "value": "which is a win for X it follows that"
+  },
+  {
+    "start": 171.47,
+    "duraction": 5.79,
+    "value": "there are 9 9 x 7 x 8 all the way down"
+  },
+  {
+    "start": 174.62,
+    "duraction": 4.23,
+    "value": "to 1 possible games note the order is"
+  },
+  {
+    "start": 177.26,
+    "duraction": 4.979,
+    "value": "important in determining the winner if"
+  },
+  {
+    "start": 178.85,
+    "duraction": 5.37,
+    "value": "the final layout were that set of X's"
+  },
+  {
+    "start": 182.239,
+    "duraction": 3.931,
+    "value": "and O's you see right there then the"
+  },
+  {
+    "start": 184.22,
+    "duraction": 3.18,
+    "value": "winner would be the one who completed"
+  },
+  {
+    "start": 186.17,
+    "duraction": 5.55,
+    "value": "its row first"
+  },
+  {
+    "start": 187.4,
+    "duraction": 5.309,
+    "value": "so get your get your picks in right all"
+  },
+  {
+    "start": 191.72,
+    "duraction": 3.18,
+    "value": "right so basically talks about"
+  },
+  {
+    "start": 192.709,
+    "duraction": 3.511,
+    "value": "probabilities and you know basically X's"
+  },
+  {
+    "start": 194.9,
+    "duraction": 3.36,
+    "value": "and O's and it's talking about right"
+  },
+  {
+    "start": 196.22,
+    "duraction": 4.47,
+    "value": "here so the winner would be who gets"
+  },
+  {
+    "start": 198.26,
+    "duraction": 6.36,
+    "value": "their row done first or completes their"
+  },
+  {
+    "start": 200.69,
+    "duraction": 6.6,
+    "value": "row first obviously Q says shall we play"
+  },
+  {
+    "start": 204.62,
+    "duraction": 5.66,
+    "value": "a game question mark how many tweets has"
+  },
+  {
+    "start": 207.29,
+    "duraction": 6.3,
+    "value": "POTUS forwarded in the past 12 hours"
+  },
+  {
+    "start": 210.28,
+    "duraction": 6.88,
+    "value": "primary topics question mark March"
+  },
+  {
+    "start": 213.59,
+    "duraction": 6.149,
+    "value": "Madness do you have your kill box as we"
+  },
+  {
+    "start": 217.16,
+    "duraction": 6.99,
+    "value": "call them but in March Madness it would"
+  },
+  {
+    "start": 219.739,
+    "duraction": 6.871,
+    "value": "be brackets filled in q and RDoc on the"
+  },
+  {
+    "start": 224.15,
+    "duraction": 5.07,
+    "value": "podcast because it came in just as we"
+  },
+  {
+    "start": 226.61,
+    "duraction": 4.65,
+    "value": "were about wrapping up the podcast said"
+  },
+  {
+    "start": 229.22,
+    "duraction": 4.35,
+    "value": "he thinks that may be a nod to the deep"
+  },
+  {
+    "start": 231.26,
+    "duraction": 3.93,
+    "value": "state as far as like you better pick"
+  },
+  {
+    "start": 233.57,
+    "duraction": 5.1,
+    "value": "your sides and pick your strategy"
+  },
+  {
+    "start": 235.19,
+    "duraction": 5.9,
+    "value": "because it's coming alright post 30 20"
+  },
+  {
+    "start": 238.67,
+    "duraction": 5.4,
+    "value": "we have a twitter status Jordan say thir"
+  },
+  {
+    "start": 241.09,
+    "duraction": 4.119,
+    "value": "all right Jordan safer like I said from"
+  },
+  {
+    "start": 244.07,
+    "duraction": 4.56,
+    "value": "2016"
+  },
+  {
+    "start": 245.209,
+    "duraction": 7.201,
+    "value": "but as relevant as ever hashtag q and on"
+  },
+  {
+    "start": 248.63,
+    "duraction": 5.76,
+    "value": "put a link into the CIA is investing in"
+  },
+  {
+    "start": 252.41,
+    "duraction": 5.069,
+    "value": "firms that mine your tweets and"
+  },
+  {
+    "start": 254.39,
+    "duraction": 4.8,
+    "value": "Instagram photos among 38 previously"
+  },
+  {
+    "start": 257.479,
+    "duraction": 4.32,
+    "value": "undisclosed companies receiving CIA"
+  },
+  {
+    "start": 259.19,
+    "duraction": 5.45,
+    "value": "venture capital funding several are"
+  },
+  {
+    "start": 261.799,
+    "duraction": 5.041,
+    "value": "developing tools to mine social media"
+  },
+  {
+    "start": 264.64,
+    "duraction": 2.79,
+    "value": "well I think you guys get the gist of"
+  },
+  {
+    "start": 266.84,
+    "duraction": 2.57,
+    "value": "that right"
+  },
+  {
+    "start": 267.43,
+    "duraction": 3.72,
+    "value": "as you can see the CIA all these"
+  },
+  {
+    "start": 269.41,
+    "duraction": 4.259,
+    "value": "different companies going into in-q-tel"
+  },
+  {
+    "start": 271.15,
+    "duraction": 3.21,
+    "value": "and if you remember from three or four"
+  },
+  {
+    "start": 273.669,
+    "duraction": 2.641,
+    "value": "days ago"
+  },
+  {
+    "start": 274.36,
+    "duraction": 4.74,
+    "value": "Hugh had went out of his way to"
+  },
+  {
+    "start": 276.31,
+    "duraction": 5.4,
+    "value": "highlight in-q-tel as well so all these"
+  },
+  {
+    "start": 279.1,
+    "duraction": 5.58,
+    "value": "different companies scattered around"
+  },
+  {
+    "start": 281.71,
+    "duraction": 6.959,
+    "value": "working all for the CIA right"
+  },
+  {
+    "start": 284.68,
+    "duraction": 6.15,
+    "value": "yeah Facebook YouTube Instagram Twitter"
+  },
+  {
+    "start": 288.669,
+    "duraction": 4.5,
+    "value": "all these other places and then you have"
+  },
+  {
+    "start": 290.83,
+    "duraction": 5.55,
+    "value": "these companies collecting all of our"
+  },
+  {
+    "start": 293.169,
+    "duraction": 6.03,
+    "value": "information really nice right all right"
+  },
+  {
+    "start": 296.38,
+    "duraction": 6.06,
+    "value": "and to that Q said why did Snowden only"
+  },
+  {
+    "start": 299.199,
+    "duraction": 5.131,
+    "value": "attack the NSA well because he was a CIA"
+  },
+  {
+    "start": 302.44,
+    "duraction": 4.949,
+    "value": "operative and he was trying to basically"
+  },
+  {
+    "start": 304.33,
+    "duraction": 5.28,
+    "value": "crush the NSA where did Snowden work"
+  },
+  {
+    "start": 307.389,
+    "duraction": 6.271,
+    "value": "prior to the NSA CIA"
+  },
+  {
+    "start": 309.61,
+    "duraction": 7.44,
+    "value": "why did Snowden pick Russia as his safe"
+  },
+  {
+    "start": 313.66,
+    "duraction": 3.99,
+    "value": "place remember guys that was a like a"
+  },
+  {
+    "start": 317.05,
+    "duraction": 3.179,
+    "value": "head-fake"
+  },
+  {
+    "start": 317.65,
+    "duraction": 4.91,
+    "value": "type of deal right Russia is his safe"
+  },
+  {
+    "start": 320.229,
+    "duraction": 7.351,
+    "value": "place but he made a quick stopover in"
+  },
+  {
+    "start": 322.56,
+    "duraction": 8.199,
+    "value": "China yeah so remember he had a"
+  },
+  {
+    "start": 327.58,
+    "duraction": 6.24,
+    "value": "international do not fly flagging on him"
+  },
+  {
+    "start": 330.759,
+    "duraction": 6.121,
+    "value": "but yet he was able to leave China and"
+  },
+  {
+    "start": 333.82,
+    "duraction": 5.25,
+    "value": "he was said many times like wouldn't you"
+  },
+  {
+    "start": 336.88,
+    "duraction": 4.98,
+    "value": "go to your target destination and then"
+  },
+  {
+    "start": 339.07,
+    "duraction": 4.86,
+    "value": "release the information so basically"
+  },
+  {
+    "start": 341.86,
+    "duraction": 4.29,
+    "value": "he's trying to make it look like he's"
+  },
+  {
+    "start": 343.93,
+    "duraction": 5.22,
+    "value": "working with Russia but we really know"
+  },
+  {
+    "start": 346.15,
+    "duraction": 4.739,
+    "value": "he's working with China and the CIA what"
+  },
+  {
+    "start": 349.15,
+    "duraction": 5.61,
+    "value": "events occurred directly after release"
+  },
+  {
+    "start": 350.889,
+    "duraction": 8.071,
+    "value": "of NSA packs how do you avoid data"
+  },
+  {
+    "start": 354.76,
+    "duraction": 7.29,
+    "value": "privacy laws charter of the NSA charter"
+  },
+  {
+    "start": 358.96,
+    "duraction": 6.78,
+    "value": "of the Agency DARPA over the life log"
+  },
+  {
+    "start": 362.05,
+    "duraction": 6.899,
+    "value": "over to Facebook define surveillance"
+  },
+  {
+    "start": 365.74,
+    "duraction": 4.679,
+    "value": "state a surveillance state is a country"
+  },
+  {
+    "start": 368.949,
+    "duraction": 4.141,
+    "value": "where the government engages in"
+  },
+  {
+    "start": 370.419,
+    "duraction": 5.851,
+    "value": "pervasive surveillance of large numbers"
+  },
+  {
+    "start": 373.09,
+    "duraction": 4.73,
+    "value": "of its citizens and visitors matters of"
+  },
+  {
+    "start": 376.27,
+    "duraction": 5.19,
+    "value": "national security"
+  },
+  {
+    "start": 377.82,
+    "duraction": 6.939,
+    "value": "accepted reality why was the NSA"
+  },
+  {
+    "start": 381.46,
+    "duraction": 5.73,
+    "value": "targeted why was the agency protected"
+  },
+  {
+    "start": 384.759,
+    "duraction": 5.821,
+    "value": "and sheltered so we're going back to it"
+  },
+  {
+    "start": 387.19,
+    "duraction": 6.75,
+    "value": "again remember guys the CIA wanted to"
+  },
+  {
+    "start": 390.58,
+    "duraction": 7.649,
+    "value": "mimic and takeover the NSA because the"
+  },
+  {
+    "start": 393.94,
+    "duraction": 6.82,
+    "value": "NSA Dwarfs the CIA in its resources and"
+  },
+  {
+    "start": 398.229,
+    "duraction": 5.741,
+    "value": "it's informational input or"
+  },
+  {
+    "start": 400.76,
+    "duraction": 5.94,
+    "value": "use me intake so they literally wanted"
+  },
+  {
+    "start": 403.97,
+    "duraction": 5.25,
+    "value": "to take over the NSA and be like a"
+  },
+  {
+    "start": 406.7,
+    "duraction": 5.1,
+    "value": "carbon copy of it and what better way to"
+  },
+  {
+    "start": 409.22,
+    "duraction": 6.24,
+    "value": "do it then actually take them out in due"
+  },
+  {
+    "start": 411.8,
+    "duraction": 4.95,
+    "value": "course all right 30 21 guys gonna have"
+  },
+  {
+    "start": 415.46,
+    "duraction": 3.75,
+    "value": "to make this one the last of the night"
+  },
+  {
+    "start": 416.75,
+    "duraction": 5.34,
+    "value": "if Q post anymore we will make it in"
+  },
+  {
+    "start": 419.21,
+    "duraction": 7.13,
+    "value": "tomorrow's video we have a New York"
+  },
+  {
+    "start": 422.09,
+    "duraction": 9.98,
+    "value": "Times link says at Snowden parades or"
+  },
+  {
+    "start": 426.34,
+    "duraction": 8.38,
+    "value": "restraints 2019 in the kill box q oh no"
+  },
+  {
+    "start": 432.07,
+    "duraction": 4.36,
+    "value": "so Snowden do you want to be a hero or"
+  },
+  {
+    "start": 434.72,
+    "duraction": 3.6,
+    "value": "do you want to be locked up for the rest"
+  },
+  {
+    "start": 436.43,
+    "duraction": 4.98,
+    "value": "of your life let's see what that link"
+  },
+  {
+    "start": 438.32,
+    "duraction": 6.63,
+    "value": "says security breach and spilled secrets"
+  },
+  {
+    "start": 441.41,
+    "duraction": 5.25,
+    "value": "have shaken the NSA to its core a serial"
+  },
+  {
+    "start": 444.95,
+    "duraction": 4.14,
+    "value": "leak of the agency cyber weapons has"
+  },
+  {
+    "start": 446.66,
+    "duraction": 5.1,
+    "value": "damaged morale slowed intelligence"
+  },
+  {
+    "start": 449.09,
+    "duraction": 5.34,
+    "value": "operations and resulted in hacking"
+  },
+  {
+    "start": 451.76,
+    "duraction": 6.09,
+    "value": "attacks on businesses and civilians"
+  },
+  {
+    "start": 454.43,
+    "duraction": 6.24,
+    "value": "worldwide Jake Williams awoke last April"
+  },
+  {
+    "start": 457.85,
+    "duraction": 4.86,
+    "value": "in an Orlando Florida hotel where he was"
+  },
+  {
+    "start": 460.67,
+    "duraction": 2.4,
+    "value": "leading a training session checking"
+  },
+  {
+    "start": 462.71,
+    "duraction": 2.55,
+    "value": "Twitter"
+  },
+  {
+    "start": 463.07,
+    "duraction": 4.32,
+    "value": "mr. Williams a cyber security expert was"
+  },
+  {
+    "start": 465.26,
+    "duraction": 4.02,
+    "value": "dismayed to discover that he had been"
+  },
+  {
+    "start": 467.39,
+    "duraction": 4.86,
+    "value": "thrust into the middle of one of the"
+  },
+  {
+    "start": 469.28,
+    "duraction": 6.21,
+    "value": "worst security debacles ever to befall"
+  },
+  {
+    "start": 472.25,
+    "duraction": 4.89,
+    "value": "American intelligence mr. Williams had"
+  },
+  {
+    "start": 475.49,
+    "duraction": 3.99,
+    "value": "written on his company blog about the"
+  },
+  {
+    "start": 477.14,
+    "duraction": 4.56,
+    "value": "shadow brokers a mysterious group that"
+  },
+  {
+    "start": 479.48,
+    "duraction": 4.89,
+    "value": "had somehow obtained many of the hacking"
+  },
+  {
+    "start": 481.7,
+    "duraction": 5.01,
+    "value": "tools of the United States used to spy"
+  },
+  {
+    "start": 484.37,
+    "duraction": 6.18,
+    "value": "on other countries now the group had"
+  },
+  {
+    "start": 486.71,
+    "duraction": 6.36,
+    "value": "replied in an angry screed on Twitter it"
+  },
+  {
+    "start": 490.55,
+    "duraction": 4.53,
+    "value": "identified him correctly as a former"
+  },
+  {
+    "start": 493.07,
+    "duraction": 4.47,
+    "value": "member of the National Security Agency's"
+  },
+  {
+    "start": 495.08,
+    "duraction": 6.57,
+    "value": "hacking group tailored access operations"
+  },
+  {
+    "start": 497.54,
+    "duraction": 6.81,
+    "value": "or tal a job he had not publicly"
+  },
+  {
+    "start": 501.65,
+    "duraction": 4.53,
+    "value": "disclosed then the shadow brokers"
+  },
+  {
+    "start": 504.35,
+    "duraction": 4.35,
+    "value": "astonished him by dropping technical"
+  },
+  {
+    "start": 506.18,
+    "duraction": 4.59,
+    "value": "details that made clear they knew about"
+  },
+  {
+    "start": 508.7,
+    "duraction": 5.31,
+    "value": "highly classified hacking operations"
+  },
+  {
+    "start": 510.77,
+    "duraction": 5.28,
+    "value": "that he had conducted America's largest"
+  },
+  {
+    "start": 514.01,
+    "duraction": 5.55,
+    "value": "and most secretive Intelligence Agency"
+  },
+  {
+    "start": 516.05,
+    "duraction": 5.94,
+    "value": "had been deeply infiltrated they had"
+  },
+  {
+    "start": 519.56,
+    "duraction": 5.49,
+    "value": "operational insight that even most of my"
+  },
+  {
+    "start": 521.99,
+    "duraction": 6.06,
+    "value": "fellow operators at TAO didn't have said"
+  },
+  {
+    "start": 525.05,
+    "duraction": 5.64,
+    "value": "Williams now with rendition info SEC a"
+  },
+  {
+    "start": 528.05,
+    "duraction": 4.67,
+    "value": "cybersecurity firm he founded I felt"
+  },
+  {
+    "start": 530.69,
+    "duraction": 3.839,
+    "value": "like I had been kicked in the gut"
+  },
+  {
+    "start": 532.72,
+    "duraction": 4.21,
+    "value": "whoever wrote this"
+  },
+  {
+    "start": 534.529,
+    "duraction": 6.031,
+    "value": "either was a well-placed insider or had"
+  },
+  {
+    "start": 536.93,
+    "duraction": 5.159,
+    "value": "stolen a lot of operational data the"
+  },
+  {
+    "start": 540.56,
+    "duraction": 4.35,
+    "value": "jolt to mr. Williams from the shadow"
+  },
+  {
+    "start": 542.089,
+    "duraction": 4.321,
+    "value": "brokers repost was part of a much"
+  },
+  {
+    "start": 544.91,
+    "duraction": 3.75,
+    "value": "broader earthquake that has shaken the"
+  },
+  {
+    "start": 546.41,
+    "duraction": 4.38,
+    "value": "NSA to its core current and former"
+  },
+  {
+    "start": 548.66,
+    "duraction": 4.799,
+    "value": "agency officials say the shadow brokers"
+  },
+  {
+    "start": 550.79,
+    "duraction": 5.659,
+    "value": "disclosures which began in August 2016"
+  },
+  {
+    "start": 553.459,
+    "duraction": 5.701,
+    "value": "have been catastrophic for the NSA"
+  },
+  {
+    "start": 556.449,
+    "duraction": 5.62,
+    "value": "calling into question its ability to"
+  },
+  {
+    "start": 559.16,
+    "duraction": 5.33,
+    "value": "protect potent cyber weapons and it's"
+  },
+  {
+    "start": 562.069,
+    "duraction": 5.041,
+    "value": "very value to national security the"
+  },
+  {
+    "start": 564.49,
+    "duraction": 4.93,
+    "value": "agency regarded as the world's leader in"
+  },
+  {
+    "start": 567.11,
+    "duraction": 6.3,
+    "value": "breaking into adversaries computer"
+  },
+  {
+    "start": 569.42,
+    "duraction": 5.669,
+    "value": "networks failed to protect its own these"
+  },
+  {
+    "start": 573.41,
+    "duraction": 3.359,
+    "value": "leaks have been incredibly damaging to"
+  },
+  {
+    "start": 575.089,
+    "duraction": 3.721,
+    "value": "our intelligence and cyber capabilities"
+  },
+  {
+    "start": 576.769,
+    "duraction": 5.07,
+    "value": "at Leon Panetta the former defense"
+  },
+  {
+    "start": 578.81,
+    "duraction": 4.589,
+    "value": "secretary and director of the CIA the"
+  },
+  {
+    "start": 581.839,
+    "duraction": 4.161,
+    "value": "fundamental purpose of intelligence is"
+  },
+  {
+    "start": 583.399,
+    "duraction": 5.43,
+    "value": "to be able to effectively penetrate our"
+  },
+  {
+    "start": 586.0,
+    "duraction": 5.019,
+    "value": "adversaries in order to gather vital"
+  },
+  {
+    "start": 588.829,
+    "duraction": 4.44,
+    "value": "intelligence by its very nature that"
+  },
+  {
+    "start": 591.019,
+    "duraction": 5.341,
+    "value": "only work sixy cracy is maintained and"
+  },
+  {
+    "start": 593.269,
+    "duraction": 4.771,
+    "value": "our codes are protected with a league of"
+  },
+  {
+    "start": 596.36,
+    "duraction": 3.69,
+    "value": "intelligence methods like the NSA tools"
+  },
+  {
+    "start": 598.04,
+    "duraction": 4.529,
+    "value": "mr. Panetta said every time it happens"
+  },
+  {
+    "start": 600.05,
+    "duraction": 4.409,
+    "value": "you essentially have to start over 15"
+  },
+  {
+    "start": 602.569,
+    "duraction": 3.901,
+    "value": "months into a wide-ranging investigation"
+  },
+  {
+    "start": 604.459,
+    "duraction": 5.401,
+    "value": "by the agency's counterintelligence arm"
+  },
+  {
+    "start": 606.47,
+    "duraction": 5.549,
+    "value": "known as Q group and the FBI officials"
+  },
+  {
+    "start": 609.86,
+    "duraction": 4.2,
+    "value": "still do not know whether the NSA is the"
+  },
+  {
+    "start": 612.019,
+    "duraction": 4.56,
+    "value": "victim of a brilliantly executed hack"
+  },
+  {
+    "start": 614.06,
+    "duraction": 5.579,
+    "value": "with Russia as the most likely"
+  },
+  {
+    "start": 616.579,
+    "duraction": 5.641,
+    "value": "perpetrator and insiders leak or both"
+  },
+  {
+    "start": 619.639,
+    "duraction": 5.791,
+    "value": "three employees have been arrested since"
+  },
+  {
+    "start": 622.22,
+    "duraction": 5.52,
+    "value": "2015 for our taking classified files but"
+  },
+  {
+    "start": 625.43,
+    "duraction": 5.49,
+    "value": "there is fear that one or more leakers"
+  },
+  {
+    "start": 627.74,
+    "duraction": 4.86,
+    "value": "may still be in place and there is broad"
+  },
+  {
+    "start": 630.92,
+    "duraction": 3.69,
+    "value": "agreement that the damage from the"
+  },
+  {
+    "start": 632.6,
+    "duraction": 4.56,
+    "value": "Shadow Broker is already far exceeds the"
+  },
+  {
+    "start": 634.61,
+    "duraction": 5.52,
+    "value": "harm to American intelligence done by"
+  },
+  {
+    "start": 637.16,
+    "duraction": 6.599,
+    "value": "Edward J Snowden the former NSA"
+  },
+  {
+    "start": 640.13,
+    "duraction": 5.819,
+    "value": "contractor and CIA agent who fled with"
+  },
+  {
+    "start": 643.759,
+    "duraction": 5.401,
+    "value": "four laptops of classified material in"
+  },
+  {
+    "start": 645.949,
+    "duraction": 5.401,
+    "value": "2013 so that's where it began apparently"
+  },
+  {
+    "start": 649.16,
+    "duraction": 4.77,
+    "value": "guys all right guys this is definitely"
+  },
+  {
+    "start": 651.35,
+    "duraction": 4.65,
+    "value": "the house one of the night 30:22 within"
+  },
+  {
+    "start": 653.93,
+    "duraction": 4.349,
+    "value": "that we have the same one we just read"
+  },
+  {
+    "start": 656.0,
+    "duraction": 5.12,
+    "value": "3021 with the New York Times article I"
+  },
+  {
+    "start": 658.279,
+    "duraction": 7.101,
+    "value": "just read you connect the dots q says"
+  },
+  {
+    "start": 661.12,
+    "duraction": 6.79,
+    "value": "Snowden release code words NSA Keys"
+  },
+  {
+    "start": 665.38,
+    "duraction": 5.53,
+    "value": "Snowden travels to Russia"
+  },
+  {
+    "start": 667.91,
+    "duraction": 6.09,
+    "value": "shadow brokers release actual code NSA"
+  },
+  {
+    "start": 670.91,
+    "duraction": 5.94,
+    "value": "keys shadow brokers originated in Russia"
+  },
+  {
+    "start": 674.0,
+    "duraction": 5.01,
+    "value": "can you make the connection why Snowden"
+  },
+  {
+    "start": 676.85,
+    "duraction": 4.14,
+    "value": "went to Russia can you make the"
+  },
+  {
+    "start": 679.01,
+    "duraction": 6.63,
+    "value": "connection who provided the source code"
+  },
+  {
+    "start": 680.99,
+    "duraction": 9.26,
+    "value": "to shadow brokers define spook define"
+  },
+  {
+    "start": 685.64,
+    "duraction": 8.36,
+    "value": "shadow do spooks hide in the shadows"
+  },
+  {
+    "start": 690.25,
+    "duraction": 8.68,
+    "value": "stand strong Gina ooh"
+  },
+  {
+    "start": 694.0,
+    "duraction": 13.12,
+    "value": "Q stand strong Gina is that Gina Haspel"
+  },
+  {
+    "start": 698.93,
+    "duraction": 10.08,
+    "value": "now the head of the CIA wowza so my"
+  },
+  {
+    "start": 707.12,
+    "duraction": 3.9,
+    "value": "thought is that they're trying to like I"
+  },
+  {
+    "start": 709.01,
+    "duraction": 4.53,
+    "value": "said earlier make it all seem like"
+  },
+  {
+    "start": 711.02,
+    "duraction": 4.92,
+    "value": "Russia Russia Russia Russia when it's"
+  },
+  {
+    "start": 713.54,
+    "duraction": 3.75,
+    "value": "China China China so are they"
+  },
+  {
+    "start": 715.94,
+    "duraction": 3.81,
+    "value": "deliberately setting up the shadow"
+  },
+  {
+    "start": 717.29,
+    "duraction": 4.74,
+    "value": "brokers in Russia like you see it there"
+  },
+  {
+    "start": 719.75,
+    "duraction": 4.59,
+    "value": "originated from Russia there are they"
+  },
+  {
+    "start": 722.03,
+    "duraction": 4.31,
+    "value": "set up in Russia solely for the fact"
+  },
+  {
+    "start": 724.34,
+    "duraction": 4.74,
+    "value": "that later on he could do this and then"
+  },
+  {
+    "start": 726.34,
+    "duraction": 4.56,
+    "value": "go to Russia and make it look like he's"
+  },
+  {
+    "start": 729.08,
+    "duraction": 4.44,
+    "value": "working with the Russians when we know"
+  },
+  {
+    "start": 730.9,
+    "duraction": 7.15,
+    "value": "he stopped off in China and was led off"
+  },
+  {
+    "start": 733.52,
+    "duraction": 6.12,
+    "value": "with a no no fly flagging he was still"
+  },
+  {
+    "start": 738.05,
+    "duraction": 3.15,
+    "value": "allowed to fly go figure that one out"
+  },
+  {
+    "start": 739.64,
+    "duraction": 3.72,
+    "value": "right 30:23"
+  },
+  {
+    "start": 741.2,
+    "duraction": 5.01,
+    "value": "within that we had the last post connect"
+  },
+  {
+    "start": 743.36,
+    "duraction": 8.81,
+    "value": "the dots like we just talked about who"
+  },
+  {
+    "start": 746.21,
+    "duraction": 11.13,
+    "value": "was agency director from 2012 to 2016"
+  },
+  {
+    "start": 752.17,
+    "duraction": 10.0,
+    "value": "was that oh I don't know John"
+  },
+  {
+    "start": 757.34,
+    "duraction": 11.31,
+    "value": "the traitor Brennan agency director in"
+  },
+  {
+    "start": 762.17,
+    "duraction": 12.15,
+    "value": "the kill box John Perry Barlow how did"
+  },
+  {
+    "start": 768.65,
+    "duraction": 8.22,
+    "value": "we know prior to question mark Q so the"
+  },
+  {
+    "start": 774.32,
+    "duraction": 6.9,
+    "value": "agency CIA director was John Brennan"
+  },
+  {
+    "start": 776.87,
+    "duraction": 6.15,
+    "value": "from 2012 to 2016 under Obama agency"
+  },
+  {
+    "start": 781.22,
+    "duraction": 4.14,
+    "value": "directors in the kill box so he's about"
+  },
+  {
+    "start": 783.02,
+    "duraction": 4.29,
+    "value": "to be toast hopefully we won't have to"
+  },
+  {
+    "start": 785.36,
+    "duraction": 5.88,
+    "value": "see John Brennan on CNN anymore on his"
+  },
+  {
+    "start": 787.31,
+    "duraction": 7.26,
+    "value": "smug look how did we know prior to now"
+  },
+  {
+    "start": 791.24,
+    "duraction": 8.73,
+    "value": "guys John Perry Barlow was like the like"
+  },
+  {
+    "start": 794.57,
+    "duraction": 6.85,
+    "value": "a legend on the Internet and Hugh had"
+  },
+  {
+    "start": 799.97,
+    "duraction": 3.67,
+    "value": "posted"
+  },
+  {
+    "start": 801.42,
+    "duraction": 4.58,
+    "value": "heart attacks can be deadly and all of a"
+  },
+  {
+    "start": 803.64,
+    "duraction": 6.53,
+    "value": "sudden you see John Perry Barlow is dead"
+  },
+  {
+    "start": 806.0,
+    "duraction": 7.12,
+    "value": "how did they know prior - I have no idea"
+  },
+  {
+    "start": 810.17,
+    "duraction": 4.96,
+    "value": "all right guys so I haven't got any much"
+  },
+  {
+    "start": 813.12,
+    "duraction": 5.04,
+    "value": "sleep in the last 14 months"
+  },
+  {
+    "start": 815.13,
+    "duraction": 5.22,
+    "value": "c'est la vie right post 30 24 we have a"
+  },
+  {
+    "start": 818.16,
+    "duraction": 5.01,
+    "value": "Twitter status the stuffs getting a"
+  },
+  {
+    "start": 820.35,
+    "duraction": 4.5,
+    "value": "little creepy err guys so I would say as"
+  },
+  {
+    "start": 823.17,
+    "duraction": 3.48,
+    "value": "soon as I transition over to this next"
+  },
+  {
+    "start": 824.85,
+    "duraction": 3.33,
+    "value": "screen here guys if you got any little"
+  },
+  {
+    "start": 826.65,
+    "duraction": 3.99,
+    "value": "ones I know you guys said a lot of"
+  },
+  {
+    "start": 828.18,
+    "duraction": 4.65,
+    "value": "people watch with the family so I'll"
+  },
+  {
+    "start": 830.64,
+    "duraction": 3.21,
+    "value": "just give you the ear alert from now on"
+  },
+  {
+    "start": 832.83,
+    "duraction": 3.36,
+    "value": "so we don't have to go through this"
+  },
+  {
+    "start": 833.85,
+    "duraction": 4.83,
+    "value": "every time but if you're listening with"
+  },
+  {
+    "start": 836.19,
+    "duraction": 5.97,
+    "value": "children have them listen away for about"
+  },
+  {
+    "start": 838.68,
+    "duraction": 5.76,
+    "value": "the next 30 seconds Edward Snowden says"
+  },
+  {
+    "start": 842.16,
+    "duraction": 3.69,
+    "value": "no Gena Haspel participated in a torture"
+  },
+  {
+    "start": 844.44,
+    "duraction": 3.36,
+    "value": "program that involved beating an"
+  },
+  {
+    "start": 845.85,
+    "duraction": 4.53,
+    "value": "innocent pregnant woman's stomach and"
+  },
+  {
+    "start": 847.8,
+    "duraction": 4.65,
+    "value": "anally raping a man with meals he tried"
+  },
+  {
+    "start": 850.38,
+    "duraction": 4.74,
+    "value": "to refuse freezing a shackled prisoner"
+  },
+  {
+    "start": 852.45,
+    "duraction": 6.0,
+    "value": "until he died she personally wrote the"
+  },
+  {
+    "start": 855.12,
+    "duraction": 5.63,
+    "value": "order to destroy 92 tapes of torture did"
+  },
+  {
+    "start": 858.45,
+    "duraction": 4.47,
+    "value": "she Edward you a good boy or a bad boy"
+  },
+  {
+    "start": 860.75,
+    "duraction": 4.93,
+    "value": "methinks you're not such a good actor"
+  },
+  {
+    "start": 862.92,
+    "duraction": 4.29,
+    "value": "there buddy all right guys these are the"
+  },
+  {
+    "start": 865.68,
+    "duraction": 4.38,
+    "value": "ones that give me the energy to keep"
+  },
+  {
+    "start": 867.21,
+    "duraction": 6.69,
+    "value": "going I'm loving these posts banking on"
+  },
+  {
+    "start": 870.06,
+    "duraction": 6.0,
+    "value": "HRC to win whoo so Snowden were you"
+  },
+  {
+    "start": 873.9,
+    "duraction": 4.77,
+    "value": "waiting on her to win she didn't you"
+  },
+  {
+    "start": 876.06,
+    "duraction": 5.91,
+    "value": "never thought she would lose you banking"
+  },
+  {
+    "start": 878.67,
+    "duraction": 6.29,
+    "value": "up Brennan to bring you home you never"
+  },
+  {
+    "start": 881.97,
+    "duraction": 5.94,
+    "value": "expected a new director to be appointed"
+  },
+  {
+    "start": 884.96,
+    "duraction": 9.52,
+    "value": "agency rogue elements still in control"
+  },
+  {
+    "start": 887.91,
+    "duraction": 9.66,
+    "value": "of op question mark no Gina and then we"
+  },
+  {
+    "start": 894.48,
+    "duraction": 6.09,
+    "value": "got in the parentheses e^x underscore UK"
+  },
+  {
+    "start": 897.57,
+    "duraction": 4.92,
+    "value": "division underscore so remember I was"
+  },
+  {
+    "start": 900.57,
+    "duraction": 5.22,
+    "value": "telling you she was the head of the UK"
+  },
+  {
+    "start": 902.49,
+    "duraction": 7.23,
+    "value": "division Geena open attacks question"
+  },
+  {
+    "start": 905.79,
+    "duraction": 4.62,
+    "value": "mark then we have a 3ud underscore HQ in"
+  },
+  {
+    "start": 909.72,
+    "duraction": 3.27,
+    "value": "the kill box"
+  },
+  {
+    "start": 910.41,
+    "duraction": 4.29,
+    "value": "I'm sure that's some sort of a code that"
+  },
+  {
+    "start": 912.99,
+    "duraction": 4.26,
+    "value": "Snowden would know because he's"
+  },
+  {
+    "start": 914.7,
+    "duraction": 6.81,
+    "value": "basically talking to Edward Snowden"
+  },
+  {
+    "start": 917.25,
+    "duraction": 6.54,
+    "value": "right now what do you have left to sell"
+  },
+  {
+    "start": 921.51,
+    "duraction": 3.35,
+    "value": "Russia to retain your safety and"
+  },
+  {
+    "start": 923.79,
+    "duraction": 7.14,
+    "value": "security"
+  },
+  {
+    "start": 924.86,
+    "duraction": 7.81,
+    "value": "welcome home at Snowden q oh no telling"
+  },
+  {
+    "start": 930.93,
+    "duraction": 4.26,
+    "value": "you guys this is getting serious too and"
+  },
+  {
+    "start": 932.67,
+    "duraction": 4.68,
+    "value": "I laugh because I feel it's great that"
+  },
+  {
+    "start": 935.19,
+    "duraction": 4.26,
+    "value": "gonna finally see some justice but at"
+  },
+  {
+    "start": 937.35,
+    "duraction": 3.36,
+    "value": "the same time it's very serious and I"
+  },
+  {
+    "start": 939.45,
+    "duraction": 4.89,
+    "value": "don't think they've played their last"
+  },
+  {
+    "start": 940.71,
+    "duraction": 5.4,
+    "value": "card so as q is said before definitely"
+  },
+  {
+    "start": 944.34,
+    "duraction": 4.5,
+    "value": "stay vigilant keep your head on a swivel"
+  },
+  {
+    "start": 946.11,
+    "duraction": 3.39,
+    "value": "and if you see something suspect say"
+  },
+  {
+    "start": 948.84,
+    "duraction": 3.36,
+    "value": "something"
+  },
+  {
+    "start": 949.5,
+    "duraction": 3.99,
+    "value": "all right post 30 25 and this is what"
+  },
+  {
+    "start": 952.2,
+    "duraction": 3.36,
+    "value": "I'm talking about if they're willing to"
+  },
+  {
+    "start": 953.49,
+    "duraction": 3.66,
+    "value": "do something like this then what else"
+  },
+  {
+    "start": 955.56,
+    "duraction": 3.78,
+    "value": "are they willing to do on a mass scale"
+  },
+  {
+    "start": 957.15,
+    "duraction": 4.65,
+    "value": "they don't care that's what people don't"
+  },
+  {
+    "start": 959.34,
+    "duraction": 4.44,
+    "value": "realize they do not care about taking"
+  },
+  {
+    "start": 961.8,
+    "duraction": 4.74,
+    "value": "out a hundred thousand people with the"
+  },
+  {
+    "start": 963.78,
+    "duraction": 8.54,
+    "value": "baton and I they would not care post 30"
+  },
+  {
+    "start": 966.54,
+    "duraction": 8.55,
+    "value": "25 we have a post from January 27th 2018"
+  },
+  {
+    "start": 972.32,
+    "duraction": 5.29,
+    "value": "now remember this I just started doing Q"
+  },
+  {
+    "start": 975.09,
+    "duraction": 6.45,
+    "value": "about three weeks before exactly on"
+  },
+  {
+    "start": 977.61,
+    "duraction": 6.06,
+    "value": "January 1st 2018 at Snowden the clock is"
+  },
+  {
+    "start": 981.54,
+    "duraction": 5.76,
+    "value": "ticking how's Russia"
+  },
+  {
+    "start": 983.67,
+    "duraction": 7.26,
+    "value": "mr. contractor then we have freedom of"
+  },
+  {
+    "start": 987.3,
+    "duraction": 4.74,
+    "value": "the press John Perry Barlow and as I"
+  },
+  {
+    "start": 990.93,
+    "duraction": 4.32,
+    "value": "mentioned earlier he was like an"
+  },
+  {
+    "start": 992.04,
+    "duraction": 6.57,
+    "value": "internet pioneer there was a link to"
+  },
+  {
+    "start": 995.25,
+    "duraction": 5.94,
+    "value": "freedom press secure drop whistleblowers"
+  },
+  {
+    "start": 998.61,
+    "duraction": 5.82,
+    "value": "question mark secure drop clowns in"
+  },
+  {
+    "start": 1001.19,
+    "duraction": 7.56,
+    "value": "America nobody is safe so he's basically"
+  },
+  {
+    "start": 1004.43,
+    "duraction": 5.93,
+    "value": "showing you that on January 27 2018 he"
+  },
+  {
+    "start": 1008.75,
+    "duraction": 5.28,
+    "value": "was talking about John Perry Barlow"
+  },
+  {
+    "start": 1010.36,
+    "duraction": 7.02,
+    "value": "freedom of the press contractor perhaps"
+  },
+  {
+    "start": 1014.03,
+    "duraction": 7.68,
+    "value": "huh Hugh says John Perry Barlow Post"
+  },
+  {
+    "start": 1017.38,
+    "duraction": 9.76,
+    "value": "January 27 2018 John Perry Barlow dead"
+  },
+  {
+    "start": 1021.71,
+    "duraction": 7.8,
+    "value": "February 8 2018 reconcile and you can"
+  },
+  {
+    "start": 1027.14,
+    "duraction": 5.069,
+    "value": "reconcile by understanding that this is"
+  },
+  {
+    "start": 1029.51,
+    "duraction": 4.62,
+    "value": "not a game and as much as I might be"
+  },
+  {
+    "start": 1032.209,
+    "duraction": 4.471,
+    "value": "happy and laugh sometimes here and there"
+  },
+  {
+    "start": 1034.13,
+    "duraction": 4.079,
+    "value": "you die am realizing - as everybody"
+  },
+  {
+    "start": 1036.68,
+    "duraction": 3.72,
+    "value": "should that this is a very serious"
+  },
+  {
+    "start": 1038.209,
+    "duraction": 4.681,
+    "value": "matter all right that's all I got for"
+  },
+  {
+    "start": 1040.4,
+    "duraction": 3.96,
+    "value": "tonight guys I am passing out after this"
+  },
+  {
+    "start": 1042.89,
+    "duraction": 3.0,
+    "value": "I'm gonna try to get it out to you"
+  },
+  {
+    "start": 1044.36,
+    "duraction": 4.11,
+    "value": "hopefully I didn't mess up too much I"
+  },
+  {
+    "start": 1045.89,
+    "duraction": 4.47,
+    "value": "won't have to edit a lot appreciate you"
+  },
+  {
+    "start": 1048.47,
+    "duraction": 7.35,
+    "value": "tuning in as usual and until the next"
+  },
+  {
+    "start": 1050.36,
+    "duraction": 18.149,
+    "value": "video thumbs up like subscribe peace"
+  },
+  {
+    "start": 1055.82,
+    "duraction": 12.689,
+    "value": "[Music]"
+  }
+]

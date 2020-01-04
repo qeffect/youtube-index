@@ -1,0 +1,4647 @@
+[
+  {
+    "start": 5.65,
+    "duraction": 12.05,
+    "value": "[Music]"
+  },
+  {
+    "start": 29.08,
+    "duraction": 6.49,
+    "value": "so guys I'm actually in Las Vegas of all"
+  },
+  {
+    "start": 34.07,
+    "duraction": 3.03,
+    "value": "places right now so I was here for the"
+  },
+  {
+    "start": 35.57,
+    "duraction": 3.629,
+    "value": "cryptocurrency conferences you may know"
+  },
+  {
+    "start": 37.1,
+    "duraction": 5.91,
+    "value": "and I ran into my buddy Bob here and"
+  },
+  {
+    "start": 39.199,
+    "duraction": 5.131,
+    "value": "actually Bob is the master behind free"
+  },
+  {
+    "start": 43.01,
+    "duraction": 2.88,
+    "value": "OSA it's actually a really cool idea and"
+  },
+  {
+    "start": 44.33,
+    "duraction": 3.33,
+    "value": "I know many of you guys don't follow the"
+  },
+  {
+    "start": 45.89,
+    "duraction": 4.199,
+    "value": "cryptocurrency stuff but you know I"
+  },
+  {
+    "start": 47.66,
+    "duraction": 5.52,
+    "value": "follow freedom in all most forms and"
+  },
+  {
+    "start": 50.089,
+    "duraction": 5.731,
+    "value": "cryptocurrency is oh my gosh one of the"
+  },
+  {
+    "start": 53.18,
+    "duraction": 5.25,
+    "value": "most important technological revolutions"
+  },
+  {
+    "start": 55.82,
+    "duraction": 4.259,
+    "value": "in the modern time so Bob Mollica"
+  },
+  {
+    "start": 58.43,
+    "duraction": 3.359,
+    "value": "introduce yourself and talk about free"
+  },
+  {
+    "start": 60.079,
+    "duraction": 3.3,
+    "value": "OSA obviously you know most of my"
+  },
+  {
+    "start": 61.789,
+    "duraction": 5.371,
+    "value": "audience don't know anything about"
+  },
+  {
+    "start": 63.379,
+    "duraction": 5.791,
+    "value": "Bitcoin at all but we'll stay low tech"
+  },
+  {
+    "start": 67.16,
+    "duraction": 4.95,
+    "value": "yeah mostly first off let me say how"
+  },
+  {
+    "start": 69.17,
+    "duraction": 5.089,
+    "value": "much i it is benefited and been great"
+  },
+  {
+    "start": 72.11,
+    "duraction": 4.5,
+    "value": "for me then to know Dustin and"
+  },
+  {
+    "start": 74.259,
+    "duraction": 5.341,
+    "value": "experience what's going on and you also"
+  },
+  {
+    "start": 76.61,
+    "duraction": 5.899,
+    "value": "in the queue and on world the mega world"
+  },
+  {
+    "start": 79.6,
+    "duraction": 6.07,
+    "value": "because there's so much synergy between"
+  },
+  {
+    "start": 82.509,
+    "duraction": 5.551,
+    "value": "the five million people in code on and"
+  },
+  {
+    "start": 85.67,
+    "duraction": 4.41,
+    "value": "and the two million people in the"
+  },
+  {
+    "start": 88.06,
+    "duraction": 3.91,
+    "value": "anarcho-capitalist group that are really"
+  },
+  {
+    "start": 90.08,
+    "duraction": 4.41,
+    "value": "the people behind cryptocurrencies and"
+  },
+  {
+    "start": 91.97,
+    "duraction": 5.37,
+    "value": "the creation of decentralized"
+  },
+  {
+    "start": 94.49,
+    "duraction": 5.879,
+    "value": "technologies that are changing the world"
+  },
+  {
+    "start": 97.34,
+    "duraction": 6.75,
+    "value": "right in front of us as we speak so it"
+  },
+  {
+    "start": 100.369,
+    "duraction": 6.811,
+    "value": "is indeed a very exciting time I have"
+  },
+  {
+    "start": 104.09,
+    "duraction": 7.02,
+    "value": "been on a long road to bring my company"
+  },
+  {
+    "start": 107.18,
+    "duraction": 7.229,
+    "value": "my project brios to the market and bring"
+  },
+  {
+    "start": 111.11,
+    "duraction": 6.6,
+    "value": "it to productive live operations and at"
+  },
+  {
+    "start": 114.409,
+    "duraction": 5.911,
+    "value": "long last already next week and it is a"
+  },
+  {
+    "start": 117.71,
+    "duraction": 5.81,
+    "value": "my mind going to change the the"
+  },
+  {
+    "start": 120.32,
+    "duraction": 6.06,
+    "value": "landscape of the whole crip diverse so"
+  },
+  {
+    "start": 123.52,
+    "duraction": 6.159,
+    "value": "let me start off by saying if you were"
+  },
+  {
+    "start": 126.38,
+    "duraction": 5.01,
+    "value": "building a I want I want to build a huge"
+  },
+  {
+    "start": 129.679,
+    "duraction": 5.461,
+    "value": "flea market let's go with the real world"
+  },
+  {
+    "start": 131.39,
+    "duraction": 5.33,
+    "value": "example so I go out and go out to some"
+  },
+  {
+    "start": 135.14,
+    "duraction": 4.379,
+    "value": "place out in the country and I lease"
+  },
+  {
+    "start": 136.72,
+    "duraction": 4.65,
+    "value": "200,000 square foot facility and I want"
+  },
+  {
+    "start": 139.519,
+    "duraction": 5.091,
+    "value": "to build the biggest flea market on the"
+  },
+  {
+    "start": 141.37,
+    "duraction": 6.479,
+    "value": "plan well to do that at two problems"
+  },
+  {
+    "start": 144.61,
+    "duraction": 5.37,
+    "value": "number one to get vendors to come set up"
+  },
+  {
+    "start": 147.849,
+    "duraction": 6.42,
+    "value": "booths and stands in this flea market"
+  },
+  {
+    "start": 149.98,
+    "duraction": 6.42,
+    "value": "I need customers and get customers to"
+  },
+  {
+    "start": 154.269,
+    "duraction": 5.071,
+    "value": "come thing I need vendors already there"
+  },
+  {
+    "start": 156.4,
+    "duraction": 4.41,
+    "value": "so that's the challenge of setting up a"
+  },
+  {
+    "start": 159.34,
+    "duraction": 4.319,
+    "value": "brand new market that didn't exist"
+  },
+  {
+    "start": 160.81,
+    "duraction": 5.33,
+    "value": "before and we sell we've solved that"
+  },
+  {
+    "start": 163.659,
+    "duraction": 7.711,
+    "value": "problem by creating an entirely new"
+  },
+  {
+    "start": 166.14,
+    "duraction": 7.09,
+    "value": "occupation which we call deep waves the"
+  },
+  {
+    "start": 171.37,
+    "duraction": 6.66,
+    "value": "best way to think of a gateway is it is"
+  },
+  {
+    "start": 173.23,
+    "duraction": 6.96,
+    "value": "essentially a broker of transactions"
+  },
+  {
+    "start": 178.03,
+    "duraction": 5.22,
+    "value": "between cryptocurrency"
+  },
+  {
+    "start": 180.19,
+    "duraction": 8.18,
+    "value": "and fiat currency dollars euros yen"
+  },
+  {
+    "start": 183.25,
+    "duraction": 7.44,
+    "value": "regular money and what it enables is"
+  },
+  {
+    "start": 188.37,
+    "duraction": 4.27,
+    "value": "suddenly for the first time ever in"
+  },
+  {
+    "start": 190.69,
+    "duraction": 5.519,
+    "value": "history there is a single website"
+  },
+  {
+    "start": 192.64,
+    "duraction": 5.31,
+    "value": "through the net do where an anything"
+  },
+  {
+    "start": 196.209,
+    "duraction": 4.14,
+    "value": "that is sold on the Internet can be"
+  },
+  {
+    "start": 197.95,
+    "duraction": 4.039,
+    "value": "purchased with cryptocurrency in our"
+  },
+  {
+    "start": 200.349,
+    "duraction": 5.61,
+    "value": "case our project users"
+  },
+  {
+    "start": 201.989,
+    "duraction": 6.011,
+    "value": "- cryptocurrency so anyone who is"
+  },
+  {
+    "start": 205.959,
+    "duraction": 4.831,
+    "value": "cryptocurrency can convert it into -"
+  },
+  {
+    "start": 208.0,
+    "duraction": 4.62,
+    "value": "come to our marketplace thanks guys so"
+  },
+  {
+    "start": 210.79,
+    "duraction": 3.18,
+    "value": "here we are in Vegas and we're"
+  },
+  {
+    "start": 212.62,
+    "duraction": 2.519,
+    "value": "interrupted by because we're on an"
+  },
+  {
+    "start": 213.97,
+    "duraction": 3.96,
+    "value": "iPhone when you're off to buy some"
+  },
+  {
+    "start": 215.139,
+    "duraction": 4.981,
+    "value": "things so kind of you were describing"
+  },
+  {
+    "start": 217.93,
+    "duraction": 4.38,
+    "value": "free awesome and how it offers people to"
+  },
+  {
+    "start": 220.12,
+    "duraction": 3.75,
+    "value": "buy everything with a cryptocurrency"
+  },
+  {
+    "start": 222.31,
+    "duraction": 3.209,
+    "value": "that's kind of unique now that's"
+  },
+  {
+    "start": 223.87,
+    "duraction": 4.56,
+    "value": "something we're looking for I guess it"
+  },
+  {
+    "start": 225.519,
+    "duraction": 6.06,
+    "value": "is the very first site to make the claim"
+  },
+  {
+    "start": 228.43,
+    "duraction": 5.91,
+    "value": "to be able to do so in our case it's not"
+  },
+  {
+    "start": 231.579,
+    "duraction": 5.31,
+    "value": "just a claim so it again is very"
+  },
+  {
+    "start": 234.34,
+    "duraction": 5.369,
+    "value": "exciting times perhaps would be good to"
+  },
+  {
+    "start": 236.889,
+    "duraction": 6.18,
+    "value": "step back philosophically to say what is"
+  },
+  {
+    "start": 239.709,
+    "duraction": 5.46,
+    "value": "the project all about because yes being"
+  },
+  {
+    "start": 243.069,
+    "duraction": 5.57,
+    "value": "able to earn money and cryptocurrency"
+  },
+  {
+    "start": 245.169,
+    "duraction": 6.241,
+    "value": "and spend it is a component of it but"
+  },
+  {
+    "start": 248.639,
+    "duraction": 4.361,
+    "value": "what you know I want to make clear so"
+  },
+  {
+    "start": 251.41,
+    "duraction": 4.229,
+    "value": "there are no misconceptions about the"
+  },
+  {
+    "start": 253.0,
+    "duraction": 5.609,
+    "value": "various product is we are operating the"
+  },
+  {
+    "start": 255.639,
+    "duraction": 5.22,
+    "value": "most free market place ever in history"
+  },
+  {
+    "start": 258.609,
+    "duraction": 5.641,
+    "value": "that will have ruthless competition and"
+  },
+  {
+    "start": 260.859,
+    "duraction": 5.731,
+    "value": "and and bring prices down and so on but"
+  },
+  {
+    "start": 264.25,
+    "duraction": 6.3,
+    "value": "it also facilitates learning incoming"
+  },
+  {
+    "start": 266.59,
+    "duraction": 8.879,
+    "value": "crypto and having the option as a I"
+  },
+  {
+    "start": 270.55,
+    "duraction": 8.72,
+    "value": "stressed the option of not paying taxes"
+  },
+  {
+    "start": 275.469,
+    "duraction": 6.271,
+    "value": "on that income we make the transactions"
+  },
+  {
+    "start": 279.27,
+    "duraction": 6.579,
+    "value": "completely private and visible to all"
+  },
+  {
+    "start": 281.74,
+    "duraction": 6.57,
+    "value": "including to Rios we are not able to say"
+  },
+  {
+    "start": 285.849,
+    "duraction": 4.56,
+    "value": "what transactions any individual member"
+  },
+  {
+    "start": 288.31,
+    "duraction": 4.68,
+    "value": "is done we include the transaction make"
+  },
+  {
+    "start": 290.409,
+    "duraction": 4.951,
+    "value": "sure it finishes correctly and then we"
+  },
+  {
+    "start": 292.99,
+    "duraction": 6.51,
+    "value": "flush it out of memory and don't log any"
+  },
+  {
+    "start": 295.36,
+    "duraction": 7.589,
+    "value": "of those transactions this is very much"
+  },
+  {
+    "start": 299.5,
+    "duraction": 5.759,
+    "value": "protection to krios that we are they we"
+  },
+  {
+    "start": 302.949,
+    "duraction": 6.21,
+    "value": "do not believe in no your customer or"
+  },
+  {
+    "start": 305.259,
+    "duraction": 6.81,
+    "value": "any any such regulations legislation and"
+  },
+  {
+    "start": 309.159,
+    "duraction": 5.241,
+    "value": "we take the opposite approach that we"
+  },
+  {
+    "start": 312.069,
+    "duraction": 6.09,
+    "value": "refuse to allow our members to identify"
+  },
+  {
+    "start": 314.4,
+    "duraction": 6.549,
+    "value": "themselves electronically officially to"
+  },
+  {
+    "start": 318.159,
+    "duraction": 4.591,
+    "value": "us now I have plenty of friends that are"
+  },
+  {
+    "start": 320.949,
+    "duraction": 4.25,
+    "value": "members of Rios and I know what the Rios"
+  },
+  {
+    "start": 322.75,
+    "duraction": 4.62,
+    "value": "name is but as far as three OHS"
+  },
+  {
+    "start": 325.199,
+    "duraction": 5.65,
+    "value": "systematically knowing who any members"
+  },
+  {
+    "start": 327.37,
+    "duraction": 5.729,
+    "value": "are the best way to create a chain of"
+  },
+  {
+    "start": 330.849,
+    "duraction": 4.731,
+    "value": "privacy just it out of any weak links"
+  },
+  {
+    "start": 333.099,
+    "duraction": 4.921,
+    "value": "and the personal link to start with this"
+  },
+  {
+    "start": 335.58,
+    "duraction": 4.57,
+    "value": "your completely anonymous from the"
+  },
+  {
+    "start": 338.02,
+    "duraction": 6.81,
+    "value": "beginning then the technology that we"
+  },
+  {
+    "start": 340.15,
+    "duraction": 7.019,
+    "value": "use fills in the remaining pieces so"
+  },
+  {
+    "start": 344.83,
+    "duraction": 6.149,
+    "value": "that that is sort of what people would"
+  },
+  {
+    "start": 347.169,
+    "duraction": 6.93,
+    "value": "expect for a free marketplace indeed"
+  },
+  {
+    "start": 350.979,
+    "duraction": 5.521,
+    "value": "free market and I think it be valid to"
+  },
+  {
+    "start": 354.099,
+    "duraction": 4.261,
+    "value": "understand how the money works so the"
+  },
+  {
+    "start": 356.5,
+    "duraction": 4.11,
+    "value": "breather net that I of marketplace"
+  },
+  {
+    "start": 358.36,
+    "duraction": 3.3,
+    "value": "allows unlimited number of listings"
+  },
+  {
+    "start": 360.61,
+    "duraction": 3.81,
+    "value": "forever so"
+  },
+  {
+    "start": 361.66,
+    "duraction": 6.26,
+    "value": "no costs to come into the market and"
+  },
+  {
+    "start": 364.42,
+    "duraction": 5.43,
+    "value": "list your products or services when you"
+  },
+  {
+    "start": 367.92,
+    "duraction": 4.35,
+    "value": "complete a sale and you have a"
+  },
+  {
+    "start": 369.85,
+    "duraction": 5.88,
+    "value": "transaction than three us will take a 2%"
+  },
+  {
+    "start": 372.27,
+    "duraction": 5.56,
+    "value": "processing fee to complete the desk"
+  },
+  {
+    "start": 375.73,
+    "duraction": 5.01,
+    "value": "transaction with less than credit cards"
+  },
+  {
+    "start": 377.83,
+    "duraction": 4.59,
+    "value": "correct yeah at understating any regular"
+  },
+  {
+    "start": 380.74,
+    "duraction": 5.73,
+    "value": "traditional e-commerce website here"
+  },
+  {
+    "start": 382.42,
+    "duraction": 7.92,
+    "value": "these PayPal at 2.6 percent these 2.8"
+  },
+  {
+    "start": 386.47,
+    "duraction": 6.51,
+    "value": "Amex at 5.5 and all three of those have"
+  },
+  {
+    "start": 390.34,
+    "duraction": 4.98,
+    "value": "charge banks which means someone buys a"
+  },
+  {
+    "start": 392.98,
+    "duraction": 4.8,
+    "value": "product or service from you you deliver"
+  },
+  {
+    "start": 395.32,
+    "duraction": 4.02,
+    "value": "it 45 days later they get the credit"
+  },
+  {
+    "start": 397.78,
+    "duraction": 3.6,
+    "value": "card statement and they call up and say"
+  },
+  {
+    "start": 399.34,
+    "duraction": 4.59,
+    "value": "I didn't order that and all of a sudden"
+  },
+  {
+    "start": 401.38,
+    "duraction": 4.71,
+    "value": "the the onus is on you to prove that you"
+  },
+  {
+    "start": 403.93,
+    "duraction": 3.87,
+    "value": "in fact did deliver it and so on then"
+  },
+  {
+    "start": 406.09,
+    "duraction": 3.24,
+    "value": "you have to sort of sue your customer"
+  },
+  {
+    "start": 407.8,
+    "duraction": 4.71,
+    "value": "and raises the price for everything"
+  },
+  {
+    "start": 409.33,
+    "duraction": 5.82,
+    "value": "correct one and then breath now in our"
+  },
+  {
+    "start": 412.51,
+    "duraction": 4.26,
+    "value": "world it's it's - cryptocurrency so as"
+  },
+  {
+    "start": 415.15,
+    "duraction": 4.11,
+    "value": "soon as the transaction completes"
+  },
+  {
+    "start": 416.77,
+    "duraction": 4.32,
+    "value": "there's not a force on the planet that"
+  },
+  {
+    "start": 419.26,
+    "duraction": 4.88,
+    "value": "can take that - away from you without"
+  },
+  {
+    "start": 421.09,
+    "duraction": 5.4,
+    "value": "your consent that's the very nature of"
+  },
+  {
+    "start": 424.14,
+    "duraction": 4.93,
+    "value": "crypto if you want to just a simplistic"
+  },
+  {
+    "start": 426.49,
+    "duraction": 5.31,
+    "value": "overview it is having a Swiss bank"
+  },
+  {
+    "start": 429.07,
+    "duraction": 5.13,
+    "value": "account in your pocket that you control"
+  },
+  {
+    "start": 431.8,
+    "duraction": 4.68,
+    "value": "completely as Obama put it yeah exactly"
+  },
+  {
+    "start": 434.2,
+    "duraction": 6.75,
+    "value": "exactly it is then they were afraid of"
+  },
+  {
+    "start": 436.48,
+    "duraction": 9.0,
+    "value": "it then and and you know the idea is the"
+  },
+  {
+    "start": 440.95,
+    "duraction": 6.42,
+    "value": "problem with our current system is we"
+  },
+  {
+    "start": 445.48,
+    "duraction": 5.13,
+    "value": "have all sorts of intermediaries that"
+  },
+  {
+    "start": 447.37,
+    "duraction": 5.85,
+    "value": "are trusted intermediaries in the"
+  },
+  {
+    "start": 450.61,
+    "duraction": 5.25,
+    "value": "traditional sense but can transact yes"
+  },
+  {
+    "start": 453.22,
+    "duraction": 4.74,
+    "value": "there they're the lows of despicable"
+  },
+  {
+    "start": 455.86,
+    "duraction": 5.28,
+    "value": "people that are not worthy of trust you"
+  },
+  {
+    "start": 457.96,
+    "duraction": 3.86,
+    "value": "know and the whole bankers people yes"
+  },
+  {
+    "start": 461.14,
+    "duraction": 4.41,
+    "value": "sorry"
+  },
+  {
+    "start": 461.82,
+    "duraction": 5.77,
+    "value": "banksters make sirs but so you know I"
+  },
+  {
+    "start": 465.55,
+    "duraction": 4.74,
+    "value": "believe that crypto is is in real and"
+  },
+  {
+    "start": 467.59,
+    "duraction": 4.27,
+    "value": "present danger to the ongoing viability"
+  },
+  {
+    "start": 470.29,
+    "duraction": 4.63,
+    "value": "of made out of thin air"
+  },
+  {
+    "start": 471.86,
+    "duraction": 6.09,
+    "value": "fiat money and I think it is the"
+  },
+  {
+    "start": 474.92,
+    "duraction": 5.88,
+    "value": "healthiest thing for humanity for that"
+  },
+  {
+    "start": 477.95,
+    "duraction": 4.41,
+    "value": "conversion to happen and we've just had"
+  },
+  {
+    "start": 480.8,
+    "duraction": 3.78,
+    "value": "lunch and I was talking about you know"
+  },
+  {
+    "start": 482.36,
+    "duraction": 4.86,
+    "value": "what I you see coming is the greatest"
+  },
+  {
+    "start": 484.58,
+    "duraction": 4.41,
+    "value": "transfer of wealth in human history and"
+  },
+  {
+    "start": 487.22,
+    "duraction": 4.86,
+    "value": "it's from the traditional central"
+  },
+  {
+    "start": 488.99,
+    "duraction": 6.78,
+    "value": "banking empires of the Rothschilds and"
+  },
+  {
+    "start": 492.08,
+    "duraction": 7.11,
+    "value": "the Pacers who run the Global Bank or"
+  },
+  {
+    "start": 495.77,
+    "duraction": 5.13,
+    "value": "the IMF the World Bank and the BIS the"
+  },
+  {
+    "start": 499.19,
+    "duraction": 6.03,
+    "value": "Bank of International Settlements in"
+  },
+  {
+    "start": 500.9,
+    "duraction": 6.0,
+    "value": "Basel they're gonna lose their power and"
+  },
+  {
+    "start": 505.22,
+    "duraction": 4.35,
+    "value": "wealth because the money is going to be"
+  },
+  {
+    "start": 506.9,
+    "duraction": 5.07,
+    "value": "replaced by cryptocurrencies what that"
+  },
+  {
+    "start": 509.57,
+    "duraction": 4.44,
+    "value": "happens that wealth is going to be"
+  },
+  {
+    "start": 511.97,
+    "duraction": 3.63,
+    "value": "transferred to those of you who were"
+  },
+  {
+    "start": 514.01,
+    "duraction": 4.29,
+    "value": "able to see the writing on the wall and"
+  },
+  {
+    "start": 515.6,
+    "duraction": 4.71,
+    "value": "read the tea leaves and understand now"
+  },
+  {
+    "start": 518.3,
+    "duraction": 5.7,
+    "value": "is the time to get into bullion and"
+  },
+  {
+    "start": 520.31,
+    "duraction": 7.5,
+    "value": "crypto right now and especially not just"
+  },
+  {
+    "start": 524.0,
+    "duraction": 4.92,
+    "value": "buy into crypto but if you are still"
+  },
+  {
+    "start": 527.81,
+    "duraction": 3.96,
+    "value": "working and you have an ongoing"
+  },
+  {
+    "start": 528.92,
+    "duraction": 5.43,
+    "value": "occupation that you can provide provide"
+  },
+  {
+    "start": 531.77,
+    "duraction": 4.74,
+    "value": "it for crypto and you might keep your"
+  },
+  {
+    "start": 534.35,
+    "duraction": 3.69,
+    "value": "day job for a little while but at a"
+  },
+  {
+    "start": 536.51,
+    "duraction": 3.3,
+    "value": "certain point your evening income"
+  },
+  {
+    "start": 538.04,
+    "duraction": 4.8,
+    "value": "providing the same thing you do then the"
+  },
+  {
+    "start": 539.81,
+    "duraction": 5.31,
+    "value": "day for crypto has gotten to the point"
+  },
+  {
+    "start": 542.84,
+    "duraction": 4.44,
+    "value": "where you can quit your day job I think"
+  },
+  {
+    "start": 545.12,
+    "duraction": 4.11,
+    "value": "I think to add to that we have reached"
+  },
+  {
+    "start": 547.28,
+    "duraction": 4.08,
+    "value": "an interesting point now where you you"
+  },
+  {
+    "start": 549.23,
+    "duraction": 4.11,
+    "value": "know you you could actually make more"
+  },
+  {
+    "start": 551.36,
+    "duraction": 3.51,
+    "value": "money by offering things in your dough"
+  },
+  {
+    "start": 553.34,
+    "duraction": 3.15,
+    "value": "on top of your traditional business"
+  },
+  {
+    "start": 554.87,
+    "duraction": 4.29,
+    "value": "because there are people who they want"
+  },
+  {
+    "start": 556.49,
+    "duraction": 3.78,
+    "value": "to spend it do so so it's an opportunity"
+  },
+  {
+    "start": 559.16,
+    "duraction": 3.06,
+    "value": "that cost them nothing"
+  },
+  {
+    "start": 560.27,
+    "duraction": 4.14,
+    "value": "yeah the worldwide stats are there's"
+  },
+  {
+    "start": 562.22,
+    "duraction": 5.16,
+    "value": "about 25 million people worldwide who"
+  },
+  {
+    "start": 564.41,
+    "duraction": 4.92,
+    "value": "touch to any crypto of that five million"
+  },
+  {
+    "start": 567.38,
+    "duraction": 3.87,
+    "value": "of them are you know it's sort of the"
+  },
+  {
+    "start": 569.33,
+    "duraction": 3.3,
+    "value": "Hodler camp that they've just you know"
+  },
+  {
+    "start": 571.25,
+    "duraction": 3.96,
+    "value": "bought their crypto because they knew"
+  },
+  {
+    "start": 572.63,
+    "duraction": 4.56,
+    "value": "it's going to eventually explode and"
+  },
+  {
+    "start": 575.21,
+    "duraction": 3.54,
+    "value": "they're just sitting on it waiting you"
+  },
+  {
+    "start": 577.19,
+    "duraction": 3.15,
+    "value": "know the other 20 million people maybe"
+  },
+  {
+    "start": 578.75,
+    "duraction": 4.71,
+    "value": "their traders day traders investors"
+  },
+  {
+    "start": 580.34,
+    "duraction": 4.89,
+    "value": "speculators but there's a core group"
+  },
+  {
+    "start": 583.46,
+    "duraction": 3.72,
+    "value": "that is it crypto for all the right"
+  },
+  {
+    "start": 585.23,
+    "duraction": 3.24,
+    "value": "reasons and and they're going to benefit"
+  },
+  {
+    "start": 587.18,
+    "duraction": 3.17,
+    "value": "from this"
+  },
+  {
+    "start": 588.47,
+    "duraction": 4.32,
+    "value": "blouson boom that's coming our way and"
+  },
+  {
+    "start": 590.35,
+    "duraction": 4.75,
+    "value": "it's not necesarily cryptos are"
+  },
+  {
+    "start": 592.79,
+    "duraction": 3.66,
+    "value": "constantly improving there's all sorts"
+  },
+  {
+    "start": 595.1,
+    "duraction": 4.05,
+    "value": "of the smartest kids in the world"
+  },
+  {
+    "start": 596.45,
+    "duraction": 5.25,
+    "value": "working on all these projects but what's"
+  },
+  {
+    "start": 599.15,
+    "duraction": 5.88,
+    "value": "really going on and why kryptos going up"
+  },
+  {
+    "start": 601.7,
+    "duraction": 5.04,
+    "value": "it's not as much of a reflection of"
+  },
+  {
+    "start": 605.03,
+    "duraction": 5.73,
+    "value": "dramatic improvements of cryptocurrency"
+  },
+  {
+    "start": 606.74,
+    "duraction": 6.69,
+    "value": "technology as de Matic and dramatic"
+  },
+  {
+    "start": 610.76,
+    "duraction": 5.43,
+    "value": "increases in skepticism and doubt about"
+  },
+  {
+    "start": 613.43,
+    "duraction": 4.88,
+    "value": "the world existing world financial"
+  },
+  {
+    "start": 616.19,
+    "duraction": 5.52,
+    "value": "system and dollar especially right"
+  },
+  {
+    "start": 618.31,
+    "duraction": 5.23,
+    "value": "especially is euro I'm gonna guess the"
+  },
+  {
+    "start": 621.71,
+    "duraction": 4.59,
+    "value": "euro actually fails first because the"
+  },
+  {
+    "start": 623.54,
+    "duraction": 5.4,
+    "value": "Deutsche Bank but it's probably 48 hours"
+  },
+  {
+    "start": 626.3,
+    "duraction": 4.44,
+    "value": "from euro failure the dollar failure and"
+  },
+  {
+    "start": 628.94,
+    "duraction": 2.94,
+    "value": "I don't believe it'll go to infinity"
+  },
+  {
+    "start": 630.74,
+    "duraction": 4.32,
+    "value": "right away I think we'll have some"
+  },
+  {
+    "start": 631.88,
+    "duraction": 5.31,
+    "value": "shocks this will be sort of a birth"
+  },
+  {
+    "start": 635.06,
+    "duraction": 5.28,
+    "value": "pangs situation but I believe the birth"
+  },
+  {
+    "start": 637.19,
+    "duraction": 5.43,
+    "value": "pangs do start this October they always"
+  },
+  {
+    "start": 640.34,
+    "duraction": 6.39,
+    "value": "tend to break big news financial news"
+  },
+  {
+    "start": 642.62,
+    "duraction": 6.45,
+    "value": "like this in October and mainly you know"
+  },
+  {
+    "start": 646.73,
+    "duraction": 4.83,
+    "value": "it's just simply a matter of physics so"
+  },
+  {
+    "start": 649.07,
+    "duraction": 5.13,
+    "value": "those of you who live through or through"
+  },
+  {
+    "start": 651.56,
+    "duraction": 5.1,
+    "value": "and we're aware of the circumstances of"
+  },
+  {
+    "start": 654.2,
+    "duraction": 3.57,
+    "value": "the 2008 almost collapse of the world"
+  },
+  {
+    "start": 656.66,
+    "duraction": 3.75,
+    "value": "economic system"
+  },
+  {
+    "start": 657.77,
+    "duraction": 4.74,
+    "value": "you know when the the Treasury"
+  },
+  {
+    "start": 660.41,
+    "duraction": 4.14,
+    "value": "Department went to Congress and said if"
+  },
+  {
+    "start": 662.51,
+    "duraction": 5.19,
+    "value": "you don't bail out all the banks in the"
+  },
+  {
+    "start": 664.55,
+    "duraction": 6.57,
+    "value": "world in the next hour the entire world"
+  },
+  {
+    "start": 667.7,
+    "duraction": 6.33,
+    "value": "economy also clicked right now well so"
+  },
+  {
+    "start": 671.12,
+    "duraction": 4.77,
+    "value": "the good news about that was we fixed"
+  },
+  {
+    "start": 674.03,
+    "duraction": 4.17,
+    "value": "all those problems right after we bailed"
+  },
+  {
+    "start": 675.89,
+    "duraction": 4.59,
+    "value": "out after we spent three trillion or"
+  },
+  {
+    "start": 678.2,
+    "duraction": 4.29,
+    "value": "some say counting all the dark pools 20"
+  },
+  {
+    "start": 680.48,
+    "duraction": 4.68,
+    "value": "trillion 20 trillion missing and do"
+  },
+  {
+    "start": 682.49,
+    "duraction": 4.08,
+    "value": "dollars out of thin air to to bail out"
+  },
+  {
+    "start": 685.16,
+    "duraction": 3.39,
+    "value": "the world financial system"
+  },
+  {
+    "start": 686.57,
+    "duraction": 4.08,
+    "value": "you know after going through paid such a"
+  },
+  {
+    "start": 688.55,
+    "duraction": 5.4,
+    "value": "high price to fix the errors of the"
+  },
+  {
+    "start": 690.65,
+    "duraction": 5.22,
+    "value": "banksters we arrested them all and put"
+  },
+  {
+    "start": 693.95,
+    "duraction": 4.59,
+    "value": "them in jail right or at least"
+  },
+  {
+    "start": 695.87,
+    "duraction": 4.68,
+    "value": "prohibited the scandalous scandal"
+  },
+  {
+    "start": 698.54,
+    "duraction": 4.17,
+    "value": "gambling practices they were doing with"
+  },
+  {
+    "start": 700.55,
+    "duraction": 3.339,
+    "value": "collateralized debt obligations and all"
+  },
+  {
+    "start": 702.71,
+    "duraction": 4.33,
+    "value": "of the other funny"
+  },
+  {
+    "start": 703.889,
+    "duraction": 6.12,
+    "value": "derivative instruments well no actually"
+  },
+  {
+    "start": 707.04,
+    "duraction": 5.19,
+    "value": "we did not a single banker went to jail"
+  },
+  {
+    "start": 710.009,
+    "duraction": 5.49,
+    "value": "not a single rule was passed and the"
+  },
+  {
+    "start": 712.23,
+    "duraction": 6.359,
+    "value": "bankers promptly jump back into even"
+  },
+  {
+    "start": 715.499,
+    "duraction": 7.62,
+    "value": "more speculative gambling the net effect"
+  },
+  {
+    "start": 718.589,
+    "duraction": 6.92,
+    "value": "of which is if they cost the world 20"
+  },
+  {
+    "start": 723.119,
+    "duraction": 5.4,
+    "value": "trillion dollars to bail out last time"
+  },
+  {
+    "start": 725.509,
+    "duraction": 6.52,
+    "value": "it's going to cost 500 trillion dollars"
+  },
+  {
+    "start": 728.519,
+    "duraction": 6.271,
+    "value": "to bail out this time and no one has 500"
+  },
+  {
+    "start": 732.029,
+    "duraction": 4.35,
+    "value": "trillion dollars you know it means that"
+  },
+  {
+    "start": 734.79,
+    "duraction": 3.87,
+    "value": "will have to be created out of thin air"
+  },
+  {
+    "start": 736.379,
+    "duraction": 5.76,
+    "value": "and the hyperinflation or a death spiral"
+  },
+  {
+    "start": 738.66,
+    "duraction": 6.539,
+    "value": "of all fiat currencies will begin in"
+  },
+  {
+    "start": 742.139,
+    "duraction": 4.68,
+    "value": "earnest as soon as that happens I got"
+  },
+  {
+    "start": 745.199,
+    "duraction": 3.45,
+    "value": "added that I think what Trump has done"
+  },
+  {
+    "start": 746.819,
+    "duraction": 4.411,
+    "value": "is actually forced to China and Russia"
+  },
+  {
+    "start": 748.649,
+    "duraction": 5.28,
+    "value": "it's a sort of quasi gold standard which"
+  },
+  {
+    "start": 751.23,
+    "duraction": 5.009,
+    "value": "in essence itself if there is anyone in"
+  },
+  {
+    "start": 753.929,
+    "duraction": 3.84,
+    "value": "the room that has a gold standard all of"
+  },
+  {
+    "start": 756.239,
+    "duraction": 4.861,
+    "value": "the Fiats fail that's why they killed"
+  },
+  {
+    "start": 757.769,
+    "duraction": 6.15,
+    "value": "Gaddafi exactly and and why they why"
+  },
+  {
+    "start": 761.1,
+    "duraction": 6.06,
+    "value": "they inflicted the the Asian flu on"
+  },
+  {
+    "start": 763.919,
+    "duraction": 4.71,
+    "value": "Malaysia because the PM of Malaysia"
+  },
+  {
+    "start": 767.16,
+    "duraction": 4.38,
+    "value": "started talking about the Asian"
+  },
+  {
+    "start": 768.629,
+    "duraction": 9.091,
+    "value": "Malaysian golden otter can't be done"
+  },
+  {
+    "start": 771.54,
+    "duraction": 9.12,
+    "value": "yeah it's great and in fact if you're"
+  },
+  {
+    "start": 777.72,
+    "duraction": 4.739,
+    "value": "aware it's already sort of happened that"
+  },
+  {
+    "start": 780.66,
+    "duraction": 5.039,
+    "value": "the petrodollar situation is gone"
+  },
+  {
+    "start": 782.459,
+    "duraction": 5.641,
+    "value": "because Russia is now shipping gas and"
+  },
+  {
+    "start": 785.699,
+    "duraction": 5.401,
+    "value": "oil and natural gas directly to China"
+  },
+  {
+    "start": 788.1,
+    "duraction": 5.849,
+    "value": "China's paying them and their fiat"
+  },
+  {
+    "start": 791.1,
+    "duraction": 4.349,
+    "value": "currency it mernmb anyone but the"
+  },
+  {
+    "start": 793.949,
+    "duraction": 3.93,
+    "value": "Russians probably take that to the"
+  },
+  {
+    "start": 795.449,
+    "duraction": 4.89,
+    "value": "Shanghai cold exchange and ship gold"
+  },
+  {
+    "start": 797.879,
+    "duraction": 5.4,
+    "value": "back to Moscow so they're selling oil"
+  },
+  {
+    "start": 800.339,
+    "duraction": 4.951,
+    "value": "for gold and that means no dollars"
+  },
+  {
+    "start": 803.279,
+    "duraction": 3.571,
+    "value": "involved and that means that all the"
+  },
+  {
+    "start": 805.29,
+    "duraction": 2.94,
+    "value": "central banks of the world will very"
+  },
+  {
+    "start": 806.85,
+    "duraction": 4.26,
+    "value": "quickly be able to say well I'm going to"
+  },
+  {
+    "start": 808.23,
+    "duraction": 5.639,
+    "value": "do that to spend my own currency aren't"
+  },
+  {
+    "start": 811.11,
+    "duraction": 5.069,
+    "value": "on or gold or whatever I'm on oil and"
+  },
+  {
+    "start": 813.869,
+    "duraction": 4.17,
+    "value": "they won't need the dollars now what"
+  },
+  {
+    "start": 816.179,
+    "duraction": 2.96,
+    "value": "happens when all the dollars that"
+  },
+  {
+    "start": 818.039,
+    "duraction": 3.77,
+    "value": "central banks"
+  },
+  {
+    "start": 819.139,
+    "duraction": 5.43,
+    "value": "used to have to have one hand to settle"
+  },
+  {
+    "start": 821.809,
+    "duraction": 4.71,
+    "value": "every portrayed not just oil you know"
+  },
+  {
+    "start": 824.569,
+    "duraction": 3.81,
+    "value": "the Bretton Woods Agreement was the"
+  },
+  {
+    "start": 826.519,
+    "duraction": 4.56,
+    "value": "dollar will be the clearing currency for"
+  },
+  {
+    "start": 828.379,
+    "duraction": 5.88,
+    "value": "all international trade now we've lost"
+  },
+  {
+    "start": 831.079,
+    "duraction": 5.19,
+    "value": "that somewhat you know and and you know"
+  },
+  {
+    "start": 834.259,
+    "duraction": 3.57,
+    "value": "Kissinger Nixon when they took us off"
+  },
+  {
+    "start": 836.269,
+    "duraction": 4.32,
+    "value": "the gold standard knew that that was"
+  },
+  {
+    "start": 837.829,
+    "duraction": 4.98,
+    "value": "going to suffer so they created this"
+  },
+  {
+    "start": 840.589,
+    "duraction": 5.821,
+    "value": "whole petro dollar situation and all of"
+  },
+  {
+    "start": 842.809,
+    "duraction": 5.161,
+    "value": "the wars all of that at education some"
+  },
+  {
+    "start": 846.41,
+    "duraction": 3.739,
+    "value": "actions of the Middle East have all been"
+  },
+  {
+    "start": 847.97,
+    "duraction": 5.01,
+    "value": "in support of this simple plan of"
+  },
+  {
+    "start": 850.149,
+    "duraction": 5.47,
+    "value": "everybody selling oil on the planet has"
+  },
+  {
+    "start": 852.98,
+    "duraction": 5.279,
+    "value": "to sell it for dollars and in return"
+  },
+  {
+    "start": 855.619,
+    "duraction": 4.71,
+    "value": "will depend all the oil fields will you"
+  },
+  {
+    "start": 858.259,
+    "duraction": 5.55,
+    "value": "know muck with the politics of whole"
+  },
+  {
+    "start": 860.329,
+    "duraction": 6.75,
+    "value": "world to keep that thing alive well it's"
+  },
+  {
+    "start": 863.809,
+    "duraction": 5.7,
+    "value": "already dead so again I could be wrong"
+  },
+  {
+    "start": 867.079,
+    "duraction": 4.05,
+    "value": "on the timing of this stuff but I don't"
+  },
+  {
+    "start": 869.509,
+    "duraction": 2.85,
+    "value": "think there's any way we would make it"
+  },
+  {
+    "start": 871.129,
+    "duraction": 3.531,
+    "value": "through the end of the end of the"
+  },
+  {
+    "start": 872.359,
+    "duraction": 5.52,
+    "value": "calendar year without some major"
+  },
+  {
+    "start": 874.66,
+    "duraction": 4.899,
+    "value": "nonlinearities so what I'm hoping is I"
+  },
+  {
+    "start": 877.879,
+    "duraction": 3.9,
+    "value": "can circle back a little bit to gateways"
+  },
+  {
+    "start": 879.559,
+    "duraction": 5.01,
+    "value": "to talk about who should become a"
+  },
+  {
+    "start": 881.779,
+    "duraction": 4.98,
+    "value": "gateway and it's first it's important to"
+  },
+  {
+    "start": 884.569,
+    "duraction": 5.07,
+    "value": "understand there's an existing industry"
+  },
+  {
+    "start": 886.759,
+    "duraction": 5.461,
+    "value": "in the cryptocurrency world that's"
+  },
+  {
+    "start": 889.639,
+    "duraction": 5.61,
+    "value": "called generically called local coin"
+  },
+  {
+    "start": 892.22,
+    "duraction": 5.339,
+    "value": "services if you know anything about"
+  },
+  {
+    "start": 895.249,
+    "duraction": 5.46,
+    "value": "crypto you know the coolest thing about"
+  },
+  {
+    "start": 897.559,
+    "duraction": 6.89,
+    "value": "it is that it is peer-to-peer technology"
+  },
+  {
+    "start": 900.709,
+    "duraction": 6.81,
+    "value": "so I can have crypto on my phone here"
+  },
+  {
+    "start": 904.449,
+    "duraction": 5.35,
+    "value": "Dustin can load up a wallet on his phone"
+  },
+  {
+    "start": 907.519,
+    "duraction": 4.44,
+    "value": "and I can send Bitcoin directly from my"
+  },
+  {
+    "start": 909.799,
+    "duraction": 4.44,
+    "value": "phone to his phone without like anything"
+  },
+  {
+    "start": 911.959,
+    "duraction": 3.451,
+    "value": "yeah they're very much like an email"
+  },
+  {
+    "start": 914.239,
+    "duraction": 3.361,
+    "value": "except it's not even going through a"
+  },
+  {
+    "start": 915.41,
+    "duraction": 4.44,
+    "value": "central server is it is getting written"
+  },
+  {
+    "start": 917.6,
+    "duraction": 5.37,
+    "value": "onto the blockchain which is in multiple"
+  },
+  {
+    "start": 919.85,
+    "duraction": 4.979,
+    "value": "places but there's no intermediate okay"
+  },
+  {
+    "start": 922.97,
+    "duraction": 4.859,
+    "value": "so there's no government or intermediary"
+  },
+  {
+    "start": 924.829,
+    "duraction": 5.1,
+    "value": "there's no the Biss or the Swift system"
+  },
+  {
+    "start": 927.829,
+    "duraction": 3.391,
+    "value": "that runs you know the way banks and"
+  },
+  {
+    "start": 929.929,
+    "duraction": 2.4,
+    "value": "money back and forth to each other"
+  },
+  {
+    "start": 931.22,
+    "duraction": 2.57,
+    "value": "there's none of that"
+  },
+  {
+    "start": 932.329,
+    "duraction": 5.811,
+    "value": "it's my simple bag"
+  },
+  {
+    "start": 933.79,
+    "duraction": 6.47,
+    "value": "to the successful play and so there are"
+  },
+  {
+    "start": 938.14,
+    "duraction": 4.26,
+    "value": "a lot of people who said instead of"
+  },
+  {
+    "start": 940.26,
+    "duraction": 3.88,
+    "value": "typically if you're in America you want"
+  },
+  {
+    "start": 942.4,
+    "duraction": 4.34,
+    "value": "to buy into the clip of currency market"
+  },
+  {
+    "start": 944.14,
+    "duraction": 5.25,
+    "value": "you're going to one of three exchanges"
+  },
+  {
+    "start": 946.74,
+    "duraction": 5.77,
+    "value": "there's one called Queen base it's the"
+  },
+  {
+    "start": 949.39,
+    "duraction": 5.16,
+    "value": "oldest biggest and most popular there's"
+  },
+  {
+    "start": 952.51,
+    "duraction": 4.29,
+    "value": "any one called cracking which is lower"
+  },
+  {
+    "start": 954.55,
+    "duraction": 5.1,
+    "value": "rates and faster traits and it's a much"
+  },
+  {
+    "start": 956.8,
+    "duraction": 4.65,
+    "value": "better site in my book and then there's"
+  },
+  {
+    "start": 959.65,
+    "duraction": 4.32,
+    "value": "an even newer one called Robin Hood"
+  },
+  {
+    "start": 961.45,
+    "duraction": 5.19,
+    "value": "which is actually stock brokerage that"
+  },
+  {
+    "start": 963.97,
+    "duraction": 5.97,
+    "value": "once they're giving away transaction"
+  },
+  {
+    "start": 966.64,
+    "duraction": 4.95,
+    "value": "three less crypto trades to try and"
+  },
+  {
+    "start": 969.94,
+    "duraction": 5.01,
+    "value": "bring you know the people to have the"
+  },
+  {
+    "start": 971.59,
+    "duraction": 5.55,
+    "value": "whole portfolio of stocks bonds options"
+  },
+  {
+    "start": 974.95,
+    "duraction": 5.67,
+    "value": "they have the crypto all in one place"
+  },
+  {
+    "start": 977.14,
+    "duraction": 5.49,
+    "value": "but all of those are after we thought of"
+  },
+  {
+    "start": 980.62,
+    "duraction": 4.32,
+    "value": "his banks so they have to follow all the"
+  },
+  {
+    "start": 982.63,
+    "duraction": 3.99,
+    "value": "rules that banks to which as you know in"
+  },
+  {
+    "start": 984.94,
+    "duraction": 6.51,
+    "value": "the United States the land of the free"
+  },
+  {
+    "start": 986.62,
+    "duraction": 6.9,
+    "value": "are rather onerous the banks have suffer"
+  },
+  {
+    "start": 991.45,
+    "duraction": 4.5,
+    "value": "of there's a organization and entity"
+  },
+  {
+    "start": 993.52,
+    "duraction": 6.05,
+    "value": "called in sin which is sort of the"
+  },
+  {
+    "start": 995.95,
+    "duraction": 6.51,
+    "value": "military arm of the IRS and they're"
+  },
+  {
+    "start": 999.57,
+    "duraction": 5.26,
+    "value": "pursuing all around the world people"
+  },
+  {
+    "start": 1002.46,
+    "duraction": 5.61,
+    "value": "evading taxes people not laundering"
+  },
+  {
+    "start": 1004.83,
+    "duraction": 7.62,
+    "value": "money and so on in the in dollars in the"
+  },
+  {
+    "start": 1008.07,
+    "duraction": 6.18,
+    "value": "old system and so the crypto exchanges"
+  },
+  {
+    "start": 1012.45,
+    "duraction": 3.93,
+    "value": "something from all those rules that you"
+  },
+  {
+    "start": 1014.25,
+    "duraction": 4.26,
+    "value": "have to completely identify yourself you"
+  },
+  {
+    "start": 1016.38,
+    "duraction": 4.16,
+    "value": "have to hold up your passport jump"
+  },
+  {
+    "start": 1018.51,
+    "duraction": 4.32,
+    "value": "through a bunch of Hoops to get fully"
+  },
+  {
+    "start": 1020.54,
+    "duraction": 4.659,
+    "value": "registered at the site and then you can"
+  },
+  {
+    "start": 1022.83,
+    "duraction": 4.009,
+    "value": "do transactions well a lot of people"
+  },
+  {
+    "start": 1025.199,
+    "duraction": 4.14,
+    "value": "don't want to do that they want their"
+  },
+  {
+    "start": 1026.839,
+    "duraction": 4.781,
+    "value": "cryptocurrency Holdings to be secret"
+  },
+  {
+    "start": 1029.339,
+    "duraction": 3.75,
+    "value": "that you know it's between them and"
+  },
+  {
+    "start": 1031.62,
+    "duraction": 3.63,
+    "value": "their central bank and no one else needs"
+  },
+  {
+    "start": 1033.089,
+    "duraction": 4.951,
+    "value": "to know and if you go through coinbase"
+  },
+  {
+    "start": 1035.25,
+    "duraction": 5.04,
+    "value": "of crackin and buy crypto join base and"
+  },
+  {
+    "start": 1038.04,
+    "duraction": 4.919,
+    "value": "crack and certainly know and more"
+  },
+  {
+    "start": 1040.29,
+    "duraction": 4.62,
+    "value": "importantly if you ever sell that crypto"
+  },
+  {
+    "start": 1042.959,
+    "duraction": 4.891,
+    "value": "back through chrome base and crackin"
+  },
+  {
+    "start": 1044.91,
+    "duraction": 3.7,
+    "value": "four dollars that creates a taxable"
+  },
+  {
+    "start": 1047.85,
+    "duraction": 3.22,
+    "value": "event"
+  },
+  {
+    "start": 1048.61,
+    "duraction": 6.449,
+    "value": "that is when the capital gains on crypto"
+  },
+  {
+    "start": 1051.07,
+    "duraction": 6.27,
+    "value": "earnings commitment it's sort of a wild"
+  },
+  {
+    "start": 1055.059,
+    "duraction": 5.671,
+    "value": "west area that the IRS hasn't really"
+  },
+  {
+    "start": 1057.34,
+    "duraction": 6.089,
+    "value": "finalized laws in the subject but they"
+  },
+  {
+    "start": 1060.73,
+    "duraction": 5.73,
+    "value": "are gonna be coming after crypto capital"
+  },
+  {
+    "start": 1063.429,
+    "duraction": 6.24,
+    "value": "gains ooh you can count on it so you"
+  },
+  {
+    "start": 1066.46,
+    "duraction": 5.25,
+    "value": "want to avoid that you go to a local"
+  },
+  {
+    "start": 1069.669,
+    "duraction": 5.49,
+    "value": "point guy and this is sort of like a"
+  },
+  {
+    "start": 1071.71,
+    "duraction": 5.099,
+    "value": "like a drug deal that you say I'm going"
+  },
+  {
+    "start": 1075.159,
+    "duraction": 5.76,
+    "value": "to show up at the corner bar with the"
+  },
+  {
+    "start": 1076.809,
+    "duraction": 6.181,
+    "value": "bag with $20,000 in cash and Dustin's"
+  },
+  {
+    "start": 1080.919,
+    "duraction": 4.11,
+    "value": "going to show up with $20,000 in Bitcoin"
+  },
+  {
+    "start": 1082.99,
+    "duraction": 4.319,
+    "value": "on this moment after he counts the cash"
+  },
+  {
+    "start": 1085.029,
+    "duraction": 4.74,
+    "value": "I hand him he's gonna set the Bitcoin"
+  },
+  {
+    "start": 1087.309,
+    "duraction": 5.401,
+    "value": "from his phone to Michael Klump and no"
+  },
+  {
+    "start": 1089.769,
+    "duraction": 5.851,
+    "value": "one's the wiser okay that's what a local"
+  },
+  {
+    "start": 1092.71,
+    "duraction": 4.92,
+    "value": "coin guy does now we're taking those"
+  },
+  {
+    "start": 1095.62,
+    "duraction": 4.83,
+    "value": "same people and saying rather than those"
+  },
+  {
+    "start": 1097.63,
+    "duraction": 5.13,
+    "value": "rather dangerous cash transactions that"
+  },
+  {
+    "start": 1100.45,
+    "duraction": 4.38,
+    "value": "even if you trust the local going guys I"
+  },
+  {
+    "start": 1102.76,
+    "duraction": 3.99,
+    "value": "totally trust Dustin but on the way to"
+  },
+  {
+    "start": 1104.83,
+    "duraction": 4.17,
+    "value": "walk walk to meet Dustin to get my"
+  },
+  {
+    "start": 1106.75,
+    "duraction": 4.559,
+    "value": "Bitcoin I'm carrying around 20 grand in"
+  },
+  {
+    "start": 1109.0,
+    "duraction": 5.82,
+    "value": "cash that some other thought might take"
+  },
+  {
+    "start": 1111.309,
+    "duraction": 6.72,
+    "value": "on me so words feds say to the local"
+  },
+  {
+    "start": 1114.82,
+    "duraction": 5.4,
+    "value": "Cowan guys do transactions for spending"
+  },
+  {
+    "start": 1118.029,
+    "duraction": 5.4,
+    "value": "crypto rather than turning it into cash"
+  },
+  {
+    "start": 1120.22,
+    "duraction": 6.27,
+    "value": "so anyone that comes to my site could"
+  },
+  {
+    "start": 1123.429,
+    "duraction": 5.581,
+    "value": "say I want a new 76 inch flat screen TV"
+  },
+  {
+    "start": 1126.49,
+    "duraction": 5.069,
+    "value": "from Amazon I put it in a market basket"
+  },
+  {
+    "start": 1129.01,
+    "duraction": 5.37,
+    "value": "and I send that market basket to my"
+  },
+  {
+    "start": 1131.559,
+    "duraction": 5.881,
+    "value": "gateway the Gateway takes his Fiat"
+  },
+  {
+    "start": 1134.38,
+    "duraction": 4.98,
+    "value": "dollars buy something from Amazon and"
+  },
+  {
+    "start": 1137.44,
+    "duraction": 3.839,
+    "value": "accept and then she gives me a tracking"
+  },
+  {
+    "start": 1139.36,
+    "duraction": 3.51,
+    "value": "number so I know it's all the way and at"
+  },
+  {
+    "start": 1141.279,
+    "duraction": 4.53,
+    "value": "that point I pay him in - and the"
+  },
+  {
+    "start": 1142.87,
+    "duraction": 5.549,
+    "value": "transaction is completed now where this"
+  },
+  {
+    "start": 1145.809,
+    "duraction": 4.071,
+    "value": "it's cool the cable is a broker so he's"
+  },
+  {
+    "start": 1148.419,
+    "duraction": 4.11,
+    "value": "going to want to make a fee and"
+  },
+  {
+    "start": 1149.88,
+    "duraction": 4.21,
+    "value": "initially there will be some products"
+  },
+  {
+    "start": 1152.529,
+    "duraction": 4.5,
+    "value": "and services that were actually selling"
+  },
+  {
+    "start": 1154.09,
+    "duraction": 4.5,
+    "value": "on our market above list okay that to"
+  },
+  {
+    "start": 1157.029,
+    "duraction": 4.02,
+    "value": "get that TV from Amazon you're gonna"
+  },
+  {
+    "start": 1158.59,
+    "duraction": 5.459,
+    "value": "have to pay the gateway a 5% transaction"
+  },
+  {
+    "start": 1161.049,
+    "duraction": 6.6,
+    "value": "fee plus there's free osun's 2% so you"
+  },
+  {
+    "start": 1164.049,
+    "duraction": 5.581,
+    "value": "might be paying less plus 7 however this"
+  },
+  {
+    "start": 1167.649,
+    "duraction": 3.811,
+    "value": "is where it gets really cool and we're"
+  },
+  {
+    "start": 1169.63,
+    "duraction": 2.8,
+    "value": "having the freest market place on the"
+  },
+  {
+    "start": 1171.46,
+    "duraction": 4.3,
+    "value": "planet is going"
+  },
+  {
+    "start": 1172.43,
+    "duraction": 5.73,
+    "value": "to continuously drive down prices so in"
+  },
+  {
+    "start": 1175.76,
+    "duraction": 4.44,
+    "value": "the Amazon case there's something"
+  },
+  {
+    "start": 1178.16,
+    "duraction": 4.38,
+    "value": "someone discovered that a phenomenon"
+  },
+  {
+    "start": 1180.2,
+    "duraction": 4.92,
+    "value": "that amazon has customer service"
+  },
+  {
+    "start": 1182.54,
+    "duraction": 5.28,
+    "value": "employees in India that they treat"
+  },
+  {
+    "start": 1185.12,
+    "duraction": 4.98,
+    "value": "brutally and don't pay it much and when"
+  },
+  {
+    "start": 1187.82,
+    "duraction": 5.94,
+    "value": "they when they do pay them they pay them"
+  },
+  {
+    "start": 1190.1,
+    "duraction": 7.2,
+    "value": "in Amazon cash which is only worth"
+  },
+  {
+    "start": 1193.76,
+    "duraction": 5.34,
+    "value": "anything at Amazon so it's not rupees as"
+  },
+  {
+    "start": 1197.3,
+    "duraction": 4.11,
+    "value": "India money and it's not dollars and"
+  },
+  {
+    "start": 1199.1,
+    "duraction": 4.29,
+    "value": "it's definitely not crypto so these guys"
+  },
+  {
+    "start": 1201.41,
+    "duraction": 4.26,
+    "value": "are sitting on a whole bunch Amazon cash"
+  },
+  {
+    "start": 1203.39,
+    "duraction": 4.35,
+    "value": "that they can spend at Amazon but these"
+  },
+  {
+    "start": 1205.67,
+    "duraction": 3.93,
+    "value": "are poor people in India they don't want"
+  },
+  {
+    "start": 1207.74,
+    "duraction": 5.13,
+    "value": "you know more televisions they want"
+  },
+  {
+    "start": 1209.6,
+    "duraction": 5.49,
+    "value": "quick good currency so cryptocurrency"
+  },
+  {
+    "start": 1212.87,
+    "duraction": 4.95,
+    "value": "guys have discovered you can go to these"
+  },
+  {
+    "start": 1215.09,
+    "duraction": 5.07,
+    "value": "guys holding Amazon cash and buy it from"
+  },
+  {
+    "start": 1217.82,
+    "duraction": 5.31,
+    "value": "them for 75 cents on the dollar"
+  },
+  {
+    "start": 1220.16,
+    "duraction": 5.55,
+    "value": "ok and then I could go spend it at a"
+  },
+  {
+    "start": 1223.13,
+    "duraction": 5.04,
+    "value": "dollar for the dollar so what happens is"
+  },
+  {
+    "start": 1225.71,
+    "duraction": 6.3,
+    "value": "you go to Amazon and say here's the TV"
+  },
+  {
+    "start": 1228.17,
+    "duraction": 6.21,
+    "value": "my gateway it goes and get spice that"
+  },
+  {
+    "start": 1232.01,
+    "duraction": 5.64,
+    "value": "much Amazon cash the exact dollar amount"
+  },
+  {
+    "start": 1234.38,
+    "duraction": 5.43,
+    "value": "that's owed at 75% off so the gateway"
+  },
+  {
+    "start": 1237.65,
+    "duraction": 5.13,
+    "value": "art automatically has 25 points in this"
+  },
+  {
+    "start": 1239.81,
+    "duraction": 6.57,
+    "value": "transaction that he could give 15 to you"
+  },
+  {
+    "start": 1242.78,
+    "duraction": 6.06,
+    "value": "ok so I my price is now and it was on -"
+  },
+  {
+    "start": 1246.38,
+    "duraction": 4.08,
+    "value": "15 % and the Gateway still makes a"
+  },
+  {
+    "start": 1248.84,
+    "duraction": 4.41,
+    "value": "healthy 10 from 10 points on the"
+  },
+  {
+    "start": 1250.46,
+    "duraction": 5.67,
+    "value": "transaction and he's happy so it's going"
+  },
+  {
+    "start": 1253.25,
+    "duraction": 5.82,
+    "value": "to have a ruthless effect of meaning"
+  },
+  {
+    "start": 1256.13,
+    "duraction": 4.95,
+    "value": "that not just can we now suddenly have"
+  },
+  {
+    "start": 1259.07,
+    "duraction": 5.34,
+    "value": "access to everything that's for sale on"
+  },
+  {
+    "start": 1261.08,
+    "duraction": 6.35,
+    "value": "the internet for crypto which in itself"
+  },
+  {
+    "start": 1264.41,
+    "duraction": 5.1,
+    "value": "is it's a gap never ever happened before"
+  },
+  {
+    "start": 1267.43,
+    "duraction": 6.04,
+    "value": "but it's going to be cheaper than the"
+  },
+  {
+    "start": 1269.51,
+    "duraction": 7.46,
+    "value": "real world and very quickly as we get"
+  },
+  {
+    "start": 1273.47,
+    "duraction": 7.14,
+    "value": "more and more crypto rich you know"
+  },
+  {
+    "start": 1276.97,
+    "duraction": 6.55,
+    "value": "crypto millionaires services going to be"
+  },
+  {
+    "start": 1280.61,
+    "duraction": 4.02,
+    "value": "provided in that world that are superior"
+  },
+  {
+    "start": 1283.52,
+    "duraction": 4.8,
+    "value": "to those of you"
+  },
+  {
+    "start": 1284.63,
+    "duraction": 6.06,
+    "value": "more gourmet services more customized"
+  },
+  {
+    "start": 1288.32,
+    "duraction": 4.56,
+    "value": "you know I will be happy to come over to"
+  },
+  {
+    "start": 1290.69,
+    "duraction": 3.9,
+    "value": "your house feed your cat change the dog"
+  },
+  {
+    "start": 1292.88,
+    "duraction": 4.29,
+    "value": "later water change the cat litter and"
+  },
+  {
+    "start": 1294.59,
+    "duraction": 4.32,
+    "value": "walk the dogs and so on those kinds of"
+  },
+  {
+    "start": 1297.17,
+    "duraction": 4.74,
+    "value": "are many services are going to pop up"
+  },
+  {
+    "start": 1298.91,
+    "duraction": 4.62,
+    "value": "because these crypto rich people most of"
+  },
+  {
+    "start": 1301.91,
+    "duraction": 5.97,
+    "value": "them might have and know lots of them"
+  },
+  {
+    "start": 1303.53,
+    "duraction": 7.35,
+    "value": "have led very frugal lives they they put"
+  },
+  {
+    "start": 1307.88,
+    "duraction": 5.22,
+    "value": "aside enjoyment posh living so that they"
+  },
+  {
+    "start": 1310.88,
+    "duraction": 4.2,
+    "value": "could put every spare cent they had into"
+  },
+  {
+    "start": 1313.1,
+    "duraction": 4.17,
+    "value": "buying cryptical and holding onto it and"
+  },
+  {
+    "start": 1315.08,
+    "duraction": 3.54,
+    "value": "suddenly for the first time they like"
+  },
+  {
+    "start": 1317.27,
+    "duraction": 3.78,
+    "value": "most of these people have never had a"
+  },
+  {
+    "start": 1318.62,
+    "duraction": 5.07,
+    "value": "thousand dollars in their hand before"
+  },
+  {
+    "start": 1321.05,
+    "duraction": 5.19,
+    "value": "and in a couple of months they're going"
+  },
+  {
+    "start": 1323.69,
+    "duraction": 4.47,
+    "value": "to have $200,000 worth of crypto and"
+  },
+  {
+    "start": 1326.24,
+    "duraction": 4.41,
+    "value": "then they don't want to again turn it"
+  },
+  {
+    "start": 1328.16,
+    "duraction": 4.53,
+    "value": "back into dollars to pay taxes on it but"
+  },
+  {
+    "start": 1330.65,
+    "duraction": 3.45,
+    "value": "they do want to spend it and so there's"
+  },
+  {
+    "start": 1332.69,
+    "duraction": 4.26,
+    "value": "an opportunity to create whole new"
+  },
+  {
+    "start": 1334.1,
+    "duraction": 4.68,
+    "value": "classes of services that are cooler than"
+  },
+  {
+    "start": 1336.95,
+    "duraction": 4.14,
+    "value": "what's out there in the real world and"
+  },
+  {
+    "start": 1338.78,
+    "duraction": 4.92,
+    "value": "so I really encourage any entrepreneur"
+  },
+  {
+    "start": 1341.09,
+    "duraction": 4.26,
+    "value": "to say anyone can come to our market say"
+  },
+  {
+    "start": 1343.7,
+    "duraction": 3.6,
+    "value": "I solve a problem better than someone"
+  },
+  {
+    "start": 1345.35,
+    "duraction": 5.07,
+    "value": "else has and we want it to be a"
+  },
+  {
+    "start": 1347.3,
+    "duraction": 5.73,
+    "value": "continuously improving laboratory for"
+  },
+  {
+    "start": 1350.42,
+    "duraction": 4.95,
+    "value": "marketing innovation and excellence it's"
+  },
+  {
+    "start": 1353.03,
+    "duraction": 3.72,
+    "value": "for the benefit of our members you know"
+  },
+  {
+    "start": 1355.37,
+    "duraction": 3.63,
+    "value": "we're also the people that are sewing"
+  },
+  {
+    "start": 1356.75,
+    "duraction": 4.65,
+    "value": "there's a different market so I'd like"
+  },
+  {
+    "start": 1359.0,
+    "duraction": 5.07,
+    "value": "to cover one other thing which is where"
+  },
+  {
+    "start": 1361.4,
+    "duraction": 4.26,
+    "value": "we really cover the loop and that is so"
+  },
+  {
+    "start": 1364.07,
+    "duraction": 4.28,
+    "value": "that gets me everything on the internet"
+  },
+  {
+    "start": 1365.66,
+    "duraction": 6.03,
+    "value": "and everything financial attractions"
+  },
+  {
+    "start": 1368.35,
+    "duraction": 5.38,
+    "value": "transactions so for example you may be"
+  },
+  {
+    "start": 1371.69,
+    "duraction": 6.12,
+    "value": "familiar with some of you probably pay"
+  },
+  {
+    "start": 1373.73,
+    "duraction": 5.85,
+    "value": "your bills online rather than using you"
+  },
+  {
+    "start": 1377.81,
+    "duraction": 4.11,
+    "value": "know writing checks out putting them in"
+  },
+  {
+    "start": 1379.58,
+    "duraction": 4.35,
+    "value": "envelopes and putting stamps on them and"
+  },
+  {
+    "start": 1381.92,
+    "duraction": 5.09,
+    "value": "what you use then is something called an"
+  },
+  {
+    "start": 1383.93,
+    "duraction": 5.61,
+    "value": "ACH automatic Clearing House transaction"
+  },
+  {
+    "start": 1387.01,
+    "duraction": 4.42,
+    "value": "which is similar to a wire but it cost"
+  },
+  {
+    "start": 1389.54,
+    "duraction": 5.52,
+    "value": "that cost 30 bucks it's cheaper it"
+  },
+  {
+    "start": 1391.43,
+    "duraction": 4.83,
+    "value": "happens faster and it's the way all the"
+  },
+  {
+    "start": 1395.06,
+    "duraction": 3.09,
+    "value": "utilities are so"
+  },
+  {
+    "start": 1396.26,
+    "duraction": 5.549,
+    "value": "so we find a company that's already"
+  },
+  {
+    "start": 1398.15,
+    "duraction": 5.25,
+    "value": "doing that paying ACH for your utility"
+  },
+  {
+    "start": 1401.809,
+    "duraction": 7.74,
+    "value": "bills so you just say yours electric"
+  },
+  {
+    "start": 1403.4,
+    "duraction": 7.8,
+    "value": "cast and telephone and but the the"
+  },
+  {
+    "start": 1409.549,
+    "duraction": 4.291,
+    "value": "Gateway is gonna be in the middle of"
+  },
+  {
+    "start": 1411.2,
+    "duraction": 4.68,
+    "value": "that transaction and say okay so now you"
+  },
+  {
+    "start": 1413.84,
+    "duraction": 4.32,
+    "value": "could pay a - I'll convert that into"
+  },
+  {
+    "start": 1415.88,
+    "duraction": 3.69,
+    "value": "dollars to pay all your bills so it was"
+  },
+  {
+    "start": 1418.16,
+    "duraction": 3.3,
+    "value": "one of the final things that people said"
+  },
+  {
+    "start": 1419.57,
+    "duraction": 4.56,
+    "value": "why can't pay my rent I can't pay my"
+  },
+  {
+    "start": 1421.46,
+    "duraction": 4.26,
+    "value": "mortgage yes you can no it's just you"
+  },
+  {
+    "start": 1424.13,
+    "duraction": 4.799,
+    "value": "know someone else converts it into Fiat"
+  },
+  {
+    "start": 1425.72,
+    "duraction": 5.37,
+    "value": "and pays it for you and it's all done so"
+  },
+  {
+    "start": 1428.929,
+    "duraction": 5.071,
+    "value": "the next frontier the final frontier is"
+  },
+  {
+    "start": 1431.09,
+    "duraction": 4.68,
+    "value": "the real world and we've come up with a"
+  },
+  {
+    "start": 1434.0,
+    "duraction": 5.34,
+    "value": "program for that we call it the real"
+  },
+  {
+    "start": 1435.77,
+    "duraction": 5.88,
+    "value": "world offers program that I will be able"
+  },
+  {
+    "start": 1439.34,
+    "duraction": 5.16,
+    "value": "to go I lived out in pliable feel"
+  },
+  {
+    "start": 1441.65,
+    "duraction": 4.38,
+    "value": "Acapulco Mexico and I've already been"
+  },
+  {
+    "start": 1444.5,
+    "duraction": 3.419,
+    "value": "making friends with the owners so all"
+  },
+  {
+    "start": 1446.03,
+    "duraction": 5.49,
+    "value": "these bars and restaurants they're right"
+  },
+  {
+    "start": 1447.919,
+    "duraction": 6.091,
+    "value": "on the water and basically pre-sold them"
+  },
+  {
+    "start": 1451.52,
+    "duraction": 5.159,
+    "value": "on this super model that I'll walk into"
+  },
+  {
+    "start": 1454.01,
+    "duraction": 4.56,
+    "value": "the restaurant in our marketplace you're"
+  },
+  {
+    "start": 1456.679,
+    "duraction": 4.051,
+    "value": "allowed five pictures and a thousand"
+  },
+  {
+    "start": 1458.57,
+    "duraction": 4.41,
+    "value": "characters of text that's like that's"
+  },
+  {
+    "start": 1460.73,
+    "duraction": 4.14,
+    "value": "what a listing is so I'll take a picture"
+  },
+  {
+    "start": 1462.98,
+    "duraction": 4.68,
+    "value": "of the front of the restaurant the three"
+  },
+  {
+    "start": 1464.87,
+    "duraction": 4.89,
+    "value": "pages of the menu and the owner and get"
+  },
+  {
+    "start": 1467.66,
+    "duraction": 4.56,
+    "value": "the listing the offer all set up and"
+  },
+  {
+    "start": 1469.76,
+    "duraction": 4.919,
+    "value": "then I previously have created an"
+  },
+  {
+    "start": 1472.22,
+    "duraction": 4.56,
+    "value": "account before it not submitted it the"
+  },
+  {
+    "start": 1474.679,
+    "duraction": 5.281,
+    "value": "offers not posted until the owner says"
+  },
+  {
+    "start": 1476.78,
+    "duraction": 4.95,
+    "value": "yes but I created a QR code you may be"
+  },
+  {
+    "start": 1479.96,
+    "duraction": 3.36,
+    "value": "familiar with the little square things"
+  },
+  {
+    "start": 1481.73,
+    "duraction": 3.8,
+    "value": "that you can point your phone at and it"
+  },
+  {
+    "start": 1483.32,
+    "duraction": 4.65,
+    "value": "will translate that number by"
+  },
+  {
+    "start": 1485.53,
+    "duraction": 4.72,
+    "value": "recognizing it in that little square QR"
+  },
+  {
+    "start": 1487.97,
+    "duraction": 4.62,
+    "value": "code well so what will happen is the bar"
+  },
+  {
+    "start": 1490.25,
+    "duraction": 3.87,
+    "value": "will get one or two of those laminated"
+  },
+  {
+    "start": 1492.59,
+    "duraction": 4.35,
+    "value": "you know on a piece of cardboard and"
+  },
+  {
+    "start": 1494.12,
+    "duraction": 4.29,
+    "value": "then they go into the prios marketplace"
+  },
+  {
+    "start": 1496.94,
+    "duraction": 4.38,
+    "value": "and everybody in the world now knows"
+  },
+  {
+    "start": 1498.41,
+    "duraction": 8.37,
+    "value": "that I can spend - for dinner at this"
+  },
+  {
+    "start": 1501.32,
+    "duraction": 8.13,
+    "value": "this steak house and instantly they will"
+  },
+  {
+    "start": 1506.78,
+    "duraction": 3.99,
+    "value": "get access to a whole bunch of customers"
+  },
+  {
+    "start": 1509.45,
+    "duraction": 4.14,
+    "value": "they never would have been able to work"
+  },
+  {
+    "start": 1510.77,
+    "duraction": 4.92,
+    "value": "- otherwise just people in the"
+  },
+  {
+    "start": 1513.59,
+    "duraction": 3.94,
+    "value": "cryptocurrency generally don't do stuff"
+  },
+  {
+    "start": 1515.69,
+    "duraction": 4.96,
+    "value": "like watch television or"
+  },
+  {
+    "start": 1517.53,
+    "duraction": 6.48,
+    "value": "you know paid much attention to to push"
+  },
+  {
+    "start": 1520.65,
+    "duraction": 6.45,
+    "value": "marketing and and there's no cost to"
+  },
+  {
+    "start": 1524.01,
+    "duraction": 4.77,
+    "value": "adding credos to your bill unless"
+  },
+  {
+    "start": 1527.1,
+    "duraction": 3.87,
+    "value": "there's a transaction and once again"
+  },
+  {
+    "start": 1528.78,
+    "duraction": 4.65,
+    "value": "most restaurants are taking Visa"
+  },
+  {
+    "start": 1530.97,
+    "duraction": 5.31,
+    "value": "MasterCard our transaction fee slower"
+  },
+  {
+    "start": 1533.43,
+    "duraction": 4.53,
+    "value": "there's no charge backs and it's cashing"
+  },
+  {
+    "start": 1536.28,
+    "duraction": 4.41,
+    "value": "in many ways it's actually better than"
+  },
+  {
+    "start": 1537.96,
+    "duraction": 5.19,
+    "value": "cash because most restaurant owners will"
+  },
+  {
+    "start": 1540.69,
+    "duraction": 5.07,
+    "value": "if they're honest with themselves admit"
+  },
+  {
+    "start": 1543.15,
+    "duraction": 4.62,
+    "value": "that even their the the long-term stable"
+  },
+  {
+    "start": 1545.76,
+    "duraction": 4.32,
+    "value": "loyal employees probably pocketed a"
+  },
+  {
+    "start": 1547.77,
+    "duraction": 4.35,
+    "value": "little bit out of the till everyone when"
+  },
+  {
+    "start": 1550.08,
+    "duraction": 5.58,
+    "value": "it's a - bill the bill goes up early"
+  },
+  {
+    "start": 1552.12,
+    "duraction": 5.4,
+    "value": "customer he scans the QR code since the"
+  },
+  {
+    "start": 1555.66,
+    "duraction": 3.9,
+    "value": "- and it goes from his phone to the met"
+  },
+  {
+    "start": 1557.52,
+    "duraction": 2.64,
+    "value": "to the owners phone and no one else is"
+  },
+  {
+    "start": 1559.56,
+    "duraction": 3.86,
+    "value": "the wiser"
+  },
+  {
+    "start": 1560.16,
+    "duraction": 6.87,
+    "value": "so no pilfering of cash out of the till"
+  },
+  {
+    "start": 1563.42,
+    "duraction": 5.35,
+    "value": "no reporting that you know Visa"
+  },
+  {
+    "start": 1567.03,
+    "duraction": 3.63,
+    "value": "MasterCard or certainly reporting"
+  },
+  {
+    "start": 1568.77,
+    "duraction": 3.78,
+    "value": "transactions to the IRS where you have"
+  },
+  {
+    "start": 1570.66,
+    "duraction": 4.59,
+    "value": "done that the transaction didn't exist"
+  },
+  {
+    "start": 1572.55,
+    "duraction": 6.89,
+    "value": "so it's another thing that we feel like"
+  },
+  {
+    "start": 1575.25,
+    "duraction": 6.54,
+    "value": "we're in a position to deliver faster on"
+  },
+  {
+    "start": 1579.44,
+    "duraction": 4.42,
+    "value": "bringing cryptocurrency to the real"
+  },
+  {
+    "start": 1581.79,
+    "duraction": 3.45,
+    "value": "world where normal restaurants on the"
+  },
+  {
+    "start": 1583.86,
+    "duraction": 3.45,
+    "value": "street you don't have to do any kind of"
+  },
+  {
+    "start": 1585.24,
+    "duraction": 4.38,
+    "value": "a conversion you can go directly in"
+  },
+  {
+    "start": 1587.31,
+    "duraction": 5.04,
+    "value": "instead - and that's what it's really"
+  },
+  {
+    "start": 1589.62,
+    "duraction": 6.03,
+    "value": "going to be exciting so the last little"
+  },
+  {
+    "start": 1592.35,
+    "duraction": 6.99,
+    "value": "bit I know we're we're going to try not"
+  },
+  {
+    "start": 1595.65,
+    "duraction": 5.46,
+    "value": "to get it at any technology on hooked on"
+  },
+  {
+    "start": 1599.34,
+    "duraction": 4.08,
+    "value": "how it works but I want to make the"
+  },
+  {
+    "start": 1601.11,
+    "duraction": 5.82,
+    "value": "clear point that this technology was"
+  },
+  {
+    "start": 1603.42,
+    "duraction": 5.58,
+    "value": "designed specifically to thwart any"
+  },
+  {
+    "start": 1606.93,
+    "duraction": 5.25,
+    "value": "attempts by censorship by any"
+  },
+  {
+    "start": 1609.0,
+    "duraction": 5.91,
+    "value": "governments on the planet and what you"
+  },
+  {
+    "start": 1612.18,
+    "duraction": 5.52,
+    "value": "notice when you'll see I'm not sure who"
+  },
+  {
+    "start": 1614.91,
+    "duraction": 4.95,
+    "value": "then who the Democratic congressman and"
+  },
+  {
+    "start": 1617.7,
+    "duraction": 4.95,
+    "value": "first will say we can't a lot Bitcoin to"
+  },
+  {
+    "start": 1619.86,
+    "duraction": 5.88,
+    "value": "happen we won't be able to tax it well"
+  },
+  {
+    "start": 1622.65,
+    "duraction": 4.51,
+    "value": "yeah of course but then recently Maxine"
+  },
+  {
+    "start": 1625.74,
+    "duraction": 4.72,
+    "value": "Waters has been coming"
+  },
+  {
+    "start": 1627.16,
+    "duraction": 6.21,
+    "value": "and every time some politician tries to"
+  },
+  {
+    "start": 1630.46,
+    "duraction": 5.36,
+    "value": "say we're gonna stop Bitcoin it has the"
+  },
+  {
+    "start": 1633.37,
+    "duraction": 5.73,
+    "value": "exact opposite effect that it causes"
+  },
+  {
+    "start": 1635.82,
+    "duraction": 5.65,
+    "value": "another million people to find out oh no"
+  },
+  {
+    "start": 1639.1,
+    "duraction": 5.01,
+    "value": "Bitcoin was designed so they can't stop"
+  },
+  {
+    "start": 1641.47,
+    "duraction": 4.74,
+    "value": "it and they become enthusiasts and in"
+  },
+  {
+    "start": 1644.11,
+    "duraction": 5.309,
+    "value": "the market so the point that I want you"
+  },
+  {
+    "start": 1646.21,
+    "duraction": 7.62,
+    "value": "to understand is they spent five years"
+  },
+  {
+    "start": 1649.419,
+    "duraction": 6.951,
+    "value": "from from the publishing of the Satoshi"
+  },
+  {
+    "start": 1653.83,
+    "duraction": 5.07,
+    "value": "white paper they spent five years"
+  },
+  {
+    "start": 1656.37,
+    "duraction": 3.91,
+    "value": "thinking there was some way to stop it"
+  },
+  {
+    "start": 1658.9,
+    "duraction": 5.1,
+    "value": "that they could put the toothpaste back"
+  },
+  {
+    "start": 1660.28,
+    "duraction": 6.21,
+    "value": "in the tube that war is over we win"
+  },
+  {
+    "start": 1664.0,
+    "duraction": 6.24,
+    "value": "there is no stopping Bitcoin what we had"
+  },
+  {
+    "start": 1666.49,
+    "duraction": 5.79,
+    "value": "to do was create edible competition to"
+  },
+  {
+    "start": 1670.24,
+    "duraction": 4.2,
+    "value": "the monopoly fiat money is all coming"
+  },
+  {
+    "start": 1672.28,
+    "duraction": 4.35,
+    "value": "out of Switzerland and we have it now"
+  },
+  {
+    "start": 1674.44,
+    "duraction": 4.95,
+    "value": "and it can't be stopped so in many ways"
+  },
+  {
+    "start": 1676.63,
+    "duraction": 4.5,
+    "value": "we've already won this war all that's"
+  },
+  {
+    "start": 1679.39,
+    "duraction": 3.419,
+    "value": "down to is that you know we still have"
+  },
+  {
+    "start": 1681.13,
+    "duraction": 3.96,
+    "value": "to go through the skirmishes of battles"
+  },
+  {
+    "start": 1682.809,
+    "duraction": 4.051,
+    "value": "but we already know the outcome and in"
+  },
+  {
+    "start": 1685.09,
+    "duraction": 4.29,
+    "value": "terms of scrip those are gonna win and"
+  },
+  {
+    "start": 1686.86,
+    "duraction": 4.38,
+    "value": "right right my stuff yeah yeah there are"
+  },
+  {
+    "start": 1689.38,
+    "duraction": 3.6,
+    "value": "a couple hundred Kryptos and only twenty"
+  },
+  {
+    "start": 1691.24,
+    "duraction": 3.72,
+    "value": "ten or twenty will ever survive so the"
+  },
+  {
+    "start": 1692.98,
+    "duraction": 5.069,
+    "value": "blockchain itself has changed the world"
+  },
+  {
+    "start": 1694.96,
+    "duraction": 4.44,
+    "value": "it's not going back dude so and this has"
+  },
+  {
+    "start": 1698.049,
+    "duraction": 3.541,
+    "value": "been cheek stuffed with blockchain"
+  },
+  {
+    "start": 1699.4,
+    "duraction": 4.05,
+    "value": "technology completely separable crypto"
+  },
+  {
+    "start": 1701.59,
+    "duraction": 4.38,
+    "value": "and having nothing to do with especially"
+  },
+  {
+    "start": 1703.45,
+    "duraction": 5.07,
+    "value": "any of the sordid aspects of crispo"
+  },
+  {
+    "start": 1705.97,
+    "duraction": 5.01,
+    "value": "crypto like the dark web and stuff like"
+  },
+  {
+    "start": 1708.52,
+    "duraction": 4.019,
+    "value": "that which is by the way there's nothing"
+  },
+  {
+    "start": 1710.98,
+    "duraction": 4.079,
+    "value": "to do with the crypto specifically it's"
+  },
+  {
+    "start": 1712.539,
+    "duraction": 5.76,
+    "value": "convenient form of of potentially"
+  },
+  {
+    "start": 1715.059,
+    "duraction": 5.881,
+    "value": "anonymous marketing such what so is cash"
+  },
+  {
+    "start": 1718.299,
+    "duraction": 4.321,
+    "value": "you know used otherwise the old way was"
+  },
+  {
+    "start": 1720.94,
+    "duraction": 3.93,
+    "value": "to just send cash through like back"
+  },
+  {
+    "start": 1722.62,
+    "duraction": 6.48,
+    "value": "channels or or in a plane the way Obama"
+  },
+  {
+    "start": 1724.87,
+    "duraction": 6.09,
+    "value": "delivered large pallets of cash but in"
+  },
+  {
+    "start": 1729.1,
+    "duraction": 2.97,
+    "value": "the new way it's just crypto so a bit"
+  },
+  {
+    "start": 1730.96,
+    "duraction": 3.39,
+    "value": "more convenient that doesn't mean that"
+  },
+  {
+    "start": 1732.07,
+    "duraction": 4.29,
+    "value": "it's more criminal which is what they"
+  },
+  {
+    "start": 1734.35,
+    "duraction": 3.93,
+    "value": "like to call it you know it's not more"
+  },
+  {
+    "start": 1736.36,
+    "duraction": 3.42,
+    "value": "disposed toward like drug dealers and"
+  },
+  {
+    "start": 1738.28,
+    "duraction": 3.389,
+    "value": "all this other stuff it's just a better"
+  },
+  {
+    "start": 1739.78,
+    "duraction": 4.56,
+    "value": "form of money it's like using cell"
+  },
+  {
+    "start": 1741.669,
+    "duraction": 3.811,
+    "value": "phones instead of the old dial-up just"
+  },
+  {
+    "start": 1744.34,
+    "duraction": 2.819,
+    "value": "because they use cell phones now the"
+  },
+  {
+    "start": 1745.48,
+    "duraction": 3.87,
+    "value": "drug dealers have the nicer cell phones"
+  },
+  {
+    "start": 1747.159,
+    "duraction": 5.281,
+    "value": "doesn't mean that cell phones are like"
+  },
+  {
+    "start": 1749.35,
+    "duraction": 6.51,
+    "value": "some sort of cause of drug issues this"
+  },
+  {
+    "start": 1752.44,
+    "duraction": 5.15,
+    "value": "is sort of blaming that the technology"
+  },
+  {
+    "start": 1755.86,
+    "duraction": 4.74,
+    "value": "instead of the criminal in that case"
+  },
+  {
+    "start": 1757.59,
+    "duraction": 6.82,
+    "value": "some of you may have heard the name Ross"
+  },
+  {
+    "start": 1760.6,
+    "duraction": 6.21,
+    "value": "Ulbricht and and and I hope we continue"
+  },
+  {
+    "start": 1764.41,
+    "duraction": 5.22,
+    "value": "to raise awareness of this case that"
+  },
+  {
+    "start": 1766.81,
+    "duraction": 3.81,
+    "value": "Ross was a guy that wrote a marketplace"
+  },
+  {
+    "start": 1769.63,
+    "duraction": 3.09,
+    "value": "much like mine"
+  },
+  {
+    "start": 1770.62,
+    "duraction": 4.17,
+    "value": "okay he wrote a piece of software that"
+  },
+  {
+    "start": 1772.72,
+    "duraction": 3.9,
+    "value": "allowed people to by itself plants that"
+  },
+  {
+    "start": 1774.79,
+    "duraction": 6.54,
+    "value": "they choose to put into their own bodies"
+  },
+  {
+    "start": 1776.62,
+    "duraction": 7.44,
+    "value": "and this is the so-called dark dark web"
+  },
+  {
+    "start": 1781.33,
+    "duraction": 6.42,
+    "value": "and I will fully admit he was sowing pot"
+  },
+  {
+    "start": 1784.06,
+    "duraction": 5.85,
+    "value": "and cocaine or he wasn't but people"
+  },
+  {
+    "start": 1787.75,
+    "duraction": 4.76,
+    "value": "using that marketplace were selling pot"
+  },
+  {
+    "start": 1789.91,
+    "duraction": 5.64,
+    "value": "containing more cryptocurrency and"
+  },
+  {
+    "start": 1792.51,
+    "duraction": 5.65,
+    "value": "anyway they wanted to make sort of a"
+  },
+  {
+    "start": 1795.55,
+    "duraction": 5.79,
+    "value": "making a Leona Helmsley example and Ross"
+  },
+  {
+    "start": 1798.16,
+    "duraction": 4.98,
+    "value": "and the government spent millions of"
+  },
+  {
+    "start": 1801.34,
+    "duraction": 5.22,
+    "value": "dollars in this whole sting operation"
+  },
+  {
+    "start": 1803.14,
+    "duraction": 6.63,
+    "value": "first just to catch them catch him they"
+  },
+  {
+    "start": 1806.56,
+    "duraction": 5.46,
+    "value": "completely salted the jury pool by a"
+  },
+  {
+    "start": 1809.77,
+    "duraction": 5.49,
+    "value": "bunch of outright lies and then"
+  },
+  {
+    "start": 1812.02,
+    "duraction": 5.91,
+    "value": "convicted him for two life sentences so"
+  },
+  {
+    "start": 1815.26,
+    "duraction": 5.25,
+    "value": "El Chapo who's murdered hundreds of"
+  },
+  {
+    "start": 1817.93,
+    "duraction": 5.22,
+    "value": "people in an international drug drug"
+  },
+  {
+    "start": 1820.51,
+    "duraction": 5.07,
+    "value": "dealing you know mega-monster yeah I"
+  },
+  {
+    "start": 1823.15,
+    "duraction": 4.71,
+    "value": "just got one life sentence plus 30 years"
+  },
+  {
+    "start": 1825.58,
+    "duraction": 5.01,
+    "value": "so this kid who wrote computer software"
+  },
+  {
+    "start": 1827.86,
+    "duraction": 5.22,
+    "value": "is in jail for longer and at this point"
+  },
+  {
+    "start": 1830.59,
+    "duraction": 6.42,
+    "value": "as appeals have run out and he's got to"
+  },
+  {
+    "start": 1833.08,
+    "duraction": 5.85,
+    "value": "be parked by our fearless leader and so"
+  },
+  {
+    "start": 1837.01,
+    "duraction": 4.47,
+    "value": "I'm hoping that we can continue to raise"
+  },
+  {
+    "start": 1838.93,
+    "duraction": 4.38,
+    "value": "awareness as subject because I'm in sort"
+  },
+  {
+    "start": 1841.48,
+    "duraction": 4.5,
+    "value": "of a similar spot that we're going with"
+  },
+  {
+    "start": 1843.31,
+    "duraction": 5.4,
+    "value": "the pure plumbing model that means we"
+  },
+  {
+    "start": 1845.98,
+    "duraction": 4.74,
+    "value": "are not going to censor or edit I'm not"
+  },
+  {
+    "start": 1848.71,
+    "duraction": 3.87,
+    "value": "going to say you know I don't approve of"
+  },
+  {
+    "start": 1850.72,
+    "duraction": 4.23,
+    "value": "basket weaving so I'm not going to allow"
+  },
+  {
+    "start": 1852.58,
+    "duraction": 4.35,
+    "value": "any basket weave and I'm also not going"
+  },
+  {
+    "start": 1854.95,
+    "duraction": 5.4,
+    "value": "to be gonna say I'm not going to allow"
+  },
+  {
+    "start": 1856.93,
+    "duraction": 5.64,
+    "value": "people to sell plants and so on"
+  },
+  {
+    "start": 1860.35,
+    "duraction": 4.83,
+    "value": "the analogy that I would like to leave"
+  },
+  {
+    "start": 1862.57,
+    "duraction": 5.43,
+    "value": "with you on the subject is prior to the"
+  },
+  {
+    "start": 1865.18,
+    "duraction": 5.01,
+    "value": "internet if someone wanted to hire a"
+  },
+  {
+    "start": 1868.0,
+    "duraction": 5.4,
+    "value": "hitman someone wanted you know murder"
+  },
+  {
+    "start": 1870.19,
+    "duraction": 5.07,
+    "value": "for hire or they wanted you know child"
+  },
+  {
+    "start": 1873.4,
+    "duraction": 4.2,
+    "value": "pornography or any of the other"
+  },
+  {
+    "start": 1875.26,
+    "duraction": 4.41,
+    "value": "disgusting things that are currently"
+  },
+  {
+    "start": 1877.6,
+    "duraction": 5.28,
+    "value": "available on the dark web how did they"
+  },
+  {
+    "start": 1879.67,
+    "duraction": 5.43,
+    "value": "do it well they picked up the phone now"
+  },
+  {
+    "start": 1882.88,
+    "duraction": 4.97,
+    "value": "should Alexander Graham Bell be going to"
+  },
+  {
+    "start": 1885.1,
+    "duraction": 5.7,
+    "value": "jail because he's facilitating chronic"
+  },
+  {
+    "start": 1887.85,
+    "duraction": 5.59,
+    "value": "should the current executive team of"
+  },
+  {
+    "start": 1890.8,
+    "duraction": 5.16,
+    "value": "AT&T be in jail for facilitating a"
+  },
+  {
+    "start": 1893.44,
+    "duraction": 4.65,
+    "value": "violent attack no one would ever think"
+  },
+  {
+    "start": 1895.96,
+    "duraction": 4.44,
+    "value": "that but somehow on the internet if you"
+  },
+  {
+    "start": 1898.09,
+    "duraction": 4.11,
+    "value": "say I have a plumbing that allows"
+  },
+  {
+    "start": 1900.4,
+    "duraction": 3.72,
+    "value": "transactions to occur that I'm so how"
+  },
+  {
+    "start": 1902.2,
+    "duraction": 4.2,
+    "value": "responsible for all those transactions"
+  },
+  {
+    "start": 1904.12,
+    "duraction": 4.02,
+    "value": "so I'd like you to hopefully hope you'll"
+  },
+  {
+    "start": 1906.4,
+    "duraction": 4.11,
+    "value": "remember the name free Ross and if you"
+  },
+  {
+    "start": 1908.14,
+    "duraction": 3.69,
+    "value": "see a petition going around it now it's"
+  },
+  {
+    "start": 1910.51,
+    "duraction": 5.34,
+    "value": "about two hundred thousand signatures"
+  },
+  {
+    "start": 1911.83,
+    "duraction": 7.53,
+    "value": "and you know what we're hoping is we get"
+  },
+  {
+    "start": 1915.85,
+    "duraction": 5.34,
+    "value": "that over a million and Donald J Trump"
+  },
+  {
+    "start": 1919.36,
+    "duraction": 4.41,
+    "value": "will see those petitions and do the"
+  },
+  {
+    "start": 1921.19,
+    "duraction": 4.26,
+    "value": "right thing I actually do think that if"
+  },
+  {
+    "start": 1923.77,
+    "duraction": 3.21,
+    "value": "this were to happen a lot of"
+  },
+  {
+    "start": 1925.45,
+    "duraction": 3.42,
+    "value": "libertarians will swing their vote to"
+  },
+  {
+    "start": 1926.98,
+    "duraction": 4.92,
+    "value": "Trump because this is a popular issue"
+  },
+  {
+    "start": 1928.87,
+    "duraction": 4.35,
+    "value": "with the freedom crowd on the Internet"
+  },
+  {
+    "start": 1931.9,
+    "duraction": 2.58,
+    "value": "you know this is sort of the niche crowd"
+  },
+  {
+    "start": 1933.22,
+    "duraction": 3.06,
+    "value": "that are in the kryptos and the"
+  },
+  {
+    "start": 1934.48,
+    "duraction": 3.48,
+    "value": "technology and coding and things of that"
+  },
+  {
+    "start": 1936.28,
+    "duraction": 4.89,
+    "value": "nature it's not a look you know a"
+  },
+  {
+    "start": 1937.96,
+    "duraction": 6.36,
+    "value": "million strong crowd sometimes but it is"
+  },
+  {
+    "start": 1941.17,
+    "duraction": 4.5,
+    "value": "a crowd that that has a lot of folks in"
+  },
+  {
+    "start": 1944.32,
+    "duraction": 2.94,
+    "value": "it so I think that would actually be a"
+  },
+  {
+    "start": 1945.67,
+    "duraction": 3.63,
+    "value": "pretty instant thing to see"
+  },
+  {
+    "start": 1947.26,
+    "duraction": 3.42,
+    "value": "pardon and then maybe bring a lot of"
+  },
+  {
+    "start": 1949.3,
+    "duraction": 4.38,
+    "value": "voters from the libertarian party to"
+  },
+  {
+    "start": 1950.68,
+    "duraction": 4.77,
+    "value": "Trump but I remember hearing about the"
+  },
+  {
+    "start": 1953.68,
+    "duraction": 3.69,
+    "value": "case I remember the corruption involved"
+  },
+  {
+    "start": 1955.45,
+    "duraction": 5.01,
+    "value": "I remember how they railroaded the poor"
+  },
+  {
+    "start": 1957.37,
+    "duraction": 6.99,
+    "value": "guy and I met his mom I and she's still"
+  },
+  {
+    "start": 1960.46,
+    "duraction": 5.46,
+    "value": "out there fighting tirelessly yeah you"
+  },
+  {
+    "start": 1964.36,
+    "duraction": 3.4,
+    "value": "know we definitely want to have her on"
+  },
+  {
+    "start": 1965.92,
+    "duraction": 4.54,
+    "value": "the show at some point"
+  },
+  {
+    "start": 1967.76,
+    "duraction": 4.409,
+    "value": "get more of the story yeah and you know"
+  },
+  {
+    "start": 1970.46,
+    "duraction": 6.24,
+    "value": "the greatest thing about this is the"
+  },
+  {
+    "start": 1972.169,
+    "duraction": 7.86,
+    "value": "synergy between the the mega Q 5 million"
+  },
+  {
+    "start": 1976.7,
+    "duraction": 6.42,
+    "value": "people and in our group capital crypto"
+  },
+  {
+    "start": 1980.029,
+    "duraction": 5.311,
+    "value": "people and especially the free Ross camp"
+  },
+  {
+    "start": 1983.12,
+    "duraction": 5.399,
+    "value": "it's the same kids it's the same people"
+  },
+  {
+    "start": 1985.34,
+    "duraction": 5.939,
+    "value": "it's smart people into into technology"
+  },
+  {
+    "start": 1988.519,
+    "duraction": 5.64,
+    "value": "hackers problem solvers and the"
+  },
+  {
+    "start": 1991.279,
+    "duraction": 5.61,
+    "value": "Information Age it's it's the people"
+  },
+  {
+    "start": 1994.159,
+    "duraction": 4.411,
+    "value": "that are going to be the recipients of"
+  },
+  {
+    "start": 1996.889,
+    "duraction": 4.561,
+    "value": "this green transfer of wealth that I'm"
+  },
+  {
+    "start": 1998.57,
+    "duraction": 5.459,
+    "value": "saying is coming this year and we need"
+  },
+  {
+    "start": 2001.45,
+    "duraction": 4.14,
+    "value": "all work together you know that's what I"
+  },
+  {
+    "start": 2004.029,
+    "duraction": 3.421,
+    "value": "hope happens out of all of us"
+  },
+  {
+    "start": 2005.59,
+    "duraction": 3.809,
+    "value": "I know Dustin and I are gonna be team"
+  },
+  {
+    "start": 2007.45,
+    "duraction": 3.599,
+    "value": "either way I know we're all about the"
+  },
+  {
+    "start": 2009.399,
+    "duraction": 3.451,
+    "value": "way we go one way the wall and I know"
+  },
+  {
+    "start": 2011.049,
+    "duraction": 3.151,
+    "value": "there's good causes that you guys"
+  },
+  {
+    "start": 2012.85,
+    "duraction": 2.37,
+    "value": "believe in and we share a lot of you"
+  },
+  {
+    "start": 2014.2,
+    "duraction": 3.06,
+    "value": "know for example a lot of the crypto"
+  },
+  {
+    "start": 2015.22,
+    "duraction": 3.66,
+    "value": "people are there maximals for you they"
+  },
+  {
+    "start": 2017.26,
+    "duraction": 3.45,
+    "value": "don't care about government I'm with"
+  },
+  {
+    "start": 2018.88,
+    "duraction": 3.299,
+    "value": "them all the time I support Trampas the"
+  },
+  {
+    "start": 2020.71,
+    "duraction": 3.569,
+    "value": "one exception I supported Ron Paul I"
+  },
+  {
+    "start": 2022.179,
+    "duraction": 3.301,
+    "value": "guess two exceptions but generally I"
+  },
+  {
+    "start": 2024.279,
+    "duraction": 2.221,
+    "value": "don't I don't trust government at all I"
+  },
+  {
+    "start": 2025.48,
+    "duraction": 4.439,
+    "value": "don't think you can trust about the"
+  },
+  {
+    "start": 2026.5,
+    "duraction": 5.37,
+    "value": "government corrupt power corrupts but"
+  },
+  {
+    "start": 2029.919,
+    "duraction": 3.75,
+    "value": "you know I do think Trump is doing some"
+  },
+  {
+    "start": 2031.87,
+    "duraction": 3.72,
+    "value": "good things maybe many of them don't"
+  },
+  {
+    "start": 2033.669,
+    "duraction": 3.211,
+    "value": "support Trump but they care about things"
+  },
+  {
+    "start": 2035.59,
+    "duraction": 3.12,
+    "value": "like free speech and they care about"
+  },
+  {
+    "start": 2036.88,
+    "duraction": 3.659,
+    "value": "things like your rights they are just to"
+  },
+  {
+    "start": 2038.71,
+    "duraction": 3.62,
+    "value": "burn out on it to ever believe in"
+  },
+  {
+    "start": 2040.539,
+    "duraction": 4.711,
+    "value": "someone you know a president or"
+  },
+  {
+    "start": 2042.33,
+    "duraction": 4.36,
+    "value": "government but we have a lot of overlap"
+  },
+  {
+    "start": 2045.25,
+    "duraction": 2.7,
+    "value": "obviously in there there are a lot of"
+  },
+  {
+    "start": 2046.69,
+    "duraction": 3.27,
+    "value": "other causes and groups out there"
+  },
+  {
+    "start": 2047.95,
+    "duraction": 3.99,
+    "value": "besides the cute groups besides the"
+  },
+  {
+    "start": 2049.96,
+    "duraction": 3.659,
+    "value": "magnet groups besides you know that the"
+  },
+  {
+    "start": 2051.94,
+    "duraction": 3.419,
+    "value": "crypto people there's the alternative"
+  },
+  {
+    "start": 2053.619,
+    "duraction": 4.26,
+    "value": "health folks there's the yellow vest"
+  },
+  {
+    "start": 2055.359,
+    "duraction": 4.831,
+    "value": "folks the walk away folks anyone who"
+  },
+  {
+    "start": 2057.879,
+    "duraction": 5.55,
+    "value": "cares about research each evil yeah free"
+  },
+  {
+    "start": 2060.19,
+    "duraction": 5.61,
+    "value": "speech unites us all yeah yeah and and"
+  },
+  {
+    "start": 2063.429,
+    "duraction": 4.621,
+    "value": "and we all know that you know the whole"
+  },
+  {
+    "start": 2065.8,
+    "duraction": 4.019,
+    "value": "goal of the machine for you know several"
+  },
+  {
+    "start": 2068.05,
+    "duraction": 4.319,
+    "value": "hundred or six thousand years whichever"
+  },
+  {
+    "start": 2069.819,
+    "duraction": 5.401,
+    "value": "you want to look at it is to sow discord"
+  },
+  {
+    "start": 2072.369,
+    "duraction": 7.951,
+    "value": "between us because"
+  },
+  {
+    "start": 2075.22,
+    "duraction": 7.14,
+    "value": "it really is the 99.99 or the same have"
+  },
+  {
+    "start": 2080.32,
+    "duraction": 6.05,
+    "value": "much more in common than any of us do"
+  },
+  {
+    "start": 2082.36,
+    "duraction": 7.86,
+    "value": "with these 0.01 leaders who are you know"
+  },
+  {
+    "start": 2086.37,
+    "duraction": 6.19,
+    "value": "scary psychotics and and but they yet"
+  },
+  {
+    "start": 2090.22,
+    "duraction": 5.16,
+    "value": "they find ways to get black saving"
+  },
+  {
+    "start": 2092.56,
+    "duraction": 5.52,
+    "value": "whites and women hating men and left"
+  },
+  {
+    "start": 2095.38,
+    "duraction": 5.49,
+    "value": "hating right and up sitting down and so"
+  },
+  {
+    "start": 2098.08,
+    "duraction": 5.04,
+    "value": "on and it's all attentional and all we"
+  },
+  {
+    "start": 2100.87,
+    "duraction": 5.22,
+    "value": "have to realize is the plaintiffs and"
+  },
+  {
+    "start": 2103.12,
+    "duraction": 6.3,
+    "value": "their work on us all of us we should all"
+  },
+  {
+    "start": 2106.09,
+    "duraction": 4.77,
+    "value": "be together because these guys are evil"
+  },
+  {
+    "start": 2109.42,
+    "duraction": 3.84,
+    "value": "and doing this on purpose"
+  },
+  {
+    "start": 2110.86,
+    "duraction": 4.92,
+    "value": "there was a good common I don't know who"
+  },
+  {
+    "start": 2113.26,
+    "duraction": 4.43,
+    "value": "said it but the media has figured out"
+  },
+  {
+    "start": 2115.78,
+    "duraction": 4.29,
+    "value": "that they can't tell you what to think"
+  },
+  {
+    "start": 2117.69,
+    "duraction": 4.06,
+    "value": "but they can definitely tell you what to"
+  },
+  {
+    "start": 2120.07,
+    "duraction": 4.11,
+    "value": "think about if you watch television"
+  },
+  {
+    "start": 2121.75,
+    "duraction": 4.59,
+    "value": "though give you one story after another"
+  },
+  {
+    "start": 2124.18,
+    "duraction": 4.65,
+    "value": "let's have everybody chased this story"
+  },
+  {
+    "start": 2126.34,
+    "duraction": 4.92,
+    "value": "this divisive and doesn't matter in the"
+  },
+  {
+    "start": 2128.83,
+    "duraction": 4.53,
+    "value": "big picture and everybody chases after"
+  },
+  {
+    "start": 2131.26,
+    "duraction": 3.96,
+    "value": "it you know it all think of recent"
+  },
+  {
+    "start": 2133.36,
+    "duraction": 3.15,
+    "value": "recent examples of stories just don't"
+  },
+  {
+    "start": 2135.22,
+    "duraction": 3.18,
+    "value": "matter the big picture but yet"
+  },
+  {
+    "start": 2136.51,
+    "duraction": 3.72,
+    "value": "everyone's talking about it all day long"
+  },
+  {
+    "start": 2138.4,
+    "duraction": 3.57,
+    "value": "and they're ignoring that important"
+  },
+  {
+    "start": 2140.23,
+    "duraction": 3.87,
+    "value": "place and ignoring what's going on and"
+  },
+  {
+    "start": 2141.97,
+    "duraction": 3.99,
+    "value": "all the time people like Destin and I"
+  },
+  {
+    "start": 2144.1,
+    "duraction": 4.56,
+    "value": "you know when you see a story like that"
+  },
+  {
+    "start": 2145.96,
+    "duraction": 4.14,
+    "value": "it makes radar update okay I got plan on"
+  },
+  {
+    "start": 2148.66,
+    "duraction": 3.06,
+    "value": "what's going on yeah a ship just got"
+  },
+  {
+    "start": 2150.1,
+    "duraction": 2.4,
+    "value": "sunk or something we're about they have"
+  },
+  {
+    "start": 2151.72,
+    "duraction": 2.52,
+    "value": "a war"
+  },
+  {
+    "start": 2152.5,
+    "duraction": 3.33,
+    "value": "something's going on because otherwise"
+  },
+  {
+    "start": 2154.24,
+    "duraction": 5.1,
+    "value": "it wouldn't be trying so hard to"
+  },
+  {
+    "start": 2155.83,
+    "duraction": 6.51,
+    "value": "distract it on us so if I had one bit of"
+  },
+  {
+    "start": 2159.34,
+    "duraction": 5.79,
+    "value": "advice for everybody stop watch"
+  },
+  {
+    "start": 2162.34,
+    "duraction": 4.28,
+    "value": "television I don't know why people still"
+  },
+  {
+    "start": 2165.13,
+    "duraction": 4.67,
+    "value": "watch television I never own"
+  },
+  {
+    "start": 2166.62,
+    "duraction": 5.46,
+    "value": "yeah I just wanted the computer from an"
+  },
+  {
+    "start": 2169.8,
+    "duraction": 4.44,
+    "value": "early age but Bob thank you so much"
+  },
+  {
+    "start": 2172.08,
+    "duraction": 3.96,
+    "value": "where can people find your website and"
+  },
+  {
+    "start": 2174.24,
+    "duraction": 3.3,
+    "value": "for those who third student and learning"
+  },
+  {
+    "start": 2176.04,
+    "duraction": 3.03,
+    "value": "about crypto and such you know be"
+  },
+  {
+    "start": 2177.54,
+    "duraction": 2.85,
+    "value": "beginner-friendly but how can they get"
+  },
+  {
+    "start": 2179.07,
+    "duraction": 2.52,
+    "value": "involved in something like that indeed"
+  },
+  {
+    "start": 2180.39,
+    "duraction": 3.75,
+    "value": "so well I hope that we can continue"
+  },
+  {
+    "start": 2181.59,
+    "duraction": 5.37,
+    "value": "having regular talks and I'm happy I"
+  },
+  {
+    "start": 2184.14,
+    "duraction": 4.79,
+    "value": "think that I have a pretty firm"
+  },
+  {
+    "start": 2186.96,
+    "duraction": 5.34,
+    "value": "understanding of crypto and some of the"
+  },
+  {
+    "start": 2188.93,
+    "duraction": 6.01,
+    "value": "complex technology issues behind it but"
+  },
+  {
+    "start": 2192.3,
+    "duraction": 4.59,
+    "value": "of goodit's and explaining a simple"
+  },
+  {
+    "start": 2194.94,
+    "duraction": 3.51,
+    "value": "terms in your head with free markets and"
+  },
+  {
+    "start": 2196.89,
+    "duraction": 3.0,
+    "value": "such as well I mean understanding the"
+  },
+  {
+    "start": 2198.45,
+    "duraction": 3.09,
+    "value": "capitalist philosophy and things of that"
+  },
+  {
+    "start": 2199.89,
+    "duraction": 3.57,
+    "value": "nature so that that means that you're a"
+  },
+  {
+    "start": 2201.54,
+    "duraction": 3.66,
+    "value": "true believer that's not just out to get"
+  },
+  {
+    "start": 2203.46,
+    "duraction": 2.91,
+    "value": "money around just too late to do a"
+  },
+  {
+    "start": 2205.2,
+    "duraction": 3.96,
+    "value": "business you're actually out there to"
+  },
+  {
+    "start": 2206.37,
+    "duraction": 4.8,
+    "value": "help people this is you know the so our"
+  },
+  {
+    "start": 2209.16,
+    "duraction": 3.63,
+    "value": "main website is free OSA at i/o that's"
+  },
+  {
+    "start": 2211.17,
+    "duraction": 3.15,
+    "value": "where you can sign up through you can"
+  },
+  {
+    "start": 2212.79,
+    "duraction": 4.14,
+    "value": "register for a newsletter you can sign"
+  },
+  {
+    "start": 2214.32,
+    "duraction": 4.89,
+    "value": "up to be an ambassador I'll save you all"
+  },
+  {
+    "start": 2216.93,
+    "duraction": 4.17,
+    "value": "the the descriptions of all those"
+  },
+  {
+    "start": 2219.21,
+    "duraction": 4.83,
+    "value": "programs but there's a lot of ways to"
+  },
+  {
+    "start": 2221.1,
+    "duraction": 7.05,
+    "value": "make money working as a contractor or as"
+  },
+  {
+    "start": 2224.04,
+    "duraction": 5.97,
+    "value": "a partner of brios the website the"
+  },
+  {
+    "start": 2228.15,
+    "duraction": 5.3,
+    "value": "marketplace itself is currently called"
+  },
+  {
+    "start": 2230.01,
+    "duraction": 6.15,
+    "value": "free the net I oh but I'm very excited"
+  },
+  {
+    "start": 2233.45,
+    "duraction": 6.34,
+    "value": "but for some of you all folks who have"
+  },
+  {
+    "start": 2236.16,
+    "duraction": 6.24,
+    "value": "heard of a sanding arlo guthrie arlo"
+  },
+  {
+    "start": 2239.79,
+    "duraction": 5.04,
+    "value": "wrote a song called Alice's Restaurant"
+  },
+  {
+    "start": 2242.4,
+    "duraction": 4.11,
+    "value": "and the main line in the song is you can"
+  },
+  {
+    "start": 2244.83,
+    "duraction": 2.7,
+    "value": "get anything you want at Alice's"
+  },
+  {
+    "start": 2246.51,
+    "duraction": 4.17,
+    "value": "Restaurant"
+  },
+  {
+    "start": 2247.53,
+    "duraction": 6.3,
+    "value": "so since the entire internet marketplace"
+  },
+  {
+    "start": 2250.68,
+    "duraction": 6.06,
+    "value": "is now available I went and got Alice's"
+  },
+  {
+    "start": 2253.83,
+    "duraction": 7.05,
+    "value": "Restaurant on ILO and also got all Marg"
+  },
+  {
+    "start": 2256.74,
+    "duraction": 5.46,
+    "value": "a Double L ma RT so that will all Mart"
+  },
+  {
+    "start": 2260.88,
+    "duraction": 2.88,
+    "value": "will probably be where most of our"
+  },
+  {
+    "start": 2262.2,
+    "duraction": 4.35,
+    "value": "marketing goes because it goes off the"
+  },
+  {
+    "start": 2263.76,
+    "duraction": 4.91,
+    "value": "tongue a little better and so look"
+  },
+  {
+    "start": 2266.55,
+    "duraction": 4.23,
+    "value": "forward to seeing you on all Mart and"
+  },
+  {
+    "start": 2268.67,
+    "duraction": 4.18,
+    "value": "the last thing I would leave you with"
+  },
+  {
+    "start": 2270.78,
+    "duraction": 4.08,
+    "value": "this think about what kind of posh"
+  },
+  {
+    "start": 2272.85,
+    "duraction": 4.62,
+    "value": "gourmet services you can provide to"
+  },
+  {
+    "start": 2274.86,
+    "duraction": 6.48,
+    "value": "people nouveau riche crypto you know"
+  },
+  {
+    "start": 2277.47,
+    "duraction": 5.97,
+    "value": "Wales that has never been provided by"
+  },
+  {
+    "start": 2281.34,
+    "duraction": 3.38,
+    "value": "anyone of anyone else anywhere but you"
+  },
+  {
+    "start": 2283.44,
+    "duraction": 3.35,
+    "value": "can create the demand"
+  },
+  {
+    "start": 2284.72,
+    "duraction": 4.2,
+    "value": "provide the service and get rich in tax"
+  },
+  {
+    "start": 2286.79,
+    "duraction": 3.51,
+    "value": "rate crypto doing it I wish I bought the"
+  },
+  {
+    "start": 2288.92,
+    "duraction": 3.51,
+    "value": "coin when I've heard about it the first"
+  },
+  {
+    "start": 2290.3,
+    "duraction": 4.26,
+    "value": "time I'd be with this case indeed so you"
+  },
+  {
+    "start": 2292.43,
+    "duraction": 4.02,
+    "value": "would be both for this man I was a sword"
+  },
+  {
+    "start": 2294.56,
+    "duraction": 3.69,
+    "value": "that wouldn't be working so long now man"
+  },
+  {
+    "start": 2296.45,
+    "duraction": 2.31,
+    "value": "all right thank you so much Bob thank"
+  },
+  {
+    "start": 2298.25,
+    "duraction": 3.95,
+    "value": "you"
+  },
+  {
+    "start": 2298.76,
+    "duraction": 3.44,
+    "value": "Cheers thanks folks"
+  },
+  {
+    "start": 2306.02,
+    "duraction": 2.06,
+    "value": "you"
+  },
+  {
+    "start": 2316.48,
+    "duraction": 2.06,
+    "value": "you"
+  }
+]

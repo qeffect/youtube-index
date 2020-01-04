@@ -1,0 +1,4714 @@
+{
+  "indexed": "_0GMW9eop3Q,_0k8gf2hqT8,_3Rl1KrDzlc,_9rpHbIpjdc,_c3-w-w0hd8,_gjH2umHAGw,_RmutDWSGgw,_xRwk1GDCtc,_xXAzbpQxCk,_Y32fnAp_mE,-_D0oq02HRY,-2V-Fidbe4Q,-fBcMRleHJs,-lj5lbMIt9w,-uo9Q6D8210,-WTkkUEgMpA,-wX2rOP6ktI,-x009HbyeMM,0DszWULPnJA,0kSVAa_BmU4,0Rg0lwnxdYA,0RnrwLJ2YB8,0UsEdqoi-uo,0v_9_7NQe7o,0ZQpgASg94o,12UHF03bxqg,12UIMLvh03M,14DEr87tKSc,14goSb7_h8k,188yfjWBsKM,1feiLSIDxzA,1G4XAByqwdc,1IBdXdpMtSQ,1KbA5wwl5iA,1mxwUYRqCLc,1qxksXmFHOw,1Sh9FkZ0Z_M,1WLIn7en9pQ,1ztx8JOWikU,21_5KACaBAA,246yVwb5diI,29I9Zl0qTFQ,2B6uuN4h5To,2B8vstdpb9Y,2hwzvqyTWk0,2kcXiFrNxu8,2KlWnWIW9es,2KpDBlqtvh4,2MJZ9NDs3EY,2nHvxV92Fo8,2NXqxp8mQmI,2Q3ooMM1qAA,2rguDK_EFjs,2VvxKYycSTA,2z1u4f9qxSk,3__6oQQBx4U,366ELkY8w8c,3anaRM4cxWc,3cNC-TuFKTM,3DT04vReamc,3hTjnoctYb8,3in8rDn_GiU,3iNDtYv3ogU,3inrKG1TPqA,3JpE_sVAXtI,3mBJwCIqEp4,3mZH_LNF6QM,3QHT8IoCibY,3QPQ-gJQDio,43l56zl36nA,46EzIkcqsf8,4aeInV5RoBU,4IELe4HKwW8,4krKjHMPsg4,4l3InNocQok,4L5tYESX97M,4pRyUnOoG4k,4QBY4MC9H4A,4reDYsbFjIA,4SVOSBqdzh4,4V_km03gzkc,4Vg0iy8-V8U,4wnZSd3XIrs,5A6dZwdwTxA,5aclmTHqG3Y,5dLvEB_CqP0,5FndfbwFaR4,5GkDWQBxE_Y,5i-ZMBE5r80,5LnqJOG082k,5msn1xthpVw,5OD8QdsbiDU,5teFvGwE9Ec,5tLVsNwlo4E,5ZV3UJmN3j4,5zwSaKW2qzA,6__xoin6aw8,639Gc3bX0Hs,68Bl7RbXS2A,6dPlpdME9bA,6gP2Zh2J4lU,6T7oPFcotQ8,6VOzbo_Xzcs,6vu4aiDJlLI,6ZRbp3qcQWw,77KCplrOQIs,77xVpKuEWnc,79lRgwEbfHQ,7BjNpnHLRlg,7dUatd4L2_I,7HkSIcIUJEI,7KyRGYh74yM,7nBOtseGsvM,7PPE5IfAS8Q,7uKOdZECGKo,84FDa13e5-g,85-ahemlFUU,85y3X4rQxA4,8BvPh2JcG1I,8fechd5G8bQ,8HN_fDiyxps,8Hn9sRON8JU,8IEQfBwVCnI,8pfDKYOa2YQ,8SIxFBeXF3A,8SJ8Si8dOik,8VlLxBGFQbo,9_UKSBXn7ko,9-Ct8QNd5l8,93Ilpb7IySY,94-23EfqkIo,96qHwT4UG7A,9aC20cRhA6A,9bmI1uHhg2Y,9CRaVe_WoRA,9DCeANHAmJk,9E6bhpqXb4Q,9GURyE2qHg0,9iLcGsHVzpM,9IoPnmjsOQg,9IYh49I9vLI,9kWhckKtLyw,9lRA4hj5-zs,9O8VPOd3Dsw,9ObMFi6ReKE,9PqmG_y1mEA,9Rsj2RvPQQY,9v8K97nYOmc,9YpbXzuAYao,A3CcapXxDBc,A3UCbl5D6xw,A4K1C-k9Soo,AaEkl-of76c,aAjl5E-9Xwc,aauT5183_Y0,ABKGKVoSAZs,Ae8VPPrDP3I,aeg4hpZ9Ozw,afbpVahE8m0,AGcXhMgEl-g,AGvin09PnlY,Ai_hTzDSyO0,aiSN2yWRXMk,AJPTbrTUYxI,AKx3yG4zhNQ,altHQp6NMoA,aMjfmqYp1k0,aMU1r-XXIe0,ANNU2PD-HFo,ApxADBQ8v3A,AQn0A4aVW6E,aRH_VcgxE-M,aRk2tCY5P6A,AT7BqWZWWag,ATycYftkD9M,avWKx_cmjpk,aww13Cq9r7Q,ayRMg-VLpmE,aZ_1pPcUgFk,aZ9ow4ZlnfI,AzTWh1-xt14,b-LpBCpFIU0,b0pHnjCKYzI,b1BuM4rDtj4,b2o6RTKxh4I,BBOhxkAxLis,bBQITwVQ2c4,BcVYQ8Qb8WE,bcxBqQ7PMew,BEnGqcIKQBI,BFqiftOTLL8,BFxZRHPz1QI,BgKgV7LyEIo,bJpGmwu9-k4,BjZ3EmeaX5k,bKA-qsz0fsU,BKrYqZUyOIQ,BLbmipYjHR4,BMvOvzcBOq0,BnmAkjBYrZ8,BoMEoJRDgcU,BRRHTfNJMg4,bTO8-X3R_0g,BufAWX9OL9M,bWCu3V4E0Cw,BX0vhcv_pRQ,BYme9spNF9A,BZ6g4cgOQIo,c2JtJ3aEJI4,c3uk_PM4FTU,C52GieN9zdM,c8x6_3FTcmk,Ce_6croEF8c,CeUgCB6lb8Q,cfD7Ifh578E,CFDn-VKYsC0,cjcQ6t4JMXs,CLxo7YDcLzk,Coqn8CHu1cM,CpCLI8mo6T8,cppd4rNaGCY,cQbGXIlAVTM,cRLq7aAC-XI,Ct4sQbD2Dj0,CUobzPBIPYs,CVPDq78OM50,CxlcQbMPATY,CYMHBldnHH4,cZWsTRVduts,d_GwGYmK26Y,d1MKZw4vHEw,d352Nhkd02g,d8l0y2XLq3Q,d9HpahnSk3g,ddO9VroAjuU,DeiOBs9WCFY,dfzrdTb1zZE,dgJVXPaHqP8,dI75N0o_5DI,DJhwFGJhk5k,dLlF7sxrUCQ,DOO7fNIwpYY,dPmQytHJFIs,dS2qkAQ33Xw,Dt0bn771sGA,dTiW7GUvpiE,DTJrCcpKAsE,DWyqBff8MD0,dxXweiDpFuI,dzvqryS1tvM,DZyPZzqwvsA,E0C2qvYK31I,E0IZHA3G3Ig,e4MakjQr6wQ,e5nUedXajQI,E930zZVMjyY,EEnVvVzaBCo,ehplL8V_3rs,ehRpPBA6HgM,ejJhYz7wFwo,ek_MgNKuQKg,EKeXTDJ61eQ,EL6vqvpcreQ,Erfp78sCx3E,etzYB5Acisw,ex1IEZ3gULY,EXbJ0oQART8,eYGFc99WbHU,EyLK_rCRmPI,EzqNatWuS6Y,f4qBTki5iH4,F5FobXrvY3E,f7YHUbjdCzM,FB4dExVms7s,fB7BASL5g54,fbpZlOeQiAM,fbY83L61Kd0,fchREWrn0vY,FDbXuhcLWtU,Ff4fEQVTpSs,FHBsONoVnq0,fhyBcxyxbVI,Fk16jEhiBrQ,fLuLK72GwyA,FLYTjpU15No,ft2oJSlNPtQ,fU5hFfGsdjM,FWZHVOZ4ggQ,g_-JsMSaCdA,g_4yojz2mAs,g-KHTYSFJXA,G0xwAccaQ0A,G2aQUZYgTL4,G5Xu8M-uc60,G6rtL2LbzqA,g8XCMFkFyjY,gAHVZF__So4,GcJnkA-FE1M,Gd0BSKLLqsc,Gf0trv-9tvc,gHZMOupPYsg,GHzp1M24Fsw,gJcJ38T8oNM,GjQpoYm971o,gMSJoVkQZWw,gnDVjDTXE0k,GNedUPBOSqs,Gnmbc4G0dmg,GRBDH_i0FB4,GU2lVhxS9vY,gya_mSZwAl0,GYcdeNuBthM,GYRgczPNxJI,h17tF0Xii1c,h1BC7XmZr8I,h7CqHL04D-Y,HCCtVyqBoRE,HF1kNM1SZWw,hfX559mxFQo,HGHg7Nt2WVo,HiDyMOUhdZY,hIG3MjKRzBE,HjH_ZCvf3_g,hKbE7MG3OIA,HkJj6tZtzKg,hKSHNiPdaQU,hNazips7-k8,HoHfevtIV2w,hQcYnde_RDA,HTETmsKXnkE,hxMqBVB9oIU,i7CsAm6pTpE,i7hxZGH9fCY,iaA6l7wVsGE,IC9FN_fY2go,If2rCEuFeNY,ijaW9oSwCw8,im06ZuqowDk,Ima-kdh9Zo0,IMvbHX-XxMs,iQHR1-6RKGY,iry3kHF_jvI,is45doBHO4k,IubAKIW7LW8,IuGCv6BE808,ivzGKZFp8M8,IyRWVFXn45A,IZLsNynu6Ns,j0aA2J_kFkc,J296P7VE5p8,J2spK-T9ev0,j4__e_WelW0,j598EAg5zdI,J6zapuerlJk,J7b6SPEd0FA,j8A3-iLoEOI,J8tQL-J1p-4,jCLp7eJwIrE,JEKeMGgqEFA,jIf63gDirvc,JkdHKdiTXAM,jnUP8mEuPqc,jO3DSz6VU10,JP_9kWACn3U,jPdBNzia1bQ,JqB96gXQCHs,Jqmk-9gfMoc,jr_aTXakEwk,jSkzvaEVGyw,Jw000N2NVzY,JXObjjcM37E,k1e3a3x0VHE,k2pfkR9ey1o,k3a7JrqCGxM,k5J7_AWQvec,K68zHw0_xp8,K6D4AseiyvA,K6X_A5nDkn8,k7HZG6YnFww,Ka58QhPEBs0,kbsHKl1F3PI,kGrIdTasjN0,KhBpRt0R9-8,kMvmpeySbAk,kmwVSMKdhaU,kmxEhecyMN8,Ko4YrWusYB0,kPNmP4e9jfA,KQYQ6-hMOjY,KsFcbtIB9IQ,kv41joeMcM4,KVAsKc8v5t8,KVvB35XeEig,kZgInLvnTxE,kZSTJv4Hxk0,L_xCuCDisLM,L1AVZd4DsQc,L2Az5A7kcP8,L3Ij2cvGFkY,l6iCUxTXOBw,L6uSGv164Xw,L8KfIdZMszk,l8r-U_GKKPw,l8TEy3DabHA,LBYjX-YKi3A,LcYUTlXa9LA,LDbkkYUWvpA,Lioi0r8CebQ,LIwSMMqCTfU,ljBQV9kO_48,LniEKTpx8Qo,LPcjU1iEMa8,LrIY2UK10UA,lRMkZVPheVA,LTZqQj0xixg,lxUADz6sO24,M-MA0geeqcs,m-ODejCbNWA,m2iCTKjwGZY,M2SBwEaGWjA,m5TtiXCF06Y,m9zakT_UDY4,MbhDYscAAN8,MBmjx6pEVyM,mBU8ggNgS8s,mCG61ZXjwgM,mDGN4mIrYTs,mdj-e3WW1Bo,mDVvkqXidds,mh_UlTxOQQ8,MHhA6kW_K1g,mi6oOSOcu8U,mIMeh-79eFQ,mJWjRqEjk1U,MKMicgqhopw,mkzUXQCz7g0,Mm6WkdjRwXE,Mm8has8rJ6Q,MMiesWjJy3k,ModN7UGbEc4,mOIXtYBUHzE,mpo_IhTE430,mqjohU4wchw,MQkqD0MhKnY,mQmoOcT31Ro,msr6oM0RLew,Mt8NfLhd-bQ,MU2Rcx_7eK0,mU9euZ7sEes,MUy19aL4UNs,MvFElFTEyAo,N_LPPAZ6a5k,n2RdX0ydluc,n5D-l-3F7ik,N5YALJhloAc,nb48sfxaBzA,Nb9AndSj88I,NC02quLtRsA,NC8ofbJYmgQ,NcQDwCqQeO0,nDIenS-L7Qc,NgbBiTBNx_E,NjWZnzfy4Bk,No3ER-UeVEw,no6rrhl9HP4,NPnxrTpCpnw,NQNDDUtnzYk,nRaCGIerr6g,nspGMcDjCKM,ntdGh-KbrDw,NV7heJFREsE,NVweq5WqxQs,Nw0SUu18OzY,NwWi8UclL4k,Nyz8AZ4IvdA,Nz6lrDmtUxk,O_aacfmu4kk,O52v4nUvluw,O5EtoXjZNus,o6KJkaLISn8,o6YcBl2u0n0,o8Akan5GihI,oC62RUXGAeo,ocx0eQ3IYGc,ofmaPjLqKpY,oGgzXrlF0m4,OhcEdpoDPxQ,OipmgYEOOj8,OJj7uOy38hI,OjodkECxTFE,oJslPIbYry4,ojSvumv3RDc,OKRqb03TEUs,okuxViVbyTs,OLDsP1BrbDU,Olfa4vMMDEk,OQCgaoqYPDQ,ornHtBUFohc,OsoQu546x8g,oStMB-W5ovI,Ou8IoZrbRFY,OVGfiwkKdqY,OWfrBrQlhkk,oXoEIlNO77U,oXoo6eYsZ3o,OY0Jqc3-hV0,P2YYC5MMzFc,p4Wc6Zs3qQM,p5s61jAYDzE,PbcQo398070,pbi5dRCB2cA,pDkUn-isAGk,pdW4LVkaiYA,peHd3IOjylg,Pepkc8bM3uo,PfDbmwtawNg,PfZh-XLbE_I,Pi-FHomqwtE,PIHmedWFDBI,piPPWEVM7BI,Pk6jznEcP4U,PMt56AI7XrI,PN8oDcxVDKU,pOgq_axpn1k,PRGJZtCTLVA,pRriJNgzrcs,pUZDbK0a1R4,PwfwMH9cRP0,q0d0OkpV5gs,q1LXh9jQU38,Q23RnpfTgiE,q2tI5JrJKzE,q40i492ZGUU,Q5xDDuhudtU,Q8C-i61AH9Q,q8N3XgSDddU,qaB9Xgr-K-U,qaeEK1ydKHQ,qb8eND6_eH8,qbNEx7wfmRw,qCVOU264zOY,qeyblMlgmf4,QFxy7aHGQAk,QgdmFUaMaTg,QHMQrxZEG0A,Qi1p1ciC6ig,QJ87Y3IHM0E,qJZUzPJM_8o,QlB-DTGsxA4,qnSzR1wZFJw,qQCLQxxZ-JQ,qSIbJjKcNfg,QuIScPQ4-HI,QwJVJTZy7_I,QWt5r7p1prc,R0kUC-zTi_w,R1LjmP8-04A,r509r1pO2R0,r6wUIvkTfA0,RaMEtW-jj3Y,RBg7ln8YvZs,rCig3kho2SM,RDi6epw_6q8,RhIjc2y2tAk,rhU9LM5NMjw,rKsfEM1BgDc,RQ0Vxa8t2lE,RqvIfoLVDOk,RU7GoALMyfc,rvKeEwBBpVI,rWFJYGKR8Q0,rwgpNw7-Z2o,RWoC617ICiE,rWUwM3PSctc,RWwMA7NgHPw,rygv-W2nBMQ,S6nzPrp1znE,s7WQRQMZHpg,sbQRdt546xk,sCpKR0JfQYg,SCrkA-IU-MA,SCYQEWuPQ5k,shbkSBhJ2I0,SIa7IJeIZTs,sj2d6MMMHe8,Smgbk6_u95o,SMJH9hOBoHs,sNJWA5xXzJ4,SnZ6S3mRxL4,Sp4RLy_qYKg,sqjMUSm7P7g,Sr-bsrd1__k,sRO9eUbKbHk,STeFcjPilJQ,stXbBirLOa4,SuFrbJ6SU-o,svsHMcqSxo0,t1tZokS2EvY,t5_FT2IuuU4,t6E_0ndD_uc,t6Lt13vIedE,ta_w9snGNto,tA5qx4py3vk,Tcnt9LQ9ghs,TcTxPlJydUY,tHP9ltlAus8,TiTXAXiDfUc,tIWPr_DcdIo,tjMfQ3p3laE,Tnrn3L8FY0I,tPO2SMpryYw,TQscIaCFOkI,TQZvMICk0VY,tsbPU6Db2kY,TsPRXxIwYko,tvC2gQ4AczY,TvVR9BnYdcM,TwLUyzhOLOg,tYyiFa4vM6U,tyzocNwNQKM,u_GGjeSvYec,U008Q4Nl6Pw,u4vS2DaqFLc,U7kcy4JVL-A,u87rX2092og,UAHuVEBXel4,ubHkJ2JOyYc,udBq5d5QJu4,UDz1OZ08WdM,ufbriRv6ttg,ujGzJFLXyyU,ulqxOJMqlbE,uM3wMO8soPk,UnaCSOYEHJY,uNbF9eE8iQo,uPZH86T-gbU,UqoqSIhUkis,uUHrITp2OII,Uv9kdzginz4,UYZK6SLUDac,uznBzdoryQE,v__k4yoGtr0,v1EVuUPy0TM,V5UBaiLKTJ8,v7n8XMG6_lU,VAb-q4zZZ84,vdBH5hXgTx0,VDegR-PmnPY,VDiIHvrYiP4,VDNvoDprdXw,VdW3BTCrFyk,VEPn4Jpriag,vH2LP87XOhM,vhEhHA1_lYc,VifwNccVoaI,VIVQ8DSeXA0,vK8vS2FLi_8,VkklwV-XWV8,vLkThiVu-7w,VLODkOCKOTQ,Vm1M-wrzD30,vNBvyX0c2GU,VncJ0_vEoR0,VNKopA1AWqc,vNoLVvWSsyo,vo2k76mYB48,VOiG-bND5gw,vOxfriLzg30,vPi9nxUXeXY,vpPs1VYeYq4,VqfhBji9KRg,VSa_TIkV6lE,VU5aarfEf-k,vvIB5CzHtRk,W2YIfMkkfwk,w3TsReVTDJg,w7usO3iDt_o,W9zaoEqRVZA,WAHJQb4hEOc,wENuaVviKSo,wGKkvAU6BXM,wgltyCeZ9pk,WGM4fqCVAQg,wgx-dnhKrBU,WhXBxkP9xE4,WJ_m4kinM7w,wLKBFYSG524,wp-A4Xc_aLU,WQ505PlHjnA,ws0Sia6taoM,Ws3y42YOuCI,wwoXSecjUy0,WxIbdhY0A54,X1Ei27wYEkk,X28tURO5Cq0,X3Sqj3g_n6c,X4jATK5wBgU,X6DgdzLcbTc,x8rM1oZB8U8,XBbVIwgeD2g,xBjg0GydtgY,XD8UWjkcE1s,xDMceMQCI_I,xe9N5iVspPY,Xfgb4YaqMT0,xfoQHcU3MyI,XfSHGaDZbBk,XISLjXeWUwk,XLzGCZkYvIc,Xna5SsHOcUo,xot9iXQ-zBA,XpBu8gmssPY,XqmwL0TTfo0,xsFay-hybec,xsO-xNEhoBI,xSQvQDtzB6U,xTJgKGF--OQ,xwOcpq9TqpE,XXd8q4BfcYQ,xYBSsLGzMlc,Y0exfyEXpfI,Y88ecV_X87E,YACpICjPygE,YAHylAzN21o,YAZ0b3JyML8,yc4umVzljCM,YDbwkcXJXRo,ygVJlwArt0A,YiKnAv4Iw2I,YJiMBvqbCwc,ykP7QXaZp9M,YkrFx8fhafI,YLlsruYA4pk,YlYxp4VTDgw,YnYkBcT-rnY,yQrUOHG8e2k,YSoJN2dPoZw,YSq6X6aQhd0,yuNxrYT4t58,ywlM82gfvbk,yWZgvfLs_ss,yzJ3vadEb_0,YZniSg3z3Iw,z1mRlnZbCF0,Z3cDEAKbMyA,Z5r4RVFd2a8,z5T_1jyN5f8,z7iJ5zZ0cLY,Za2u9FkqiaU,zB8nIspKlco,Zdnvu5QIjXE,ZEn6pbfoNlo,Zfa1UNNaPxc,ZGLLyMlvoUY,zJoO_HiEUno,ZkwW4xznOmQ,zlajBZP3nH0,ZnPojroUsrU,ZOUO80Q44B4,zozvEuKPdKs,ZTV18-GhqyU,Zu2ITGywrmU,zu3muQumFyI,zUQ1UARkl24,ZZJ6BNKXcTw,q_QmpI9cyRY,zy611VHFFwU",
+  "topic": "Deep state",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_0GMW9eop3Q",
+      "segments": [
+        {
+          "text": "the *deep* *state* to stay in power and they",
+          "location": 374
+        },
+        {
+          "text": "the globalist cabal and their *deep* *state*",
+          "location": 1234
+        }
+      ]
+    },
+    {
+      "id": "_RmutDWSGgw",
+      "segments": [
+        {
+          "text": "for is the *deep* *state* the bent main",
+          "location": 952
+        },
+        {
+          "text": "remember the *deep* *state* is a bunch of",
+          "location": 958
+        }
+      ]
+    },
+    {
+      "id": "_xRwk1GDCtc",
+      "segments": [
+        {
+          "text": "part of the *deep* *state* who were a part",
+          "location": 172
+        },
+        {
+          "text": "have been harmed or killed by the *deep*",
+          "location": 222
+        },
+        {
+          "text": "*state* globalist luciferian pedophiles",
+          "location": 224
+        },
+        {
+          "text": "he was obviously a *deep* *deep* *state*",
+          "location": 2259
+        }
+      ]
+    },
+    {
+      "id": "_Y32fnAp_mE",
+      "segments": [
+        {
+          "text": "to the *deep* *state* love letters from john",
+          "location": 18
+        },
+        {
+          "text": "government and *deep* *state* and he has",
+          "location": 715
+        }
+      ]
+    },
+    {
+      "id": "-2V-Fidbe4Q",
+      "segments": [
+        {
+          "text": "editorial in the *deep* *state* corruption",
+          "location": 63
+        },
+        {
+          "text": "*deep* *state* gift take the reigns of the",
+          "location": 74
+        },
+        {
+          "text": "was put together by those in the *deep*",
+          "location": 168
+        },
+        {
+          "text": "*state* trying to basically use this phony",
+          "location": 175
+        },
+        {
+          "text": "reporters are influenced by the *deep*",
+          "location": 331
+        },
+        {
+          "text": "*state* and if you don't watch that go",
+          "location": 333
+        }
+      ]
+    },
+    {
+      "id": "0DszWULPnJA",
+      "segments": [
+        {
+          "text": "book called trump's enemies how the *deep*",
+          "location": 748
+        },
+        {
+          "text": "*state* is undermining the presidency and",
+          "location": 749
+        },
+        {
+          "text": "trump what they call the term the *deep*",
+          "location": 811
+        },
+        {
+          "text": "*state* now i love the writers a little",
+          "location": 814
+        },
+        {
+          "text": "backing the *deep* *state* with with the cia",
+          "location": 1412
+        }
+      ]
+    },
+    {
+      "id": "0UsEdqoi-uo",
+      "segments": [
+        {
+          "text": "*deep* *state* knew this was happening i",
+          "location": 472
+        },
+        {
+          "text": "*deep* *state* has the ability to twist the",
+          "location": 562
+        },
+        {
+          "text": "and the *deep* *state* going after him mr.",
+          "location": 670
+        }
+      ]
+    },
+    {
+      "id": "0ZQpgASg94o",
+      "segments": [
+        {
+          "text": "implications because the *deep* *state*",
+          "location": 678
+        },
+        {
+          "text": "have their little *deep* *state* connections",
+          "location": 1480
+        },
+        {
+          "text": "approves so much it proves that the *deep*",
+          "location": 1772
+        },
+        {
+          "text": "*state* was working with the obama",
+          "location": 1775
+        },
+        {
+          "text": "the *deep* *state* what was alleged in this",
+          "location": 2242
+        }
+      ]
+    },
+    {
+      "id": "12UIMLvh03M",
+      "segments": [
+        {
+          "text": "inside the *deep* *state* from congress and",
+          "location": 515
+        }
+      ]
+    },
+    {
+      "id": "14goSb7_h8k",
+      "segments": [
+        {
+          "text": "the *deep* *state* traders who have",
+          "location": 671
+        }
+      ]
+    },
+    {
+      "id": "1qxksXmFHOw",
+      "segments": [
+        {
+          "text": "for the *deep* *state* to propagandize",
+          "location": 313
+        },
+        {
+          "text": "was part of the *deep* *state* allegedly he",
+          "location": 350
+        },
+        {
+          "text": "attorney general still if he was *deep*",
+          "location": 1279
+        },
+        {
+          "text": "*state* critical thinking dismisses",
+          "location": 1281
+        },
+        {
+          "text": "activities going on inside the *deep*",
+          "location": 1382
+        },
+        {
+          "text": "*state* government so from what i've heard",
+          "location": 1384
+        }
+      ]
+    },
+    {
+      "id": "1Sh9FkZ0Z_M",
+      "segments": [
+        {
+          "text": "the *deep* *state* i think we're both in",
+          "location": 1484
+        }
+      ]
+    },
+    {
+      "id": "2Q3ooMM1qAA",
+      "segments": [
+        {
+          "text": "each *state* back bang so we may be",
+          "location": 93
+        },
+        {
+          "text": "helping them well this is the *deep* *state*",
+          "location": 96
+        },
+        {
+          "text": "to the *deep* *state* in the far-left",
+          "location": 384
+        },
+        {
+          "text": "relations which is really a *deep* *state*",
+          "location": 403
+        },
+        {
+          "text": "saying that this is part of a *deep* *state*",
+          "location": 895
+        },
+        {
+          "text": "*deep* *state* death hurdle going towards be",
+          "location": 1369
+        }
+      ]
+    },
+    {
+      "id": "3cNC-TuFKTM",
+      "segments": [
+        {
+          "text": "system despite warnings from the *deep*",
+          "location": 1171
+        },
+        {
+          "text": "*state* department security officials and",
+          "location": 1173
+        }
+      ]
+    },
+    {
+      "id": "3hTjnoctYb8",
+      "segments": [
+        {
+          "text": "*deep* *state* globalists who are trying to",
+          "location": 32
+        },
+        {
+          "text": "tap into our *deep*-sea fiber optic",
+          "location": 35
+        },
+        {
+          "text": "have a *deep* *state* including russia what",
+          "location": 436
+        },
+        {
+          "text": "putin's orders what if in fact the *deep*",
+          "location": 446
+        },
+        {
+          "text": "*state* attempted an operation on its own",
+          "location": 449
+        },
+        {
+          "text": "*deep* *state* global cabal has no access to",
+          "location": 457
+        },
+        {
+          "text": "crew as *deep* *state* operatives trump",
+          "location": 589
+        },
+        {
+          "text": "the *deep* *state* seems in my humble",
+          "location": 604
+        },
+        {
+          "text": "*deep* *state* mission and damage control as",
+          "location": 692
+        },
+        {
+          "text": "this *deep* *state* operation was going down",
+          "location": 737
+        },
+        {
+          "text": "cover story *deep* *state* is now absolutely",
+          "location": 784
+        }
+      ]
+    },
+    {
+      "id": "3in8rDn_GiU",
+      "segments": [
+        {
+          "text": "for your *deep* *state* to spy on our",
+          "location": 906
+        }
+      ]
+    },
+    {
+      "id": "3mBJwCIqEp4",
+      "segments": [
+        {
+          "text": "because it's a democrat *deep* *state*",
+          "location": 319
+        }
+      ]
+    },
+    {
+      "id": "46EzIkcqsf8",
+      "segments": [
+        {
+          "text": "to the *deep* *state* somehow connected to",
+          "location": 1005
+        }
+      ]
+    },
+    {
+      "id": "4IELe4HKwW8",
+      "segments": [
+        {
+          "text": "telling on all of his little *deep* *state*",
+          "location": 680
+        }
+      ]
+    },
+    {
+      "id": "4l3InNocQok",
+      "segments": [
+        {
+          "text": "factions tied to the *deep* *state* that",
+          "location": 600
+        },
+        {
+          "text": "of the *deep* *state* that exists within the",
+          "location": 775
+        },
+        {
+          "text": "different parts of the *deep* *state*",
+          "location": 1580
+        }
+      ]
+    },
+    {
+      "id": "4reDYsbFjIA",
+      "segments": [
+        {
+          "text": "the *deep* *state* and the way that i'm",
+          "location": 1168
+        },
+        {
+          "text": "asset of the *deep* *state* and i'm exposing",
+          "location": 1175
+        }
+      ]
+    },
+    {
+      "id": "4SVOSBqdzh4",
+      "segments": [
+        {
+          "text": "*deep* *state* he's a part of those who have",
+          "location": 129
+        }
+      ]
+    },
+    {
+      "id": "5dLvEB_CqP0",
+      "segments": [
+        {
+          "text": "chinese in conjunction with *deep* *state*",
+          "location": 420
+        },
+        {
+          "text": "there who made deals with the *deep* *state*",
+          "location": 781
+        },
+        {
+          "text": "*deep* *state* that will be returning soon",
+          "location": 834
+        }
+      ]
+    },
+    {
+      "id": "5msn1xthpVw",
+      "segments": [
+        {
+          "text": "*deep* *state* operatives trying to start a",
+          "location": 843
+        }
+      ]
+    },
+    {
+      "id": "5OD8QdsbiDU",
+      "segments": [
+        {
+          "text": "theories about seven b and *deep* d s i",
+          "location": 212
+        },
+        {
+          "text": "don't know if d s is referring to *deep*",
+          "location": 215
+        },
+        {
+          "text": "*state* possibly and seven b might be a",
+          "location": 217
+        }
+      ]
+    },
+    {
+      "id": "5teFvGwE9Ec",
+      "segments": [
+        {
+          "text": "surveillance of this corrupt *deep* *state*",
+          "location": 936
+        },
+        {
+          "text": "say they i mean the left *deep* *state*",
+          "location": 1445
+        },
+        {
+          "text": "through the *deep* *state* so i mean look",
+          "location": 1503
+        }
+      ]
+    },
+    {
+      "id": "6__xoin6aw8",
+      "segments": [
+        {
+          "text": "*deep* *state* obama plant leftovers who",
+          "location": 1198
+        }
+      ]
+    },
+    {
+      "id": "639Gc3bX0Hs",
+      "segments": [
+        {
+          "text": "attacking trump they're the *deep* state's",
+          "location": 181
+        },
+        {
+          "text": "*deep* *state* intelligence communities so",
+          "location": 189
+        },
+        {
+          "text": "we're very proud of you here at the *deep*",
+          "location": 372
+        },
+        {
+          "text": "*state* fbi where we can are basically",
+          "location": 375
+        }
+      ]
+    },
+    {
+      "id": "68Bl7RbXS2A",
+      "segments": [
+        {
+          "text": "they were obviously *deep* *state* hardcore",
+          "location": 139
+        },
+        {
+          "text": "the scenes with the *deep* *state* brennen",
+          "location": 651
+        },
+        {
+          "text": "they're gonna roll over on their *deep*",
+          "location": 676
+        },
+        {
+          "text": "*state* courts and it's going to be",
+          "location": 678
+        }
+      ]
+    },
+    {
+      "id": "6VOzbo_Xzcs",
+      "segments": [
+        {
+          "text": "*deep* *state* unelected *deep* *state* tried to",
+          "location": 568
+        },
+        {
+          "text": "what's new about that just another *deep*",
+          "location": 1428
+        },
+        {
+          "text": "*state* obama holdover spy",
+          "location": 1430
+        }
+      ]
+    },
+    {
+      "id": "6vu4aiDJlLI",
+      "segments": [
+        {
+          "text": "in the atf who were involved in *deep*",
+          "location": 397
+        },
+        {
+          "text": "*state* operations were bragging to him",
+          "location": 402
+        },
+        {
+          "text": "this *deep* *state* and that they were",
+          "location": 440
+        },
+        {
+          "text": "the democrat competing *deep* *state*",
+          "location": 997
+        }
+      ]
+    },
+    {
+      "id": "77KCplrOQIs",
+      "segments": [
+        {
+          "text": "can't say that everybody in the *deep*",
+          "location": 558
+        },
+        {
+          "text": "*state* or all these people are bad people",
+          "location": 559
+        }
+      ]
+    },
+    {
+      "id": "79lRgwEbfHQ",
+      "segments": [
+        {
+          "text": "tool of the *deep* *state* to basically",
+          "location": 1244
+        }
+      ]
+    },
+    {
+      "id": "7BjNpnHLRlg",
+      "segments": [
+        {
+          "text": "maybe there's some *deep* *state* influence",
+          "location": 356
+        },
+        {
+          "text": "brand other *deep* *state* actors that were",
+          "location": 740
+        }
+      ]
+    },
+    {
+      "id": "7dUatd4L2_I",
+      "segments": [
+        {
+          "text": "necessarily *deep* *state* or anything like",
+          "location": 864
+        }
+      ]
+    },
+    {
+      "id": "7PPE5IfAS8Q",
+      "segments": [
+        {
+          "text": "israel's got a *deep* *state* just like the",
+          "location": 104
+        },
+        {
+          "text": "that's being enacted by a bunch of *deep*",
+          "location": 361
+        },
+        {
+          "text": "*state* cowards who are trying to take",
+          "location": 363
+        },
+        {
+          "text": "has a *deep* *state* has factions inside of",
+          "location": 1041
+        },
+        {
+          "text": "is bad just because we have a *deep* *state*",
+          "location": 1082
+        },
+        {
+          "text": "a *deep* *state* we talk about people like",
+          "location": 1354
+        },
+        {
+          "text": "is there's a *deep* *state* i'm not saying",
+          "location": 1473
+        },
+        {
+          "text": "*deep* *state* they're just like we have",
+          "location": 1477
+        }
+      ]
+    },
+    {
+      "id": "84FDa13e5-g",
+      "segments": [
+        {
+          "text": "reality is you have a bunch of *deep*",
+          "location": 339
+        },
+        {
+          "text": "*state* criminals right unelected",
+          "location": 341
+        },
+        {
+          "text": "the *deep* *state* and that means that they",
+          "location": 372
+        },
+        {
+          "text": "liberal lefty obviously part of the *deep*",
+          "location": 687
+        },
+        {
+          "text": "*state* complex going on national tv and",
+          "location": 691
+        },
+        {
+          "text": "and you know all these *deep* *state* actors",
+          "location": 816
+        }
+      ]
+    },
+    {
+      "id": "8Hn9sRON8JU",
+      "segments": [
+        {
+          "text": "message like to all the *deep* *state* obama",
+          "location": 1473
+        }
+      ]
+    },
+    {
+      "id": "8pfDKYOa2YQ",
+      "segments": [
+        {
+          "text": "was secret but wasn't to his little *deep*",
+          "location": 943
+        },
+        {
+          "text": "*state* compadres was that they were",
+          "location": 946
+        },
+        {
+          "text": "corrupt *deep* *state* officials that's",
+          "location": 1996
+        },
+        {
+          "text": "problem is with the *deep* *state* and the",
+          "location": 2228
+        },
+        {
+          "text": "memorandum the *deep* *state* excuse me the",
+          "location": 2490
+        }
+      ]
+    },
+    {
+      "id": "8SJ8Si8dOik",
+      "segments": [
+        {
+          "text": "acting on behalf of the *deep* *state*",
+          "location": 325
+        },
+        {
+          "text": "some *deep* *state* trick they've been doing",
+          "location": 680
+        }
+      ]
+    },
+    {
+      "id": "8VlLxBGFQbo",
+      "segments": [
+        {
+          "text": "well played *deep* *state* please allow us",
+          "location": 866
+        },
+        {
+          "text": "from q here saying well played *deep*",
+          "location": 872
+        },
+        {
+          "text": "*state* like oh you got us now everybody's",
+          "location": 874
+        }
+      ]
+    },
+    {
+      "id": "9-Ct8QNd5l8",
+      "segments": [
+        {
+          "text": "in evidence needed to expose *deep* *state*",
+          "location": 531
+        },
+        {
+          "text": "needed to expose the *deep* *state*",
+          "location": 724
+        }
+      ]
+    },
+    {
+      "id": "9DCeANHAmJk",
+      "segments": [
+        {
+          "text": "he appease the *deep* *state* so it didn't",
+          "location": 388
+        },
+        {
+          "text": "what's been going on with the *deep* *state*",
+          "location": 812
+        },
+        {
+          "text": "to say that i'm endorsing that the *deep*",
+          "location": 827
+        },
+        {
+          "text": "*state* redacting information and hiding",
+          "location": 830
+        }
+      ]
+    },
+    {
+      "id": "9GURyE2qHg0",
+      "segments": [
+        {
+          "text": "government's falling apart they're *deep*",
+          "location": 607
+        },
+        {
+          "text": "*state* infiltrations falling apart",
+          "location": 609
+        },
+        {
+          "text": "from the globalist *deep* *state* to trump",
+          "location": 832
+        },
+        {
+          "text": "but obviously the *deep* *state* has it",
+          "location": 887
+        },
+        {
+          "text": "and they are *deep* *state* ran this is",
+          "location": 891
+        },
+        {
+          "text": "group funding much of the *deep* *state*",
+          "location": 1001
+        },
+        {
+          "text": "on the lesson and *deep* *state* actors even",
+          "location": 1066
+        },
+        {
+          "text": "and r&r unfortunately in our *deep* *state*",
+          "location": 1203
+        },
+        {
+          "text": "just operator this was a *deep* *state*",
+          "location": 1229
+        },
+        {
+          "text": "there's a *deep* *state* operation operation",
+          "location": 1457
+        },
+        {
+          "text": "part of the *deep* *state* operation are",
+          "location": 1462
+        }
+      ]
+    },
+    {
+      "id": "9iLcGsHVzpM",
+      "segments": [
+        {
+          "text": "everybody in the *deep* *state* or all these",
+          "location": 536
+        }
+      ]
+    },
+    {
+      "id": "9IYh49I9vLI",
+      "segments": [
+        {
+          "text": "talking about how the *deep* *state* cabal",
+          "location": 55
+        }
+      ]
+    },
+    {
+      "id": "9lRA4hj5-zs",
+      "segments": [
+        {
+          "text": "by the *deep* *state* and obama's fbi to",
+          "location": 66
+        },
+        {
+          "text": "contention for the *deep* *state* and",
+          "location": 557
+        },
+        {
+          "text": "against *deep* *state* look ludicrous in the",
+          "location": 1563
+        },
+        {
+          "text": "malfeasance of the *deep* *state* and their",
+          "location": 1581
+        },
+        {
+          "text": "about exposing the *deep* *state* so and you",
+          "location": 1692
+        },
+        {
+          "text": "these *deep* *state* global elitists people",
+          "location": 1789
+        }
+      ]
+    },
+    {
+      "id": "9O8VPOd3Dsw",
+      "segments": [
+        {
+          "text": "collusion okay but the the *deep* *state*",
+          "location": 258
+        },
+        {
+          "text": "and the *deep* *state* in corruption well i",
+          "location": 309
+        },
+        {
+          "text": "just written in killing the *deep* *state*",
+          "location": 971
+        }
+      ]
+    },
+    {
+      "id": "9PqmG_y1mEA",
+      "segments": [
+        {
+          "text": "*deep* *state* operatives weaponizing their",
+          "location": 244
+        },
+        {
+          "text": "that these *deep* *state* operatives are",
+          "location": 1329
+        }
+      ]
+    },
+    {
+      "id": "9v8K97nYOmc",
+      "segments": [
+        {
+          "text": "obama loyalists and *deep* *state* actors",
+          "location": 1114
+        }
+      ]
+    },
+    {
+      "id": "A3UCbl5D6xw",
+      "segments": [
+        {
+          "text": "the *deep* *state* in their fraud and",
+          "location": 46
+        },
+        {
+          "text": "between president trump and the *deep*",
+          "location": 139
+        },
+        {
+          "text": "*state* it's growing ever more and more",
+          "location": 141
+        },
+        {
+          "text": "everyone to make the *deep* *state* what it",
+          "location": 263
+        },
+        {
+          "text": "unaccountable *deep* *state* minions who are",
+          "location": 360
+        },
+        {
+          "text": "*deep* *state* criminals and that's what",
+          "location": 677
+        },
+        {
+          "text": "president trump is going after the *deep*",
+          "location": 721
+        },
+        {
+          "text": "*state* that speech that you saw president",
+          "location": 724
+        },
+        {
+          "text": "globalist *deep* *state* hacks who have",
+          "location": 738
+        },
+        {
+          "text": "as to why the *deep* *state* is so",
+          "location": 1096
+        }
+      ]
+    },
+    {
+      "id": "AaEkl-of76c",
+      "segments": [
+        {
+          "text": "*deep* *state* inside of our government to",
+          "location": 771
+        }
+      ]
+    },
+    {
+      "id": "aAjl5E-9Xwc",
+      "segments": [
+        {
+          "text": "the *deep* *state* in your own country or",
+          "location": 724
+        }
+      ]
+    },
+    {
+      "id": "Ae8VPPrDP3I",
+      "segments": [
+        {
+          "text": "with the *deep* *state* the luciferianism",
+          "location": 484
+        }
+      ]
+    },
+    {
+      "id": "AGvin09PnlY",
+      "segments": [
+        {
+          "text": "globalist *deep* *state* cabal and all they",
+          "location": 402
+        },
+        {
+          "text": "emboldened because *deep* *state* ties have",
+          "location": 1115
+        },
+        {
+          "text": "pelosi and shift both *deep* *state* you",
+          "location": 1138
+        },
+        {
+          "text": "critical to exposing the *deep* *state* coup",
+          "location": 1479
+        }
+      ]
+    },
+    {
+      "id": "Ai_hTzDSyO0",
+      "segments": [
+        {
+          "text": "for the media for the *deep* *state* for",
+          "location": 497
+        }
+      ]
+    },
+    {
+      "id": "AJPTbrTUYxI",
+      "segments": [
+        {
+          "text": "ukraine playing *deep* *state* actors",
+          "location": 429
+        }
+      ]
+    },
+    {
+      "id": "altHQp6NMoA",
+      "segments": [
+        {
+          "text": "we're gonna cover how the *deep* *state*",
+          "location": 3
+        }
+      ]
+    },
+    {
+      "id": "aMjfmqYp1k0",
+      "segments": [
+        {
+          "text": "*deep* *state* or the state department",
+          "location": 2046
+        }
+      ]
+    },
+    {
+      "id": "aMU1r-XXIe0",
+      "segments": [
+        {
+          "text": "*state* then trump can fire him with no",
+          "location": 1718
+        },
+        {
+          "text": "*deep* *state* could say something trump",
+          "location": 1725
+        }
+      ]
+    },
+    {
+      "id": "ANNU2PD-HFo",
+      "segments": [
+        {
+          "text": "*deep* *state* globalist big tech sensors",
+          "location": 503
+        },
+        {
+          "text": "the *deep* *state* so you know huh yeah",
+          "location": 1364
+        }
+      ]
+    },
+    {
+      "id": "AT7BqWZWWag",
+      "segments": [
+        {
+          "text": "to share information about *deep* *state*",
+          "location": 964
+        }
+      ]
+    },
+    {
+      "id": "ATycYftkD9M",
+      "segments": [
+        {
+          "text": "here *deep* *state* bureaucrats named time",
+          "location": 1341
+        }
+      ]
+    },
+    {
+      "id": "ayRMg-VLpmE",
+      "segments": [
+        {
+          "text": "the *deep* *state* against president trump",
+          "location": 993
+        },
+        {
+          "text": "to portray him as having these *deep*",
+          "location": 995
+        }
+      ]
+    },
+    {
+      "id": "b-LpBCpFIU0",
+      "segments": [
+        {
+          "text": "time since by the *deep* *state* leftovers",
+          "location": 919
+        }
+      ]
+    },
+    {
+      "id": "b2o6RTKxh4I",
+      "segments": [
+        {
+          "text": "some kind of you know *deep* *state*",
+          "location": 407
+        },
+        {
+          "text": "obvious push by the *deep* *state* to",
+          "location": 598
+        },
+        {
+          "text": "complete embodiment of *deep* *state*",
+          "location": 943
+        },
+        {
+          "text": "*deep* *state* this organizer of chaos and",
+          "location": 1000
+        },
+        {
+          "text": "against this *deep* *state* these these",
+          "location": 2229
+        }
+      ]
+    },
+    {
+      "id": "BBOhxkAxLis",
+      "segments": [
+        {
+          "text": "russia it's with *deep* *state* actors in",
+          "location": 207
+        },
+        {
+          "text": "*deep* *state* is monitoring the back",
+          "location": 438
+        },
+        {
+          "text": "somehow by *deep* *state* actors who will",
+          "location": 450
+        },
+        {
+          "text": "infiltrated our *deep* *state* are certainly",
+          "location": 599
+        },
+        {
+          "text": "hillary's sycophants and *deep* *state*",
+          "location": 865
+        },
+        {
+          "text": "toast and he was one of the *deep* *state*",
+          "location": 902
+        },
+        {
+          "text": "facebook is a cia or darpa *deep* *state*",
+          "location": 1168
+        },
+        {
+          "text": "totally connected and then it was a *deep*",
+          "location": 1341
+        },
+        {
+          "text": "*state* project by darpa and this is what",
+          "location": 1343
+        },
+        {
+          "text": "believe that the *deep* *state* is so",
+          "location": 1463
+        },
+        {
+          "text": "that he has freedom now from the *deep*",
+          "location": 1560
+        },
+        {
+          "text": "*state* blackmail that was going on",
+          "location": 1563
+        }
+      ]
+    },
+    {
+      "id": "BcVYQ8Qb8WE",
+      "segments": [
+        {
+          "text": "but it says for years the *deep* *state* has",
+          "location": 358
+        },
+        {
+          "text": "unclassified us *state* department emails",
+          "location": 866
+        },
+        {
+          "text": "woodward saying that since the *deep*",
+          "location": 874
+        }
+      ]
+    },
+    {
+      "id": "bJpGmwu9-k4",
+      "segments": [
+        {
+          "text": "the *deep* *state* sending messages right",
+          "location": 377
+        },
+        {
+          "text": "trump sending a message to the *deep*",
+          "location": 985
+        },
+        {
+          "text": "*state* saying every this is so funny the",
+          "location": 986
+        }
+      ]
+    },
+    {
+      "id": "BjZ3EmeaX5k",
+      "segments": [
+        {
+          "text": "this person failed it was a *deep* *state*",
+          "location": 1038
+        },
+        {
+          "text": "play these people are *deep* *state* actors",
+          "location": 1041
+        }
+      ]
+    },
+    {
+      "id": "BKrYqZUyOIQ",
+      "segments": [
+        {
+          "text": "overthrow some of these *deep* *state* crazy",
+          "location": 253
+        }
+      ]
+    },
+    {
+      "id": "BLbmipYjHR4",
+      "segments": [
+        {
+          "text": "jail *deep* *state* justice department must",
+          "location": 1185
+        }
+      ]
+    },
+    {
+      "id": "BMvOvzcBOq0",
+      "segments": [
+        {
+          "text": "they're only standing up for the *deep*",
+          "location": 569
+        },
+        {
+          "text": "*state* and how they can undermine trump",
+          "location": 571
+        }
+      ]
+    },
+    {
+      "id": "BRRHTfNJMg4",
+      "segments": [
+        {
+          "text": "*deep* *state* has launched their",
+          "location": 12
+        },
+        {
+          "text": "*deep* *state* is in a full-on panic trying",
+          "location": 91
+        },
+        {
+          "text": "expose *deep* *state* doj block regarding",
+          "location": 407
+        },
+        {
+          "text": "these *deep* *state* corrupt criminals who",
+          "location": 509
+        }
+      ]
+    },
+    {
+      "id": "BufAWX9OL9M",
+      "segments": [
+        {
+          "text": "what the swamp bureaucracy *deep* *state*",
+          "location": 1355
+        }
+      ]
+    },
+    {
+      "id": "BX0vhcv_pRQ",
+      "segments": [
+        {
+          "text": "against a sitting president by the *deep*",
+          "location": 196
+        },
+        {
+          "text": "*state* in order to get him thrown out of",
+          "location": 199
+        },
+        {
+          "text": "*deep* *state* you know we're only pointing",
+          "location": 1391
+        },
+        {
+          "text": "*deep* *state* people who are have been",
+          "location": 1433
+        },
+        {
+          "text": "de-escalate and the *deep* *state* and the",
+          "location": 1549
+        }
+      ]
+    },
+    {
+      "id": "c2JtJ3aEJI4",
+      "segments": [
+        {
+          "text": "corruption this is the the *deep* *state* if",
+          "location": 2234
+        }
+      ]
+    },
+    {
+      "id": "C52GieN9zdM",
+      "segments": [
+        {
+          "text": "i have dylan lewis monroe from the *deep*",
+          "location": 523
+        },
+        {
+          "text": "*state* mapping project he's",
+          "location": 526
+        }
+      ]
+    },
+    {
+      "id": "CFDn-VKYsC0",
+      "segments": [
+        {
+          "text": "kind of rogue *deep* *state* operated sub",
+          "location": 1116
+        }
+      ]
+    },
+    {
+      "id": "cppd4rNaGCY",
+      "segments": [
+        {
+          "text": "the the obvious leftovers of the *deep*",
+          "location": 351
+        },
+        {
+          "text": "*state* they're cabal that exists they're",
+          "location": 358
+        }
+      ]
+    },
+    {
+      "id": "cRLq7aAC-XI",
+      "segments": [
+        {
+          "text": "unbelievable really but the *deep* *state*",
+          "location": 565
+        }
+      ]
+    },
+    {
+      "id": "Ct4sQbD2Dj0",
+      "segments": [
+        {
+          "text": "to undermine the *deep* *state* aligned",
+          "location": 405
+        },
+        {
+          "text": "want to call it a *deep* *state* you know",
+          "location": 443
+        }
+      ]
+    },
+    {
+      "id": "CVPDq78OM50",
+      "segments": [
+        {
+          "text": "called the *deep* *state* with all your",
+          "location": 1792
+        },
+        {
+          "text": "expose the *deep* *state* so now they have",
+          "location": 2094
+        }
+      ]
+    },
+    {
+      "id": "CxlcQbMPATY",
+      "segments": [
+        {
+          "text": "because the letter sound like the *deep*",
+          "location": 228
+        },
+        {
+          "text": "*state* talking directly to president",
+          "location": 229
+        }
+      ]
+    },
+    {
+      "id": "CYMHBldnHH4",
+      "segments": [
+        {
+          "text": "*deep* *state* operatives to go out in the",
+          "location": 672
+        }
+      ]
+    },
+    {
+      "id": "d352Nhkd02g",
+      "segments": [
+        {
+          "text": "under attack by the *deep* *state* which is",
+          "location": 172
+        }
+      ]
+    },
+    {
+      "id": "DeiOBs9WCFY",
+      "segments": [
+        {
+          "text": "highlighted the *deep* *state* corruption in",
+          "location": 162
+        }
+      ]
+    },
+    {
+      "id": "dfzrdTb1zZE",
+      "segments": [
+        {
+          "text": "*deep* *state* it would seem and she took a",
+          "location": 486
+        },
+        {
+          "text": "ave and eddie working for is it the *deep*",
+          "location": 1143
+        },
+        {
+          "text": "*state* democrats satan or all the above",
+          "location": 1146
+        },
+        {
+          "text": "you know the the the *deep* *state*",
+          "location": 1207
+        }
+      ]
+    },
+    {
+      "id": "dgJVXPaHqP8",
+      "segments": [
+        {
+          "text": "those *deep* *state* bureaucrats who abuse",
+          "location": 241
+        },
+        {
+          "text": "and many other current and former *deep*",
+          "location": 277
+        },
+        {
+          "text": "*state* officials responsible for the",
+          "location": 280
+        }
+      ]
+    },
+    {
+      "id": "DOO7fNIwpYY",
+      "segments": [
+        {
+          "text": "because the *deep* *state* can just dictate",
+          "location": 463
+        },
+        {
+          "text": "real teep *state* against the big *deep*",
+          "location": 1584
+        },
+        {
+          "text": "*state* there's a *deep* *deep* statements",
+          "location": 1586
+        },
+        {
+          "text": "original *deep* *state* people that have",
+          "location": 1590
+        },
+        {
+          "text": "of crap then there's the big *deep* *state*",
+          "location": 1593
+        },
+        {
+          "text": "on folks you see the patriots and *deep*",
+          "location": 1638
+        },
+        {
+          "text": "*state* warning you about the emp because",
+          "location": 1643
+        },
+        {
+          "text": "and expose the *deep* *state* for what they",
+          "location": 1799
+        }
+      ]
+    },
+    {
+      "id": "DTJrCcpKAsE",
+      "segments": [
+        {
+          "text": "network that believes in a *deep* *state*",
+          "location": 1099
+        },
+        {
+          "text": "a *deep* *state* conspiracy against",
+          "location": 1162
+        },
+        {
+          "text": "conspiracy involving *deep* *state* actors",
+          "location": 1461
+        }
+      ]
+    },
+    {
+      "id": "dzvqryS1tvM",
+      "segments": [
+        {
+          "text": "*deep* *state* is getting ready to make",
+          "location": 799
+        }
+      ]
+    },
+    {
+      "id": "EL6vqvpcreQ",
+      "segments": [
+        {
+          "text": "only are the democrats in the *deep* *state*",
+          "location": 1471
+        }
+      ]
+    },
+    {
+      "id": "etzYB5Acisw",
+      "segments": [
+        {
+          "text": "this broad conspiracy by the *deep* *state*",
+          "location": 336
+        },
+        {
+          "text": "to the *deep* *state* future proof asked you",
+          "location": 1043
+        },
+        {
+          "text": "welcome to the *deep* *state* future for his",
+          "location": 1530
+        }
+      ]
+    },
+    {
+      "id": "ex1IEZ3gULY",
+      "segments": [
+        {
+          "text": "the rogue *deep* *state* which tried to",
+          "location": 1419
+        }
+      ]
+    },
+    {
+      "id": "F5FobXrvY3E",
+      "segments": [
+        {
+          "text": "established to fight this *deep* *state*",
+          "location": 428
+        },
+        {
+          "text": "*deep* *state* cabal they were making their",
+          "location": 446
+        },
+        {
+          "text": "working against the the *deep* *state* she's",
+          "location": 1106
+        },
+        {
+          "text": "*deep* *deep* *state* stuff we didn't elect",
+          "location": 1644
+        }
+      ]
+    },
+    {
+      "id": "f7YHUbjdCzM",
+      "segments": [
+        {
+          "text": "because it just is another *deep* *state*",
+          "location": 404
+        }
+      ]
+    },
+    {
+      "id": "fbpZlOeQiAM",
+      "segments": [
+        {
+          "text": "the democrat liberal left *deep* *state*",
+          "location": 980
+        }
+      ]
+    },
+    {
+      "id": "fbY83L61Kd0",
+      "segments": [
+        {
+          "text": "the *deep* *state* shadow government / obama",
+          "location": 803
+        }
+      ]
+    },
+    {
+      "id": "Ff4fEQVTpSs",
+      "segments": [
+        {
+          "text": "hardcore *deep* *state* lion leak in comey",
+          "location": 636
+        }
+      ]
+    },
+    {
+      "id": "FHBsONoVnq0",
+      "segments": [
+        {
+          "text": "patriot trying to to take down this *deep*",
+          "location": 539
+        },
+        {
+          "text": "*state* i believe you're in one fund",
+          "location": 542
+        }
+      ]
+    },
+    {
+      "id": "fLuLK72GwyA",
+      "segments": [
+        {
+          "text": "basis as he exposes that the *deep* *state*",
+          "location": 745
+        }
+      ]
+    },
+    {
+      "id": "g_-JsMSaCdA",
+      "segments": [
+        {
+          "text": "the *deep* *state* intelligence community",
+          "location": 59
+        },
+        {
+          "text": "president trump and these these *deep*",
+          "location": 104
+        },
+        {
+          "text": "*state* factions who are putting on all",
+          "location": 106
+        },
+        {
+          "text": "engaged in against the *deep* *state*",
+          "location": 719
+        },
+        {
+          "text": "message sent by the *deep* *state* oh i see",
+          "location": 892
+        },
+        {
+          "text": "of power by this this *deep* *state* complex",
+          "location": 1578
+        }
+      ]
+    },
+    {
+      "id": "g_4yojz2mAs",
+      "segments": [
+        {
+          "text": "*deep* *state* their blockade with the",
+          "location": 74
+        }
+      ]
+    },
+    {
+      "id": "g-KHTYSFJXA",
+      "segments": [
+        {
+          "text": "corruption and criminality of the *deep*",
+          "location": 776
+        },
+        {
+          "text": "*state* in trying to put a coup on against",
+          "location": 778
+        },
+        {
+          "text": "these these *deep* *state* you know",
+          "location": 830
+        },
+        {
+          "text": "basically an allegory for the *deep* *state*",
+          "location": 1655
+        }
+      ]
+    },
+    {
+      "id": "G0xwAccaQ0A",
+      "segments": [
+        {
+          "text": "of the president it's just another *deep*",
+          "location": 750
+        },
+        {
+          "text": "*state* puppet who is being played against",
+          "location": 753
+        },
+        {
+          "text": "these *deep* *state* actresses and we're",
+          "location": 868
+        },
+        {
+          "text": "*deep* *state* bases and we talked about",
+          "location": 1175
+        }
+      ]
+    },
+    {
+      "id": "gAHVZF__So4",
+      "segments": [
+        {
+          "text": "this this system the *deep* *state* whatever",
+          "location": 555
+        }
+      ]
+    },
+    {
+      "id": "GcJnkA-FE1M",
+      "segments": [
+        {
+          "text": "*deep* *state* secret government so why not",
+          "location": 1612
+        }
+      ]
+    },
+    {
+      "id": "GHzp1M24Fsw",
+      "segments": [
+        {
+          "text": "these ways that he exposed the *deep*",
+          "location": 142
+        },
+        {
+          "text": "*state* tactics our our own country's",
+          "location": 151
+        },
+        {
+          "text": "kind of uncontrolled *deep* *state* project",
+          "location": 1599
+        }
+      ]
+    },
+    {
+      "id": "gMSJoVkQZWw",
+      "segments": [
+        {
+          "text": "where the *deep* *state* could say oh we",
+          "location": 589
+        }
+      ]
+    },
+    {
+      "id": "gnDVjDTXE0k",
+      "segments": [
+        {
+          "text": "pointing to the *deep* *state* i think",
+          "location": 2237
+        },
+        {
+          "text": "sent over by the *deep* *state* in order to",
+          "location": 2242
+        }
+      ]
+    },
+    {
+      "id": "Gnmbc4G0dmg",
+      "segments": [
+        {
+          "text": "run for local offices in *state* senate's",
+          "location": 677
+        },
+        {
+          "text": "because they want to get their *deep*",
+          "location": 683
+        },
+        {
+          "text": "*state* reestablished president trump has",
+          "location": 685
+        }
+      ]
+    },
+    {
+      "id": "GRBDH_i0FB4",
+      "segments": [
+        {
+          "text": "by the *deep* *state* which is rooted",
+          "location": 130
+        },
+        {
+          "text": "respond or that the *deep* *state* people",
+          "location": 200
+        },
+        {
+          "text": "then war in real life and it's the *deep*",
+          "location": 256
+        },
+        {
+          "text": "*state* versus the the good actors and the",
+          "location": 258
+        },
+        {
+          "text": "expose what's going on the *deep* *state*",
+          "location": 1722
+        }
+      ]
+    },
+    {
+      "id": "gya_mSZwAl0",
+      "segments": [
+        {
+          "text": "27th but q tricked these *deep* *state*",
+          "location": 1041
+        }
+      ]
+    },
+    {
+      "id": "GYRgczPNxJI",
+      "segments": [
+        {
+          "text": "the *deep* *state* and here's president",
+          "location": 1485
+        }
+      ]
+    },
+    {
+      "id": "hfX559mxFQo",
+      "segments": [
+        {
+          "text": "aimed at exposing the *deep* *state* and",
+          "location": 44
+        }
+      ]
+    },
+    {
+      "id": "HjH_ZCvf3_g",
+      "segments": [
+        {
+          "text": "*deep* *state* has taken control of certain",
+          "location": 246
+        },
+        {
+          "text": "the *deep* *state* or the raw child sounds",
+          "location": 1184
+        }
+      ]
+    },
+    {
+      "id": "hKbE7MG3OIA",
+      "segments": [
+        {
+          "text": "i guess the *deep* *state* and long story",
+          "location": 99
+        },
+        {
+          "text": "the high power players the *deep* *state*",
+          "location": 353
+        }
+      ]
+    },
+    {
+      "id": "HkJj6tZtzKg",
+      "segments": [
+        {
+          "text": "*deep* *state* swamp whatever you want to",
+          "location": 948
+        }
+      ]
+    },
+    {
+      "id": "hKSHNiPdaQU",
+      "segments": [
+        {
+          "text": "draining the swamp exposing the *deep*",
+          "location": 102
+        },
+        {
+          "text": "*state* corruption and exposing the the",
+          "location": 103
+        },
+        {
+          "text": "expose the *deep* *state* with bill benny on",
+          "location": 637
+        }
+      ]
+    },
+    {
+      "id": "HoHfevtIV2w",
+      "segments": [
+        {
+          "text": "a shadow type government influence *deep*",
+          "location": 1188
+        },
+        {
+          "text": "*state* influence from the cia that had",
+          "location": 1192
+        },
+        {
+          "text": "they have going from the *deep* *state* out",
+          "location": 1684
+        }
+      ]
+    },
+    {
+      "id": "hxMqBVB9oIU",
+      "segments": [
+        {
+          "text": "very much so that the *deep* *state* had a",
+          "location": 970
+        }
+      ]
+    },
+    {
+      "id": "i7CsAm6pTpE",
+      "segments": [
+        {
+          "text": "connected back to the *deep* *state* so that",
+          "location": 552
+        }
+      ]
+    },
+    {
+      "id": "iaA6l7wVsGE",
+      "segments": [
+        {
+          "text": "manipulate the *deep* *state* into deploying",
+          "location": 108
+        },
+        {
+          "text": "own *deep* *state* attacked the president",
+          "location": 1352
+        },
+        {
+          "text": "national intelligence now she is *deep*",
+          "location": 1468
+        },
+        {
+          "text": "*state* as it gets coates as *deep* sea as",
+          "location": 1471
+        },
+        {
+          "text": "these *deep* *state* crimes that were",
+          "location": 1513
+        },
+        {
+          "text": "*deep* *state* who are protecting their",
+          "location": 1616
+        }
+      ]
+    },
+    {
+      "id": "IC9FN_fY2go",
+      "segments": [
+        {
+          "text": "president trump for exposing their *deep*",
+          "location": 45
+        },
+        {
+          "text": "*state* globalist cabal crimes that they",
+          "location": 48
+        },
+        {
+          "text": "take a very *deep* dive into all of this",
+          "location": 54
+        }
+      ]
+    },
+    {
+      "id": "im06ZuqowDk",
+      "segments": [
+        {
+          "text": "*deep* *state* individuals most of those men",
+          "location": 1111
+        }
+      ]
+    },
+    {
+      "id": "IMvbHX-XxMs",
+      "segments": [
+        {
+          "text": "trump is taking down the *deep* *state* the",
+          "location": 1288
+        }
+      ]
+    },
+    {
+      "id": "iQHR1-6RKGY",
+      "segments": [
+        {
+          "text": "*deep* *state* with people who are going to",
+          "location": 1448
+        }
+      ]
+    },
+    {
+      "id": "is45doBHO4k",
+      "segments": [
+        {
+          "text": "coming is the *deep* *state* trying to push",
+          "location": 1
+        }
+      ]
+    },
+    {
+      "id": "IubAKIW7LW8",
+      "segments": [
+        {
+          "text": "overtaken by the *deep* *state* hi i'm craig",
+          "location": 3
+        },
+        {
+          "text": "you use the term *deep* *state* you might as",
+          "location": 141
+        }
+      ]
+    },
+    {
+      "id": "ivzGKZFp8M8",
+      "segments": [
+        {
+          "text": "and everyone so now that the *deep* *state*",
+          "location": 124
+        }
+      ]
+    },
+    {
+      "id": "J296P7VE5p8",
+      "segments": [
+        {
+          "text": "broker the deal with the *deep* *state* in",
+          "location": 60
+        },
+        {
+          "text": "run by the *deep* *state* which president",
+          "location": 385
+        },
+        {
+          "text": "inside the *deep* *state* who would want",
+          "location": 598
+        },
+        {
+          "text": "*deep* *state* connections and you got to",
+          "location": 625
+        },
+        {
+          "text": "testify before congress so the *deep*",
+          "location": 816
+        },
+        {
+          "text": "*state* has one of their secret obama",
+          "location": 819
+        },
+        {
+          "text": "administration but by using these *deep*",
+          "location": 882
+        },
+        {
+          "text": "*state* plans to just keep popping up",
+          "location": 885
+        },
+        {
+          "text": "same time we don't want joe *deep* *state*",
+          "location": 922
+        },
+        {
+          "text": "*deep* *state* because q has told us about",
+          "location": 1171
+        },
+        {
+          "text": "the *deep* *state* because we have",
+          "location": 1363
+        }
+      ]
+    },
+    {
+      "id": "J7b6SPEd0FA",
+      "segments": [
+        {
+          "text": "*deep* *state* to continue to keep the",
+          "location": 489
+        }
+      ]
+    },
+    {
+      "id": "j8A3-iLoEOI",
+      "segments": [
+        {
+          "text": "and all in the pocket of the *deep* *state*",
+          "location": 1142
+        },
+        {
+          "text": "people in the *deep* *state* who could just",
+          "location": 1539
+        }
+      ]
+    },
+    {
+      "id": "jCLp7eJwIrE",
+      "segments": [
+        {
+          "text": "trusted by trump because of his *deep*",
+          "location": 1361
+        },
+        {
+          "text": "*state* ties to hussein and hillary and",
+          "location": 1364
+        },
+        {
+          "text": "not looking good for the *deep* *state*",
+          "location": 1417
+        }
+      ]
+    },
+    {
+      "id": "jnUP8mEuPqc",
+      "segments": [
+        {
+          "text": "and often use term about a *deep* *state*",
+          "location": 17
+        },
+        {
+          "text": "for the *deep* *state* i mean i think you",
+          "location": 23
+        }
+      ]
+    },
+    {
+      "id": "JP_9kWACn3U",
+      "segments": [
+        {
+          "text": "on the board the *deep* *state* reacts and",
+          "location": 558
+        }
+      ]
+    },
+    {
+      "id": "jPdBNzia1bQ",
+      "segments": [
+        {
+          "text": "fed should just work for the *deep* *state*",
+          "location": 740
+        }
+      ]
+    },
+    {
+      "id": "Jqmk-9gfMoc",
+      "segments": [
+        {
+          "text": "*deep* *state* cabal a swamp to you know",
+          "location": 1542
+        }
+      ]
+    },
+    {
+      "id": "jr_aTXakEwk",
+      "segments": [
+        {
+          "text": "or what but it says *deep* *state* dream",
+          "location": 137
+        },
+        {
+          "text": "says *deep* dream equals twitter boom",
+          "location": 143
+        }
+      ]
+    },
+    {
+      "id": "jSkzvaEVGyw",
+      "segments": [
+        {
+          "text": "*deep* *state* to go as hard as they can",
+          "location": 235
+        }
+      ]
+    },
+    {
+      "id": "Jw000N2NVzY",
+      "segments": [
+        {
+          "text": "*deep* *state* loaded the bill with multiple",
+          "location": 1687
+        }
+      ]
+    },
+    {
+      "id": "JXObjjcM37E",
+      "segments": [
+        {
+          "text": "*deep* *state* who tried to run a coup",
+          "location": 74
+        },
+        {
+          "text": "*deep* *state* coup plotters and how they're",
+          "location": 160
+        },
+        {
+          "text": "to remember they knew this *deep* *state*",
+          "location": 652
+        }
+      ]
+    },
+    {
+      "id": "k1e3a3x0VHE",
+      "segments": [
+        {
+          "text": "terrifying time for these *deep* *state*",
+          "location": 702
+        }
+      ]
+    },
+    {
+      "id": "k2pfkR9ey1o",
+      "segments": [
+        {
+          "text": "is a war going on inside the *deep* *state*",
+          "location": 132
+        },
+        {
+          "text": "exposing the *deep* *state* and doing what",
+          "location": 654
+        },
+        {
+          "text": "*deep* *state* it's quite amazing when you",
+          "location": 1014
+        },
+        {
+          "text": "and on discusses *deep* *state* and this is",
+          "location": 1556
+        }
+      ]
+    },
+    {
+      "id": "k5J7_AWQvec",
+      "segments": [
+        {
+          "text": "by well the *deep* *state* okay that's what",
+          "location": 1012
+        },
+        {
+          "text": "we went and we had our our *deep* *state* or",
+          "location": 1514
+        }
+      ]
+    },
+    {
+      "id": "K68zHw0_xp8",
+      "segments": [
+        {
+          "text": "evil things at the *deep* *state* and others",
+          "location": 974
+        },
+        {
+          "text": "to be *deep* *state* who we gave them enough",
+          "location": 1099
+        }
+      ]
+    },
+    {
+      "id": "K6D4AseiyvA",
+      "segments": [
+        {
+          "text": "permanent bureaucracy *deep* *state*",
+          "location": 451
+        }
+      ]
+    },
+    {
+      "id": "k7HZG6YnFww",
+      "segments": [
+        {
+          "text": "exposing these evil *deep* *state* globalist",
+          "location": 118
+        },
+        {
+          "text": "but then also to launch *deep* *state*",
+          "location": 340
+        },
+        {
+          "text": "the president so *deep* *state* panicking",
+          "location": 1237
+        }
+      ]
+    },
+    {
+      "id": "KVAsKc8v5t8",
+      "segments": [
+        {
+          "text": "running cover for all these *deep* *state*",
+          "location": 1134
+        },
+        {
+          "text": "papadopoulos so good luck *deep* *state* we",
+          "location": 1477
+        }
+      ]
+    },
+    {
+      "id": "kZSTJv4Hxk0",
+      "segments": [
+        {
+          "text": "mean look *deep* *state* gets as *deep* *state*",
+          "location": 1252
+        }
+      ]
+    },
+    {
+      "id": "L2Az5A7kcP8",
+      "segments": [
+        {
+          "text": "the pelosi *deep* *state* coup and it's it's",
+          "location": 127
+        },
+        {
+          "text": "her *deep* *state* friends among them former",
+          "location": 475
+        },
+        {
+          "text": "brennan this is 19 *deep* *state* public",
+          "location": 487
+        },
+        {
+          "text": "the *deep* *state* plan was a g f jfk",
+          "location": 537
+        },
+        {
+          "text": "conspirators it says the *deep* *state*",
+          "location": 552
+        }
+      ]
+    },
+    {
+      "id": "L3Ij2cvGFkY",
+      "segments": [
+        {
+          "text": "happening with the *deep* *state* but this",
+          "location": 1181
+        }
+      ]
+    },
+    {
+      "id": "l6iCUxTXOBw",
+      "segments": [
+        {
+          "text": "*deep* *state* officials there's it goes all",
+          "location": 854
+        }
+      ]
+    },
+    {
+      "id": "L8KfIdZMszk",
+      "segments": [
+        {
+          "text": "the *deep* *state* back in the 60s and",
+          "location": 689
+        }
+      ]
+    },
+    {
+      "id": "LBYjX-YKi3A",
+      "segments": [
+        {
+          "text": "around uncovering and rolling up *deep*",
+          "location": 81
+        },
+        {
+          "text": "*state* islamic sleeper cells and the",
+          "location": 83
+        },
+        {
+          "text": "tethered at the hip for several *deep*",
+          "location": 336
+        },
+        {
+          "text": "*state* issues or an alignment with russia",
+          "location": 337
+        },
+        {
+          "text": "with *deep* *state* state backing a lot of",
+          "location": 636
+        },
+        {
+          "text": "them all so the first issue is the *deep*",
+          "location": 740
+        },
+        {
+          "text": "*state* islamic sleeper cell assets",
+          "location": 743
+        },
+        {
+          "text": "and isis the whole *deep* *state* thing to",
+          "location": 913
+        },
+        {
+          "text": "unfortunately for them the *deep* *state*",
+          "location": 1324
+        },
+        {
+          "text": "stifled and sabotaged by *deep* *state*",
+          "location": 1994
+        }
+      ]
+    },
+    {
+      "id": "LcYUTlXa9LA",
+      "segments": [
+        {
+          "text": "is going on when the ci a *deep* *state*",
+          "location": 497
+        },
+        {
+          "text": "federation for the actions of rogue *deep*",
+          "location": 676
+        },
+        {
+          "text": "*state* actors who happen to be russian",
+          "location": 679
+        },
+        {
+          "text": "the same *deep* *state* that sabotages our",
+          "location": 682
+        },
+        {
+          "text": "*deep* *state* actors they're they're",
+          "location": 703
+        },
+        {
+          "text": "things behind the steam from a *deep*",
+          "location": 810
+        },
+        {
+          "text": "*state* level",
+          "location": 812
+        }
+      ]
+    },
+    {
+      "id": "LIwSMMqCTfU",
+      "segments": [
+        {
+          "text": "in the *deep* *state* and globalism in",
+          "location": 653
+        },
+        {
+          "text": "luciferians *deep* *state* actors who've",
+          "location": 716
+        }
+      ]
+    },
+    {
+      "id": "ljBQV9kO_48",
+      "segments": [
+        {
+          "text": "case because there is a *deep* *state*",
+          "location": 391
+        },
+        {
+          "text": "*deep* *state* cover-up a hack job by this",
+          "location": 457
+        },
+        {
+          "text": "who these *deep* *state* people are and it's",
+          "location": 575
+        }
+      ]
+    },
+    {
+      "id": "lxUADz6sO24",
+      "segments": [
+        {
+          "text": "pictures of on submarine jail *deep* *state*",
+          "location": 1379
+        },
+        {
+          "text": "act *deep* *state* i mean he's talking",
+          "location": 1384
+        },
+        {
+          "text": "tyrannical *deep* *state* that exists now",
+          "location": 1417
+        },
+        {
+          "text": "in submarine jail *deep* *state* justice",
+          "location": 1513
+        }
+      ]
+    },
+    {
+      "id": "M-MA0geeqcs",
+      "segments": [
+        {
+          "text": "*deep* seat and then weaponized and q has",
+          "location": 1542
+        },
+        {
+          "text": "back from the *deep* *state* by president",
+          "location": 1547
+        }
+      ]
+    },
+    {
+      "id": "m-ODejCbNWA",
+      "segments": [
+        {
+          "text": "communications between these *deep* *state*",
+          "location": 2298
+        }
+      ]
+    },
+    {
+      "id": "m2iCTKjwGZY",
+      "segments": [
+        {
+          "text": "but then you have the *deep* *state* and",
+          "location": 931
+        }
+      ]
+    },
+    {
+      "id": "m9zakT_UDY4",
+      "segments": [
+        {
+          "text": "what's actually going on in the *deep*",
+          "location": 344
+        },
+        {
+          "text": "*state* in the corrupt swamp that we've",
+          "location": 346
+        }
+      ]
+    },
+    {
+      "id": "mBU8ggNgS8s",
+      "segments": [
+        {
+          "text": "our own *deep* *state* slash corrupt state",
+          "location": 624
+        }
+      ]
+    },
+    {
+      "id": "mCG61ZXjwgM",
+      "segments": [
+        {
+          "text": "war that we're in against these *deep*",
+          "location": 247
+        },
+        {
+          "text": "*state* luciferian satanic pedophiles that",
+          "location": 250
+        },
+        {
+          "text": "control who have taken over the *deep*",
+          "location": 258
+        },
+        {
+          "text": "*state* and are running things on that end",
+          "location": 260
+        }
+      ]
+    },
+    {
+      "id": "mDGN4mIrYTs",
+      "segments": [
+        {
+          "text": "pige enda anti-hillary in the *deep* *state*",
+          "location": 239
+        },
+        {
+          "text": "retaliation attack put on by the *deep*",
+          "location": 1410
+        },
+        {
+          "text": "*state* against trump when he got in",
+          "location": 1413
+        }
+      ]
+    },
+    {
+      "id": "mdj-e3WW1Bo",
+      "segments": [
+        {
+          "text": "about the fbi doj *state* department",
+          "location": 597
+        },
+        {
+          "text": "trump has removed all of these *deep*",
+          "location": 604
+        },
+        {
+          "text": "*state* swamp creatures little by little",
+          "location": 606
+        }
+      ]
+    },
+    {
+      "id": "MHhA6kW_K1g",
+      "segments": [
+        {
+          "text": "over the fact that the *deep* *state*",
+          "location": 379
+        }
+      ]
+    },
+    {
+      "id": "MMiesWjJy3k",
+      "segments": [
+        {
+          "text": "*deep* *state* establishment that we always",
+          "location": 874
+        }
+      ]
+    },
+    {
+      "id": "ModN7UGbEc4",
+      "segments": [
+        {
+          "text": "being a part of the *deep* *state* cronyism",
+          "location": 255
+        }
+      ]
+    },
+    {
+      "id": "mOIXtYBUHzE",
+      "segments": [
+        {
+          "text": "brett says do you think the *deep* *state*",
+          "location": 1321
+        }
+      ]
+    },
+    {
+      "id": "MQkqD0MhKnY",
+      "segments": [
+        {
+          "text": "my opinion this is might be a *state* on a",
+          "location": 235
+        },
+        {
+          "text": "spot-on analysis saying the *deep* *state*",
+          "location": 238
+        },
+        {
+          "text": "and for the the corrupt *deep* *state*",
+          "location": 837
+        }
+      ]
+    },
+    {
+      "id": "mQmoOcT31Ro",
+      "segments": [
+        {
+          "text": "fanatics *deep* *state* bureaucrats and",
+          "location": 674
+        }
+      ]
+    },
+    {
+      "id": "msr6oM0RLew",
+      "segments": [
+        {
+          "text": "been turned over by the *deep* *state* now",
+          "location": 412
+        },
+        {
+          "text": "*deep* *state* globalist luciferians",
+          "location": 1436
+        }
+      ]
+    },
+    {
+      "id": "Mt8NfLhd-bQ",
+      "segments": [
+        {
+          "text": "the *deep* *state* so you guys gonna want to",
+          "location": 54
+        },
+        {
+          "text": "which i really think that the *deep* *state*",
+          "location": 167
+        }
+      ]
+    },
+    {
+      "id": "MU2Rcx_7eK0",
+      "segments": [
+        {
+          "text": "the *deep* *state* in the media to portray",
+          "location": 1262
+        }
+      ]
+    },
+    {
+      "id": "MUy19aL4UNs",
+      "segments": [
+        {
+          "text": "*deep* fakes here's another one internet",
+          "location": 1205
+        },
+        {
+          "text": "talking about how *state* the sanctions",
+          "location": 1212
+        }
+      ]
+    },
+    {
+      "id": "MvFElFTEyAo",
+      "segments": [
+        {
+          "text": "crimes it also wraps in *deep* *state*",
+          "location": 318
+        }
+      ]
+    },
+    {
+      "id": "n2RdX0ydluc",
+      "segments": [
+        {
+          "text": "definition of evil *deep* *state* corruption",
+          "location": 388
+        },
+        {
+          "text": "*deep* *state* through the doj fbi dnc",
+          "location": 542
+        },
+        {
+          "text": "many of the *deep* *state* stories you've",
+          "location": 1334
+        }
+      ]
+    },
+    {
+      "id": "n5D-l-3F7ik",
+      "segments": [
+        {
+          "text": "actually monitored by *deep* *state*",
+          "location": 743
+        },
+        {
+          "text": "intelligence and when i say *deep* *state*",
+          "location": 745
+        },
+        {
+          "text": "the bad *deep* *state* that we're fighting",
+          "location": 748
+        }
+      ]
+    },
+    {
+      "id": "N5YALJhloAc",
+      "segments": [
+        {
+          "text": "being accessed by bad actors *deep* *state*",
+          "location": 790
+        }
+      ]
+    },
+    {
+      "id": "Nb9AndSj88I",
+      "segments": [
+        {
+          "text": "coates is obviously *deep* *state* he's",
+          "location": 479
+        }
+      ]
+    },
+    {
+      "id": "NPnxrTpCpnw",
+      "segments": [
+        {
+          "text": "everyone into a dream *state* and i think",
+          "location": 706
+        },
+        {
+          "text": "project *deep* dream version to putting",
+          "location": 709
+        }
+      ]
+    },
+    {
+      "id": "nspGMcDjCKM",
+      "segments": [
+        {
+          "text": "the *deep* *state* from advertising and then",
+          "location": 2435
+        },
+        {
+          "text": "banning my book killing the *deep* *state*",
+          "location": 2446
+        },
+        {
+          "text": "little book killing the *deep* *state* going",
+          "location": 2457
+        },
+        {
+          "text": "excuse me banning killing the *deep* *state*",
+          "location": 2468
+        },
+        {
+          "text": "book killing the *deep* *state* and then he",
+          "location": 2489
+        },
+        {
+          "text": "killing *deep* *state* now you don't need no",
+          "location": 2523
+        }
+      ]
+    },
+    {
+      "id": "ntdGh-KbrDw",
+      "segments": [
+        {
+          "text": "by the *deep* *state* that it just doesn't",
+          "location": 1195
+        }
+      ]
+    },
+    {
+      "id": "NwWi8UclL4k",
+      "segments": [
+        {
+          "text": "welcome to the *deep* *state* future to",
+          "location": 1206
+        }
+      ]
+    },
+    {
+      "id": "o6KJkaLISn8",
+      "segments": [
+        {
+          "text": "united states where you have the *deep*",
+          "location": 362
+        },
+        {
+          "text": "*state* going up against trump and what",
+          "location": 365
+        }
+      ]
+    },
+    {
+      "id": "o6YcBl2u0n0",
+      "segments": [
+        {
+          "text": "i mean the *deep* *state* cabal the",
+          "location": 958
+        }
+      ]
+    },
+    {
+      "id": "oC62RUXGAeo",
+      "segments": [
+        {
+          "text": "about the *deep* *state* we're talking about",
+          "location": 415
+        }
+      ]
+    },
+    {
+      "id": "ocx0eQ3IYGc",
+      "segments": [
+        {
+          "text": "between the *deep* *state* and honeypot",
+          "location": 5
+        },
+        {
+          "text": "pot is that's kind of like a *deep* *state*",
+          "location": 673
+        }
+      ]
+    },
+    {
+      "id": "ofmaPjLqKpY",
+      "segments": [
+        {
+          "text": "can now go after the *deep* *state* without",
+          "location": 745
+        },
+        {
+          "text": "anywhere in any *deep* red *state* from away",
+          "location": 800
+        }
+      ]
+    },
+    {
+      "id": "OJj7uOy38hI",
+      "segments": [
+        {
+          "text": "tonight latest new cue post is the *deep*",
+          "location": 0
+        },
+        {
+          "text": "*state* trying to frame the cue board for",
+          "location": 2
+        },
+        {
+          "text": "american people working against the *deep*",
+          "location": 808
+        },
+        {
+          "text": "*state* or there's another piece there's",
+          "location": 810
+        }
+      ]
+    },
+    {
+      "id": "ojSvumv3RDc",
+      "segments": [
+        {
+          "text": "that america is controlled by a *deep*",
+          "location": 601
+        },
+        {
+          "text": "*state* that prominent democratic",
+          "location": 603
+        }
+      ]
+    },
+    {
+      "id": "Olfa4vMMDEk",
+      "segments": [
+        {
+          "text": "used by apparently the *deep* *state* bad",
+          "location": 1377
+        }
+      ]
+    },
+    {
+      "id": "ornHtBUFohc",
+      "segments": [
+        {
+          "text": "and we have to ask the question how *deep*",
+          "location": 56
+        },
+        {
+          "text": "does the *deep* *state* go and how *deep* did",
+          "location": 58
+        },
+        {
+          "text": "being attacked by an unelected *deep*",
+          "location": 72
+        },
+        {
+          "text": "*state* intelligence community who thinks",
+          "location": 74
+        }
+      ]
+    },
+    {
+      "id": "OsoQu546x8g",
+      "segments": [
+        {
+          "text": "you know *deep* *state* globalist coup",
+          "location": 491
+        },
+        {
+          "text": "*deep* *state* we're out there actually",
+          "location": 729
+        },
+        {
+          "text": "*deep* *state* they're all in bed together",
+          "location": 1307
+        }
+      ]
+    },
+    {
+      "id": "oStMB-W5ovI",
+      "segments": [
+        {
+          "text": "*deep* *state* whatever you want to call",
+          "location": 1144
+        }
+      ]
+    },
+    {
+      "id": "Ou8IoZrbRFY",
+      "segments": [
+        {
+          "text": "now they're just *deep* *state* you know",
+          "location": 1523
+        }
+      ]
+    },
+    {
+      "id": "oXoEIlNO77U",
+      "segments": [
+        {
+          "text": "*deep* *state* as it gets in my opinion is",
+          "location": 526
+        },
+        {
+          "text": "*deep* *state* coup so the reality is this",
+          "location": 659
+        },
+        {
+          "text": "*deep* into the clinton foundation and",
+          "location": 1145
+        },
+        {
+          "text": "else the fice abused the *deep* *state* ku",
+          "location": 1149
+        }
+      ]
+    },
+    {
+      "id": "OY0Jqc3-hV0",
+      "segments": [
+        {
+          "text": "keifa by *deep* *state* radical and their",
+          "location": 13
+        },
+        {
+          "text": "zero for the *deep* *state* influence buying",
+          "location": 1289
+        },
+        {
+          "text": "force ran obama's *deep* *state* hillary and",
+          "location": 1372
+        }
+      ]
+    },
+    {
+      "id": "p4Wc6Zs3qQM",
+      "segments": [
+        {
+          "text": "should say the the proverbial *deep* *state*",
+          "location": 365
+        },
+        {
+          "text": "was fired by the *deep* *state* as if he",
+          "location": 1140
+        },
+        {
+          "text": "but not only was a fired by the *deep*",
+          "location": 1144
+        },
+        {
+          "text": "*state* but was fired with the intention",
+          "location": 1146
+        },
+        {
+          "text": "some sort of *deep* *state* hand in it and",
+          "location": 1250
+        },
+        {
+          "text": "basically the propaganda arm of the *deep*",
+          "location": 1255
+        },
+        {
+          "text": "*state* that that was why it was washed",
+          "location": 1257
+        }
+      ]
+    },
+    {
+      "id": "PbcQo398070",
+      "segments": [
+        {
+          "text": "democrats and their *deep* *state* allies",
+          "location": 13
+        }
+      ]
+    },
+    {
+      "id": "pDkUn-isAGk",
+      "segments": [
+        {
+          "text": "there is a *deep* *state* acting against",
+          "location": 383
+        },
+        {
+          "text": "operative to expose all of our *deep*",
+          "location": 479
+        },
+        {
+          "text": "*state* intelligence programs thereby",
+          "location": 481
+        }
+      ]
+    },
+    {
+      "id": "pdW4LVkaiYA",
+      "segments": [
+        {
+          "text": "that the *deep* *state* has to understand",
+          "location": 618
+        },
+        {
+          "text": "disturbing dirt on the clintons and *deep*",
+          "location": 711
+        },
+        {
+          "text": "*state* politicians is being held without",
+          "location": 713
+        },
+        {
+          "text": "the *deep* *state* is going to let his",
+          "location": 734
+        },
+        {
+          "text": "is the *deep* *state* real oh man",
+          "location": 787
+        },
+        {
+          "text": "of you doom criers *deep* stays in control",
+          "location": 837
+        },
+        {
+          "text": "this is ridiculous if the *deep* *state* was",
+          "location": 840
+        }
+      ]
+    },
+    {
+      "id": "PIHmedWFDBI",
+      "segments": [
+        {
+          "text": "shot to the *deep* *state* claiming that",
+          "location": 294
+        }
+      ]
+    },
+    {
+      "id": "Pk6jznEcP4U",
+      "segments": [
+        {
+          "text": "*deep* *state* the department of justice",
+          "location": 874
+        },
+        {
+          "text": "the *deep* *state* in order to keep that",
+          "location": 882
+        },
+        {
+          "text": "call it that the *deep* *state* whoever that",
+          "location": 1022
+        },
+        {
+          "text": "you to look at russia the the *deep* *state*",
+          "location": 1733
+        }
+      ]
+    },
+    {
+      "id": "PMt56AI7XrI",
+      "segments": [
+        {
+          "text": "ever do a lot of the *deep* *deep* research",
+          "location": 157
+        },
+        {
+          "text": "in that *state* a lot more than meets the",
+          "location": 161
+        },
+        {
+          "text": "of the *deep* *state* it says freedom of the",
+          "location": 484
+        }
+      ]
+    },
+    {
+      "id": "PN8oDcxVDKU",
+      "segments": [
+        {
+          "text": "this mission to expose the *deep* *state*",
+          "location": 1220
+        }
+      ]
+    },
+    {
+      "id": "pOgq_axpn1k",
+      "segments": [
+        {
+          "text": "*deep* *state* that the shadow government",
+          "location": 1291
+        }
+      ]
+    },
+    {
+      "id": "pRriJNgzrcs",
+      "segments": [
+        {
+          "text": "swamp *deep* *state* why are they cleaning",
+          "location": 187
+        },
+        {
+          "text": "swamp *deep* *state* why are they cleaning",
+          "location": 1087
+        },
+        {
+          "text": "the *deep* *state* i think that they're my",
+          "location": 1169
+        },
+        {
+          "text": "*deep* *state* globalists and the dnc",
+          "location": 1808
+        }
+      ]
+    },
+    {
+      "id": "Q23RnpfTgiE",
+      "segments": [
+        {
+          "text": "*deep* *state* and cued by secret messages",
+          "location": 3
+        },
+        {
+          "text": "communicate these *deep* *state* messages so",
+          "location": 485
+        }
+      ]
+    },
+    {
+      "id": "q2tI5JrJKzE",
+      "segments": [
+        {
+          "text": "was all covert *deep* *state* garbage being",
+          "location": 642
+        }
+      ]
+    },
+    {
+      "id": "Q5xDDuhudtU",
+      "segments": [
+        {
+          "text": "he's just trying if he's *deep* *state* all",
+          "location": 155
+        },
+        {
+          "text": "for the *deep* *state* cabal of globalist",
+          "location": 1164
+        }
+      ]
+    },
+    {
+      "id": "Q8C-i61AH9Q",
+      "segments": [
+        {
+          "text": "the question did the *deep* *state*",
+          "location": 54
+        },
+        {
+          "text": "you would call the *deep* *state* and global",
+          "location": 166
+        },
+        {
+          "text": "the *deep* *state* permanent bureaucracy",
+          "location": 564
+        }
+      ]
+    },
+    {
+      "id": "q8N3XgSDddU",
+      "segments": [
+        {
+          "text": "hypothetically say the *deep* *state* the",
+          "location": 211
+        },
+        {
+          "text": "this entrenched *deep* *state* bureaucracy",
+          "location": 895
+        }
+      ]
+    },
+    {
+      "id": "qaeEK1ydKHQ",
+      "segments": [
+        {
+          "text": "the bow for the *deep* *state* obama hussein",
+          "location": 953
+        }
+      ]
+    },
+    {
+      "id": "qCVOU264zOY",
+      "segments": [
+        {
+          "text": "conjunction with their unelected *deep*",
+          "location": 280
+        },
+        {
+          "text": "*state* globalist running officials like",
+          "location": 283
+        }
+      ]
+    },
+    {
+      "id": "QFxy7aHGQAk",
+      "segments": [
+        {
+          "text": "coming after the *deep* *state* and it is",
+          "location": 152
+        }
+      ]
+    },
+    {
+      "id": "QgdmFUaMaTg",
+      "segments": [
+        {
+          "text": "so as q's alluded to before the *deep*",
+          "location": 1113
+        },
+        {
+          "text": "*state* these individuals were using very",
+          "location": 1116
+        },
+        {
+          "text": "*deep* *state* they were all running flack",
+          "location": 1210
+        }
+      ]
+    },
+    {
+      "id": "QlB-DTGsxA4",
+      "segments": [
+        {
+          "text": "*deep* *state* and how they will not stop",
+          "location": 1120
+        }
+      ]
+    },
+    {
+      "id": "qQCLQxxZ-JQ",
+      "segments": [
+        {
+          "text": "that obama is using his *deep* *state*",
+          "location": 873
+        },
+        {
+          "text": "trump against the *deep* *state* and this",
+          "location": 1147
+        },
+        {
+          "text": "*deep* *state* was made up of satanic",
+          "location": 1152
+        },
+        {
+          "text": "the trump fight with the *deep* *state* in",
+          "location": 1184
+        },
+        {
+          "text": "fight the *deep* *state* some of it was",
+          "location": 1220
+        },
+        {
+          "text": "about things of the *deep* *state* we're",
+          "location": 1222
+        },
+        {
+          "text": "believe that this was a just a *deep*",
+          "location": 1236
+        },
+        {
+          "text": "*state* attempt to take out a sitting",
+          "location": 1239
+        }
+      ]
+    },
+    {
+      "id": "QWt5r7p1prc",
+      "segments": [
+        {
+          "text": "limited hangouts of the *deep* *state*",
+          "location": 581
+        }
+      ]
+    },
+    {
+      "id": "r509r1pO2R0",
+      "segments": [
+        {
+          "text": "*deep* *state* actors hillary clinton barack",
+          "location": 1428
+        }
+      ]
+    },
+    {
+      "id": "r6wUIvkTfA0",
+      "segments": [
+        {
+          "text": "working for the *deep* *state* to funnel the",
+          "location": 1038
+        }
+      ]
+    },
+    {
+      "id": "RaMEtW-jj3Y",
+      "segments": [
+        {
+          "text": "that and it says now the *deep* *state* dems",
+          "location": 503
+        },
+        {
+          "text": "*deep* *state* removes both donald trump and",
+          "location": 517
+        },
+        {
+          "text": "q are all on top of the *deep* *state* plans",
+          "location": 522
+        }
+      ]
+    },
+    {
+      "id": "RBg7ln8YvZs",
+      "segments": [
+        {
+          "text": "assault on the *deep* *state* we're gonna",
+          "location": 40
+        }
+      ]
+    },
+    {
+      "id": "rKsfEM1BgDc",
+      "segments": [
+        {
+          "text": "pleasant we have a *deep* *state* we have",
+          "location": 22
+        }
+      ]
+    },
+    {
+      "id": "RQ0Vxa8t2lE",
+      "segments": [
+        {
+          "text": "data on the *deep* *state* furthermore who",
+          "location": 351
+        },
+        {
+          "text": "*deep* *state* now that was trump president",
+          "location": 523
+        },
+        {
+          "text": "to call it against the *deep* *state* and",
+          "location": 538
+        }
+      ]
+    },
+    {
+      "id": "rWFJYGKR8Q0",
+      "segments": [
+        {
+          "text": "those in the *deep* *deep* *state* who are not",
+          "location": 696
+        }
+      ]
+    },
+    {
+      "id": "RWoC617ICiE",
+      "segments": [
+        {
+          "text": "*deep* *state* neo liberal progressive",
+          "location": 145
+        }
+      ]
+    },
+    {
+      "id": "RWwMA7NgHPw",
+      "segments": [
+        {
+          "text": "by the *deep* *state* in order to create an",
+          "location": 870
+        },
+        {
+          "text": "facebook is representative of the *deep*",
+          "location": 882
+        },
+        {
+          "text": "*state* cabal of globalist evil demonic",
+          "location": 884
+        }
+      ]
+    },
+    {
+      "id": "S6nzPrp1znE",
+      "segments": [
+        {
+          "text": "these *deep* *state* programs that have been",
+          "location": 338
+        },
+        {
+          "text": "aggregator of information for the *deep*",
+          "location": 1191
+        },
+        {
+          "text": "*state* for the",
+          "location": 1194
+        },
+        {
+          "text": "you're giving that all to the *deep* *state*",
+          "location": 1208
+        }
+      ]
+    },
+    {
+      "id": "sCpKR0JfQYg",
+      "segments": [
+        {
+          "text": "that this all relates back to the *deep*",
+          "location": 666
+        },
+        {
+          "text": "*state* and then their push to actually",
+          "location": 669
+        },
+        {
+          "text": "the *deep* *state* and shell companies and",
+          "location": 754
+        }
+      ]
+    },
+    {
+      "id": "SCYQEWuPQ5k",
+      "segments": [
+        {
+          "text": "now with his new series called the *deep*",
+          "location": 680
+        },
+        {
+          "text": "*state* unmasked we're already at the",
+          "location": 682
+        },
+        {
+          "text": "uncovering the *deep* *state* so the",
+          "location": 725
+        },
+        {
+          "text": "here you have this headline *deep* *state*",
+          "location": 889
+        }
+      ]
+    },
+    {
+      "id": "sqjMUSm7P7g",
+      "segments": [
+        {
+          "text": "the obama administration in the *deep*",
+          "location": 330
+        },
+        {
+          "text": "*state* spied on president trump this memo",
+          "location": 331
+        }
+      ]
+    },
+    {
+      "id": "sRO9eUbKbHk",
+      "segments": [
+        {
+          "text": "pushing the the *deep* *state* operators the",
+          "location": 277
+        },
+        {
+          "text": "side because he's a little *deep* *state*",
+          "location": 325
+        },
+        {
+          "text": "be secretly a *deep* *state* puppet and a",
+          "location": 515
+        }
+      ]
+    },
+    {
+      "id": "t6E_0ndD_uc",
+      "segments": [
+        {
+          "text": "the former dni *deep* *state* dan coates",
+          "location": 1090
+        },
+        {
+          "text": "way for the democrats and the *deep* *state*",
+          "location": 1308
+        },
+        {
+          "text": "against the corrupt cabal of the *deep*",
+          "location": 1560
+        },
+        {
+          "text": "*state* they just end up disappearing",
+          "location": 1562
+        }
+      ]
+    },
+    {
+      "id": "t6Lt13vIedE",
+      "segments": [
+        {
+          "text": "have a higher allegiance to the *deep*",
+          "location": 639
+        },
+        {
+          "text": "*state* unelected bureaucrat *deep* *state*",
+          "location": 641
+        },
+        {
+          "text": "*deep* *state* is shaking in their boots",
+          "location": 1148
+        },
+        {
+          "text": "true pundit talking about the *deep* *state*",
+          "location": 1203
+        },
+        {
+          "text": "coffers of crooked politicians at *deep*",
+          "location": 1247
+        },
+        {
+          "text": "*state* pockets worldwide federal sources",
+          "location": 1248
+        },
+        {
+          "text": "alleged *deep* *state* players have been",
+          "location": 1256
+        },
+        {
+          "text": "global you know *deep* *state* cabal that is",
+          "location": 1342
+        }
+      ]
+    },
+    {
+      "id": "tA5qx4py3vk",
+      "segments": [
+        {
+          "text": "thank you says define projection *deep*",
+          "location": 358
+        },
+        {
+          "text": "*state* panic is real yes we agree with",
+          "location": 360
+        },
+        {
+          "text": "at the fact that the *deep* *state* whatever",
+          "location": 380
+        },
+        {
+          "text": "not the *deep* *state* as much as it is",
+          "location": 386
+        },
+        {
+          "text": "and when i say they i mean the *deep*",
+          "location": 690
+        },
+        {
+          "text": "*state* mainstream media fake news media",
+          "location": 692
+        },
+        {
+          "text": "examples of the *deep* *state* who is in",
+          "location": 767
+        },
+        {
+          "text": "order against his *deep* *state* which is",
+          "location": 1016
+        }
+      ]
+    },
+    {
+      "id": "tHP9ltlAus8",
+      "segments": [
+        {
+          "text": "a rogue *deep* *state* a rogue intelligence",
+          "location": 977
+        },
+        {
+          "text": "there is a *deep* *state* there is a",
+          "location": 1087
+        }
+      ]
+    },
+    {
+      "id": "tIWPr_DcdIo",
+      "segments": [
+        {
+          "text": "connected to *deep* *state* connected all",
+          "location": 394
+        }
+      ]
+    },
+    {
+      "id": "tPO2SMpryYw",
+      "segments": [
+        {
+          "text": "i'm talking about the swamp the *deep*",
+          "location": 814
+        },
+        {
+          "text": "*state* dams republicans everyone right",
+          "location": 816
+        }
+      ]
+    },
+    {
+      "id": "TQZvMICk0VY",
+      "segments": [
+        {
+          "text": "the *deep* *state* have to blame when it all",
+          "location": 198
+        },
+        {
+          "text": "befalls the *deep* *state* has been in my",
+          "location": 214
+        },
+        {
+          "text": "opinion by design executed by the *deep*",
+          "location": 216
+        },
+        {
+          "text": "*state* themselves trump's got no fingers",
+          "location": 219
+        },
+        {
+          "text": "the *deep* *state* or whatever you want to",
+          "location": 446
+        },
+        {
+          "text": "basically our *deep* *state* the ones coming",
+          "location": 1224
+        }
+      ]
+    },
+    {
+      "id": "tvC2gQ4AczY",
+      "segments": [
+        {
+          "text": "of the *deep* *state* that is not cozy",
+          "location": 1626
+        },
+        {
+          "text": "put in by the *deep* *state* these unelected",
+          "location": 1876
+        },
+        {
+          "text": "*deep* *state* and the cabal and the",
+          "location": 2094
+        }
+      ]
+    },
+    {
+      "id": "TvVR9BnYdcM",
+      "segments": [
+        {
+          "text": "*deep* *state* obama clinton collusion with",
+          "location": 833
+        }
+      ]
+    },
+    {
+      "id": "UAHuVEBXel4",
+      "segments": [
+        {
+          "text": "others in the *deep* *state* the cabal all",
+          "location": 1140
+        }
+      ]
+    },
+    {
+      "id": "ubHkJ2JOyYc",
+      "segments": [
+        {
+          "text": "the *deep* *state* allows him to get when i",
+          "location": 1714
+        },
+        {
+          "text": "*deep* *state* allowing them to make a",
+          "location": 1939
+        },
+        {
+          "text": "obvious is trump warning the *deep* *state*",
+          "location": 2381
+        },
+        {
+          "text": "the news these are the eyes the *deep*",
+          "location": 2413
+        },
+        {
+          "text": "*state* does not want you to have so they",
+          "location": 2416
+        }
+      ]
+    },
+    {
+      "id": "uNbF9eE8iQo",
+      "segments": [
+        {
+          "text": "dreamlike *state* and ultimately that is a",
+          "location": 538
+        },
+        {
+          "text": "put us into a *deep* dream as we use our",
+          "location": 545
+        },
+        {
+          "text": "does that put us into a *deep* dreamlike",
+          "location": 555
+        },
+        {
+          "text": "*state* and our inner televisions and",
+          "location": 557
+        }
+      ]
+    },
+    {
+      "id": "uPZH86T-gbU",
+      "segments": [
+        {
+          "text": "referring to the *deep* *state* cabal who is",
+          "location": 123
+        },
+        {
+          "text": "by the *deep* *state* criminals who were",
+          "location": 575
+        },
+        {
+          "text": "over in the *deep* *state* right who love",
+          "location": 994
+        }
+      ]
+    },
+    {
+      "id": "UqoqSIhUkis",
+      "segments": [
+        {
+          "text": "inside the *deep* *state* so the narrative",
+          "location": 1059
+        },
+        {
+          "text": "the quote unquote new q d is *deep* *state*",
+          "location": 1265
+        },
+        {
+          "text": "*deep* *state* operative he's fighting with",
+          "location": 2578
+        }
+      ]
+    },
+    {
+      "id": "uUHrITp2OII",
+      "segments": [
+        {
+          "text": "compromised *deep* *state* back assad forces",
+          "location": 60
+        },
+        {
+          "text": "obviously *deep* *state*-backed",
+          "location": 1473
+        },
+        {
+          "text": "for agalya or compromised and *deep*",
+          "location": 2101
+        },
+        {
+          "text": "*state*-backed",
+          "location": 2104
+        },
+        {
+          "text": "what do we do against the *deep* *state* how",
+          "location": 2173
+        }
+      ]
+    },
+    {
+      "id": "UYZK6SLUDac",
+      "segments": [
+        {
+          "text": "have to understand the *deep* *state* works",
+          "location": 1304
+        }
+      ]
+    },
+    {
+      "id": "uznBzdoryQE",
+      "segments": [
+        {
+          "text": "cabal *deep* *state* whatever you want to",
+          "location": 305
+        }
+      ]
+    },
+    {
+      "id": "v__k4yoGtr0",
+      "segments": [
+        {
+          "text": "tonight q exposes exactly who the *deep*",
+          "location": 0
+        },
+        {
+          "text": "*state* is and he gives us an inside look",
+          "location": 2
+        },
+        {
+          "text": "*deep* *state* or there in the cabal or",
+          "location": 486
+        },
+        {
+          "text": "proven to be *deep* *state* slimeball",
+          "location": 678
+        },
+        {
+          "text": "saying the cia the *deep* *state* and the",
+          "location": 688
+        },
+        {
+          "text": "*state* department maybe is next i don't",
+          "location": 690
+        },
+        {
+          "text": "know if that *deep* *state* or *state*",
+          "location": 694
+        },
+        {
+          "text": "department but i'm guessing *state*",
+          "location": 695
+        },
+        {
+          "text": "could be the *deep* *state* in the cia in",
+          "location": 698
+        },
+        {
+          "text": "up what you would call the *deep* *state*",
+          "location": 799
+        },
+        {
+          "text": "this is the *deep* *state* this is the",
+          "location": 1157
+        }
+      ]
+    },
+    {
+      "id": "v1EVuUPy0TM",
+      "segments": [
+        {
+          "text": "seems that it was used a lot by the *deep*",
+          "location": 1658
+        },
+        {
+          "text": "*state* in the globalists in order to do a",
+          "location": 1660
+        }
+      ]
+    },
+    {
+      "id": "V5UBaiLKTJ8",
+      "segments": [
+        {
+          "text": "you can help the *deep* *state* help the the",
+          "location": 341
+        }
+      ]
+    },
+    {
+      "id": "VAb-q4zZZ84",
+      "segments": [
+        {
+          "text": "the same little globalist cabal of *deep*",
+          "location": 446
+        },
+        {
+          "text": "*state* actors who would rather as i've",
+          "location": 453
+        }
+      ]
+    },
+    {
+      "id": "VDiIHvrYiP4",
+      "segments": [
+        {
+          "text": "expose *deep* seat so muller could take",
+          "location": 2211
+        },
+        {
+          "text": "that evidence that would expose the *deep*",
+          "location": 2213
+        },
+        {
+          "text": "*state* and say it's a part of his ongoing",
+          "location": 2215
+        }
+      ]
+    },
+    {
+      "id": "VDNvoDprdXw",
+      "segments": [
+        {
+          "text": "to communicate with his *deep* *state* pals",
+          "location": 998
+        },
+        {
+          "text": "big *deep* *state* battle if you guys have",
+          "location": 1250
+        }
+      ]
+    },
+    {
+      "id": "vH2LP87XOhM",
+      "segments": [
+        {
+          "text": "administration in the *deep* *state* in",
+          "location": 510
+        }
+      ]
+    },
+    {
+      "id": "VIVQ8DSeXA0",
+      "segments": [
+        {
+          "text": "today *deep* *state* target how i got caught",
+          "location": 434
+        },
+        {
+          "text": "today *deep* *state* target how i got caught",
+          "location": 758
+        }
+      ]
+    },
+    {
+      "id": "VkklwV-XWV8",
+      "segments": [
+        {
+          "text": "want you to think oh q's this big *deep*",
+          "location": 2141
+        },
+        {
+          "text": "*state* we're all gonna you know run away",
+          "location": 2143
+        }
+      ]
+    },
+    {
+      "id": "vLkThiVu-7w",
+      "segments": [
+        {
+          "text": "fact that the *deep* *state* was trying to",
+          "location": 373
+        },
+        {
+          "text": "defending donald trump from the *deep*",
+          "location": 870
+        },
+        {
+          "text": "*state* and not sure again mysteriously",
+          "location": 871
+        }
+      ]
+    },
+    {
+      "id": "VLODkOCKOTQ",
+      "segments": [
+        {
+          "text": "news and the *deep* *state* and we're going",
+          "location": 178
+        },
+        {
+          "text": "if they were being used by the *deep*",
+          "location": 503
+        },
+        {
+          "text": "*state* bad actors and others in order to",
+          "location": 506
+        },
+        {
+          "text": "only by you know the *deep* *state* bad",
+          "location": 522
+        }
+      ]
+    },
+    {
+      "id": "Vm1M-wrzD30",
+      "segments": [
+        {
+          "text": "against the *deep* *state* against these",
+          "location": 260
+        }
+      ]
+    },
+    {
+      "id": "VNKopA1AWqc",
+      "segments": [
+        {
+          "text": "messages for their *deep* *state* criminal",
+          "location": 624
+        },
+        {
+          "text": "the *deep* *state* and we know that the *deep*",
+          "location": 708
+        },
+        {
+          "text": "*state* will go as far as they need to to",
+          "location": 710
+        },
+        {
+          "text": "the *deep* *state* most of them just",
+          "location": 773
+        },
+        {
+          "text": "basically will do whatever the *deep*",
+          "location": 774
+        },
+        {
+          "text": "*state* wants and comey is obviously a",
+          "location": 776
+        },
+        {
+          "text": "part of that *deep* *state* now think about",
+          "location": 779
+        },
+        {
+          "text": "gentlemen and the *deep* *state* just got",
+          "location": 988
+        },
+        {
+          "text": "of the *deep* *state* in syria amongst the",
+          "location": 1000
+        },
+        {
+          "text": "most strategic shipping port *deep* *state*",
+          "location": 1006
+        },
+        {
+          "text": "nsa against the cia and the *deep* *state*",
+          "location": 1017
+        },
+        {
+          "text": "other of these *deep* *state* connected",
+          "location": 1090
+        }
+      ]
+    },
+    {
+      "id": "vOxfriLzg30",
+      "segments": [
+        {
+          "text": "security clearance welcome to the *deep*",
+          "location": 690
+        },
+        {
+          "text": "*state* future proof future to prove past",
+          "location": 692
+        },
+        {
+          "text": "but that is the *deep* *state* and and that",
+          "location": 771
+        }
+      ]
+    },
+    {
+      "id": "vpPs1VYeYq4",
+      "segments": [
+        {
+          "text": "cuz obviously there's still *deep* *state*",
+          "location": 1352
+        },
+        {
+          "text": "connected to a *deep* *state* cabal ku",
+          "location": 1560
+        }
+      ]
+    },
+    {
+      "id": "VqfhBji9KRg",
+      "segments": [
+        {
+          "text": "democrats the radical left *deep* *state*",
+          "location": 777
+        }
+      ]
+    },
+    {
+      "id": "VSa_TIkV6lE",
+      "segments": [
+        {
+          "text": "from this *deep* *state* cabal that's used",
+          "location": 978
+        }
+      ]
+    },
+    {
+      "id": "w7usO3iDt_o",
+      "segments": [
+        {
+          "text": "they gave the surveillance *state* the",
+          "location": 1008
+        },
+        {
+          "text": "*deep* *state* surveillance state gave to",
+          "location": 1011
+        }
+      ]
+    },
+    {
+      "id": "wENuaVviKSo",
+      "segments": [
+        {
+          "text": "is a *deep* *state* and that he's you know",
+          "location": 346
+        }
+      ]
+    },
+    {
+      "id": "wgltyCeZ9pk",
+      "segments": [
+        {
+          "text": "of *deep* *state* players were gonna",
+          "location": 601
+        }
+      ]
+    },
+    {
+      "id": "wgx-dnhKrBU",
+      "segments": [
+        {
+          "text": "these people were working with the *deep*",
+          "location": 670
+        },
+        {
+          "text": "*state* with the fbi with the doj against",
+          "location": 673
+        },
+        {
+          "text": "through the *deep* *state* here in america",
+          "location": 1070
+        },
+        {
+          "text": "there'd beholden to basically the *deep*",
+          "location": 1097
+        },
+        {
+          "text": "*state* and the upper echelon so that",
+          "location": 1100
+        },
+        {
+          "text": "control the *deep* *state* the soros the raw",
+          "location": 1102
+        },
+        {
+          "text": "she still controls the *deep* *state* and",
+          "location": 1168
+        }
+      ]
+    },
+    {
+      "id": "WJ_m4kinM7w",
+      "segments": [
+        {
+          "text": "we all have there there's a *deep* *state*",
+          "location": 508
+        },
+        {
+          "text": "bureaucracy there and then the the *deep*",
+          "location": 934
+        },
+        {
+          "text": "*state* lead left behind or leave behind",
+          "location": 937
+        },
+        {
+          "text": "another pawn of the *deep* *state* it would",
+          "location": 969
+        }
+      ]
+    },
+    {
+      "id": "WxIbdhY0A54",
+      "segments": [
+        {
+          "text": "tear down an institution the *deep* *state*",
+          "location": 241
+        },
+        {
+          "text": "behalf of the *deep* *state* to start a war",
+          "location": 724
+        }
+      ]
+    },
+    {
+      "id": "X6DgdzLcbTc",
+      "segments": [
+        {
+          "text": "against the *deep* *state* and what they've",
+          "location": 1161
+        }
+      ]
+    },
+    {
+      "id": "x8rM1oZB8U8",
+      "segments": [
+        {
+          "text": "informed talk as the *deep* *state*",
+          "location": 35
+        },
+        {
+          "text": "*deep* *state* swamp protecting creature",
+          "location": 351
+        },
+        {
+          "text": "globalists *deep* *state* cabal all they did",
+          "location": 632
+        },
+        {
+          "text": "thousands if not more of these *deep*",
+          "location": 653
+        },
+        {
+          "text": "*state* criminals these corrupt criminals",
+          "location": 656
+        },
+        {
+          "text": "possible blackmail upon him by *deep*",
+          "location": 1136
+        },
+        {
+          "text": "*state* actors who most certainly know his",
+          "location": 1138
+        },
+        {
+          "text": "inner workings of the *deep* *state* because",
+          "location": 1549
+        }
+      ]
+    },
+    {
+      "id": "XD8UWjkcE1s",
+      "segments": [
+        {
+          "text": "organizations these *deep* *state* actors",
+          "location": 769
+        }
+      ]
+    },
+    {
+      "id": "XqmwL0TTfo0",
+      "segments": [
+        {
+          "text": "everything we still run the *deep* *state*",
+          "location": 478
+        }
+      ]
+    },
+    {
+      "id": "xsFay-hybec",
+      "segments": [
+        {
+          "text": "clinton's and the *deep* *state* as serious",
+          "location": 292
+        },
+        {
+          "text": "along with the *deep* *state* the former uh",
+          "location": 357
+        }
+      ]
+    },
+    {
+      "id": "xsO-xNEhoBI",
+      "segments": [
+        {
+          "text": "who were in basically in bed with *deep*",
+          "location": 423
+        },
+        {
+          "text": "*state* intelligence agencies globalist",
+          "location": 427
+        },
+        {
+          "text": "is this you create the *deep* *state* needed",
+          "location": 442
+        }
+      ]
+    },
+    {
+      "id": "xSQvQDtzB6U",
+      "segments": [
+        {
+          "text": "for the *deep* *state* or the *deep*",
+          "location": 524
+        },
+        {
+          "text": "technology we had in 1960 the *deep* *state*",
+          "location": 741
+        },
+        {
+          "text": "as a sleep *state* and that's why they",
+          "location": 923
+        },
+        {
+          "text": "call it *deep* dream and it is used by the",
+          "location": 926
+        }
+      ]
+    },
+    {
+      "id": "xTJgKGF--OQ",
+      "segments": [
+        {
+          "text": "individuals let's say *deep* *state*",
+          "location": 285
+        }
+      ]
+    },
+    {
+      "id": "xYBSsLGzMlc",
+      "segments": [
+        {
+          "text": "around the *deep* *state* got an unrespected",
+          "location": 1006
+        }
+      ]
+    },
+    {
+      "id": "YACpICjPygE",
+      "segments": [
+        {
+          "text": "cailli an agent of this *deep* *state*",
+          "location": 531
+        },
+        {
+          "text": "fakery now here's no *deep* dive into the",
+          "location": 1544
+        },
+        {
+          "text": "*deep* *state* unpacking the summer of trump",
+          "location": 1547
+        }
+      ]
+    },
+    {
+      "id": "YAHylAzN21o",
+      "segments": [
+        {
+          "text": "needed to expose the *deep* *state* doj",
+          "location": 638
+        },
+        {
+          "text": "could implicate there was a *deep* *state*",
+          "location": 651
+        }
+      ]
+    },
+    {
+      "id": "YAZ0b3JyML8",
+      "segments": [
+        {
+          "text": "spots for *deep* *state* people who are",
+          "location": 1634
+        }
+      ]
+    },
+    {
+      "id": "yc4umVzljCM",
+      "segments": [
+        {
+          "text": "*deep* *state* they're trying to attack him",
+          "location": 424
+        },
+        {
+          "text": "a *deep* *state* move why are they doing it",
+          "location": 446
+        }
+      ]
+    },
+    {
+      "id": "YkrFx8fhafI",
+      "segments": [
+        {
+          "text": "people this is why cia and *deep* *state*",
+          "location": 899
+        },
+        {
+          "text": "protects him and this is why the *deep*",
+          "location": 900
+        },
+        {
+          "text": "*state* in the sea i do not want him to be",
+          "location": 902
+        }
+      ]
+    },
+    {
+      "id": "YLlsruYA4pk",
+      "segments": [
+        {
+          "text": "fisa warrants out against the *deep* *state*",
+          "location": 8
+        },
+        {
+          "text": "against the *deep* *state* right now and",
+          "location": 1038
+        },
+        {
+          "text": "yeah i mean the *deep* *state* wants to put",
+          "location": 2404
+        }
+      ]
+    },
+    {
+      "id": "YlYxp4VTDgw",
+      "segments": [
+        {
+          "text": "in this this coup and this cabal of *deep*",
+          "location": 1158
+        },
+        {
+          "text": "*state* globalist whatever this should be",
+          "location": 1161
+        }
+      ]
+    },
+    {
+      "id": "YSoJN2dPoZw",
+      "segments": [
+        {
+          "text": "insurance policy what part of the *deep*",
+          "location": 1475
+        },
+        {
+          "text": "*state* did michael cohen crawl out from",
+          "location": 1477
+        }
+      ]
+    },
+    {
+      "id": "ywlM82gfvbk",
+      "segments": [
+        {
+          "text": "propaganda arm of democrats and *deep*",
+          "location": 107
+        },
+        {
+          "text": "*state* feeling panic silence is golden",
+          "location": 110
+        },
+        {
+          "text": "leaker of *deep* *state* activities and",
+          "location": 1718
+        }
+      ]
+    },
+    {
+      "id": "Z3cDEAKbMyA",
+      "segments": [
+        {
+          "text": "arm the the *deep* *state* with the",
+          "location": 1689
+        },
+        {
+          "text": "*deep* *state* arm that's that's controlling",
+          "location": 1863
+        }
+      ]
+    },
+    {
+      "id": "zB8nIspKlco",
+      "segments": [
+        {
+          "text": "*deep* *state* hi i'm craig and welcome to",
+          "location": 9
+        },
+        {
+          "text": "get the media and the *deep* *state* to work",
+          "location": 83
+        },
+        {
+          "text": "have a *deep* *state* attorney in front of a",
+          "location": 1072
+        },
+        {
+          "text": "*deep* *state* sympathizers who now have the",
+          "location": 1077
+        },
+        {
+          "text": "plan *deep* *state* mainstream media eating",
+          "location": 1317
+        },
+        {
+          "text": "objective is to keep feeding the *deep*",
+          "location": 1320
+        },
+        {
+          "text": "*state* mainstream media all this gossip",
+          "location": 1322
+        },
+        {
+          "text": "*deep* *state* in the mainstream media are",
+          "location": 1413
+        }
+      ]
+    },
+    {
+      "id": "Zfa1UNNaPxc",
+      "segments": [
+        {
+          "text": "prove damning to the *deep* *state* julian",
+          "location": 1176
+        },
+        {
+          "text": "information on the *deep* *state* julian",
+          "location": 1188
+        },
+        {
+          "text": "must be covered by *deep* *state* organs",
+          "location": 1195
+        }
+      ]
+    },
+    {
+      "id": "ZGLLyMlvoUY",
+      "segments": [
+        {
+          "text": "*deep* *state* scumbags one at a time and i",
+          "location": 135
+        },
+        {
+          "text": "in the *deep* *state* thus all speculation",
+          "location": 869
+        },
+        {
+          "text": "*deep* *state* i have no respect for your",
+          "location": 916
+        },
+        {
+          "text": "*deep* *state* or do you not are you that",
+          "location": 970
+        },
+        {
+          "text": "general approach from an anti *deep* *state*",
+          "location": 1084
+        },
+        {
+          "text": "an anti an unelected *deep* *state* who",
+          "location": 1089
+        },
+        {
+          "text": "forced because the *deep* *state* was still",
+          "location": 1944
+        }
+      ]
+    },
+    {
+      "id": "zlajBZP3nH0",
+      "segments": [
+        {
+          "text": "people who run the *deep* *state* who are",
+          "location": 1348
+        }
+      ]
+    },
+    {
+      "id": "ZnPojroUsrU",
+      "segments": [
+        {
+          "text": "and the *deep* *state* in testing its ivs",
+          "location": 775
+        },
+        {
+          "text": "if the *deep* *state* has nuclear weapons",
+          "location": 938
+        },
+        {
+          "text": "imagine for a second what the *deep* *state*",
+          "location": 946
+        },
+        {
+          "text": "others i relentlessly pounding the *deep*",
+          "location": 1200
+        },
+        {
+          "text": "*state* is a proof the independence we",
+          "location": 1202
+        }
+      ]
+    },
+    {
+      "id": "ZOUO80Q44B4",
+      "segments": [
+        {
+          "text": "to be some *deep* *state* actors maybe i",
+          "location": 673
+        }
+      ]
+    },
+    {
+      "id": "zUQ1UARkl24",
+      "segments": [
+        {
+          "text": "the the *deep* *state* tactics that he had",
+          "location": 546
+        }
+      ]
+    },
+    {
+      "id": "ZZJ6BNKXcTw",
+      "segments": [
+        {
+          "text": "9:1 outage exposed a major *deep* *state*",
+          "location": 584
+        },
+        {
+          "text": "exposure of the *deep* *state* money and the",
+          "location": 854
+        },
+        {
+          "text": "involved who are supposedly *deep* *state*",
+          "location": 937
+        },
+        {
+          "text": "the *deep* *state* corporations which we",
+          "location": 1031
+        }
+      ]
+    },
+    {
+      "id": "q_QmpI9cyRY",
+      "segments": [
+        {
+          "text": "*deep* *state* actors trying to enact a coup",
+          "location": 971
+        }
+      ]
+    },
+    {
+      "id": "zy611VHFFwU",
+      "segments": [
+        {
+          "text": "referring to reddish the *deep* *state*",
+          "location": 1269
+        }
+      ]
+    }
+  ]
+}

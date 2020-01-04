@@ -1,0 +1,1023 @@
+{
+  "indexed": "_4cUOL3WjoQ,_4Qz2wgXF-0,_8pSTgIxZYs,_Dbmz9RiNz8,_FzxnbyTxxQ,_oalbnteAOs,_OFjUWoWjWA,_oFMGK4Zh0A,_wl1SQ5vloE,-_jy9XWrtVk,--S8YcaR4e0,-p4aixMy9C4,-TnUgDxmhcM,-UfGgbKad1g,-YMqBPbzLf4,-zegrO4DwyY,-zp_jtLiWGk,0_wrqY4QP1E,0c2dd2MuBdw,0Hdas49YCcc,0p6fPfG6eEc,0qKt8Cx_ddw,18zfwUCc61M,1a-U_X08U6I,1d-2uv-xfmE,1DrHzWvI6KM,1jFANB5HfVw,1rSUgsXkMV0,1SgrMFFmtXk,1x_vXcUl-5U,2-KyGPW6w2o,2AsamkPRWkQ,2AZ6VHCqhUM,2CveVgGWJ1Q,2eBSc_bwnWU,2isbWX0zE40,2n51hzqIt0U,30V4Szn4Iuk,3FDNRfZmq40,3i07C4yqOJE,3Od71di7MIo,42B7PCn1Snk,4c4fWaJxAlI,4CljEa5NWyM,4NHl0qZswsM,4pjGWGmVlVo,4QaAgo9xq-I,4tIXYYEObRw,4wtx2cZ0Kbg,57ly_O6zk1A,5ez2srKespc,5fKoGtGai84,5g7ly1jWyh4,5l_hHwjMj84,5Vd-T0ytuDo,5ZAoB5_5Z9U,6_w68fyEHQc,69-YMBkQjMI,6fchAsMqtiI,6hqfPPhwYEc,6nJMwv18PhY,6ORf3NMddJw,6PlU0kJsMgg,7EeZJ3nqRi4,7gQa2DnB57E,7kFWz6d6QE0,7TxVMkmEflw,7Z1stYjs00o,8597QdaRrYg,8DPY5g6bmnI,8IC-EoVQ4Xw,8mQgCzVLJNQ,8NN2XuMbWvM,8tD41JIC-_s,8u9QT__UJw8,8W3YXImU6m0,9_Av3k1XGlI,99tcg2P0X00,9CjCqKVUaXU,9fg2HjtiQnw,9j5zzgc_ZW8,9njNU0ihgk4,9sbvu6QbGFQ,a1NA7RMfN2g,a4aHKKrnkIU,a59mWRqqJVc,AAAqCJKxkwY,aC2UGtWJMMw,AJZaQtuk-4U,ajzXU44c9l0,aKwDn2vzjnE,ANcWcVKyFEU,aUFEtFY36i4,AuV31bAKsW0,aV2xcCxaoTQ,AVGvXMl-ItU,aWDsJdeJWUY,b-byy2INS9E,BaLiAUykwk0,BeiNOvXEgeE,BhTX5laZ2dk,biSiJkBSrRU,bNkOryQKYhw,bQKYJG_NiuA,bWxE0JiEk5s,c0ng2LuHw3M,c6ngdj0aaBM,C8qMDMjmTyI,C9R-YD7lyhQ,CbNcUJ8HhXI,CbwoJvdo1BA,cFwd5UYWjxg,ClGKQvSylxk,clPhNj9RaOA,CPvD8HQ9Koc,csJU-a0MsZU,CwPvAUnU1Yg,CZvTFgzePlE,D0-lVCkgnIo,D183UhhCkdY,d76FqB5mBAw,DC6aYwKxQuw,dcQwuAxJb1I,DCTFYjIyqKA,dDxwcnUK53M,dgq3HSm2erQ,dgSTsrt-xX4,dHEMRwLEmlE,DiwdnJM3nAo,DJv8lb0mOqM,dkM8045LNbE,DlzLPVjHTeQ,DnTmhNoGyII,DQC5UiWzy-8,drFJG5-3RkA,Dro05nL_8Q8,dTF780QtN4E,dU0lvgrh6DQ,DVBzdQkRXWA,dXWAJLtJB6Y,E_lX3ZHA37U,e56SvLE_RGg,E60RhCVo0Nc,e6N1eCPGlBU,EhJieMpQXss,EKJBGDEHACI,emFk7vdarkA,eNUUqqwl0y4,eQFO3jslMHQ,ezw5g2S3888,f5J1g1S6goc,F6FfGbDGadc,f83TwcKnBp0,fDmxsQuEP90,Fef0ckAi630,fElxhk6SPu0,ffMAs2enoSo,FFTR2iEL2js,FJxIZeGscPc,FL5dULT3V94,fnBTbYAloFI,Fqv09KbOBTs,FRWbHgBA0d4,FsAGKSpgOVA,G8RApYO_n4c,gAunspUVzt8,GeoMB0WD9zU,GL_l7uGX8WY,GmFrEcyOCp0,gsudyktd4fc,GTFYwFVnXcQ,GUGdEdeZudM,Gv1ywPbHj-o,gxQe3UABhx4,GYcc_-8ADXw,GYzjtOTWk-M,h7lUMLj5xc8,h8fY2MYcoNI,HCV4jvriRkE,hF85EcXHdcI,HHSnx8HC97A,HJeWmOs9wws,hm7vb0wXijM,hM8sH1MZw_g,hmy7oxlLags,hn24hIKvZbE,hnoAixwDefg,hoZ1m8riCT0,hpnqURGkTvg,hrxVT4O_yXw,hT2dO3hM0RU,ht4idpfAARg,HtAF-S85w3o,hUkXVxPeP1U,hWCe5072mGg,I0zqCx1naaM,I3O-3gOOu7U,I5v4YoUjjhA,ibKILQFF3Hg,IBsxf0_Fiic,iBT6FhBCxp4,IHYV7n-1zGo,IiaKY5Ujz7o,IiVbtXtLoNk,IMLdY9Nid_M,imUQxYkMdMk,IR0YwQ0eWdk,iwb8_ldGl0Q,iZPnPKNZFyE,iZsEJ9Ll3DM,J7kMoeWHbAI,J8hdeaykViY,jJCU5JneN4U,JjZFIj6NXCc,JlKOJvTxmSw,JMLGr0t6WiE,joSVWRny9HY,JPE9wHKtcOE,jRYWKOVi9pc,jsibKmea0xs,JuSQ-NzDoxg,jVpWkmxdXZw,jwGExC1hK2w,jwgPeHMA0XQ,jXc0VnfROxk,JxhlF_Z7WBM,JxKmYtvPBgE,jXO0XeoKttw,Jz9V0uTiyX0,k088BHq7MwA,K0gos2mEDoM,k1d1W0FUIeI,K1GPxgU4GYc,k5zAPe3j-P8,kdxBP7B-Adg,kFOvXGMP19Y,kGmVWi6HGz8,ki5x7vPxw2k,kI9qKn5aUQo,kiOrZBcyc1Y,kNWM4qCBjFQ,KRGSqTF8gQs,krxOVnXMgaU,Ksvn8UI904Y,KuMFUPtKpWU,KWlDcvcMSP0,kx1_z42TIek,KyFXo23tZrY,L_AioX3MApk,l_eG95KK0ko,L6DFq19kCJE,lCv2RSt-JHw,ldS90gRrNJ8,LIlfhpscpJc,ll4IuzQmlvg,LNwU2glC7us,lOvRgFBALEE,Ls6pFKYsuRQ,Lud9cMxisCU,Lvf3UmSv7hQ,lwlUMKv6yKk,LYiNW4p6mTc,M-OAIeWVUDM,m78DMlWY5jU,mfnne9u9Cu4,mk2O0Qu5Ipw,mkyo0m45CBM,MmaN6V7_U3w,mqFZp6EQEoo,msftou8Vxk8,mWXhdPz1L9o,MXdC-izUy0M,Na2MqQzIAWU,NEadjTosApo,nhlRiZtgfsw,NMOEpMntZ3I,nQ-0S4_mZrY,nWNoUZTN608,nyh7YbsGMQc,nzY2NnJ1J-M,o__gS7JUijA,O08ze6jltco,O3cKYCEcCnQ,o4mGsJ23IA4,O4qUKaf9bD0,o5yAF9IIO4A,oaA15FYN6pc,ODM8N8bDjqc,oDskmmkin4c,OgGTcg1AihQ,om3LDAA8yVU,oQRZaJOlSks,OSBqv2i2UOk,OsOBa27SOnY,Ov3Pyqr1U7Y,ow-WxWBd10M,oWCdApAaLH0,OZE1KEtsqaM,ozT-lj5XpsE,p_8uD_4uX_0,P-_5KJ5EauM,P1q67rQAgdY,P2z0UhWg2gw,p5nZX-r7On4,pbPqTtqMTUQ,pfFRcVFhr_w,PHjE6wH3OB0,PInpDeOIhKA,PKobwTynNHA,pl0fwd-P78k,pLhgQLWQ-JY,pMWD6H6J6XE,POvz-gw3EOA,pp29EPi2Nwk,PS4IQx8T8ew,PVA8g-1ZALM,PZaRVcudtpA,pZMOu5AGars,q2BoeQDb5cw,Q4lYHA1-5NI,QcA3NVCYYWM,qeKqoJMDCM4,QfabmC75wZo,qfvttt2-pD4,QI-R7580Rsg,qlfMm_3mRUM,qPj6F9EIiJ0,QREPrbHU5hE,QT9GR13m5tU,qTxF4G8Pv6k,qx5yJKzKdDo,qyHeRsJaOZM,qYTw5XHHlTI,QYVw6lFa2Dw,QzRgzW-vIpY,r-xFCir8FpU,R6Bn5Eb7KFQ,RiGvVpKGkJg,rjmozTz_hlw,RnnD5KWqURk,RoXwhmL6yk8,Rs_aMycvbRY,rw3bpnmOaOE,rYLOgFQPEZE,ryS7Gvupg1Q,s1yQvbIWklg,S29kJPp3Ad8,S5PPhpbmt0k,SccFd5RrtlY,scnr8t3L4Wk,seROfjjMZiM,sK3cWjgBo50,SmoJQloPBHo,sqdpWV0fsEM,stNCvaIyjXA,Suful5k9TD0,SXo1cP5spks,szuPUju1yDQ,T_rt5tZWITc,t4GTAV3tf_k,t8qFpNI6yEM,tdiYCDXpk6I,TEiHLbWSCjg,TFB_WmGDb68,TJAryFVNobk,Tm8ZULL-zhk,to7v8Ndz5Dk,toSmM8-7XQY,TQha2IMjYBA,TqjbXClcNjs,Ts1U1iWq5w0,TTD7TgHI41Q,TVSkK_uZsdY,tX-MZm7lG9k,TXWLPzYNjgs,tYCL2clTy7k,U8-rksGOIKw,ubLtyQx4d2g,Uc1dgkXKgsI,uGmQeN7__6A,Uh397S0AxoM,UhgdWME2v0w,uHIrFFUWMkk,UJ7YySYLIPA,uoZG3XG7t0k,UqfKAvJ94Pg,urKkOdgMzIs,uwW6MeAvOQE,v036BBaxXe0,VaFOU9dVE7k,VCniIY1N4YE,vkp2CaEbhiU,VncyqSWVJ1A,vP8G3gztQWA,VtSXKVw20bo,vVfyUAbNzb8,vwEYKWtzgJE,Vz6_nf_Sav4,w0WYAvWrMI4,W4IXATAA-HI,W4vxQB8tpDI,W8856fu_UG0,w8XTiVE3ej8,WBPI6wqGjjI,WcGmPQLhS-g,WeQOS11pAuE,WGuSyYujJCg,WM3BdU7uig4,wo825dKxQJc,WTLpneg-TiE,wTV4wML2Syg,WVR_d33tydI,wyDr_3phD6A,WyFwfxjVmHU,x1GukexVR9w,X7XMlZzPn_g,x9YqAiZo7jE,xcjHb6BxTrY,XCwr86ol3Oo,XddDHRwCA6Q,XdfdQT3XSBg,XEDGXGXKsPk,xEqavcwFyLY,XEVieVy5tA0,XfuNLvrXCo4,xLY5r0jjR9Y,XNrwbfS6f1Q,XPbSQ67Hxe8,xU16fgjFWek,XWrKp_tL4VE,XyN4KiYqsqs,y-874vzHt4A,y-ZyS9x6JNk,y4AhWpuyomw,Y9B1jNym-K8,yAXz6lYNxHE,YDZxU7hSkE8,YHeh4p3hPIQ,YJbF_WyHOVg,yJCimzETdYQ,yOpkW6xCbo8,YPT-X7gTA4o,yqgU3coXHpY,YU1dT0inBgg,YVTrXMak0UU,yW2tYWuXafY,YW7MVkX9o_Q,yZPh6hYXIFI,z2yDHKVsLqg,Z4i2A6q_4Rk,Z4u2xZqZKn0,ZD_4uv4ef-k,ZdBQqomzssg,zEBIukow088,ZgM3WPC5LSw,zhGG_oIrsCw,Zjr-J3FOvek,zlTIq16o_Jo,ZmelaC42YqU,ZMjEM7D61oo,ZNaN4eVbOEQ,zQhjVOzzoBw,zsp80ZqtMzo,zUCswDyNLsk,zurUyF0byS0,zvCofZWMmuc,ZW_LiXGfSkA,zWP_ImZu2zg,zzJ-tlw_GvY,ZzpP6lcBjsY",
+  "topic": "Soros",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_OFjUWoWjWA",
+      "segments": [
+        {
+          "text": "why did *soros* replace why what family",
+          "location": 1190
+        }
+      ]
+    },
+    {
+      "id": "_wl1SQ5vloE",
+      "segments": [
+        {
+          "text": "*soros* funding a migrant caravan heading",
+          "location": 1138
+        }
+      ]
+    },
+    {
+      "id": "-p4aixMy9C4",
+      "segments": [
+        {
+          "text": "*soros* fund worldwide counter events who",
+          "location": 1423
+        },
+        {
+          "text": "department was funding *soros* via slush",
+          "location": 1548
+        },
+        {
+          "text": "it wasn't even *soros* his money that he's",
+          "location": 1556
+        },
+        {
+          "text": "left-liberal stuff for *soros* that's you",
+          "location": 1754
+        },
+        {
+          "text": "george *soros* all those leftist and tifa",
+          "location": 1772
+        },
+        {
+          "text": "of them and *soros* and theirs and saudi",
+          "location": 2422
+        },
+        {
+          "text": "yeah george *soros* oh look the puppets",
+          "location": 2483
+        },
+        {
+          "text": "*soros* so and then of course we're",
+          "location": 2490
+        },
+        {
+          "text": "read pakistan roth's *soros* banks",
+          "location": 2586
+        }
+      ]
+    },
+    {
+      "id": "-zp_jtLiWGk",
+      "segments": [
+        {
+          "text": "roth trials are the *soros* let's go ahead",
+          "location": 30
+        },
+        {
+          "text": "rothschild six plus plus *soros* six plus",
+          "location": 206
+        },
+        {
+          "text": "rothschild two pluses *soros* one plus",
+          "location": 233
+        },
+        {
+          "text": "saudi arabia rothschild *soros*",
+          "location": 264
+        }
+      ]
+    },
+    {
+      "id": "1rSUgsXkMV0",
+      "segments": [
+        {
+          "text": "caravan than *soros* i mean really i mean",
+          "location": 1181
+        },
+        {
+          "text": "liberal billionaire george *soros*",
+          "location": 1202
+        },
+        {
+          "text": "for *soros* to fund the caravan because it",
+          "location": 1225
+        },
+        {
+          "text": "is paying for this than george *soros* to",
+          "location": 1233
+        },
+        {
+          "text": "had the other one *soros* funding border",
+          "location": 1255
+        },
+        {
+          "text": "so leftist billionaire george *soros* or",
+          "location": 1258
+        },
+        {
+          "text": "leftist billionaire george *soros* is",
+          "location": 1266
+        },
+        {
+          "text": "are funded by george *soros* is open",
+          "location": 1284
+        }
+      ]
+    },
+    {
+      "id": "2CveVgGWJ1Q",
+      "segments": [
+        {
+          "text": "*soros* funded group arrested for battery",
+          "location": 35
+        },
+        {
+          "text": "george *soros* was arrested tuesday after",
+          "location": 64
+        },
+        {
+          "text": "this david brock guys george *soros*",
+          "location": 117
+        },
+        {
+          "text": "donor is the liberal billionaire *soros*",
+          "location": 206
+        },
+        {
+          "text": "*soros* is still involved with the group",
+          "location": 213
+        }
+      ]
+    },
+    {
+      "id": "2isbWX0zE40",
+      "segments": [
+        {
+          "text": "mr. crew *soros* q so we know we know",
+          "location": 1908
+        },
+        {
+          "text": "*soros* is heavily involved in the caravan",
+          "location": 1912
+        }
+      ]
+    },
+    {
+      "id": "4QaAgo9xq-I",
+      "segments": [
+        {
+          "text": "*soros* transfer of wealth absolutely",
+          "location": 677
+        },
+        {
+          "text": "dobie freed it has no money so *soros* is",
+          "location": 680
+        },
+        {
+          "text": "*soros* puppet rothschild puppet marriage",
+          "location": 692
+        },
+        {
+          "text": "*soros* clinton i was never able to prove",
+          "location": 697
+        },
+        {
+          "text": "related to *soros* like by he's the nephew",
+          "location": 706
+        }
+      ]
+    },
+    {
+      "id": "8DPY5g6bmnI",
+      "segments": [
+        {
+          "text": "what happens if *soros* funding operations",
+          "location": 1790
+        },
+        {
+          "text": "is fake it was funded by george *soros*",
+          "location": 1915
+        },
+        {
+          "text": "george *soros* pays for antiva out of his",
+          "location": 2170
+        }
+      ]
+    },
+    {
+      "id": "9_Av3k1XGlI",
+      "segments": [
+        {
+          "text": "times and bruce *soros* involved or",
+          "location": 981
+        }
+      ]
+    },
+    {
+      "id": "a1NA7RMfN2g",
+      "segments": [
+        {
+          "text": "drops regarding *soros* and taxpayer",
+          "location": 798
+        },
+        {
+          "text": "just do a little search on *soros* to kind",
+          "location": 810
+        },
+        {
+          "text": "obama *soros* roth clinton is such i have",
+          "location": 819
+        },
+        {
+          "text": "why did *soros* transfer his bulk public",
+          "location": 823
+        },
+        {
+          "text": "ups why did *soros* a sudden okay i just",
+          "location": 839
+        },
+        {
+          "text": "george *soros* go why can it be used by",
+          "location": 849
+        },
+        {
+          "text": "puppet masters and *soros* is listed as",
+          "location": 879
+        },
+        {
+          "text": "plus and then plus plus plus is *soros*",
+          "location": 900
+        },
+        {
+          "text": "okay but *soros* controls organizations of",
+          "location": 970
+        },
+        {
+          "text": "*soros* takes orders from p so if you go",
+          "location": 1015
+        },
+        {
+          "text": "*soros* takes orders from p you have no",
+          "location": 1036
+        },
+        {
+          "text": "none how does george *soros* fund",
+          "location": 1084
+        }
+      ]
+    },
+    {
+      "id": "a59mWRqqJVc",
+      "segments": [
+        {
+          "text": "george *soros* i mean there's lots to find",
+          "location": 2180
+        }
+      ]
+    },
+    {
+      "id": "csJU-a0MsZU",
+      "segments": [
+        {
+          "text": "the family saudi arabia *soros*",
+          "location": 1556
+        }
+      ]
+    },
+    {
+      "id": "E_lX3ZHA37U",
+      "segments": [
+        {
+          "text": "obama *soros* roth's clinton's etc have",
+          "location": 1245
+        },
+        {
+          "text": "his thinking realize *soros* clinton obama",
+          "location": 2232
+        },
+        {
+          "text": "*soros* fit in all right so that's there's",
+          "location": 2643
+        },
+        {
+          "text": "know rothschild *soros* an tangent it's",
+          "location": 2669
+        }
+      ]
+    },
+    {
+      "id": "EKJBGDEHACI",
+      "segments": [
+        {
+          "text": "mr. *soros* q yeah because he's a foreign",
+          "location": 1014
+        }
+      ]
+    },
+    {
+      "id": "ffMAs2enoSo",
+      "segments": [
+        {
+          "text": "cabal families saudi arabia george *soros*",
+          "location": 125
+        }
+      ]
+    },
+    {
+      "id": "fnBTbYAloFI",
+      "segments": [
+        {
+          "text": "your uh *soros* the rothschilds and saudi",
+          "location": 1718
+        }
+      ]
+    },
+    {
+      "id": "FRWbHgBA0d4",
+      "segments": [
+        {
+          "text": "*soros* back to group and then there's a",
+          "location": 2253
+        },
+        {
+          "text": "link here *soros* ran us foreign policy on",
+          "location": 2254
+        },
+        {
+          "text": "prostitution he also worked with *soros*",
+          "location": 2327
+        }
+      ]
+    },
+    {
+      "id": "GmFrEcyOCp0",
+      "segments": [
+        {
+          "text": "i mean the two pluses are *soros* and the",
+          "location": 2442
+        }
+      ]
+    },
+    {
+      "id": "GTFYwFVnXcQ",
+      "segments": [
+        {
+          "text": "that be george *soros* that's also a movie",
+          "location": 2003
+        },
+        {
+          "text": "potus suffer from the *soros* loser bots",
+          "location": 2043
+        }
+      ]
+    },
+    {
+      "id": "Gv1ywPbHj-o",
+      "segments": [
+        {
+          "text": "funds everywhere think george *soros* pays",
+          "location": 117
+        }
+      ]
+    },
+    {
+      "id": "h8fY2MYcoNI",
+      "segments": [
+        {
+          "text": "everywhere think george *soros* pays for",
+          "location": 571
+        }
+      ]
+    },
+    {
+      "id": "IBsxf0_Fiic",
+      "segments": [
+        {
+          "text": "everywhere think george *soros* pays free",
+          "location": 2583
+        }
+      ]
+    },
+    {
+      "id": "IHYV7n-1zGo",
+      "segments": [
+        {
+          "text": "that says george *soros* the vatican and",
+          "location": 353
+        },
+        {
+          "text": "financier george *soros* and the vatican",
+          "location": 397
+        }
+      ]
+    },
+    {
+      "id": "IMLdY9Nid_M",
+      "segments": [
+        {
+          "text": "*soros* related perhaps in the kill box",
+          "location": 346
+        },
+        {
+          "text": "different things i think *soros* was noted",
+          "location": 453
+        }
+      ]
+    },
+    {
+      "id": "imUQxYkMdMk",
+      "segments": [
+        {
+          "text": "yourself into thinking obama *soros* the",
+          "location": 2446
+        }
+      ]
+    },
+    {
+      "id": "iZPnPKNZFyE",
+      "segments": [
+        {
+          "text": "cute told us that plus is *soros* it's a",
+          "location": 2333
+        }
+      ]
+    },
+    {
+      "id": "JjZFIj6NXCc",
+      "segments": [
+        {
+          "text": "machines *soros* what about the voter id",
+          "location": 2225
+        }
+      ]
+    },
+    {
+      "id": "jXc0VnfROxk",
+      "segments": [
+        {
+          "text": "hrc hillary clinton gs george *soros* and",
+          "location": 1194
+        },
+        {
+          "text": "absolutely maybe not george *soros* so",
+          "location": 1236
+        }
+      ]
+    },
+    {
+      "id": "JxKmYtvPBgE",
+      "segments": [
+        {
+          "text": "house of saud rothschild *soros* focus on",
+          "location": 1773
+        }
+      ]
+    },
+    {
+      "id": "Jz9V0uTiyX0",
+      "segments": [
+        {
+          "text": "george *soros* pays for an tifa out of his",
+          "location": 488
+        }
+      ]
+    },
+    {
+      "id": "k1d1W0FUIeI",
+      "segments": [
+        {
+          "text": "six plus plus *soros* plus so if you've",
+          "location": 387
+        },
+        {
+          "text": "ever doubted before *soros* is one plus",
+          "location": 392
+        }
+      ]
+    },
+    {
+      "id": "L_AioX3MApk",
+      "segments": [
+        {
+          "text": "rothschilds or george *soros* for that",
+          "location": 1146
+        },
+        {
+          "text": "matter it's probably george *soros*",
+          "location": 1148
+        }
+      ]
+    },
+    {
+      "id": "l_eG95KK0ko",
+      "segments": [
+        {
+          "text": "coincidence when george *soros* calls deez",
+          "location": 1422
+        }
+      ]
+    },
+    {
+      "id": "ll4IuzQmlvg",
+      "segments": [
+        {
+          "text": "pos control our country realize *soros*",
+          "location": 1699
+        },
+        {
+          "text": "godspeed patriots ps *soros* is targeted",
+          "location": 1765
+        }
+      ]
+    },
+    {
+      "id": "mfnne9u9Cu4",
+      "segments": [
+        {
+          "text": "as george *soros* rockefeller foundation",
+          "location": 1299
+        }
+      ]
+    },
+    {
+      "id": "mqFZp6EQEoo",
+      "segments": [
+        {
+          "text": "*soros* is pulling her strings hashtag",
+          "location": 775
+        },
+        {
+          "text": "lance kim fox *soros* backed prosecutor",
+          "location": 959
+        },
+        {
+          "text": "*soros* and because i don't want to read",
+          "location": 967
+        },
+        {
+          "text": "donor george *soros* part of it part of an",
+          "location": 992
+        }
+      ]
+    },
+    {
+      "id": "nWNoUZTN608",
+      "segments": [
+        {
+          "text": "supporting some *soros* domestic programs",
+          "location": 1275
+        }
+      ]
+    },
+    {
+      "id": "oDskmmkin4c",
+      "segments": [
+        {
+          "text": "also refer to *soros* so i think it it's",
+          "location": 117
+        },
+        {
+          "text": "masters it's been used with *soros* it's",
+          "location": 122
+        }
+      ]
+    },
+    {
+      "id": "om3LDAA8yVU",
+      "segments": [
+        {
+          "text": "everything here's all about george *soros*",
+          "location": 402
+        }
+      ]
+    },
+    {
+      "id": "OsOBa27SOnY",
+      "segments": [
+        {
+          "text": "we know here he's talking about *soros*",
+          "location": 2568
+        },
+        {
+          "text": "cuz plus plus equals *soros* and those can",
+          "location": 2570
+        }
+      ]
+    },
+    {
+      "id": "oWCdApAaLH0",
+      "segments": [
+        {
+          "text": "organically it was george *soros* funded",
+          "location": 982
+        }
+      ]
+    },
+    {
+      "id": "ozT-lj5XpsE",
+      "segments": [
+        {
+          "text": "first you have the *soros* funded orange",
+          "location": 1484
+        },
+        {
+          "text": "being the cia *soros* backed guy where",
+          "location": 1496
+        },
+        {
+          "text": "imagine that which is when *soros* and the",
+          "location": 1504
+        },
+        {
+          "text": "about the *soros* believed to be behind",
+          "location": 1534
+        },
+        {
+          "text": "party wins elections right *soros* is",
+          "location": 1539
+        },
+        {
+          "text": "just weeks after *soros* is international",
+          "location": 1566
+        },
+        {
+          "text": "*soros* open society foundations in",
+          "location": 1574
+        },
+        {
+          "text": "*soros* the businessman to literally",
+          "location": 1586
+        },
+        {
+          "text": "literally going to a *soros* backed org",
+          "location": 2143
+        },
+        {
+          "text": "george *soros* funded think tank attacks",
+          "location": 2264
+        }
+      ]
+    },
+    {
+      "id": "pfFRcVFhr_w",
+      "segments": [
+        {
+          "text": "up when it came to george *soros* okay so",
+          "location": 1573
+        },
+        {
+          "text": "is where is george *soros* here let me",
+          "location": 1585
+        },
+        {
+          "text": "george *soros* in the white house correct",
+          "location": 1705
+        },
+        {
+          "text": "globalist leftist george *soros* insider",
+          "location": 1758
+        },
+        {
+          "text": "you're not a globalist leftist *soros*",
+          "location": 1767
+        },
+        {
+          "text": "conspiracy theory about george *soros* to",
+          "location": 1806
+        },
+        {
+          "text": "*soros* they do i just like to point out",
+          "location": 1863
+        },
+        {
+          "text": "history and the trope against mr. *soros*",
+          "location": 1883
+        },
+        {
+          "text": "george *soros* was also created for",
+          "location": 1887
+        },
+        {
+          "text": "we went over 58 which is *soros* 59 was",
+          "location": 2437
+        }
+      ]
+    },
+    {
+      "id": "PHjE6wH3OB0",
+      "segments": [
+        {
+          "text": "goes both ways george *soros* hooah",
+          "location": 1588
+        },
+        {
+          "text": "rothschild and *soros* i of providence",
+          "location": 1611
+        }
+      ]
+    },
+    {
+      "id": "PKobwTynNHA",
+      "segments": [
+        {
+          "text": "*soros* voting machines in her favor true",
+          "location": 1718
+        }
+      ]
+    },
+    {
+      "id": "pLhgQLWQ-JY",
+      "segments": [
+        {
+          "text": "*soros* to pre-program voting machines",
+          "location": 203
+        },
+        {
+          "text": "with *soros* later this week for some pre",
+          "location": 244
+        },
+        {
+          "text": "words such as dogs or loose *soros* or",
+          "location": 916
+        }
+      ]
+    },
+    {
+      "id": "POvz-gw3EOA",
+      "segments": [
+        {
+          "text": "george *soros* is spending his own money",
+          "location": 595
+        },
+        {
+          "text": "and indirectly to george *soros*",
+          "location": 606
+        }
+      ]
+    },
+    {
+      "id": "PS4IQx8T8ew",
+      "segments": [
+        {
+          "text": "and obama *soros* it's got you know *soros*",
+          "location": 1248
+        },
+        {
+          "text": "corrupt who owns poll machines *soros* why",
+          "location": 1277
+        },
+        {
+          "text": "cerberus madoff and *soros* sorry about",
+          "location": 1482
+        }
+      ]
+    },
+    {
+      "id": "qyHeRsJaOZM",
+      "segments": [
+        {
+          "text": "then here you go chuck schumer *soros*",
+          "location": 592
+        },
+        {
+          "text": "*soros* so it all has to do with all that",
+          "location": 677
+        }
+      ]
+    },
+    {
+      "id": "QzRgzW-vIpY",
+      "segments": [
+        {
+          "text": "at election time *soros* us backed ngos",
+          "location": 1270
+        }
+      ]
+    },
+    {
+      "id": "RoXwhmL6yk8",
+      "segments": [
+        {
+          "text": "know *soros* sells twitter facebook apple",
+          "location": 2222
+        }
+      ]
+    },
+    {
+      "id": "s1yQvbIWklg",
+      "segments": [
+        {
+          "text": "clinton foundation *soros* tenaya saudi",
+          "location": 2280
+        },
+        {
+          "text": "one *soros* chairman of *soros* fund",
+          "location": 2331
+        }
+      ]
+    },
+    {
+      "id": "sK3cWjgBo50",
+      "segments": [
+        {
+          "text": "the *soros* family there was it was",
+          "location": 1265
+        },
+        {
+          "text": "only george *soros* contributed more than",
+          "location": 1891
+        }
+      ]
+    },
+    {
+      "id": "TEiHLbWSCjg",
+      "segments": [
+        {
+          "text": "rothschild plus plus *soros* plus these",
+          "location": 1784
+        },
+        {
+          "text": "who owns the machine paul *soros* he's",
+          "location": 2321
+        }
+      ]
+    },
+    {
+      "id": "U8-rksGOIKw",
+      "segments": [
+        {
+          "text": "saud rothschild *soros* focus on the above",
+          "location": 947
+        }
+      ]
+    },
+    {
+      "id": "Uh397S0AxoM",
+      "segments": [
+        {
+          "text": "old georgie *soros* shows his face at",
+          "location": 1088
+        },
+        {
+          "text": "george *soros* on thursday took aim at",
+          "location": 1097
+        },
+        {
+          "text": "world nick yeah you think bro *soros* said",
+          "location": 1109
+        },
+        {
+          "text": "george *soros* is he's right there he's",
+          "location": 1192
+        },
+        {
+          "text": "brought down we want george *soros* we",
+          "location": 1259
+        },
+        {
+          "text": "see george *soros* out at gitmo and",
+          "location": 1345
+        }
+      ]
+    },
+    {
+      "id": "uoZG3XG7t0k",
+      "segments": [
+        {
+          "text": "george *soros* spacex yeah interesting",
+          "location": 786
+        }
+      ]
+    },
+    {
+      "id": "vVfyUAbNzb8",
+      "segments": [
+        {
+          "text": "george *soros* he said that he requested",
+          "location": 1408
+        },
+        {
+          "text": "when george *soros* calls who races to",
+          "location": 1433
+        },
+        {
+          "text": "suck fbi probe on behalf of george *soros*",
+          "location": 1458
+        },
+        {
+          "text": "bankroll or george *soros* in an interview",
+          "location": 1473
+        },
+        {
+          "text": "behalf of george *soros* who was a close",
+          "location": 1519
+        },
+        {
+          "text": "george *soros* asked barack obama to have",
+          "location": 1523
+        },
+        {
+          "text": "of george *soros* that's where that comes",
+          "location": 1582
+        },
+        {
+          "text": "and it says is this who george *soros*",
+          "location": 1604
+        },
+        {
+          "text": "this who george *soros* made hussein",
+          "location": 1738
+        }
+      ]
+    },
+    {
+      "id": "XEVieVy5tA0",
+      "segments": [
+        {
+          "text": "right how does george *soros* fund",
+          "location": 1407
+        }
+      ]
+    },
+    {
+      "id": "yAXz6lYNxHE",
+      "segments": [
+        {
+          "text": "*soros* groups here he is also teaching",
+          "location": 1806
+        }
+      ]
+    },
+    {
+      "id": "YDZxU7hSkE8",
+      "segments": [
+        {
+          "text": "and then he talks about hrc *soros* and",
+          "location": 366
+        },
+        {
+          "text": "why did *soros* donate all of his money",
+          "location": 387
+        },
+        {
+          "text": "thinking obama *soros* rothschilds",
+          "location": 1792
+        },
+        {
+          "text": "*soros* rothschilds clinton cetera have",
+          "location": 1817
+        },
+        {
+          "text": "why did *soros* transfer his bulk public",
+          "location": 1841
+        },
+        {
+          "text": "pulled by several high ups why did *soros*",
+          "location": 1848
+        }
+      ]
+    },
+    {
+      "id": "yZPh6hYXIFI",
+      "segments": [
+        {
+          "text": "chelsea *soros* clinton and then she",
+          "location": 1286
+        }
+      ]
+    },
+    {
+      "id": "z2yDHKVsLqg",
+      "segments": [
+        {
+          "text": "and he the answer is george *soros* in the",
+          "location": 1812
+        }
+      ]
+    },
+    {
+      "id": "ZgM3WPC5LSw",
+      "segments": [
+        {
+          "text": "stein yeah he's a he's a *soros* related",
+          "location": 2014
+        }
+      ]
+    },
+    {
+      "id": "zhGG_oIrsCw",
+      "segments": [
+        {
+          "text": "of *soros* but actual organic you know",
+          "location": 1205
+        }
+      ]
+    },
+    {
+      "id": "zlTIq16o_Jo",
+      "segments": [
+        {
+          "text": "thank you mr. *soros* and then we get the",
+          "location": 442
+        }
+      ]
+    }
+  ]
+}

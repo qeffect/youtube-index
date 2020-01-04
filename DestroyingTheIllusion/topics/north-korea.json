@@ -1,0 +1,1301 @@
+{
+  "indexed": "__lGfKxA0WI,_-_MVJecq5I,_5WkbucPT4g,_ec7XMfirg4,_EqneJRgSe8,_idzf18MYXs,_Ne214s756k,_Ob8jo-qOCU,_q5-lvNqF8Y,_TPUfVabVHU,_tRUka84Q10,_UMxGoem_cE,_YS92pFld0Y,-_4Za6eoYwY,-0DjA_r32uQ,-3F6SZZIT-E,-5M7Y-zFyZ0,-9msE7-ydts,-Avsxw6BrhI,-b8zWS3tty4,-e5ABbWTn8M,-i-6mNaKI3I,-icWyKwjrY8,-kDAK81lyaY,-kYE2w6y-GA,-MYXqXNhcnc,-P8dkAqUKZY,-tSHN-cRXo0,-VRexocuLyU,-zsJy_pc_gQ,0-8SzdsEPn0,047r18PmzXg,06ZhNoUqwA4,0C27jD9e-j0,0ICCjllfcD0,0jspiMXND2A,0kkMEbbFd9M,0NUQEdAWVkQ,0q_eYZ-zjys,0SJGTnXKJLk,0th1OKXNQXY,0thRJXOyyOs,0VW3c_f1WOI,0Ytkx1pvnL8,1-v18VEV4Rg,18k-mw0lGZ0,1atlaAzWtj4,1FoSp-tBfp4,1Qa_cX1DPn8,1s9fsICUfOw,1WmbX3JQa0c,1ya6QF21RjE,1ZoQGfCIQP4,22knD94PYNw,23GkaHyU2R4,23Zi93zyS6U,24o5bLbjYh0,29VWyFZAo98,2J-isPoaOe8,2MEzlpSs3hI,2qRm-XvaYGk,2vQA-V9OnxY,2XVtrBvxoNQ,3_9MzitOhpg,3-sR3LmB0N0,305W5z9yzW0,32HzhZpqqHs,32nTGjvWF9c,34kHft924rA,3cgcmRKlIhU,3ciusVGxdno,3E_KWnG6gO8,3fi1bx4oWOE,3GvhthG2rXo,3iT9_AqKX2M,3mCWwiYSQsM,3n_fTHOHmP4,3VJvZsz9VQk,3Vpaplt92is,3WDtVeSSyrU,3WzJtUe634M,3XT99f5rZkY,3YdbQS2xw0E,40cx-g-mfDk,41qO6bukotY,4aR7zbZf3pE,4ATvSzS-TLU,4dX3v4Z4aec,4fS6egD9cSc,4mNbB0RTuoI,4MXimasATsA,4nk3rY194h8,4oXIn88QFbc,4qQd8Qu7aPM,4VCgU1v0c3I,56hnR-UeVbI,59IbF_o4Xxc,5flC3-UkdyU,5PhM32xlVEs,5RLxQOvZxXs,5St08kicLiU,5uzjLst8w68,5VFOltHRXbM,6_wyHLXHqx4,60xrsFvDYYk,6Ezxw-UNmQI,6foOgmaZN-s,6kESQU65fUA,6KttPC8JV3s,6o54Y7dhOus,6PsL7aVI12U,6sbgm3s49BM,6sC4YqrrbsQ,73cggmTCclY,7a8EAuTwhdU,7d3A9Wi1xu0,7drP1GmKuhA,7HQEEo9pTxI,7kzKO982UIQ,7OUm208GUDs,7UT-kOjOka4,80z15a0xsUQ,81p3jRVXGk4,8gkGfhtpurY,8pa8Er939dg,8QiuuwivwsM,8z6EDkIocXI,91aT7JIOIbY,9gYGBZ6wUIE,9hqxfV040oQ,9K-4Jc2l-7U,9lbn3bkROBc,9lgC6A9CGqY,9LwjAgU_2hc,9w_UO-KJccs,9xhpctWntoI,9YBPFZ6r5nY,9yIsVlJ2qAY,9zB7TNiGuDw,A4-cSwxHsV4,a4jwV9NnySU,A52PfmoHm8I,a67Ukzg63u8,A7HbMpBAg8c,A82praOPfpo,AaP-PP8-KGk,aAzQwARAo28,ABM5Oj2s6eI,aC12-gepI3U,aCfOGluhEKI,aDPMNOgOz4E,aDUDC92PxcU,AJ_U54u6gbE,ajiBcgtAY-w,aJWZ_APGg6A,AKPMK0xaRN0,AmbKxQ51VWc,aN9TllOemSA,ANDq9-ttO-w,Ao2abBxOiLY,AOParRtlvFQ,ApHsdbvYgFA,aqGYpuYdbOM,Ar3JvKPGr40,ARwagwGekv0,AuJjdL3A0Wc,AvcEuGghWQk,aWGr7i2-IYA,AwzaAL1pDXQ,aXwILTOVL0M,AyLUG-qQcCA,B5_naGkaBDg,B5MFHmezpn8,B5mo-Rnwm4s,bbAaX9B5ncY,bbpmtRc18WQ,BC_VRjt8gvw,BcZjAF2oFEE,Bd0NHLMVTAQ,BFuaMj35qAo,bG3PLtnHSuc,BGt8AVBwAQc,BLJVjp0lq4g,bmipWlYsyEM,bMWIDBnA6Z4,Bn2OlX_4C4Q,bNHR5T64ooQ,bNMvlOzCsZk,Bozlwr1uHco,BpeOtb7CWeE,bPVLncDuirE,BR9EIDuUBJQ,bTFNebYIotU,bYRSIwwnCFU,bzAYF7yEn7Y,bzCEAKmxlVs,C_h2RLZEGEk,c1C7epr44bw,c7Yfc_JZAaU,CCLJZ-bM01Q,CDZhS3BfdB0,CeXQ15A9BSA,CIkVvgIT6qs,cKGw_Hrtajc,cKObBT3BQ4A,CksmGxdCvPQ,cLcHOtY9fgk,coYoIINOWcQ,cpAeoTwKHlc,cpPgoi7zUjo,cu1homOW9CE,CunzrKChTpI,CX6apttsGjs,CxaPpbC3pgA,CXbRscylFsY,CYE1-7NSG2g,cyjt9Vm0imo,D-va4Jpkt38,D-y5ALLiCZ4,D3zc2JmlHK0,D4AkLrH0WtI,D8mzSBBfnNQ,D8RUia2q5wA,daON-Y2Ph5w,DCkhkkb2nqM,DdiM5lA-05c,ddZfJCoq65o,DeEBJcmrjAU,dh_NJhuVafY,dHHqYCCujKY,DiRI7rhc4qE,DJJw71TSho4,dJspwk8huY4,dKaqjJzl0vg,DksI8ZPmBNE,dlZUFvOqJeY,dNI6tUGGJNM,dONKuAjf26Q,dos0E9blpHw,DsDBNF7mhqk,DSqcbzBojYk,Du5Cit3oe6w,duZHG7VDNm4,DxGp_peYB_A,e6gS2_fX0oY,e6mIdK0LLWk,e8AyslO62b8,e8xXVMiChuQ,E9n2iFMyXjQ,EcbwKNO6TBI,eERaZvdF6Ms,ees6El-Jay0,ejBAqhxqAkQ,EK0R7sdxAFQ,ekJ4hKREY8U,eLy1XqX9IcU,En-VTreZMTs,F3oAIzyo0HQ,F4IPqNACpvI,FAhsY5AIWWY,FDEmEvwZtrM,fHohiZp5hGc,FJGnynqfiCQ,Fo9T0LNhNqQ,fOQPFgF5Etg,FPUae6qsjdw,FS65Eef4z7o,fSwdVMLq8zI,FuBVeoPBd0U,fWjIv0WgyqA,fWk2XKmiQOI,fXA4SlMx-Mg,Fz5fZ_7pia4,G2ZwwI5fN0E,g57p8aQQSbY,G5RiRuFIh8Y,g90iVaKS8Mc,gCaHEfyXkA0,gdEzIz7ievE,gDlgmkVKpy0,GDx66bXgYq4,GFEth1i97yY,gG4fzaWuo9w,GhikRA2no60,gJ7o1StrKv8,Gk2tr29fY6Q,gKGT2jlVrgI,gkMB1_gooM0,gkO-A-sYsH0,GmuQx9AiYD4,GN4nmRCU0AY,gojwzzPJQrg,GrWwOG5yFFM,GThX5ssVBn0,GUip6dZpKEs,gUkB5Kk4WAA,H1FABkrnIaE,h6koxkXAJLU,h6y5TxpDvbs,h9dW3QCrYso,hA31PrCznjw,Hb187lnYh0o,HgE2EqazY68,hhPRDd4gOEI,hIrbIOaAUxg,hKdsv2EbSSo,hl-FK4t_9lA,HLRFTyNBlFY,hLumnOkZynU,hLWMbjtpLn0,Hm1iTIa7rFk,hMhDNxC-EB4,HMpv5DpVVUY,hMQTN9L1dBE,Huj55Cm9qH8,hUouIgbrNZY,HWjAwmGq654,HxhtJ-1kd5k,hy9Uo864i5g,hZGSNKUFjQk,I2-S22FiEvg,I2t1cPgCvJo,I2zRq3kdLbk,I3pn7Xex-Ks,i3rp0Uim-0o,i4AnsQlVTvQ,I5h76-o1Kjw,i8VDK89xXzg,I8VIDULc_jQ,iAIDKPNVjzU,ifJ_GtRJ5qM,Ig7fshISKmk,igDMQaECoSw,IifnpOcm0b4,ik-J2hrNaWo,IKpl4TeHwPg,iOLlT7CbqKs,iPX6pJ1dD1s,IS-CvxLX47Y,IsG3gQIRxno,IsjWF9k7TZE,iTFkB2iXkgI,iTFXxHtlImY,iu9vMZwMqgI,IUcqrB04ZpE,IuIhXyjMG28,iUolMe2Bu-M,IuVzHVFtFIE,iwCYGrXqmqw,iwIfxOwYNOE,IwvvrAh-JyA,ixHuaqf211Y,iXPDVq2lGsc,j6boJmmzNcg,j9gG0WZWO2M,jaInrf7dB30,jal0jAoFV70,Jcekm05d-so,JD4r7qP0OLw,jEgmVdV6HBE,JeGwCPRojJo,jgHK6JZonJM,JLPKO3AKA14,JMN2uWdknac,jN-MkK8djcY,JNaC6eDgjAk,jnUZD1wnBn8,jR_FxV3DYyU,jS-yK_ueKZw,jSZnoRobYTE,JT-aith5f5E,JvaI4JCd5ig,jZ_tr0NnNjE,k2bZBA1A82U,k2MXyXKRlN0,K2TOaYHNhDs,K3kiPpMhKkQ,k3m1P3Vie6s,k55kWdrN8hw,k9LVltxQF2Y,kan3dn8Q8nA,KbWsgGeTrb0,KDVsepSqmys,KgYgMWFqbEc,kHxWvaMOwhM,Kl3MyuzCdRs,KM6DTC_i-8s,kNNz1UEwF-E,KpFP8X1JTiI,KPj--UF1T0k,kRGV4cIdWwM,KSP24qYeWgs,ku6qyUwUgWo,KVb-rUXG6h0,KW1hgV9CBqk,KXHpsXQV82g,KXW0hS3aOjA,L-4ADrZak_4,l0PDi1KDi1w,L1mLdTih8gg,L4Sa4dArQUE,L61XF64Ls8E,l9qBVI4SVP0,lb46GsmPTsI,ldX0CQ2UUfI,LFlKG-VVzMc,LInNbS1JErM,LiU5TfehWW8,lj8AH-4ajRw,LjzWwM9Y9zg,llnr6CG6lHM,Llr69yow55Y,llsND2qpTjM,lNKXqkyE2NQ,lOGKAbcAVzE,LQ4NioOxuGM,lUOYOF9DuSs,LwTvS9v15LE,LXCTMl_Jp9M,LygxI2VGhDU,m_PowDSDjEE,m1HAZ0ESYD0,M1ODHcuO0V0,m2kffLdykTs,m30mwu-9WW0,m3193w4W8Po,m5p9p9LBEpM,MATnFsqiC7Y,Mc5wHbV6irw,mCy59eLFjZg,McZuVVn7fEw,miQPk7qxSvs,Ml1Ys-sDe4o,mlmAUPNPev0,mLZkwKOueVI,mMVX1iGgRac,MO8yy324jyk,MpiqVbdFnlo,mPovmVmAgXs,MsBWU2CFf-U,MUyBpTbvDmw,N-BsO-mirZQ,N-Nsni2kalY,N0l4oFEKoCY,N37LrIj7a8E,N4MwW69zjdk,NbUtbE4Zpoc,Nett68JXMUk,NFBFDRSsaU0,nfDm-SuYSrQ,nhR65A2Cz1U,nJ5B8GnH3mE,NJf-Tr3BrqI,njWcrYwundg,NObMClb6nMY,noiATviQJ3Y,NoLKqBPGGLQ,nPRGWjUYGow,nPtPHMYmnsk,Nqbj_4nIAiA,NqL7EeYTd9s,NS200QxWq7g,nsUd370-n9Q,Nt4ug94a134,NVIEhqdvMCo,NVRVSzP0rFU,NVUbej8exEk,NY7B_THWsM8,Nzx4XSf_fAI,O_R4bM7ONJk,obm0AKIypPI,OCzJwGE7RTY,OdS-XmHla-U,OdXjpK_tLRg,OE_u4IbopVo,OGL_5cu0F-M,OgrLw9IX-Ns,ojYZBeCwYis,oK2ZWHTdbpA,ooHxX3whFXA,OOxgnEI8_NI,oReGR3Bjjmw,oSZzclsh00Y,otE6dhCgsJc,Oun53CRXyeI,OwECoLGRl68,oX7b3YzRNXk,ox9yzjeHt3s,ozbHMNhYe0A,oZz9CJ9K8MA,P0cawbGyBxM,p0Qy24DXfdY,P12Gc4WmCak,P3jy8S0P-2w,p6_gLv5qy8E,p6GmDJEkOQk,p6wFKOTyR60,P8xmUD4Gmrw,PA9MTquQya0,pAK-a8Op8KI,pauS_rhaYO0,PBiBq_DiHmo,pbjkl0DwxHs,Pg21pJPDzEU,phbygYipE-g,Pi8_BZtYNzQ,PkeO8SN0cN4,plJqp67-iX4,PNsZI-uZH7I,PsQlxu6iOzI,pt17lUpcskk,PtAxf8A1Zco,ptvgcLZ3HOw,PvWDJd2UYT8,pwM9WH8pqaY,PWMXacQWEjs,pyMrzxZBZZQ,pZ5q5wUI1-Y,pZhHd9KT2lk,q0IR8IqKZ18,Q1nmx353lDo,q2ItOTBF1ys,Q4MG607MDz4,q6hnQoB_BlI,q78RNxcI38U,q7I8sj_3rlM,q7prMUoyMEo,Q84zuHjjuww,Qa2bfVP6ChQ,qB9zc5VAanc,QC7qRbcWsN0,qcEDt4YOkS8,qCmySBiZXVA,qdwN5mt9V2c,qFumeKZX_MA,QJaNPlhmdSM,QK6Y2tnFIAw,qlFnlzOoFgo,qNurdjNB-rw,Qo2GL5T8T_E,Qq339b2xOrY,qRKU3XXIwlI,qSFeOuQEXXw,QSMC7VnqOnQ,QtYci9jXct4,QuVpIqeSRnU,qwbX5au3Iuw,qWhpDyoLyR8,qX2Z7mLBM1k,qZMy5wog24o,qZZGyHrnsQM,R_iWc7_vQ14,r-vKLD9F61M,R1g3eyyM590,r1IYwxp0NNs,r1pXJkMaAmc,RCPgq96ku4k,rdE4NEIZACI,REcAj2PLMu4,RenafscRgUY,RgdXwexLI_Y,RGFh5qOWU3U,RLczNzWBbpE,RmZj7uATNFM,rqks6sKCmDc,Rt85IKjQ9hs,rUpElK5Qw3E,rVrthFN9dnI,rX0dkfDOO1s,rxMOShu0yQk,RZf9IVaRgdo,S2U7ncJQ000,S4mKQajGJl4,s6H86oQEC2I,SaR5pCeCjao,SAwrlpHFmOc,sBy_LmO3b7k,SePTbZOh8iE,sHUgXraPhAc,siBW29AUMrw,skkII0awwFM,sKMZRv9JY_A,sLv3F7kLpB4,SovJjIjmI6M,sR5B-vb3Fi0,svK1ajIeprU,svwSKZ926yY,SvyN0PlWwkM,swc_HIr-8WA,Sx3ElJlX7wQ,SxPNu1XMYKA,sxWWB5aKNk8,T_mJ1awyakY,T3TRP5tX3T0,T5IM3P9Md-4,t6dwa21eo_M,TCtPeZP1H0g,td8PwMAtpQI,TdNo4qfgAb4,TeFw8eqcLco,tfW6YjVSx0U,Tg0_AZbm71E,TgzkblYi9pg,THy-FwvnIqQ,tJjx9eVGzSY,tK7YaJnYETw,TKK1o-pPPkQ,tkLyxIo8Cqo,tkm-n8lbhLg,TKOI_wF6Rn0,Tr5IR4SqKcA,TsjX9SPfvSA,Tus8Yc2qNXc,TX1rZO2bLJ8,u_apd9SGqLc,U1GOoEoYLy8,u1gZGn0l8y4,u3TgwapRzSA,u9zCkZgwoik,UA8VNiOraJI,uaXp0CBucos,uJn58OP3GEI,uJYAdCT7xFA,uKCq7HfZh9A,UKfHVu47LXo,Up-MRtsG4Tw,UpaXSxM07to,urRt-Yju_SU,UrzdhfUMR6k,UsuA0HSRXzo,UuJpA7lXi7g,uUsLnKlWMkU,UVea--jSv1A,uvYdZu80X9Y,uWFJruvCPhc,UwVr2kwMjI0,uxDmAVpZ91Q,V-8xYjEosOY,V4OPmN3e8F8,V59pKIXUQuM,v5G6fZkyhXg,v6JLwp0aFpc,Vafm-ZaLAyI,vafXYoDY5dw,vcqHF8DDsNk,VfelKh4yN9g,vInE2aOTFdw,ViODeAbI2IQ,vK3bX5D1ysc,VKhRSDIFJK0,vL7VfteARhQ,vLnzuy_aeGQ,VLxlCXAuo08,VtMhFvMTyHQ,VVsAZ0AGHeo,vZDynmvvgWg,w_A3W-OJyNw,W0APO4axfn4,w0OSb7FbXas,W7UmZWUWBMQ,WB_PkYN9MFI,wCcjEszzrTI,wdwWgzAq48E,wdXHxEEAvps,wg5sukd6E6Q,WHSd5tVWq1I,wjeEg2yoJbM,WKfsgQLVsHk,WlZQhQXwYTI,WmhFYQnlKB4,wNgdMwL7isA,WOmDWYRAtiA,WsnaqvLhEUk,wu0Utsff6Jo,WvCBdE6rolk,WwBj0YnLtX0,x1EXDDlmrVU,x1UII7bCsvQ,x27EZLRmoAU,x4XfpmZxDq0,Xe8yEypTfNA,XfNnvWPlprc,Xg7s8fovfh8,xKxi0Bbl_Fs,Xl5iO-2wzq0,xLDnc1Vm99w,XMo_G2k5Wso,XobWx6C6lJs,xQVu3ywd2RU,XRABi40G2T4,xS-hT1sfvfs,Xtk7ntK7k14,xU1ilgRmqsk,xUDwyRTojUM,xXRUfka1XFM,Y31yR524zWU,y3LgzaKBw2w,y3OVColWu-g,Y8DPHUnnvXU,YaMWl4cmqkw,yb_kKBcdsRc,ybgD2ibYB0o,YDS7nKcT3rk,yEf7XF-JNy4,yf8ObyPk568,yFQEK_KaTMA,yIh9oqXg4JU,YiLWFF__qiM,YIPBQ3O8Wr0,yK2UAmF7gYA,ym22gqkQmUA,ymm3YfCfVUs,yOGL3BrXZlA,YpPXlDhdkOg,YSc4GkdMm-E,ysHQziNaMOo,ySHvJqNfN7I,ySSnEYdnsEM,ytA3-R4Fi4M,yu7cOa_9gN0,yVjAH8Wg-hk,ywKQGnLaYdk,Z_nveKGRnsI,Z5o33xspXi4,z5obz0z7rdo,z7s8UaWeshs,Z8oojkEH6Eo,z9GTRwjpZLo,zBBzw6WImlY,zCKlkgpTrXo,zdehlx8vy4U,zffLUSbaqlw,zGk_J9B9MDw,zgK4F6NW32s,ZgOL1h0-8Ok,ZGsWdjqtO-w,zgU0j8HGfX4,zIU-AuvMwqU,zjqEsdevnaU,zKar6awuy2Q,zoQmiHuW8nc,ZpqZoQBWXVo,ZpXeRJcgZlU,ZqMTDLT6akA,ZRISi-Y-X3s,ZseKL2q2S-E,zUxgy98UTp4,zw8yzCjmYcI,zziC-o5xumc,ZZTz8nYZ6vA,hj7ubtDDtik",
+  "topic": "North Korea",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_q5-lvNqF8Y",
+      "segments": [
+        {
+          "text": "actually assad china and *north* *korea*",
+          "location": 48
+        },
+        {
+          "text": "then the *north* *korea* saber rattling this",
+          "location": 176
+        },
+        {
+          "text": "the pressure on *north* *korea* right china",
+          "location": 189
+        },
+        {
+          "text": "the pressure on *north* *korea* but russia",
+          "location": 194
+        },
+        {
+          "text": "with *north* *korea* right because *north*",
+          "location": 204
+        },
+        {
+          "text": "*korea* is china's proxy so china is using",
+          "location": 205
+        },
+        {
+          "text": "with *north* *korea* and again what's *north*",
+          "location": 241
+        },
+        {
+          "text": "*korea* gonna do they shot a missile off",
+          "location": 243
+        },
+        {
+          "text": "from *north* *korea* yet the corporate media",
+          "location": 261
+        },
+        {
+          "text": "saber-rattling with *north* *korea*",
+          "location": 852
+        },
+        {
+          "text": "remember *north* korea's in on this syrian",
+          "location": 854
+        }
+      ]
+    },
+    {
+      "id": "-0DjA_r32uQ",
+      "segments": [
+        {
+          "text": "was discussing in *north* *korea* being a",
+          "location": 517
+        },
+        {
+          "text": "now is glorifying *north* *korea* despite",
+          "location": 523
+        },
+        {
+          "text": "all the journalists propagating *north*",
+          "location": 537
+        },
+        {
+          "text": "*korea* and i've seen this a lot on",
+          "location": 539
+        },
+        {
+          "text": "them for trying to glorify *north* *korea*",
+          "location": 551
+        },
+        {
+          "text": "why is *north* *korea* participating in the",
+          "location": 569
+        },
+        {
+          "text": "there in *north* *korea* that's why she's",
+          "location": 584
+        }
+      ]
+    },
+    {
+      "id": "1FoSp-tBfp4",
+      "segments": [
+        {
+          "text": "between china *north* *korea* in the us but",
+          "location": 111
+        }
+      ]
+    },
+    {
+      "id": "1s9fsICUfOw",
+      "segments": [
+        {
+          "text": "so right or *north* *korea* no agree a",
+          "location": 1232
+        }
+      ]
+    },
+    {
+      "id": "1ya6QF21RjE",
+      "segments": [
+        {
+          "text": "regards to *north* *korea* when he said",
+          "location": 648
+        },
+        {
+          "text": "quell this *north* *korea* uprising or",
+          "location": 654
+        },
+        {
+          "text": "tack on *north* *korea* but when i say",
+          "location": 676
+        },
+        {
+          "text": "them is by using them against *north*",
+          "location": 761
+        },
+        {
+          "text": "*korea* d habilitated",
+          "location": 763
+        }
+      ]
+    },
+    {
+      "id": "3n_fTHOHmP4",
+      "segments": [
+        {
+          "text": "point right here in *north* *korea*",
+          "location": 718
+        },
+        {
+          "text": "because *north* *korea* again they had",
+          "location": 730
+        },
+        {
+          "text": "*north* *korea* is a cabal proxy that",
+          "location": 740
+        },
+        {
+          "text": "putin so now they're trying to use *north*",
+          "location": 746
+        },
+        {
+          "text": "*korea* to start whatever war they can",
+          "location": 749
+        },
+        {
+          "text": "*north* korea's being neutralized i",
+          "location": 751
+        },
+        {
+          "text": "*north* *korea*",
+          "location": 763
+        }
+      ]
+    },
+    {
+      "id": "4aR7zbZf3pE",
+      "segments": [
+        {
+          "text": "so anyway now into these stories *north*",
+          "location": 172
+        },
+        {
+          "text": "*korea* and the philippines first i want",
+          "location": 176
+        },
+        {
+          "text": "both warned *north* *korea* the past couple",
+          "location": 277
+        },
+        {
+          "text": "independent media you know that *north*",
+          "location": 283
+        },
+        {
+          "text": "*korea* is trying to bang the war drums",
+          "location": 285
+        },
+        {
+          "text": "right *north* *korea* is another one of",
+          "location": 291
+        },
+        {
+          "text": "*north* *korea* right to avoid their",
+          "location": 325
+        },
+        {
+          "text": "*north* *korea* tries anything they will see",
+          "location": 331
+        },
+        {
+          "text": "press statement that *north* *korea* better",
+          "location": 345
+        },
+        {
+          "text": "a bad guy like this whole *north* korean",
+          "location": 709
+        },
+        {
+          "text": "*north* *korea* the mainstream media would",
+          "location": 713
+        }
+      ]
+    },
+    {
+      "id": "4MXimasATsA",
+      "segments": [
+        {
+          "text": "*north* *korea* so again as i've said in",
+          "location": 102
+        },
+        {
+          "text": "nuclear threat coming from *north* *korea*",
+          "location": 108
+        },
+        {
+          "text": "with *north* *korea* and those tests no fear",
+          "location": 154
+        }
+      ]
+    },
+    {
+      "id": "4oXIn88QFbc",
+      "segments": [
+        {
+          "text": "could be a swift attack on *north* *korea*",
+          "location": 1041
+        }
+      ]
+    },
+    {
+      "id": "4VCgU1v0c3I",
+      "segments": [
+        {
+          "text": "are in china as well along with *north*",
+          "location": 628
+        },
+        {
+          "text": "*korea* because that's just another",
+          "location": 631
+        },
+        {
+          "text": "proxies and then we have that *north*",
+          "location": 797
+        },
+        {
+          "text": "*korea* distraction",
+          "location": 799
+        },
+        {
+          "text": "*north* *korea* is a chinese puppet this",
+          "location": 803
+        },
+        {
+          "text": "chinese puppet right *north* *korea* they're",
+          "location": 809
+        },
+        {
+          "text": "there what *north* *korea* is a tiny little",
+          "location": 813
+        },
+        {
+          "text": "us right so *north* *korea* is a puppet",
+          "location": 817
+        },
+        {
+          "text": "instructing their puppet state *north*",
+          "location": 852
+        },
+        {
+          "text": "*korea* to play along this is why when",
+          "location": 854
+        },
+        {
+          "text": "they'll distract the world with *north*",
+          "location": 884
+        },
+        {
+          "text": "*korea* war they'll distract the world",
+          "location": 886
+        }
+      ]
+    },
+    {
+      "id": "5flC3-UkdyU",
+      "segments": [
+        {
+          "text": "*north* *korea* and spacex you know wonder",
+          "location": 636
+        }
+      ]
+    },
+    {
+      "id": "6o54Y7dhOus",
+      "segments": [
+        {
+          "text": "move to talking about *north* *korea* a",
+          "location": 583
+        },
+        {
+          "text": "*north* *korea* pushing for biological",
+          "location": 591
+        },
+        {
+          "text": "that *north* *korea* now pushing for",
+          "location": 631
+        },
+        {
+          "text": "that *north* *korea* is not going to get",
+          "location": 636
+        },
+        {
+          "text": "preventing *north* *korea* from doing",
+          "location": 658
+        },
+        {
+          "text": "so now *north* *korea* since the",
+          "location": 664
+        },
+        {
+          "text": "that *north* *korea* would get their",
+          "location": 697
+        },
+        {
+          "text": "wonder where *north* *korea* got the",
+          "location": 769
+        }
+      ]
+    },
+    {
+      "id": "9yIsVlJ2qAY",
+      "segments": [
+        {
+          "text": "using it against *north* *korea* this is one",
+          "location": 2777
+        },
+        {
+          "text": "any nuclear war with *north*",
+          "location": 2784
+        },
+        {
+          "text": "had happened in *north* *korea* certain",
+          "location": 2833
+        },
+        {
+          "text": "disintegrated in *north* *korea* never like",
+          "location": 2842
+        },
+        {
+          "text": "*north* *korea* the hideout for barack obama",
+          "location": 2875
+        },
+        {
+          "text": "well q is referencing somehow *north*",
+          "location": 2884
+        },
+        {
+          "text": "*korea* being linked up with spacex and",
+          "location": 2889
+        },
+        {
+          "text": "had the opinion of *north* *korea* being a",
+          "location": 2899
+        },
+        {
+          "text": "connections with *north* *korea* when q came",
+          "location": 2921
+        },
+        {
+          "text": "*north* *korea*",
+          "location": 2927
+        },
+        {
+          "text": "okay well how the heck is *north* *korea*",
+          "location": 2956
+        }
+      ]
+    },
+    {
+      "id": "aCfOGluhEKI",
+      "segments": [
+        {
+          "text": "there's been many others *north* *korea* the",
+          "location": 2173
+        }
+      ]
+    },
+    {
+      "id": "aN9TllOemSA",
+      "segments": [
+        {
+          "text": "the *north* *korea* situation and his",
+          "location": 1912
+        }
+      ]
+    },
+    {
+      "id": "BR9EIDuUBJQ",
+      "segments": [
+        {
+          "text": "to *north* *korea* the white hats the",
+          "location": 1458
+        },
+        {
+          "text": "the cia cia had over *north*",
+          "location": 1466
+        },
+        {
+          "text": "*korea* before going in there and being",
+          "location": 1468
+        }
+      ]
+    },
+    {
+      "id": "bzAYF7yEn7Y",
+      "segments": [
+        {
+          "text": "questions he was talking about *north*",
+          "location": 308
+        },
+        {
+          "text": "*korea* and china",
+          "location": 309
+        },
+        {
+          "text": "oil to *north* *korea* china denied it and",
+          "location": 315
+        },
+        {
+          "text": "war with *north* *korea* within three months",
+          "location": 335
+        },
+        {
+          "text": "with *north* *korea*",
+          "location": 347
+        },
+        {
+          "text": "quote war with *north* *korea* which i",
+          "location": 358
+        },
+        {
+          "text": "*north* *korea* could be a great way to",
+          "location": 372
+        }
+      ]
+    },
+    {
+      "id": "cpAeoTwKHlc",
+      "segments": [
+        {
+          "text": "some inferences about *north* *korea* who",
+          "location": 226
+        },
+        {
+          "text": "controls *north* *korea* some more posts",
+          "location": 229
+        },
+        {
+          "text": "about *north* *korea* and some inferences as",
+          "location": 234
+        },
+        {
+          "text": "a proxy of *north* *korea* their missile and",
+          "location": 267
+        },
+        {
+          "text": "more stuff for guarding *north* *korea* and",
+          "location": 345
+        }
+      ]
+    },
+    {
+      "id": "cyjt9Vm0imo",
+      "segments": [
+        {
+          "text": "icbm think *north* *korea* so what this is",
+          "location": 97
+        },
+        {
+          "text": "much like *north* *korea* was to accept",
+          "location": 104
+        },
+        {
+          "text": "like *north* *korea* strings were cut there",
+          "location": 244
+        },
+        {
+          "text": "iran's next armenia like *north* *korea*",
+          "location": 245
+        },
+        {
+          "text": "saudi arabia to *north* *korea* tar mania to",
+          "location": 260
+        }
+      ]
+    },
+    {
+      "id": "daON-Y2Ph5w",
+      "segments": [
+        {
+          "text": "that and then lastly here *north* *korea*",
+          "location": 250
+        },
+        {
+          "text": "close to *north* *korea* to basically send a",
+          "location": 268
+        },
+        {
+          "text": "*north* *korea* i think this is a deep state",
+          "location": 275
+        },
+        {
+          "text": "now they're trying with *north* *korea* they",
+          "location": 292
+        }
+      ]
+    },
+    {
+      "id": "dONKuAjf26Q",
+      "segments": [
+        {
+          "text": "which is happening today on *north* *korea*",
+          "location": 717
+        },
+        {
+          "text": "actually getting briefed on *north* *korea*",
+          "location": 741
+        }
+      ]
+    },
+    {
+      "id": "ees6El-Jay0",
+      "segments": [
+        {
+          "text": "*north* *korea* diffuse so *north* *korea* of",
+          "location": 487
+        },
+        {
+          "text": "been cut with *north* *korea* so they're",
+          "location": 495
+        }
+      ]
+    },
+    {
+      "id": "gCaHEfyXkA0",
+      "segments": [
+        {
+          "text": "post right here q's saying *north* *korea*",
+          "location": 215
+        },
+        {
+          "text": "saying trump is all in on a *north* *korea*",
+          "location": 224
+        },
+        {
+          "text": "parroting this narrative that all *north*",
+          "location": 229
+        },
+        {
+          "text": "*korea* might back out on the issue oh",
+          "location": 231
+        }
+      ]
+    },
+    {
+      "id": "GmuQx9AiYD4",
+      "segments": [
+        {
+          "text": "you to what happened in *north* *korea* a",
+          "location": 220
+        },
+        {
+          "text": "there was a collapse at a *north* korean",
+          "location": 228
+        },
+        {
+          "text": "who who exactly took down that *north*",
+          "location": 245
+        },
+        {
+          "text": "in *north* *korea* but of course we have",
+          "location": 255
+        }
+      ]
+    },
+    {
+      "id": "GUip6dZpKEs",
+      "segments": [
+        {
+          "text": "isis is being cornered and *north* *korea*",
+          "location": 255
+        },
+        {
+          "text": "*north* *korea* there so again we have the",
+          "location": 279
+        },
+        {
+          "text": "like oh hello don't attack *north* *korea*",
+          "location": 295
+        },
+        {
+          "text": "claiming oh we'd you know *north* *korea*",
+          "location": 306
+        }
+      ]
+    },
+    {
+      "id": "hIrbIOaAUxg",
+      "segments": [
+        {
+          "text": "strings were cut *north* *korea* is no",
+          "location": 180
+        },
+        {
+          "text": "entered *north* *korea* to establish comms",
+          "location": 204
+        },
+        {
+          "text": "*north* *korea* why would the former",
+          "location": 228
+        },
+        {
+          "text": "what does *north* *korea* represent well",
+          "location": 352
+        },
+        {
+          "text": "*north* *korea* was the boogeyman right the",
+          "location": 353
+        },
+        {
+          "text": "public in fear they've used *north* *korea*",
+          "location": 360
+        },
+        {
+          "text": "about kim jong-un in *north* *korea* talking",
+          "location": 502
+        }
+      ]
+    },
+    {
+      "id": "I2t1cPgCvJo",
+      "segments": [
+        {
+          "text": "about these protests *north* *korea* sure",
+          "location": 442
+        },
+        {
+          "text": "the way it is but *north* *korea* sure",
+          "location": 480
+        }
+      ]
+    },
+    {
+      "id": "iPX6pJ1dD1s",
+      "segments": [
+        {
+          "text": "at his *north* *korea* summit at the end of",
+          "location": 1557
+        }
+      ]
+    },
+    {
+      "id": "KSP24qYeWgs",
+      "segments": [
+        {
+          "text": "what does war with *north* *korea* mean for",
+          "location": 161
+        },
+        {
+          "text": "the annihilation of *north* *korea*",
+          "location": 186
+        },
+        {
+          "text": "summit well peace not war with *north*",
+          "location": 252
+        },
+        {
+          "text": "*korea* but also much in line with that",
+          "location": 256
+        },
+        {
+          "text": "what does war with *north* *korea* mean for",
+          "location": 325
+        },
+        {
+          "text": "*north* *korea* before it escalated to this",
+          "location": 335
+        },
+        {
+          "text": "well nuclear war war with *north* *korea*",
+          "location": 338
+        },
+        {
+          "text": "our war with *north* *korea* means for asia",
+          "location": 342
+        },
+        {
+          "text": "end to it well because *north* *korea* is a",
+          "location": 349
+        },
+        {
+          "text": "they can't just attack *north* *korea*",
+          "location": 353
+        },
+        {
+          "text": "benefit from the annihilation of *north*",
+          "location": 381
+        },
+        {
+          "text": "*korea* well i mean the world if we're",
+          "location": 383
+        },
+        {
+          "text": "war with *north* *korea* mean for them now",
+          "location": 631
+        },
+        {
+          "text": "this war with *north* *korea* means that",
+          "location": 638
+        },
+        {
+          "text": "and again and again so with *north* *korea*",
+          "location": 660
+        },
+        {
+          "text": "war with *north* *korea* means that these",
+          "location": 667
+        },
+        {
+          "text": "to *north* *korea* before it got here",
+          "location": 680
+        },
+        {
+          "text": "annihilation of *north* *korea* i mean again",
+          "location": 731
+        },
+        {
+          "text": "i'm assuming peace you know *north* *korea*",
+          "location": 804
+        }
+      ]
+    },
+    {
+      "id": "KW1hgV9CBqk",
+      "segments": [
+        {
+          "text": "*north* *korea* nk strings being cut right",
+          "location": 175
+        },
+        {
+          "text": "the *north* *korea* is no longer a cia",
+          "location": 178
+        }
+      ]
+    },
+    {
+      "id": "LFlKG-VVzMc",
+      "segments": [
+        {
+          "text": "reforms saved the world from *north* *korea*",
+          "location": 741
+        },
+        {
+          "text": "saying *north* *korea* is fake news *north*",
+          "location": 1772
+        },
+        {
+          "text": "*korea* has already began do",
+          "location": 1775
+        }
+      ]
+    },
+    {
+      "id": "llsND2qpTjM",
+      "segments": [
+        {
+          "text": "*north* *korea* and trump yeah *north* *korea*",
+          "location": 1626
+        },
+        {
+          "text": "*north* *korea* being the proxy right i",
+          "location": 1629
+        }
+      ]
+    },
+    {
+      "id": "LXCTMl_Jp9M",
+      "segments": [
+        {
+          "text": "used against *north* *korea*",
+          "location": 71
+        },
+        {
+          "text": "don't know if it's *north* *korea* or",
+          "location": 1324
+        },
+        {
+          "text": "to the public was by using them on *north*",
+          "location": 1784
+        },
+        {
+          "text": "*korea* you know and this is why i get a",
+          "location": 1786
+        },
+        {
+          "text": "worried about *north* *korea* like oh we're",
+          "location": 1790
+        },
+        {
+          "text": "whenever they asked about *north* *korea* we",
+          "location": 1836
+        }
+      ]
+    },
+    {
+      "id": "m30mwu-9WW0",
+      "segments": [
+        {
+          "text": "here next post think *north* *korea* nukes",
+          "location": 262
+        },
+        {
+          "text": "and of course *north* *korea* being a deep",
+          "location": 271
+        },
+        {
+          "text": "*north* *korea* trying to clean up the other",
+          "location": 284
+        }
+      ]
+    },
+    {
+      "id": "N4MwW69zjdk",
+      "segments": [
+        {
+          "text": "improved as secretary of state *north*",
+          "location": 285
+        },
+        {
+          "text": "*korea* iran russia china mexico all",
+          "location": 287
+        },
+        {
+          "text": "happened in *north* *korea* we're working on",
+          "location": 310
+        }
+      ]
+    },
+    {
+      "id": "NoLKqBPGGLQ",
+      "segments": [
+        {
+          "text": "in *north* *korea* and then i have an",
+          "location": 90
+        },
+        {
+          "text": "of course *north* *korea* hit the news",
+          "location": 1076
+        },
+        {
+          "text": "*north* korean icbm can hit anywhere in",
+          "location": 1084
+        },
+        {
+          "text": "discussing spacex *north* *korea* heavily",
+          "location": 1095
+        },
+        {
+          "text": "how spacex in *north* *korea* may very well",
+          "location": 1112
+        },
+        {
+          "text": "how *north* *korea* could very well be a cia",
+          "location": 1118
+        },
+        {
+          "text": "*north* *korea* with some of their",
+          "location": 1127
+        },
+        {
+          "text": "*north* *korea* has fired over the past",
+          "location": 1153
+        },
+        {
+          "text": "right this is massive increase in *north*",
+          "location": 1188
+        },
+        {
+          "text": "cia slash deep state is using *north*",
+          "location": 1196
+        },
+        {
+          "text": "*korea* as the very last proxy they have",
+          "location": 1200
+        },
+        {
+          "text": "isis gone iran being handled *north* *korea*",
+          "location": 1208
+        }
+      ]
+    },
+    {
+      "id": "nPRGWjUYGow",
+      "segments": [
+        {
+          "text": "from *north* *korea* right multiple things i",
+          "location": 617
+        },
+        {
+          "text": "and *north* *korea* spacex or l on getting",
+          "location": 633
+        },
+        {
+          "text": "was likely to help *north* *korea* as the",
+          "location": 642
+        },
+        {
+          "text": "and *north* *korea* in the same twitter",
+          "location": 654
+        }
+      ]
+    },
+    {
+      "id": "NVUbej8exEk",
+      "segments": [
+        {
+          "text": "me of *north* *korea* saying they're ready",
+          "location": 195
+        },
+        {
+          "text": "course *north* *korea* is a deep state proxy",
+          "location": 207
+        },
+        {
+          "text": "boogeyman you know along with *north*",
+          "location": 624
+        },
+        {
+          "text": "*korea* there's multiple reasons why isis",
+          "location": 626
+        },
+        {
+          "text": "iran is next now *north* *korea* oh now",
+          "location": 1093
+        }
+      ]
+    },
+    {
+      "id": "Nzx4XSf_fAI",
+      "segments": [
+        {
+          "text": "distract with *north* *korea* they're doing",
+          "location": 435
+        }
+      ]
+    },
+    {
+      "id": "O_R4bM7ONJk",
+      "segments": [
+        {
+          "text": "blackmail *north* *korea* they create the",
+          "location": 689
+        }
+      ]
+    },
+    {
+      "id": "pZ5q5wUI1-Y",
+      "segments": [
+        {
+          "text": "russians next *north* *korea* neutralized so",
+          "location": 514
+        },
+        {
+          "text": "*north* *korea* i am now believing *north*",
+          "location": 517
+        },
+        {
+          "text": "*korea* to be a cabal proxy that the",
+          "location": 524
+        },
+        {
+          "text": "tomahawk missiles and *north* *korea* i",
+          "location": 550
+        },
+        {
+          "text": "*north* *korea* nothing to worry about i",
+          "location": 569
+        },
+        {
+          "text": "isis in *north* *korea* they're lashing out",
+          "location": 605
+        }
+      ]
+    },
+    {
+      "id": "qWhpDyoLyR8",
+      "segments": [
+        {
+          "text": "saudi arabia and *north* *korea* giving up",
+          "location": 198
+        }
+      ]
+    },
+    {
+      "id": "RmZj7uATNFM",
+      "segments": [
+        {
+          "text": "in *north* *korea* in the past",
+          "location": 531
+        },
+        {
+          "text": "*north* *korea* i don't think she was",
+          "location": 546
+        },
+        {
+          "text": "to *north* *korea* will make heads roll why",
+          "location": 560
+        },
+        {
+          "text": "here south korea's moon says *north* *korea*",
+          "location": 1041
+        },
+        {
+          "text": "which now that *north* korea's strings",
+          "location": 1047
+        }
+      ]
+    },
+    {
+      "id": "SxPNu1XMYKA",
+      "segments": [
+        {
+          "text": "that strike group lately *north* *korea*",
+          "location": 720
+        },
+        {
+          "text": "they're just waiting to use *north* *north*",
+          "location": 742
+        },
+        {
+          "text": "*korea* as their proxy to send up send off",
+          "location": 745
+        },
+        {
+          "text": "*north* *korea* to really foster some anti",
+          "location": 788
+        },
+        {
+          "text": "*north* korea's sentiment in the end",
+          "location": 791
+        },
+        {
+          "text": "and what if soon *north* *korea* tries to",
+          "location": 794
+        },
+        {
+          "text": "war with *north* *korea* they've wanted all",
+          "location": 817
+        }
+      ]
+    },
+    {
+      "id": "T_mJ1awyakY",
+      "segments": [
+        {
+          "text": "freed in a similar capacity that *north*",
+          "location": 1752
+        },
+        {
+          "text": "*korea* was you know *north* *korea* their",
+          "location": 1755
+        },
+        {
+          "text": "control over *north* *korea* they were able",
+          "location": 1763
+        },
+        {
+          "text": "*north* *korea* being freed dismantling a",
+          "location": 1778
+        },
+        {
+          "text": "soon they'll be freed like *north* *korea*",
+          "location": 1801
+        }
+      ]
+    },
+    {
+      "id": "T5IM3P9Md-4",
+      "segments": [
+        {
+          "text": "and assad china and *north* *korea* as well",
+          "location": 178
+        },
+        {
+          "text": "getting used up this *north* *korea* these",
+          "location": 415
+        },
+        {
+          "text": "*north* *korea* shenanigans right those are",
+          "location": 417
+        }
+      ]
+    },
+    {
+      "id": "tfW6YjVSx0U",
+      "segments": [
+        {
+          "text": "then he decided to invest into *north*",
+          "location": 79
+        },
+        {
+          "text": "*korea* besson in *north* *korea* was the",
+          "location": 82
+        },
+        {
+          "text": "*north* *korea* turned that fortune into a",
+          "location": 86
+        },
+        {
+          "text": "first company to invest in *north* *korea*",
+          "location": 126
+        }
+      ]
+    },
+    {
+      "id": "Up-MRtsG4Tw",
+      "segments": [
+        {
+          "text": "cue here iran *north* *korea* uranium one",
+          "location": 333
+        }
+      ]
+    },
+    {
+      "id": "V-8xYjEosOY",
+      "segments": [
+        {
+          "text": "thought *north* *korea* was gonna nuke us",
+          "location": 1875
+        }
+      ]
+    },
+    {
+      "id": "WwBj0YnLtX0",
+      "segments": [
+        {
+          "text": "and with *north* *korea* all that just just",
+          "location": 939
+        },
+        {
+          "text": "break out no what about *north* *korea* when",
+          "location": 948
+        },
+        {
+          "text": "war three nuclear war with *north* *korea*",
+          "location": 956
+        },
+        {
+          "text": "the same thing that we solved *north*",
+          "location": 1016
+        },
+        {
+          "text": "*korea* right where there was war",
+          "location": 1017
+        },
+        {
+          "text": "patterns would happen with that *north*",
+          "location": 1174
+        },
+        {
+          "text": "*korea* situation didn't an earthquake",
+          "location": 1176
+        },
+        {
+          "text": "more *north* *korea* was able to negotiate",
+          "location": 1205
+        }
+      ]
+    },
+    {
+      "id": "x27EZLRmoAU",
+      "segments": [
+        {
+          "text": "four knowledge of the *north* *korea*",
+          "location": 676
+        },
+        {
+          "text": "*north* *korea* made a deal with the white",
+          "location": 682
+        },
+        {
+          "text": "able to have their puppet in *north* *korea*",
+          "location": 691
+        }
+      ]
+    },
+    {
+      "id": "YiLWFF__qiM",
+      "segments": [
+        {
+          "text": "it says russia *north* *korea* is ready for",
+          "location": 778
+        },
+        {
+          "text": "direct talks with the u.s. and *north*",
+          "location": 781
+        },
+        {
+          "text": "*korea* being the deep state proxy they",
+          "location": 784
+        },
+        {
+          "text": "*north* *korea* nuclear it was a collapse",
+          "location": 806
+        },
+        {
+          "text": "collapsed at *north* korean nuclear test",
+          "location": 813
+        },
+        {
+          "text": "*north* *korea* is just not able to do the",
+          "location": 826
+        },
+        {
+          "text": "they're given up russia says that *north*",
+          "location": 834
+        },
+        {
+          "text": "*korea* is ready for direct talks with the",
+          "location": 836
+        },
+        {
+          "text": "so now *north* *korea* is being handled",
+          "location": 852
+        }
+      ]
+    },
+    {
+      "id": "YSc4GkdMm-E",
+      "segments": [
+        {
+          "text": "against the denuclearization of *north*",
+          "location": 219
+        },
+        {
+          "text": "*korea* but also economics free trade of",
+          "location": 221
+        }
+      ]
+    },
+    {
+      "id": "ytA3-R4Fi4M",
+      "segments": [
+        {
+          "text": "they would rather see *north* *korea* peace",
+          "location": 230
+        }
+      ]
+    },
+    {
+      "id": "Z8oojkEH6Eo",
+      "segments": [
+        {
+          "text": "the bad actors out of *north* *korea* right",
+          "location": 743
+        }
+      ]
+    },
+    {
+      "id": "zKar6awuy2Q",
+      "segments": [
+        {
+          "text": "*north* *korea* i was listening to pbr radio",
+          "location": 582
+        },
+        {
+          "text": "parroting that oh *north* *korea* out of",
+          "location": 592
+        }
+      ]
+    },
+    {
+      "id": "ZRISi-Y-X3s",
+      "segments": [
+        {
+          "text": "*north* *korea* or china or something like",
+          "location": 161
+        }
+      ]
+    }
+  ]
+}

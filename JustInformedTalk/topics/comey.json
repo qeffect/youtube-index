@@ -1,0 +1,5194 @@
+{
+  "indexed": "_0GMW9eop3Q,_0k8gf2hqT8,_3Rl1KrDzlc,_9rpHbIpjdc,_c3-w-w0hd8,_gjH2umHAGw,_RmutDWSGgw,_xRwk1GDCtc,_xXAzbpQxCk,_Y32fnAp_mE,-_D0oq02HRY,-2V-Fidbe4Q,-fBcMRleHJs,-lj5lbMIt9w,-uo9Q6D8210,-WTkkUEgMpA,-wX2rOP6ktI,-x009HbyeMM,0DszWULPnJA,0kSVAa_BmU4,0Rg0lwnxdYA,0RnrwLJ2YB8,0UsEdqoi-uo,0v_9_7NQe7o,0ZQpgASg94o,12UHF03bxqg,12UIMLvh03M,14DEr87tKSc,14goSb7_h8k,188yfjWBsKM,1feiLSIDxzA,1G4XAByqwdc,1IBdXdpMtSQ,1KbA5wwl5iA,1mxwUYRqCLc,1qxksXmFHOw,1Sh9FkZ0Z_M,1WLIn7en9pQ,1ztx8JOWikU,21_5KACaBAA,246yVwb5diI,29I9Zl0qTFQ,2B6uuN4h5To,2B8vstdpb9Y,2hwzvqyTWk0,2kcXiFrNxu8,2KlWnWIW9es,2KpDBlqtvh4,2MJZ9NDs3EY,2nHvxV92Fo8,2NXqxp8mQmI,2Q3ooMM1qAA,2rguDK_EFjs,2VvxKYycSTA,2z1u4f9qxSk,3__6oQQBx4U,366ELkY8w8c,3anaRM4cxWc,3cNC-TuFKTM,3DT04vReamc,3hTjnoctYb8,3in8rDn_GiU,3iNDtYv3ogU,3inrKG1TPqA,3JpE_sVAXtI,3mBJwCIqEp4,3mZH_LNF6QM,3QHT8IoCibY,3QPQ-gJQDio,43l56zl36nA,46EzIkcqsf8,4aeInV5RoBU,4IELe4HKwW8,4krKjHMPsg4,4l3InNocQok,4L5tYESX97M,4pRyUnOoG4k,4QBY4MC9H4A,4reDYsbFjIA,4SVOSBqdzh4,4V_km03gzkc,4Vg0iy8-V8U,4wnZSd3XIrs,5A6dZwdwTxA,5aclmTHqG3Y,5dLvEB_CqP0,5FndfbwFaR4,5GkDWQBxE_Y,5i-ZMBE5r80,5LnqJOG082k,5msn1xthpVw,5OD8QdsbiDU,5teFvGwE9Ec,5tLVsNwlo4E,5ZV3UJmN3j4,5zwSaKW2qzA,6__xoin6aw8,639Gc3bX0Hs,68Bl7RbXS2A,6dPlpdME9bA,6gP2Zh2J4lU,6T7oPFcotQ8,6VOzbo_Xzcs,6vu4aiDJlLI,6ZRbp3qcQWw,77KCplrOQIs,77xVpKuEWnc,79lRgwEbfHQ,7BjNpnHLRlg,7dUatd4L2_I,7HkSIcIUJEI,7KyRGYh74yM,7nBOtseGsvM,7PPE5IfAS8Q,7uKOdZECGKo,84FDa13e5-g,85-ahemlFUU,85y3X4rQxA4,8BvPh2JcG1I,8fechd5G8bQ,8HN_fDiyxps,8Hn9sRON8JU,8IEQfBwVCnI,8pfDKYOa2YQ,8SIxFBeXF3A,8SJ8Si8dOik,8VlLxBGFQbo,9_UKSBXn7ko,9-Ct8QNd5l8,93Ilpb7IySY,94-23EfqkIo,96qHwT4UG7A,9aC20cRhA6A,9bmI1uHhg2Y,9CRaVe_WoRA,9DCeANHAmJk,9E6bhpqXb4Q,9GURyE2qHg0,9iLcGsHVzpM,9IoPnmjsOQg,9IYh49I9vLI,9kWhckKtLyw,9lRA4hj5-zs,9O8VPOd3Dsw,9ObMFi6ReKE,9PqmG_y1mEA,9Rsj2RvPQQY,9v8K97nYOmc,9YpbXzuAYao,A3CcapXxDBc,A3UCbl5D6xw,A4K1C-k9Soo,AaEkl-of76c,aAjl5E-9Xwc,aauT5183_Y0,ABKGKVoSAZs,Ae8VPPrDP3I,aeg4hpZ9Ozw,afbpVahE8m0,AGcXhMgEl-g,AGvin09PnlY,Ai_hTzDSyO0,aiSN2yWRXMk,AJPTbrTUYxI,AKx3yG4zhNQ,altHQp6NMoA,aMjfmqYp1k0,aMU1r-XXIe0,ANNU2PD-HFo,ApxADBQ8v3A,AQn0A4aVW6E,aRH_VcgxE-M,aRk2tCY5P6A,AT7BqWZWWag,ATycYftkD9M,avWKx_cmjpk,aww13Cq9r7Q,ayRMg-VLpmE,aZ_1pPcUgFk,aZ9ow4ZlnfI,AzTWh1-xt14,b-LpBCpFIU0,b0pHnjCKYzI,b1BuM4rDtj4,b2o6RTKxh4I,BBOhxkAxLis,bBQITwVQ2c4,BcVYQ8Qb8WE,bcxBqQ7PMew,BEnGqcIKQBI,BFqiftOTLL8,BFxZRHPz1QI,BgKgV7LyEIo,bJpGmwu9-k4,BjZ3EmeaX5k,bKA-qsz0fsU,BKrYqZUyOIQ,BLbmipYjHR4,BMvOvzcBOq0,BnmAkjBYrZ8,BoMEoJRDgcU,BRRHTfNJMg4,bTO8-X3R_0g,BufAWX9OL9M,bWCu3V4E0Cw,BX0vhcv_pRQ,BYme9spNF9A,BZ6g4cgOQIo,c2JtJ3aEJI4,c3uk_PM4FTU,C52GieN9zdM,c8x6_3FTcmk,Ce_6croEF8c,CeUgCB6lb8Q,cfD7Ifh578E,CFDn-VKYsC0,cjcQ6t4JMXs,CLxo7YDcLzk,Coqn8CHu1cM,CpCLI8mo6T8,cppd4rNaGCY,cQbGXIlAVTM,cRLq7aAC-XI,Ct4sQbD2Dj0,CUobzPBIPYs,CVPDq78OM50,CxlcQbMPATY,CYMHBldnHH4,cZWsTRVduts,d_GwGYmK26Y,d1MKZw4vHEw,d352Nhkd02g,d8l0y2XLq3Q,d9HpahnSk3g,ddO9VroAjuU,DeiOBs9WCFY,dfzrdTb1zZE,dgJVXPaHqP8,dI75N0o_5DI,DJhwFGJhk5k,dLlF7sxrUCQ,DOO7fNIwpYY,dPmQytHJFIs,dS2qkAQ33Xw,Dt0bn771sGA,dTiW7GUvpiE,DTJrCcpKAsE,DWyqBff8MD0,dxXweiDpFuI,dzvqryS1tvM,DZyPZzqwvsA,E0C2qvYK31I,E0IZHA3G3Ig,e4MakjQr6wQ,e5nUedXajQI,E930zZVMjyY,EEnVvVzaBCo,ehplL8V_3rs,ehRpPBA6HgM,ejJhYz7wFwo,ek_MgNKuQKg,EKeXTDJ61eQ,EL6vqvpcreQ,Erfp78sCx3E,etzYB5Acisw,ex1IEZ3gULY,EXbJ0oQART8,eYGFc99WbHU,EyLK_rCRmPI,EzqNatWuS6Y,f4qBTki5iH4,F5FobXrvY3E,f7YHUbjdCzM,FB4dExVms7s,fB7BASL5g54,fbpZlOeQiAM,fbY83L61Kd0,fchREWrn0vY,FDbXuhcLWtU,Ff4fEQVTpSs,FHBsONoVnq0,fhyBcxyxbVI,Fk16jEhiBrQ,fLuLK72GwyA,FLYTjpU15No,ft2oJSlNPtQ,fU5hFfGsdjM,FWZHVOZ4ggQ,g_-JsMSaCdA,g_4yojz2mAs,g-KHTYSFJXA,G0xwAccaQ0A,G2aQUZYgTL4,G5Xu8M-uc60,G6rtL2LbzqA,g8XCMFkFyjY,gAHVZF__So4,GcJnkA-FE1M,Gd0BSKLLqsc,Gf0trv-9tvc,gHZMOupPYsg,GHzp1M24Fsw,gJcJ38T8oNM,GjQpoYm971o,gMSJoVkQZWw,gnDVjDTXE0k,GNedUPBOSqs,Gnmbc4G0dmg,GRBDH_i0FB4,GU2lVhxS9vY,gya_mSZwAl0,GYcdeNuBthM,GYRgczPNxJI,h17tF0Xii1c,h1BC7XmZr8I,h7CqHL04D-Y,HCCtVyqBoRE,HF1kNM1SZWw,hfX559mxFQo,HGHg7Nt2WVo,HiDyMOUhdZY,hIG3MjKRzBE,HjH_ZCvf3_g,hKbE7MG3OIA,HkJj6tZtzKg,hKSHNiPdaQU,hNazips7-k8,HoHfevtIV2w,hQcYnde_RDA,HTETmsKXnkE,hxMqBVB9oIU,i7CsAm6pTpE,i7hxZGH9fCY,iaA6l7wVsGE,IC9FN_fY2go,If2rCEuFeNY,ijaW9oSwCw8,im06ZuqowDk,Ima-kdh9Zo0,IMvbHX-XxMs,iQHR1-6RKGY,iry3kHF_jvI,is45doBHO4k,IubAKIW7LW8,IuGCv6BE808,ivzGKZFp8M8,IyRWVFXn45A,IZLsNynu6Ns,j0aA2J_kFkc,J296P7VE5p8,J2spK-T9ev0,j4__e_WelW0,j598EAg5zdI,J6zapuerlJk,J7b6SPEd0FA,j8A3-iLoEOI,J8tQL-J1p-4,jCLp7eJwIrE,JEKeMGgqEFA,jIf63gDirvc,JkdHKdiTXAM,jnUP8mEuPqc,jO3DSz6VU10,JP_9kWACn3U,jPdBNzia1bQ,JqB96gXQCHs,Jqmk-9gfMoc,jr_aTXakEwk,jSkzvaEVGyw,Jw000N2NVzY,JXObjjcM37E,k1e3a3x0VHE,k2pfkR9ey1o,k3a7JrqCGxM,k5J7_AWQvec,K68zHw0_xp8,K6D4AseiyvA,K6X_A5nDkn8,k7HZG6YnFww,Ka58QhPEBs0,kbsHKl1F3PI,kGrIdTasjN0,KhBpRt0R9-8,kMvmpeySbAk,kmwVSMKdhaU,kmxEhecyMN8,Ko4YrWusYB0,kPNmP4e9jfA,KQYQ6-hMOjY,KsFcbtIB9IQ,kv41joeMcM4,KVAsKc8v5t8,KVvB35XeEig,kZgInLvnTxE,kZSTJv4Hxk0,L_xCuCDisLM,L1AVZd4DsQc,L2Az5A7kcP8,L3Ij2cvGFkY,l6iCUxTXOBw,L6uSGv164Xw,L8KfIdZMszk,l8r-U_GKKPw,l8TEy3DabHA,LBYjX-YKi3A,LcYUTlXa9LA,LDbkkYUWvpA,Lioi0r8CebQ,LIwSMMqCTfU,ljBQV9kO_48,LniEKTpx8Qo,LPcjU1iEMa8,LrIY2UK10UA,lRMkZVPheVA,LTZqQj0xixg,lxUADz6sO24,M-MA0geeqcs,m-ODejCbNWA,m2iCTKjwGZY,M2SBwEaGWjA,m5TtiXCF06Y,m9zakT_UDY4,MbhDYscAAN8,MBmjx6pEVyM,mBU8ggNgS8s,mCG61ZXjwgM,mDGN4mIrYTs,mdj-e3WW1Bo,mDVvkqXidds,mh_UlTxOQQ8,MHhA6kW_K1g,mi6oOSOcu8U,mIMeh-79eFQ,mJWjRqEjk1U,MKMicgqhopw,mkzUXQCz7g0,Mm6WkdjRwXE,Mm8has8rJ6Q,MMiesWjJy3k,ModN7UGbEc4,mOIXtYBUHzE,mpo_IhTE430,mqjohU4wchw,MQkqD0MhKnY,mQmoOcT31Ro,msr6oM0RLew,Mt8NfLhd-bQ,MU2Rcx_7eK0,mU9euZ7sEes,MUy19aL4UNs,MvFElFTEyAo,N_LPPAZ6a5k,n2RdX0ydluc,n5D-l-3F7ik,N5YALJhloAc,nb48sfxaBzA,Nb9AndSj88I,NC02quLtRsA,NC8ofbJYmgQ,NcQDwCqQeO0,nDIenS-L7Qc,NgbBiTBNx_E,NjWZnzfy4Bk,No3ER-UeVEw,no6rrhl9HP4,NPnxrTpCpnw,NQNDDUtnzYk,nRaCGIerr6g,nspGMcDjCKM,ntdGh-KbrDw,NV7heJFREsE,NVweq5WqxQs,Nw0SUu18OzY,NwWi8UclL4k,Nyz8AZ4IvdA,Nz6lrDmtUxk,O_aacfmu4kk,O52v4nUvluw,O5EtoXjZNus,o6KJkaLISn8,o6YcBl2u0n0,o8Akan5GihI,oC62RUXGAeo,ocx0eQ3IYGc,ofmaPjLqKpY,oGgzXrlF0m4,OhcEdpoDPxQ,OipmgYEOOj8,OJj7uOy38hI,OjodkECxTFE,oJslPIbYry4,ojSvumv3RDc,OKRqb03TEUs,okuxViVbyTs,OLDsP1BrbDU,Olfa4vMMDEk,OQCgaoqYPDQ,ornHtBUFohc,OsoQu546x8g,oStMB-W5ovI,Ou8IoZrbRFY,OVGfiwkKdqY,OWfrBrQlhkk,oXoEIlNO77U,oXoo6eYsZ3o,OY0Jqc3-hV0,P2YYC5MMzFc,p4Wc6Zs3qQM,p5s61jAYDzE,PbcQo398070,pbi5dRCB2cA,pDkUn-isAGk,pdW4LVkaiYA,peHd3IOjylg,Pepkc8bM3uo,PfDbmwtawNg,PfZh-XLbE_I,Pi-FHomqwtE,PIHmedWFDBI,piPPWEVM7BI,Pk6jznEcP4U,PMt56AI7XrI,PN8oDcxVDKU,pOgq_axpn1k,PRGJZtCTLVA,pRriJNgzrcs,pUZDbK0a1R4,PwfwMH9cRP0,q0d0OkpV5gs,q1LXh9jQU38,Q23RnpfTgiE,q2tI5JrJKzE,q40i492ZGUU,Q5xDDuhudtU,Q8C-i61AH9Q,q8N3XgSDddU,qaB9Xgr-K-U,qaeEK1ydKHQ,qb8eND6_eH8,qbNEx7wfmRw,qCVOU264zOY,qeyblMlgmf4,QFxy7aHGQAk,QgdmFUaMaTg,QHMQrxZEG0A,Qi1p1ciC6ig,QJ87Y3IHM0E,qJZUzPJM_8o,QlB-DTGsxA4,qnSzR1wZFJw,qQCLQxxZ-JQ,qSIbJjKcNfg,QuIScPQ4-HI,QwJVJTZy7_I,QWt5r7p1prc,R0kUC-zTi_w,R1LjmP8-04A,r509r1pO2R0,r6wUIvkTfA0,RaMEtW-jj3Y,RBg7ln8YvZs,rCig3kho2SM,RDi6epw_6q8,RhIjc2y2tAk,rhU9LM5NMjw,rKsfEM1BgDc,RQ0Vxa8t2lE,RqvIfoLVDOk,RU7GoALMyfc,rvKeEwBBpVI,rWFJYGKR8Q0,rwgpNw7-Z2o,RWoC617ICiE,rWUwM3PSctc,RWwMA7NgHPw,rygv-W2nBMQ,S6nzPrp1znE,s7WQRQMZHpg,sbQRdt546xk,sCpKR0JfQYg,SCrkA-IU-MA,SCYQEWuPQ5k,shbkSBhJ2I0,SIa7IJeIZTs,sj2d6MMMHe8,Smgbk6_u95o,SMJH9hOBoHs,sNJWA5xXzJ4,SnZ6S3mRxL4,Sp4RLy_qYKg,sqjMUSm7P7g,Sr-bsrd1__k,sRO9eUbKbHk,STeFcjPilJQ,stXbBirLOa4,SuFrbJ6SU-o,svsHMcqSxo0,t1tZokS2EvY,t5_FT2IuuU4,t6E_0ndD_uc,t6Lt13vIedE,ta_w9snGNto,tA5qx4py3vk,Tcnt9LQ9ghs,TcTxPlJydUY,tHP9ltlAus8,TiTXAXiDfUc,tIWPr_DcdIo,tjMfQ3p3laE,Tnrn3L8FY0I,tPO2SMpryYw,TQscIaCFOkI,TQZvMICk0VY,tsbPU6Db2kY,TsPRXxIwYko,tvC2gQ4AczY,TvVR9BnYdcM,TwLUyzhOLOg,tYyiFa4vM6U,tyzocNwNQKM,u_GGjeSvYec,U008Q4Nl6Pw,u4vS2DaqFLc,U7kcy4JVL-A,u87rX2092og,UAHuVEBXel4,ubHkJ2JOyYc,udBq5d5QJu4,UDz1OZ08WdM,ufbriRv6ttg,ujGzJFLXyyU,ulqxOJMqlbE,uM3wMO8soPk,UnaCSOYEHJY,uNbF9eE8iQo,uPZH86T-gbU,UqoqSIhUkis,uUHrITp2OII,Uv9kdzginz4,UYZK6SLUDac,uznBzdoryQE,v__k4yoGtr0,v1EVuUPy0TM,V5UBaiLKTJ8,v7n8XMG6_lU,VAb-q4zZZ84,vdBH5hXgTx0,VDegR-PmnPY,VDiIHvrYiP4,VDNvoDprdXw,VdW3BTCrFyk,VEPn4Jpriag,vH2LP87XOhM,vhEhHA1_lYc,VifwNccVoaI,VIVQ8DSeXA0,vK8vS2FLi_8,VkklwV-XWV8,vLkThiVu-7w,VLODkOCKOTQ,Vm1M-wrzD30,vNBvyX0c2GU,VncJ0_vEoR0,VNKopA1AWqc,vNoLVvWSsyo,vo2k76mYB48,VOiG-bND5gw,vOxfriLzg30,vPi9nxUXeXY,vpPs1VYeYq4,VqfhBji9KRg,VSa_TIkV6lE,VU5aarfEf-k,vvIB5CzHtRk,W2YIfMkkfwk,w3TsReVTDJg,w7usO3iDt_o,W9zaoEqRVZA,WAHJQb4hEOc,wENuaVviKSo,wGKkvAU6BXM,wgltyCeZ9pk,WGM4fqCVAQg,wgx-dnhKrBU,WhXBxkP9xE4,WJ_m4kinM7w,wLKBFYSG524,wp-A4Xc_aLU,WQ505PlHjnA,ws0Sia6taoM,Ws3y42YOuCI,wwoXSecjUy0,WxIbdhY0A54,X1Ei27wYEkk,X28tURO5Cq0,X3Sqj3g_n6c,X4jATK5wBgU,X6DgdzLcbTc,x8rM1oZB8U8,XBbVIwgeD2g,xBjg0GydtgY,XD8UWjkcE1s,xDMceMQCI_I,xe9N5iVspPY,Xfgb4YaqMT0,xfoQHcU3MyI,XfSHGaDZbBk,XISLjXeWUwk,XLzGCZkYvIc,Xna5SsHOcUo,xot9iXQ-zBA,XpBu8gmssPY,XqmwL0TTfo0,xsFay-hybec,xsO-xNEhoBI,xSQvQDtzB6U,xTJgKGF--OQ,xwOcpq9TqpE,XXd8q4BfcYQ,xYBSsLGzMlc,Y0exfyEXpfI,Y88ecV_X87E,YACpICjPygE,YAHylAzN21o,YAZ0b3JyML8,yc4umVzljCM,YDbwkcXJXRo,ygVJlwArt0A,YiKnAv4Iw2I,YJiMBvqbCwc,ykP7QXaZp9M,YkrFx8fhafI,YLlsruYA4pk,YlYxp4VTDgw,YnYkBcT-rnY,yQrUOHG8e2k,YSoJN2dPoZw,YSq6X6aQhd0,yuNxrYT4t58,ywlM82gfvbk,yWZgvfLs_ss,yzJ3vadEb_0,YZniSg3z3Iw,z1mRlnZbCF0,Z3cDEAKbMyA,Z5r4RVFd2a8,z5T_1jyN5f8,z7iJ5zZ0cLY,Za2u9FkqiaU,zB8nIspKlco,Zdnvu5QIjXE,ZEn6pbfoNlo,Zfa1UNNaPxc,ZGLLyMlvoUY,zJoO_HiEUno,ZkwW4xznOmQ,zlajBZP3nH0,ZnPojroUsrU,ZOUO80Q44B4,zozvEuKPdKs,ZTV18-GhqyU,Zu2ITGywrmU,zu3muQumFyI,zUQ1UARkl24,ZZJ6BNKXcTw,q_QmpI9cyRY,zy611VHFFwU",
+  "topic": "Comey",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_0GMW9eop3Q",
+      "segments": [
+        {
+          "text": "name it *comey* all of them they're all",
+          "location": 1489
+        }
+      ]
+    },
+    {
+      "id": "_3Rl1KrDzlc",
+      "segments": [
+        {
+          "text": "have james *comey* andrew mccabe then you",
+          "location": 1439
+        },
+        {
+          "text": "carlin or james *comey* or someone else",
+          "location": 1477
+        },
+        {
+          "text": "wasserman schultz and james *comey* to",
+          "location": 1622
+        }
+      ]
+    },
+    {
+      "id": "_c3-w-w0hd8",
+      "segments": [
+        {
+          "text": "director *comey* this is director comey's",
+          "location": 1005
+        },
+        {
+          "text": "james *comey* has so many questions",
+          "location": 1020
+        },
+        {
+          "text": "firing james *comey* because that's",
+          "location": 1035
+        }
+      ]
+    },
+    {
+      "id": "_xXAzbpQxCk",
+      "segments": [
+        {
+          "text": "and *comey* and brennan why are they on",
+          "location": 243
+        },
+        {
+          "text": "storing former fbi director jim *comey* it",
+          "location": 315
+        },
+        {
+          "text": "spying *comey* said what an ugly word only",
+          "location": 321
+        },
+        {
+          "text": "opponents jim *comey* says it's normal and",
+          "location": 448
+        },
+        {
+          "text": "not long ago jim *comey* is one of the",
+          "location": 486
+        },
+        {
+          "text": "*comey* in the federal government that",
+          "location": 510
+        },
+        {
+          "text": "in love with james *comey* he liked james",
+          "location": 625
+        },
+        {
+          "text": "pictures of him and *comey* and with all",
+          "location": 636
+        }
+      ]
+    },
+    {
+      "id": "_Y32fnAp_mE",
+      "segments": [
+        {
+          "text": "promptly responded to by james *comey*",
+          "location": 61
+        },
+        {
+          "text": "connects to this *comey* tweet now what",
+          "location": 102
+        },
+        {
+          "text": "was this james *comey* tweet well it's",
+          "location": 105
+        },
+        {
+          "text": "this it's james *comey* tweeting out once",
+          "location": 109
+        },
+        {
+          "text": "james *comey* thought would never see the",
+          "location": 237
+        },
+        {
+          "text": "james *comey* tweet it's kind of a",
+          "location": 260
+        },
+        {
+          "text": "that was in the tweet that james *comey*",
+          "location": 267
+        },
+        {
+          "text": "posted in response to james *comey* oh",
+          "location": 324
+        },
+        {
+          "text": "from james *comey* to q saying basically",
+          "location": 379
+        },
+        {
+          "text": "rosenstein about james *comey* about all",
+          "location": 641
+        }
+      ]
+    },
+    {
+      "id": "-fBcMRleHJs",
+      "segments": [
+        {
+          "text": "james *comey* more in combing and the",
+          "location": 1269
+        },
+        {
+          "text": "the maureen *comey* that the daughter of",
+          "location": 1278
+        },
+        {
+          "text": "james *comey* so absolutely nothing to see",
+          "location": 1281
+        }
+      ]
+    },
+    {
+      "id": "0DszWULPnJA",
+      "segments": [
+        {
+          "text": "porter as well as james *comey* and john",
+          "location": 889
+        },
+        {
+          "text": "testimony of james *comey* and the red",
+          "location": 1301
+        },
+        {
+          "text": "days i think james *comey* on tuesday i",
+          "location": 1308
+        },
+        {
+          "text": "lynch james *comey* testifying before",
+          "location": 1324
+        },
+        {
+          "text": "and whoever brandon *comey* clapper you",
+          "location": 1417
+        }
+      ]
+    },
+    {
+      "id": "0RnrwLJ2YB8",
+      "segments": [
+        {
+          "text": "think about *comey* and these characters",
+          "location": 21
+        },
+        {
+          "text": "think about *comey* in the gang drain the",
+          "location": 23
+        },
+        {
+          "text": "swamp drain the swamp *comey* brennen",
+          "location": 28
+        },
+        {
+          "text": "james *comey* zs-- connections to the",
+          "location": 51
+        },
+        {
+          "text": "james *comey* attacking the president",
+          "location": 1226
+        },
+        {
+          "text": "well speaking of *comey* and his crimes",
+          "location": 1265
+        },
+        {
+          "text": "perpetuated james *comey* for his capitol",
+          "location": 1281
+        },
+        {
+          "text": "be well after james *comey* left",
+          "location": 1287
+        },
+        {
+          "text": "james *comey* just happens to work at a",
+          "location": 1328
+        },
+        {
+          "text": "between why james *comey* is such an",
+          "location": 1417
+        },
+        {
+          "text": "has made so many references to *comey* and",
+          "location": 1422
+        }
+      ]
+    },
+    {
+      "id": "0UsEdqoi-uo",
+      "segments": [
+        {
+          "text": "mccabe rolling over on *comey* indictments",
+          "location": 594
+        },
+        {
+          "text": "coming up for hillary *comey* and etc and",
+          "location": 597
+        },
+        {
+          "text": "another guy james *comey* you know three",
+          "location": 711
+        }
+      ]
+    },
+    {
+      "id": "0ZQpgASg94o",
+      "segments": [
+        {
+          "text": "in there who are doing this james *comey*",
+          "location": 633
+        },
+        {
+          "text": "9th you have james *comey* this is all",
+          "location": 2310
+        },
+        {
+          "text": "what shall pass a *comey* your treasonous",
+          "location": 2325
+        }
+      ]
+    },
+    {
+      "id": "12UIMLvh03M",
+      "segments": [
+        {
+          "text": "loretta lynch james *comey* andrew mccabe",
+          "location": 502
+        },
+        {
+          "text": "loretta lynch hashtag rr james *comey*",
+          "location": 994
+        },
+        {
+          "text": "*comey* and not james clapper because",
+          "location": 1158
+        },
+        {
+          "text": "all the way up to james *comey* and his",
+          "location": 1193
+        },
+        {
+          "text": "from the disgraced jim *comey* being fired",
+          "location": 1460
+        }
+      ]
+    },
+    {
+      "id": "14goSb7_h8k",
+      "segments": [
+        {
+          "text": "clapper and james *comey* were involved in",
+          "location": 859
+        }
+      ]
+    },
+    {
+      "id": "188yfjWBsKM",
+      "segments": [
+        {
+          "text": "and how *comey* basically was some",
+          "location": 1337
+        },
+        {
+          "text": "james *comey* i don't trust him i think he",
+          "location": 1780
+        }
+      ]
+    },
+    {
+      "id": "1feiLSIDxzA",
+      "segments": [
+        {
+          "text": "*comey* dismissed letter number two i",
+          "location": 172
+        },
+        {
+          "text": "by james *comey* and then this paragraph",
+          "location": 221
+        },
+        {
+          "text": "*comey* firing is part of an inquiry of",
+          "location": 294
+        },
+        {
+          "text": "recommendation of james *comey* right so",
+          "location": 437
+        },
+        {
+          "text": "says james *comey* dismisses hillary",
+          "location": 470
+        },
+        {
+          "text": "*comey* reopens hillary clinton",
+          "location": 620
+        },
+        {
+          "text": "october 28th right james *comey* issues",
+          "location": 626
+        }
+      ]
+    },
+    {
+      "id": "1IBdXdpMtSQ",
+      "segments": [
+        {
+          "text": "testifying against *comey* so that's a",
+          "location": 483
+        },
+        {
+          "text": "testifying against *comey* or he had",
+          "location": 552
+        }
+      ]
+    },
+    {
+      "id": "246yVwb5diI",
+      "segments": [
+        {
+          "text": "charge along with leake and james *comey*",
+          "location": 814
+        },
+        {
+          "text": "james *comey* just through andrew mccabe",
+          "location": 883
+        },
+        {
+          "text": "advised james *comey* to change the",
+          "location": 1542
+        }
+      ]
+    },
+    {
+      "id": "2KlWnWIW9es",
+      "segments": [
+        {
+          "text": "how james *comey* you know drew",
+          "location": 183
+        },
+        {
+          "text": "players at the top you have lynch *comey*",
+          "location": 257
+        },
+        {
+          "text": "rosenstein yates lynch and *comey* in",
+          "location": 786
+        },
+        {
+          "text": "*comey* emailed a draft of his draft of",
+          "location": 1255
+        },
+        {
+          "text": "director *comey* eventually said more than",
+          "location": 1288
+        },
+        {
+          "text": "but i know that director *comey* and not",
+          "location": 1308
+        },
+        {
+          "text": "that way when you read what *comey* sent",
+          "location": 1351
+        },
+        {
+          "text": "director *comey* was working through what",
+          "location": 1377
+        },
+        {
+          "text": "think it reflects that director *comey*",
+          "location": 1499
+        },
+        {
+          "text": "where jim james *comey* gives an interview",
+          "location": 1641
+        },
+        {
+          "text": "to whatever i am now *comey* said it's",
+          "location": 1650
+        }
+      ]
+    },
+    {
+      "id": "2nHvxV92Fo8",
+      "segments": [
+        {
+          "text": "connection between *comey* and brennan at",
+          "location": 322
+        },
+        {
+          "text": "brennan working with *comey* and peter",
+          "location": 366
+        }
+      ]
+    },
+    {
+      "id": "2VvxKYycSTA",
+      "segments": [
+        {
+          "text": "gonna call mccabe rosenstein *comey* yates",
+          "location": 1219
+        }
+      ]
+    },
+    {
+      "id": "2z1u4f9qxSk",
+      "segments": [
+        {
+          "text": "others claim that james *comey* actually",
+          "location": 470
+        },
+        {
+          "text": "obviously being run by james *comey* at",
+          "location": 698
+        }
+      ]
+    },
+    {
+      "id": "3hTjnoctYb8",
+      "segments": [
+        {
+          "text": "commis daughter maureen *comey* who is",
+          "location": 1122
+        },
+        {
+          "text": "re-arrested and tried under james *comey*",
+          "location": 1259
+        }
+      ]
+    },
+    {
+      "id": "3iNDtYv3ogU",
+      "segments": [
+        {
+          "text": "away from the fact that the james *comey*",
+          "location": 521
+        }
+      ]
+    },
+    {
+      "id": "4aeInV5RoBU",
+      "segments": [
+        {
+          "text": "when *comey* had been fired for trying to",
+          "location": 1855
+        },
+        {
+          "text": "time that's after *comey* had just been",
+          "location": 2055
+        }
+      ]
+    },
+    {
+      "id": "4IELe4HKwW8",
+      "segments": [
+        {
+          "text": "in the clinton foundation why did *comey*",
+          "location": 1125
+        },
+        {
+          "text": "during the haiti crisis so is *comey*",
+          "location": 1130
+        }
+      ]
+    },
+    {
+      "id": "4QBY4MC9H4A",
+      "segments": [
+        {
+          "text": "what happened with *comey* on his",
+          "location": 80
+        },
+        {
+          "text": "*comey* and mccabe and everyone who was",
+          "location": 1010
+        },
+        {
+          "text": "hillary and slippery james *comey*",
+          "location": 1055
+        }
+      ]
+    },
+    {
+      "id": "4SVOSBqdzh4",
+      "segments": [
+        {
+          "text": "*comey* chuck schumer add andrew mccabe",
+          "location": 155
+        }
+      ]
+    },
+    {
+      "id": "5aclmTHqG3Y",
+      "segments": [
+        {
+          "text": "*comey* testifying under oath today",
+          "location": 127
+        },
+        {
+          "text": "jim *comey* pulling out of syria",
+          "location": 560
+        },
+        {
+          "text": "russian investigation sent by jim *comey*",
+          "location": 768
+        }
+      ]
+    },
+    {
+      "id": "5teFvGwE9Ec",
+      "segments": [
+        {
+          "text": "james baker james *comey* and many many",
+          "location": 586
+        }
+      ]
+    },
+    {
+      "id": "5zwSaKW2qzA",
+      "segments": [
+        {
+          "text": "and not only did james *comey* do it",
+          "location": 494
+        }
+      ]
+    },
+    {
+      "id": "6__xoin6aw8",
+      "segments": [
+        {
+          "text": "why fbi director james *comey* had to",
+          "location": 1350
+        }
+      ]
+    },
+    {
+      "id": "639Gc3bX0Hs",
+      "segments": [
+        {
+          "text": "a *comey* having 26 back-and-forth with a",
+          "location": 199
+        },
+        {
+          "text": "paige james *comey* i can name these names",
+          "location": 287
+        },
+        {
+          "text": "clinton *comey* lynch mccabe all these",
+          "location": 738
+        },
+        {
+          "text": "*comey* and communication with mccabe",
+          "location": 940
+        },
+        {
+          "text": "you have *comey* actually reaching out to",
+          "location": 946
+        },
+        {
+          "text": "about *comey* and i'm sure *comey* could say",
+          "location": 954
+        },
+        {
+          "text": "james baker testifying against *comey* and",
+          "location": 964
+        },
+        {
+          "text": "high ranking officials with *comey* who",
+          "location": 969
+        },
+        {
+          "text": "rosenstein yates in lynch and *comey* so",
+          "location": 1027
+        },
+        {
+          "text": "roses dean yates lynch and *comey* to",
+          "location": 1060
+        },
+        {
+          "text": "like oh well james *comey* is is corrupt",
+          "location": 1181
+        },
+        {
+          "text": "people it's sally yates its james *comey*",
+          "location": 1206
+        }
+      ]
+    },
+    {
+      "id": "68Bl7RbXS2A",
+      "segments": [
+        {
+          "text": "james *comey* director fire bill priest at",
+          "location": 68
+        },
+        {
+          "text": "*comey* got rid all those guys because",
+          "location": 137
+        },
+        {
+          "text": "democrat or director *comey* had lost",
+          "location": 618
+        }
+      ]
+    },
+    {
+      "id": "6dPlpdME9bA",
+      "segments": [
+        {
+          "text": "in this particular instance as *comey*",
+          "location": 828
+        },
+        {
+          "text": "calendar we asked *comey* if this briefing",
+          "location": 834
+        },
+        {
+          "text": "and the weiner investigation *comey*",
+          "location": 842
+        },
+        {
+          "text": "had i not fired james *comey* who was a",
+          "location": 1150
+        },
+        {
+          "text": "james *comey* we would have never found",
+          "location": 1526
+        }
+      ]
+    },
+    {
+      "id": "6gP2Zh2J4lU",
+      "segments": [
+        {
+          "text": "kept brenna at the cia and we kept *comey*",
+          "location": 1476
+        }
+      ]
+    },
+    {
+      "id": "6VOzbo_Xzcs",
+      "segments": [
+        {
+          "text": "mccabe and james *comey* for criminal",
+          "location": 599
+        },
+        {
+          "text": "*comey* wasn't entitled to leak sensitive",
+          "location": 614
+        },
+        {
+          "text": "criticized mr. *comey* for usurping the",
+          "location": 639
+        },
+        {
+          "text": "investigation offered indications *comey*",
+          "location": 677
+        },
+        {
+          "text": "investigated and *comey* was using the",
+          "location": 691
+        },
+        {
+          "text": "*comey* went to meet with donald trump",
+          "location": 699
+        }
+      ]
+    },
+    {
+      "id": "7dUatd4L2_I",
+      "segments": [
+        {
+          "text": "obstruct justice by firing james *comey*",
+          "location": 682
+        },
+        {
+          "text": "justice by firing james *comey* as fbi",
+          "location": 796
+        },
+        {
+          "text": "firing james *comey* an obstruction of",
+          "location": 805
+        },
+        {
+          "text": "james *comey* after all the lies and all",
+          "location": 811
+        }
+      ]
+    },
+    {
+      "id": "7KyRGYh74yM",
+      "segments": [
+        {
+          "text": "lisa page the misconduct by james *comey*",
+          "location": 166
+        },
+        {
+          "text": "we're gonna have to cover james *comey*",
+          "location": 1058
+        }
+      ]
+    },
+    {
+      "id": "7nBOtseGsvM",
+      "segments": [
+        {
+          "text": "about james *comey* angel' cave and how",
+          "location": 1412
+        }
+      ]
+    },
+    {
+      "id": "7uKOdZECGKo",
+      "segments": [
+        {
+          "text": "corruption at the top under *comey* mccabe",
+          "location": 431
+        }
+      ]
+    },
+    {
+      "id": "85y3X4rQxA4",
+      "segments": [
+        {
+          "text": "information about *comey* that's going to",
+          "location": 111
+        },
+        {
+          "text": "slippery james *comey* numerous delays",
+          "location": 135
+        },
+        {
+          "text": "other news sources that james *comey*",
+          "location": 166
+        },
+        {
+          "text": "mccabe and jim *comey* all right and then",
+          "location": 614
+        }
+      ]
+    },
+    {
+      "id": "8BvPh2JcG1I",
+      "segments": [
+        {
+          "text": "especially when it comes to *comey*",
+          "location": 29
+        },
+        {
+          "text": "think about *comey* and these characters",
+          "location": 495
+        },
+        {
+          "text": "think about *comey* in the gang drain the",
+          "location": 497
+        },
+        {
+          "text": "swamp drain the swamp *comey* brennan",
+          "location": 501
+        }
+      ]
+    },
+    {
+      "id": "8fechd5G8bQ",
+      "segments": [
+        {
+          "text": "director *comey* special prosecutor",
+          "location": 458
+        },
+        {
+          "text": "have this crazy case with james *comey*",
+          "location": 1178
+        }
+      ]
+    },
+    {
+      "id": "8IEQfBwVCnI",
+      "segments": [
+        {
+          "text": "director james *comey* did everything",
+          "location": 1398
+        },
+        {
+          "text": "there's no reason why director *comey*",
+          "location": 1448
+        }
+      ]
+    },
+    {
+      "id": "8pfDKYOa2YQ",
+      "segments": [
+        {
+          "text": "with lyin james *comey* the dems all hated",
+          "location": 365
+        },
+        {
+          "text": "investigation james *comey* fire danger",
+          "location": 853
+        },
+        {
+          "text": "real the fact that james *comey* one of",
+          "location": 931
+        }
+      ]
+    },
+    {
+      "id": "8SJ8Si8dOik",
+      "segments": [
+        {
+          "text": "verse *comey* think recent doc release q",
+          "location": 607
+        },
+        {
+          "text": "me to make the rn in *comey* look like an",
+          "location": 661
+        },
+        {
+          "text": "name *comey* or *comey* corny i guess has",
+          "location": 672
+        },
+        {
+          "text": "times *comey* 0 times and it gives a link",
+          "location": 845
+        },
+        {
+          "text": "*comey* in or corny and you get a 17",
+          "location": 853
+        },
+        {
+          "text": "*comey* is referenced in all of these",
+          "location": 926
+        },
+        {
+          "text": "they say james *comey* you know going back",
+          "location": 951
+        },
+        {
+          "text": "james *comey* will be indicted he will be",
+          "location": 963
+        },
+        {
+          "text": "released necessary prior to *comey*",
+          "location": 1133
+        },
+        {
+          "text": "release house plus *comey* equals",
+          "location": 1135
+        },
+        {
+          "text": "happen horowitz report then *comey* report",
+          "location": 1174
+        }
+      ]
+    },
+    {
+      "id": "8VlLxBGFQbo",
+      "segments": [
+        {
+          "text": "be coming from james *comey* and loretta",
+          "location": 6
+        },
+        {
+          "text": "set to testify you have james *comey* who",
+          "location": 140
+        },
+        {
+          "text": "testimony there lynch james *comey* could",
+          "location": 184
+        }
+      ]
+    },
+    {
+      "id": "94-23EfqkIo",
+      "segments": [
+        {
+          "text": "*comey* andrew mccabe peter struck support",
+          "location": 128
+        },
+        {
+          "text": "james *comey* loretta lynch barack hussein",
+          "location": 158
+        },
+        {
+          "text": "*comey* and angel mccabe and them",
+          "location": 344
+        }
+      ]
+    },
+    {
+      "id": "9aC20cRhA6A",
+      "segments": [
+        {
+          "text": "trump so and james *comey* and then the ig",
+          "location": 916
+        },
+        {
+          "text": "*comey* ran fbi under president trump then",
+          "location": 1010
+        },
+        {
+          "text": "*comey* and the inspector general and the",
+          "location": 1016
+        }
+      ]
+    },
+    {
+      "id": "9CRaVe_WoRA",
+      "segments": [
+        {
+          "text": "say i'll say this though james *comey*",
+          "location": 699
+        },
+        {
+          "text": "james *comey* were abusing the super",
+          "location": 771
+        },
+        {
+          "text": "as unmasking goes and james *comey*",
+          "location": 789
+        },
+        {
+          "text": "james *comey* did",
+          "location": 794
+        },
+        {
+          "text": "james *comey* and james clapper and john",
+          "location": 904
+        }
+      ]
+    },
+    {
+      "id": "9DCeANHAmJk",
+      "segments": [
+        {
+          "text": "is this see you know how *comey* used the",
+          "location": 732
+        },
+        {
+          "text": "where q actually calls out *comey* for",
+          "location": 751
+        }
+      ]
+    },
+    {
+      "id": "9IYh49I9vLI",
+      "segments": [
+        {
+          "text": "has a lot to do with *comey*",
+          "location": 117
+        },
+        {
+          "text": "is obviously referencing james *comey*",
+          "location": 315
+        },
+        {
+          "text": "the *comey* thing we really jump out of",
+          "location": 681
+        },
+        {
+          "text": "to reference *comey* for quite some time",
+          "location": 694
+        },
+        {
+          "text": "and here's james *comey* statement you",
+          "location": 697
+        },
+        {
+          "text": "chat logs right how james *comey*",
+          "location": 972
+        },
+        {
+          "text": "you're doing and maybe if *comey* or all",
+          "location": 1020
+        }
+      ]
+    },
+    {
+      "id": "9lRA4hj5-zs",
+      "segments": [
+        {
+          "text": "and and subsequently pete james *comey*",
+          "location": 1628
+        }
+      ]
+    },
+    {
+      "id": "9PqmG_y1mEA",
+      "segments": [
+        {
+          "text": "that's the kind of corruption that *comey*",
+          "location": 711
+        }
+      ]
+    },
+    {
+      "id": "9Rsj2RvPQQY",
+      "segments": [
+        {
+          "text": "*comey* who magically made him disappear",
+          "location": 744
+        }
+      ]
+    },
+    {
+      "id": "A3UCbl5D6xw",
+      "segments": [
+        {
+          "text": "before james *comey* launches the special",
+          "location": 1359
+        },
+        {
+          "text": "have the very next day james *comey*",
+          "location": 1445
+        }
+      ]
+    },
+    {
+      "id": "AaEkl-of76c",
+      "segments": [
+        {
+          "text": "a coordinated effort by *comey* and mccabe",
+          "location": 249
+        }
+      ]
+    },
+    {
+      "id": "ABKGKVoSAZs",
+      "segments": [
+        {
+          "text": "director james *comey* be indicted hi i'm",
+          "location": 8
+        },
+        {
+          "text": "james *comey* based on the fact that there",
+          "location": 93
+        },
+        {
+          "text": "grand jury i can assure you mr. *comey*",
+          "location": 161
+        },
+        {
+          "text": "against *comey* q now this is from a",
+          "location": 194
+        },
+        {
+          "text": "director the man in charge james *comey*",
+          "location": 229
+        },
+        {
+          "text": "with james *comey* in the highest levels",
+          "location": 236
+        },
+        {
+          "text": "james *comey* and what went on behind the",
+          "location": 242
+        },
+        {
+          "text": "testifying against *comey* and this is the",
+          "location": 421
+        },
+        {
+          "text": "jury i can assure you mr. *comey* has been",
+          "location": 471
+        }
+      ]
+    },
+    {
+      "id": "AGvin09PnlY",
+      "segments": [
+        {
+          "text": "of lays up the groundwork james *comey* is",
+          "location": 440
+        },
+        {
+          "text": "*comey* has turned against those involved",
+          "location": 460
+        },
+        {
+          "text": "*comey* started cooperating with",
+          "location": 472
+        },
+        {
+          "text": "when confronted when *comey* was told he",
+          "location": 478
+        },
+        {
+          "text": "perfect sense that *comey* would be one of",
+          "location": 495
+        },
+        {
+          "text": "*comey* i think this is a some sort of",
+          "location": 1461
+        },
+        {
+          "text": "confirmation that james *comey*",
+          "location": 1463
+        }
+      ]
+    },
+    {
+      "id": "Ai_hTzDSyO0",
+      "segments": [
+        {
+          "text": "fbi director james *comey* think i should",
+          "location": 102
+        }
+      ]
+    },
+    {
+      "id": "aMjfmqYp1k0",
+      "segments": [
+        {
+          "text": "doing this and be like james *comey* and",
+          "location": 1659
+        },
+        {
+          "text": "a tweet from james *comey* i wonder what",
+          "location": 1754
+        },
+        {
+          "text": "maybe that *comey* is using this as a",
+          "location": 1859
+        },
+        {
+          "text": "*comey* coincidence guess who was",
+          "location": 1990
+        },
+        {
+          "text": "james *comey* leaves the justice",
+          "location": 2039
+        },
+        {
+          "text": "2013 nother than james *comey* who secured",
+          "location": 2212
+        },
+        {
+          "text": "crimes there in april 2016 james *comey*",
+          "location": 2242
+        },
+        {
+          "text": "himself like the true gangster *comey* is",
+          "location": 2259
+        },
+        {
+          "text": "the attorney general *comey* gets fired",
+          "location": 2275
+        },
+        {
+          "text": "based on letter by rosenstein *comey*",
+          "location": 2278
+        },
+        {
+          "text": "james *comey* and robert mueller",
+          "location": 2362
+        },
+        {
+          "text": "three times james *comey* 5 times barack",
+          "location": 2373
+        },
+        {
+          "text": "*comey* leaks attorney general jeff",
+          "location": 2470
+        }
+      ]
+    },
+    {
+      "id": "ApxADBQ8v3A",
+      "segments": [
+        {
+          "text": "and *comey* we're all in the same boat",
+          "location": 353
+        },
+        {
+          "text": "clapper james *comey* treason means long",
+          "location": 391
+        }
+      ]
+    },
+    {
+      "id": "aRH_VcgxE-M",
+      "segments": [
+        {
+          "text": "james *comey* no charges are appropriate",
+          "location": 1322
+        },
+        {
+          "text": "all of their missteps *comey* mccabe",
+          "location": 1401
+        },
+        {
+          "text": "fisa and *comey* but this is gonna be a",
+          "location": 1564
+        },
+        {
+          "text": "email investigation that *comey* mccabe",
+          "location": 1668
+        }
+      ]
+    },
+    {
+      "id": "ATycYftkD9M",
+      "segments": [
+        {
+          "text": "out by james *comey* which we covered in",
+          "location": 751
+        },
+        {
+          "text": "op-ed put up by james *comey* where he",
+          "location": 765
+        }
+      ]
+    },
+    {
+      "id": "aZ9ow4ZlnfI",
+      "segments": [
+        {
+          "text": "for brennan and clapper and *comey* and",
+          "location": 245
+        }
+      ]
+    },
+    {
+      "id": "b1BuM4rDtj4",
+      "segments": [
+        {
+          "text": "*comey* was a part of a broader set of",
+          "location": 112
+        },
+        {
+          "text": "the james *comey* thing is because",
+          "location": 162
+        },
+        {
+          "text": "get james *comey* could try to get the",
+          "location": 185
+        },
+        {
+          "text": "firing of james *comey* as a reason to",
+          "location": 188
+        }
+      ]
+    },
+    {
+      "id": "b2o6RTKxh4I",
+      "segments": [
+        {
+          "text": "james *comey* testifying in front of",
+          "location": 1784
+        },
+        {
+          "text": "when james *comey* made his tweet",
+          "location": 1862
+        },
+        {
+          "text": "they communicated james *comey* to bruce",
+          "location": 1911
+        },
+        {
+          "text": "is james *comey* you talking to bruce or",
+          "location": 1953
+        }
+      ]
+    },
+    {
+      "id": "BBOhxkAxLis",
+      "segments": [
+        {
+          "text": "clintons *comey* and mueller crime",
+          "location": 150
+        }
+      ]
+    },
+    {
+      "id": "BcVYQ8Qb8WE",
+      "segments": [
+        {
+          "text": "seventy eight you have james *comey* in an",
+          "location": 681
+        }
+      ]
+    },
+    {
+      "id": "BgKgV7LyEIo",
+      "segments": [
+        {
+          "text": "other missteps *comey* mccabe stroke page",
+          "location": 1269
+        }
+      ]
+    },
+    {
+      "id": "BjZ3EmeaX5k",
+      "segments": [
+        {
+          "text": "in america jeff sessions mueller *comey*",
+          "location": 966
+        }
+      ]
+    },
+    {
+      "id": "BKrYqZUyOIQ",
+      "segments": [
+        {
+          "text": "that we got from james *comey* where he",
+          "location": 374
+        }
+      ]
+    },
+    {
+      "id": "BLbmipYjHR4",
+      "segments": [
+        {
+          "text": "*comey* was a terrible and corrupt leader",
+          "location": 938
+        },
+        {
+          "text": "finally act also on *comey* and others and",
+          "location": 1188
+        },
+        {
+          "text": "have *comey* shooting back at the",
+          "location": 1194
+        },
+        {
+          "text": "*comey* is tightly regulated and essential",
+          "location": 1207
+        }
+      ]
+    },
+    {
+      "id": "BMvOvzcBOq0",
+      "segments": [
+        {
+          "text": "issue james *comey* the leaker and liar",
+          "location": 1
+        },
+        {
+          "text": "into that as we talk about *comey*",
+          "location": 117
+        },
+        {
+          "text": "*comey* leaker or co me traitor or",
+          "location": 309
+        },
+        {
+          "text": "from you is to get *comey* memes i want",
+          "location": 322
+        },
+        {
+          "text": "*comey* memes that expose him for the liar",
+          "location": 325
+        },
+        {
+          "text": "memes about *comey* and that way i will",
+          "location": 357
+        },
+        {
+          "text": "now donald trump says james *comey* is a",
+          "location": 371
+        },
+        {
+          "text": "james *comey* amen mr. president and truer",
+          "location": 414
+        },
+        {
+          "text": "there is no james *comey* has never been",
+          "location": 424
+        },
+        {
+          "text": "*comey* and how that kind of correlates",
+          "location": 459
+        },
+        {
+          "text": "about james *comey* about ten that i can",
+          "location": 466
+        },
+        {
+          "text": "*comey* firing well isn't that interesting",
+          "location": 500
+        },
+        {
+          "text": "show whitehouse lied about *comey* firing",
+          "location": 883
+        },
+        {
+          "text": "*comey* writes in his book he says quote",
+          "location": 945
+        },
+        {
+          "text": "that no *comey* has just completely gone",
+          "location": 1018
+        },
+        {
+          "text": "character of a man like *comey* who has no",
+          "location": 1102
+        },
+        {
+          "text": "wanted *comey* to come out and say that",
+          "location": 1174
+        },
+        {
+          "text": "more fully and but no james *comey*",
+          "location": 1200
+        },
+        {
+          "text": "*comey* says you will always get honesty",
+          "location": 1217
+        },
+        {
+          "text": "boss and a mob boss it's you mr. *comey*",
+          "location": 1243
+        },
+        {
+          "text": "she called *comey*",
+          "location": 1336
+        }
+      ]
+    },
+    {
+      "id": "bTO8-X3R_0g",
+      "segments": [
+        {
+          "text": "you know who *comey* the status is",
+          "location": 254
+        },
+        {
+          "text": "a nation so this is james *comey* calling",
+          "location": 271
+        },
+        {
+          "text": "james *comey* i mean that's a rabbit hole",
+          "location": 328
+        },
+        {
+          "text": "*comey* tweet was the corn ripe for",
+          "location": 394
+        },
+        {
+          "text": "*comey* james clapper room avenue and",
+          "location": 418
+        },
+        {
+          "text": "90 jpg and then back to the *comey* tweet",
+          "location": 724
+        }
+      ]
+    },
+    {
+      "id": "BufAWX9OL9M",
+      "segments": [
+        {
+          "text": "james *comey* and his then deputy director",
+          "location": 515
+        }
+      ]
+    },
+    {
+      "id": "bWCu3V4E0Cw",
+      "segments": [
+        {
+          "text": "*comey* james clapper huma abedin hillary",
+          "location": 1054
+        }
+      ]
+    },
+    {
+      "id": "c3uk_PM4FTU",
+      "segments": [
+        {
+          "text": "where we're at special counsel *comey* rod",
+          "location": 1023
+        },
+        {
+          "text": "saying james *comey* andrew mccabe laura",
+          "location": 1134
+        }
+      ]
+    },
+    {
+      "id": "c8x6_3FTcmk",
+      "segments": [
+        {
+          "text": "influence the election jim *comey*",
+          "location": 854
+        },
+        {
+          "text": "*comey* jim *comey* the guy who opened the",
+          "location": 945
+        },
+        {
+          "text": "jim *comey* the guy who allowed peters",
+          "location": 950
+        },
+        {
+          "text": "special counsel jim *comey* the guy who",
+          "location": 974
+        }
+      ]
+    },
+    {
+      "id": "cjcQ6t4JMXs",
+      "segments": [
+        {
+          "text": "*comey* and his fired deputy andrew mccabe",
+          "location": 2285
+        }
+      ]
+    },
+    {
+      "id": "CLxo7YDcLzk",
+      "segments": [
+        {
+          "text": "tell you a little bit about *comey* i do",
+          "location": 533
+        },
+        {
+          "text": "not have confidence in him *comey* any",
+          "location": 536
+        }
+      ]
+    },
+    {
+      "id": "CpCLI8mo6T8",
+      "segments": [
+        {
+          "text": "media personality types like *comey* and",
+          "location": 957
+        },
+        {
+          "text": "says *comey* became both side applications",
+          "location": 1037
+        },
+        {
+          "text": "horowitz quit criticizing *comey* mccabe's",
+          "location": 1047
+        },
+        {
+          "text": "administration brennan clapper *comey*",
+          "location": 1074
+        },
+        {
+          "text": "*comey* from john brennan from msnbc cnn",
+          "location": 1805
+        }
+      ]
+    },
+    {
+      "id": "cQbGXIlAVTM",
+      "segments": [
+        {
+          "text": "you have what's going on with *comey*",
+          "location": 684
+        },
+        {
+          "text": "the *comey* mccabe rosenstein muller cabal",
+          "location": 813
+        },
+        {
+          "text": "*comey* to leak the the horta to go",
+          "location": 852
+        },
+        {
+          "text": "here explaining for instance james *comey*",
+          "location": 1009
+        },
+        {
+          "text": "how you have *comey* memos that come out",
+          "location": 1049
+        },
+        {
+          "text": "james *comey* can leak and lie and make",
+          "location": 1071
+        },
+        {
+          "text": "about mueller and *comey* and this is",
+          "location": 1228
+        },
+        {
+          "text": "little *comey* and of course he says just",
+          "location": 1302
+        },
+        {
+          "text": "love at little jimmy *comey* secret",
+          "location": 1305
+        },
+        {
+          "text": "*comey* has actually got an 11 million",
+          "location": 1322
+        }
+      ]
+    },
+    {
+      "id": "cRLq7aAC-XI",
+      "segments": [
+        {
+          "text": "james *comey* leaked the memos to the",
+          "location": 698
+        }
+      ]
+    },
+    {
+      "id": "CUobzPBIPYs",
+      "segments": [
+        {
+          "text": "your thoughts on james *comey* well he's",
+          "location": 620
+        }
+      ]
+    },
+    {
+      "id": "CVPDq78OM50",
+      "segments": [
+        {
+          "text": "kim just going forward *comey* to potus",
+          "location": 1124
+        },
+        {
+          "text": "three of them *comey* rosenstein and",
+          "location": 1137
+        },
+        {
+          "text": "*comey* testimony proves trump not under",
+          "location": 1218
+        },
+        {
+          "text": "pushing around like a clapper and *comey*",
+          "location": 1797
+        },
+        {
+          "text": "of course insurance policy *comey* release",
+          "location": 1888
+        },
+        {
+          "text": "a special counsel *comey*",
+          "location": 1907
+        }
+      ]
+    },
+    {
+      "id": "CxlcQbMPATY",
+      "segments": [
+        {
+          "text": "with fbi director *comey*",
+          "location": 600
+        },
+        {
+          "text": "into clinton foundation why *comey*",
+          "location": 852
+        }
+      ]
+    },
+    {
+      "id": "d_GwGYmK26Y",
+      "segments": [
+        {
+          "text": "big story talking about *comey* cyber spy",
+          "location": 1261
+        },
+        {
+          "text": "*comey* and of course this goes into",
+          "location": 1279
+        }
+      ]
+    },
+    {
+      "id": "d352Nhkd02g",
+      "segments": [
+        {
+          "text": "have *comey* launching his book of lies",
+          "location": 247
+        },
+        {
+          "text": "it's trump exposes *comey* as an",
+          "location": 254
+        }
+      ]
+    },
+    {
+      "id": "DJhwFGJhk5k",
+      "segments": [
+        {
+          "text": "*comey* oh there you go",
+          "location": 809
+        },
+        {
+          "text": "director james *comey* he wondered why",
+          "location": 874
+        },
+        {
+          "text": "president trump fired *comey* because",
+          "location": 877
+        },
+        {
+          "text": "*comey* knew that the whole thing was",
+          "location": 879
+        },
+        {
+          "text": "koch bulls *comey* which means that that",
+          "location": 889
+        },
+        {
+          "text": "rosenstein *comey* whoever had not been so",
+          "location": 925
+        }
+      ]
+    },
+    {
+      "id": "DOO7fNIwpYY",
+      "segments": [
+        {
+          "text": "*comey* memos which i think is very",
+          "location": 568
+        },
+        {
+          "text": "that it's obvious that *comey* has a",
+          "location": 609
+        },
+        {
+          "text": "all of the *comey* memos it becomes",
+          "location": 653
+        },
+        {
+          "text": "nature's in the *comey* memos so this is",
+          "location": 677
+        },
+        {
+          "text": "*comey* memos now i think for mr. *comey*",
+          "location": 687
+        },
+        {
+          "text": "*comey* has a lot to look forward to in",
+          "location": 708
+        },
+        {
+          "text": "against james *comey* please watch this is",
+          "location": 741
+        },
+        {
+          "text": "mr. *comey* that *comey* did not get mr.",
+          "location": 774
+        },
+        {
+          "text": "press now as it relates to mr. *comey*",
+          "location": 777
+        },
+        {
+          "text": "think i think that these *comey* memos",
+          "location": 827
+        },
+        {
+          "text": "irony is the very thing that mr. *comey*",
+          "location": 836
+        }
+      ]
+    },
+    {
+      "id": "dPmQytHJFIs",
+      "segments": [
+        {
+          "text": "the fbi with james *comey* mccabe rebecky",
+          "location": 215
+        }
+      ]
+    },
+    {
+      "id": "dS2qkAQ33Xw",
+      "segments": [
+        {
+          "text": "way up to obama even *comey* the whole",
+          "location": 196
+        }
+      ]
+    },
+    {
+      "id": "Dt0bn771sGA",
+      "segments": [
+        {
+          "text": "*comey* sally yates andrew mccabe and rob",
+          "location": 927
+        }
+      ]
+    },
+    {
+      "id": "dTiW7GUvpiE",
+      "segments": [
+        {
+          "text": "looking into the clearances of *comey*",
+          "location": 125
+        },
+        {
+          "text": "i mean james *comey* is just a complete",
+          "location": 378
+        },
+        {
+          "text": "journalist is he is james *comey* really",
+          "location": 426
+        },
+        {
+          "text": "that james *comey* is just a little wimp",
+          "location": 440
+        },
+        {
+          "text": "allegedly by brennan clapper *comey* you",
+          "location": 738
+        },
+        {
+          "text": "name it maybe not *comey* as much i'd say",
+          "location": 742
+        }
+      ]
+    },
+    {
+      "id": "DTJrCcpKAsE",
+      "segments": [
+        {
+          "text": "the doj will not prosecute james *comey*",
+          "location": 303
+        },
+        {
+          "text": "behind this story james *comey* took home",
+          "location": 322
+        },
+        {
+          "text": "sources that james *comey* did in fact",
+          "location": 390
+        },
+        {
+          "text": "classified at the time when james *comey*",
+          "location": 406
+        },
+        {
+          "text": "coming against *comey* in the future and i",
+          "location": 466
+        },
+        {
+          "text": "*comey* is gonna make is that these",
+          "location": 495
+        },
+        {
+          "text": "against *comey* that's going to be coming",
+          "location": 500
+        }
+      ]
+    },
+    {
+      "id": "DWyqBff8MD0",
+      "segments": [
+        {
+          "text": "cause then director james *comey* signed",
+          "location": 203
+        },
+        {
+          "text": "early january 2017 director *comey*",
+          "location": 647
+        },
+        {
+          "text": "imagine that conversation where *comey* is",
+          "location": 658
+        }
+      ]
+    },
+    {
+      "id": "EEnVvVzaBCo",
+      "segments": [
+        {
+          "text": "james clapper john brennan james *comey*",
+          "location": 906
+        }
+      ]
+    },
+    {
+      "id": "ehRpPBA6HgM",
+      "segments": [
+        {
+          "text": "*comey* klapper brannon struck page you",
+          "location": 873
+        },
+        {
+          "text": "fbi officials *comey* was fired mccabe was",
+          "location": 1177
+        }
+      ]
+    },
+    {
+      "id": "ejJhYz7wFwo",
+      "segments": [
+        {
+          "text": "from the fbi you have james *comey* the",
+          "location": 550
+        }
+      ]
+    },
+    {
+      "id": "ek_MgNKuQKg",
+      "segments": [
+        {
+          "text": "this point anything's better than *comey*",
+          "location": 896
+        }
+      ]
+    },
+    {
+      "id": "EyLK_rCRmPI",
+      "segments": [
+        {
+          "text": "about mccabe and *comey* and all the rest",
+          "location": 1157
+        }
+      ]
+    },
+    {
+      "id": "EzqNatWuS6Y",
+      "segments": [
+        {
+          "text": "people like james *comey* and people like",
+          "location": 1767
+        }
+      ]
+    },
+    {
+      "id": "F5FobXrvY3E",
+      "segments": [
+        {
+          "text": "*comey* sends peter stroke across the pond",
+          "location": 1803
+        }
+      ]
+    },
+    {
+      "id": "FB4dExVms7s",
+      "segments": [
+        {
+          "text": "obamas and the clintons and *comey*",
+          "location": 591
+        }
+      ]
+    },
+    {
+      "id": "fB7BASL5g54",
+      "segments": [
+        {
+          "text": "redaction of james *comey* edumacated",
+          "location": 993
+        },
+        {
+          "text": "including james *comey* in the passing of",
+          "location": 1090
+        },
+        {
+          "text": "rod rosenstein obama *comey* that",
+          "location": 1293
+        },
+        {
+          "text": "was arguing with james *comey* every day",
+          "location": 1993
+        },
+        {
+          "text": "yeah so jim *comey* had reached the",
+          "location": 2049
+        },
+        {
+          "text": "interactions with james *comey* is he",
+          "location": 2065
+        },
+        {
+          "text": "with jim *comey* all the way up till the",
+          "location": 2078
+        },
+        {
+          "text": "convinced basically when james *comey*",
+          "location": 2083
+        }
+      ]
+    },
+    {
+      "id": "fbY83L61Kd0",
+      "segments": [
+        {
+          "text": "justice by firing *comey* because *comey* is",
+          "location": 602
+        },
+        {
+          "text": "and *comey* are all connected to clinton",
+          "location": 784
+        }
+      ]
+    },
+    {
+      "id": "fchREWrn0vY",
+      "segments": [
+        {
+          "text": "how *comey* is gonna be in error not *comey*",
+          "location": 894
+        },
+        {
+          "text": "while james *comey* was still employed as",
+          "location": 940
+        },
+        {
+          "text": "behalf of james *comey* i wonder who he",
+          "location": 965
+        }
+      ]
+    },
+    {
+      "id": "Ff4fEQVTpSs",
+      "segments": [
+        {
+          "text": "to follow those rules unlike james *comey*",
+          "location": 152
+        },
+        {
+          "text": "look at this james *comey* the united",
+          "location": 584
+        },
+        {
+          "text": "well what about you mr. *comey* overseeing",
+          "location": 596
+        },
+        {
+          "text": "hardcore deep state lion leak in *comey*",
+          "location": 636
+        },
+        {
+          "text": "better than people like james *comey* it's",
+          "location": 699
+        }
+      ]
+    },
+    {
+      "id": "FHBsONoVnq0",
+      "segments": [
+        {
+          "text": "draft letter supporting james *comey*",
+          "location": 168
+        }
+      ]
+    },
+    {
+      "id": "FLYTjpU15No",
+      "segments": [
+        {
+          "text": "president trump under james *comey* not",
+          "location": 871
+        },
+        {
+          "text": "q post this meme here with james *comey*",
+          "location": 1442
+        }
+      ]
+    },
+    {
+      "id": "ft2oJSlNPtQ",
+      "segments": [
+        {
+          "text": "james *comey* then go to michael flynn if",
+          "location": 745
+        },
+        {
+          "text": "the fact that james *comey* is leaking",
+          "location": 873
+        },
+        {
+          "text": "court and say look you know james *comey*",
+          "location": 943
+        },
+        {
+          "text": "itself and to be honest look james *comey*",
+          "location": 977
+        }
+      ]
+    },
+    {
+      "id": "fU5hFfGsdjM",
+      "segments": [
+        {
+          "text": "threat from james *comey* and twitter on",
+          "location": 10
+        },
+        {
+          "text": "*comey* okay so this is what he said",
+          "location": 36
+        },
+        {
+          "text": "get to that it says james *comey* tweet",
+          "location": 72
+        },
+        {
+          "text": "threat from james *comey* apparently to",
+          "location": 121
+        },
+        {
+          "text": "fire james *comey* or not james *comey*",
+          "location": 327
+        }
+      ]
+    },
+    {
+      "id": "g_4yojz2mAs",
+      "segments": [
+        {
+          "text": "our own obama led fbi *comey* let fbi",
+          "location": 828
+        }
+      ]
+    },
+    {
+      "id": "G2aQUZYgTL4",
+      "segments": [
+        {
+          "text": "it like former fbi chief james *comey*",
+          "location": 350
+        },
+        {
+          "text": "director *comey* did and did not do and",
+          "location": 535
+        }
+      ]
+    },
+    {
+      "id": "G6rtL2LbzqA",
+      "segments": [
+        {
+          "text": "meeting between *comey* and coleman on",
+          "location": 993
+        },
+        {
+          "text": "not recall his briefing with *comey*",
+          "location": 1004
+        },
+        {
+          "text": "criminal investigative division *comey*",
+          "location": 1071
+        },
+        {
+          "text": "and the weiner investigation *comey*",
+          "location": 1084
+        },
+        {
+          "text": "*comey* *comey* did not recall being briefed",
+          "location": 1102
+        }
+      ]
+    },
+    {
+      "id": "Gd0BSKLLqsc",
+      "segments": [
+        {
+          "text": "out for yourself but it's of *comey*",
+          "location": 403
+        },
+        {
+          "text": "and he's it's james *comey* and he's with",
+          "location": 405
+        },
+        {
+          "text": "sense but if *comey* is a criminal then he",
+          "location": 426
+        },
+        {
+          "text": "was more of like oh you know *comey* has",
+          "location": 439
+        }
+      ]
+    },
+    {
+      "id": "gnDVjDTXE0k",
+      "segments": [
+        {
+          "text": "*comey* they're right *comey* decides not to",
+          "location": 1188
+        },
+        {
+          "text": "didn't show up like *comey* like we just",
+          "location": 1447
+        },
+        {
+          "text": "went over how *comey* is stands up the",
+          "location": 1450
+        },
+        {
+          "text": "between *comey* and brennan and brennan",
+          "location": 1495
+        },
+        {
+          "text": "clapper so and supposedly and and *comey*",
+          "location": 1686
+        },
+        {
+          "text": "*comey* is scared he's a you know for a",
+          "location": 1694
+        },
+        {
+          "text": "stroke was sent by *comey* to russia this",
+          "location": 1721
+        },
+        {
+          "text": "it all down you have this james *comey*",
+          "location": 1736
+        },
+        {
+          "text": "election and that he jim *comey* and peter",
+          "location": 1790
+        },
+        {
+          "text": "clapper brennan and *comey*",
+          "location": 1800
+        },
+        {
+          "text": "comes out about peter straub *comey* and",
+          "location": 1896
+        },
+        {
+          "text": "stroke being sent over by james *comey* on",
+          "location": 2439
+        }
+      ]
+    },
+    {
+      "id": "GNedUPBOSqs",
+      "segments": [
+        {
+          "text": "between obama *comey* and yates after",
+          "location": 1545
+        }
+      ]
+    },
+    {
+      "id": "gya_mSZwAl0",
+      "segments": [
+        {
+          "text": "james *comey* the former director of the",
+          "location": 1118
+        }
+      ]
+    },
+    {
+      "id": "GYRgczPNxJI",
+      "segments": [
+        {
+          "text": "*comey* corn thing right and what they say",
+          "location": 589
+        },
+        {
+          "text": "are markers since the two *comey* corn",
+          "location": 632
+        },
+        {
+          "text": "eighteen *comey* shaking in his boots",
+          "location": 668
+        },
+        {
+          "text": "obama administration and *comey* they were",
+          "location": 1616
+        }
+      ]
+    },
+    {
+      "id": "h7CqHL04D-Y",
+      "segments": [
+        {
+          "text": "removal of director *comey* was in any way",
+          "location": 778
+        },
+        {
+          "text": "director *comey* were discussed for all",
+          "location": 804
+        },
+        {
+          "text": "*comey* got fired which in my opinion was",
+          "location": 876
+        },
+        {
+          "text": "actually gave it directly to *comey*",
+          "location": 1455
+        },
+        {
+          "text": "director james *comey* on december 9th",
+          "location": 1473
+        }
+      ]
+    },
+    {
+      "id": "HkJj6tZtzKg",
+      "segments": [
+        {
+          "text": "xbox chat logs it says james *comey*",
+          "location": 2361
+        },
+        {
+          "text": "interesting *comey* had sensitive fbi",
+          "location": 2387
+        },
+        {
+          "text": "that *comey* had sensitive fbi emails on",
+          "location": 2399
+        },
+        {
+          "text": "*comey* private gmail account were so",
+          "location": 2426
+        },
+        {
+          "text": "jim james *comey* and comb he's like yes",
+          "location": 2556
+        },
+        {
+          "text": "about james *comey* and his gmail's he's",
+          "location": 2598
+        }
+      ]
+    },
+    {
+      "id": "HTETmsKXnkE",
+      "segments": [
+        {
+          "text": "twitter we discussed james *comey* and",
+          "location": 5
+        },
+        {
+          "text": "lynch and james *comey* being called by",
+          "location": 90
+        },
+        {
+          "text": "crooked hillary *comey*",
+          "location": 175
+        },
+        {
+          "text": "subpoenaing james *comey* and loretta",
+          "location": 569
+        },
+        {
+          "text": "james *comey* and former attorney general",
+          "location": 585
+        },
+        {
+          "text": "to have *comey* testify on november 29th",
+          "location": 604
+        },
+        {
+          "text": "committees are eager to question *comey*",
+          "location": 610
+        },
+        {
+          "text": "state they also wish to ask ask *comey*",
+          "location": 620
+        },
+        {
+          "text": "of his plans to subpoena *comey* and lynch",
+          "location": 635
+        },
+        {
+          "text": "*comey* in on december 5th so set your",
+          "location": 651
+        },
+        {
+          "text": "got that wrong *comey* on the 29th and",
+          "location": 654
+        },
+        {
+          "text": "actually happened with *comey* in the hrc",
+          "location": 918
+        }
+      ]
+    },
+    {
+      "id": "hxMqBVB9oIU",
+      "segments": [
+        {
+          "text": "clapper and *comey* and all these guys",
+          "location": 1894
+        }
+      ]
+    },
+    {
+      "id": "i7CsAm6pTpE",
+      "segments": [
+        {
+          "text": "that where james *comey* actually deletes",
+          "location": 244
+        },
+        {
+          "text": "just and then james *comey* of course",
+          "location": 265
+        },
+        {
+          "text": "after you have james *comey* launching the",
+          "location": 873
+        },
+        {
+          "text": "the *comey* report q says moves and",
+          "location": 1442
+        },
+        {
+          "text": "is talking about *comey* and it's talking",
+          "location": 1452
+        }
+      ]
+    },
+    {
+      "id": "i7hxZGH9fCY",
+      "segments": [
+        {
+          "text": "mccabe deputy director fired james *comey*",
+          "location": 90
+        }
+      ]
+    },
+    {
+      "id": "If2rCEuFeNY",
+      "segments": [
+        {
+          "text": "instance you have james *comey* who's",
+          "location": 53
+        },
+        {
+          "text": "the house james *comey* and loretta lynch",
+          "location": 869
+        },
+        {
+          "text": "*comey* loretta lynch are mostly the best",
+          "location": 958
+        },
+        {
+          "text": "right now james *comey* loretta lynch are",
+          "location": 979
+        },
+        {
+          "text": "with james *comey* obviously you have his",
+          "location": 1069
+        },
+        {
+          "text": "james *comey*",
+          "location": 1602
+        },
+        {
+          "text": "peter struck james *comey* andrew mccabe",
+          "location": 1817
+        }
+      ]
+    },
+    {
+      "id": "ijaW9oSwCw8",
+      "segments": [
+        {
+          "text": "james *comey* andrew mccabe i'm not sure",
+          "location": 1222
+        },
+        {
+          "text": "justice department to prosecute *comey*",
+          "location": 1486
+        },
+        {
+          "text": "and former fbi director james *comey* last",
+          "location": 1499
+        },
+        {
+          "text": "prosecuting clinton and *comey* and has",
+          "location": 1522
+        },
+        {
+          "text": "accused both clinton and *comey* of",
+          "location": 1528
+        },
+        {
+          "text": "clinton and *comey* just to speak of those",
+          "location": 1562
+        }
+      ]
+    },
+    {
+      "id": "Ima-kdh9Zo0",
+      "segments": [
+        {
+          "text": "*comey* dismissed letter number to andrew",
+          "location": 676
+        },
+        {
+          "text": "april 15th *comey* throws attorney general",
+          "location": 719
+        }
+      ]
+    },
+    {
+      "id": "iQHR1-6RKGY",
+      "segments": [
+        {
+          "text": "that jim clapper that *comey* and",
+          "location": 40
+        },
+        {
+          "text": "jim clapper and james *comey* seem",
+          "location": 191
+        },
+        {
+          "text": "trump that james *comey* used he's even",
+          "location": 745
+        },
+        {
+          "text": "tactics that says here as *comey* did in",
+          "location": 784
+        },
+        {
+          "text": "*comey* and then we look at what happened",
+          "location": 1386
+        }
+      ]
+    },
+    {
+      "id": "ivzGKZFp8M8",
+      "segments": [
+        {
+          "text": "people like *comey* and mccabe and others",
+          "location": 150
+        },
+        {
+          "text": "sarcastic remark right after james *comey*",
+          "location": 1281
+        },
+        {
+          "text": "days after fbi director james *comey* was",
+          "location": 1394
+        },
+        {
+          "text": "they're so heartbroken that james *comey*",
+          "location": 1462
+        }
+      ]
+    },
+    {
+      "id": "j4__e_WelW0",
+      "segments": [
+        {
+          "text": "*comey* or as he's known in the report",
+          "location": 97
+        },
+        {
+          "text": "remember the day before james *comey*",
+          "location": 956
+        },
+        {
+          "text": "that *comey* was really you know doing",
+          "location": 1171
+        },
+        {
+          "text": "right and it's very possible to *comey*",
+          "location": 1194
+        },
+        {
+          "text": "companies so and and here's james *comey*",
+          "location": 1218
+        },
+        {
+          "text": "you think maybe they gave *comey* the corn",
+          "location": 1224
+        },
+        {
+          "text": "games *comey* on the same day so he writes",
+          "location": 1298
+        }
+      ]
+    },
+    {
+      "id": "J6zapuerlJk",
+      "segments": [
+        {
+          "text": "struck and lisa page and james *comey* and",
+          "location": 109
+        },
+        {
+          "text": "and his boss *comey* was just the same",
+          "location": 358
+        }
+      ]
+    },
+    {
+      "id": "J7b6SPEd0FA",
+      "segments": [
+        {
+          "text": "clapper at the dni and *comey* and the fbi",
+          "location": 571
+        },
+        {
+          "text": "were people like james *comey* and others",
+          "location": 689
+        },
+        {
+          "text": "fbi director *comey* went before congress",
+          "location": 1498
+        },
+        {
+          "text": "director *comey* went and launched the",
+          "location": 1516
+        }
+      ]
+    },
+    {
+      "id": "jCLp7eJwIrE",
+      "segments": [
+        {
+          "text": "not to mention james *comey* doing his",
+          "location": 1423
+        }
+      ]
+    },
+    {
+      "id": "JEKeMGgqEFA",
+      "segments": [
+        {
+          "text": "saying *comey* even says the lying leaker",
+          "location": 713
+        },
+        {
+          "text": "*comey* even says that trumps not under",
+          "location": 717
+        }
+      ]
+    },
+    {
+      "id": "Jqmk-9gfMoc",
+      "segments": [
+        {
+          "text": "james *comey* and his deputy andrew mccabe",
+          "location": 278
+        },
+        {
+          "text": "people like *comey* allowed this to happen",
+          "location": 448
+        }
+      ]
+    },
+    {
+      "id": "JXObjjcM37E",
+      "segments": [
+        {
+          "text": "effect here where we have *comey*",
+          "location": 477
+        },
+        {
+          "text": "there james *comey* of course coming out",
+          "location": 696
+        }
+      ]
+    },
+    {
+      "id": "K68zHw0_xp8",
+      "segments": [
+        {
+          "text": "*comey*",
+          "location": 465
+        }
+      ]
+    },
+    {
+      "id": "K6X_A5nDkn8",
+      "segments": [
+        {
+          "text": "clapper james *comey* bill clinton and the",
+          "location": 1368
+        }
+      ]
+    },
+    {
+      "id": "k7HZG6YnFww",
+      "segments": [
+        {
+          "text": "abuse was the day that james *comey*",
+          "location": 1445
+        }
+      ]
+    },
+    {
+      "id": "kMvmpeySbAk",
+      "segments": [
+        {
+          "text": "we have mueller rosenstein and *comey* all",
+          "location": 394
+        }
+      ]
+    },
+    {
+      "id": "kmwVSMKdhaU",
+      "segments": [
+        {
+          "text": "per the law gowdy comments on *comey*",
+          "location": 429
+        }
+      ]
+    },
+    {
+      "id": "Ko4YrWusYB0",
+      "segments": [
+        {
+          "text": "along with leaked and james *comey* of the",
+          "location": 479
+        },
+        {
+          "text": "*comey* has talked about how the mid year",
+          "location": 829
+        }
+      ]
+    },
+    {
+      "id": "KQYQ6-hMOjY",
+      "segments": [
+        {
+          "text": "brennan james clapper james *comey* they",
+          "location": 350
+        },
+        {
+          "text": "because him and *comey* were and brennan",
+          "location": 401
+        },
+        {
+          "text": "agents and *comey* if you verify this",
+          "location": 643
+        }
+      ]
+    },
+    {
+      "id": "L1AVZd4DsQc",
+      "segments": [
+        {
+          "text": "words of *comey* struck and page we now",
+          "location": 877
+        }
+      ]
+    },
+    {
+      "id": "l6iCUxTXOBw",
+      "segments": [
+        {
+          "text": "renewals then fbi director james *comey*",
+          "location": 231
+        },
+        {
+          "text": "january 2017 director *comey* briefed",
+          "location": 344
+        },
+        {
+          "text": "operation *comey* mccabe peter struck lisa",
+          "location": 1105
+        },
+        {
+          "text": "*comey* lois lerner rod rosenstein and",
+          "location": 1143
+        },
+        {
+          "text": "between hillary clinton james *comey* lois",
+          "location": 1164
+        },
+        {
+          "text": "james *comey* now that's interesting isn't",
+          "location": 1210
+        },
+        {
+          "text": "fast forward to 2009 james *comey* leaves",
+          "location": 1283
+        }
+      ]
+    },
+    {
+      "id": "L6uSGv164Xw",
+      "segments": [
+        {
+          "text": "i james *comey* gmail they all had them",
+          "location": 774
+        },
+        {
+          "text": "*comey* gmail they all had them reread",
+          "location": 906
+        },
+        {
+          "text": "we're talking about james *comey* we're",
+          "location": 953
+        },
+        {
+          "text": "hillary clinton james *comey* jim clapper",
+          "location": 2243
+        }
+      ]
+    },
+    {
+      "id": "l8TEy3DabHA",
+      "segments": [
+        {
+          "text": "*comey* oh let's move so i guess you know",
+          "location": 67
+        },
+        {
+          "text": "*comey* he goes point after point about",
+          "location": 77
+        }
+      ]
+    },
+    {
+      "id": "LDbkkYUWvpA",
+      "segments": [
+        {
+          "text": "director james *comey* since fired then",
+          "location": 1532
+        },
+        {
+          "text": "*comey* fbi intelligence analyst jonathan",
+          "location": 1551
+        }
+      ]
+    },
+    {
+      "id": "LIwSMMqCTfU",
+      "segments": [
+        {
+          "text": "recently in his post talking about *comey*",
+          "location": 915
+        },
+        {
+          "text": "he talks about *comey*",
+          "location": 1126
+        },
+        {
+          "text": "top people in the fbi headed by *comey*",
+          "location": 1781
+        }
+      ]
+    },
+    {
+      "id": "LniEKTpx8Qo",
+      "segments": [
+        {
+          "text": "the following morning fbi director *comey*",
+          "location": 273
+        },
+        {
+          "text": "director james *comey* is what hundred",
+          "location": 997
+        }
+      ]
+    },
+    {
+      "id": "lxUADz6sO24",
+      "segments": [
+        {
+          "text": "*comey* and others so there you go",
+          "location": 1518
+        }
+      ]
+    },
+    {
+      "id": "m2iCTKjwGZY",
+      "segments": [
+        {
+          "text": "away you have peter stroke james *comey*",
+          "location": 1154
+        }
+      ]
+    },
+    {
+      "id": "M2SBwEaGWjA",
+      "segments": [
+        {
+          "text": "and james *comey* only in washington dc",
+          "location": 8
+        },
+        {
+          "text": "fact that james *comey* was not going to",
+          "location": 48
+        },
+        {
+          "text": "*comey* is gonna get off clean because",
+          "location": 62
+        },
+        {
+          "text": "james *comey* not facing charges for his",
+          "location": 110
+        },
+        {
+          "text": "prosecute *comey* for leaking memos after",
+          "location": 136
+        },
+        {
+          "text": "*comey* and his actions regarding leaking",
+          "location": 181
+        },
+        {
+          "text": "after *comey* calling him thoroughly",
+          "location": 562
+        },
+        {
+          "text": "excoriated then james *comey* in the",
+          "location": 573
+        },
+        {
+          "text": "we all know james *comey* is a liar and a",
+          "location": 587
+        },
+        {
+          "text": "dossier was fake *comey* manufactured this",
+          "location": 598
+        },
+        {
+          "text": "james *comey* which is you know talking",
+          "location": 916
+        },
+        {
+          "text": "calling out *comey* it's all just a big",
+          "location": 923
+        },
+        {
+          "text": "on this whole *comey* thing to say that",
+          "location": 1098
+        },
+        {
+          "text": "my best john brennan voice jim *comey* is",
+          "location": 1107
+        }
+      ]
+    },
+    {
+      "id": "MbhDYscAAN8",
+      "segments": [
+        {
+          "text": "james *comey* andrew mccabe peter struck",
+          "location": 825
+        },
+        {
+          "text": "james *comey* loretta lynch who's saying",
+          "location": 909
+        }
+      ]
+    },
+    {
+      "id": "mBU8ggNgS8s",
+      "segments": [
+        {
+          "text": "says *comey* will that come before after",
+          "location": 767
+        },
+        {
+          "text": "just reading this also *comey*",
+          "location": 792
+        },
+        {
+          "text": "that *comey* is going to be indicted",
+          "location": 809
+        },
+        {
+          "text": "be bringing charges against *comey*",
+          "location": 829
+        },
+        {
+          "text": "investigation where james *comey* is going",
+          "location": 835
+        }
+      ]
+    },
+    {
+      "id": "mDGN4mIrYTs",
+      "segments": [
+        {
+          "text": "*comey* history will repeat itself potus",
+          "location": 1935
+        }
+      ]
+    },
+    {
+      "id": "mdj-e3WW1Bo",
+      "segments": [
+        {
+          "text": "from the fbi we got rid of *comey* and the",
+          "location": 609
+        },
+        {
+          "text": "way that james *comey* was removed somehow",
+          "location": 824
+        },
+        {
+          "text": "that it was *comey* and it was all his",
+          "location": 1690
+        }
+      ]
+    },
+    {
+      "id": "mJWjRqEjk1U",
+      "segments": [
+        {
+          "text": "while *comey* was the director and obama",
+          "location": 1313
+        }
+      ]
+    },
+    {
+      "id": "MKMicgqhopw",
+      "segments": [
+        {
+          "text": "rice sent herself indicate that *comey*",
+          "location": 1
+        },
+        {
+          "text": "fact that james *comey* is going to be the",
+          "location": 465
+        }
+      ]
+    },
+    {
+      "id": "mkzUXQCz7g0",
+      "segments": [
+        {
+          "text": "original in the exoneration of *comey* and",
+          "location": 353
+        },
+        {
+          "text": "james *comey* who after all of this big",
+          "location": 693
+        },
+        {
+          "text": "judge of *comey*",
+          "location": 756
+        }
+      ]
+    },
+    {
+      "id": "Mm8has8rJ6Q",
+      "segments": [
+        {
+          "text": "*comey* he's not a flagrantly corrupt fbi",
+          "location": 1112
+        },
+        {
+          "text": "list about james *comey* but christopher",
+          "location": 1129
+        }
+      ]
+    },
+    {
+      "id": "MMiesWjJy3k",
+      "segments": [
+        {
+          "text": "for jim *comey* who's chief of staff jim",
+          "location": 296
+        },
+        {
+          "text": "whom abidine james clapper jim *comey*",
+          "location": 1609
+        }
+      ]
+    },
+    {
+      "id": "mpo_IhTE430",
+      "segments": [
+        {
+          "text": "the public prior to proceeding *comey* q",
+          "location": 901
+        },
+        {
+          "text": "because it looks like *comey*",
+          "location": 1098
+        }
+      ]
+    },
+    {
+      "id": "msr6oM0RLew",
+      "segments": [
+        {
+          "text": "hard on james *comey* and it could not",
+          "location": 1036
+        },
+        {
+          "text": "unbelievably james *comey* states that",
+          "location": 1074
+        },
+        {
+          "text": "my heart of hearts that james *comey*",
+          "location": 1150
+        },
+        {
+          "text": "but going back to *comey* he says i never",
+          "location": 1292
+        },
+        {
+          "text": "asked *comey* for personal loyalty i",
+          "location": 1294
+        },
+        {
+          "text": "now he's given james *comey* a nickname",
+          "location": 1483
+        },
+        {
+          "text": "slippery james *comey* a man who always",
+          "location": 1486
+        },
+        {
+          "text": "be a three-way tie between *comey* mueller",
+          "location": 1506
+        }
+      ]
+    },
+    {
+      "id": "MU2Rcx_7eK0",
+      "segments": [
+        {
+          "text": "loretta lynch and james *comey* all inside",
+          "location": 554
+        },
+        {
+          "text": "if james *comey* is found to be to have",
+          "location": 646
+        }
+      ]
+    },
+    {
+      "id": "MUy19aL4UNs",
+      "segments": [
+        {
+          "text": "to go after people like *comey* and",
+          "location": 400
+        }
+      ]
+    },
+    {
+      "id": "n2RdX0ydluc",
+      "segments": [
+        {
+          "text": "was *comey* sally james *comey* sally yates",
+          "location": 566
+        },
+        {
+          "text": "*comey* sally eighths doj again then it",
+          "location": 587
+        },
+        {
+          "text": "*comey* dana buente and the doj then you",
+          "location": 597
+        }
+      ]
+    },
+    {
+      "id": "nb48sfxaBzA",
+      "segments": [
+        {
+          "text": "under james *comey* in the fbi the steele",
+          "location": 1310
+        }
+      ]
+    },
+    {
+      "id": "Nb9AndSj88I",
+      "segments": [
+        {
+          "text": "*comey* and covering for the obama",
+          "location": 486
+        }
+      ]
+    },
+    {
+      "id": "NcQDwCqQeO0",
+      "segments": [
+        {
+          "text": "self admittance of james *comey* is that",
+          "location": 332
+        },
+        {
+          "text": "that because james *comey* told us that",
+          "location": 348
+        }
+      ]
+    },
+    {
+      "id": "nDIenS-L7Qc",
+      "segments": [
+        {
+          "text": "*comey* and rod rosenstein coordinated to",
+          "location": 11
+        },
+        {
+          "text": "rosenstein and james *comey* and what q's",
+          "location": 727
+        },
+        {
+          "text": "doors rod rosenstein and james *comey*",
+          "location": 737
+        },
+        {
+          "text": "rosenstein and james *comey* coordinated",
+          "location": 751
+        },
+        {
+          "text": "assure you mr. *comey* has been very",
+          "location": 836
+        },
+        {
+          "text": "james *comey* especially james *comey* and",
+          "location": 856
+        },
+        {
+          "text": "*comey* may be indicted and that would be",
+          "location": 883
+        },
+        {
+          "text": "in james *comey* for what for colluding",
+          "location": 966
+        }
+      ]
+    },
+    {
+      "id": "NQNDDUtnzYk",
+      "segments": [
+        {
+          "text": "have *comey* leaking memos to the media",
+          "location": 611
+        }
+      ]
+    },
+    {
+      "id": "nspGMcDjCKM",
+      "segments": [
+        {
+          "text": "to look at it you know you and *comey* and",
+          "location": 427
+        }
+      ]
+    },
+    {
+      "id": "NwWi8UclL4k",
+      "segments": [
+        {
+          "text": "it's just mccabe *comey* brennan hayden",
+          "location": 1236
+        }
+      ]
+    },
+    {
+      "id": "O_aacfmu4kk",
+      "segments": [
+        {
+          "text": "robert or james *comey* and the number two",
+          "location": 62
+        },
+        {
+          "text": "now *comey* actually writes to him",
+          "location": 128
+        },
+        {
+          "text": "i don't think mr. *comey* is an honorable",
+          "location": 173
+        }
+      ]
+    },
+    {
+      "id": "o6KJkaLISn8",
+      "segments": [
+        {
+          "text": "trust james *comey* and he thinks he's a",
+          "location": 1409
+        }
+      ]
+    },
+    {
+      "id": "o8Akan5GihI",
+      "segments": [
+        {
+          "text": "clinton into *comey* into the the",
+          "location": 579
+        }
+      ]
+    },
+    {
+      "id": "ofmaPjLqKpY",
+      "segments": [
+        {
+          "text": "especially like james *comey* and andrew",
+          "location": 284
+        },
+        {
+          "text": "*comey* and then the the decision not to",
+          "location": 1183
+        }
+      ]
+    },
+    {
+      "id": "OJj7uOy38hI",
+      "segments": [
+        {
+          "text": "the beginning of the *comey* leaking of",
+          "location": 633
+        }
+      ]
+    },
+    {
+      "id": "oJslPIbYry4",
+      "segments": [
+        {
+          "text": "*comey* be locked up i would never want to",
+          "location": 291
+        },
+        {
+          "text": "i think *comey* was the ringleader of this",
+          "location": 371
+        },
+        {
+          "text": "interview he called basically *comey* the",
+          "location": 490
+        },
+        {
+          "text": "the top of the fbi he accused *comey*",
+          "location": 496
+        },
+        {
+          "text": "james *comey* the former director of deaf",
+          "location": 499
+        },
+        {
+          "text": "hillary clinton james *comey* james",
+          "location": 1447
+        },
+        {
+          "text": "right to fire james *comey* a quote from",
+          "location": 1715
+        },
+        {
+          "text": "head of the mob what about *comey* and",
+          "location": 1730
+        },
+        {
+          "text": "things that were done by james *comey* and",
+          "location": 1752
+        }
+      ]
+    },
+    {
+      "id": "ojSvumv3RDc",
+      "segments": [
+        {
+          "text": "into the james *comey* tweet analyzer",
+          "location": 231
+        },
+        {
+          "text": "questions why is james *comey* putting",
+          "location": 266
+        },
+        {
+          "text": "muller be ready james *comey* be ready",
+          "location": 343
+        },
+        {
+          "text": "trying to sell to us and then *comey*",
+          "location": 909
+        }
+      ]
+    },
+    {
+      "id": "OKRqb03TEUs",
+      "segments": [
+        {
+          "text": "to london by james *comey* on behalf of",
+          "location": 691
+        }
+      ]
+    },
+    {
+      "id": "Olfa4vMMDEk",
+      "segments": [
+        {
+          "text": "former fbi director james *comey* set to",
+          "location": 1
+        },
+        {
+          "text": "riots in france de *comey* testimony do",
+          "location": 1588
+        },
+        {
+          "text": "directly talking about james *comey* was",
+          "location": 1682
+        },
+        {
+          "text": "james *comey* and france and then it says",
+          "location": 1728
+        },
+        {
+          "text": "gonna drown out this james *comey* story",
+          "location": 1736
+        },
+        {
+          "text": "going to be talking about james *comey* i",
+          "location": 1764
+        }
+      ]
+    },
+    {
+      "id": "ornHtBUFohc",
+      "segments": [
+        {
+          "text": "*comey* and susan rice and how they were",
+          "location": 483
+        },
+        {
+          "text": "obviously picture of james *comey* here in",
+          "location": 1081
+        },
+        {
+          "text": "picture of andrew mccabe and james *comey*",
+          "location": 1127
+        }
+      ]
+    },
+    {
+      "id": "oStMB-W5ovI",
+      "segments": [
+        {
+          "text": "*comey* andrew mccabe peter stroke",
+          "location": 155
+        },
+        {
+          "text": "with our redaction of james *comey* andrew",
+          "location": 592
+        }
+      ]
+    },
+    {
+      "id": "Ou8IoZrbRFY",
+      "segments": [
+        {
+          "text": "investigation james *comey* when we",
+          "location": 11
+        }
+      ]
+    },
+    {
+      "id": "oXoEIlNO77U",
+      "segments": [
+        {
+          "text": "there and and *comey* getting on tv saying",
+          "location": 632
+        },
+        {
+          "text": "to the *comey* russia hoax everything that",
+          "location": 917
+        },
+        {
+          "text": "*comey* you know getting up on fox i was",
+          "location": 1359
+        }
+      ]
+    },
+    {
+      "id": "PbcQo398070",
+      "segments": [
+        {
+          "text": "includes obviously james *comey* signed",
+          "location": 920
+        },
+        {
+          "text": "director of the fbi james *comey* was",
+          "location": 1520
+        }
+      ]
+    },
+    {
+      "id": "pDkUn-isAGk",
+      "segments": [
+        {
+          "text": "now that says loretta lynch james *comey*",
+          "location": 207
+        },
+        {
+          "text": "james *comey* loretta lynch hussein fisa",
+          "location": 253
+        }
+      ]
+    },
+    {
+      "id": "pdW4LVkaiYA",
+      "segments": [
+        {
+          "text": "mccabe james *comey* james baker jim orr",
+          "location": 948
+        }
+      ]
+    },
+    {
+      "id": "Pk6jznEcP4U",
+      "segments": [
+        {
+          "text": "information about *comey* information",
+          "location": 36
+        },
+        {
+          "text": "dogs *comey* is shaking in his boots this",
+          "location": 594
+        },
+        {
+          "text": "test post testimony *comey* it's what they",
+          "location": 613
+        },
+        {
+          "text": "*comey* time stamp regarding attorney",
+          "location": 618
+        },
+        {
+          "text": "prior to post testimony *comey* with the y",
+          "location": 636
+        },
+        {
+          "text": "*comey* does not want to go and face the",
+          "location": 655
+        },
+        {
+          "text": "james *comey* goes and testifies in the",
+          "location": 688
+        },
+        {
+          "text": "red lynch more importantly james *comey*",
+          "location": 691
+        },
+        {
+          "text": "that happens i'm sure *comey* is going to",
+          "location": 701
+        },
+        {
+          "text": "basically it's this james *comey* tweet",
+          "location": 1991
+        }
+      ]
+    },
+    {
+      "id": "PMt56AI7XrI",
+      "segments": [
+        {
+          "text": "there with *comey* warner brennan and",
+          "location": 93
+        },
+        {
+          "text": "*comey* firing *comey* was widely loved by",
+          "location": 439
+        }
+      ]
+    },
+    {
+      "id": "PN8oDcxVDKU",
+      "segments": [
+        {
+          "text": "*comey* and others loretta lynch who made",
+          "location": 277
+        },
+        {
+          "text": "james *comey* signing off sally yates",
+          "location": 1398
+        },
+        {
+          "text": "love the firing of james *comey* - potus",
+          "location": 1572
+        },
+        {
+          "text": "to basically james *comey* his firing",
+          "location": 1668
+        },
+        {
+          "text": "james *comey* provide the necessary",
+          "location": 1693
+        }
+      ]
+    },
+    {
+      "id": "pOgq_axpn1k",
+      "segments": [
+        {
+          "text": "*comey* you guys are the problem you guys",
+          "location": 759
+        },
+        {
+          "text": "tweet is similar to the one that *comey*",
+          "location": 1433
+        },
+        {
+          "text": "*comey* through twitter allegedly",
+          "location": 1438
+        }
+      ]
+    },
+    {
+      "id": "pRriJNgzrcs",
+      "segments": [
+        {
+          "text": "referring to james *comey* andrew mccabe",
+          "location": 629
+        },
+        {
+          "text": "*comey* who must approve the firing",
+          "location": 880
+        },
+        {
+          "text": "*comey* excuse me christopher ray sorry",
+          "location": 885
+        }
+      ]
+    },
+    {
+      "id": "q0d0OkpV5gs",
+      "segments": [
+        {
+          "text": "lured the fbi director james *comey*",
+          "location": 610
+        },
+        {
+          "text": "this means now *comey* knew 47 computer",
+          "location": 822
+        },
+        {
+          "text": "about in this next excerpt about *comey*",
+          "location": 863
+        },
+        {
+          "text": "over fbi director jim *comey* took",
+          "location": 961
+        },
+        {
+          "text": "we previously reported brandon and *comey*",
+          "location": 1039
+        },
+        {
+          "text": "election *comey* we simultaneously",
+          "location": 1060
+        }
+      ]
+    },
+    {
+      "id": "Q23RnpfTgiE",
+      "segments": [
+        {
+          "text": "*comey*",
+          "location": 398
+        },
+        {
+          "text": "know that *comey* is using this twitter",
+          "location": 473
+        }
+      ]
+    },
+    {
+      "id": "q2tI5JrJKzE",
+      "segments": [
+        {
+          "text": "james *comey* for leaking but that doesn't",
+          "location": 958
+        }
+      ]
+    },
+    {
+      "id": "q40i492ZGUU",
+      "segments": [
+        {
+          "text": "when james *comey* came",
+          "location": 339
+        },
+        {
+          "text": "james *comey* running the fbi and this is",
+          "location": 353
+        },
+        {
+          "text": "when james *comey* came out right before",
+          "location": 356
+        }
+      ]
+    },
+    {
+      "id": "Q8C-i61AH9Q",
+      "segments": [
+        {
+          "text": "director *comey* went before congress and",
+          "location": 1077
+        }
+      ]
+    },
+    {
+      "id": "q8N3XgSDddU",
+      "segments": [
+        {
+          "text": "disappeared that when *comey* had the",
+          "location": 953
+        }
+      ]
+    },
+    {
+      "id": "qaB9Xgr-K-U",
+      "segments": [
+        {
+          "text": "do know though we know *comey* is a leaker",
+          "location": 1212
+        },
+        {
+          "text": "did james *comey* and then john brennan's",
+          "location": 1228
+        },
+        {
+          "text": "as taking *comey* at his word who is",
+          "location": 1402
+        },
+        {
+          "text": "now here's james *comey* latest tweet i",
+          "location": 1441
+        },
+        {
+          "text": "that james *comey* so you know these",
+          "location": 1565
+        }
+      ]
+    },
+    {
+      "id": "qaeEK1ydKHQ",
+      "segments": [
+        {
+          "text": "and i think it's perfect james *comey*",
+          "location": 1274
+        },
+        {
+          "text": "is that *comey* lied to generate",
+          "location": 1294
+        }
+      ]
+    },
+    {
+      "id": "qCVOU264zOY",
+      "segments": [
+        {
+          "text": "the mid-year investigation james *comey*",
+          "location": 401
+        }
+      ]
+    },
+    {
+      "id": "QFxy7aHGQAk",
+      "segments": [
+        {
+          "text": "you know james *comey* in the woods with",
+          "location": 817
+        },
+        {
+          "text": "under james *comey* who then destroyed the",
+          "location": 880
+        }
+      ]
+    },
+    {
+      "id": "QgdmFUaMaTg",
+      "segments": [
+        {
+          "text": "we're going up against *comey* clapper",
+          "location": 335
+        },
+        {
+          "text": "it's with *comey* standing in the middle",
+          "location": 820
+        },
+        {
+          "text": "about james *comey* and we go all the way",
+          "location": 892
+        },
+        {
+          "text": "back with james *comey* to january of 2018",
+          "location": 894
+        },
+        {
+          "text": "james *comey* and how he signed off and",
+          "location": 903
+        },
+        {
+          "text": "the fact that *comey* makes these weird",
+          "location": 913
+        },
+        {
+          "text": "*comey* and what q did was q deciphered",
+          "location": 935
+        },
+        {
+          "text": "including james *comey* himself who",
+          "location": 1046
+        },
+        {
+          "text": "*comey* i believe i'm not sure exactly",
+          "location": 1067
+        },
+        {
+          "text": "james *comey* coming soon and or we're",
+          "location": 1083
+        }
+      ]
+    },
+    {
+      "id": "QHMQrxZEG0A",
+      "segments": [
+        {
+          "text": "*comey* destroy evidence which would show",
+          "location": 26
+        },
+        {
+          "text": "that *comey* will be the first to go",
+          "location": 151
+        },
+        {
+          "text": "and *comey* were involved with all of this",
+          "location": 229
+        },
+        {
+          "text": "*comey* was the director of the fbi this",
+          "location": 324
+        },
+        {
+          "text": "gonna see brought against james *comey*",
+          "location": 430
+        },
+        {
+          "text": "2017 fbi director jim *comey* announced",
+          "location": 563
+        },
+        {
+          "text": "director jim *comey* lied to the house",
+          "location": 587
+        },
+        {
+          "text": "*comey* was well aware that president",
+          "location": 593
+        },
+        {
+          "text": "*comey* back in 2015",
+          "location": 974
+        },
+        {
+          "text": "you have *comey* launching the russia",
+          "location": 1090
+        },
+        {
+          "text": "james *comey* being uh blasted on by you",
+          "location": 1382
+        },
+        {
+          "text": "director james *comey* because he's so you",
+          "location": 1395
+        },
+        {
+          "text": "about *comey* of course so it's just a",
+          "location": 1414
+        }
+      ]
+    },
+    {
+      "id": "Qi1p1ciC6ig",
+      "segments": [
+        {
+          "text": "investigation james *comey* eventually",
+          "location": 1399
+        },
+        {
+          "text": "steel dossier james *comey* the drude then",
+          "location": 1410
+        },
+        {
+          "text": "*comey* decides he will leak a memo a big",
+          "location": 1470
+        }
+      ]
+    },
+    {
+      "id": "QlB-DTGsxA4",
+      "segments": [
+        {
+          "text": "*comey* did he make six million dollars in",
+          "location": 116
+        },
+        {
+          "text": "something to remember about james *comey*",
+          "location": 1304
+        },
+        {
+          "text": "you know saying how great james *comey* is",
+          "location": 1312
+        },
+        {
+          "text": "but never forget that james *comey*",
+          "location": 1314
+        },
+        {
+          "text": "former director of the fbi james *comey*",
+          "location": 1412
+        },
+        {
+          "text": "that *comey* is a heroic whistleblower",
+          "location": 1446
+        }
+      ]
+    },
+    {
+      "id": "qQCLQxxZ-JQ",
+      "segments": [
+        {
+          "text": "and *comey* and it says spy gabe and it",
+          "location": 856
+        },
+        {
+          "text": "sustained in terms of *comey* and",
+          "location": 1197
+        }
+      ]
+    },
+    {
+      "id": "qSIbJjKcNfg",
+      "segments": [
+        {
+          "text": "got *comey* and they're all communicating",
+          "location": 693
+        },
+        {
+          "text": "possibly a *comey* possibly who knows and",
+          "location": 1197
+        }
+      ]
+    },
+    {
+      "id": "r509r1pO2R0",
+      "segments": [
+        {
+          "text": "*comey* people like mccabe mccabe",
+          "location": 253
+        },
+        {
+          "text": "brennan *comey* obama white house and the",
+          "location": 544
+        },
+        {
+          "text": "james *comey* that would insinuate some",
+          "location": 1658
+        }
+      ]
+    },
+    {
+      "id": "rCig3kho2SM",
+      "segments": [
+        {
+          "text": "james *comey* it's kind of a funny piece",
+          "location": 515
+        },
+        {
+          "text": "meant to show what james *comey* really is",
+          "location": 520
+        },
+        {
+          "text": "inspector clouseau james *comey*",
+          "location": 529
+        },
+        {
+          "text": "pomposity and self regard *comey* cut a",
+          "location": 556
+        },
+        {
+          "text": "losers james *comey* politicized the fbi",
+          "location": 571
+        },
+        {
+          "text": "pseudonym *comey* is a poser he pretends",
+          "location": 612
+        },
+        {
+          "text": "*comey* clapper and brennan requires",
+          "location": 638
+        },
+        {
+          "text": "election cardinal *comey* should get the",
+          "location": 676
+        },
+        {
+          "text": "treachery revealed by *comey* clapper and",
+          "location": 702
+        }
+      ]
+    },
+    {
+      "id": "rWFJYGKR8Q0",
+      "segments": [
+        {
+          "text": "you have brennan working with *comey* with",
+          "location": 328
+        },
+        {
+          "text": "brennan through stroke through *comey* in",
+          "location": 1296
+        },
+        {
+          "text": "go-between between brennan and *comey* and",
+          "location": 2292
+        },
+        {
+          "text": "why *comey* who we all know is also over",
+          "location": 2297
+        }
+      ]
+    },
+    {
+      "id": "rwgpNw7-Z2o",
+      "segments": [
+        {
+          "text": "former fbi officials such as james *comey*",
+          "location": 168
+        },
+        {
+          "text": "action against people like *comey* clapper",
+          "location": 268
+        },
+        {
+          "text": "*comey* and so on and so forth",
+          "location": 393
+        },
+        {
+          "text": "about the memos the james *comey* memos",
+          "location": 1371
+        }
+      ]
+    },
+    {
+      "id": "RWwMA7NgHPw",
+      "segments": [
+        {
+          "text": "russia collusion hoax how *comey* mccabe",
+          "location": 538
+        },
+        {
+          "text": "they're not going to prosecute *comey* or",
+          "location": 552
+        }
+      ]
+    },
+    {
+      "id": "s7WQRQMZHpg",
+      "segments": [
+        {
+          "text": "james *comey* and the so-called leaders of",
+          "location": 1315
+        }
+      ]
+    },
+    {
+      "id": "sCpKR0JfQYg",
+      "segments": [
+        {
+          "text": "friends with you know *comey* and muller",
+          "location": 1145
+        }
+      ]
+    },
+    {
+      "id": "SCrkA-IU-MA",
+      "segments": [
+        {
+          "text": "*comey* down i'm talking on the bomb",
+          "location": 1536
+        }
+      ]
+    },
+    {
+      "id": "SIa7IJeIZTs",
+      "segments": [
+        {
+          "text": "james *comey* is is a was the right there",
+          "location": 110
+        },
+        {
+          "text": "*comey*",
+          "location": 198
+        },
+        {
+          "text": "is james *comey* or james clapper or a",
+          "location": 1205
+        }
+      ]
+    },
+    {
+      "id": "sj2d6MMMHe8",
+      "segments": [
+        {
+          "text": "researching your corruption james *comey*",
+          "location": 1525
+        },
+        {
+          "text": "that was run by a man like james *comey*",
+          "location": 1530
+        }
+      ]
+    },
+    {
+      "id": "SMJH9hOBoHs",
+      "segments": [
+        {
+          "text": "with muller and aligned with *comey* the",
+          "location": 1441
+        }
+      ]
+    },
+    {
+      "id": "sRO9eUbKbHk",
+      "segments": [
+        {
+          "text": "watched tonight with james *comey* was",
+          "location": 182
+        },
+        {
+          "text": "that *comey* had to say and what *comey*",
+          "location": 191
+        },
+        {
+          "text": "*comey* that he had to reopen the",
+          "location": 287
+        },
+        {
+          "text": "*comey* throws attorney general lynch",
+          "location": 554
+        },
+        {
+          "text": "and then james *comey* septimus dismisses",
+          "location": 964
+        }
+      ]
+    },
+    {
+      "id": "t1tZokS2EvY",
+      "segments": [
+        {
+          "text": "dirty cops like *comey* and like brennan",
+          "location": 545
+        },
+        {
+          "text": "*comey* are we gonna go after *comey* for",
+          "location": 890
+        },
+        {
+          "text": "after *comey* was fire the sexual actual",
+          "location": 905
+        },
+        {
+          "text": "complaining about how after james *comey*",
+          "location": 912
+        },
+        {
+          "text": "tell the point where james *comey* was",
+          "location": 929
+        }
+      ]
+    },
+    {
+      "id": "t6E_0ndD_uc",
+      "segments": [
+        {
+          "text": "former fbi director james *comey* or",
+          "location": 297
+        },
+        {
+          "text": "what former fbi director *comey* did when",
+          "location": 342
+        },
+        {
+          "text": "that the fbi led by *comey* knew had been",
+          "location": 359
+        }
+      ]
+    },
+    {
+      "id": "ta_w9snGNto",
+      "segments": [
+        {
+          "text": "reveal *comey* hrc email case",
+          "location": 825
+        },
+        {
+          "text": "what did *comey* do with hrc's emails well",
+          "location": 827
+        },
+        {
+          "text": "back on september 11 it said that *comey*",
+          "location": 1255
+        },
+        {
+          "text": "think *comey* memos q so we know now",
+          "location": 1372
+        },
+        {
+          "text": "come from the the memos of *comey* or this",
+          "location": 1399
+        },
+        {
+          "text": "between *comey* and mccabe i'm not sure",
+          "location": 1404
+        }
+      ]
+    },
+    {
+      "id": "Tcnt9LQ9ghs",
+      "segments": [
+        {
+          "text": "clapper and james *comey* as they continue",
+          "location": 43
+        }
+      ]
+    },
+    {
+      "id": "tHP9ltlAus8",
+      "segments": [
+        {
+          "text": "clapper james *comey* and john brennan and",
+          "location": 324
+        },
+        {
+          "text": "director james *comey* fbi general counsel",
+          "location": 427
+        },
+        {
+          "text": "under the purview of james *comey* and",
+          "location": 453
+        }
+      ]
+    },
+    {
+      "id": "TQscIaCFOkI",
+      "segments": [
+        {
+          "text": "through the clintons through *comey* and",
+          "location": 282
+        }
+      ]
+    },
+    {
+      "id": "tvC2gQ4AczY",
+      "segments": [
+        {
+          "text": "and and james *comey* and jim baker and",
+          "location": 473
+        }
+      ]
+    },
+    {
+      "id": "UDz1OZ08WdM",
+      "segments": [
+        {
+          "text": "that is that the james *comey* tweet was a",
+          "location": 7
+        }
+      ]
+    },
+    {
+      "id": "uM3wMO8soPk",
+      "segments": [
+        {
+          "text": "sometimes you look at *comey* then you",
+          "location": 185
+        }
+      ]
+    },
+    {
+      "id": "Uv9kdzginz4",
+      "segments": [
+        {
+          "text": "brennan james clapper james *comey* rod",
+          "location": 719
+        }
+      ]
+    },
+    {
+      "id": "UYZK6SLUDac",
+      "segments": [
+        {
+          "text": "where they will discuss james *comey* and",
+          "location": 1586
+        }
+      ]
+    },
+    {
+      "id": "uznBzdoryQE",
+      "segments": [
+        {
+          "text": "james *comey* he suspiciously deletes it",
+          "location": 59
+        },
+        {
+          "text": "story with james *comey* now don't forget",
+          "location": 121
+        },
+        {
+          "text": "about james *comey* and it's him",
+          "location": 126
+        },
+        {
+          "text": "coming at *comey* and basically the",
+          "location": 136
+        },
+        {
+          "text": "way back to when *comey* originally",
+          "location": 202
+        },
+        {
+          "text": "where james *comey* is just standing in a",
+          "location": 250
+        },
+        {
+          "text": "us that tweet from james *comey* versus so",
+          "location": 351
+        },
+        {
+          "text": "many questions because james *comey* is",
+          "location": 354
+        },
+        {
+          "text": "show it's gonna show that james *comey*",
+          "location": 411
+        },
+        {
+          "text": "about what *comey* did and we're going to",
+          "location": 679
+        },
+        {
+          "text": "back to james *comey* yeah we do have so",
+          "location": 776
+        },
+        {
+          "text": "the 20th yesterday james *comey* deletes",
+          "location": 960
+        },
+        {
+          "text": "you ever instructed director *comey* to",
+          "location": 1233
+        },
+        {
+          "text": "2015 director *comey* to call the mid-year",
+          "location": 1242
+        },
+        {
+          "text": "because *comey* was the one who testified",
+          "location": 1272
+        }
+      ]
+    },
+    {
+      "id": "v__k4yoGtr0",
+      "segments": [
+        {
+          "text": "andrew mckay was fired james *comey* was",
+          "location": 113
+        }
+      ]
+    },
+    {
+      "id": "v1EVuUPy0TM",
+      "segments": [
+        {
+          "text": "out to me is the james *comey* tweet about",
+          "location": 1009
+        }
+      ]
+    },
+    {
+      "id": "V5UBaiLKTJ8",
+      "segments": [
+        {
+          "text": "years for lying when james *comey*",
+          "location": 1622
+        }
+      ]
+    },
+    {
+      "id": "v7n8XMG6_lU",
+      "segments": [
+        {
+          "text": "lynch to hillary x to x james *comey* to",
+          "location": 466
+        },
+        {
+          "text": "are the james *comey* andrew mccabe text",
+          "location": 489
+        },
+        {
+          "text": "obama for all i know right james *comey*",
+          "location": 1102
+        },
+        {
+          "text": "assange in the news think james *comey*",
+          "location": 1565
+        },
+        {
+          "text": "deal in the works between james *comey*",
+          "location": 1589
+        },
+        {
+          "text": "short james *comey* while he was still the",
+          "location": 1615
+        },
+        {
+          "text": "james *comey* basically threw a wrench",
+          "location": 1656
+        }
+      ]
+    },
+    {
+      "id": "VAb-q4zZZ84",
+      "segments": [
+        {
+          "text": "*comey* as fbi director failed attempt to",
+          "location": 311
+        },
+        {
+          "text": "james *comey* and i think if you watch",
+          "location": 357
+        },
+        {
+          "text": "where it goes from james *comey* to andrew",
+          "location": 976
+        },
+        {
+          "text": "us about all of these people james *comey*",
+          "location": 989
+        },
+        {
+          "text": "rosenstein yates lynch and *comey* q",
+          "location": 1200
+        },
+        {
+          "text": "and lunch and *comey* exposing the fact",
+          "location": 1210
+        }
+      ]
+    },
+    {
+      "id": "VDiIHvrYiP4",
+      "segments": [
+        {
+          "text": "james *comey* fired mccabe fired",
+          "location": 1771
+        }
+      ]
+    },
+    {
+      "id": "VDNvoDprdXw",
+      "segments": [
+        {
+          "text": "*comey* loretta lynch bill clinton and",
+          "location": 673
+        },
+        {
+          "text": "now we go into james *comey* huh all right",
+          "location": 836
+        },
+        {
+          "text": "now here's the james *comey* one this one",
+          "location": 839
+        },
+        {
+          "text": "after this cue post or after this *comey*",
+          "location": 914
+        },
+        {
+          "text": "a report about james *comey* and the",
+          "location": 1073
+        },
+        {
+          "text": "the fact that director *comey* was",
+          "location": 1079
+        },
+        {
+          "text": "scenario with james *comey* right and what",
+          "location": 1117
+        },
+        {
+          "text": "until james *comey* and now get this this",
+          "location": 1136
+        },
+        {
+          "text": "james *comey* in july of 1993 president",
+          "location": 1146
+        },
+        {
+          "text": "fired james *comey* back to the clintons",
+          "location": 1240
+        }
+      ]
+    },
+    {
+      "id": "vH2LP87XOhM",
+      "segments": [
+        {
+          "text": "the fbi under *comey* are fired or under",
+          "location": 478
+        }
+      ]
+    },
+    {
+      "id": "VifwNccVoaI",
+      "segments": [
+        {
+          "text": "*comey* attorney general loretta lynch and",
+          "location": 117
+        }
+      ]
+    },
+    {
+      "id": "VIVQ8DSeXA0",
+      "segments": [
+        {
+          "text": "the other three were jim *comey* sally",
+          "location": 682
+        }
+      ]
+    },
+    {
+      "id": "vK8vS2FLi_8",
+      "segments": [
+        {
+          "text": "loretta lynch who controlled james *comey*",
+          "location": 414
+        },
+        {
+          "text": "here about james *comey* loretta lynch",
+          "location": 466
+        }
+      ]
+    },
+    {
+      "id": "VkklwV-XWV8",
+      "segments": [
+        {
+          "text": "*comey* former director *comey* of the fbi",
+          "location": 407
+        }
+      ]
+    },
+    {
+      "id": "VNKopA1AWqc",
+      "segments": [
+        {
+          "text": "james *comey* making these veiled threats",
+          "location": 27
+        },
+        {
+          "text": "like this james *comey* a penny",
+          "location": 398
+        },
+        {
+          "text": "an expose on james *comey* in his life and",
+          "location": 407
+        },
+        {
+          "text": "wonderful james *comey* who is just he",
+          "location": 446
+        },
+        {
+          "text": "he's apparently james *comey* his life",
+          "location": 461
+        },
+        {
+          "text": "take revenge that's what james *comey*",
+          "location": 491
+        },
+        {
+          "text": "science mr. *comey* has pledged to spend",
+          "location": 517
+        },
+        {
+          "text": "helping facilitate james *comey* make",
+          "location": 561
+        },
+        {
+          "text": "*comey* that just came out today with this",
+          "location": 588
+        },
+        {
+          "text": "james *comey* in my humble opinion used",
+          "location": 612
+        },
+        {
+          "text": "*comey* writes not bad about how he's",
+          "location": 749
+        },
+        {
+          "text": "state wants and *comey* is obviously a",
+          "location": 776
+        },
+        {
+          "text": "possible that what james *comey* is saying",
+          "location": 788
+        },
+        {
+          "text": "but james *comey* making these cryptic",
+          "location": 822
+        },
+        {
+          "text": "so you sick lying lowlife james *comey*",
+          "location": 833
+        },
+        {
+          "text": "*comey* apparently now it's coming out was",
+          "location": 891
+        }
+      ]
+    },
+    {
+      "id": "vNoLVvWSsyo",
+      "segments": [
+        {
+          "text": "basically and with james *comey* decided",
+          "location": 812
+        }
+      ]
+    },
+    {
+      "id": "VOiG-bND5gw",
+      "segments": [
+        {
+          "text": "former fbi director jim *comey* we expect",
+          "location": 289
+        },
+        {
+          "text": "word that keeps my life jim *comey*",
+          "location": 343
+        }
+      ]
+    },
+    {
+      "id": "vpPs1VYeYq4",
+      "segments": [
+        {
+          "text": "their hands and everything *comey* was",
+          "location": 613
+        },
+        {
+          "text": "controlled *comey* was working lynch was",
+          "location": 616
+        },
+        {
+          "text": "protecting this is why *comey* started the",
+          "location": 678
+        },
+        {
+          "text": "and then *comey*",
+          "location": 697
+        },
+        {
+          "text": "activated *comey* goes and pushes for this",
+          "location": 701
+        }
+      ]
+    },
+    {
+      "id": "VSa_TIkV6lE",
+      "segments": [
+        {
+          "text": "special counsel was done by james *comey*",
+          "location": 1069
+        }
+      ]
+    },
+    {
+      "id": "W2YIfMkkfwk",
+      "segments": [
+        {
+          "text": "*comey* has put out this cryptic tweet",
+          "location": 422
+        }
+      ]
+    },
+    {
+      "id": "w7usO3iDt_o",
+      "segments": [
+        {
+          "text": "*comey* comes out and says no charges are",
+          "location": 272
+        },
+        {
+          "text": "other missteps *comey*",
+          "location": 364
+        },
+        {
+          "text": "then days later james *comey* is like oh",
+          "location": 494
+        },
+        {
+          "text": "investigation james *comey* jim rebecky",
+          "location": 530
+        },
+        {
+          "text": "oversight james *comey* admitted to this",
+          "location": 574
+        }
+      ]
+    },
+    {
+      "id": "wgltyCeZ9pk",
+      "segments": [
+        {
+          "text": "you know here's *comey* and some you know",
+          "location": 447
+        },
+        {
+          "text": "*comey* has so many questions so perhaps",
+          "location": 562
+        }
+      ]
+    },
+    {
+      "id": "wgx-dnhKrBU",
+      "segments": [
+        {
+          "text": "mccabe deputy director fired james *comey*",
+          "location": 432
+        },
+        {
+          "text": "*comey* fired well obviously the special",
+          "location": 524
+        },
+        {
+          "text": "assistant to james *comey* needs to be out",
+          "location": 526
+        }
+      ]
+    },
+    {
+      "id": "wLKBFYSG524",
+      "segments": [
+        {
+          "text": "it's all of a sudden mccabe and *comey*",
+          "location": 529
+        }
+      ]
+    },
+    {
+      "id": "ws0Sia6taoM",
+      "segments": [
+        {
+          "text": "position was right after james *comey* was",
+          "location": 339
+        },
+        {
+          "text": "fired and why was james *comey* fired as",
+          "location": 342
+        }
+      ]
+    },
+    {
+      "id": "wwoXSecjUy0",
+      "segments": [
+        {
+          "text": "fbi reported directly to james *comey*",
+          "location": 141
+        },
+        {
+          "text": "director *comey* and others right and what",
+          "location": 879
+        },
+        {
+          "text": "between *comey* and coleman on october 4th",
+          "location": 905
+        },
+        {
+          "text": "recall this briefing with *comey*",
+          "location": 916
+        },
+        {
+          "text": "like *comey* and others who basically have",
+          "location": 1015
+        },
+        {
+          "text": "here it's saying *comey* told us that he",
+          "location": 1028
+        },
+        {
+          "text": "we asked *comey* if this briefing could",
+          "location": 1034
+        },
+        {
+          "text": "weiner investigation *comey* stated it's",
+          "location": 1041
+        },
+        {
+          "text": "*comey* *comey* did not recall being briefed",
+          "location": 1067
+        }
+      ]
+    },
+    {
+      "id": "WxIbdhY0A54",
+      "segments": [
+        {
+          "text": "democracy sanctimonious james *comey* was",
+          "location": 105
+        },
+        {
+          "text": "*comey* of course everyone's tweeting",
+          "location": 196
+        },
+        {
+          "text": "eye on i think is james *comey* with this",
+          "location": 1355
+        }
+      ]
+    },
+    {
+      "id": "X1Ei27wYEkk",
+      "segments": [
+        {
+          "text": "on a special mission by *comey* and",
+          "location": 176
+        }
+      ]
+    },
+    {
+      "id": "X4jATK5wBgU",
+      "segments": [
+        {
+          "text": "trump for firing james *comey* and others",
+          "location": 697
+        },
+        {
+          "text": "james *comey* former deputy director ainge",
+          "location": 1385
+        }
+      ]
+    },
+    {
+      "id": "Xfgb4YaqMT0",
+      "segments": [
+        {
+          "text": "*comey* bill priest ab peter struck lisa",
+          "location": 2345
+        },
+        {
+          "text": "you know *comey* about lisa and peter and",
+          "location": 2362
+        },
+        {
+          "text": "*comey* this one's a little bit didn't put",
+          "location": 2704
+        }
+      ]
+    },
+    {
+      "id": "XpBu8gmssPY",
+      "segments": [
+        {
+          "text": "murder fbi director james *comey* x'",
+          "location": 12
+        },
+        {
+          "text": "james *comey* twitter post where he",
+          "location": 473
+        },
+        {
+          "text": "february 18th and in james *comey* says he",
+          "location": 486
+        },
+        {
+          "text": "james *comey* is the same guy who put out",
+          "location": 496
+        },
+        {
+          "text": "for james *comey* this direction to bunker",
+          "location": 523
+        },
+        {
+          "text": "is that james *comey* is asking people not",
+          "location": 546
+        },
+        {
+          "text": "james clapper james *comey* bill clinton",
+          "location": 594
+        },
+        {
+          "text": "*comey* look at what happened with andrew",
+          "location": 1205
+        }
+      ]
+    },
+    {
+      "id": "xTJgKGF--OQ",
+      "segments": [
+        {
+          "text": "it's *comey* and all of these people",
+          "location": 25
+        },
+        {
+          "text": "with james clapper and james *comey* and",
+          "location": 952
+        }
+      ]
+    },
+    {
+      "id": "xwOcpq9TqpE",
+      "segments": [
+        {
+          "text": "leaking liar criminal james *comey* has",
+          "location": 603
+        }
+      ]
+    },
+    {
+      "id": "XXd8q4BfcYQ",
+      "segments": [
+        {
+          "text": "and it says moeller connection *comey*",
+          "location": 1450
+        }
+      ]
+    },
+    {
+      "id": "xYBSsLGzMlc",
+      "segments": [
+        {
+          "text": "president chavez *comey* throws the",
+          "location": 1186
+        },
+        {
+          "text": "*comey* take days after less than a week",
+          "location": 1278
+        },
+        {
+          "text": "after the tarmac meeting james *comey*",
+          "location": 1281
+        },
+        {
+          "text": "here's *comey* our judgment is that no",
+          "location": 1375
+        }
+      ]
+    },
+    {
+      "id": "YACpICjPygE",
+      "segments": [
+        {
+          "text": "exact people i think that's james *comey*",
+          "location": 777
+        },
+        {
+          "text": "*comey* now you all remember his tweet to",
+          "location": 1101
+        },
+        {
+          "text": "tweet i'm gonna do my best james *comey*",
+          "location": 1125
+        },
+        {
+          "text": "directly to director *comey* it says",
+          "location": 1247
+        },
+        {
+          "text": "that's a reference to *comey* it says",
+          "location": 1301
+        },
+        {
+          "text": "cue so smile james *comey* you're on",
+          "location": 1310
+        },
+        {
+          "text": "coincidence james *comey* did your email",
+          "location": 1358
+        }
+      ]
+    },
+    {
+      "id": "YAHylAzN21o",
+      "segments": [
+        {
+          "text": "against james *comey* for lying under oath",
+          "location": 829
+        }
+      ]
+    },
+    {
+      "id": "YLlsruYA4pk",
+      "segments": [
+        {
+          "text": "gate and about struck and page and *comey*",
+          "location": 1052
+        }
+      ]
+    },
+    {
+      "id": "YlYxp4VTDgw",
+      "segments": [
+        {
+          "text": "clapper yates *comey* are and i think well",
+          "location": 519
+        },
+        {
+          "text": "like when it happened with *comey* you're",
+          "location": 729
+        }
+      ]
+    },
+    {
+      "id": "yQrUOHG8e2k",
+      "segments": [
+        {
+          "text": "*comey* forced into the spotlight shortly",
+          "location": 1018
+        },
+        {
+          "text": "*comey* when he came out the second time",
+          "location": 1057
+        },
+        {
+          "text": "*comey* stuff for yourself because it's",
+          "location": 1076
+        }
+      ]
+    },
+    {
+      "id": "YSq6X6aQhd0",
+      "segments": [
+        {
+          "text": "*comey* like james *comey* we supreme court",
+          "location": 365
+        },
+        {
+          "text": "*comey* said she was clean",
+          "location": 444
+        }
+      ]
+    },
+    {
+      "id": "ywlM82gfvbk",
+      "segments": [
+        {
+          "text": "hillary clinton james *comey* and the doj",
+          "location": 60
+        },
+        {
+          "text": "fbi director james *comey* then you have",
+          "location": 726
+        },
+        {
+          "text": "*comey* former acting director of the fbi",
+          "location": 756
+        },
+        {
+          "text": "what *comey* did when they investigated",
+          "location": 1294
+        },
+        {
+          "text": "clearances of john brennan james *comey*",
+          "location": 1512
+        }
+      ]
+    },
+    {
+      "id": "z5T_1jyN5f8",
+      "segments": [
+        {
+          "text": "then i talked about james *comey* and his",
+          "location": 103
+        }
+      ]
+    },
+    {
+      "id": "z7iJ5zZ0cLY",
+      "segments": [
+        {
+          "text": "*comey* jim clapper chuck schumer i'm not",
+          "location": 45
+        }
+      ]
+    },
+    {
+      "id": "Za2u9FkqiaU",
+      "segments": [
+        {
+          "text": "deputy director james *comey* the director",
+          "location": 1034
+        }
+      ]
+    },
+    {
+      "id": "Zfa1UNNaPxc",
+      "segments": [
+        {
+          "text": "*comey* says he's probably right about",
+          "location": 501
+        }
+      ]
+    },
+    {
+      "id": "ZGLLyMlvoUY",
+      "segments": [
+        {
+          "text": "*comey* hussein dates white house visitor",
+          "location": 169
+        }
+      ]
+    },
+    {
+      "id": "zJoO_HiEUno",
+      "segments": [
+        {
+          "text": "fbi director james *comey* demanding he",
+          "location": 488
+        },
+        {
+          "text": "bruce or confirmed that *comey* traveled",
+          "location": 852
+        },
+        {
+          "text": "against *comey* rather than mccabe",
+          "location": 912
+        }
+      ]
+    },
+    {
+      "id": "zlajBZP3nH0",
+      "segments": [
+        {
+          "text": "talks about hillary i think and *comey*",
+          "location": 558
+        },
+        {
+          "text": "report released necessary prior to *comey*",
+          "location": 577
+        },
+        {
+          "text": "notes in an fbi meeting with *comey* about",
+          "location": 776
+        }
+      ]
+    },
+    {
+      "id": "zu3muQumFyI",
+      "segments": [
+        {
+          "text": "mr. *comey* has been very silent in recent",
+          "location": 29
+        },
+        {
+          "text": "baker testifying against *comey* and of",
+          "location": 388
+        },
+        {
+          "text": "new york magazine article james *comey*",
+          "location": 997
+        },
+        {
+          "text": "that's a direct quote from james *comey*",
+          "location": 1009
+        }
+      ]
+    },
+    {
+      "id": "zUQ1UARkl24",
+      "segments": [
+        {
+          "text": "james clapper jim *comey* loretta lynch",
+          "location": 341
+        },
+        {
+          "text": "there's even more director james *comey*",
+          "location": 355
+        },
+        {
+          "text": "stroke lisa paige james *comey* james",
+          "location": 1383
+        }
+      ]
+    }
+  ]
+}

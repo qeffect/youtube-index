@@ -1,0 +1,67 @@
+{
+  "indexed": "0FK5LuXx5oM,12qmsoJw_lc,1GmgxBwS294,268qWwcLH5A,39gEtep6aVw,6vuG0CNBY18,7J69zqyXUzo,8bmml1H6cjo,9IRUbMdOzLE,9utOna6M9Fw,9WzjfeqQQBA,9X3fFvhyJUU,aAT5N5zJ2IE,aLwkQdjlqUU,CBGsAcDL1ok,cf5J9njDXRo,D28O6zTipA0,da95VfIYCaA,djTt_RP8k7o,DLpUohyeNEc,EB_msYA-M14,EFvsl1ColnY,Ej2ANW4Zrow,feryg3tQSlc,fODMnv04QIY,fR9FgDOdVnM,g-Jf5xZxr3Y,Hi0iDT9EJuk,JHj45uJPaFc,JmFrmbDT8iw,lC5-7tpMj98,Lis8Qc7EsBs,lxjhaHD7yvU,m1G8d_MsU4M,Nx6T2YZ2xFU,oXwd67kCb2Q,PdUewlqrjOw,PqUP_rc5fNY,SEbZksNZbQc,sS65ihjnqB8,tdc0ThSM34c,uxj3BBwyCI0,VdcazN5eIrk,wa3fWWO3HGY,xySJ2_SjdiQ,yoZI3LQLOZo,yugE11G3tvQ",
+  "topic": "Red Cross",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "aAT5N5zJ2IE",
+      "segments": [
+        {
+          "text": "in charge of the *red* *cross* for 30 years",
+          "location": 496
+        },
+        {
+          "text": "the with the *red* *cross* buckets of money",
+          "location": 502
+        },
+        {
+          "text": "happened she's tied into the *red* *cross*",
+          "location": 647
+        }
+      ]
+    },
+    {
+      "id": "SEbZksNZbQc",
+      "segments": [
+        {
+          "text": "into the *red* *cross* and the vatican now",
+          "location": 138
+        },
+        {
+          "text": "the way she ties into the *red* *cross* is",
+          "location": 141
+        },
+        {
+          "text": "was involved in the *red* *cross* for 30",
+          "location": 150
+        },
+        {
+          "text": "talking about who ran the *red* *cross* for",
+          "location": 222
+        },
+        {
+          "text": "birthplace the city of milan a *red* *cross*",
+          "location": 477
+        }
+      ]
+    },
+    {
+      "id": "xySJ2_SjdiQ",
+      "segments": [
+        {
+          "text": "voter id laws and the *red* *cross* buckets",
+          "location": 9
+        },
+        {
+          "text": "to nicole jung carmen's tied to the *red*",
+          "location": 169
+        },
+        {
+          "text": "*cross* and ii had barack's business",
+          "location": 171
+        }
+      ]
+    }
+  ]
+}

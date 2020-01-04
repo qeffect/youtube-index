@@ -1,0 +1,3137 @@
+{
+  "indexed": "_4cUOL3WjoQ,_4Qz2wgXF-0,_8pSTgIxZYs,_Dbmz9RiNz8,_FzxnbyTxxQ,_oalbnteAOs,_OFjUWoWjWA,_oFMGK4Zh0A,_wl1SQ5vloE,-_jy9XWrtVk,--S8YcaR4e0,-p4aixMy9C4,-TnUgDxmhcM,-UfGgbKad1g,-YMqBPbzLf4,-zegrO4DwyY,-zp_jtLiWGk,0_wrqY4QP1E,0c2dd2MuBdw,0Hdas49YCcc,0p6fPfG6eEc,0qKt8Cx_ddw,18zfwUCc61M,1a-U_X08U6I,1d-2uv-xfmE,1DrHzWvI6KM,1jFANB5HfVw,1rSUgsXkMV0,1SgrMFFmtXk,1x_vXcUl-5U,2-KyGPW6w2o,2AsamkPRWkQ,2AZ6VHCqhUM,2CveVgGWJ1Q,2eBSc_bwnWU,2isbWX0zE40,2n51hzqIt0U,30V4Szn4Iuk,3FDNRfZmq40,3i07C4yqOJE,3Od71di7MIo,42B7PCn1Snk,4c4fWaJxAlI,4CljEa5NWyM,4NHl0qZswsM,4pjGWGmVlVo,4QaAgo9xq-I,4tIXYYEObRw,4wtx2cZ0Kbg,57ly_O6zk1A,5ez2srKespc,5fKoGtGai84,5g7ly1jWyh4,5l_hHwjMj84,5Vd-T0ytuDo,5ZAoB5_5Z9U,6_w68fyEHQc,69-YMBkQjMI,6fchAsMqtiI,6hqfPPhwYEc,6nJMwv18PhY,6ORf3NMddJw,6PlU0kJsMgg,7EeZJ3nqRi4,7gQa2DnB57E,7kFWz6d6QE0,7TxVMkmEflw,7Z1stYjs00o,8597QdaRrYg,8DPY5g6bmnI,8IC-EoVQ4Xw,8mQgCzVLJNQ,8NN2XuMbWvM,8tD41JIC-_s,8u9QT__UJw8,8W3YXImU6m0,9_Av3k1XGlI,99tcg2P0X00,9CjCqKVUaXU,9fg2HjtiQnw,9j5zzgc_ZW8,9njNU0ihgk4,9sbvu6QbGFQ,a1NA7RMfN2g,a4aHKKrnkIU,a59mWRqqJVc,AAAqCJKxkwY,aC2UGtWJMMw,AJZaQtuk-4U,ajzXU44c9l0,aKwDn2vzjnE,ANcWcVKyFEU,aUFEtFY36i4,AuV31bAKsW0,aV2xcCxaoTQ,AVGvXMl-ItU,aWDsJdeJWUY,b-byy2INS9E,BaLiAUykwk0,BeiNOvXEgeE,BhTX5laZ2dk,biSiJkBSrRU,bNkOryQKYhw,bQKYJG_NiuA,bWxE0JiEk5s,c0ng2LuHw3M,c6ngdj0aaBM,C8qMDMjmTyI,C9R-YD7lyhQ,CbNcUJ8HhXI,CbwoJvdo1BA,cFwd5UYWjxg,ClGKQvSylxk,clPhNj9RaOA,CPvD8HQ9Koc,csJU-a0MsZU,CwPvAUnU1Yg,CZvTFgzePlE,D0-lVCkgnIo,D183UhhCkdY,d76FqB5mBAw,DC6aYwKxQuw,dcQwuAxJb1I,DCTFYjIyqKA,dDxwcnUK53M,dgq3HSm2erQ,dgSTsrt-xX4,dHEMRwLEmlE,DiwdnJM3nAo,DJv8lb0mOqM,dkM8045LNbE,DlzLPVjHTeQ,DnTmhNoGyII,DQC5UiWzy-8,drFJG5-3RkA,Dro05nL_8Q8,dTF780QtN4E,dU0lvgrh6DQ,DVBzdQkRXWA,dXWAJLtJB6Y,E_lX3ZHA37U,e56SvLE_RGg,E60RhCVo0Nc,e6N1eCPGlBU,EhJieMpQXss,EKJBGDEHACI,emFk7vdarkA,eNUUqqwl0y4,eQFO3jslMHQ,ezw5g2S3888,f5J1g1S6goc,F6FfGbDGadc,f83TwcKnBp0,fDmxsQuEP90,Fef0ckAi630,fElxhk6SPu0,ffMAs2enoSo,FFTR2iEL2js,FJxIZeGscPc,FL5dULT3V94,fnBTbYAloFI,Fqv09KbOBTs,FRWbHgBA0d4,FsAGKSpgOVA,G8RApYO_n4c,gAunspUVzt8,GeoMB0WD9zU,GL_l7uGX8WY,GmFrEcyOCp0,gsudyktd4fc,GTFYwFVnXcQ,GUGdEdeZudM,Gv1ywPbHj-o,gxQe3UABhx4,GYcc_-8ADXw,GYzjtOTWk-M,h7lUMLj5xc8,h8fY2MYcoNI,HCV4jvriRkE,hF85EcXHdcI,HHSnx8HC97A,HJeWmOs9wws,hm7vb0wXijM,hM8sH1MZw_g,hmy7oxlLags,hn24hIKvZbE,hnoAixwDefg,hoZ1m8riCT0,hpnqURGkTvg,hrxVT4O_yXw,hT2dO3hM0RU,ht4idpfAARg,HtAF-S85w3o,hUkXVxPeP1U,hWCe5072mGg,I0zqCx1naaM,I3O-3gOOu7U,I5v4YoUjjhA,ibKILQFF3Hg,IBsxf0_Fiic,iBT6FhBCxp4,IHYV7n-1zGo,IiaKY5Ujz7o,IiVbtXtLoNk,IMLdY9Nid_M,imUQxYkMdMk,IR0YwQ0eWdk,iwb8_ldGl0Q,iZPnPKNZFyE,iZsEJ9Ll3DM,J7kMoeWHbAI,J8hdeaykViY,jJCU5JneN4U,JjZFIj6NXCc,JlKOJvTxmSw,JMLGr0t6WiE,joSVWRny9HY,JPE9wHKtcOE,jRYWKOVi9pc,jsibKmea0xs,JuSQ-NzDoxg,jVpWkmxdXZw,jwGExC1hK2w,jwgPeHMA0XQ,jXc0VnfROxk,JxhlF_Z7WBM,JxKmYtvPBgE,jXO0XeoKttw,Jz9V0uTiyX0,k088BHq7MwA,K0gos2mEDoM,k1d1W0FUIeI,K1GPxgU4GYc,k5zAPe3j-P8,kdxBP7B-Adg,kFOvXGMP19Y,kGmVWi6HGz8,ki5x7vPxw2k,kI9qKn5aUQo,kiOrZBcyc1Y,kNWM4qCBjFQ,KRGSqTF8gQs,krxOVnXMgaU,Ksvn8UI904Y,KuMFUPtKpWU,KWlDcvcMSP0,kx1_z42TIek,KyFXo23tZrY,L_AioX3MApk,l_eG95KK0ko,L6DFq19kCJE,lCv2RSt-JHw,ldS90gRrNJ8,LIlfhpscpJc,ll4IuzQmlvg,LNwU2glC7us,lOvRgFBALEE,Ls6pFKYsuRQ,Lud9cMxisCU,Lvf3UmSv7hQ,lwlUMKv6yKk,LYiNW4p6mTc,M-OAIeWVUDM,m78DMlWY5jU,mfnne9u9Cu4,mk2O0Qu5Ipw,mkyo0m45CBM,MmaN6V7_U3w,mqFZp6EQEoo,msftou8Vxk8,mWXhdPz1L9o,MXdC-izUy0M,Na2MqQzIAWU,NEadjTosApo,nhlRiZtgfsw,NMOEpMntZ3I,nQ-0S4_mZrY,nWNoUZTN608,nyh7YbsGMQc,nzY2NnJ1J-M,o__gS7JUijA,O08ze6jltco,O3cKYCEcCnQ,o4mGsJ23IA4,O4qUKaf9bD0,o5yAF9IIO4A,oaA15FYN6pc,ODM8N8bDjqc,oDskmmkin4c,OgGTcg1AihQ,om3LDAA8yVU,oQRZaJOlSks,OSBqv2i2UOk,OsOBa27SOnY,Ov3Pyqr1U7Y,ow-WxWBd10M,oWCdApAaLH0,OZE1KEtsqaM,ozT-lj5XpsE,p_8uD_4uX_0,P-_5KJ5EauM,P1q67rQAgdY,P2z0UhWg2gw,p5nZX-r7On4,pbPqTtqMTUQ,pfFRcVFhr_w,PHjE6wH3OB0,PInpDeOIhKA,PKobwTynNHA,pl0fwd-P78k,pLhgQLWQ-JY,pMWD6H6J6XE,POvz-gw3EOA,pp29EPi2Nwk,PS4IQx8T8ew,PVA8g-1ZALM,PZaRVcudtpA,pZMOu5AGars,q2BoeQDb5cw,Q4lYHA1-5NI,QcA3NVCYYWM,qeKqoJMDCM4,QfabmC75wZo,qfvttt2-pD4,QI-R7580Rsg,qlfMm_3mRUM,qPj6F9EIiJ0,QREPrbHU5hE,QT9GR13m5tU,qTxF4G8Pv6k,qx5yJKzKdDo,qyHeRsJaOZM,qYTw5XHHlTI,QYVw6lFa2Dw,QzRgzW-vIpY,r-xFCir8FpU,R6Bn5Eb7KFQ,RiGvVpKGkJg,rjmozTz_hlw,RnnD5KWqURk,RoXwhmL6yk8,Rs_aMycvbRY,rw3bpnmOaOE,rYLOgFQPEZE,ryS7Gvupg1Q,s1yQvbIWklg,S29kJPp3Ad8,S5PPhpbmt0k,SccFd5RrtlY,scnr8t3L4Wk,seROfjjMZiM,sK3cWjgBo50,SmoJQloPBHo,sqdpWV0fsEM,stNCvaIyjXA,Suful5k9TD0,SXo1cP5spks,szuPUju1yDQ,T_rt5tZWITc,t4GTAV3tf_k,t8qFpNI6yEM,tdiYCDXpk6I,TEiHLbWSCjg,TFB_WmGDb68,TJAryFVNobk,Tm8ZULL-zhk,to7v8Ndz5Dk,toSmM8-7XQY,TQha2IMjYBA,TqjbXClcNjs,Ts1U1iWq5w0,TTD7TgHI41Q,TVSkK_uZsdY,tX-MZm7lG9k,TXWLPzYNjgs,tYCL2clTy7k,U8-rksGOIKw,ubLtyQx4d2g,Uc1dgkXKgsI,uGmQeN7__6A,Uh397S0AxoM,UhgdWME2v0w,uHIrFFUWMkk,UJ7YySYLIPA,uoZG3XG7t0k,UqfKAvJ94Pg,urKkOdgMzIs,uwW6MeAvOQE,v036BBaxXe0,VaFOU9dVE7k,VCniIY1N4YE,vkp2CaEbhiU,VncyqSWVJ1A,vP8G3gztQWA,VtSXKVw20bo,vVfyUAbNzb8,vwEYKWtzgJE,Vz6_nf_Sav4,w0WYAvWrMI4,W4IXATAA-HI,W4vxQB8tpDI,W8856fu_UG0,w8XTiVE3ej8,WBPI6wqGjjI,WcGmPQLhS-g,WeQOS11pAuE,WGuSyYujJCg,WM3BdU7uig4,wo825dKxQJc,WTLpneg-TiE,wTV4wML2Syg,WVR_d33tydI,wyDr_3phD6A,WyFwfxjVmHU,x1GukexVR9w,X7XMlZzPn_g,x9YqAiZo7jE,xcjHb6BxTrY,XCwr86ol3Oo,XddDHRwCA6Q,XdfdQT3XSBg,XEDGXGXKsPk,xEqavcwFyLY,XEVieVy5tA0,XfuNLvrXCo4,xLY5r0jjR9Y,XNrwbfS6f1Q,XPbSQ67Hxe8,xU16fgjFWek,XWrKp_tL4VE,XyN4KiYqsqs,y-874vzHt4A,y-ZyS9x6JNk,y4AhWpuyomw,Y9B1jNym-K8,yAXz6lYNxHE,YDZxU7hSkE8,YHeh4p3hPIQ,YJbF_WyHOVg,yJCimzETdYQ,yOpkW6xCbo8,YPT-X7gTA4o,yqgU3coXHpY,YU1dT0inBgg,YVTrXMak0UU,yW2tYWuXafY,YW7MVkX9o_Q,yZPh6hYXIFI,z2yDHKVsLqg,Z4i2A6q_4Rk,Z4u2xZqZKn0,ZD_4uv4ef-k,ZdBQqomzssg,zEBIukow088,ZgM3WPC5LSw,zhGG_oIrsCw,Zjr-J3FOvek,zlTIq16o_Jo,ZmelaC42YqU,ZMjEM7D61oo,ZNaN4eVbOEQ,zQhjVOzzoBw,zsp80ZqtMzo,zUCswDyNLsk,zurUyF0byS0,zvCofZWMmuc,ZW_LiXGfSkA,zWP_ImZu2zg,zzJ-tlw_GvY,ZzpP6lcBjsY",
+  "topic": "Inspector General",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_4Qz2wgXF-0",
+      "segments": [
+        {
+          "text": "*inspector* *general* report about the fbi",
+          "location": 86
+        },
+        {
+          "text": "then the *inspector* *general* work is",
+          "location": 151
+        },
+        {
+          "text": "independent of the attorney *general* but",
+          "location": 156
+        },
+        {
+          "text": "on the release because the *inspector*",
+          "location": 161
+        },
+        {
+          "text": "*general* does not have the authority to",
+          "location": 162
+        }
+      ]
+    },
+    {
+      "id": "_Dbmz9RiNz8",
+      "segments": [
+        {
+          "text": "of 22 investigations defined *inspector*",
+          "location": 787
+        },
+        {
+          "text": "*general* in the united states the office",
+          "location": 791
+        },
+        {
+          "text": "of *inspector* *general* is a generic term",
+          "location": 792
+        },
+        {
+          "text": "well that's the *inspector* *general* but if",
+          "location": 890
+        }
+      ]
+    },
+    {
+      "id": "_OFjUWoWjWA",
+      "segments": [
+        {
+          "text": "*inspector* *general* has been acting in the",
+          "location": 602
+        },
+        {
+          "text": "so we know the *inspector* *general* has",
+          "location": 634
+        }
+      ]
+    },
+    {
+      "id": "-zegrO4DwyY",
+      "segments": [
+        {
+          "text": "about this he's saying the *inspector*",
+          "location": 2142
+        },
+        {
+          "text": "*general* is acting as the fbi because the",
+          "location": 2144
+        },
+        {
+          "text": "*inspector* *general* remember we've only",
+          "location": 2150
+        },
+        {
+          "text": "of things from the *inspector* *general* and",
+          "location": 2160
+        },
+        {
+          "text": "once we get the redacted *inspector*",
+          "location": 2164
+        },
+        {
+          "text": "*general* report the unredacted and the",
+          "location": 2166
+        }
+      ]
+    },
+    {
+      "id": "0c2dd2MuBdw",
+      "segments": [
+        {
+          "text": "the *inspector* *general* report that we're",
+          "location": 1860
+        },
+        {
+          "text": "*inspector* *general* report actually thank",
+          "location": 1888
+        },
+        {
+          "text": "birthday is the *inspector* *general* report",
+          "location": 1947
+        }
+      ]
+    },
+    {
+      "id": "0qKt8Cx_ddw",
+      "segments": [
+        {
+          "text": "because the the *inspector* *general* was in",
+          "location": 1023
+        },
+        {
+          "text": "*inspector* *general* acting attorney",
+          "location": 1742
+        },
+        {
+          "text": "the *inspector* *general* to release report",
+          "location": 1947
+        },
+        {
+          "text": "asked the department's *inspector* *general*",
+          "location": 2240
+        },
+        {
+          "text": "department *inspector* *general* michael",
+          "location": 2247
+        },
+        {
+          "text": "ongoing investigation the *inspector*",
+          "location": 2255
+        },
+        {
+          "text": "*general* has now confirmed that he has",
+          "location": 2257
+        },
+        {
+          "text": "how about a nice game of chess *inspector*",
+          "location": 2306
+        },
+        {
+          "text": "the *inspector* *general* on integrity and",
+          "location": 2317
+        },
+        {
+          "text": "*inspector* general's counsel of *inspector*",
+          "location": 2413
+        },
+        {
+          "text": "*general* on integrity and efficiency huh",
+          "location": 2416
+        },
+        {
+          "text": "*inspector* *general* and the",
+          "location": 2438
+        }
+      ]
+    },
+    {
+      "id": "1a-U_X08U6I",
+      "segments": [
+        {
+          "text": "the focus because *inspector* *general*",
+          "location": 1496
+        },
+        {
+          "text": "donald trump on july 20th 2017 *inspector*",
+          "location": 1508
+        },
+        {
+          "text": "*general* horowitz gets the page and",
+          "location": 1513
+        },
+        {
+          "text": "interviewed by *inspector* *general*",
+          "location": 1589
+        },
+        {
+          "text": "in the *inspector* general's report july",
+          "location": 1616
+        },
+        {
+          "text": "2017 mccain denies again to *inspector*",
+          "location": 1618
+        },
+        {
+          "text": "*general* horowitz july 20th 2017 horowitz",
+          "location": 1621
+        },
+        {
+          "text": "fbi investigators in *inspector* *general*",
+          "location": 1632
+        },
+        {
+          "text": "flynn *inspector* *general* with interviews",
+          "location": 1658
+        },
+        {
+          "text": "that's how *inspector* *general* horowitz",
+          "location": 1719
+        },
+        {
+          "text": "knowing *inspector* *general* horowitz",
+          "location": 1777
+        },
+        {
+          "text": "warrant occurred and third *inspector*",
+          "location": 2187
+        },
+        {
+          "text": "*general* michael horowitz gained",
+          "location": 2190
+        },
+        {
+          "text": "of huber *inspector*-*general* horowitz so",
+          "location": 2488
+        }
+      ]
+    },
+    {
+      "id": "1DrHzWvI6KM",
+      "segments": [
+        {
+          "text": "submitted to the *inspector* *general* to to",
+          "location": 334
+        },
+        {
+          "text": "*inspector* *general* michael horowitz over",
+          "location": 403
+        },
+        {
+          "text": "*inspector* *general* it's crazy it's crazy",
+          "location": 554
+        }
+      ]
+    },
+    {
+      "id": "1SgrMFFmtXk",
+      "segments": [
+        {
+          "text": "progress of the *inspector* *general* report",
+          "location": 10
+        },
+        {
+          "text": "discussion with the *inspector* *general*",
+          "location": 33
+        },
+        {
+          "text": "*inspector* *general* horowitz last week we",
+          "location": 42
+        },
+        {
+          "text": "*inspector* *general* is going to be right",
+          "location": 101
+        },
+        {
+          "text": "surrounding the pending *inspector*",
+          "location": 465
+        },
+        {
+          "text": "*general* reported to fisa abuse that's",
+          "location": 468
+        }
+      ]
+    },
+    {
+      "id": "1x_vXcUl-5U",
+      "segments": [
+        {
+          "text": "*inspector* *general* horowitz on what was",
+          "location": 2757
+        }
+      ]
+    },
+    {
+      "id": "2AsamkPRWkQ",
+      "segments": [
+        {
+          "text": "no one in congress a special *inspector*",
+          "location": 1830
+        },
+        {
+          "text": "*general* office the department of defense",
+          "location": 1832
+        },
+        {
+          "text": "did stuart bowen the special *inspector*",
+          "location": 1930
+        },
+        {
+          "text": "*general* for iraq reconstruction analyzed",
+          "location": 1933
+        },
+        {
+          "text": "*inspector* *general* believes the opposite",
+          "location": 2002
+        },
+        {
+          "text": "*inspector* *general* for iraq closed in",
+          "location": 2216
+        }
+      ]
+    },
+    {
+      "id": "2isbWX0zE40",
+      "segments": [
+        {
+          "text": "the the *inspector* *general* gave him",
+          "location": 1840
+        }
+      ]
+    },
+    {
+      "id": "2n51hzqIt0U",
+      "segments": [
+        {
+          "text": "department omb or the *inspector* old",
+          "location": 412
+        },
+        {
+          "text": "*inspector* *general* and/or ethics office",
+          "location": 414
+        }
+      ]
+    },
+    {
+      "id": "3i07C4yqOJE",
+      "segments": [
+        {
+          "text": "doj *inspector* *general* to probe fisa",
+          "location": 1053
+        },
+        {
+          "text": "on by the *inspector* *general*",
+          "location": 1063
+        },
+        {
+          "text": "okay why is the *inspector* *general* doing",
+          "location": 1088
+        },
+        {
+          "text": "the *inspector* *general* even though he",
+          "location": 1117
+        },
+        {
+          "text": "come from the *inspector* *general* who is",
+          "location": 1204
+        },
+        {
+          "text": "when the *inspector* *general* report is",
+          "location": 1316
+        }
+      ]
+    },
+    {
+      "id": "3Od71di7MIo",
+      "segments": [
+        {
+          "text": "of *inspector* *general* could review them a",
+          "location": 1046
+        }
+      ]
+    },
+    {
+      "id": "4pjGWGmVlVo",
+      "segments": [
+        {
+          "text": "something that the *inspector* *general* is",
+          "location": 2180
+        }
+      ]
+    },
+    {
+      "id": "69-YMBkQjMI",
+      "segments": [
+        {
+          "text": "the office of *inspector* *general* u.s.",
+          "location": 1661
+        }
+      ]
+    },
+    {
+      "id": "6PlU0kJsMgg",
+      "segments": [
+        {
+          "text": "*inspector* *general* knew of every single",
+          "location": 2672
+        },
+        {
+          "text": "they help the *inspector* *general* okay",
+          "location": 2697
+        },
+        {
+          "text": "they being the *inspector* *general* okay",
+          "location": 2717
+        }
+      ]
+    },
+    {
+      "id": "7EeZJ3nqRi4",
+      "segments": [
+        {
+          "text": "is the *inspector* *general* report paper",
+          "location": 304
+        }
+      ]
+    },
+    {
+      "id": "7gQa2DnB57E",
+      "segments": [
+        {
+          "text": "michael horowitz who is the *inspector*",
+          "location": 1446
+        },
+        {
+          "text": "*general* the internal affairs for the us",
+          "location": 1448
+        },
+        {
+          "text": "makes a world a sense the *inspector*",
+          "location": 1672
+        },
+        {
+          "text": "*general* is gonna put out this report",
+          "location": 1675
+        }
+      ]
+    },
+    {
+      "id": "7TxVMkmEflw",
+      "segments": [
+        {
+          "text": "*inspector* *general* with a prosecutor who",
+          "location": 443
+        }
+      ]
+    },
+    {
+      "id": "8597QdaRrYg",
+      "segments": [
+        {
+          "text": "comments of the *inspector* *general* today",
+          "location": 814
+        }
+      ]
+    },
+    {
+      "id": "8W3YXImU6m0",
+      "segments": [
+        {
+          "text": "the department's *inspector* *general* has",
+          "location": 158
+        },
+        {
+          "text": "case a member of the *inspector* *general*",
+          "location": 193
+        },
+        {
+          "text": "*inspector* *general* whistleblower believes",
+          "location": 244
+        }
+      ]
+    },
+    {
+      "id": "9fg2HjtiQnw",
+      "segments": [
+        {
+          "text": "*inspector* *general* coming up today at 2",
+          "location": 8
+        }
+      ]
+    },
+    {
+      "id": "9sbvu6QbGFQ",
+      "segments": [
+        {
+          "text": "was the doj *inspector* *general* releases",
+          "location": 1187
+        },
+        {
+          "text": "*inspector* *general* department us",
+          "location": 1199
+        },
+        {
+          "text": "come out this *inspector* *general* report",
+          "location": 1217
+        },
+        {
+          "text": "of this information but the *inspector*",
+          "location": 1355
+        },
+        {
+          "text": "*general* concluded that he did so not",
+          "location": 1358
+        },
+        {
+          "text": "this ig section this *inspector* *general*",
+          "location": 1453
+        },
+        {
+          "text": "and then ultimately with the *inspector*",
+          "location": 1472
+        },
+        {
+          "text": "*general* as well so it was a pattern and",
+          "location": 1474
+        },
+        {
+          "text": "*inspector* *general* horowitz release of",
+          "location": 1672
+        },
+        {
+          "text": "the *inspector* *general* report i look for",
+          "location": 1677
+        },
+        {
+          "text": "all the *inspector* *general* report at one",
+          "location": 1689
+        }
+      ]
+    },
+    {
+      "id": "AAAqCJKxkwY",
+      "segments": [
+        {
+          "text": "the *inspector* *general* report just a",
+          "location": 22
+        },
+        {
+          "text": "pissed off about the the *inspector*",
+          "location": 53
+        },
+        {
+          "text": "*general* report believe me i wasn't kind",
+          "location": 56
+        },
+        {
+          "text": "*inspector* *general* report it's part of",
+          "location": 144
+        },
+        {
+          "text": "*inspector* *general* report was released to",
+          "location": 225
+        },
+        {
+          "text": "knew when this *inspector* *general* report",
+          "location": 535
+        },
+        {
+          "text": "into why the hood why the *inspector*",
+          "location": 1212
+        },
+        {
+          "text": "*general* said there was no bias okay it's",
+          "location": 1215
+        },
+        {
+          "text": "*inspector* *general* michael horowitz to",
+          "location": 1652
+        },
+        {
+          "text": "*inspector* *general* has now confirmed that",
+          "location": 1669
+        },
+        {
+          "text": "department's office of *inspector* *general*",
+          "location": 1692
+        },
+        {
+          "text": "jurisdiction if the *inspector* *general*",
+          "location": 1736
+        },
+        {
+          "text": "clear the *inspector* *general* has the",
+          "location": 1749
+        },
+        {
+          "text": "*general* and the deputy attorney *general*",
+          "location": 1762
+        },
+        {
+          "text": "*inspector* *general* may also may under",
+          "location": 1766
+        },
+        {
+          "text": "and in cooperation with the *inspector*",
+          "location": 2132
+        },
+        {
+          "text": "*general* so i mean we don't know what is",
+          "location": 2135
+        },
+        {
+          "text": "going on between the *inspector* *general*",
+          "location": 2138
+        }
+      ]
+    },
+    {
+      "id": "AJZaQtuk-4U",
+      "segments": [
+        {
+          "text": "referrals by the doj *inspector* *general*",
+          "location": 423
+        },
+        {
+          "text": "*inspector* *general* at the justice",
+          "location": 2045
+        },
+        {
+          "text": "all these documents to the *inspector*",
+          "location": 2060
+        },
+        {
+          "text": "*general* the justice department first now",
+          "location": 2061
+        }
+      ]
+    },
+    {
+      "id": "aUFEtFY36i4",
+      "segments": [
+        {
+          "text": "7 2016 the nsa *inspector* *general* george",
+          "location": 1665
+        },
+        {
+          "text": "certifications carlin knew the *general*",
+          "location": 2581
+        },
+        {
+          "text": "*inspector* *general* report on purpose and",
+          "location": 2593
+        }
+      ]
+    },
+    {
+      "id": "BaLiAUykwk0",
+      "segments": [
+        {
+          "text": "*inspector* *general* running wiretaps on",
+          "location": 1484
+        },
+        {
+          "text": "*inspector* *general* it appear",
+          "location": 1576
+        },
+        {
+          "text": "of justice and the fbi *inspector* *general*",
+          "location": 1621
+        }
+      ]
+    },
+    {
+      "id": "D183UhhCkdY",
+      "segments": [
+        {
+          "text": "mccabe told the office *inspector* of",
+          "location": 817
+        },
+        {
+          "text": "*inspector* *general* that during october",
+          "location": 821
+        }
+      ]
+    },
+    {
+      "id": "dcQwuAxJb1I",
+      "segments": [
+        {
+          "text": "*inspector* *general* report released",
+          "location": 61
+        },
+        {
+          "text": "office of the *inspector* *general* all",
+          "location": 99
+        },
+        {
+          "text": "*inspector* *general* initiated this",
+          "location": 260
+        }
+      ]
+    },
+    {
+      "id": "dDxwcnUK53M",
+      "segments": [
+        {
+          "text": "nsa *inspector* *general* and associated",
+          "location": 2216
+        },
+        {
+          "text": "house office of *inspector* *general* had",
+          "location": 2535
+        }
+      ]
+    },
+    {
+      "id": "dgq3HSm2erQ",
+      "segments": [
+        {
+          "text": "in this body and in the *general* public",
+          "location": 1329
+        },
+        {
+          "text": "the spec of the office of *inspector*",
+          "location": 1331
+        },
+        {
+          "text": "*general* is currently looking at the",
+          "location": 1334
+        },
+        {
+          "text": "in this body and in the *general* public",
+          "location": 1374
+        },
+        {
+          "text": "the spec of the office of *inspector*",
+          "location": 1376
+        },
+        {
+          "text": "*general* is currently looking at the",
+          "location": 1379
+        }
+      ]
+    },
+    {
+      "id": "dkM8045LNbE",
+      "segments": [
+        {
+          "text": "*inspector* *general* reports we've seen in",
+          "location": 1500
+        },
+        {
+          "text": "*inspector* *general*",
+          "location": 2662
+        }
+      ]
+    },
+    {
+      "id": "dTF780QtN4E",
+      "segments": [
+        {
+          "text": "*inspector* *general* michael horowitz also",
+          "location": 63
+        },
+        {
+          "text": "this and if the *inspector* *general* report",
+          "location": 896
+        },
+        {
+          "text": "when this *inspector* *general* report comes",
+          "location": 1952
+        },
+        {
+          "text": "don't care if the *inspector* *general*",
+          "location": 2145
+        },
+        {
+          "text": "not report on the *inspector* *general*",
+          "location": 2171
+        }
+      ]
+    },
+    {
+      "id": "dU0lvgrh6DQ",
+      "segments": [
+        {
+          "text": "*inspector*-*general* we will find out",
+          "location": 402
+        },
+        {
+          "text": "meetings and then this is the *inspector*",
+          "location": 629
+        },
+        {
+          "text": "*general* reporting it's like the live",
+          "location": 632
+        },
+        {
+          "text": "justice department *inspector* *general*",
+          "location": 943
+        },
+        {
+          "text": "attorney *general* letter loretta lynch",
+          "location": 1537
+        },
+        {
+          "text": "the invest *inspector* *general* michael",
+          "location": 1542
+        },
+        {
+          "text": "*inspector* *general* report release it",
+          "location": 1846
+        },
+        {
+          "text": "in cooperation with the *inspector*",
+          "location": 1969
+        },
+        {
+          "text": "*general* to review certain prosecutorial",
+          "location": 1971
+        },
+        {
+          "text": "*inspector* *general* horowitz on what was",
+          "location": 2763
+        }
+      ]
+    },
+    {
+      "id": "DVBzdQkRXWA",
+      "segments": [
+        {
+          "text": "asking the *inspector* *general* to",
+          "location": 619
+        },
+        {
+          "text": "isn't the *inspector* *general* and obama",
+          "location": 638
+        }
+      ]
+    },
+    {
+      "id": "EhJieMpQXss",
+      "segments": [
+        {
+          "text": "intelligence community *inspector* *general*",
+          "location": 291
+        },
+        {
+          "text": "the intelligence community *inspector*",
+          "location": 321
+        },
+        {
+          "text": "*general* chuck mcculloch having an",
+          "location": 323
+        },
+        {
+          "text": "*inspector* *general* chuck mcculloch sin is",
+          "location": 339
+        },
+        {
+          "text": "intelligence community *inspector* *general*",
+          "location": 496
+        },
+        {
+          "text": "community *inspector* *general* who did all",
+          "location": 536
+        },
+        {
+          "text": "community's *inspector* *general* and told",
+          "location": 788
+        },
+        {
+          "text": "the state department's *inspector* *general*",
+          "location": 840
+        },
+        {
+          "text": "*inspector* *general* and then there's a",
+          "location": 1858
+        },
+        {
+          "text": "*inspector* *general* that discovered the",
+          "location": 1880
+        },
+        {
+          "text": "intelligence community *inspector* *general*",
+          "location": 2115
+        }
+      ]
+    },
+    {
+      "id": "EKJBGDEHACI",
+      "segments": [
+        {
+          "text": "with the *inspector* *general* i still",
+          "location": 2082
+        },
+        {
+          "text": "*inspector* *general* uncovered those",
+          "location": 2144
+        }
+      ]
+    },
+    {
+      "id": "f5J1g1S6goc",
+      "segments": [
+        {
+          "text": "to congress or to an *inspector* *general*",
+          "location": 808
+        }
+      ]
+    },
+    {
+      "id": "f83TwcKnBp0",
+      "segments": [
+        {
+          "text": "the attorney you know the *inspector*",
+          "location": 355
+        },
+        {
+          "text": "*general* will you know whatever so i just",
+          "location": 357
+        },
+        {
+          "text": "because the *inspector* *general* report is",
+          "location": 792
+        },
+        {
+          "text": "*inspector* *general* of the united states",
+          "location": 818
+        },
+        {
+          "text": "we're going to get a decent *inspector*",
+          "location": 864
+        },
+        {
+          "text": "*general* report and because trump is",
+          "location": 866
+        },
+        {
+          "text": "attention off of the *inspector* *general*",
+          "location": 912
+        },
+        {
+          "text": "the *inspector* *general* stuff and i know i",
+          "location": 918
+        },
+        {
+          "text": "the *inspector* *general* report if it's",
+          "location": 928
+        }
+      ]
+    },
+    {
+      "id": "fElxhk6SPu0",
+      "segments": [
+        {
+          "text": "blows here's the deal this *inspector*",
+          "location": 2504
+        },
+        {
+          "text": "*general* is a moron when he wrote that",
+          "location": 2507
+        },
+        {
+          "text": "embarrassment to the *inspector* *general*",
+          "location": 2532
+        }
+      ]
+    },
+    {
+      "id": "FL5dULT3V94",
+      "segments": [
+        {
+          "text": "attorney *general* and also the *inspector*",
+          "location": 1247
+        },
+        {
+          "text": "*general* at the justice department are",
+          "location": 1249
+        }
+      ]
+    },
+    {
+      "id": "gsudyktd4fc",
+      "segments": [
+        {
+          "text": "*inspector* *general* of the department of",
+          "location": 983
+        },
+        {
+          "text": "15 18 the date that the doj *inspector*",
+          "location": 1764
+        },
+        {
+          "text": "*general* is expected to turn over 1.2",
+          "location": 1766
+        }
+      ]
+    },
+    {
+      "id": "GUGdEdeZudM",
+      "segments": [
+        {
+          "text": "conjunction with the *inspector* *general*",
+          "location": 812
+        }
+      ]
+    },
+    {
+      "id": "GYzjtOTWk-M",
+      "segments": [
+        {
+          "text": "i look to come out in the *inspector*",
+          "location": 403
+        },
+        {
+          "text": "*general* report but it's it's how he he",
+          "location": 405
+        },
+        {
+          "text": "*inspector* *general* is going to note these",
+          "location": 1432
+        }
+      ]
+    },
+    {
+      "id": "HJeWmOs9wws",
+      "segments": [
+        {
+          "text": "time of the *inspector* *general* report",
+          "location": 1071
+        },
+        {
+          "text": "claimed the *inspector* *general* report",
+          "location": 1085
+        },
+        {
+          "text": "talked about to the *inspector* *general*",
+          "location": 2410
+        }
+      ]
+    },
+    {
+      "id": "hT2dO3hM0RU",
+      "segments": [
+        {
+          "text": "that they're not expecting the *inspector*",
+          "location": 1245
+        },
+        {
+          "text": "*general* report until he said april june",
+          "location": 1248
+        }
+      ]
+    },
+    {
+      "id": "HtAF-S85w3o",
+      "segments": [
+        {
+          "text": "justice department's office of *inspector*",
+          "location": 1132
+        },
+        {
+          "text": "*general* struck and paige sent other text",
+          "location": 1134
+        }
+      ]
+    },
+    {
+      "id": "I0zqCx1naaM",
+      "segments": [
+        {
+          "text": "before *inspector* *general* michael",
+          "location": 817
+        },
+        {
+          "text": "information from the *inspector* *general*",
+          "location": 1348
+        },
+        {
+          "text": "*inspector* *general* and those get",
+          "location": 1374
+        },
+        {
+          "text": "*inspector* *general* of the intelligence",
+          "location": 1380
+        },
+        {
+          "text": "intelligence community *inspector* *general*",
+          "location": 1408
+        },
+        {
+          "text": "community *inspector* *general* chuck",
+          "location": 1479
+        },
+        {
+          "text": "intelligence community *inspector* *general*",
+          "location": 1495
+        },
+        {
+          "text": "the intelligence community *inspector*",
+          "location": 1691
+        },
+        {
+          "text": "*general* which then he warned fbi",
+          "location": 1693
+        }
+      ]
+    },
+    {
+      "id": "ibKILQFF3Hg",
+      "segments": [
+        {
+          "text": "that's not *inspector* *general* it's",
+          "location": 2831
+        }
+      ]
+    },
+    {
+      "id": "IiaKY5Ujz7o",
+      "segments": [
+        {
+          "text": "justice department *inspector* *general* to",
+          "location": 1353
+        },
+        {
+          "text": "this is in the *inspector* *general* report",
+          "location": 1734
+        }
+      ]
+    },
+    {
+      "id": "IMLdY9Nid_M",
+      "segments": [
+        {
+          "text": "the fisa report from the *inspector*",
+          "location": 1247
+        },
+        {
+          "text": "*general* supposed to come out i think",
+          "location": 1248
+        }
+      ]
+    },
+    {
+      "id": "imUQxYkMdMk",
+      "segments": [
+        {
+          "text": "with the *inspector* *general* grassley just",
+          "location": 259
+        }
+      ]
+    },
+    {
+      "id": "iwb8_ldGl0Q",
+      "segments": [
+        {
+          "text": "letter from the *inspector* *general* to the",
+          "location": 728
+        },
+        {
+          "text": "again michael horowitz the *inspector*",
+          "location": 779
+        },
+        {
+          "text": "*general* for the department of justice",
+          "location": 781
+        },
+        {
+          "text": "*inspector* *general* michael atkins",
+          "location": 880
+        },
+        {
+          "text": "community *inspector* *general* michael",
+          "location": 1261
+        }
+      ]
+    },
+    {
+      "id": "J8hdeaykViY",
+      "segments": [
+        {
+          "text": "and our *inspector* *general* is doing a",
+          "location": 303
+        },
+        {
+          "text": "have an *inspector* *general* has 500",
+          "location": 348
+        }
+      ]
+    },
+    {
+      "id": "JjZFIj6NXCc",
+      "segments": [
+        {
+          "text": "*inspector* *general* horowitz submits his",
+          "location": 10
+        },
+        {
+          "text": "*inspector* *general* ongoing examination of",
+          "location": 56
+        },
+        {
+          "text": "article about it's it's called *inspector*",
+          "location": 224
+        },
+        {
+          "text": "*general* horowitz is coming and he's got",
+          "location": 227
+        },
+        {
+          "text": "the *inspector* *general* had been delayed",
+          "location": 298
+        },
+        {
+          "text": "expect expect this next *inspector*",
+          "location": 422
+        },
+        {
+          "text": "*general* report to lay out in great",
+          "location": 425
+        },
+        {
+          "text": "the former *general* counsel of the fbi",
+          "location": 1445
+        },
+        {
+          "text": "cooperating with the *inspector* *general*",
+          "location": 1449
+        },
+        {
+          "text": "the *inspector* *general* huber i g horowitz",
+          "location": 1495
+        },
+        {
+          "text": "*inspector* general's on integrity and",
+          "location": 1566
+        },
+        {
+          "text": "all 73 federal inspectors *general* he's",
+          "location": 1570
+        },
+        {
+          "text": "*inspector* *general* for the national",
+          "location": 1622
+        },
+        {
+          "text": "of justice office of *inspector* *general*",
+          "location": 1639
+        },
+        {
+          "text": "rogers the nsa office of *inspector*",
+          "location": 1653
+        },
+        {
+          "text": "*general* works independently within the",
+          "location": 1655
+        },
+        {
+          "text": "*inspector* *general* signals intelligence",
+          "location": 1781
+        },
+        {
+          "text": "gonna have the report by the *inspector*",
+          "location": 1808
+        },
+        {
+          "text": "*general* and then durham will be able to",
+          "location": 1809
+        }
+      ]
+    },
+    {
+      "id": "jVpWkmxdXZw",
+      "segments": [
+        {
+          "text": "the *inspector* *general* for the",
+          "location": 243
+        }
+      ]
+    },
+    {
+      "id": "jXO0XeoKttw",
+      "segments": [
+        {
+          "text": "and put it in the hands of *inspector*",
+          "location": 2526
+        },
+        {
+          "text": "*general* horowitz and huber for right now",
+          "location": 2528
+        }
+      ]
+    },
+    {
+      "id": "K1GPxgU4GYc",
+      "segments": [
+        {
+          "text": "i'll give it to the *inspector* *general*",
+          "location": 1012
+        },
+        {
+          "text": "asks *inspector* *general* to review amid",
+          "location": 1095
+        },
+        {
+          "text": "*inspector* *general* i mean you can even",
+          "location": 1127
+        },
+        {
+          "text": "therefore the *inspector* *general* has been",
+          "location": 1153
+        },
+        {
+          "text": "say okay *inspector* *general* we don't need",
+          "location": 1209
+        },
+        {
+          "text": "okay i'll give it to the *inspector*",
+          "location": 1259
+        },
+        {
+          "text": "*general* to make sure it's not gonna",
+          "location": 1261
+        },
+        {
+          "text": "so it's still with the *inspector* *general*",
+          "location": 1267
+        },
+        {
+          "text": "together are gonna say no here *inspector*",
+          "location": 1272
+        },
+        {
+          "text": "*inspector* *general* hmm oh ig report will",
+          "location": 1419
+        }
+      ]
+    },
+    {
+      "id": "k5zAPe3j-P8",
+      "segments": [
+        {
+          "text": "to an *inspector* general's report after",
+          "location": 37
+        },
+        {
+          "text": "the house *inspector* *general* determined",
+          "location": 39
+        }
+      ]
+    },
+    {
+      "id": "kFOvXGMP19Y",
+      "segments": [
+        {
+          "text": "*inspector* *general* received ninety eight",
+          "location": 974
+        }
+      ]
+    },
+    {
+      "id": "ki5x7vPxw2k",
+      "segments": [
+        {
+          "text": "of justice *inspector* *general* just fired",
+          "location": 312
+        },
+        {
+          "text": "important part of the *inspector* *general*",
+          "location": 1721
+        }
+      ]
+    },
+    {
+      "id": "kI9qKn5aUQo",
+      "segments": [
+        {
+          "text": "*inspector* *general* report okay good luck",
+          "location": 1532
+        },
+        {
+          "text": "also after justice department *inspector*",
+          "location": 1634
+        },
+        {
+          "text": "*general* michael horowitz released a 5 a",
+          "location": 1636
+        }
+      ]
+    },
+    {
+      "id": "kNWM4qCBjFQ",
+      "segments": [
+        {
+          "text": "*inspector* *general* for reportedly lying",
+          "location": 185
+        },
+        {
+          "text": "wonder if they came from the *inspector*",
+          "location": 486
+        },
+        {
+          "text": "*general* like the missing okay i digress",
+          "location": 488
+        },
+        {
+          "text": "of office of *inspector* *general* micro",
+          "location": 765
+        },
+        {
+          "text": "*general* *inspector* *general* investigative",
+          "location": 783
+        },
+        {
+          "text": "and broaden the *general* public awareness",
+          "location": 801
+        },
+        {
+          "text": "why would *inspector* *general* horowitz",
+          "location": 804
+        }
+      ]
+    },
+    {
+      "id": "Ksvn8UI904Y",
+      "segments": [
+        {
+          "text": "justice *inspector* *general* with a",
+          "location": 1134
+        },
+        {
+          "text": "already been referred to humor *inspector*",
+          "location": 1206
+        },
+        {
+          "text": "*general* fines fbi doj broke law clinton",
+          "location": 1211
+        }
+      ]
+    },
+    {
+      "id": "L_AioX3MApk",
+      "segments": [
+        {
+          "text": "department of justice *inspector*",
+          "location": 101
+        },
+        {
+          "text": "general's report because this *inspector*",
+          "location": 103
+        },
+        {
+          "text": "*general* actually referred him himself",
+          "location": 104
+        }
+      ]
+    },
+    {
+      "id": "L6DFq19kCJE",
+      "segments": [
+        {
+          "text": "call *inspector* horwitz *inspector* *general*",
+          "location": 247
+        },
+        {
+          "text": "of *inspector* *general* michael horowitz",
+          "location": 1830
+        },
+        {
+          "text": "department *inspector* *general* michael",
+          "location": 2392
+        },
+        {
+          "text": "the *inspector* *general* has also raised",
+          "location": 2512
+        }
+      ]
+    },
+    {
+      "id": "LIlfhpscpJc",
+      "segments": [
+        {
+          "text": "investigative summary by *inspector*",
+          "location": 606
+        },
+        {
+          "text": "*general* horowitz back in january end of",
+          "location": 609
+        }
+      ]
+    },
+    {
+      "id": "LNwU2glC7us",
+      "segments": [
+        {
+          "text": "intelligence community *inspector* *general*",
+          "location": 1734
+        },
+        {
+          "text": "inside the *inspector* *general* for the",
+          "location": 1748
+        }
+      ]
+    },
+    {
+      "id": "Lud9cMxisCU",
+      "segments": [
+        {
+          "text": "findings by *inspector* *general* whore its",
+          "location": 2305
+        },
+        {
+          "text": "findings made by *inspector* *general*",
+          "location": 2325
+        },
+        {
+          "text": "fact made by the *inspector* *general* here",
+          "location": 2369
+        }
+      ]
+    },
+    {
+      "id": "LYiNW4p6mTc",
+      "segments": [
+        {
+          "text": "nsa *inspector* *general* and associated",
+          "location": 906
+        },
+        {
+          "text": "office of inspected of *inspector* *general*",
+          "location": 1253
+        },
+        {
+          "text": "appropriate to let the *inspector* *general*",
+          "location": 1544
+        },
+        {
+          "text": "the *inspector* *general* finds that i did",
+          "location": 1555
+        }
+      ]
+    },
+    {
+      "id": "mkyo0m45CBM",
+      "segments": [
+        {
+          "text": "ski *inspector* *general* signings of",
+          "location": 887
+        },
+        {
+          "text": "last night really a *general* bar attorney",
+          "location": 900
+        },
+        {
+          "text": "*general* has told his associates he",
+          "location": 906
+        },
+        {
+          "text": "*inspector* *general* on one key finding an",
+          "location": 909
+        },
+        {
+          "text": "bar is not accepting the *inspector*",
+          "location": 1319
+        },
+        {
+          "text": "russian investigation but the *inspector*",
+          "location": 1322
+        },
+        {
+          "text": "*general* did not investigate the origin",
+          "location": 1325
+        }
+      ]
+    },
+    {
+      "id": "MmaN6V7_U3w",
+      "segments": [
+        {
+          "text": "doj *inspector* *general* investigates",
+          "location": 1798
+        }
+      ]
+    },
+    {
+      "id": "msftou8Vxk8",
+      "segments": [
+        {
+          "text": "bias found by the *inspector* *general* then",
+          "location": 814
+        },
+        {
+          "text": "on by the *inspector* *general* now if you",
+          "location": 859
+        },
+        {
+          "text": "we know the *inspector* *general* found that",
+          "location": 2105
+        },
+        {
+          "text": "*inspector* *general* of the intelligence",
+          "location": 2718
+        },
+        {
+          "text": "filed a complaint with the *inspector*",
+          "location": 2761
+        },
+        {
+          "text": "*general* under penalty of perjury that",
+          "location": 2762
+        }
+      ]
+    },
+    {
+      "id": "mWXhdPz1L9o",
+      "segments": [
+        {
+          "text": "those in congress in the *inspector*",
+          "location": 225
+        },
+        {
+          "text": "the *inspector* *general* reported mr.",
+          "location": 231
+        },
+        {
+          "text": "*inspector* *general* investigation the",
+          "location": 245
+        },
+        {
+          "text": "*inspector* general's don't normally have",
+          "location": 253
+        },
+        {
+          "text": "caused the *inspector* *general* to have to",
+          "location": 2434
+        }
+      ]
+    },
+    {
+      "id": "MXdC-izUy0M",
+      "segments": [
+        {
+          "text": "the attorney *general* said is that he is",
+          "location": 996
+        },
+        {
+          "text": "with the *inspector* *general* within the",
+          "location": 1001
+        },
+        {
+          "text": "*inspector* *general* who has already made",
+          "location": 1029
+        },
+        {
+          "text": "combined the powers of the *inspector*",
+          "location": 1054
+        },
+        {
+          "text": "*general* with the powers of a line",
+          "location": 1056
+        },
+        {
+          "text": "the *inspector* *general* still has the",
+          "location": 1087
+        },
+        {
+          "text": "with the *inspector* *general* okay so now",
+          "location": 1233
+        },
+        {
+          "text": "*inspector* *general* horowitz and huber",
+          "location": 1270
+        },
+        {
+          "text": "*inspector* *general* email investigation",
+          "location": 1438
+        },
+        {
+          "text": "his at his grips through the *inspector*",
+          "location": 1588
+        },
+        {
+          "text": "doesn't have that *inspector* *general* does",
+          "location": 1596
+        },
+        {
+          "text": "the former *general* counsel of the fbi",
+          "location": 1792
+        },
+        {
+          "text": "cooperating with the *inspector* *general*",
+          "location": 1797
+        },
+        {
+          "text": "with the *inspector* *general* and with the",
+          "location": 1833
+        },
+        {
+          "text": "my name is rob storage i'm the *inspector*",
+          "location": 1854
+        },
+        {
+          "text": "*general* at the national security agency",
+          "location": 1856
+        }
+      ]
+    },
+    {
+      "id": "O08ze6jltco",
+      "segments": [
+        {
+          "text": "huber the *inspector* *general* horowitz",
+          "location": 61
+        }
+      ]
+    },
+    {
+      "id": "oDskmmkin4c",
+      "segments": [
+        {
+          "text": "located by the *inspector* *general* between",
+          "location": 700
+        },
+        {
+          "text": "the *inspector* *general* found them this is",
+          "location": 946
+        },
+        {
+          "text": "located by insert by *inspector* *general*",
+          "location": 962
+        }
+      ]
+    },
+    {
+      "id": "OSBqv2i2UOk",
+      "segments": [
+        {
+          "text": "the *inspector* *general* for the justice",
+          "location": 1808
+        },
+        {
+          "text": "*inspector* general's on integrity and",
+          "location": 1812
+        },
+        {
+          "text": "the council *inspector* *general* integrity",
+          "location": 1818
+        },
+        {
+          "text": "of all 73 federal *inspector* generals",
+          "location": 1823
+        },
+        {
+          "text": "inspectors *general* think yesterday what",
+          "location": 1827
+        },
+        {
+          "text": "the *inspector* *general* on chant integrity",
+          "location": 1887
+        },
+        {
+          "text": "to department info regarding *inspector*",
+          "location": 1960
+        },
+        {
+          "text": "general's huh counsel of *inspector*",
+          "location": 1962
+        },
+        {
+          "text": "*general* on integrity and efficiency yeah",
+          "location": 1965
+        },
+        {
+          "text": "efficiency *general* office in the in",
+          "location": 1981
+        },
+        {
+          "text": "*inspector* *inspector* *general* whose",
+          "location": 1989
+        },
+        {
+          "text": "or section 8 g of the *inspector* jet",
+          "location": 1995
+        },
+        {
+          "text": "*inspector* *general* investigator remember",
+          "location": 2031
+        },
+        {
+          "text": "is working *inspector* *general* - *inspector*",
+          "location": 2208
+        },
+        {
+          "text": "*general* which is awesome k 2011 is rod",
+          "location": 2211
+        }
+      ]
+    },
+    {
+      "id": "OZE1KEtsqaM",
+      "segments": [
+        {
+          "text": "department *inspector* *general* sent a",
+          "location": 881
+        }
+      ]
+    },
+    {
+      "id": "p_8uD_4uX_0",
+      "segments": [
+        {
+          "text": "course the *inspector* general's report on",
+          "location": 224
+        },
+        {
+          "text": "attorney-*general* that will look into",
+          "location": 229
+        },
+        {
+          "text": "department of justice's *inspector*",
+          "location": 644
+        },
+        {
+          "text": "*general* fearing its investigation of",
+          "location": 646
+        },
+        {
+          "text": "*inspector* *general* michael horowitz who",
+          "location": 1113
+        },
+        {
+          "text": "obtained that the *inspector* *general* had",
+          "location": 1158
+        },
+        {
+          "text": "justice *inspector* *general* fearing its",
+          "location": 1214
+        },
+        {
+          "text": "think that the *inspector* *general* had",
+          "location": 1283
+        },
+        {
+          "text": "to the *inspector* *general* now this to me",
+          "location": 1300
+        },
+        {
+          "text": "*inspector* *general* report this week",
+          "location": 1345
+        },
+        {
+          "text": "because now the *inspector* *general* has",
+          "location": 1347
+        }
+      ]
+    },
+    {
+      "id": "P-_5KJ5EauM",
+      "segments": [
+        {
+          "text": "get a feeling are the *inspector* *general*",
+          "location": 54
+        },
+        {
+          "text": "*inspector* *general* will declare fbi doj",
+          "location": 1521
+        },
+        {
+          "text": "*inspector* *general* will declare fbi doj",
+          "location": 1621
+        },
+        {
+          "text": "*inspector* *general* report may rule that",
+          "location": 1631
+        }
+      ]
+    },
+    {
+      "id": "p5nZX-r7On4",
+      "segments": [
+        {
+          "text": "began and all of a sudden the *inspector*",
+          "location": 1967
+        },
+        {
+          "text": "*general* was like here's peter struck and",
+          "location": 1971
+        }
+      ]
+    },
+    {
+      "id": "pbPqTtqMTUQ",
+      "segments": [
+        {
+          "text": "intelligence community *inspector* *general*",
+          "location": 15
+        },
+        {
+          "text": "this is the *inspector* *general*",
+          "location": 35
+        },
+        {
+          "text": "community *inspector* *general* michael",
+          "location": 52
+        },
+        {
+          "text": "doj *inspector* *general* michael horowitz",
+          "location": 513
+        },
+        {
+          "text": "intelligence community *inspector* *general*",
+          "location": 736
+        },
+        {
+          "text": "of us interviewing the *inspector* *general*",
+          "location": 940
+        },
+        {
+          "text": "community *inspector* *general* and his",
+          "location": 1869
+        },
+        {
+          "text": "*inspector* *general* that discovered the",
+          "location": 1951
+        },
+        {
+          "text": "the intelligence community *inspector*",
+          "location": 2245
+        },
+        {
+          "text": "*general* chuck mcculloch having an",
+          "location": 2248
+        },
+        {
+          "text": "the intelligence community *inspector*",
+          "location": 2262
+        },
+        {
+          "text": "*general* chuck mcculloch sina's",
+          "location": 2264
+        },
+        {
+          "text": "the original *inspector* *general* that",
+          "location": 2457
+        }
+      ]
+    },
+    {
+      "id": "PHjE6wH3OB0",
+      "segments": [
+        {
+          "text": "*inspector* *general* michael horowitz will",
+          "location": 2418
+        }
+      ]
+    },
+    {
+      "id": "pMWD6H6J6XE",
+      "segments": [
+        {
+          "text": "mean the *inspector* *general* report by",
+          "location": 253
+        },
+        {
+          "text": "operator right right the *inspector*",
+          "location": 259
+        }
+      ]
+    },
+    {
+      "id": "pZMOu5AGars",
+      "segments": [
+        {
+          "text": "probably until we get the *inspector*",
+          "location": 81
+        },
+        {
+          "text": "*general* report and i have a couple",
+          "location": 84
+        },
+        {
+          "text": "*inspector* *general* report well i know",
+          "location": 116
+        },
+        {
+          "text": "*inspector* *general* report about the fb",
+          "location": 131
+        },
+        {
+          "text": "including doj *inspector* *general* michael",
+          "location": 230
+        },
+        {
+          "text": "we're going to get the *inspector* *general*",
+          "location": 909
+        },
+        {
+          "text": "what's coming up for the *inspector*",
+          "location": 1388
+        },
+        {
+          "text": "*general* what we can expect and that um",
+          "location": 1390
+        },
+        {
+          "text": "already have to the *inspector* *general* we",
+          "location": 1428
+        }
+      ]
+    },
+    {
+      "id": "QcA3NVCYYWM",
+      "segments": [
+        {
+          "text": "*inspector* *general* report released in",
+          "location": 688
+        },
+        {
+          "text": "the defense department *inspector* *general*",
+          "location": 2108
+        }
+      ]
+    },
+    {
+      "id": "QfabmC75wZo",
+      "segments": [
+        {
+          "text": "*inspector* *general* report very shortly",
+          "location": 692
+        }
+      ]
+    },
+    {
+      "id": "qfvttt2-pD4",
+      "segments": [
+        {
+          "text": "were 18 the 18th was the *inspector*",
+          "location": 2557
+        },
+        {
+          "text": "*general* of the intelligence community",
+          "location": 2559
+        },
+        {
+          "text": "filed a complaint with the *inspector*",
+          "location": 2601
+        },
+        {
+          "text": "*general*",
+          "location": 2603
+        },
+        {
+          "text": "don't have is the *inspector* *general* that",
+          "location": 2634
+        }
+      ]
+    },
+    {
+      "id": "QI-R7580Rsg",
+      "segments": [
+        {
+          "text": "clinton foundation and the *inspector*",
+          "location": 466
+        },
+        {
+          "text": "*general* was like ah he did that for his",
+          "location": 468
+        },
+        {
+          "text": "*inspector* *general* horowitz this is june",
+          "location": 537
+        },
+        {
+          "text": "dear *inspector* *general* horowitz this is",
+          "location": 544
+        },
+        {
+          "text": "grassley - *inspector* *general* horowitz on",
+          "location": 551
+        },
+        {
+          "text": "release the *inspector* *general* report",
+          "location": 966
+        },
+        {
+          "text": "it if we and if we get a lame *inspector*",
+          "location": 978
+        },
+        {
+          "text": "*general* report which i don't expect that",
+          "location": 980
+        },
+        {
+          "text": "praying that that the *inspector* *general*",
+          "location": 997
+        }
+      ]
+    },
+    {
+      "id": "QREPrbHU5hE",
+      "segments": [
+        {
+          "text": "department of justice doj *inspector*",
+          "location": 614
+        },
+        {
+          "text": "*general* report on how the fbi handled",
+          "location": 617
+        }
+      ]
+    },
+    {
+      "id": "qTxF4G8Pv6k",
+      "segments": [
+        {
+          "text": "*inspector* *general* report coming so",
+          "location": 1630
+        },
+        {
+          "text": "been released to any of the *inspector*",
+          "location": 2208
+        },
+        {
+          "text": "*general* it might just be stuff the nsa",
+          "location": 2210
+        }
+      ]
+    },
+    {
+      "id": "R6Bn5Eb7KFQ",
+      "segments": [
+        {
+          "text": "more on that *inspector* *general* report in",
+          "location": 485
+        }
+      ]
+    },
+    {
+      "id": "RnnD5KWqURk",
+      "segments": [
+        {
+          "text": "classy here's the *inspector* *general*",
+          "location": 401
+        }
+      ]
+    },
+    {
+      "id": "RoXwhmL6yk8",
+      "segments": [
+        {
+          "text": "justice department's *inspector* *general*",
+          "location": 789
+        }
+      ]
+    },
+    {
+      "id": "rYLOgFQPEZE",
+      "segments": [
+        {
+          "text": "james baker the former *general* counsel",
+          "location": 872
+        },
+        {
+          "text": "*inspector* *general* and with the federal",
+          "location": 879
+        }
+      ]
+    },
+    {
+      "id": "scnr8t3L4Wk",
+      "segments": [
+        {
+          "text": "community *inspector* *general* atkinson",
+          "location": 1326
+        }
+      ]
+    },
+    {
+      "id": "stNCvaIyjXA",
+      "segments": [
+        {
+          "text": "*inspector* *general* michael horowitz",
+          "location": 232
+        },
+        {
+          "text": "the other day the *inspector* *general* is",
+          "location": 246
+        },
+        {
+          "text": "i've given it to my *inspector* *general*",
+          "location": 287
+        },
+        {
+          "text": "*inspector* *general* horowitz okay and",
+          "location": 1299
+        },
+        {
+          "text": "gate *inspector* *general* horowitz and etc",
+          "location": 1325
+        }
+      ]
+    },
+    {
+      "id": "t8qFpNI6yEM",
+      "segments": [
+        {
+          "text": "coincidence that the *inspector* *general*",
+          "location": 409
+        }
+      ]
+    },
+    {
+      "id": "tdiYCDXpk6I",
+      "segments": [
+        {
+          "text": "*inspector* *general* to the intelligence",
+          "location": 156
+        }
+      ]
+    },
+    {
+      "id": "TQha2IMjYBA",
+      "segments": [
+        {
+          "text": "the intelligence community *inspector*",
+          "location": 133
+        },
+        {
+          "text": "*general* chuck mcculloch have an",
+          "location": 136
+        },
+        {
+          "text": "the intelligence community *inspector*",
+          "location": 150
+        },
+        {
+          "text": "*general* chuck mcculloch sina's",
+          "location": 152
+        },
+        {
+          "text": "for the intelligence community *inspector*",
+          "location": 367
+        },
+        {
+          "text": "*general* told congress that this email",
+          "location": 368
+        },
+        {
+          "text": "justice *inspector* *general* report",
+          "location": 471
+        },
+        {
+          "text": "doj *inspector* *general* the truth is",
+          "location": 2158
+        },
+        {
+          "text": "it also means pressure on the *inspector*",
+          "location": 2297
+        },
+        {
+          "text": "*general* to release the ig report on",
+          "location": 2300
+        },
+        {
+          "text": "*inspector* *general* carve-out report",
+          "location": 2306
+        },
+        {
+          "text": "answered within the pending *inspector*",
+          "location": 2429
+        },
+        {
+          "text": "*general* report there's a lot of sketchy",
+          "location": 2431
+        }
+      ]
+    },
+    {
+      "id": "TqjbXClcNjs",
+      "segments": [
+        {
+          "text": "army no huber no that's *inspector*",
+          "location": 332
+        },
+        {
+          "text": "*general* horowitz horowitz has four",
+          "location": 336
+        },
+        {
+          "text": "horowitz the *inspector* *general* who was",
+          "location": 402
+        },
+        {
+          "text": "horowitz *inspector* *general* mandate to",
+          "location": 404
+        },
+        {
+          "text": "let's see the *inspector* *general* it just",
+          "location": 2308
+        }
+      ]
+    },
+    {
+      "id": "Ts1U1iWq5w0",
+      "segments": [
+        {
+          "text": "remember that 3360 *inspector* *general*",
+          "location": 1870
+        },
+        {
+          "text": "*inspector* *general* report he says worth",
+          "location": 1902
+        },
+        {
+          "text": "disappointed with when the *inspector*",
+          "location": 1933
+        },
+        {
+          "text": "*general* report was released right but",
+          "location": 1936
+        },
+        {
+          "text": "the *inspector* *general* touched on the",
+          "location": 1948
+        },
+        {
+          "text": "that it was the *inspector* *general*",
+          "location": 2398
+        }
+      ]
+    },
+    {
+      "id": "TXWLPzYNjgs",
+      "segments": [
+        {
+          "text": "*inspector* *general* report is 1.2 million",
+          "location": 2285
+        }
+      ]
+    },
+    {
+      "id": "tYCL2clTy7k",
+      "segments": [
+        {
+          "text": "see in you know the first *inspector*",
+          "location": 917
+        },
+        {
+          "text": "*general* of the nsa etc as well as",
+          "location": 920
+        }
+      ]
+    },
+    {
+      "id": "U8-rksGOIKw",
+      "segments": [
+        {
+          "text": "and the office of *inspector* *general* are",
+          "location": 80
+        },
+        {
+          "text": "*inspector* *general* and he says a former",
+          "location": 450
+        },
+        {
+          "text": "michael horowitz who is the *inspector*",
+          "location": 518
+        },
+        {
+          "text": "*general* and who has a lot of experience",
+          "location": 521
+        },
+        {
+          "text": "other *inspector* *general* investigation",
+          "location": 635
+        }
+      ]
+    },
+    {
+      "id": "Uh397S0AxoM",
+      "segments": [
+        {
+          "text": "office of the *inspector* *general* us",
+          "location": 1641
+        },
+        {
+          "text": "doj oh i g offer *inspector* *general*",
+          "location": 1647
+        }
+      ]
+    },
+    {
+      "id": "UhgdWME2v0w",
+      "segments": [
+        {
+          "text": "*inspector* *general* that the department",
+          "location": 2472
+        }
+      ]
+    },
+    {
+      "id": "UJ7YySYLIPA",
+      "segments": [
+        {
+          "text": "you know we know the *inspector* *general*",
+          "location": 1646
+        }
+      ]
+    },
+    {
+      "id": "uoZG3XG7t0k",
+      "segments": [
+        {
+          "text": "cuber the *inspector* *general* and us",
+          "location": 1731
+        },
+        {
+          "text": "all of this including the *inspector*",
+          "location": 2154
+        },
+        {
+          "text": "*general* is taking care of some of it",
+          "location": 2156
+        },
+        {
+          "text": "the *inspector* *general* something that our",
+          "location": 2217
+        },
+        {
+          "text": "*inspector* *general* is not very strong but",
+          "location": 2220
+        },
+        {
+          "text": "*inspector* *general* wouldn't have the same",
+          "location": 2244
+        },
+        {
+          "text": "possible the *inspector* *general* actually",
+          "location": 2306
+        }
+      ]
+    },
+    {
+      "id": "urKkOdgMzIs",
+      "segments": [
+        {
+          "text": "there's an *inspector* *general* report",
+          "location": 569
+        }
+      ]
+    },
+    {
+      "id": "uwW6MeAvOQE",
+      "segments": [
+        {
+          "text": "concluded consistent with the *inspector*",
+          "location": 1027
+        },
+        {
+          "text": "*general* act and other applicable federal",
+          "location": 1029
+        }
+      ]
+    },
+    {
+      "id": "VaFOU9dVE7k",
+      "segments": [
+        {
+          "text": "the *inspector* *general* for odie and i",
+          "location": 2126
+        }
+      ]
+    },
+    {
+      "id": "vwEYKWtzgJE",
+      "segments": [
+        {
+          "text": "*inspector* *general* and passed on to huber",
+          "location": 449
+        },
+        {
+          "text": "on between the *inspector* *general* and the",
+          "location": 465
+        },
+        {
+          "text": "and the *inspector* *general* every you know",
+          "location": 517
+        },
+        {
+          "text": "*inspector* *general* michael horowitz",
+          "location": 2132
+        }
+      ]
+    },
+    {
+      "id": "Vz6_nf_Sav4",
+      "segments": [
+        {
+          "text": "reviews of the *inspector* *general* report",
+          "location": 696
+        }
+      ]
+    },
+    {
+      "id": "W4IXATAA-HI",
+      "segments": [
+        {
+          "text": "*inspector* *general* michael horowitz was",
+          "location": 309
+        },
+        {
+          "text": "attorney *general* jericho eric holder",
+          "location": 326
+        },
+        {
+          "text": "limitations on the *inspector* general's",
+          "location": 331
+        },
+        {
+          "text": "*inspector* *general* back in 2015 to have",
+          "location": 521
+        },
+        {
+          "text": "changing the way the *inspector* *general*",
+          "location": 552
+        },
+        {
+          "text": "the *inspector* *general* all the way back",
+          "location": 573
+        },
+        {
+          "text": "every *inspector* *general* and our",
+          "location": 601
+        },
+        {
+          "text": "*inspector* *general* empowerment act the",
+          "location": 651
+        },
+        {
+          "text": "*inspector*-*general* empowerment act into",
+          "location": 664
+        }
+      ]
+    },
+    {
+      "id": "W4vxQB8tpDI",
+      "segments": [
+        {
+          "text": "the us defense department *inspector*",
+          "location": 175
+        },
+        {
+          "text": "*general* to investigate the nsa for",
+          "location": 177
+        },
+        {
+          "text": "defense *inspector* *general* about the",
+          "location": 207
+        }
+      ]
+    },
+    {
+      "id": "WGuSyYujJCg",
+      "segments": [
+        {
+          "text": "*inspector* *general* for the united states",
+          "location": 709
+        },
+        {
+          "text": "department of justice *inspector* *general*",
+          "location": 730
+        },
+        {
+          "text": "public that the office of *inspector*",
+          "location": 742
+        },
+        {
+          "text": "*general* will initiate a review of",
+          "location": 745
+        },
+        {
+          "text": "under section 8 e of the *inspector*",
+          "location": 760
+        },
+        {
+          "text": "*general* act the review will examine the",
+          "location": 761
+        },
+        {
+          "text": "well the *inspector* general's",
+          "location": 797
+        },
+        {
+          "text": "see what the *inspector* *general* says and",
+          "location": 800
+        }
+      ]
+    },
+    {
+      "id": "WTLpneg-TiE",
+      "segments": [
+        {
+          "text": "the *inspector* *general* some time to",
+          "location": 350
+        },
+        {
+          "text": "department's office of the *inspector*",
+          "location": 1105
+        },
+        {
+          "text": "*general* has been instructed to",
+          "location": 1106
+        },
+        {
+          "text": "release therefore the *inspector* *general*",
+          "location": 1724
+        }
+      ]
+    },
+    {
+      "id": "wyDr_3phD6A",
+      "segments": [
+        {
+          "text": "formerly the *inspector* *general* of the",
+          "location": 1966
+        },
+        {
+          "text": "independent role as *inspector* *general*",
+          "location": 1975
+        },
+        {
+          "text": "edwards was a compromised *inspector*",
+          "location": 1992
+        },
+        {
+          "text": "*general* who was not exercising real",
+          "location": 1994
+        },
+        {
+          "text": "subcommittee found that dhs *inspector*",
+          "location": 2698
+        },
+        {
+          "text": "*general* was influenced in his review of",
+          "location": 2699
+        }
+      ]
+    },
+    {
+      "id": "WyFwfxjVmHU",
+      "segments": [
+        {
+          "text": "informed the chairman that *inspector*",
+          "location": 553
+        },
+        {
+          "text": "*general* michael horowitz who was working",
+          "location": 554
+        },
+        {
+          "text": "meeting with ig which *inspector* *general*",
+          "location": 931
+        },
+        {
+          "text": "the *inspector* *general* the ig of the",
+          "location": 938
+        }
+      ]
+    },
+    {
+      "id": "X7XMlZzPn_g",
+      "segments": [
+        {
+          "text": "*inspector* *general* of the vatican police",
+          "location": 210
+        },
+        {
+          "text": "dr. domenico gianni the *inspector*",
+          "location": 234
+        },
+        {
+          "text": "*general* of the vatican's police instead",
+          "location": 237
+        }
+      ]
+    },
+    {
+      "id": "x9YqAiZo7jE",
+      "segments": [
+        {
+          "text": "hand-picked *inspector* *general*",
+          "location": 185
+        }
+      ]
+    },
+    {
+      "id": "XCwr86ol3Oo",
+      "segments": [
+        {
+          "text": "james baker the former *general* counsel",
+          "location": 1981
+        },
+        {
+          "text": "*inspector* *general* and with the federal",
+          "location": 1988
+        }
+      ]
+    },
+    {
+      "id": "XddDHRwCA6Q",
+      "segments": [
+        {
+          "text": "james baker the former *general* counsel",
+          "location": 193
+        },
+        {
+          "text": "*inspector* *general* and with the federal",
+          "location": 200
+        },
+        {
+          "text": "cooperating with the *inspector* *general*",
+          "location": 738
+        },
+        {
+          "text": "therefore the *inspector* *general* has been",
+          "location": 1951
+        }
+      ]
+    },
+    {
+      "id": "XEDGXGXKsPk",
+      "segments": [
+        {
+          "text": "that's gonna be the *inspector* *general* of",
+          "location": 1561
+        },
+        {
+          "text": "the house yeah it's a separate *inspector*",
+          "location": 1563
+        },
+        {
+          "text": "*general* so *inspector* *general* the house",
+          "location": 1566
+        },
+        {
+          "text": "deal request why *inspector* *general* huber",
+          "location": 1999
+        },
+        {
+          "text": "request why because the *inspector*",
+          "location": 2142
+        },
+        {
+          "text": "*general* and huber were working on it",
+          "location": 2145
+        },
+        {
+          "text": "*inspector* *general* has been doing the",
+          "location": 2313
+        },
+        {
+          "text": "*inspector* *general* report for public",
+          "location": 2507
+        },
+        {
+          "text": "justice *inspector* *general* report for",
+          "location": 2558
+        }
+      ]
+    },
+    {
+      "id": "XEVieVy5tA0",
+      "segments": [
+        {
+          "text": "the combatant commands the *inspector*",
+          "location": 1367
+        },
+        {
+          "text": "*general* of the department of defense and",
+          "location": 1369
+        }
+      ]
+    },
+    {
+      "id": "xLY5r0jjR9Y",
+      "segments": [
+        {
+          "text": "intelligence community *inspector* *general*",
+          "location": 917
+        }
+      ]
+    },
+    {
+      "id": "xU16fgjFWek",
+      "segments": [
+        {
+          "text": "*general* stuff jeff sessions asking the",
+          "location": 721
+        },
+        {
+          "text": "*inspector* *general* horowitz to",
+          "location": 723
+        },
+        {
+          "text": "well you know the the ig the *inspector*",
+          "location": 955
+        },
+        {
+          "text": "*general* who's begun this investigation",
+          "location": 958
+        },
+        {
+          "text": "sessions and the *inspector* *general*",
+          "location": 1274
+        },
+        {
+          "text": "lots of controversy around the *inspector*",
+          "location": 1281
+        },
+        {
+          "text": "*general* you got to remember something",
+          "location": 1283
+        },
+        {
+          "text": "*inspector*-*general* horowitz i know all",
+          "location": 1353
+        },
+        {
+          "text": "piece right now on *inspector* *general*",
+          "location": 1489
+        },
+        {
+          "text": "february doj *inspector* *general* michael",
+          "location": 1510
+        },
+        {
+          "text": "greatest *inspector* *general* in us history",
+          "location": 1515
+        },
+        {
+          "text": "something *inspector* *general* say obama",
+          "location": 1525
+        },
+        {
+          "text": "independent *inspector* *general*",
+          "location": 1539
+        },
+        {
+          "text": "read but between *inspector* *general* trey",
+          "location": 1547
+        },
+        {
+          "text": "*inspector* *general* investigate oh yeah i",
+          "location": 1567
+        },
+        {
+          "text": "of inspectors *general* with a memo so it",
+          "location": 1577
+        },
+        {
+          "text": "infected all odd state *inspector*",
+          "location": 1580
+        },
+        {
+          "text": "*inspector* *general* as well and you can",
+          "location": 1584
+        },
+        {
+          "text": "i think the *inspector* *general* was",
+          "location": 1783
+        },
+        {
+          "text": "*inspector* *general* review of fisa court",
+          "location": 1890
+        },
+        {
+          "text": "attention to the *inspector* *general*",
+          "location": 1925
+        },
+        {
+          "text": "has to go to *inspector* *general* or a",
+          "location": 1934
+        },
+        {
+          "text": "*inspector* *general* horror with is already",
+          "location": 2014
+        },
+        {
+          "text": "doj *inspector* *general* michael horowitz",
+          "location": 2066
+        },
+        {
+          "text": "*inspector* *general* reports coming and",
+          "location": 2109
+        },
+        {
+          "text": "*inspector* *general* and he keeps picking",
+          "location": 2176
+        }
+      ]
+    },
+    {
+      "id": "XWrKp_tL4VE",
+      "segments": [
+        {
+          "text": "the former *general* counsel of the fbi",
+          "location": 229
+        },
+        {
+          "text": "cooperating with the *inspector* *general*",
+          "location": 234
+        },
+        {
+          "text": "*general* counsel the fbi as turns has",
+          "location": 409
+        },
+        {
+          "text": "cooperating with who the *inspector*",
+          "location": 413
+        },
+        {
+          "text": "*general* and with the federal grand jury",
+          "location": 416
+        },
+        {
+          "text": "*inspector* *general* but who hoover can and",
+          "location": 421
+        },
+        {
+          "text": "*inspector* *general* michael horowitz in",
+          "location": 867
+        }
+      ]
+    },
+    {
+      "id": "yqgU3coXHpY",
+      "segments": [
+        {
+          "text": "trey gowdy sent *inspector* *general* whore",
+          "location": 576
+        },
+        {
+          "text": "honorable michael horowitz *inspector*",
+          "location": 635
+        },
+        {
+          "text": "*general* the us department of justice it",
+          "location": 636
+        }
+      ]
+    },
+    {
+      "id": "YW7MVkX9o_Q",
+      "segments": [
+        {
+          "text": "coleman is remembering the *inspector*",
+          "location": 806
+        },
+        {
+          "text": "*general* report where it was noted crimes",
+          "location": 808
+        },
+        {
+          "text": "department justice *inspector* *general*",
+          "location": 837
+        },
+        {
+          "text": "matters them directly asked *inspector*",
+          "location": 1042
+        },
+        {
+          "text": "*general* horowitz whether the two",
+          "location": 1044
+        },
+        {
+          "text": "reported nevertheless the *inspector*",
+          "location": 1054
+        },
+        {
+          "text": "*general* refused the reply so it's not",
+          "location": 1055
+        }
+      ]
+    },
+    {
+      "id": "z2yDHKVsLqg",
+      "segments": [
+        {
+          "text": "most well that the *inspector* *general*",
+          "location": 1093
+        },
+        {
+          "text": "*inspector* *general* report details 17",
+          "location": 1103
+        },
+        {
+          "text": "the way the *inspector* *general* michael",
+          "location": 1112
+        },
+        {
+          "text": "example the *inspector* *general* uncovered",
+          "location": 1118
+        },
+        {
+          "text": "get a wiretap by the way the *inspector*",
+          "location": 1187
+        },
+        {
+          "text": "*general* report also talks about so let",
+          "location": 1190
+        },
+        {
+          "text": "you can't say oh the the *inspector*",
+          "location": 1428
+        },
+        {
+          "text": "*general* report was a nothing burger yeah",
+          "location": 1430
+        }
+      ]
+    },
+    {
+      "id": "zEBIukow088",
+      "segments": [
+        {
+          "text": "*inspector* *general* is doing at the",
+          "location": 89
+        },
+        {
+          "text": "by the *inspector* *general* who at that",
+          "location": 1405
+        }
+      ]
+    },
+    {
+      "id": "Zjr-J3FOvek",
+      "segments": [
+        {
+          "text": "*inspector* *general* michael horowitz",
+          "location": 32
+        },
+        {
+          "text": "*inspector* *general* has examined thousands",
+          "location": 94
+        },
+        {
+          "text": "prosecute the *inspector* *general* doesn't",
+          "location": 221
+        },
+        {
+          "text": "*inspector* *general* there to answer our",
+          "location": 269
+        },
+        {
+          "text": "by the *inspector* *general* he does have",
+          "location": 316
+        },
+        {
+          "text": "referrals for the *inspector* *general* can",
+          "location": 321
+        },
+        {
+          "text": "matters beyond what the *inspector*",
+          "location": 371
+        },
+        {
+          "text": "*general* does all right we'll talk more",
+          "location": 373
+        },
+        {
+          "text": "the cue ssin so in saying *inspector*",
+          "location": 398
+        },
+        {
+          "text": "*general* michael horowitz has found",
+          "location": 402
+        },
+        {
+          "text": "*inspector* *general* referred andrew mccabe",
+          "location": 729
+        },
+        {
+          "text": "*inspector* *general* oh ig has referred",
+          "location": 736
+        }
+      ]
+    },
+    {
+      "id": "zUCswDyNLsk",
+      "segments": [
+        {
+          "text": "of the andy mccabe *inspector* *general*",
+          "location": 612
+        },
+        {
+          "text": "report so the *inspector* *general* had",
+          "location": 615
+        }
+      ]
+    },
+    {
+      "id": "zvCofZWMmuc",
+      "segments": [
+        {
+          "text": "*inspector* *general* report but it's 250 or",
+          "location": 2550
+        }
+      ]
+    },
+    {
+      "id": "zWP_ImZu2zg",
+      "segments": [
+        {
+          "text": "michael atkinson who's the *inspector*",
+          "location": 2592
+        },
+        {
+          "text": "*general* of the intelligence community",
+          "location": 2593
+        }
+      ]
+    },
+    {
+      "id": "ZzpP6lcBjsY",
+      "segments": [
+        {
+          "text": "*inspector* *general* that's *inspector*",
+          "location": 50
+        },
+        {
+          "text": "*general* horowitz was informed that the",
+          "location": 52
+        },
+        {
+          "text": "justice department *inspector* *general*",
+          "location": 256
+        },
+        {
+          "text": "director doj *inspector* *general* michael",
+          "location": 316
+        },
+        {
+          "text": "know about this *inspector* *general*",
+          "location": 610
+        }
+      ]
+    }
+  ]
+}

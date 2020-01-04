@@ -1,0 +1,30 @@
+{
+  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI",
+  "topic": "China",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "hO2yFcDbiso",
+      "segments": [
+        {
+          "text": "making 10 cents an hour in *china* - to",
+          "location": 337
+        },
+        {
+          "text": "games over in wuhan *china* and what we q",
+          "location": 1913
+        }
+      ]
+    },
+    {
+      "id": "LYi9ICll9Rg",
+      "segments": [
+        {
+          "text": "she didn't say that to japan or *china*",
+          "location": 369
+        }
+      ]
+    }
+  ]
+}

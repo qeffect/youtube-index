@@ -1,0 +1,3857 @@
+{
+  "indexed": "_0GMW9eop3Q,_0k8gf2hqT8,_3Rl1KrDzlc,_9rpHbIpjdc,_c3-w-w0hd8,_gjH2umHAGw,_RmutDWSGgw,_xRwk1GDCtc,_xXAzbpQxCk,_Y32fnAp_mE,-_D0oq02HRY,-2V-Fidbe4Q,-fBcMRleHJs,-lj5lbMIt9w,-uo9Q6D8210,-WTkkUEgMpA,-wX2rOP6ktI,-x009HbyeMM,0DszWULPnJA,0kSVAa_BmU4,0Rg0lwnxdYA,0RnrwLJ2YB8,0UsEdqoi-uo,0v_9_7NQe7o,0ZQpgASg94o,12UHF03bxqg,12UIMLvh03M,14DEr87tKSc,14goSb7_h8k,188yfjWBsKM,1feiLSIDxzA,1G4XAByqwdc,1IBdXdpMtSQ,1KbA5wwl5iA,1mxwUYRqCLc,1qxksXmFHOw,1Sh9FkZ0Z_M,1WLIn7en9pQ,1ztx8JOWikU,21_5KACaBAA,246yVwb5diI,29I9Zl0qTFQ,2B6uuN4h5To,2B8vstdpb9Y,2hwzvqyTWk0,2kcXiFrNxu8,2KlWnWIW9es,2KpDBlqtvh4,2MJZ9NDs3EY,2nHvxV92Fo8,2NXqxp8mQmI,2Q3ooMM1qAA,2rguDK_EFjs,2VvxKYycSTA,2z1u4f9qxSk,3__6oQQBx4U,366ELkY8w8c,3anaRM4cxWc,3cNC-TuFKTM,3DT04vReamc,3hTjnoctYb8,3in8rDn_GiU,3iNDtYv3ogU,3inrKG1TPqA,3JpE_sVAXtI,3mBJwCIqEp4,3mZH_LNF6QM,3QHT8IoCibY,3QPQ-gJQDio,43l56zl36nA,46EzIkcqsf8,4aeInV5RoBU,4IELe4HKwW8,4krKjHMPsg4,4l3InNocQok,4L5tYESX97M,4pRyUnOoG4k,4QBY4MC9H4A,4reDYsbFjIA,4SVOSBqdzh4,4V_km03gzkc,4Vg0iy8-V8U,4wnZSd3XIrs,5A6dZwdwTxA,5aclmTHqG3Y,5dLvEB_CqP0,5FndfbwFaR4,5GkDWQBxE_Y,5i-ZMBE5r80,5LnqJOG082k,5msn1xthpVw,5OD8QdsbiDU,5teFvGwE9Ec,5tLVsNwlo4E,5ZV3UJmN3j4,5zwSaKW2qzA,6__xoin6aw8,639Gc3bX0Hs,68Bl7RbXS2A,6dPlpdME9bA,6gP2Zh2J4lU,6T7oPFcotQ8,6VOzbo_Xzcs,6vu4aiDJlLI,6ZRbp3qcQWw,77KCplrOQIs,77xVpKuEWnc,79lRgwEbfHQ,7BjNpnHLRlg,7dUatd4L2_I,7HkSIcIUJEI,7KyRGYh74yM,7nBOtseGsvM,7PPE5IfAS8Q,7uKOdZECGKo,84FDa13e5-g,85-ahemlFUU,85y3X4rQxA4,8BvPh2JcG1I,8fechd5G8bQ,8HN_fDiyxps,8Hn9sRON8JU,8IEQfBwVCnI,8pfDKYOa2YQ,8SIxFBeXF3A,8SJ8Si8dOik,8VlLxBGFQbo,9_UKSBXn7ko,9-Ct8QNd5l8,93Ilpb7IySY,94-23EfqkIo,96qHwT4UG7A,9aC20cRhA6A,9bmI1uHhg2Y,9CRaVe_WoRA,9DCeANHAmJk,9E6bhpqXb4Q,9GURyE2qHg0,9iLcGsHVzpM,9IoPnmjsOQg,9IYh49I9vLI,9kWhckKtLyw,9lRA4hj5-zs,9O8VPOd3Dsw,9ObMFi6ReKE,9PqmG_y1mEA,9Rsj2RvPQQY,9v8K97nYOmc,9YpbXzuAYao,A3CcapXxDBc,A3UCbl5D6xw,A4K1C-k9Soo,AaEkl-of76c,aAjl5E-9Xwc,aauT5183_Y0,ABKGKVoSAZs,Ae8VPPrDP3I,aeg4hpZ9Ozw,afbpVahE8m0,AGcXhMgEl-g,AGvin09PnlY,Ai_hTzDSyO0,aiSN2yWRXMk,AJPTbrTUYxI,AKx3yG4zhNQ,altHQp6NMoA,aMjfmqYp1k0,aMU1r-XXIe0,ANNU2PD-HFo,ApxADBQ8v3A,AQn0A4aVW6E,aRH_VcgxE-M,aRk2tCY5P6A,AT7BqWZWWag,ATycYftkD9M,avWKx_cmjpk,aww13Cq9r7Q,ayRMg-VLpmE,aZ_1pPcUgFk,aZ9ow4ZlnfI,AzTWh1-xt14,b-LpBCpFIU0,b0pHnjCKYzI,b1BuM4rDtj4,b2o6RTKxh4I,BBOhxkAxLis,bBQITwVQ2c4,BcVYQ8Qb8WE,bcxBqQ7PMew,BEnGqcIKQBI,BFqiftOTLL8,BFxZRHPz1QI,BgKgV7LyEIo,bJpGmwu9-k4,BjZ3EmeaX5k,bKA-qsz0fsU,BKrYqZUyOIQ,BLbmipYjHR4,BMvOvzcBOq0,BnmAkjBYrZ8,BoMEoJRDgcU,BRRHTfNJMg4,bTO8-X3R_0g,BufAWX9OL9M,bWCu3V4E0Cw,BX0vhcv_pRQ,BYme9spNF9A,BZ6g4cgOQIo,c2JtJ3aEJI4,c3uk_PM4FTU,C52GieN9zdM,c8x6_3FTcmk,Ce_6croEF8c,CeUgCB6lb8Q,cfD7Ifh578E,CFDn-VKYsC0,cjcQ6t4JMXs,CLxo7YDcLzk,Coqn8CHu1cM,CpCLI8mo6T8,cppd4rNaGCY,cQbGXIlAVTM,cRLq7aAC-XI,Ct4sQbD2Dj0,CUobzPBIPYs,CVPDq78OM50,CxlcQbMPATY,CYMHBldnHH4,cZWsTRVduts,d_GwGYmK26Y,d1MKZw4vHEw,d352Nhkd02g,d8l0y2XLq3Q,d9HpahnSk3g,ddO9VroAjuU,DeiOBs9WCFY,dfzrdTb1zZE,dgJVXPaHqP8,dI75N0o_5DI,DJhwFGJhk5k,dLlF7sxrUCQ,DOO7fNIwpYY,dPmQytHJFIs,dS2qkAQ33Xw,Dt0bn771sGA,dTiW7GUvpiE,DTJrCcpKAsE,DWyqBff8MD0,dxXweiDpFuI,dzvqryS1tvM,DZyPZzqwvsA,E0C2qvYK31I,E0IZHA3G3Ig,e4MakjQr6wQ,e5nUedXajQI,E930zZVMjyY,EEnVvVzaBCo,ehplL8V_3rs,ehRpPBA6HgM,ejJhYz7wFwo,ek_MgNKuQKg,EKeXTDJ61eQ,EL6vqvpcreQ,Erfp78sCx3E,etzYB5Acisw,ex1IEZ3gULY,EXbJ0oQART8,eYGFc99WbHU,EyLK_rCRmPI,EzqNatWuS6Y,f4qBTki5iH4,F5FobXrvY3E,f7YHUbjdCzM,FB4dExVms7s,fB7BASL5g54,fbpZlOeQiAM,fbY83L61Kd0,fchREWrn0vY,FDbXuhcLWtU,Ff4fEQVTpSs,FHBsONoVnq0,fhyBcxyxbVI,Fk16jEhiBrQ,fLuLK72GwyA,FLYTjpU15No,ft2oJSlNPtQ,fU5hFfGsdjM,FWZHVOZ4ggQ,g_-JsMSaCdA,g_4yojz2mAs,g-KHTYSFJXA,G0xwAccaQ0A,G2aQUZYgTL4,G5Xu8M-uc60,G6rtL2LbzqA,g8XCMFkFyjY,gAHVZF__So4,GcJnkA-FE1M,Gd0BSKLLqsc,Gf0trv-9tvc,gHZMOupPYsg,GHzp1M24Fsw,gJcJ38T8oNM,GjQpoYm971o,gMSJoVkQZWw,gnDVjDTXE0k,GNedUPBOSqs,Gnmbc4G0dmg,GRBDH_i0FB4,GU2lVhxS9vY,gya_mSZwAl0,GYcdeNuBthM,GYRgczPNxJI,h17tF0Xii1c,h1BC7XmZr8I,h7CqHL04D-Y,HCCtVyqBoRE,HF1kNM1SZWw,hfX559mxFQo,HGHg7Nt2WVo,HiDyMOUhdZY,hIG3MjKRzBE,HjH_ZCvf3_g,hKbE7MG3OIA,HkJj6tZtzKg,hKSHNiPdaQU,hNazips7-k8,HoHfevtIV2w,hQcYnde_RDA,HTETmsKXnkE,hxMqBVB9oIU,i7CsAm6pTpE,i7hxZGH9fCY,iaA6l7wVsGE,IC9FN_fY2go,If2rCEuFeNY,ijaW9oSwCw8,im06ZuqowDk,Ima-kdh9Zo0,IMvbHX-XxMs,iQHR1-6RKGY,iry3kHF_jvI,is45doBHO4k,IubAKIW7LW8,IuGCv6BE808,ivzGKZFp8M8,IyRWVFXn45A,IZLsNynu6Ns,j0aA2J_kFkc,J296P7VE5p8,J2spK-T9ev0,j4__e_WelW0,j598EAg5zdI,J6zapuerlJk,J7b6SPEd0FA,j8A3-iLoEOI,J8tQL-J1p-4,jCLp7eJwIrE,JEKeMGgqEFA,jIf63gDirvc,JkdHKdiTXAM,jnUP8mEuPqc,jO3DSz6VU10,JP_9kWACn3U,jPdBNzia1bQ,JqB96gXQCHs,Jqmk-9gfMoc,jr_aTXakEwk,jSkzvaEVGyw,Jw000N2NVzY,JXObjjcM37E,k1e3a3x0VHE,k2pfkR9ey1o,k3a7JrqCGxM,k5J7_AWQvec,K68zHw0_xp8,K6D4AseiyvA,K6X_A5nDkn8,k7HZG6YnFww,Ka58QhPEBs0,kbsHKl1F3PI,kGrIdTasjN0,KhBpRt0R9-8,kMvmpeySbAk,kmwVSMKdhaU,kmxEhecyMN8,Ko4YrWusYB0,kPNmP4e9jfA,KQYQ6-hMOjY,KsFcbtIB9IQ,kv41joeMcM4,KVAsKc8v5t8,KVvB35XeEig,kZgInLvnTxE,kZSTJv4Hxk0,L_xCuCDisLM,L1AVZd4DsQc,L2Az5A7kcP8,L3Ij2cvGFkY,l6iCUxTXOBw,L6uSGv164Xw,L8KfIdZMszk,l8r-U_GKKPw,l8TEy3DabHA,LBYjX-YKi3A,LcYUTlXa9LA,LDbkkYUWvpA,Lioi0r8CebQ,LIwSMMqCTfU,ljBQV9kO_48,LniEKTpx8Qo,LPcjU1iEMa8,LrIY2UK10UA,lRMkZVPheVA,LTZqQj0xixg,lxUADz6sO24,M-MA0geeqcs,m-ODejCbNWA,m2iCTKjwGZY,M2SBwEaGWjA,m5TtiXCF06Y,m9zakT_UDY4,MbhDYscAAN8,MBmjx6pEVyM,mBU8ggNgS8s,mCG61ZXjwgM,mDGN4mIrYTs,mdj-e3WW1Bo,mDVvkqXidds,mh_UlTxOQQ8,MHhA6kW_K1g,mi6oOSOcu8U,mIMeh-79eFQ,mJWjRqEjk1U,MKMicgqhopw,mkzUXQCz7g0,Mm6WkdjRwXE,Mm8has8rJ6Q,MMiesWjJy3k,ModN7UGbEc4,mOIXtYBUHzE,mpo_IhTE430,mqjohU4wchw,MQkqD0MhKnY,mQmoOcT31Ro,msr6oM0RLew,Mt8NfLhd-bQ,MU2Rcx_7eK0,mU9euZ7sEes,MUy19aL4UNs,MvFElFTEyAo,N_LPPAZ6a5k,n2RdX0ydluc,n5D-l-3F7ik,N5YALJhloAc,nb48sfxaBzA,Nb9AndSj88I,NC02quLtRsA,NC8ofbJYmgQ,NcQDwCqQeO0,nDIenS-L7Qc,NgbBiTBNx_E,NjWZnzfy4Bk,No3ER-UeVEw,no6rrhl9HP4,NPnxrTpCpnw,NQNDDUtnzYk,nRaCGIerr6g,nspGMcDjCKM,ntdGh-KbrDw,NV7heJFREsE,NVweq5WqxQs,Nw0SUu18OzY,NwWi8UclL4k,Nyz8AZ4IvdA,Nz6lrDmtUxk,O_aacfmu4kk,O52v4nUvluw,O5EtoXjZNus,o6KJkaLISn8,o6YcBl2u0n0,o8Akan5GihI,oC62RUXGAeo,ocx0eQ3IYGc,ofmaPjLqKpY,oGgzXrlF0m4,OhcEdpoDPxQ,OipmgYEOOj8,OJj7uOy38hI,OjodkECxTFE,oJslPIbYry4,ojSvumv3RDc,OKRqb03TEUs,okuxViVbyTs,OLDsP1BrbDU,Olfa4vMMDEk,OQCgaoqYPDQ,ornHtBUFohc,OsoQu546x8g,oStMB-W5ovI,Ou8IoZrbRFY,OVGfiwkKdqY,OWfrBrQlhkk,oXoEIlNO77U,oXoo6eYsZ3o,OY0Jqc3-hV0,P2YYC5MMzFc,p4Wc6Zs3qQM,p5s61jAYDzE,PbcQo398070,pbi5dRCB2cA,pDkUn-isAGk,pdW4LVkaiYA,peHd3IOjylg,Pepkc8bM3uo,PfDbmwtawNg,PfZh-XLbE_I,Pi-FHomqwtE,PIHmedWFDBI,piPPWEVM7BI,Pk6jznEcP4U,PMt56AI7XrI,PN8oDcxVDKU,pOgq_axpn1k,PRGJZtCTLVA,pRriJNgzrcs,pUZDbK0a1R4,PwfwMH9cRP0,q0d0OkpV5gs,q1LXh9jQU38,Q23RnpfTgiE,q2tI5JrJKzE,q40i492ZGUU,Q5xDDuhudtU,Q8C-i61AH9Q,q8N3XgSDddU,qaB9Xgr-K-U,qaeEK1ydKHQ,qb8eND6_eH8,qbNEx7wfmRw,qCVOU264zOY,qeyblMlgmf4,QFxy7aHGQAk,QgdmFUaMaTg,QHMQrxZEG0A,Qi1p1ciC6ig,QJ87Y3IHM0E,qJZUzPJM_8o,QlB-DTGsxA4,qnSzR1wZFJw,qQCLQxxZ-JQ,qSIbJjKcNfg,QuIScPQ4-HI,QwJVJTZy7_I,QWt5r7p1prc,R0kUC-zTi_w,R1LjmP8-04A,r509r1pO2R0,r6wUIvkTfA0,RaMEtW-jj3Y,RBg7ln8YvZs,rCig3kho2SM,RDi6epw_6q8,RhIjc2y2tAk,rhU9LM5NMjw,rKsfEM1BgDc,RQ0Vxa8t2lE,RqvIfoLVDOk,RU7GoALMyfc,rvKeEwBBpVI,rWFJYGKR8Q0,rwgpNw7-Z2o,RWoC617ICiE,rWUwM3PSctc,RWwMA7NgHPw,rygv-W2nBMQ,S6nzPrp1znE,s7WQRQMZHpg,sbQRdt546xk,sCpKR0JfQYg,SCrkA-IU-MA,SCYQEWuPQ5k,shbkSBhJ2I0,SIa7IJeIZTs,sj2d6MMMHe8,Smgbk6_u95o,SMJH9hOBoHs,sNJWA5xXzJ4,SnZ6S3mRxL4,Sp4RLy_qYKg,sqjMUSm7P7g,Sr-bsrd1__k,sRO9eUbKbHk,STeFcjPilJQ,stXbBirLOa4,SuFrbJ6SU-o,svsHMcqSxo0,t1tZokS2EvY,t5_FT2IuuU4,t6E_0ndD_uc,t6Lt13vIedE,ta_w9snGNto,tA5qx4py3vk,Tcnt9LQ9ghs,TcTxPlJydUY,tHP9ltlAus8,TiTXAXiDfUc,tIWPr_DcdIo,tjMfQ3p3laE,Tnrn3L8FY0I,tPO2SMpryYw,TQscIaCFOkI,TQZvMICk0VY,tsbPU6Db2kY,TsPRXxIwYko,tvC2gQ4AczY,TvVR9BnYdcM,TwLUyzhOLOg,tYyiFa4vM6U,tyzocNwNQKM,u_GGjeSvYec,U008Q4Nl6Pw,u4vS2DaqFLc,U7kcy4JVL-A,u87rX2092og,UAHuVEBXel4,ubHkJ2JOyYc,udBq5d5QJu4,UDz1OZ08WdM,ufbriRv6ttg,ujGzJFLXyyU,ulqxOJMqlbE,uM3wMO8soPk,UnaCSOYEHJY,uNbF9eE8iQo,uPZH86T-gbU,UqoqSIhUkis,uUHrITp2OII,Uv9kdzginz4,UYZK6SLUDac,uznBzdoryQE,v__k4yoGtr0,v1EVuUPy0TM,V5UBaiLKTJ8,v7n8XMG6_lU,VAb-q4zZZ84,vdBH5hXgTx0,VDegR-PmnPY,VDiIHvrYiP4,VDNvoDprdXw,VdW3BTCrFyk,VEPn4Jpriag,vH2LP87XOhM,vhEhHA1_lYc,VifwNccVoaI,VIVQ8DSeXA0,vK8vS2FLi_8,VkklwV-XWV8,vLkThiVu-7w,VLODkOCKOTQ,Vm1M-wrzD30,vNBvyX0c2GU,VncJ0_vEoR0,VNKopA1AWqc,vNoLVvWSsyo,vo2k76mYB48,VOiG-bND5gw,vOxfriLzg30,vPi9nxUXeXY,vpPs1VYeYq4,VqfhBji9KRg,VSa_TIkV6lE,VU5aarfEf-k,vvIB5CzHtRk,W2YIfMkkfwk,w3TsReVTDJg,w7usO3iDt_o,W9zaoEqRVZA,WAHJQb4hEOc,wENuaVviKSo,wGKkvAU6BXM,wgltyCeZ9pk,WGM4fqCVAQg,wgx-dnhKrBU,WhXBxkP9xE4,WJ_m4kinM7w,wLKBFYSG524,wp-A4Xc_aLU,WQ505PlHjnA,ws0Sia6taoM,Ws3y42YOuCI,wwoXSecjUy0,WxIbdhY0A54,X1Ei27wYEkk,X28tURO5Cq0,X3Sqj3g_n6c,X4jATK5wBgU,X6DgdzLcbTc,x8rM1oZB8U8,XBbVIwgeD2g,xBjg0GydtgY,XD8UWjkcE1s,xDMceMQCI_I,xe9N5iVspPY,Xfgb4YaqMT0,xfoQHcU3MyI,XfSHGaDZbBk,XISLjXeWUwk,XLzGCZkYvIc,Xna5SsHOcUo,xot9iXQ-zBA,XpBu8gmssPY,XqmwL0TTfo0,xsFay-hybec,xsO-xNEhoBI,xSQvQDtzB6U,xTJgKGF--OQ,xwOcpq9TqpE,XXd8q4BfcYQ,xYBSsLGzMlc,Y0exfyEXpfI,Y88ecV_X87E,YACpICjPygE,YAHylAzN21o,YAZ0b3JyML8,yc4umVzljCM,YDbwkcXJXRo,ygVJlwArt0A,YiKnAv4Iw2I,YJiMBvqbCwc,ykP7QXaZp9M,YkrFx8fhafI,YLlsruYA4pk,YlYxp4VTDgw,YnYkBcT-rnY,yQrUOHG8e2k,YSoJN2dPoZw,YSq6X6aQhd0,yuNxrYT4t58,ywlM82gfvbk,yWZgvfLs_ss,yzJ3vadEb_0,YZniSg3z3Iw,z1mRlnZbCF0,Z3cDEAKbMyA,Z5r4RVFd2a8,z5T_1jyN5f8,z7iJ5zZ0cLY,Za2u9FkqiaU,zB8nIspKlco,Zdnvu5QIjXE,ZEn6pbfoNlo,Zfa1UNNaPxc,ZGLLyMlvoUY,zJoO_HiEUno,ZkwW4xznOmQ,zlajBZP3nH0,ZnPojroUsrU,ZOUO80Q44B4,zozvEuKPdKs,ZTV18-GhqyU,Zu2ITGywrmU,zu3muQumFyI,zUQ1UARkl24,ZZJ6BNKXcTw,q_QmpI9cyRY,zy611VHFFwU",
+  "topic": "Iran",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_c3-w-w0hd8",
+      "segments": [
+        {
+          "text": "ago probably a long time before *iran*",
+          "location": 89
+        }
+      ]
+    },
+    {
+      "id": "_gjH2umHAGw",
+      "segments": [
+        {
+          "text": "in *iran* goes on to write q and ons",
+          "location": 423
+        }
+      ]
+    },
+    {
+      "id": "_RmutDWSGgw",
+      "segments": [
+        {
+          "text": "obama north korea and *iran* what do they",
+          "location": 3
+        },
+        {
+          "text": "how did *iran* obtain uranium well that",
+          "location": 311
+        },
+        {
+          "text": "cash and wire to *iran* why the cash",
+          "location": 326
+        },
+        {
+          "text": "that obama sent billions to *iran* but",
+          "location": 337
+        },
+        {
+          "text": "then also it wasn't just *iran* i think",
+          "location": 342
+        },
+        {
+          "text": "who were taken hostage by *iran* and",
+          "location": 430
+        },
+        {
+          "text": "*iran* i think the answer that is - did",
+          "location": 505
+        },
+        {
+          "text": "all land in *iran* well apparently they",
+          "location": 508
+        },
+        {
+          "text": "the pallets arrived in *iran* they had",
+          "location": 524
+        },
+        {
+          "text": "*iran* another one went somewhere else and",
+          "location": 544
+        },
+        {
+          "text": "money was given to *iran* and north korea",
+          "location": 567
+        }
+      ]
+    },
+    {
+      "id": "_xXAzbpQxCk",
+      "segments": [
+        {
+          "text": "i'd like to see with *iran* i'd like to",
+          "location": 1094
+        },
+        {
+          "text": "talking to *iran* and has been has many",
+          "location": 1121
+        },
+        {
+          "text": "took away the *iran* deal",
+          "location": 1134
+        },
+        {
+          "text": "actually help *iran* we're not looking to",
+          "location": 1159
+        }
+      ]
+    },
+    {
+      "id": "-fBcMRleHJs",
+      "segments": [
+        {
+          "text": "further the *iran* deal for peace and",
+          "location": 1320
+        },
+        {
+          "text": "the world once they got out of *iran* and",
+          "location": 1391
+        },
+        {
+          "text": "why they were fleeing *iran* right when",
+          "location": 1393
+        }
+      ]
+    },
+    {
+      "id": "-lj5lbMIt9w",
+      "segments": [
+        {
+          "text": "toward *iran* they're gonna be toward",
+          "location": 518
+        }
+      ]
+    },
+    {
+      "id": "0Rg0lwnxdYA",
+      "segments": [
+        {
+          "text": "*iran* and you know i'm telling you we're",
+          "location": 1126
+        }
+      ]
+    },
+    {
+      "id": "0ZQpgASg94o",
+      "segments": [
+        {
+          "text": "layers he rhenium one *iran* human traffic",
+          "location": 1753
+        },
+        {
+          "text": "mister rhenium one *iran* human",
+          "location": 1831
+        }
+      ]
+    },
+    {
+      "id": "188yfjWBsKM",
+      "segments": [
+        {
+          "text": "expose the *iran* deal just before bibi",
+          "location": 2
+        },
+        {
+          "text": "for nuclear weapons in *iran* and we're",
+          "location": 518
+        },
+        {
+          "text": "the regard to *iran* and q has pointed in",
+          "location": 1608
+        },
+        {
+          "text": "the past that *iran* is the next thing on",
+          "location": 1611
+        },
+        {
+          "text": "what's going on in *iran* quite possibly",
+          "location": 1621
+        },
+        {
+          "text": "to the republic of *iran* what if array",
+          "location": 1924
+        },
+        {
+          "text": "*iran* syria war what does a uranium one",
+          "location": 1962
+        },
+        {
+          "text": "declassified syria *iran* plus uranium one",
+          "location": 2048
+        },
+        {
+          "text": "significant announcement *iran* and this",
+          "location": 2069
+        },
+        {
+          "text": "he says the payments to are to *iran* q",
+          "location": 2083
+        },
+        {
+          "text": "said *iran* is next iron eagle clearly",
+          "location": 2086
+        },
+        {
+          "text": "forces appear to have infiltrated *iran* a",
+          "location": 2102
+        },
+        {
+          "text": "*iran* agreement define and confine a",
+          "location": 2148
+        },
+        {
+          "text": "way so we made some deal with *iran* and",
+          "location": 2169
+        },
+        {
+          "text": "that was created by allowing *iran* to",
+          "location": 2198
+        },
+        {
+          "text": "*iran* deal right what if the program",
+          "location": 2241
+        },
+        {
+          "text": "back down into *iran* and syria and north",
+          "location": 2339
+        },
+        {
+          "text": "*iran* that allegedly exist in northern",
+          "location": 2509
+        },
+        {
+          "text": "fernanda whose presentation on *iran* it's",
+          "location": 2524
+        },
+        {
+          "text": "coming up here and they said *iran* is",
+          "location": 2529
+        },
+        {
+          "text": "stay in the *iran* deal because they're",
+          "location": 2565
+        },
+        {
+          "text": "*iran* or letting *iran* get this nuclear",
+          "location": 2577
+        },
+        {
+          "text": "syrian *iran* plus iranian one connection",
+          "location": 2586
+        }
+      ]
+    },
+    {
+      "id": "1ztx8JOWikU",
+      "segments": [
+        {
+          "text": "in *iran* and you're like well this is",
+          "location": 454
+        },
+        {
+          "text": "our duty to go and fight *iran* in the",
+          "location": 467
+        },
+        {
+          "text": "*iran* especially with the strait of",
+          "location": 808
+        }
+      ]
+    },
+    {
+      "id": "21_5KACaBAA",
+      "segments": [
+        {
+          "text": "affiliate in *iran* and one of its",
+          "location": 1206
+        }
+      ]
+    },
+    {
+      "id": "246yVwb5diI",
+      "segments": [
+        {
+          "text": "bottom middle top hussein *iran*",
+          "location": 569
+        },
+        {
+          "text": "saudi arabia and *iran* the post truth",
+          "location": 1915
+        }
+      ]
+    },
+    {
+      "id": "2VvxKYycSTA",
+      "segments": [
+        {
+          "text": "north korea *iran* russia china mexico why",
+          "location": 1011
+        }
+      ]
+    },
+    {
+      "id": "2z1u4f9qxSk",
+      "segments": [
+        {
+          "text": "talks about the *iran* deal i'm the",
+          "location": 293
+        }
+      ]
+    },
+    {
+      "id": "3anaRM4cxWc",
+      "segments": [
+        {
+          "text": "saying that *iran* is saying why don't you",
+          "location": 1676
+        }
+      ]
+    },
+    {
+      "id": "3hTjnoctYb8",
+      "segments": [
+        {
+          "text": "government with the *iran* deal so that",
+          "location": 1549
+        }
+      ]
+    },
+    {
+      "id": "3JpE_sVAXtI",
+      "segments": [
+        {
+          "text": "of the *iran* deal would be you know i",
+          "location": 1408
+        }
+      ]
+    },
+    {
+      "id": "3mZH_LNF6QM",
+      "segments": [
+        {
+          "text": "general in *iran* this general qasem",
+          "location": 179
+        },
+        {
+          "text": "*iran* regime who ended up with obama in",
+          "location": 191
+        },
+        {
+          "text": "pushed by *iran* to undermine the peace",
+          "location": 317
+        },
+        {
+          "text": "top general in *iran* but he's been the",
+          "location": 386
+        },
+        {
+          "text": "*iran* will be full held fully responsible",
+          "location": 469
+        },
+        {
+          "text": "tweeted that we see *iran* responsible for",
+          "location": 485
+        },
+        {
+          "text": "to *iran* first you can't do anything",
+          "location": 490
+        },
+        {
+          "text": "and before with the whole *iran* deal",
+          "location": 524
+        },
+        {
+          "text": "to balance *iran* against traditional",
+          "location": 552
+        },
+        {
+          "text": "the others *iran* obama made his",
+          "location": 562
+        },
+        {
+          "text": "preference for *iran* and its allies clear",
+          "location": 565
+        },
+        {
+          "text": "in after the *iran* deal the jcpoa which",
+          "location": 589
+        },
+        {
+          "text": "*iran* in her 20s to forge a better life",
+          "location": 750
+        },
+        {
+          "text": "*iran* is smart and strategic and all over",
+          "location": 753
+        },
+        {
+          "text": "the world *iran* isn't an irrational actor",
+          "location": 755
+        },
+        {
+          "text": "immigrated from *iran* you have peter",
+          "location": 784
+        },
+        {
+          "text": "it started in *iran* then was in saudi",
+          "location": 793
+        },
+        {
+          "text": "*iran* deal and other deals in that area",
+          "location": 801
+        },
+        {
+          "text": "soleimani and *iran* and helping them",
+          "location": 820
+        },
+        {
+          "text": "*iran* who happens to be i believe the",
+          "location": 1119
+        },
+        {
+          "text": "weapons that that may be in *iran* and the",
+          "location": 1164
+        },
+        {
+          "text": "fact that new *iran* may be actually",
+          "location": 1166
+        },
+        {
+          "text": "and north korea have assisted *iran* in",
+          "location": 1174
+        },
+        {
+          "text": "*iran* has had free rein to develop their",
+          "location": 1181
+        },
+        {
+          "text": "in essence *iran* has had the benefit of",
+          "location": 1212
+        },
+        {
+          "text": "development testing for them *iran* was",
+          "location": 1217
+        },
+        {
+          "text": "testing *iran* participated on site in",
+          "location": 1234
+        },
+        {
+          "text": "assisted *iran* along the path ways for",
+          "location": 1243
+        },
+        {
+          "text": "*iran* has never had to do to go it alone",
+          "location": 1251
+        },
+        {
+          "text": "that guarantees *iran* will have a nuclear",
+          "location": 1264
+        },
+        {
+          "text": "the side agreements between *iran* and the",
+          "location": 1300
+        },
+        {
+          "text": "those arrangements calls for *iran* to",
+          "location": 1307
+        },
+        {
+          "text": "it also applied to all things *iran* we",
+          "location": 1334
+        },
+        {
+          "text": "the agreement reached with *iran* so you",
+          "location": 1348
+        },
+        {
+          "text": "family ties to *iran* incidentally kerry's",
+          "location": 1379
+        },
+        {
+          "text": "advise *iran* on how to basically",
+          "location": 1409
+        }
+      ]
+    },
+    {
+      "id": "3QHT8IoCibY",
+      "segments": [
+        {
+          "text": "corrupt dictatorship in *iran* iran's",
+          "location": 1060
+        },
+        {
+          "text": "from the horrible 2015 *iran* nuclear deal",
+          "location": 1135
+        },
+        {
+          "text": "and reimpose nuclear sanctions the *iran*",
+          "location": 1141
+        },
+        {
+          "text": "the *iran* deal additional sanctions will",
+          "location": 1198
+        },
+        {
+          "text": "allowing *iran* to keep doing what they do",
+          "location": 2548
+        }
+      ]
+    },
+    {
+      "id": "46EzIkcqsf8",
+      "segments": [
+        {
+          "text": "sanctions relief to *iran* if you don't do",
+          "location": 411
+        },
+        {
+          "text": "wasn't just *iran* it was it was russia",
+          "location": 418
+        },
+        {
+          "text": "*iran* china china look at what they did",
+          "location": 420
+        }
+      ]
+    },
+    {
+      "id": "4aeInV5RoBU",
+      "segments": [
+        {
+          "text": "no rain involved with this *iran* had",
+          "location": 1657
+        },
+        {
+          "text": "as i know or anyone else knows *iran* had",
+          "location": 1660
+        }
+      ]
+    },
+    {
+      "id": "4IELe4HKwW8",
+      "segments": [
+        {
+          "text": "and a half dollars goes to *iran* in a",
+          "location": 1183
+        },
+        {
+          "text": "do you think it all went to *iran* or do",
+          "location": 1199
+        }
+      ]
+    },
+    {
+      "id": "4l3InNocQok",
+      "segments": [
+        {
+          "text": "strings cut we took control *iran* next",
+          "location": 876
+        },
+        {
+          "text": "believe that behind the scenes the *iran*",
+          "location": 906
+        },
+        {
+          "text": "was over 90% of his of *iran* was having a",
+          "location": 954
+        }
+      ]
+    },
+    {
+      "id": "4V_km03gzkc",
+      "segments": [
+        {
+          "text": "tonight as trump ends the *iran* deal",
+          "location": 0
+        },
+        {
+          "text": "information on *iran* here we're talk",
+          "location": 138
+        },
+        {
+          "text": "to visit *iran* now reading through this",
+          "location": 197
+        },
+        {
+          "text": "to *iran* to follow up on power plant",
+          "location": 213
+        },
+        {
+          "text": "foundation and *iran* and we're going to",
+          "location": 254
+        },
+        {
+          "text": "was there in *iran* and they were talking",
+          "location": 262
+        },
+        {
+          "text": "and the new prospects under the *iran*",
+          "location": 297
+        },
+        {
+          "text": "for *iran* to get rid of all of its an",
+          "location": 413
+        },
+        {
+          "text": "be the united states russia and *iran* and",
+          "location": 431
+        },
+        {
+          "text": "as a part of the *iran* deal that they put",
+          "location": 435
+        },
+        {
+          "text": "of the *iran* deal pointed out off of the",
+          "location": 470
+        },
+        {
+          "text": "significant steps *iran* has taken towards",
+          "location": 517
+        },
+        {
+          "text": "sold and given to *iran* who i've talked",
+          "location": 554
+        },
+        {
+          "text": "countries like *iran* and north korea in",
+          "location": 570
+        },
+        {
+          "text": "this fight here and it's not like *iran*",
+          "location": 613
+        },
+        {
+          "text": "much as that war with *iran* would not be",
+          "location": 653
+        },
+        {
+          "text": "more hardline factions in *iran* but the",
+          "location": 665
+        },
+        {
+          "text": "iranian flags yelling death to *iran* no",
+          "location": 683
+        },
+        {
+          "text": "representing the *iran* deal and this is",
+          "location": 725
+        },
+        {
+          "text": "*iran* but times have changed and",
+          "location": 751
+        },
+        {
+          "text": "need nuclear weapons if *iran* gets them",
+          "location": 803
+        },
+        {
+          "text": "this interest in going to war with *iran*",
+          "location": 884
+        },
+        {
+          "text": "because they're in the middle east *iran*",
+          "location": 888
+        },
+        {
+          "text": "for us wanting to push war and *iran* or",
+          "location": 934
+        },
+        {
+          "text": "push war on *iran* particularly that there",
+          "location": 939
+        },
+        {
+          "text": "*iran* and azerbaijan trilateral nuclear",
+          "location": 967
+        },
+        {
+          "text": "russia to connect *iran* with the ability",
+          "location": 978
+        }
+      ]
+    },
+    {
+      "id": "5A6dZwdwTxA",
+      "segments": [
+        {
+          "text": "fight *iran* if *iran* attacks them it's the",
+          "location": 182
+        },
+        {
+          "text": "idea that *iran* is getting ready to",
+          "location": 184
+        },
+        {
+          "text": "houthi rebels and you men backed by *iran*",
+          "location": 193
+        }
+      ]
+    },
+    {
+      "id": "5i-ZMBE5r80",
+      "segments": [
+        {
+          "text": "same thing with *iran*",
+          "location": 286
+        }
+      ]
+    },
+    {
+      "id": "5msn1xthpVw",
+      "segments": [
+        {
+          "text": "*iran* deal and other things that ended up",
+          "location": 716
+        },
+        {
+          "text": "have gone *iran* said it's it's russia or",
+          "location": 913
+        }
+      ]
+    },
+    {
+      "id": "5OD8QdsbiDU",
+      "segments": [
+        {
+          "text": "rhenium when *iran* why are we attacked",
+          "location": 1117
+        },
+        {
+          "text": "expose prevent pre uranium one *iran* this",
+          "location": 1182
+        },
+        {
+          "text": "uranium one and *iran* deal so that he",
+          "location": 1199
+        },
+        {
+          "text": "what was the *iran* deal well *iran* was",
+          "location": 1230
+        },
+        {
+          "text": "billion in cash sends it to *iran* where",
+          "location": 1262
+        },
+        {
+          "text": "that deal *iran* was to open up their",
+          "location": 1274
+        }
+      ]
+    },
+    {
+      "id": "5teFvGwE9Ec",
+      "segments": [
+        {
+          "text": "could do all these things like the *iran*",
+          "location": 1456
+        }
+      ]
+    },
+    {
+      "id": "5ZV3UJmN3j4",
+      "segments": [
+        {
+          "text": "in the middle east *iran* has been a as",
+          "location": 926
+        },
+        {
+          "text": "don't think *iran* wants to fight and i",
+          "location": 941
+        }
+      ]
+    },
+    {
+      "id": "6gP2Zh2J4lU",
+      "segments": [
+        {
+          "text": "korea capability *iran* tech nuclear",
+          "location": 1145
+        },
+        {
+          "text": "the *iran* deal and were they just paying",
+          "location": 1268
+        }
+      ]
+    },
+    {
+      "id": "6VOzbo_Xzcs",
+      "segments": [
+        {
+          "text": "bad what's happening with *iran* it's",
+          "location": 1500
+        },
+        {
+          "text": "they've made a lot of money with *iran*",
+          "location": 1702
+        },
+        {
+          "text": "*iran* and we didn't make money with *iran*",
+          "location": 1717
+        }
+      ]
+    },
+    {
+      "id": "7BjNpnHLRlg",
+      "segments": [
+        {
+          "text": "probably *iran* made a mistake i would",
+          "location": 18
+        },
+        {
+          "text": "hundred million dollars *iran* said the",
+          "location": 221
+        },
+        {
+          "text": "tweeted that *iran* made a very big",
+          "location": 233
+        },
+        {
+          "text": "*iran* as compared to where they were oh i",
+          "location": 299
+        },
+        {
+          "text": "the the jcpoa the the *iran* deal so let's",
+          "location": 315
+        },
+        {
+          "text": "august of 2018 about the *iran* deal and",
+          "location": 320
+        },
+        {
+          "text": "with *iran* and how its continuing to",
+          "location": 328
+        },
+        {
+          "text": "this *iran* deal right",
+          "location": 559
+        },
+        {
+          "text": "*iran* has to see that and go oh man they",
+          "location": 611
+        },
+        {
+          "text": "established that this *iran* deal would",
+          "location": 657
+        },
+        {
+          "text": "the people of *iran* don't know about",
+          "location": 667
+        },
+        {
+          "text": "*iran* deal was being pushed through and",
+          "location": 715
+        },
+        {
+          "text": "it was all a cover for the *iran* deal so",
+          "location": 717
+        },
+        {
+          "text": "to the eu sanctions in *iran* this is all",
+          "location": 789
+        },
+        {
+          "text": "this *iran*",
+          "location": 804
+        },
+        {
+          "text": "billions of dollars right so the *iran*",
+          "location": 821
+        }
+      ]
+    },
+    {
+      "id": "7nBOtseGsvM",
+      "segments": [
+        {
+          "text": "russia china and *iran* and a secret",
+          "location": 92
+        },
+        {
+          "text": "put together by russia china *iran* and",
+          "location": 164
+        },
+        {
+          "text": "*iran* and china allies us political",
+          "location": 535
+        },
+        {
+          "text": "political corruption *iran* common",
+          "location": 544
+        },
+        {
+          "text": "denominator china russia and *iran* close",
+          "location": 545
+        },
+        {
+          "text": "and *iran* who obviously have close",
+          "location": 607
+        },
+        {
+          "text": "him in was working in *iran* and working",
+          "location": 700
+        },
+        {
+          "text": "connections back to *iran* and think about",
+          "location": 729
+        },
+        {
+          "text": "happening you have china russia *iran* and",
+          "location": 1658
+        }
+      ]
+    },
+    {
+      "id": "7PPE5IfAS8Q",
+      "segments": [
+        {
+          "text": "you know with *iran* *iran* should be very",
+          "location": 12
+        },
+        {
+          "text": "*iran* negotiated a fantastic deal with",
+          "location": 16
+        }
+      ]
+    },
+    {
+      "id": "85y3X4rQxA4",
+      "segments": [
+        {
+          "text": "the *iran* deal and this story that's just",
+          "location": 757
+        },
+        {
+          "text": "*iran* convert money into dollars so and",
+          "location": 765
+        },
+        {
+          "text": "happened with the *iran* deal whether it's",
+          "location": 772
+        },
+        {
+          "text": "siphon down into north korea and *iran* i",
+          "location": 795
+        }
+      ]
+    },
+    {
+      "id": "8BvPh2JcG1I",
+      "segments": [
+        {
+          "text": "now dealing with *iran* and they put out",
+          "location": 1122
+        },
+        {
+          "text": "so many false messages that *iran* is",
+          "location": 1124
+        }
+      ]
+    },
+    {
+      "id": "9bmI1uHhg2Y",
+      "segments": [
+        {
+          "text": "billion dollar cash bribe to *iran* hrc is",
+          "location": 1399
+        }
+      ]
+    },
+    {
+      "id": "9ObMFi6ReKE",
+      "segments": [
+        {
+          "text": "think *iran* the *iran* deal the jcpoa which",
+          "location": 974
+        },
+        {
+          "text": "by releasing funds to *iran* and over a",
+          "location": 992
+        },
+        {
+          "text": "the cash goes when it landed in *iran* oh",
+          "location": 1001
+        },
+        {
+          "text": "it all go to *iran* or did some of that",
+          "location": 1006
+        }
+      ]
+    },
+    {
+      "id": "9Rsj2RvPQQY",
+      "segments": [
+        {
+          "text": "touring *iran* then gets hired by google",
+          "location": 1026
+        }
+      ]
+    },
+    {
+      "id": "9v8K97nYOmc",
+      "segments": [
+        {
+          "text": "is all true allegedly tarmac *iran* north",
+          "location": 1311
+        }
+      ]
+    },
+    {
+      "id": "aauT5183_Y0",
+      "segments": [
+        {
+          "text": "kerry and *iran* important context for",
+          "location": 206
+        },
+        {
+          "text": "john kerry secretly colluding with *iran*",
+          "location": 242
+        },
+        {
+          "text": "and *iran* to save the *iran* nuclear deal",
+          "location": 318
+        }
+      ]
+    },
+    {
+      "id": "AJPTbrTUYxI",
+      "segments": [
+        {
+          "text": "that's happening in *iran* yeah this has",
+          "location": 72
+        },
+        {
+          "text": "with the *iran* negotiations as far as",
+          "location": 88
+        },
+        {
+          "text": "multiple last few days in the *iran* area",
+          "location": 155
+        },
+        {
+          "text": "plant in *iran* we already know what we",
+          "location": 202
+        },
+        {
+          "text": "one that *iran* will never be allowed to",
+          "location": 308
+        },
+        {
+          "text": "foolish *iran* nuclear deal was signed in",
+          "location": 355
+        },
+        {
+          "text": "*iran* went on a terror spree funded by",
+          "location": 381
+        },
+        {
+          "text": "happening in real time in *iran* some",
+          "location": 493
+        },
+        {
+          "text": "people fleeing *iran* who thought world",
+          "location": 500
+        },
+        {
+          "text": "says both trump and *iran* want us forces",
+          "location": 932
+        },
+        {
+          "text": "inroads into a new deal in *iran* says",
+          "location": 962
+        },
+        {
+          "text": "back-and-forth fake posturing from *iran*",
+          "location": 968
+        },
+        {
+          "text": "table *iran* will come to the table and",
+          "location": 977
+        },
+        {
+          "text": "time when *iran* can come to the table and",
+          "location": 993
+        },
+        {
+          "text": "intervention *iran* realizes that their",
+          "location": 999
+        },
+        {
+          "text": "regime change in *iran* we want them to",
+          "location": 1059
+        },
+        {
+          "text": "as well missiles launched from *iran* at",
+          "location": 1202
+        },
+        {
+          "text": "called by *iran* was actually an obama",
+          "location": 1228
+        },
+        {
+          "text": "coordinated by the president of *iran* or",
+          "location": 1274
+        },
+        {
+          "text": "regimes like *iran* and china and other",
+          "location": 1347
+        }
+      ]
+    },
+    {
+      "id": "AKx3yG4zhNQ",
+      "segments": [
+        {
+          "text": "the *iran* deal apparently so but what is",
+          "location": 214
+        }
+      ]
+    },
+    {
+      "id": "altHQp6NMoA",
+      "segments": [
+        {
+          "text": "first post q speaking here reminder *iran*",
+          "location": 40
+        },
+        {
+          "text": "agree to continue the *iran* deal as it",
+          "location": 136
+        },
+        {
+          "text": "the *iran* deal which would be the joint",
+          "location": 177
+        },
+        {
+          "text": "back to the *iran* deal for now so let's",
+          "location": 223
+        },
+        {
+          "text": "for *iran* them to have these reactors",
+          "location": 234
+        },
+        {
+          "text": "*iran* deal to these these foreign actors",
+          "location": 268
+        },
+        {
+          "text": "*iran* deal get give the ability for *iran*",
+          "location": 423
+        },
+        {
+          "text": "not agree to continue the *iran* deal as",
+          "location": 503
+        },
+        {
+          "text": "agree to continue the *iran* deal as it",
+          "location": 521
+        },
+        {
+          "text": "negotiation in *iran* i would hope so",
+          "location": 529
+        },
+        {
+          "text": "armenia then *iran* *iran* then any other",
+          "location": 824
+        },
+        {
+          "text": "about *iran* and other rogue nuclear",
+          "location": 870
+        },
+        {
+          "text": "says the next post q says red cross *iran*",
+          "location": 1177
+        }
+      ]
+    },
+    {
+      "id": "aMU1r-XXIe0",
+      "segments": [
+        {
+          "text": "*iran* and obama when he says quote",
+          "location": 1283
+        },
+        {
+          "text": "middle east it's *iran* *iran* *iran* behind",
+          "location": 1402
+        },
+        {
+          "text": "every problem is *iran* well we're dealing",
+          "location": 1405
+        },
+        {
+          "text": "*iran* deal 150 billion dollars we gave",
+          "location": 1414
+        }
+      ]
+    },
+    {
+      "id": "ANNU2PD-HFo",
+      "segments": [
+        {
+          "text": "*iran* and well i'm the one that talks",
+          "location": 9
+        },
+        {
+          "text": "deal gives *iran* 1 billion dollars over a",
+          "location": 1217
+        }
+      ]
+    },
+    {
+      "id": "ApxADBQ8v3A",
+      "segments": [
+        {
+          "text": "president of *iran* having a conversation",
+          "location": 1244
+        },
+        {
+          "text": "worry *iran* we're gonna we're gonna just",
+          "location": 1266
+        }
+      ]
+    },
+    {
+      "id": "AQn0A4aVW6E",
+      "segments": [
+        {
+          "text": "*iran* let's blow it up for you it says",
+          "location": 72
+        },
+        {
+          "text": "cash to *iran* had nobody in congress the",
+          "location": 83
+        },
+        {
+          "text": "into *iran* and who knows if any of it",
+          "location": 133
+        }
+      ]
+    },
+    {
+      "id": "ATycYftkD9M",
+      "segments": [
+        {
+          "text": "court out of the *iran* deal embassy in",
+          "location": 1419
+        }
+      ]
+    },
+    {
+      "id": "BKrYqZUyOIQ",
+      "segments": [
+        {
+          "text": "could not be and it's it's not like *iran*",
+          "location": 1426
+        },
+        {
+          "text": "of an operation against *iran* which is",
+          "location": 1452
+        },
+        {
+          "text": "*iran* is one of the most destabilizing",
+          "location": 1455
+        }
+      ]
+    },
+    {
+      "id": "BX0vhcv_pRQ",
+      "segments": [
+        {
+          "text": "drudge report where it says *iran* threat",
+          "location": 1664
+        },
+        {
+          "text": "we have *iran* making threats so they want",
+          "location": 1778
+        },
+        {
+          "text": "want wars in *iran* that's their next big",
+          "location": 1783
+        },
+        {
+          "text": "certainly do it in *iran*",
+          "location": 1839
+        },
+        {
+          "text": "*iran* in next and now lo and behold *iran*",
+          "location": 1860
+        }
+      ]
+    },
+    {
+      "id": "c3uk_PM4FTU",
+      "segments": [
+        {
+          "text": "general report hearings korea *iran* next",
+          "location": 79
+        },
+        {
+          "text": "all right *iran* next so this is all about",
+          "location": 389
+        },
+        {
+          "text": "just it blows my mind but next is *iran*",
+          "location": 523
+        },
+        {
+          "text": "or also known as the *iran* deal so that's",
+          "location": 543
+        },
+        {
+          "text": "*iran* are awake there's a regime that's",
+          "location": 550
+        }
+      ]
+    },
+    {
+      "id": "CLxo7YDcLzk",
+      "segments": [
+        {
+          "text": "*iran*-contra scandal and last year when",
+          "location": 1171
+        }
+      ]
+    },
+    {
+      "id": "CUobzPBIPYs",
+      "segments": [
+        {
+          "text": "before *iran* because they would have been",
+          "location": 792
+        }
+      ]
+    },
+    {
+      "id": "d352Nhkd02g",
+      "segments": [
+        {
+          "text": "russia and *iran* that obviously is",
+          "location": 802
+        }
+      ]
+    },
+    {
+      "id": "dTiW7GUvpiE",
+      "segments": [
+        {
+          "text": "north korea and and *iran* through a very",
+          "location": 300
+        },
+        {
+          "text": "about *iran* broke drugs",
+          "location": 613
+        },
+        {
+          "text": "capability and *iran* tech new development",
+          "location": 619
+        },
+        {
+          "text": "wise *iran* protected well reign was",
+          "location": 791
+        },
+        {
+          "text": "along with the authoritarians in *iran*",
+          "location": 896
+        },
+        {
+          "text": "wan tarmac *iran* north korea uranium one",
+          "location": 952
+        }
+      ]
+    },
+    {
+      "id": "ehRpPBA6HgM",
+      "segments": [
+        {
+          "text": "will cause war with *iran* we're doing our",
+          "location": 621
+        },
+        {
+          "text": "best to negotiate peace and *iran* 8 potus",
+          "location": 623
+        }
+      ]
+    },
+    {
+      "id": "EL6vqvpcreQ",
+      "segments": [
+        {
+          "text": "looks like a woman in *iran* talking about",
+          "location": 580
+        },
+        {
+          "text": "again make *iran* great again and how we",
+          "location": 587
+        },
+        {
+          "text": "and accessing sensitive info for *iran*",
+          "location": 1203
+        },
+        {
+          "text": "*iran* right so why would they want to do",
+          "location": 1232
+        },
+        {
+          "text": "cary direct really *iran* pre post *iran*",
+          "location": 1418
+        },
+        {
+          "text": "*iran* the *iran* deal where did the cash go",
+          "location": 1444
+        }
+      ]
+    },
+    {
+      "id": "ex1IEZ3gULY",
+      "segments": [
+        {
+          "text": "claim from *iran* that they have 17 cia",
+          "location": 1344
+        },
+        {
+          "text": "this formulation of the *iran* deal people",
+          "location": 1397
+        },
+        {
+          "text": "possibly in *iran* let's suppose those",
+          "location": 1412
+        },
+        {
+          "text": "*iran* is a total mess huh well how about",
+          "location": 1499
+        }
+      ]
+    },
+    {
+      "id": "F5FobXrvY3E",
+      "segments": [
+        {
+          "text": "about the *iran* deal and he's talking",
+          "location": 1587
+        },
+        {
+          "text": "*iran* deal because they have these huge",
+          "location": 1594
+        },
+        {
+          "text": "between france and *iran* and then another",
+          "location": 1599
+        },
+        {
+          "text": "three billion between germany and *iran*",
+          "location": 1604
+        },
+        {
+          "text": "stay in the *iran* deal but what's",
+          "location": 1610
+        },
+        {
+          "text": "*iran* expose the names of corrupt",
+          "location": 1621
+        },
+        {
+          "text": "corrupt officials in *iran* will be",
+          "location": 1675
+        }
+      ]
+    },
+    {
+      "id": "FB4dExVms7s",
+      "segments": [
+        {
+          "text": "whining about *iran* back to spamming larp",
+          "location": 941
+        },
+        {
+          "text": "in *iran* in venezuela",
+          "location": 1776
+        }
+      ]
+    },
+    {
+      "id": "fbpZlOeQiAM",
+      "segments": [
+        {
+          "text": "now the an *iran* is asking if it's",
+          "location": 1903
+        }
+      ]
+    },
+    {
+      "id": "Ff4fEQVTpSs",
+      "segments": [
+        {
+          "text": "are you interested in all in the *iran*",
+          "location": 394
+        },
+        {
+          "text": "shia terrorists and *iran* is there any",
+          "location": 399
+        }
+      ]
+    },
+    {
+      "id": "FHBsONoVnq0",
+      "segments": [
+        {
+          "text": "supply *iran* north korea plus reduce u.s.",
+          "location": 545
+        }
+      ]
+    },
+    {
+      "id": "Gf0trv-9tvc",
+      "segments": [
+        {
+          "text": "to curtail the problem china russia *iran*",
+          "location": 1823
+        },
+        {
+          "text": "it's *iran* they came in and they shut",
+          "location": 1920
+        }
+      ]
+    },
+    {
+      "id": "GHzp1M24Fsw",
+      "segments": [
+        {
+          "text": "supplying the conscience the *iran*-contra",
+          "location": 1768
+        }
+      ]
+    },
+    {
+      "id": "GNedUPBOSqs",
+      "segments": [
+        {
+          "text": "to russia so it could be given to *iran*",
+          "location": 1843
+        }
+      ]
+    },
+    {
+      "id": "GRBDH_i0FB4",
+      "segments": [
+        {
+          "text": "*iran* russia flex through missile tech we",
+          "location": 892
+        },
+        {
+          "text": "well trump's pointing out that *iran* in",
+          "location": 955
+        }
+      ]
+    },
+    {
+      "id": "HCCtVyqBoRE",
+      "segments": [
+        {
+          "text": "look at what's happening with *iran* and",
+          "location": 155
+        },
+        {
+          "text": "other countries with regard to *iran* and",
+          "location": 177
+        },
+        {
+          "text": "basically what happened was *iran* planted",
+          "location": 573
+        },
+        {
+          "text": "told about the connections between *iran*",
+          "location": 611
+        },
+        {
+          "text": "whole *iran* deal actually happened and if",
+          "location": 617
+        },
+        {
+          "text": "gonna tell you that the *iran* deal was",
+          "location": 623
+        },
+        {
+          "text": "about you know keeping nukes out of *iran*",
+          "location": 624
+        },
+        {
+          "text": "*iran* deal and into the concessions that",
+          "location": 680
+        },
+        {
+          "text": "today's discussion with regard to *iran*",
+          "location": 770
+        },
+        {
+          "text": "hassan rouhani the president of *iran* i",
+          "location": 774
+        },
+        {
+          "text": "that he is the president of *iran* and it",
+          "location": 779
+        },
+        {
+          "text": "call it and she was born in *iran* and",
+          "location": 1018
+        },
+        {
+          "text": "*iran* deal and it talks here about merkel",
+          "location": 1126
+        },
+        {
+          "text": "these people if john kerry going to *iran*",
+          "location": 1153
+        },
+        {
+          "text": "*iran* and say look you can't keep",
+          "location": 1272
+        }
+      ]
+    },
+    {
+      "id": "hfX559mxFQo",
+      "segments": [
+        {
+          "text": "are in the hands of *iran* and we also",
+          "location": 955
+        },
+        {
+          "text": "nuclear restrictions on *iran* we also",
+          "location": 964
+        },
+        {
+          "text": "know that obama gave *iran* 150 billion",
+          "location": 967
+        }
+      ]
+    },
+    {
+      "id": "HiDyMOUhdZY",
+      "segments": [
+        {
+          "text": "you russia *iran* north korea syria",
+          "location": 387
+        }
+      ]
+    },
+    {
+      "id": "hKbE7MG3OIA",
+      "segments": [
+        {
+          "text": "against *iran*-backed militias in syria",
+          "location": 1480
+        }
+      ]
+    },
+    {
+      "id": "HoHfevtIV2w",
+      "segments": [
+        {
+          "text": "take a thing the awan brothers *iran*",
+          "location": 1516
+        }
+      ]
+    },
+    {
+      "id": "hQcYnde_RDA",
+      "segments": [
+        {
+          "text": "they're in the *iran* the *iran* kind of",
+          "location": 1374
+        }
+      ]
+    },
+    {
+      "id": "hxMqBVB9oIU",
+      "segments": [
+        {
+          "text": "them suicide watch the deal kept *iran*",
+          "location": 931
+        },
+        {
+          "text": "today evil lost control leverage of *iran*",
+          "location": 963
+        },
+        {
+          "text": "and today potus took control of *iran*",
+          "location": 965
+        },
+        {
+          "text": "big part in helping *iran* develop a",
+          "location": 973
+        },
+        {
+          "text": "was a speech where he explains that *iran*",
+          "location": 1069
+        },
+        {
+          "text": "*iran* also it seems like the fight with",
+          "location": 1087
+        },
+        {
+          "text": "*iran* is more wanted by israel and saudi",
+          "location": 1091
+        },
+        {
+          "text": "suggested existed on behalf of *iran* in",
+          "location": 1136
+        },
+        {
+          "text": "put there by *iran* so you guys let me",
+          "location": 1165
+        },
+        {
+          "text": "negotiation of the *iran* deal by john",
+          "location": 1193
+        },
+        {
+          "text": "*iran* just like he's done in north korea",
+          "location": 1283
+        },
+        {
+          "text": "on this the *iran* deal or the deal kept",
+          "location": 1446
+        },
+        {
+          "text": "*iran* quiet i think *iran* knows a lot more",
+          "location": 1450
+        },
+        {
+          "text": "in the negotiation process with *iran* by",
+          "location": 1464
+        },
+        {
+          "text": "trump in the *iran* deal until his",
+          "location": 1507
+        },
+        {
+          "text": "they're running with *iran* with this deal",
+          "location": 1520
+        },
+        {
+          "text": "did - written to *iran* and to make this",
+          "location": 1534
+        }
+      ]
+    },
+    {
+      "id": "IC9FN_fY2go",
+      "segments": [
+        {
+          "text": "look at the *iran* hoax is it gonna be the",
+          "location": 39
+        },
+        {
+          "text": "between *iran* and north korea and why is",
+          "location": 113
+        },
+        {
+          "text": "program and that the jcpoa the *iran* deal",
+          "location": 152
+        },
+        {
+          "text": "*iran* in achieving a nuclear capable",
+          "location": 230
+        },
+        {
+          "text": "been in place *iran* has had free rein to",
+          "location": 234
+        },
+        {
+          "text": "component systems in essence *iran* has",
+          "location": 266
+        },
+        {
+          "text": "article from reuters saying *iran*",
+          "location": 300
+        },
+        {
+          "text": "particular plane land outside of *iran*",
+          "location": 483
+        },
+        {
+          "text": "when was the joint plan of action *iran*",
+          "location": 527
+        },
+        {
+          "text": "valerie jarrett born in *iran* look at the",
+          "location": 671
+        },
+        {
+          "text": "toward *iran* they were actually you know",
+          "location": 685
+        },
+        {
+          "text": "saudi arabia and *iran* so you have to",
+          "location": 690
+        },
+        {
+          "text": "clown operation was the *iran* deal the",
+          "location": 783
+        },
+        {
+          "text": "*iran* nuclear deal well yes because they",
+          "location": 866
+        },
+        {
+          "text": "create the *iran* nuclear deal so think",
+          "location": 920
+        },
+        {
+          "text": "*iran* so basically they're trying to",
+          "location": 982
+        },
+        {
+          "text": "what the call to action is from *iran*",
+          "location": 1007
+        },
+        {
+          "text": "be the next thing it'll be the *iran* hoax",
+          "location": 1018
+        },
+        {
+          "text": "ukraine hoax now it's gonna be the *iran*",
+          "location": 1022
+        },
+        {
+          "text": "of *iran* to beg for forgiveness for",
+          "location": 1048
+        },
+        {
+          "text": "*iran* coming out and putting an 80",
+          "location": 1085
+        }
+      ]
+    },
+    {
+      "id": "Ima-kdh9Zo0",
+      "segments": [
+        {
+          "text": "took control *iran* next and here you can",
+          "location": 941
+        }
+      ]
+    },
+    {
+      "id": "iQHR1-6RKGY",
+      "segments": [
+        {
+          "text": "*iran* and nobody in congress fbi or",
+          "location": 283
+        },
+        {
+          "text": "the *iran* deal which was a way for them",
+          "location": 553
+        }
+      ]
+    },
+    {
+      "id": "is45doBHO4k",
+      "segments": [
+        {
+          "text": "themselves with the she is in *iran* and",
+          "location": 106
+        },
+        {
+          "text": "that exist in *iran* primarily so what",
+          "location": 139
+        },
+        {
+          "text": "allegedly being funded by *iran* so and",
+          "location": 335
+        },
+        {
+          "text": "on today with israel and *iran* of turkey",
+          "location": 1031
+        },
+        {
+          "text": "fight *iran* if *iran* attacks them it's the",
+          "location": 1234
+        },
+        {
+          "text": "idea that *iran* is getting ready to",
+          "location": 1236
+        },
+        {
+          "text": "houthi rebels and you men backed by *iran*",
+          "location": 1245
+        }
+      ]
+    },
+    {
+      "id": "J296P7VE5p8",
+      "segments": [
+        {
+          "text": "in case of military strike on *iran* well",
+          "location": 559
+        }
+      ]
+    },
+    {
+      "id": "J2spK-T9ev0",
+      "segments": [
+        {
+          "text": "get into it what does it talk about *iran*",
+          "location": 769
+        }
+      ]
+    },
+    {
+      "id": "J8tQL-J1p-4",
+      "segments": [
+        {
+          "text": "secretary of state north korea *iran*",
+          "location": 1125
+        },
+        {
+          "text": "he's going to deal with *iran* russia",
+          "location": 1416
+        },
+        {
+          "text": "pipeline to eu senate 2.0 uranium *iran*",
+          "location": 1758
+        }
+      ]
+    },
+    {
+      "id": "Jqmk-9gfMoc",
+      "segments": [
+        {
+          "text": "this *iran* china italy these are",
+          "location": 821
+        },
+        {
+          "text": "of italy you have *iran* in another",
+          "location": 837
+        },
+        {
+          "text": "these regimes *iran* italy china and it",
+          "location": 862
+        },
+        {
+          "text": "restrictions announced affecting *iran*",
+          "location": 915
+        }
+      ]
+    },
+    {
+      "id": "k2pfkR9ey1o",
+      "segments": [
+        {
+          "text": "sessions *iran* he knows exactly what to",
+          "location": 2359
+        }
+      ]
+    },
+    {
+      "id": "kmwVSMKdhaU",
+      "segments": [
+        {
+          "text": "airplanes and flew them to *iran* not",
+          "location": 1854
+        }
+      ]
+    },
+    {
+      "id": "Ko4YrWusYB0",
+      "segments": [
+        {
+          "text": "hussein *iran* connection bombs away",
+          "location": 256
+        }
+      ]
+    },
+    {
+      "id": "kPNmP4e9jfA",
+      "segments": [
+        {
+          "text": "*iran* today it's just so maddening",
+          "location": 774
+        }
+      ]
+    },
+    {
+      "id": "kv41joeMcM4",
+      "segments": [
+        {
+          "text": "*iran* so something incredible is about to",
+          "location": 130
+        },
+        {
+          "text": "good people of *iran* have the power fight",
+          "location": 137
+        },
+        {
+          "text": "*iran* you know if you i don't know how",
+          "location": 141
+        },
+        {
+          "text": "very often happening in *iran* especially",
+          "location": 225
+        },
+        {
+          "text": "situation in *iran* but he's giving us",
+          "location": 242
+        },
+        {
+          "text": "we talked about *iran* we talked about how",
+          "location": 1561
+        },
+        {
+          "text": "was born in *iran* and then it says a",
+          "location": 1671
+        },
+        {
+          "text": "particular plane land outside of *iran*",
+          "location": 1802
+        },
+        {
+          "text": "the joint plan of action *iran* deal",
+          "location": 1852
+        },
+        {
+          "text": "companies into *iran* following the",
+          "location": 1913
+        },
+        {
+          "text": "which is *iran* the exclusive corporate",
+          "location": 1961
+        },
+        {
+          "text": "*iran* so whose pockets did they did it",
+          "location": 1975
+        }
+      ]
+    },
+    {
+      "id": "L3Ij2cvGFkY",
+      "segments": [
+        {
+          "text": "another in *iran* says march madness",
+          "location": 879
+        }
+      ]
+    },
+    {
+      "id": "l8r-U_GKKPw",
+      "segments": [
+        {
+          "text": "in *iran* a juan is physically stolen from",
+          "location": 1051
+        }
+      ]
+    },
+    {
+      "id": "l8TEy3DabHA",
+      "segments": [
+        {
+          "text": "you know you look at the *iran* deal you",
+          "location": 405
+        },
+        {
+          "text": "disastrous *iran* nuclear deal they wanted",
+          "location": 632
+        },
+        {
+          "text": "briefing on *iran* with 14 different",
+          "location": 688
+        }
+      ]
+    },
+    {
+      "id": "LcYUTlXa9LA",
+      "segments": [
+        {
+          "text": "other for us to include *iran* which trump",
+          "location": 414
+        },
+        {
+          "text": "is you know brought forward and *iran*",
+          "location": 482
+        },
+        {
+          "text": "will be next the *iran* information will",
+          "location": 485
+        },
+        {
+          "text": "malick was on i said look at *iran* info",
+          "location": 489
+        },
+        {
+          "text": "the *iran* shake-up will be next day it",
+          "location": 492
+        }
+      ]
+    },
+    {
+      "id": "LIwSMMqCTfU",
+      "segments": [
+        {
+          "text": "about the *iran* deal talked about maybe a",
+          "location": 909
+        },
+        {
+          "text": "discussing the *iran* deal and some",
+          "location": 931
+        },
+        {
+          "text": "that viewing i believe *iran* a lot",
+          "location": 936
+        },
+        {
+          "text": "coming from with respect to *iran* *iran* is",
+          "location": 954
+        },
+        {
+          "text": "that with regard to the *iran* deal he's",
+          "location": 1007
+        },
+        {
+          "text": "*iran* deal you decide cue and that's what",
+          "location": 1034
+        },
+        {
+          "text": "macron was to get him to see the *iran*",
+          "location": 1050
+        },
+        {
+          "text": "the *iran* deal he never leaves you should",
+          "location": 1472
+        }
+      ]
+    },
+    {
+      "id": "LniEKTpx8Qo",
+      "segments": [
+        {
+          "text": "*iran* thank you",
+          "location": 61
+        },
+        {
+          "text": "strategic strikes against *iran* base",
+          "location": 72
+        },
+        {
+          "text": "up by *iran* because they understand the",
+          "location": 853
+        }
+      ]
+    },
+    {
+      "id": "M-MA0geeqcs",
+      "segments": [
+        {
+          "text": "*iran*",
+          "location": 1578
+        },
+        {
+          "text": "i wish *iran* best wishes and good luck",
+          "location": 1578
+        },
+        {
+          "text": "launch pad so good luck with that *iran*",
+          "location": 1641
+        }
+      ]
+    },
+    {
+      "id": "m-ODejCbNWA",
+      "segments": [
+        {
+          "text": "president of *iran* louis farrakhan and",
+          "location": 2
+        },
+        {
+          "text": "farrakhan and the president of *iran*",
+          "location": 51
+        },
+        {
+          "text": "right now you have the president of *iran*",
+          "location": 773
+        },
+        {
+          "text": "of *iran* hassan rouhani now this is right",
+          "location": 898
+        },
+        {
+          "text": "of action which is aka the *iran* deal aka",
+          "location": 910
+        },
+        {
+          "text": "economic relief to *iran* along with over",
+          "location": 920
+        },
+        {
+          "text": "says *iran* is the number one state",
+          "location": 1034
+        },
+        {
+          "text": "*iran* deal where they could basically pay",
+          "location": 2191
+        },
+        {
+          "text": "off handsomely the moves of *iran* and",
+          "location": 2193
+        },
+        {
+          "text": "*iran* to corporate development and",
+          "location": 2206
+        }
+      ]
+    },
+    {
+      "id": "m2iCTKjwGZY",
+      "segments": [
+        {
+          "text": "hussein *iran* connection bombs away merry",
+          "location": 742
+        }
+      ]
+    },
+    {
+      "id": "mDGN4mIrYTs",
+      "segments": [
+        {
+          "text": "it says *iran* nuke deal north korea new",
+          "location": 1472
+        }
+      ]
+    },
+    {
+      "id": "mh_UlTxOQQ8",
+      "segments": [
+        {
+          "text": "unfit for command atomic *iran* minutemen",
+          "location": 1361
+        }
+      ]
+    },
+    {
+      "id": "MKMicgqhopw",
+      "segments": [
+        {
+          "text": "merlin tech *iran* north korea *iran* deal",
+          "location": 46
+        },
+        {
+          "text": "funding *iran* north korea t-cells payoffs",
+          "location": 51
+        },
+        {
+          "text": "administration to provide *iran* with a",
+          "location": 84
+        },
+        {
+          "text": "weapons program or to frame *iran* now",
+          "location": 93
+        },
+        {
+          "text": "something they ran in *iran* now they're",
+          "location": 145
+        },
+        {
+          "text": "*iran* deal funding we all know what the",
+          "location": 148
+        },
+        {
+          "text": "*iran* deal how that happened it was all",
+          "location": 151
+        }
+      ]
+    },
+    {
+      "id": "MQkqD0MhKnY",
+      "segments": [
+        {
+          "text": "2013 all around the time of the *iran*",
+          "location": 963
+        },
+        {
+          "text": "for *iran* and you see when you start",
+          "location": 979
+        }
+      ]
+    },
+    {
+      "id": "mQmoOcT31Ro",
+      "segments": [
+        {
+          "text": "same thing with *iran* remember was",
+          "location": 320
+        }
+      ]
+    },
+    {
+      "id": "msr6oM0RLew",
+      "segments": [
+        {
+          "text": "*iran* hi i'm craig and welcome to just",
+          "location": 6
+        },
+        {
+          "text": "with *iran* as q tells us here he says",
+          "location": 321
+        },
+        {
+          "text": "*iran* is next and this is going to be",
+          "location": 323
+        },
+        {
+          "text": "and *iran* and no matter what we want to",
+          "location": 329
+        },
+        {
+          "text": "you you can't be aligned with *iran* and",
+          "location": 364
+        },
+        {
+          "text": "and *iran* have chosen to run their banks",
+          "location": 374
+        },
+        {
+          "text": "going this is all part of the *iran* play",
+          "location": 575
+        },
+        {
+          "text": "which is going to be *iran* we're gonna",
+          "location": 581
+        },
+        {
+          "text": "*iran* this is the perfect point of",
+          "location": 584
+        },
+        {
+          "text": "moving and pushing in *iran* which will be",
+          "location": 697
+        },
+        {
+          "text": "*iran* play so you guys have that to look",
+          "location": 730
+        },
+        {
+          "text": "which will be the *iran* game which will",
+          "location": 990
+        },
+        {
+          "text": "we're playing and it's all about *iran*",
+          "location": 1547
+        },
+        {
+          "text": "syria is the key to *iran* that's why we",
+          "location": 1550
+        }
+      ]
+    },
+    {
+      "id": "no6rrhl9HP4",
+      "segments": [
+        {
+          "text": "thing *iran* lied victim after signing the",
+          "location": 54
+        },
+        {
+          "text": "*iran* intensified its efforts to hide its",
+          "location": 63
+        },
+        {
+          "text": "test in eastern *iran* three four five we",
+          "location": 253
+        },
+        {
+          "text": "*iran* is brazenly lie when it says it",
+          "location": 287
+        },
+        {
+          "text": "are cutlery shows that *iran* planned at",
+          "location": 294
+        },
+        {
+          "text": "conclusions first *iran* lied about never",
+          "location": 311
+        },
+        {
+          "text": "after the deal *iran* continued to",
+          "location": 325
+        },
+        {
+          "text": "them at a later date third *iran* lied",
+          "location": 342
+        },
+        {
+          "text": "deal and finally the *iran* deal a nuclear",
+          "location": 352
+        },
+        {
+          "text": "*iran* continues to line so this is a",
+          "location": 380
+        },
+        {
+          "text": "from going to war with *iran*",
+          "location": 534
+        },
+        {
+          "text": "would like to see *iran* end up as a",
+          "location": 558
+        },
+        {
+          "text": "hearing that *iran* which i'm not in any",
+          "location": 590
+        }
+      ]
+    },
+    {
+      "id": "nspGMcDjCKM",
+      "segments": [
+        {
+          "text": "*iran* very closely as one of the people",
+          "location": 2082
+        },
+        {
+          "text": "own in *iran* he would use his position of",
+          "location": 2121
+        }
+      ]
+    },
+    {
+      "id": "ntdGh-KbrDw",
+      "segments": [
+        {
+          "text": "strings cut we took control *iran* next",
+          "location": 863
+        },
+        {
+          "text": "to be on the list is *iran* so i look",
+          "location": 890
+        },
+        {
+          "text": "posting it says *iran* next a tougher nut",
+          "location": 1046
+        },
+        {
+          "text": "done the same in *iran* and he told us on",
+          "location": 1085
+        }
+      ]
+    },
+    {
+      "id": "o6KJkaLISn8",
+      "segments": [
+        {
+          "text": "with *iran* and that basically this is a",
+          "location": 196
+        },
+        {
+          "text": "despise *iran* and they're gonna try to",
+          "location": 210
+        },
+        {
+          "text": "destroy *iran* being one of",
+          "location": 233
+        },
+        {
+          "text": "see *iran* as a clear and present danger",
+          "location": 240
+        },
+        {
+          "text": "excuse me although *iran* has not been at",
+          "location": 251
+        },
+        {
+          "text": "inside *iran* that are supporting radicals",
+          "location": 265
+        },
+        {
+          "text": "of people don't trust *iran* well i'm here",
+          "location": 382
+        },
+        {
+          "text": "out for *iran* and the the king of saudi",
+          "location": 395
+        },
+        {
+          "text": "*iran* has new cap what about israel",
+          "location": 425
+        },
+        {
+          "text": "us in *iran* okay so this is ben rhodes",
+          "location": 735
+        },
+        {
+          "text": "the *iran* deal argue it should be",
+          "location": 746
+        },
+        {
+          "text": "even though *iran* is complying because of",
+          "location": 748
+        },
+        {
+          "text": "something *iran* did before the deal and",
+          "location": 751
+        },
+        {
+          "text": "to prevent *iran* from doing those things",
+          "location": 756
+        },
+        {
+          "text": "administration gave *iran* everything up",
+          "location": 764
+        },
+        {
+          "text": "whole *iran* conflict this is all about a",
+          "location": 843
+        },
+        {
+          "text": "it's very similar to somewhere like *iran*",
+          "location": 880
+        },
+        {
+          "text": "in my opinion with *iran* saying basically",
+          "location": 924
+        },
+        {
+          "text": "with *iran* so we're going in we're",
+          "location": 992
+        },
+        {
+          "text": "going into this *iran* renegotiation with",
+          "location": 1020
+        },
+        {
+          "text": "*iran* deal and then trump has to decide",
+          "location": 1031
+        },
+        {
+          "text": "this picture that *iran* is actively",
+          "location": 1060
+        },
+        {
+          "text": "running a nuclear program now is *iran*",
+          "location": 1062
+        },
+        {
+          "text": "happening here with the the *iran* nuclear",
+          "location": 1122
+        },
+        {
+          "text": "country just like the *iran* thing that we",
+          "location": 1368
+        }
+      ]
+    },
+    {
+      "id": "oC62RUXGAeo",
+      "segments": [
+        {
+          "text": "struck senior who worked in *iran* and was",
+          "location": 1372
+        },
+        {
+          "text": "struck lived in inside *iran* where his",
+          "location": 1384
+        }
+      ]
+    },
+    {
+      "id": "ofmaPjLqKpY",
+      "segments": [
+        {
+          "text": "as well so the next post says free *iran*",
+          "location": 1698
+        },
+        {
+          "text": "i said before the hardliners in *iran*",
+          "location": 1710
+        },
+        {
+          "text": "who are fighting that regime in *iran* and",
+          "location": 1715
+        },
+        {
+          "text": "*iran* succeed in enacting this this great",
+          "location": 1744
+        },
+        {
+          "text": "fighters in *iran* and sure some of you",
+          "location": 1767
+        },
+        {
+          "text": "firewalls in *iran* i'm sure they've",
+          "location": 1775
+        },
+        {
+          "text": "aren't *iran* probably don't comment if",
+          "location": 1781
+        }
+      ]
+    },
+    {
+      "id": "OjodkECxTFE",
+      "segments": [
+        {
+          "text": "country and presumably end up in *iran*",
+          "location": 1190
+        },
+        {
+          "text": "have so much going on in *iran* you have",
+          "location": 1269
+        },
+        {
+          "text": "illegal in *iran* but we stand with the",
+          "location": 1290
+        },
+        {
+          "text": "as *iran* does this to their people and",
+          "location": 1296
+        },
+        {
+          "text": "*iran* god bless you and you know good",
+          "location": 1302
+        },
+        {
+          "text": "think this is a message to *iran* saying",
+          "location": 1308
+        },
+        {
+          "text": "saying we're working on *iran* right now i",
+          "location": 1361
+        }
+      ]
+    },
+    {
+      "id": "OQCgaoqYPDQ",
+      "segments": [
+        {
+          "text": "slush funds and into *iran* and into you",
+          "location": 632
+        }
+      ]
+    },
+    {
+      "id": "oXoEIlNO77U",
+      "segments": [
+        {
+          "text": "he grew up in *iran* he was working with",
+          "location": 763
+        },
+        {
+          "text": "*iran* and saudi arabia and that his",
+          "location": 802
+        }
+      ]
+    },
+    {
+      "id": "p5s61jAYDzE",
+      "segments": [
+        {
+          "text": "*iran* rose up against the crimes of their",
+          "location": 4436
+        },
+        {
+          "text": "*iran* in their courageous struggle for",
+          "location": 4448
+        },
+        {
+          "text": "fundamental flaws in the terrible *iran*",
+          "location": 4468
+        }
+      ]
+    },
+    {
+      "id": "peHd3IOjylg",
+      "segments": [
+        {
+          "text": "happened in *iran* obviously and",
+          "location": 2409
+        }
+      ]
+    },
+    {
+      "id": "PN8oDcxVDKU",
+      "segments": [
+        {
+          "text": "atomic *iran* 2005 minutemen 2006 and the",
+          "location": 1119
+        }
+      ]
+    },
+    {
+      "id": "pOgq_axpn1k",
+      "segments": [
+        {
+          "text": "was with *iran* or it was with spying on",
+          "location": 312
+        }
+      ]
+    },
+    {
+      "id": "q8N3XgSDddU",
+      "segments": [
+        {
+          "text": "launching strikes against *iran*-backed",
+          "location": 1209
+        }
+      ]
+    },
+    {
+      "id": "qJZUzPJM_8o",
+      "segments": [
+        {
+          "text": "land the deal with *iran* basically or",
+          "location": 231
+        },
+        {
+          "text": "says *iran* next closed brackets rex",
+          "location": 246
+        }
+      ]
+    },
+    {
+      "id": "QlB-DTGsxA4",
+      "segments": [
+        {
+          "text": "satellite in *iran* which just so happened",
+          "location": 695
+        },
+        {
+          "text": "going to allow *iran* and north korea and",
+          "location": 763
+        },
+        {
+          "text": "these *iran* and others so i mean",
+          "location": 826
+        }
+      ]
+    },
+    {
+      "id": "QuIScPQ4-HI",
+      "segments": [
+        {
+          "text": "over *iran* we'll be watching",
+          "location": 739
+        }
+      ]
+    },
+    {
+      "id": "R1LjmP8-04A",
+      "segments": [
+        {
+          "text": "obama officials continue to advise *iran*",
+          "location": 41
+        },
+        {
+          "text": "beginning talking about *iran* and the you",
+          "location": 145
+        },
+        {
+          "text": "absolutely zero except *iran* got a bunch",
+          "location": 152
+        },
+        {
+          "text": "cyber attacks against *iran* after he",
+          "location": 169
+        },
+        {
+          "text": "happening with *iran* they don't have the",
+          "location": 232
+        },
+        {
+          "text": "advising *iran* on how to counter",
+          "location": 299
+        },
+        {
+          "text": "the past about *iran* and and how to",
+          "location": 417
+        },
+        {
+          "text": "about red cross and it says *iran* and",
+          "location": 425
+        },
+        {
+          "text": "armenia and then it's *iran* and we're on",
+          "location": 616
+        },
+        {
+          "text": "the *iran* stage now and you're asking",
+          "location": 618
+        },
+        {
+          "text": "korea and *iran* and other or other places",
+          "location": 667
+        }
+      ]
+    },
+    {
+      "id": "r509r1pO2R0",
+      "segments": [
+        {
+          "text": "is all around the time of the *iran* deal",
+          "location": 445
+        },
+        {
+          "text": "*iran* deal as well and how its purported",
+          "location": 451
+        },
+        {
+          "text": "to north korea or me and *iran* rather",
+          "location": 461
+        },
+        {
+          "text": "weapons to *iran* okay and this is all",
+          "location": 468
+        }
+      ]
+    },
+    {
+      "id": "rhU9LM5NMjw",
+      "segments": [
+        {
+          "text": "*iran* ironic or apropos that this storm",
+          "location": 1597
+        }
+      ]
+    },
+    {
+      "id": "RqvIfoLVDOk",
+      "segments": [
+        {
+          "text": "connection to *iran* and how did all of",
+          "location": 731
+        },
+        {
+          "text": "facilitate the deal that brought *iran*",
+          "location": 736
+        },
+        {
+          "text": "that bring their rate the *iran* deal to",
+          "location": 744
+        },
+        {
+          "text": "what is happening is connection to *iran*",
+          "location": 857
+        },
+        {
+          "text": "*iran* and then the creation of isis where",
+          "location": 871
+        }
+      ]
+    },
+    {
+      "id": "RWwMA7NgHPw",
+      "segments": [
+        {
+          "text": "australian bloggers went to *iran* to",
+          "location": 609
+        },
+        {
+          "text": "to *iran* to travel through it to show",
+          "location": 624
+        },
+        {
+          "text": "between president trump and *iran* where",
+          "location": 658
+        },
+        {
+          "text": "in *iran* and that they're either going to",
+          "location": 668
+        },
+        {
+          "text": "through the whole *iran* deal",
+          "location": 698
+        }
+      ]
+    },
+    {
+      "id": "SCrkA-IU-MA",
+      "segments": [
+        {
+          "text": "*iran* funding and supplying them you know",
+          "location": 1165
+        },
+        {
+          "text": "*iran* in north korea and it reduced the",
+          "location": 1207
+        }
+      ]
+    },
+    {
+      "id": "SIa7IJeIZTs",
+      "segments": [
+        {
+          "text": "saying official *iran* should attract",
+          "location": 240
+        },
+        {
+          "text": "to *iran* and the whole point of the",
+          "location": 255
+        },
+        {
+          "text": "companies in *iran* and this an article",
+          "location": 291
+        },
+        {
+          "text": "companies investing in *iran* that were a",
+          "location": 303
+        },
+        {
+          "text": "which is the name for the *iran* deal that",
+          "location": 312
+        },
+        {
+          "text": "the deal and *iran* is demanding that the",
+          "location": 324
+        },
+        {
+          "text": "of time *iran* to develop a nuclear",
+          "location": 337
+        },
+        {
+          "text": "hardliners in *iran* still despise america",
+          "location": 374
+        },
+        {
+          "text": "jcpoa which was the *iran* deal of failure",
+          "location": 463
+        }
+      ]
+    },
+    {
+      "id": "Smgbk6_u95o",
+      "segments": [
+        {
+          "text": "will provide *iran* with critical",
+          "location": 556
+        },
+        {
+          "text": "done to *iran* since i become president is",
+          "location": 586
+        },
+        {
+          "text": "week *iran* nuclear deal and i will tell",
+          "location": 594
+        },
+        {
+          "text": "you *iran* is a much different country",
+          "location": 599
+        }
+      ]
+    },
+    {
+      "id": "svsHMcqSxo0",
+      "segments": [
+        {
+          "text": "damage can ruff china do two dems *iran*",
+          "location": 1696
+        }
+      ]
+    },
+    {
+      "id": "TiTXAXiDfUc",
+      "segments": [
+        {
+          "text": "captured in *iran* in 2007 while working",
+          "location": 1609
+        }
+      ]
+    },
+    {
+      "id": "tsbPU6Db2kY",
+      "segments": [
+        {
+          "text": "plane to *iran* well we all know it was",
+          "location": 477
+        },
+        {
+          "text": "the iranians as part of the *iran* deal",
+          "location": 481
+        }
+      ]
+    },
+    {
+      "id": "tyzocNwNQKM",
+      "segments": [
+        {
+          "text": "like uranium one and deals like the *iran*",
+          "location": 459
+        },
+        {
+          "text": "see that the whole *iran* deal start to",
+          "location": 491
+        },
+        {
+          "text": "think the *iran* deal was about you guys",
+          "location": 499
+        },
+        {
+          "text": "*iran* it was selling access to the",
+          "location": 508
+        },
+        {
+          "text": "emerging market of *iran* to the old blue",
+          "location": 511
+        }
+      ]
+    },
+    {
+      "id": "U7kcy4JVL-A",
+      "segments": [
+        {
+          "text": "*iran* deal i'm craig and welcome to just",
+          "location": 4
+        },
+        {
+          "text": "cue post says *iran* is next kill box",
+          "location": 56
+        },
+        {
+          "text": "problems than ever before signal to *iran*",
+          "location": 67
+        },
+        {
+          "text": "payments to *iran* as a part of the deal",
+          "location": 109
+        },
+        {
+          "text": "warheads then it's saying *iran* nuke deal",
+          "location": 146
+        },
+        {
+          "text": "missile technologies to *iran* and north",
+          "location": 221
+        },
+        {
+          "text": "on the *iran* deal it was a terrible deal",
+          "location": 273
+        },
+        {
+          "text": "reasonable deal that the *iran* deal is a",
+          "location": 278
+        },
+        {
+          "text": "happen and this was a signal to *iran* i",
+          "location": 316
+        },
+        {
+          "text": "of the *iran* agreement where it actually",
+          "location": 323
+        },
+        {
+          "text": "dollars and in *iran* deals this is from",
+          "location": 336
+        },
+        {
+          "text": "talking about *iran* being next and we'll",
+          "location": 407
+        },
+        {
+          "text": "to remain in the *iran* deal you decide q",
+          "location": 424
+        },
+        {
+          "text": "charge of evil regimes such as *iran* so",
+          "location": 450
+        },
+        {
+          "text": "in the *iran* deal q says what's at risk",
+          "location": 470
+        },
+        {
+          "text": "that's being siphoned into *iran* when you",
+          "location": 497
+        }
+      ]
+    },
+    {
+      "id": "UAHuVEBXel4",
+      "segments": [
+        {
+          "text": "low blow to an old friend and it's *iran*",
+          "location": 374
+        },
+        {
+          "text": "flow blow to john kerry just by *iran*",
+          "location": 383
+        },
+        {
+          "text": "*iran* deal going and subverting the",
+          "location": 404
+        },
+        {
+          "text": "like *iran* and north korea nuclear",
+          "location": 1192
+        }
+      ]
+    },
+    {
+      "id": "ubHkJ2JOyYc",
+      "segments": [
+        {
+          "text": "is *iran*",
+          "location": 339
+        },
+        {
+          "text": "important q told us to reread the *iran*",
+          "location": 352
+        },
+        {
+          "text": "and what deal was done with *iran* under",
+          "location": 421
+        },
+        {
+          "text": "lot of the connections between *iran* and",
+          "location": 623
+        },
+        {
+          "text": "growing up in *iran* which i believe is",
+          "location": 638
+        },
+        {
+          "text": "on *iran* and the fund and supply then you",
+          "location": 874
+        },
+        {
+          "text": "have uranium one fund a supply *iran* in",
+          "location": 905
+        },
+        {
+          "text": "place and it was a way to give *iran* like",
+          "location": 1125
+        },
+        {
+          "text": "were fired by president trump in *iran*",
+          "location": 1192
+        },
+        {
+          "text": "to *iran* about a nuclear facility that",
+          "location": 1195
+        },
+        {
+          "text": "why is *iran* such a key figure in all",
+          "location": 1210
+        },
+        {
+          "text": "conspiracy and the fact that *iran* was",
+          "location": 1269
+        },
+        {
+          "text": "the deal set up with *iran* through obama",
+          "location": 1316
+        },
+        {
+          "text": "president rouhani and *iran* in order to",
+          "location": 1324
+        },
+        {
+          "text": "think that *iran* was trying to make with",
+          "location": 1351
+        }
+      ]
+    },
+    {
+      "id": "uM3wMO8soPk",
+      "segments": [
+        {
+          "text": "*iran* and well i'm the one that talks",
+          "location": 14
+        },
+        {
+          "text": "for some kind of conflict in *iran* and",
+          "location": 851
+        },
+        {
+          "text": "but you do have situations like *iran* you",
+          "location": 911
+        }
+      ]
+    },
+    {
+      "id": "UqoqSIhUkis",
+      "segments": [
+        {
+          "text": "for *iran* it says it never was about",
+          "location": 1766
+        },
+        {
+          "text": "to *iran* four routes five planes why did",
+          "location": 1796
+        },
+        {
+          "text": "in *iran* post deal and it gives this link",
+          "location": 1812
+        },
+        {
+          "text": "people panicking about *iran* deal out",
+          "location": 1827
+        },
+        {
+          "text": "real quick nothing about the *iran* deal",
+          "location": 1837
+        },
+        {
+          "text": "*iran* deal was all about it was never",
+          "location": 1844
+        },
+        {
+          "text": "*iran*",
+          "location": 1867
+        },
+        {
+          "text": "exchange was in order for *iran* to allow",
+          "location": 1899
+        },
+        {
+          "text": "1.7 billion cash that was sent to *iran*",
+          "location": 1952
+        },
+        {
+          "text": "land in *iran* but where did the other",
+          "location": 1960
+        },
+        {
+          "text": "*iran* to get a nuclear program and in not",
+          "location": 1986
+        },
+        {
+          "text": "immediately closed large deals in *iran*",
+          "location": 2003
+        },
+        {
+          "text": "in to invest in *iran* before or after the",
+          "location": 2017
+        },
+        {
+          "text": "*iran* deal was put up and it's saying",
+          "location": 2020
+        },
+        {
+          "text": "of *iran* it's not like that all the",
+          "location": 2103
+        },
+        {
+          "text": "*iran* deal plot well obviously because",
+          "location": 2129
+        },
+        {
+          "text": "because someone in *iran* is threatened to",
+          "location": 2196
+        },
+        {
+          "text": "out about what's going on in *iran* maybe",
+          "location": 2293
+        },
+        {
+          "text": "responds coincidence after *iran* deal",
+          "location": 2302
+        },
+        {
+          "text": "withdrawal from *iran* deal so that the",
+          "location": 2316
+        }
+      ]
+    },
+    {
+      "id": "UYZK6SLUDac",
+      "segments": [
+        {
+          "text": "*iran* new north korea uranium one fbi doj",
+          "location": 1639
+        }
+      ]
+    },
+    {
+      "id": "v__k4yoGtr0",
+      "segments": [
+        {
+          "text": "states in the *iran* deal hi i'm craig and",
+          "location": 8
+        },
+        {
+          "text": "*iran* deal will hit german companies and",
+          "location": 1551
+        },
+        {
+          "text": "trade between germany and *iran* reached",
+          "location": 1555
+        },
+        {
+          "text": "and this article here is from the *iran*",
+          "location": 1579
+        },
+        {
+          "text": "on *iran* going through the list it talks",
+          "location": 1586
+        },
+        {
+          "text": "by *iran* which is currently the world's",
+          "location": 1600
+        },
+        {
+          "text": "*iran* signing in july a five billion",
+          "location": 1618
+        },
+        {
+          "text": "dollar 20-year agreement with *iran* so",
+          "location": 1621
+        },
+        {
+          "text": "agreement with *iran* who's about to get",
+          "location": 1628
+        },
+        {
+          "text": "*iran* was telling trump he's worried",
+          "location": 1654
+        },
+        {
+          "text": "what about preventing *iran* nuclear",
+          "location": 1675
+        },
+        {
+          "text": "elected leaders report to pickle *iran*",
+          "location": 1693
+        },
+        {
+          "text": "will *iran* expose the names of corrupt",
+          "location": 1696
+        },
+        {
+          "text": "trade agreements with *iran* basically or",
+          "location": 1723
+        },
+        {
+          "text": "just germany does with *iran* and then an",
+          "location": 1727
+        },
+        {
+          "text": "with *iran* so why were they both at the",
+          "location": 1739
+        },
+        {
+          "text": "*iran* nuclear capabilities it was fake",
+          "location": 1755
+        },
+        {
+          "text": "the money keeps rolling in to *iran* from",
+          "location": 1768
+        },
+        {
+          "text": "just took us out of the *iran* deal so he",
+          "location": 1779
+        },
+        {
+          "text": "of the nuclear possibility for *iran* and",
+          "location": 1787
+        },
+        {
+          "text": "the *iran* deal because they have these",
+          "location": 1811
+        },
+        {
+          "text": "dollars into *iran* and they're pressuring",
+          "location": 1845
+        },
+        {
+          "text": "into *iran* while we're in the middle of",
+          "location": 1864
+        },
+        {
+          "text": "dictatorship of *iran* that we've",
+          "location": 1933
+        },
+        {
+          "text": "there's a moderate factions in *iran* i'm",
+          "location": 1938
+        },
+        {
+          "text": "and pickle and it's saying will *iran*",
+          "location": 1990
+        },
+        {
+          "text": "was with kerry and *iran* and they were",
+          "location": 2082
+        },
+        {
+          "text": "*iran* agreement and the congressional",
+          "location": 2093
+        },
+        {
+          "text": "and ti moni's *iran* and n ti being",
+          "location": 2112
+        },
+        {
+          "text": "*iran* and they got that the corrupt",
+          "location": 2176
+        },
+        {
+          "text": "deceptive nature of the *iran* deal and",
+          "location": 2200
+        },
+        {
+          "text": "the deal was a con against *iran* and in",
+          "location": 2230
+        }
+      ]
+    },
+    {
+      "id": "v7n8XMG6_lU",
+      "segments": [
+        {
+          "text": "regime change in *iran* oh wow hi clowns",
+          "location": 2190
+        },
+        {
+          "text": "cue followers we want the people of *iran*",
+          "location": 2271
+        }
+      ]
+    },
+    {
+      "id": "vdBH5hXgTx0",
+      "segments": [
+        {
+          "text": "obama gave *iran* 150 billion dollars and",
+          "location": 1070
+        }
+      ]
+    },
+    {
+      "id": "VDNvoDprdXw",
+      "segments": [
+        {
+          "text": "the *iran* deal possibly could that money",
+          "location": 310
+        },
+        {
+          "text": "transfers that took place through *iran*",
+          "location": 316
+        },
+        {
+          "text": "deals in his final term with *iran* and",
+          "location": 383
+        }
+      ]
+    },
+    {
+      "id": "VdW3BTCrFyk",
+      "segments": [
+        {
+          "text": "believe that *iran* would like to make a",
+          "location": 1224
+        },
+        {
+          "text": "*iran* deal that they made look what",
+          "location": 1243
+        },
+        {
+          "text": "happened since i terminated the *iran*",
+          "location": 1244
+        },
+        {
+          "text": "deal look what has happened to *iran* *iran*",
+          "location": 1247
+        },
+        {
+          "text": "looking to have *iran* say no nuclear",
+          "location": 1287
+        },
+        {
+          "text": "we'll make a deal i think *iran* again i",
+          "location": 1297
+        },
+        {
+          "text": "think *iran* has tremendous economic",
+          "location": 1299
+        },
+        {
+          "text": "can show that i think *iran* i know so",
+          "location": 1307
+        },
+        {
+          "text": "many people from *iran* these are great",
+          "location": 1309
+        }
+      ]
+    },
+    {
+      "id": "vH2LP87XOhM",
+      "segments": [
+        {
+          "text": "atomic *iran* and minutemen and the obama",
+          "location": 272
+        }
+      ]
+    },
+    {
+      "id": "vNBvyX0c2GU",
+      "segments": [
+        {
+          "text": "in the middle of antarctica on *iran* the",
+          "location": 435
+        }
+      ]
+    },
+    {
+      "id": "vo2k76mYB48",
+      "segments": [
+        {
+          "text": "*iran*-contra look at what they were doing",
+          "location": 1294
+        }
+      ]
+    },
+    {
+      "id": "VOiG-bND5gw",
+      "segments": [
+        {
+          "text": "to *iran* and north korean proliferation",
+          "location": 104
+        }
+      ]
+    },
+    {
+      "id": "wENuaVviKSo",
+      "segments": [
+        {
+          "text": "with *iran* especially since the media",
+          "location": 990
+        },
+        {
+          "text": "happens with *iran* but that's gonna be",
+          "location": 1005
+        }
+      ]
+    },
+    {
+      "id": "wgx-dnhKrBU",
+      "segments": [
+        {
+          "text": "it john kerry's in *iran* now telling them",
+          "location": 976
+        },
+        {
+          "text": "salvage *iran* deal he helped craft and",
+          "location": 1036
+        }
+      ]
+    },
+    {
+      "id": "WQ505PlHjnA",
+      "segments": [
+        {
+          "text": "turkey and *iran* remember that in the",
+          "location": 907
+        },
+        {
+          "text": "four as allies against *iran* now what is",
+          "location": 923
+        },
+        {
+          "text": "turkey and *iran* what's going on in those",
+          "location": 1021
+        }
+      ]
+    },
+    {
+      "id": "X1Ei27wYEkk",
+      "segments": [
+        {
+          "text": "says *iran* nuke deal north korea new",
+          "location": 1556
+        },
+        {
+          "text": "fund supply *iran* north korea plus reduce",
+          "location": 1626
+        }
+      ]
+    },
+    {
+      "id": "X28tURO5Cq0",
+      "segments": [
+        {
+          "text": "like *iran* who chant death to america and",
+          "location": 539
+        }
+      ]
+    },
+    {
+      "id": "x8rM1oZB8U8",
+      "segments": [
+        {
+          "text": "people protesting for freedom in *iran* or",
+          "location": 1521
+        },
+        {
+          "text": "know dictatorship of the mullahs in *iran*",
+          "location": 1566
+        }
+      ]
+    },
+    {
+      "id": "XD8UWjkcE1s",
+      "segments": [
+        {
+          "text": "pushing president trump into this *iran*",
+          "location": 123
+        },
+        {
+          "text": "strike on *iran* and then president trump",
+          "location": 138
+        },
+        {
+          "text": "that into what happened with *iran* now",
+          "location": 907
+        },
+        {
+          "text": "are why is *iran* protected why is it ran",
+          "location": 913
+        },
+        {
+          "text": "funded by the us what news about *iran*",
+          "location": 916
+        },
+        {
+          "text": "type of government like *iran* where they",
+          "location": 936
+        },
+        {
+          "text": "russia's back in *iran* we know that so",
+          "location": 980
+        },
+        {
+          "text": "*iran* but let's say that we hit them at",
+          "location": 1032
+        },
+        {
+          "text": "targets in *iran* in response to these",
+          "location": 1087
+        },
+        {
+          "text": "approving the strike on *iran* but then",
+          "location": 1261
+        },
+        {
+          "text": "and terrible deal with *iran* gave them",
+          "location": 1292
+        },
+        {
+          "text": "dollars in cash *iran* was in big trouble",
+          "location": 1296
+        },
+        {
+          "text": "instead of saying thank you *iran* yelled",
+          "location": 1303
+        },
+        {
+          "text": "night *iran* can never have nuclear",
+          "location": 1352
+        },
+        {
+          "text": "against and the whole thing with *iran*",
+          "location": 1397
+        }
+      ]
+    },
+    {
+      "id": "XISLjXeWUwk",
+      "segments": [
+        {
+          "text": "*iran* and the money that was shipped over",
+          "location": 1052
+        }
+      ]
+    },
+    {
+      "id": "XpBu8gmssPY",
+      "segments": [
+        {
+          "text": "worked in iraq why not replicate in *iran*",
+          "location": 782
+        },
+        {
+          "text": "how much money cash was sent to *iran* it",
+          "location": 784
+        },
+        {
+          "text": "about how the u.s. paid *iran* 1.3 billion",
+          "location": 788
+        },
+        {
+          "text": "happen in *iran* and where does that money",
+          "location": 813
+        },
+        {
+          "text": "imparted denouncing *iran* over its human",
+          "location": 1010
+        }
+      ]
+    },
+    {
+      "id": "xsFay-hybec",
+      "segments": [
+        {
+          "text": "*iran* the cia what did they do they",
+          "location": 1096
+        },
+        {
+          "text": "*iran* deal and funneled billions of",
+          "location": 1138
+        }
+      ]
+    },
+    {
+      "id": "xsO-xNEhoBI",
+      "segments": [
+        {
+          "text": "think john kerry is speaking to *iran* a",
+          "location": 15
+        },
+        {
+          "text": "been doing with *iran* so now this is",
+          "location": 768
+        },
+        {
+          "text": "*iran* and this is from back in september",
+          "location": 778
+        },
+        {
+          "text": "*iran* and then as you saw president trump",
+          "location": 786
+        }
+      ]
+    },
+    {
+      "id": "YlYxp4VTDgw",
+      "segments": [
+        {
+          "text": "their secret diplomacy *iran* deals all of",
+          "location": 527
+        }
+      ]
+    },
+    {
+      "id": "yQrUOHG8e2k",
+      "segments": [
+        {
+          "text": "*iran* what does what deal was done with",
+          "location": 1489
+        },
+        {
+          "text": "*iran* under barack obama why was the deal",
+          "location": 1492
+        },
+        {
+          "text": "of the hashtag *iran* deal things that",
+          "location": 1547
+        },
+        {
+          "text": "i'm a deal with *iran* how we would it",
+          "location": 1558
+        },
+        {
+          "text": "you know we signed a deal with *iran* we",
+          "location": 1613
+        },
+        {
+          "text": "u.s. with *iran* who is the enemy now well",
+          "location": 2910
+        }
+      ]
+    },
+    {
+      "id": "YSq6X6aQhd0",
+      "segments": [
+        {
+          "text": "president of *iran* it says who paid",
+          "location": 673
+        },
+        {
+          "text": "born *iran* interesting hassan rowhani",
+          "location": 754
+        },
+        {
+          "text": "the *iran* deal and i think the",
+          "location": 806
+        },
+        {
+          "text": "set up if you look at what the *iran* deal",
+          "location": 811
+        },
+        {
+          "text": "world basically in *iran* and to have",
+          "location": 824
+        }
+      ]
+    },
+    {
+      "id": "yuNxrYT4t58",
+      "segments": [
+        {
+          "text": "to get to *iran* in north korea and how",
+          "location": 149
+        },
+        {
+          "text": "ties to *iran* much to the dismay of",
+          "location": 689
+        },
+        {
+          "text": "do that they were trying to *iran*",
+          "location": 1050
+        },
+        {
+          "text": "and it goes on to say *iran* nuke deal",
+          "location": 1101
+        },
+        {
+          "text": "came from *iran* was next they're the ones",
+          "location": 1210
+        }
+      ]
+    },
+    {
+      "id": "Z3cDEAKbMyA",
+      "segments": [
+        {
+          "text": "in basically the *iran* that is creating",
+          "location": 284
+        },
+        {
+          "text": "resistance of *iran* or the national",
+          "location": 321
+        },
+        {
+          "text": "council of resistance of *iran* i should",
+          "location": 323
+        },
+        {
+          "text": "news update calm and it's by the *iran*",
+          "location": 338
+        },
+        {
+          "text": "council of resistance of *iran* and they",
+          "location": 372
+        },
+        {
+          "text": "mulas of *iran* and it's gonna be",
+          "location": 431
+        },
+        {
+          "text": "a strategy to negotiate with *iran* and",
+          "location": 444
+        }
+      ]
+    },
+    {
+      "id": "ZTV18-GhqyU",
+      "segments": [
+        {
+          "text": "to *iran* to work the fbi records show",
+          "location": 433
+        },
+        {
+          "text": "this move toward *iran* and opening up our",
+          "location": 480
+        },
+        {
+          "text": "drop iranian precondition for *iran*",
+          "location": 502
+        }
+      ]
+    }
+  ]
+}

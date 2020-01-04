@@ -1,0 +1,33 @@
+{
+  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI",
+  "topic": "North Korea",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "LYi9ICll9Rg",
+      "segments": [
+        {
+          "text": "in south *korea* things get better the",
+          "location": 1790
+        },
+        {
+          "text": "gospel is not welcome in *north* *korea*",
+          "location": 1795
+        },
+        {
+          "text": "south *korea* but what can you buy from",
+          "location": 1803
+        },
+        {
+          "text": "*north* *korea* who is god less who doesn't",
+          "location": 1805
+        },
+        {
+          "text": "*north* *korea* kim jong-eun suddenly",
+          "location": 2641
+        }
+      ]
+    }
+  ]
+}

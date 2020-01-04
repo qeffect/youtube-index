@@ -1,0 +1,744 @@
+{
+  "indexed": "__lGfKxA0WI,_-_MVJecq5I,_5WkbucPT4g,_ec7XMfirg4,_EqneJRgSe8,_idzf18MYXs,_Ne214s756k,_Ob8jo-qOCU,_q5-lvNqF8Y,_TPUfVabVHU,_tRUka84Q10,_UMxGoem_cE,_YS92pFld0Y,-_4Za6eoYwY,-0DjA_r32uQ,-3F6SZZIT-E,-5M7Y-zFyZ0,-9msE7-ydts,-Avsxw6BrhI,-b8zWS3tty4,-e5ABbWTn8M,-i-6mNaKI3I,-icWyKwjrY8,-kDAK81lyaY,-kYE2w6y-GA,-MYXqXNhcnc,-P8dkAqUKZY,-tSHN-cRXo0,-VRexocuLyU,-zsJy_pc_gQ,0-8SzdsEPn0,047r18PmzXg,06ZhNoUqwA4,0C27jD9e-j0,0ICCjllfcD0,0jspiMXND2A,0kkMEbbFd9M,0NUQEdAWVkQ,0q_eYZ-zjys,0SJGTnXKJLk,0th1OKXNQXY,0thRJXOyyOs,0VW3c_f1WOI,0Ytkx1pvnL8,1-v18VEV4Rg,18k-mw0lGZ0,1atlaAzWtj4,1FoSp-tBfp4,1Qa_cX1DPn8,1s9fsICUfOw,1WmbX3JQa0c,1ya6QF21RjE,1ZoQGfCIQP4,22knD94PYNw,23GkaHyU2R4,23Zi93zyS6U,24o5bLbjYh0,29VWyFZAo98,2J-isPoaOe8,2MEzlpSs3hI,2qRm-XvaYGk,2vQA-V9OnxY,2XVtrBvxoNQ,3_9MzitOhpg,3-sR3LmB0N0,305W5z9yzW0,32HzhZpqqHs,32nTGjvWF9c,34kHft924rA,3cgcmRKlIhU,3ciusVGxdno,3E_KWnG6gO8,3fi1bx4oWOE,3GvhthG2rXo,3iT9_AqKX2M,3mCWwiYSQsM,3n_fTHOHmP4,3VJvZsz9VQk,3Vpaplt92is,3WDtVeSSyrU,3WzJtUe634M,3XT99f5rZkY,3YdbQS2xw0E,40cx-g-mfDk,41qO6bukotY,4aR7zbZf3pE,4ATvSzS-TLU,4dX3v4Z4aec,4fS6egD9cSc,4mNbB0RTuoI,4MXimasATsA,4nk3rY194h8,4oXIn88QFbc,4qQd8Qu7aPM,4VCgU1v0c3I,56hnR-UeVbI,59IbF_o4Xxc,5flC3-UkdyU,5PhM32xlVEs,5RLxQOvZxXs,5St08kicLiU,5uzjLst8w68,5VFOltHRXbM,6_wyHLXHqx4,60xrsFvDYYk,6Ezxw-UNmQI,6foOgmaZN-s,6kESQU65fUA,6KttPC8JV3s,6o54Y7dhOus,6PsL7aVI12U,6sbgm3s49BM,6sC4YqrrbsQ,73cggmTCclY,7a8EAuTwhdU,7d3A9Wi1xu0,7drP1GmKuhA,7HQEEo9pTxI,7kzKO982UIQ,7OUm208GUDs,7UT-kOjOka4,80z15a0xsUQ,81p3jRVXGk4,8gkGfhtpurY,8pa8Er939dg,8QiuuwivwsM,8z6EDkIocXI,91aT7JIOIbY,9gYGBZ6wUIE,9hqxfV040oQ,9K-4Jc2l-7U,9lbn3bkROBc,9lgC6A9CGqY,9LwjAgU_2hc,9w_UO-KJccs,9xhpctWntoI,9YBPFZ6r5nY,9yIsVlJ2qAY,9zB7TNiGuDw,A4-cSwxHsV4,a4jwV9NnySU,A52PfmoHm8I,a67Ukzg63u8,A7HbMpBAg8c,A82praOPfpo,AaP-PP8-KGk,aAzQwARAo28,ABM5Oj2s6eI,aC12-gepI3U,aCfOGluhEKI,aDPMNOgOz4E,aDUDC92PxcU,AJ_U54u6gbE,ajiBcgtAY-w,aJWZ_APGg6A,AKPMK0xaRN0,AmbKxQ51VWc,aN9TllOemSA,ANDq9-ttO-w,Ao2abBxOiLY,AOParRtlvFQ,ApHsdbvYgFA,aqGYpuYdbOM,Ar3JvKPGr40,ARwagwGekv0,AuJjdL3A0Wc,AvcEuGghWQk,aWGr7i2-IYA,AwzaAL1pDXQ,aXwILTOVL0M,AyLUG-qQcCA,B5_naGkaBDg,B5MFHmezpn8,B5mo-Rnwm4s,bbAaX9B5ncY,bbpmtRc18WQ,BC_VRjt8gvw,BcZjAF2oFEE,Bd0NHLMVTAQ,BFuaMj35qAo,bG3PLtnHSuc,BGt8AVBwAQc,BLJVjp0lq4g,bmipWlYsyEM,bMWIDBnA6Z4,Bn2OlX_4C4Q,bNHR5T64ooQ,bNMvlOzCsZk,Bozlwr1uHco,BpeOtb7CWeE,bPVLncDuirE,BR9EIDuUBJQ,bTFNebYIotU,bYRSIwwnCFU,bzAYF7yEn7Y,bzCEAKmxlVs,C_h2RLZEGEk,c1C7epr44bw,c7Yfc_JZAaU,CCLJZ-bM01Q,CDZhS3BfdB0,CeXQ15A9BSA,CIkVvgIT6qs,cKGw_Hrtajc,cKObBT3BQ4A,CksmGxdCvPQ,cLcHOtY9fgk,coYoIINOWcQ,cpAeoTwKHlc,cpPgoi7zUjo,cu1homOW9CE,CunzrKChTpI,CX6apttsGjs,CxaPpbC3pgA,CXbRscylFsY,CYE1-7NSG2g,cyjt9Vm0imo,D-va4Jpkt38,D-y5ALLiCZ4,D3zc2JmlHK0,D4AkLrH0WtI,D8mzSBBfnNQ,D8RUia2q5wA,daON-Y2Ph5w,DCkhkkb2nqM,DdiM5lA-05c,ddZfJCoq65o,DeEBJcmrjAU,dh_NJhuVafY,dHHqYCCujKY,DiRI7rhc4qE,DJJw71TSho4,dJspwk8huY4,dKaqjJzl0vg,DksI8ZPmBNE,dlZUFvOqJeY,dNI6tUGGJNM,dONKuAjf26Q,dos0E9blpHw,DsDBNF7mhqk,DSqcbzBojYk,Du5Cit3oe6w,duZHG7VDNm4,DxGp_peYB_A,e6gS2_fX0oY,e6mIdK0LLWk,e8AyslO62b8,e8xXVMiChuQ,E9n2iFMyXjQ,EcbwKNO6TBI,eERaZvdF6Ms,ees6El-Jay0,ejBAqhxqAkQ,EK0R7sdxAFQ,ekJ4hKREY8U,eLy1XqX9IcU,En-VTreZMTs,F3oAIzyo0HQ,F4IPqNACpvI,FAhsY5AIWWY,FDEmEvwZtrM,fHohiZp5hGc,FJGnynqfiCQ,Fo9T0LNhNqQ,fOQPFgF5Etg,FPUae6qsjdw,FS65Eef4z7o,fSwdVMLq8zI,FuBVeoPBd0U,fWjIv0WgyqA,fWk2XKmiQOI,fXA4SlMx-Mg,Fz5fZ_7pia4,G2ZwwI5fN0E,g57p8aQQSbY,G5RiRuFIh8Y,g90iVaKS8Mc,gCaHEfyXkA0,gdEzIz7ievE,gDlgmkVKpy0,GDx66bXgYq4,GFEth1i97yY,gG4fzaWuo9w,GhikRA2no60,gJ7o1StrKv8,Gk2tr29fY6Q,gKGT2jlVrgI,gkMB1_gooM0,gkO-A-sYsH0,GmuQx9AiYD4,GN4nmRCU0AY,gojwzzPJQrg,GrWwOG5yFFM,GThX5ssVBn0,GUip6dZpKEs,gUkB5Kk4WAA,H1FABkrnIaE,h6koxkXAJLU,h6y5TxpDvbs,h9dW3QCrYso,hA31PrCznjw,Hb187lnYh0o,HgE2EqazY68,hhPRDd4gOEI,hIrbIOaAUxg,hKdsv2EbSSo,hl-FK4t_9lA,HLRFTyNBlFY,hLumnOkZynU,hLWMbjtpLn0,Hm1iTIa7rFk,hMhDNxC-EB4,HMpv5DpVVUY,hMQTN9L1dBE,Huj55Cm9qH8,hUouIgbrNZY,HWjAwmGq654,HxhtJ-1kd5k,hy9Uo864i5g,hZGSNKUFjQk,I2-S22FiEvg,I2t1cPgCvJo,I2zRq3kdLbk,I3pn7Xex-Ks,i3rp0Uim-0o,i4AnsQlVTvQ,I5h76-o1Kjw,i8VDK89xXzg,I8VIDULc_jQ,iAIDKPNVjzU,ifJ_GtRJ5qM,Ig7fshISKmk,igDMQaECoSw,IifnpOcm0b4,ik-J2hrNaWo,IKpl4TeHwPg,iOLlT7CbqKs,iPX6pJ1dD1s,IS-CvxLX47Y,IsG3gQIRxno,IsjWF9k7TZE,iTFkB2iXkgI,iTFXxHtlImY,iu9vMZwMqgI,IUcqrB04ZpE,IuIhXyjMG28,iUolMe2Bu-M,IuVzHVFtFIE,iwCYGrXqmqw,iwIfxOwYNOE,IwvvrAh-JyA,ixHuaqf211Y,iXPDVq2lGsc,j6boJmmzNcg,j9gG0WZWO2M,jaInrf7dB30,jal0jAoFV70,Jcekm05d-so,JD4r7qP0OLw,jEgmVdV6HBE,JeGwCPRojJo,jgHK6JZonJM,JLPKO3AKA14,JMN2uWdknac,jN-MkK8djcY,JNaC6eDgjAk,jnUZD1wnBn8,jR_FxV3DYyU,jS-yK_ueKZw,jSZnoRobYTE,JT-aith5f5E,JvaI4JCd5ig,jZ_tr0NnNjE,k2bZBA1A82U,k2MXyXKRlN0,K2TOaYHNhDs,K3kiPpMhKkQ,k3m1P3Vie6s,k55kWdrN8hw,k9LVltxQF2Y,kan3dn8Q8nA,KbWsgGeTrb0,KDVsepSqmys,KgYgMWFqbEc,kHxWvaMOwhM,Kl3MyuzCdRs,KM6DTC_i-8s,kNNz1UEwF-E,KpFP8X1JTiI,KPj--UF1T0k,kRGV4cIdWwM,KSP24qYeWgs,ku6qyUwUgWo,KVb-rUXG6h0,KW1hgV9CBqk,KXHpsXQV82g,KXW0hS3aOjA,L-4ADrZak_4,l0PDi1KDi1w,L1mLdTih8gg,L4Sa4dArQUE,L61XF64Ls8E,l9qBVI4SVP0,lb46GsmPTsI,ldX0CQ2UUfI,LFlKG-VVzMc,LInNbS1JErM,LiU5TfehWW8,lj8AH-4ajRw,LjzWwM9Y9zg,llnr6CG6lHM,Llr69yow55Y,llsND2qpTjM,lNKXqkyE2NQ,lOGKAbcAVzE,LQ4NioOxuGM,lUOYOF9DuSs,LwTvS9v15LE,LXCTMl_Jp9M,LygxI2VGhDU,m_PowDSDjEE,m1HAZ0ESYD0,M1ODHcuO0V0,m2kffLdykTs,m30mwu-9WW0,m3193w4W8Po,m5p9p9LBEpM,MATnFsqiC7Y,Mc5wHbV6irw,mCy59eLFjZg,McZuVVn7fEw,miQPk7qxSvs,Ml1Ys-sDe4o,mlmAUPNPev0,mLZkwKOueVI,mMVX1iGgRac,MO8yy324jyk,MpiqVbdFnlo,mPovmVmAgXs,MsBWU2CFf-U,MUyBpTbvDmw,N-BsO-mirZQ,N-Nsni2kalY,N0l4oFEKoCY,N37LrIj7a8E,N4MwW69zjdk,NbUtbE4Zpoc,Nett68JXMUk,NFBFDRSsaU0,nfDm-SuYSrQ,nhR65A2Cz1U,nJ5B8GnH3mE,NJf-Tr3BrqI,njWcrYwundg,NObMClb6nMY,noiATviQJ3Y,NoLKqBPGGLQ,nPRGWjUYGow,nPtPHMYmnsk,Nqbj_4nIAiA,NqL7EeYTd9s,NS200QxWq7g,nsUd370-n9Q,Nt4ug94a134,NVIEhqdvMCo,NVRVSzP0rFU,NVUbej8exEk,NY7B_THWsM8,Nzx4XSf_fAI,O_R4bM7ONJk,obm0AKIypPI,OCzJwGE7RTY,OdS-XmHla-U,OdXjpK_tLRg,OE_u4IbopVo,OGL_5cu0F-M,OgrLw9IX-Ns,ojYZBeCwYis,oK2ZWHTdbpA,ooHxX3whFXA,OOxgnEI8_NI,oReGR3Bjjmw,oSZzclsh00Y,otE6dhCgsJc,Oun53CRXyeI,OwECoLGRl68,oX7b3YzRNXk,ox9yzjeHt3s,ozbHMNhYe0A,oZz9CJ9K8MA,P0cawbGyBxM,p0Qy24DXfdY,P12Gc4WmCak,P3jy8S0P-2w,p6_gLv5qy8E,p6GmDJEkOQk,p6wFKOTyR60,P8xmUD4Gmrw,PA9MTquQya0,pAK-a8Op8KI,pauS_rhaYO0,PBiBq_DiHmo,pbjkl0DwxHs,Pg21pJPDzEU,phbygYipE-g,Pi8_BZtYNzQ,PkeO8SN0cN4,plJqp67-iX4,PNsZI-uZH7I,PsQlxu6iOzI,pt17lUpcskk,PtAxf8A1Zco,ptvgcLZ3HOw,PvWDJd2UYT8,pwM9WH8pqaY,PWMXacQWEjs,pyMrzxZBZZQ,pZ5q5wUI1-Y,pZhHd9KT2lk,q0IR8IqKZ18,Q1nmx353lDo,q2ItOTBF1ys,Q4MG607MDz4,q6hnQoB_BlI,q78RNxcI38U,q7I8sj_3rlM,q7prMUoyMEo,Q84zuHjjuww,Qa2bfVP6ChQ,qB9zc5VAanc,QC7qRbcWsN0,qcEDt4YOkS8,qCmySBiZXVA,qdwN5mt9V2c,qFumeKZX_MA,QJaNPlhmdSM,QK6Y2tnFIAw,qlFnlzOoFgo,qNurdjNB-rw,Qo2GL5T8T_E,Qq339b2xOrY,qRKU3XXIwlI,qSFeOuQEXXw,QSMC7VnqOnQ,QtYci9jXct4,QuVpIqeSRnU,qwbX5au3Iuw,qWhpDyoLyR8,qX2Z7mLBM1k,qZMy5wog24o,qZZGyHrnsQM,R_iWc7_vQ14,r-vKLD9F61M,R1g3eyyM590,r1IYwxp0NNs,r1pXJkMaAmc,RCPgq96ku4k,rdE4NEIZACI,REcAj2PLMu4,RenafscRgUY,RgdXwexLI_Y,RGFh5qOWU3U,RLczNzWBbpE,RmZj7uATNFM,rqks6sKCmDc,Rt85IKjQ9hs,rUpElK5Qw3E,rVrthFN9dnI,rX0dkfDOO1s,rxMOShu0yQk,RZf9IVaRgdo,S2U7ncJQ000,S4mKQajGJl4,s6H86oQEC2I,SaR5pCeCjao,SAwrlpHFmOc,sBy_LmO3b7k,SePTbZOh8iE,sHUgXraPhAc,siBW29AUMrw,skkII0awwFM,sKMZRv9JY_A,sLv3F7kLpB4,SovJjIjmI6M,sR5B-vb3Fi0,svK1ajIeprU,svwSKZ926yY,SvyN0PlWwkM,swc_HIr-8WA,Sx3ElJlX7wQ,SxPNu1XMYKA,sxWWB5aKNk8,T_mJ1awyakY,T3TRP5tX3T0,T5IM3P9Md-4,t6dwa21eo_M,TCtPeZP1H0g,td8PwMAtpQI,TdNo4qfgAb4,TeFw8eqcLco,tfW6YjVSx0U,Tg0_AZbm71E,TgzkblYi9pg,THy-FwvnIqQ,tJjx9eVGzSY,tK7YaJnYETw,TKK1o-pPPkQ,tkLyxIo8Cqo,tkm-n8lbhLg,TKOI_wF6Rn0,Tr5IR4SqKcA,TsjX9SPfvSA,Tus8Yc2qNXc,TX1rZO2bLJ8,u_apd9SGqLc,U1GOoEoYLy8,u1gZGn0l8y4,u3TgwapRzSA,u9zCkZgwoik,UA8VNiOraJI,uaXp0CBucos,uJn58OP3GEI,uJYAdCT7xFA,uKCq7HfZh9A,UKfHVu47LXo,Up-MRtsG4Tw,UpaXSxM07to,urRt-Yju_SU,UrzdhfUMR6k,UsuA0HSRXzo,UuJpA7lXi7g,uUsLnKlWMkU,UVea--jSv1A,uvYdZu80X9Y,uWFJruvCPhc,UwVr2kwMjI0,uxDmAVpZ91Q,V-8xYjEosOY,V4OPmN3e8F8,V59pKIXUQuM,v5G6fZkyhXg,v6JLwp0aFpc,Vafm-ZaLAyI,vafXYoDY5dw,vcqHF8DDsNk,VfelKh4yN9g,vInE2aOTFdw,ViODeAbI2IQ,vK3bX5D1ysc,VKhRSDIFJK0,vL7VfteARhQ,vLnzuy_aeGQ,VLxlCXAuo08,VtMhFvMTyHQ,VVsAZ0AGHeo,vZDynmvvgWg,w_A3W-OJyNw,W0APO4axfn4,w0OSb7FbXas,W7UmZWUWBMQ,WB_PkYN9MFI,wCcjEszzrTI,wdwWgzAq48E,wdXHxEEAvps,wg5sukd6E6Q,WHSd5tVWq1I,wjeEg2yoJbM,WKfsgQLVsHk,WlZQhQXwYTI,WmhFYQnlKB4,wNgdMwL7isA,WOmDWYRAtiA,WsnaqvLhEUk,wu0Utsff6Jo,WvCBdE6rolk,WwBj0YnLtX0,x1EXDDlmrVU,x1UII7bCsvQ,x27EZLRmoAU,x4XfpmZxDq0,Xe8yEypTfNA,XfNnvWPlprc,Xg7s8fovfh8,xKxi0Bbl_Fs,Xl5iO-2wzq0,xLDnc1Vm99w,XMo_G2k5Wso,XobWx6C6lJs,xQVu3ywd2RU,XRABi40G2T4,xS-hT1sfvfs,Xtk7ntK7k14,xU1ilgRmqsk,xUDwyRTojUM,xXRUfka1XFM,Y31yR524zWU,y3LgzaKBw2w,y3OVColWu-g,Y8DPHUnnvXU,YaMWl4cmqkw,yb_kKBcdsRc,ybgD2ibYB0o,YDS7nKcT3rk,yEf7XF-JNy4,yf8ObyPk568,yFQEK_KaTMA,yIh9oqXg4JU,YiLWFF__qiM,YIPBQ3O8Wr0,yK2UAmF7gYA,ym22gqkQmUA,ymm3YfCfVUs,yOGL3BrXZlA,YpPXlDhdkOg,YSc4GkdMm-E,ysHQziNaMOo,ySHvJqNfN7I,ySSnEYdnsEM,ytA3-R4Fi4M,yu7cOa_9gN0,yVjAH8Wg-hk,ywKQGnLaYdk,Z_nveKGRnsI,Z5o33xspXi4,z5obz0z7rdo,z7s8UaWeshs,Z8oojkEH6Eo,z9GTRwjpZLo,zBBzw6WImlY,zCKlkgpTrXo,zdehlx8vy4U,zffLUSbaqlw,zGk_J9B9MDw,zgK4F6NW32s,ZgOL1h0-8Ok,ZGsWdjqtO-w,zgU0j8HGfX4,zIU-AuvMwqU,zjqEsdevnaU,zKar6awuy2Q,zoQmiHuW8nc,ZpqZoQBWXVo,ZpXeRJcgZlU,ZqMTDLT6akA,ZRISi-Y-X3s,ZseKL2q2S-E,zUxgy98UTp4,zw8yzCjmYcI,zziC-o5xumc,ZZTz8nYZ6vA,hj7ubtDDtik",
+  "topic": "Las Vegas",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "-3F6SZZIT-E",
+      "segments": [
+        {
+          "text": "we have the *las* *vegas* shooting that",
+          "location": 456
+        },
+        {
+          "text": "*las* *vegas* shooting that occurred",
+          "location": 810
+        },
+        {
+          "text": "getting we got *las* *vegas* these semi",
+          "location": 1872
+        },
+        {
+          "text": "this particular mass shooting in *las*",
+          "location": 1919
+        },
+        {
+          "text": "*vegas* i mean it's it's unbelievable how",
+          "location": 1921
+        },
+        {
+          "text": "get to the truth of the *las* *vegas* shoes",
+          "location": 1954
+        },
+        {
+          "text": "night of *las* *vegas* mass shooting there",
+          "location": 2231
+        }
+      ]
+    },
+    {
+      "id": "-Avsxw6BrhI",
+      "segments": [
+        {
+          "text": "before we move on in *las* *vegas* last",
+          "location": 56
+        },
+        {
+          "text": "it's saying *las* *vegas* gunman quote was a",
+          "location": 214
+        }
+      ]
+    },
+    {
+      "id": "047r18PmzXg",
+      "segments": [
+        {
+          "text": "live from *las* *vegas* on primetime fox",
+          "location": 543
+        },
+        {
+          "text": "they're not letting the *las* *vegas* topic",
+          "location": 592
+        }
+      ]
+    },
+    {
+      "id": "0VW3c_f1WOI",
+      "segments": [
+        {
+          "text": "i'm in *las* *vegas* for that mufon",
+          "location": 300
+        }
+      ]
+    },
+    {
+      "id": "18k-mw0lGZ0",
+      "segments": [
+        {
+          "text": "in *las* *vegas* that's where george knapp",
+          "location": 560
+        }
+      ]
+    },
+    {
+      "id": "1atlaAzWtj4",
+      "segments": [
+        {
+          "text": "*las* *vegas* let's talk about that for a",
+          "location": 346
+        },
+        {
+          "text": "the *las* *vegas* shooters laptop was",
+          "location": 382
+        },
+        {
+          "text": "right perfect so understand that *las*",
+          "location": 440
+        },
+        {
+          "text": "*vegas* false flag next fbi informant to",
+          "location": 444
+        }
+      ]
+    },
+    {
+      "id": "1ya6QF21RjE",
+      "segments": [
+        {
+          "text": "my 1 on the *las* *vegas* shooting that i",
+          "location": 24
+        },
+        {
+          "text": "since that log at *las* *vegas* shooting",
+          "location": 87
+        },
+        {
+          "text": "*las* *vegas* shooting because that is fresh",
+          "location": 214
+        },
+        {
+          "text": "the *las* *vegas* shooting is absolutely",
+          "location": 485
+        },
+        {
+          "text": "blow peto gate or these false flags *las*",
+          "location": 637
+        },
+        {
+          "text": "*vegas* shooting out of the water which",
+          "location": 639
+        }
+      ]
+    },
+    {
+      "id": "23Zi93zyS6U",
+      "segments": [
+        {
+          "text": "one-year anniversary of the *las* *vegas*",
+          "location": 56
+        },
+        {
+          "text": "note of that because with this *las* *vegas*",
+          "location": 73
+        },
+        {
+          "text": "we need the truth disclosed about so *las*",
+          "location": 90
+        },
+        {
+          "text": "*vegas* shooting one year ago heart goes",
+          "location": 94
+        }
+      ]
+    },
+    {
+      "id": "4oXIn88QFbc",
+      "segments": [
+        {
+          "text": "weinstein the *las* *vegas* shooting right",
+          "location": 99
+        },
+        {
+          "text": "and he was definitely promoting my *las*",
+          "location": 124
+        },
+        {
+          "text": "*vegas* videos that i did so",
+          "location": 129
+        }
+      ]
+    },
+    {
+      "id": "6_wyHLXHqx4",
+      "segments": [
+        {
+          "text": "president at that *las* *vegas* rail",
+          "location": 256
+        },
+        {
+          "text": "at the *las* *vegas* rally recently but at",
+          "location": 280
+        }
+      ]
+    },
+    {
+      "id": "7UT-kOjOka4",
+      "segments": [
+        {
+          "text": "anyway on to the *las* *vegas* topic there",
+          "location": 918
+        },
+        {
+          "text": "identified in the *las* *vegas* massacre you",
+          "location": 925
+        },
+        {
+          "text": "person of interest in the *las* *vegas*",
+          "location": 941
+        },
+        {
+          "text": "and speaking of false flags *las* *vegas*",
+          "location": 973
+        },
+        {
+          "text": "news coming out about *las* *vegas* is and",
+          "location": 984
+        },
+        {
+          "text": "badass *las* *vegas* being outed cdc head",
+          "location": 1080
+        }
+      ]
+    },
+    {
+      "id": "8QiuuwivwsM",
+      "segments": [
+        {
+          "text": "of stuff having to do with the *las* *vegas*",
+          "location": 228
+        },
+        {
+          "text": "overly broad pattern matching to the *las*",
+          "location": 673
+        },
+        {
+          "text": "*vegas* shooting take out target websites",
+          "location": 676
+        }
+      ]
+    },
+    {
+      "id": "AKPMK0xaRN0",
+      "segments": [
+        {
+          "text": "the *las* *vegas* topic so fbi nightmare i",
+          "location": 654
+        },
+        {
+          "text": "orders *las* *vegas* police to release all",
+          "location": 662
+        },
+        {
+          "text": "the *las* *vegas* now they've reported some",
+          "location": 952
+        },
+        {
+          "text": "symposium was in *las* *vegas* last july and",
+          "location": 961
+        },
+        {
+          "text": "hitting alternate *las* *vegas* now is more",
+          "location": 1074
+        }
+      ]
+    },
+    {
+      "id": "AmbKxQ51VWc",
+      "segments": [
+        {
+          "text": "conference last year outside *las* *vegas* i",
+          "location": 1217
+        }
+      ]
+    },
+    {
+      "id": "AyLUG-qQcCA",
+      "segments": [
+        {
+          "text": "this *las* *vegas* *las* *vegas* shooting fake",
+          "location": 1575
+        },
+        {
+          "text": "news about *las* *vegas* fake news they even",
+          "location": 1578
+        },
+        {
+          "text": "*las* *vegas* you know a lot of stuff about",
+          "location": 1588
+        },
+        {
+          "text": "actor *las* *vegas* crisis actor i'm gonna",
+          "location": 1657
+        }
+      ]
+    },
+    {
+      "id": "bPVLncDuirE",
+      "segments": [
+        {
+          "text": "the dates man we have the *las* *vegas*",
+          "location": 48
+        },
+        {
+          "text": "aren't even over the *las* *vegas* incident",
+          "location": 101
+        }
+      ]
+    },
+    {
+      "id": "CunzrKChTpI",
+      "segments": [
+        {
+          "text": "there then you know i'm in *las* *vegas* for",
+          "location": 16
+        },
+        {
+          "text": "in a *las* *vegas* hotel so to do this i've",
+          "location": 273
+        }
+      ]
+    },
+    {
+      "id": "DCkhkkb2nqM",
+      "segments": [
+        {
+          "text": "*las* *vegas* shooting in over two months",
+          "location": 414
+        }
+      ]
+    },
+    {
+      "id": "gKGT2jlVrgI",
+      "segments": [
+        {
+          "text": "could be coming in that *las* *vegas*",
+          "location": 1070
+        },
+        {
+          "text": "an attorney for the *las* *vegas* metro",
+          "location": 1074
+        },
+        {
+          "text": "the *las* *vegas* police department is",
+          "location": 1091
+        }
+      ]
+    },
+    {
+      "id": "GN4nmRCU0AY",
+      "segments": [
+        {
+          "text": "*las* *vegas* is still going viral still",
+          "location": 723
+        }
+      ]
+    },
+    {
+      "id": "GThX5ssVBn0",
+      "segments": [
+        {
+          "text": "code for henderson *las* *vegas* right or",
+          "location": 1207
+        },
+        {
+          "text": "henderson nevada right next to *las* *vegas*",
+          "location": 1211
+        }
+      ]
+    },
+    {
+      "id": "I2t1cPgCvJo",
+      "segments": [
+        {
+          "text": "said at *las* *vegas* is mayweather in",
+          "location": 688
+        }
+      ]
+    },
+    {
+      "id": "iAIDKPNVjzU",
+      "segments": [
+        {
+          "text": "ago in *las* *vegas* during the mufon",
+          "location": 153
+        },
+        {
+          "text": "that we talked you know in *las* *vegas* he",
+          "location": 193
+        }
+      ]
+    },
+    {
+      "id": "KbWsgGeTrb0",
+      "segments": [
+        {
+          "text": "*las* *vegas* in july and what this is is",
+          "location": 32
+        }
+      ]
+    },
+    {
+      "id": "KM6DTC_i-8s",
+      "segments": [
+        {
+          "text": "talk about *las* *vegas* so this was some",
+          "location": 656
+        },
+        {
+          "text": "*las* *vegas* shooting warrants you know is",
+          "location": 681
+        },
+        {
+          "text": "we got *las* *vegas* the inspector general",
+          "location": 693
+        },
+        {
+          "text": "the *las* *vegas* shooting warrants so this",
+          "location": 728
+        }
+      ]
+    },
+    {
+      "id": "LFlKG-VVzMc",
+      "segments": [
+        {
+          "text": "because *las* *vegas* happened it was only",
+          "location": 1114
+        }
+      ]
+    },
+    {
+      "id": "m_PowDSDjEE",
+      "segments": [
+        {
+          "text": "what happened in *las* *vegas* - right and",
+          "location": 130
+        },
+        {
+          "text": "behind *las* *vegas* and you know everything",
+          "location": 455
+        },
+        {
+          "text": "now is directly tied to the *las* *vegas*",
+          "location": 459
+        }
+      ]
+    },
+    {
+      "id": "mMVX1iGgRac",
+      "segments": [
+        {
+          "text": "and the *las* *vegas* false-flag is just",
+          "location": 1077
+        }
+      ]
+    },
+    {
+      "id": "nfDm-SuYSrQ",
+      "segments": [
+        {
+          "text": "occurred last night in *las* *vegas*",
+          "location": 33
+        },
+        {
+          "text": "questions i have in regards to this *las*",
+          "location": 94
+        },
+        {
+          "text": "*vegas* shooting that i'm going to pose to",
+          "location": 96
+        },
+        {
+          "text": "also huge blocks in *las* *vegas* right and",
+          "location": 122
+        },
+        {
+          "text": "i was just in *las* *vegas* a couple months",
+          "location": 127
+        },
+        {
+          "text": "*las* *vegas* scene and this actor was also",
+          "location": 273
+        },
+        {
+          "text": "need this *las* *vegas* shooting to distract",
+          "location": 608
+        }
+      ]
+    },
+    {
+      "id": "nPRGWjUYGow",
+      "segments": [
+        {
+          "text": "*las* *vegas* shooter we'll also discuss a",
+          "location": 41
+        },
+        {
+          "text": "*las* *vegas* shooter steven paddock killed",
+          "location": 1083
+        },
+        {
+          "text": "letting this *las* *vegas* story die like so",
+          "location": 1130
+        }
+      ]
+    },
+    {
+      "id": "oReGR3Bjjmw",
+      "segments": [
+        {
+          "text": "hillary clinton or *las* *vegas* or things",
+          "location": 1217
+        }
+      ]
+    },
+    {
+      "id": "oSZzclsh00Y",
+      "segments": [
+        {
+          "text": "that like this *las* *vegas* false flag",
+          "location": 935
+        },
+        {
+          "text": "all of this doesn't come out *las* *vegas*",
+          "location": 998
+        }
+      ]
+    },
+    {
+      "id": "ozbHMNhYe0A",
+      "segments": [
+        {
+          "text": "*las* *vegas* mass shooting and thomas paine",
+          "location": 1056
+        },
+        {
+          "text": "knowledge at the fbi probe into the *las*",
+          "location": 1073
+        },
+        {
+          "text": "*vegas* shooting said that they haven't",
+          "location": 1076
+        }
+      ]
+    },
+    {
+      "id": "p6wFKOTyR60",
+      "segments": [
+        {
+          "text": "have this photo right here 1418 *las*",
+          "location": 970
+        },
+        {
+          "text": "*vegas* *las* *vegas* remove so right here we",
+          "location": 973
+        },
+        {
+          "text": "*las* *vegas* one that's another thought on",
+          "location": 990
+        },
+        {
+          "text": "photo we have *las* *vegas* i would hope",
+          "location": 1018
+        }
+      ]
+    },
+    {
+      "id": "q7I8sj_3rlM",
+      "segments": [
+        {
+          "text": "selling armour piercing ammo to the *las*",
+          "location": 882
+        },
+        {
+          "text": "*vegas* shooter so we reported on this",
+          "location": 885
+        },
+        {
+          "text": "in the *las* *vegas* massacre and this",
+          "location": 892
+        },
+        {
+          "text": "behind this *las* *vegas* shooting so it",
+          "location": 934
+        },
+        {
+          "text": "selling armor-piercing ammo to the *las*",
+          "location": 948
+        },
+        {
+          "text": "*vegas* shooter but of course in this",
+          "location": 949
+        }
+      ]
+    },
+    {
+      "id": "q7prMUoyMEo",
+      "segments": [
+        {
+          "text": "in *las* *vegas* so definitely will be",
+          "location": 203
+        }
+      ]
+    },
+    {
+      "id": "Qo2GL5T8T_E",
+      "segments": [
+        {
+          "text": "*las* *vegas* where it's even warmer i'll",
+          "location": 9
+        },
+        {
+          "text": "tell you why i'm going to *las* *vegas* in a",
+          "location": 12
+        },
+        {
+          "text": "to *las* *vegas* because in vegas next week",
+          "location": 123
+        }
+      ]
+    },
+    {
+      "id": "qRKU3XXIwlI",
+      "segments": [
+        {
+          "text": "a *las* *vegas* man blames the flu shot for",
+          "location": 351
+        },
+        {
+          "text": "triggering a rare disorder a man in *las*",
+          "location": 354
+        },
+        {
+          "text": "*vegas* has been hospitalized for over two",
+          "location": 357
+        }
+      ]
+    },
+    {
+      "id": "QtYci9jXct4",
+      "segments": [
+        {
+          "text": "side note on what's going on with *las*",
+          "location": 620
+        },
+        {
+          "text": "*vegas* because that kind of escapes the",
+          "location": 624
+        },
+        {
+          "text": "airport in *las* *vegas* at the same time",
+          "location": 646
+        },
+        {
+          "text": "instance this *las* *vegas* thing of course",
+          "location": 791
+        }
+      ]
+    },
+    {
+      "id": "r1IYwxp0NNs",
+      "segments": [
+        {
+          "text": "*las* *vegas* to play a lot of work to do",
+          "location": 29
+        }
+      ]
+    },
+    {
+      "id": "t6dwa21eo_M",
+      "segments": [
+        {
+          "text": "to be a ufo over *las* *vegas* and we'll",
+          "location": 704
+        }
+      ]
+    },
+    {
+      "id": "UVea--jSv1A",
+      "segments": [
+        {
+          "text": "expo in *las* *vegas* nevada and i went to",
+          "location": 582
+        }
+      ]
+    },
+    {
+      "id": "V59pKIXUQuM",
+      "segments": [
+        {
+          "text": "airline that goes between *las* *vegas* and",
+          "location": 756
+        }
+      ]
+    },
+    {
+      "id": "x1UII7bCsvQ",
+      "segments": [
+        {
+          "text": "conference in *las* *vegas* in a few days",
+          "location": 854
+        }
+      ]
+    },
+    {
+      "id": "y3OVColWu-g",
+      "segments": [
+        {
+          "text": "*vegas* for that mufon symposium one thing",
+          "location": 321
+        },
+        {
+          "text": "covered by local nuts *las* *vegas* news it",
+          "location": 325
+        },
+        {
+          "text": "on there *las* *vegas* now calm and they",
+          "location": 332
+        }
+      ]
+    },
+    {
+      "id": "z9GTRwjpZLo",
+      "segments": [
+        {
+          "text": "massive push back and then *las* *vegas* is",
+          "location": 1421
+        }
+      ]
+    },
+    {
+      "id": "ZgOL1h0-8Ok",
+      "segments": [
+        {
+          "text": "about the *las* *vegas* massacre were also",
+          "location": 112
+        },
+        {
+          "text": "with george knapp out of *las* *vegas*",
+          "location": 1514
+        }
+      ]
+    },
+    {
+      "id": "zKar6awuy2Q",
+      "segments": [
+        {
+          "text": "all these terror attacks *las* *vegas* a lot",
+          "location": 1116
+        }
+      ]
+    }
+  ]
+}

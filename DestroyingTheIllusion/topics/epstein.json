@@ -1,0 +1,1822 @@
+{
+  "indexed": "__lGfKxA0WI,_-_MVJecq5I,_5WkbucPT4g,_ec7XMfirg4,_EqneJRgSe8,_idzf18MYXs,_Ne214s756k,_Ob8jo-qOCU,_q5-lvNqF8Y,_TPUfVabVHU,_tRUka84Q10,_UMxGoem_cE,_YS92pFld0Y,-_4Za6eoYwY,-0DjA_r32uQ,-3F6SZZIT-E,-5M7Y-zFyZ0,-9msE7-ydts,-Avsxw6BrhI,-b8zWS3tty4,-e5ABbWTn8M,-i-6mNaKI3I,-icWyKwjrY8,-kDAK81lyaY,-kYE2w6y-GA,-MYXqXNhcnc,-P8dkAqUKZY,-tSHN-cRXo0,-VRexocuLyU,-zsJy_pc_gQ,0-8SzdsEPn0,047r18PmzXg,06ZhNoUqwA4,0C27jD9e-j0,0ICCjllfcD0,0jspiMXND2A,0kkMEbbFd9M,0NUQEdAWVkQ,0q_eYZ-zjys,0SJGTnXKJLk,0th1OKXNQXY,0thRJXOyyOs,0VW3c_f1WOI,0Ytkx1pvnL8,1-v18VEV4Rg,18k-mw0lGZ0,1atlaAzWtj4,1FoSp-tBfp4,1Qa_cX1DPn8,1s9fsICUfOw,1WmbX3JQa0c,1ya6QF21RjE,1ZoQGfCIQP4,22knD94PYNw,23GkaHyU2R4,23Zi93zyS6U,24o5bLbjYh0,29VWyFZAo98,2J-isPoaOe8,2MEzlpSs3hI,2qRm-XvaYGk,2vQA-V9OnxY,2XVtrBvxoNQ,3_9MzitOhpg,3-sR3LmB0N0,305W5z9yzW0,32HzhZpqqHs,32nTGjvWF9c,34kHft924rA,3cgcmRKlIhU,3ciusVGxdno,3E_KWnG6gO8,3fi1bx4oWOE,3GvhthG2rXo,3iT9_AqKX2M,3mCWwiYSQsM,3n_fTHOHmP4,3VJvZsz9VQk,3Vpaplt92is,3WDtVeSSyrU,3WzJtUe634M,3XT99f5rZkY,3YdbQS2xw0E,40cx-g-mfDk,41qO6bukotY,4aR7zbZf3pE,4ATvSzS-TLU,4dX3v4Z4aec,4fS6egD9cSc,4mNbB0RTuoI,4MXimasATsA,4nk3rY194h8,4oXIn88QFbc,4qQd8Qu7aPM,4VCgU1v0c3I,56hnR-UeVbI,59IbF_o4Xxc,5flC3-UkdyU,5PhM32xlVEs,5RLxQOvZxXs,5St08kicLiU,5uzjLst8w68,5VFOltHRXbM,6_wyHLXHqx4,60xrsFvDYYk,6Ezxw-UNmQI,6foOgmaZN-s,6kESQU65fUA,6KttPC8JV3s,6o54Y7dhOus,6PsL7aVI12U,6sbgm3s49BM,6sC4YqrrbsQ,73cggmTCclY,7a8EAuTwhdU,7d3A9Wi1xu0,7drP1GmKuhA,7HQEEo9pTxI,7kzKO982UIQ,7OUm208GUDs,7UT-kOjOka4,80z15a0xsUQ,81p3jRVXGk4,8gkGfhtpurY,8pa8Er939dg,8QiuuwivwsM,8z6EDkIocXI,91aT7JIOIbY,9gYGBZ6wUIE,9hqxfV040oQ,9K-4Jc2l-7U,9lbn3bkROBc,9lgC6A9CGqY,9LwjAgU_2hc,9w_UO-KJccs,9xhpctWntoI,9YBPFZ6r5nY,9yIsVlJ2qAY,9zB7TNiGuDw,A4-cSwxHsV4,a4jwV9NnySU,A52PfmoHm8I,a67Ukzg63u8,A7HbMpBAg8c,A82praOPfpo,AaP-PP8-KGk,aAzQwARAo28,ABM5Oj2s6eI,aC12-gepI3U,aCfOGluhEKI,aDPMNOgOz4E,aDUDC92PxcU,AJ_U54u6gbE,ajiBcgtAY-w,aJWZ_APGg6A,AKPMK0xaRN0,AmbKxQ51VWc,aN9TllOemSA,ANDq9-ttO-w,Ao2abBxOiLY,AOParRtlvFQ,ApHsdbvYgFA,aqGYpuYdbOM,Ar3JvKPGr40,ARwagwGekv0,AuJjdL3A0Wc,AvcEuGghWQk,aWGr7i2-IYA,AwzaAL1pDXQ,aXwILTOVL0M,AyLUG-qQcCA,B5_naGkaBDg,B5MFHmezpn8,B5mo-Rnwm4s,bbAaX9B5ncY,bbpmtRc18WQ,BC_VRjt8gvw,BcZjAF2oFEE,Bd0NHLMVTAQ,BFuaMj35qAo,bG3PLtnHSuc,BGt8AVBwAQc,BLJVjp0lq4g,bmipWlYsyEM,bMWIDBnA6Z4,Bn2OlX_4C4Q,bNHR5T64ooQ,bNMvlOzCsZk,Bozlwr1uHco,BpeOtb7CWeE,bPVLncDuirE,BR9EIDuUBJQ,bTFNebYIotU,bYRSIwwnCFU,bzAYF7yEn7Y,bzCEAKmxlVs,C_h2RLZEGEk,c1C7epr44bw,c7Yfc_JZAaU,CCLJZ-bM01Q,CDZhS3BfdB0,CeXQ15A9BSA,CIkVvgIT6qs,cKGw_Hrtajc,cKObBT3BQ4A,CksmGxdCvPQ,cLcHOtY9fgk,coYoIINOWcQ,cpAeoTwKHlc,cpPgoi7zUjo,cu1homOW9CE,CunzrKChTpI,CX6apttsGjs,CxaPpbC3pgA,CXbRscylFsY,CYE1-7NSG2g,cyjt9Vm0imo,D-va4Jpkt38,D-y5ALLiCZ4,D3zc2JmlHK0,D4AkLrH0WtI,D8mzSBBfnNQ,D8RUia2q5wA,daON-Y2Ph5w,DCkhkkb2nqM,DdiM5lA-05c,ddZfJCoq65o,DeEBJcmrjAU,dh_NJhuVafY,dHHqYCCujKY,DiRI7rhc4qE,DJJw71TSho4,dJspwk8huY4,dKaqjJzl0vg,DksI8ZPmBNE,dlZUFvOqJeY,dNI6tUGGJNM,dONKuAjf26Q,dos0E9blpHw,DsDBNF7mhqk,DSqcbzBojYk,Du5Cit3oe6w,duZHG7VDNm4,DxGp_peYB_A,e6gS2_fX0oY,e6mIdK0LLWk,e8AyslO62b8,e8xXVMiChuQ,E9n2iFMyXjQ,EcbwKNO6TBI,eERaZvdF6Ms,ees6El-Jay0,ejBAqhxqAkQ,EK0R7sdxAFQ,ekJ4hKREY8U,eLy1XqX9IcU,En-VTreZMTs,F3oAIzyo0HQ,F4IPqNACpvI,FAhsY5AIWWY,FDEmEvwZtrM,fHohiZp5hGc,FJGnynqfiCQ,Fo9T0LNhNqQ,fOQPFgF5Etg,FPUae6qsjdw,FS65Eef4z7o,fSwdVMLq8zI,FuBVeoPBd0U,fWjIv0WgyqA,fWk2XKmiQOI,fXA4SlMx-Mg,Fz5fZ_7pia4,G2ZwwI5fN0E,g57p8aQQSbY,G5RiRuFIh8Y,g90iVaKS8Mc,gCaHEfyXkA0,gdEzIz7ievE,gDlgmkVKpy0,GDx66bXgYq4,GFEth1i97yY,gG4fzaWuo9w,GhikRA2no60,gJ7o1StrKv8,Gk2tr29fY6Q,gKGT2jlVrgI,gkMB1_gooM0,gkO-A-sYsH0,GmuQx9AiYD4,GN4nmRCU0AY,gojwzzPJQrg,GrWwOG5yFFM,GThX5ssVBn0,GUip6dZpKEs,gUkB5Kk4WAA,H1FABkrnIaE,h6koxkXAJLU,h6y5TxpDvbs,h9dW3QCrYso,hA31PrCznjw,Hb187lnYh0o,HgE2EqazY68,hhPRDd4gOEI,hIrbIOaAUxg,hKdsv2EbSSo,hl-FK4t_9lA,HLRFTyNBlFY,hLumnOkZynU,hLWMbjtpLn0,Hm1iTIa7rFk,hMhDNxC-EB4,HMpv5DpVVUY,hMQTN9L1dBE,Huj55Cm9qH8,hUouIgbrNZY,HWjAwmGq654,HxhtJ-1kd5k,hy9Uo864i5g,hZGSNKUFjQk,I2-S22FiEvg,I2t1cPgCvJo,I2zRq3kdLbk,I3pn7Xex-Ks,i3rp0Uim-0o,i4AnsQlVTvQ,I5h76-o1Kjw,i8VDK89xXzg,I8VIDULc_jQ,iAIDKPNVjzU,ifJ_GtRJ5qM,Ig7fshISKmk,igDMQaECoSw,IifnpOcm0b4,ik-J2hrNaWo,IKpl4TeHwPg,iOLlT7CbqKs,iPX6pJ1dD1s,IS-CvxLX47Y,IsG3gQIRxno,IsjWF9k7TZE,iTFkB2iXkgI,iTFXxHtlImY,iu9vMZwMqgI,IUcqrB04ZpE,IuIhXyjMG28,iUolMe2Bu-M,IuVzHVFtFIE,iwCYGrXqmqw,iwIfxOwYNOE,IwvvrAh-JyA,ixHuaqf211Y,iXPDVq2lGsc,j6boJmmzNcg,j9gG0WZWO2M,jaInrf7dB30,jal0jAoFV70,Jcekm05d-so,JD4r7qP0OLw,jEgmVdV6HBE,JeGwCPRojJo,jgHK6JZonJM,JLPKO3AKA14,JMN2uWdknac,jN-MkK8djcY,JNaC6eDgjAk,jnUZD1wnBn8,jR_FxV3DYyU,jS-yK_ueKZw,jSZnoRobYTE,JT-aith5f5E,JvaI4JCd5ig,jZ_tr0NnNjE,k2bZBA1A82U,k2MXyXKRlN0,K2TOaYHNhDs,K3kiPpMhKkQ,k3m1P3Vie6s,k55kWdrN8hw,k9LVltxQF2Y,kan3dn8Q8nA,KbWsgGeTrb0,KDVsepSqmys,KgYgMWFqbEc,kHxWvaMOwhM,Kl3MyuzCdRs,KM6DTC_i-8s,kNNz1UEwF-E,KpFP8X1JTiI,KPj--UF1T0k,kRGV4cIdWwM,KSP24qYeWgs,ku6qyUwUgWo,KVb-rUXG6h0,KW1hgV9CBqk,KXHpsXQV82g,KXW0hS3aOjA,L-4ADrZak_4,l0PDi1KDi1w,L1mLdTih8gg,L4Sa4dArQUE,L61XF64Ls8E,l9qBVI4SVP0,lb46GsmPTsI,ldX0CQ2UUfI,LFlKG-VVzMc,LInNbS1JErM,LiU5TfehWW8,lj8AH-4ajRw,LjzWwM9Y9zg,llnr6CG6lHM,Llr69yow55Y,llsND2qpTjM,lNKXqkyE2NQ,lOGKAbcAVzE,LQ4NioOxuGM,lUOYOF9DuSs,LwTvS9v15LE,LXCTMl_Jp9M,LygxI2VGhDU,m_PowDSDjEE,m1HAZ0ESYD0,M1ODHcuO0V0,m2kffLdykTs,m30mwu-9WW0,m3193w4W8Po,m5p9p9LBEpM,MATnFsqiC7Y,Mc5wHbV6irw,mCy59eLFjZg,McZuVVn7fEw,miQPk7qxSvs,Ml1Ys-sDe4o,mlmAUPNPev0,mLZkwKOueVI,mMVX1iGgRac,MO8yy324jyk,MpiqVbdFnlo,mPovmVmAgXs,MsBWU2CFf-U,MUyBpTbvDmw,N-BsO-mirZQ,N-Nsni2kalY,N0l4oFEKoCY,N37LrIj7a8E,N4MwW69zjdk,NbUtbE4Zpoc,Nett68JXMUk,NFBFDRSsaU0,nfDm-SuYSrQ,nhR65A2Cz1U,nJ5B8GnH3mE,NJf-Tr3BrqI,njWcrYwundg,NObMClb6nMY,noiATviQJ3Y,NoLKqBPGGLQ,nPRGWjUYGow,nPtPHMYmnsk,Nqbj_4nIAiA,NqL7EeYTd9s,NS200QxWq7g,nsUd370-n9Q,Nt4ug94a134,NVIEhqdvMCo,NVRVSzP0rFU,NVUbej8exEk,NY7B_THWsM8,Nzx4XSf_fAI,O_R4bM7ONJk,obm0AKIypPI,OCzJwGE7RTY,OdS-XmHla-U,OdXjpK_tLRg,OE_u4IbopVo,OGL_5cu0F-M,OgrLw9IX-Ns,ojYZBeCwYis,oK2ZWHTdbpA,ooHxX3whFXA,OOxgnEI8_NI,oReGR3Bjjmw,oSZzclsh00Y,otE6dhCgsJc,Oun53CRXyeI,OwECoLGRl68,oX7b3YzRNXk,ox9yzjeHt3s,ozbHMNhYe0A,oZz9CJ9K8MA,P0cawbGyBxM,p0Qy24DXfdY,P12Gc4WmCak,P3jy8S0P-2w,p6_gLv5qy8E,p6GmDJEkOQk,p6wFKOTyR60,P8xmUD4Gmrw,PA9MTquQya0,pAK-a8Op8KI,pauS_rhaYO0,PBiBq_DiHmo,pbjkl0DwxHs,Pg21pJPDzEU,phbygYipE-g,Pi8_BZtYNzQ,PkeO8SN0cN4,plJqp67-iX4,PNsZI-uZH7I,PsQlxu6iOzI,pt17lUpcskk,PtAxf8A1Zco,ptvgcLZ3HOw,PvWDJd2UYT8,pwM9WH8pqaY,PWMXacQWEjs,pyMrzxZBZZQ,pZ5q5wUI1-Y,pZhHd9KT2lk,q0IR8IqKZ18,Q1nmx353lDo,q2ItOTBF1ys,Q4MG607MDz4,q6hnQoB_BlI,q78RNxcI38U,q7I8sj_3rlM,q7prMUoyMEo,Q84zuHjjuww,Qa2bfVP6ChQ,qB9zc5VAanc,QC7qRbcWsN0,qcEDt4YOkS8,qCmySBiZXVA,qdwN5mt9V2c,qFumeKZX_MA,QJaNPlhmdSM,QK6Y2tnFIAw,qlFnlzOoFgo,qNurdjNB-rw,Qo2GL5T8T_E,Qq339b2xOrY,qRKU3XXIwlI,qSFeOuQEXXw,QSMC7VnqOnQ,QtYci9jXct4,QuVpIqeSRnU,qwbX5au3Iuw,qWhpDyoLyR8,qX2Z7mLBM1k,qZMy5wog24o,qZZGyHrnsQM,R_iWc7_vQ14,r-vKLD9F61M,R1g3eyyM590,r1IYwxp0NNs,r1pXJkMaAmc,RCPgq96ku4k,rdE4NEIZACI,REcAj2PLMu4,RenafscRgUY,RgdXwexLI_Y,RGFh5qOWU3U,RLczNzWBbpE,RmZj7uATNFM,rqks6sKCmDc,Rt85IKjQ9hs,rUpElK5Qw3E,rVrthFN9dnI,rX0dkfDOO1s,rxMOShu0yQk,RZf9IVaRgdo,S2U7ncJQ000,S4mKQajGJl4,s6H86oQEC2I,SaR5pCeCjao,SAwrlpHFmOc,sBy_LmO3b7k,SePTbZOh8iE,sHUgXraPhAc,siBW29AUMrw,skkII0awwFM,sKMZRv9JY_A,sLv3F7kLpB4,SovJjIjmI6M,sR5B-vb3Fi0,svK1ajIeprU,svwSKZ926yY,SvyN0PlWwkM,swc_HIr-8WA,Sx3ElJlX7wQ,SxPNu1XMYKA,sxWWB5aKNk8,T_mJ1awyakY,T3TRP5tX3T0,T5IM3P9Md-4,t6dwa21eo_M,TCtPeZP1H0g,td8PwMAtpQI,TdNo4qfgAb4,TeFw8eqcLco,tfW6YjVSx0U,Tg0_AZbm71E,TgzkblYi9pg,THy-FwvnIqQ,tJjx9eVGzSY,tK7YaJnYETw,TKK1o-pPPkQ,tkLyxIo8Cqo,tkm-n8lbhLg,TKOI_wF6Rn0,Tr5IR4SqKcA,TsjX9SPfvSA,Tus8Yc2qNXc,TX1rZO2bLJ8,u_apd9SGqLc,U1GOoEoYLy8,u1gZGn0l8y4,u3TgwapRzSA,u9zCkZgwoik,UA8VNiOraJI,uaXp0CBucos,uJn58OP3GEI,uJYAdCT7xFA,uKCq7HfZh9A,UKfHVu47LXo,Up-MRtsG4Tw,UpaXSxM07to,urRt-Yju_SU,UrzdhfUMR6k,UsuA0HSRXzo,UuJpA7lXi7g,uUsLnKlWMkU,UVea--jSv1A,uvYdZu80X9Y,uWFJruvCPhc,UwVr2kwMjI0,uxDmAVpZ91Q,V-8xYjEosOY,V4OPmN3e8F8,V59pKIXUQuM,v5G6fZkyhXg,v6JLwp0aFpc,Vafm-ZaLAyI,vafXYoDY5dw,vcqHF8DDsNk,VfelKh4yN9g,vInE2aOTFdw,ViODeAbI2IQ,vK3bX5D1ysc,VKhRSDIFJK0,vL7VfteARhQ,vLnzuy_aeGQ,VLxlCXAuo08,VtMhFvMTyHQ,VVsAZ0AGHeo,vZDynmvvgWg,w_A3W-OJyNw,W0APO4axfn4,w0OSb7FbXas,W7UmZWUWBMQ,WB_PkYN9MFI,wCcjEszzrTI,wdwWgzAq48E,wdXHxEEAvps,wg5sukd6E6Q,WHSd5tVWq1I,wjeEg2yoJbM,WKfsgQLVsHk,WlZQhQXwYTI,WmhFYQnlKB4,wNgdMwL7isA,WOmDWYRAtiA,WsnaqvLhEUk,wu0Utsff6Jo,WvCBdE6rolk,WwBj0YnLtX0,x1EXDDlmrVU,x1UII7bCsvQ,x27EZLRmoAU,x4XfpmZxDq0,Xe8yEypTfNA,XfNnvWPlprc,Xg7s8fovfh8,xKxi0Bbl_Fs,Xl5iO-2wzq0,xLDnc1Vm99w,XMo_G2k5Wso,XobWx6C6lJs,xQVu3ywd2RU,XRABi40G2T4,xS-hT1sfvfs,Xtk7ntK7k14,xU1ilgRmqsk,xUDwyRTojUM,xXRUfka1XFM,Y31yR524zWU,y3LgzaKBw2w,y3OVColWu-g,Y8DPHUnnvXU,YaMWl4cmqkw,yb_kKBcdsRc,ybgD2ibYB0o,YDS7nKcT3rk,yEf7XF-JNy4,yf8ObyPk568,yFQEK_KaTMA,yIh9oqXg4JU,YiLWFF__qiM,YIPBQ3O8Wr0,yK2UAmF7gYA,ym22gqkQmUA,ymm3YfCfVUs,yOGL3BrXZlA,YpPXlDhdkOg,YSc4GkdMm-E,ysHQziNaMOo,ySHvJqNfN7I,ySSnEYdnsEM,ytA3-R4Fi4M,yu7cOa_9gN0,yVjAH8Wg-hk,ywKQGnLaYdk,Z_nveKGRnsI,Z5o33xspXi4,z5obz0z7rdo,z7s8UaWeshs,Z8oojkEH6Eo,z9GTRwjpZLo,zBBzw6WImlY,zCKlkgpTrXo,zdehlx8vy4U,zffLUSbaqlw,zGk_J9B9MDw,zgK4F6NW32s,ZgOL1h0-8Ok,ZGsWdjqtO-w,zgU0j8HGfX4,zIU-AuvMwqU,zjqEsdevnaU,zKar6awuy2Q,zoQmiHuW8nc,ZpqZoQBWXVo,ZpXeRJcgZlU,ZqMTDLT6akA,ZRISi-Y-X3s,ZseKL2q2S-E,zUxgy98UTp4,zw8yzCjmYcI,zziC-o5xumc,ZZTz8nYZ6vA,hj7ubtDDtik",
+  "topic": "Epstein",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "0C27jD9e-j0",
+      "segments": [
+        {
+          "text": "*epstein* and pizza fence huh yeah we'll",
+          "location": 1825
+        },
+        {
+          "text": "mentioned *epstein* pizza fence you know",
+          "location": 1846
+        },
+        {
+          "text": "pizza fence and q and *epstein* and",
+          "location": 1976
+        }
+      ]
+    },
+    {
+      "id": "0Ytkx1pvnL8",
+      "segments": [
+        {
+          "text": "jeffrey *epstein* so federal prosecutors",
+          "location": 893
+        },
+        {
+          "text": "jeffrey *epstein* case on unseal *epstein*",
+          "location": 898
+        },
+        {
+          "text": "*epstein* this year okay so don't forget",
+          "location": 918
+        }
+      ]
+    },
+    {
+      "id": "41qO6bukotY",
+      "segments": [
+        {
+          "text": "getting into some *epstein* connections so",
+          "location": 491
+        },
+        {
+          "text": "light here but more on *epstein* cue",
+          "location": 538
+        },
+        {
+          "text": "gloria v think *epstein* think all these",
+          "location": 585
+        },
+        {
+          "text": "take out *epstein* q saying about that new",
+          "location": 631
+        },
+        {
+          "text": "where epstein's being held okay *epstein*",
+          "location": 645
+        },
+        {
+          "text": "eliminate a liability whereas *epstein*",
+          "location": 658
+        },
+        {
+          "text": "*epstein* but they go way back",
+          "location": 803
+        },
+        {
+          "text": "that *epstein* likely had and he used to",
+          "location": 815
+        },
+        {
+          "text": "sharing even residences with *epstein*",
+          "location": 914
+        },
+        {
+          "text": "gifting *epstein* residences shared",
+          "location": 917
+        },
+        {
+          "text": "deed was transferred to *epstein* and his",
+          "location": 923
+        },
+        {
+          "text": "*epstein* was not somebody he respected",
+          "location": 1136
+        },
+        {
+          "text": "step down over *epstein* plea deal and q",
+          "location": 1365
+        },
+        {
+          "text": "attorney for *epstein* back in the day",
+          "location": 1390
+        },
+        {
+          "text": "when *epstein* got off easy you asking how",
+          "location": 1392
+        },
+        {
+          "text": "let *epstein* off easy have a costas",
+          "location": 1412
+        },
+        {
+          "text": "trump is best friends with *epstein* cuz",
+          "location": 1436
+        },
+        {
+          "text": "let *epstein* off easy must mean the trump",
+          "location": 1445
+        },
+        {
+          "text": "all these *epstein* connections all these",
+          "location": 1666
+        },
+        {
+          "text": "joe m saying a costas said *epstein* was a",
+          "location": 1690
+        },
+        {
+          "text": "mossad was using *epstein* to control our",
+          "location": 1706
+        }
+      ]
+    },
+    {
+      "id": "59IbF_o4Xxc",
+      "segments": [
+        {
+          "text": "talking about clinton and *epstein* so",
+          "location": 461
+        },
+        {
+          "text": "lolita express you know *epstein* had a",
+          "location": 492
+        },
+        {
+          "text": "another piece of news on *epstein* today",
+          "location": 519
+        },
+        {
+          "text": "jeffrey *epstein* jail closed-circuit",
+          "location": 521
+        },
+        {
+          "text": "*epstein* saga over the last gosh four",
+          "location": 568
+        },
+        {
+          "text": "*epstein* this article here i guess it",
+          "location": 586
+        }
+      ]
+    },
+    {
+      "id": "5flC3-UkdyU",
+      "segments": [
+        {
+          "text": "hillary don't poke the bear *epstein* an",
+          "location": 1122
+        },
+        {
+          "text": "going on around jeffrey *epstein* and",
+          "location": 1134
+        }
+      ]
+    },
+    {
+      "id": "5uzjLst8w68",
+      "segments": [
+        {
+          "text": "*epstein* and with rachel chandler",
+          "location": 351
+        },
+        {
+          "text": "case q linking politico here the *epstein*",
+          "location": 428
+        },
+        {
+          "text": "secretly secrecy in jeffrey *epstein*",
+          "location": 438
+        },
+        {
+          "text": "up everything related to *epstein* here",
+          "location": 498
+        },
+        {
+          "text": "many connected to *epstein* flight logs",
+          "location": 543
+        },
+        {
+          "text": "chandler is the handler for *epstein* one",
+          "location": 551
+        },
+        {
+          "text": "*epstein* island security cam pick on her",
+          "location": 722
+        },
+        {
+          "text": "what goes on with the *epstein* case but",
+          "location": 874
+        },
+        {
+          "text": "connections *epstein* case q map pub count",
+          "location": 885
+        },
+        {
+          "text": "so i'm looking at *epstein* closely but",
+          "location": 919
+        }
+      ]
+    },
+    {
+      "id": "6kESQU65fUA",
+      "segments": [
+        {
+          "text": "how about all those jeffrey *epstein*",
+          "location": 332
+        },
+        {
+          "text": "jeffrey *epstein* how about it jeffrey",
+          "location": 349
+        },
+        {
+          "text": "*epstein* this news coming out what was it",
+          "location": 351
+        },
+        {
+          "text": "looks like jeffrey *epstein* didn't",
+          "location": 389
+        },
+        {
+          "text": "epstein's brother mark mark *epstein*",
+          "location": 403
+        },
+        {
+          "text": "hired him so mark *epstein* you know the",
+          "location": 407
+        },
+        {
+          "text": "*epstein* jeffrey epstein's brother be the",
+          "location": 417
+        },
+        {
+          "text": "more so that's that on *epstein* and let's",
+          "location": 477
+        }
+      ]
+    },
+    {
+      "id": "7kzKO982UIQ",
+      "segments": [
+        {
+          "text": "jeffrey *epstein* jets especially",
+          "location": 957
+        }
+      ]
+    },
+    {
+      "id": "80z15a0xsUQ",
+      "segments": [
+        {
+          "text": "*epstein* all right so we've got some",
+          "location": 234
+        },
+        {
+          "text": "jeffrey *epstein* and they're not they're",
+          "location": 244
+        },
+        {
+          "text": "stuff quite a bit *epstein* here even",
+          "location": 277
+        },
+        {
+          "text": "daily mail on *epstein* this one came",
+          "location": 391
+        },
+        {
+          "text": "dazed jeffrey *epstein* shows no",
+          "location": 396
+        },
+        {
+          "text": "let's dissect this headline *epstein*",
+          "location": 408
+        },
+        {
+          "text": "10 months anybody connected to *epstein*",
+          "location": 479
+        },
+        {
+          "text": "charity over links to jeffrey *epstein*",
+          "location": 506
+        },
+        {
+          "text": "of *epstein* so i'm gonna reference some",
+          "location": 560
+        },
+        {
+          "text": "*epstein* and he's actually in there for",
+          "location": 574
+        },
+        {
+          "text": "murderer in jail same jail as *epstein*",
+          "location": 581
+        },
+        {
+          "text": "here to probably pull the hit on *epstein*",
+          "location": 642
+        },
+        {
+          "text": "*epstein* yeah bullshit so ha as julian's",
+          "location": 653
+        },
+        {
+          "text": "*epstein* slice i doubt it so you can go",
+          "location": 660
+        },
+        {
+          "text": "i mean is it connect to *epstein* in some",
+          "location": 694
+        }
+      ]
+    },
+    {
+      "id": "8gkGfhtpurY",
+      "segments": [
+        {
+          "text": "talking *epstein* here in a sec donald",
+          "location": 517
+        },
+        {
+          "text": "moving on bill gates an *epstein* new york",
+          "location": 555
+        },
+        {
+          "text": "gates met with jeffrey *epstein* many",
+          "location": 565
+        },
+        {
+          "text": "jeffrey *epstein* strengthened after the",
+          "location": 581
+        },
+        {
+          "text": "breaking this about *epstein* there's got",
+          "location": 612
+        },
+        {
+          "text": "*epstein* related court documents to be",
+          "location": 623
+        },
+        {
+          "text": "*epstein* courtland ceilings really it's",
+          "location": 646
+        },
+        {
+          "text": "but *epstein* related wondering at the new",
+          "location": 651
+        },
+        {
+          "text": "nevertheless like bill gates and *epstein*",
+          "location": 677
+        },
+        {
+          "text": "know we're going jeffrey *epstein* here",
+          "location": 709
+        }
+      ]
+    },
+    {
+      "id": "8pa8Er939dg",
+      "segments": [
+        {
+          "text": "with *epstein* and with general flynn i",
+          "location": 31
+        },
+        {
+          "text": "congress yesterday *epstein* we're waiting",
+          "location": 37
+        },
+        {
+          "text": "*epstein* still coming out you know the",
+          "location": 555
+        },
+        {
+          "text": "*epstein* we're about a month out from",
+          "location": 810
+        },
+        {
+          "text": "that *epstein* actually committed suicide",
+          "location": 966
+        },
+        {
+          "text": "*epstein* and you know these these true",
+          "location": 1053
+        }
+      ]
+    },
+    {
+      "id": "8z6EDkIocXI",
+      "segments": [
+        {
+          "text": "we'll talk jeffrey *epstein* in his",
+          "location": 80
+        },
+        {
+          "text": "don't forget *epstein* yes yes yes epsteen",
+          "location": 1091
+        },
+        {
+          "text": "getting more stories on *epstein* a couple",
+          "location": 1097
+        },
+        {
+          "text": "let's move on to *epstein* k so number one",
+          "location": 1370
+        },
+        {
+          "text": "that has connections to jeffrey *epstein*",
+          "location": 1377
+        },
+        {
+          "text": "need jeffrey *epstein* to get money from",
+          "location": 1384
+        },
+        {
+          "text": "bill gates so jeffrey *epstein* donated a",
+          "location": 1388
+        },
+        {
+          "text": "to use *epstein* as the go-between to get",
+          "location": 1408
+        },
+        {
+          "text": "*epstein* because he knew a lot of rich",
+          "location": 1415
+        },
+        {
+          "text": "*epstein* as the go-between again with who",
+          "location": 1428
+        },
+        {
+          "text": "had meetings with *epstein* at which women",
+          "location": 1436
+        },
+        {
+          "text": "*epstein* and which girls were present who",
+          "location": 1444
+        },
+        {
+          "text": "from jeffrey *epstein*",
+          "location": 1467
+        },
+        {
+          "text": "exposed by jeffrey *epstein* jeffrey",
+          "location": 1506
+        },
+        {
+          "text": "*epstein* and his connections to it all i",
+          "location": 1509
+        },
+        {
+          "text": "i'm all for *epstein* shady stuff they're",
+          "location": 1516
+        }
+      ]
+    },
+    {
+      "id": "A52PfmoHm8I",
+      "segments": [
+        {
+          "text": "talk about what's real how about *epstein*",
+          "location": 367
+        },
+        {
+          "text": "right and shoot when jeffrey *epstein*",
+          "location": 373
+        },
+        {
+          "text": "court documents from a jeffrey *epstein*",
+          "location": 406
+        }
+      ]
+    },
+    {
+      "id": "ApHsdbvYgFA",
+      "segments": [
+        {
+          "text": "jeffrey *epstein* right and oh man they're",
+          "location": 1039
+        }
+      ]
+    },
+    {
+      "id": "AyLUG-qQcCA",
+      "segments": [
+        {
+          "text": "*epstein* some links with some old cue",
+          "location": 94
+        },
+        {
+          "text": "*epstein* like being indicted for",
+          "location": 203
+        },
+        {
+          "text": "the *epstein* with pfizer news coming out",
+          "location": 607
+        },
+        {
+          "text": "that let's move on into *epstein*",
+          "location": 885
+        },
+        {
+          "text": "of *epstein* island dungeon q posting this",
+          "location": 989
+        },
+        {
+          "text": "exclusive jeffrey *epstein* had a painting",
+          "location": 1053
+        },
+        {
+          "text": "weird but uh jeffrey *epstein* had a",
+          "location": 1161
+        }
+      ]
+    },
+    {
+      "id": "c1C7epr44bw",
+      "segments": [
+        {
+          "text": "jeffrey *epstein* being a clinton donor",
+          "location": 398
+        },
+        {
+          "text": "jeffrey *epstein* the judge ruled so",
+          "location": 414
+        },
+        {
+          "text": "*epstein* hardly serving any time behind",
+          "location": 423
+        }
+      ]
+    },
+    {
+      "id": "cKObBT3BQ4A",
+      "segments": [
+        {
+          "text": "know he did hang out with *epstein* he did",
+          "location": 1377
+        }
+      ]
+    },
+    {
+      "id": "DeEBJcmrjAU",
+      "segments": [
+        {
+          "text": "*epstein* we're gonna talk about the feds",
+          "location": 17
+        },
+        {
+          "text": "*epstein* information number one daily",
+          "location": 135
+        },
+        {
+          "text": "*epstein* situation and they had an",
+          "location": 175
+        },
+        {
+          "text": "not talking about jeffrey *epstein* temple",
+          "location": 200
+        },
+        {
+          "text": "intelligence on jeffrey *epstein* many of",
+          "location": 448
+        },
+        {
+          "text": "going on with *epstein* suicide in this",
+          "location": 455
+        },
+        {
+          "text": "regards to *epstein* so let's take a look",
+          "location": 493
+        },
+        {
+          "text": "out yesterday *epstein* jail death one of",
+          "location": 500
+        },
+        {
+          "text": "*epstein* hung himself with a prison bed",
+          "location": 560
+        },
+        {
+          "text": "where *epstein* was held they're",
+          "location": 573
+        },
+        {
+          "text": "hat operation whether they have *epstein*",
+          "location": 611
+        },
+        {
+          "text": "*epstein* and with the awareness of the",
+          "location": 697
+        },
+        {
+          "text": "*epstein* his lawyers requested a man",
+          "location": 713
+        },
+        {
+          "text": "of those *epstein* connections okay number",
+          "location": 789
+        },
+        {
+          "text": "degrees of separation you got *epstein*",
+          "location": 849
+        },
+        {
+          "text": "they're basically connected to *epstein*",
+          "location": 858
+        },
+        {
+          "text": "ooh how about elon musk *epstein* claimed",
+          "location": 953
+        },
+        {
+          "text": "how does elon must not know that *epstein*",
+          "location": 976
+        },
+        {
+          "text": "*epstein* that's ghislaine maxwell",
+          "location": 1030
+        },
+        {
+          "text": "on *epstein* now let's move into hong kong",
+          "location": 1080
+        }
+      ]
+    },
+    {
+      "id": "dKaqjJzl0vg",
+      "segments": [
+        {
+          "text": "news has been covering for *epstein* we've",
+          "location": 835
+        }
+      ]
+    },
+    {
+      "id": "DksI8ZPmBNE",
+      "segments": [
+        {
+          "text": "pages of jeffrey *epstein* related",
+          "location": 789
+        },
+        {
+          "text": "*epstein* really over the last year to i",
+          "location": 802
+        },
+        {
+          "text": "*epstein* case forward very intriguing to",
+          "location": 835
+        }
+      ]
+    },
+    {
+      "id": "DsDBNF7mhqk",
+      "segments": [
+        {
+          "text": "latest in regards to *epstein* of course",
+          "location": 37
+        },
+        {
+          "text": "into *epstein* so i think i reported on",
+          "location": 126
+        },
+        {
+          "text": "ago and there's jeff *epstein* walking out",
+          "location": 147
+        },
+        {
+          "text": "*epstein* and then you see prince andrew",
+          "location": 155
+        },
+        {
+          "text": "jeffrey *epstein* suicide oh wow paul and",
+          "location": 220
+        },
+        {
+          "text": "jeff *epstein*",
+          "location": 265
+        },
+        {
+          "text": "regards to *epstein* this morning let's",
+          "location": 402
+        }
+      ]
+    },
+    {
+      "id": "e8AyslO62b8",
+      "segments": [
+        {
+          "text": "moving on from that into *epstein* news",
+          "location": 1207
+        },
+        {
+          "text": "for *epstein* and probably many of his",
+          "location": 1236
+        },
+        {
+          "text": "details about *epstein* and getting closer",
+          "location": 1240
+        },
+        {
+          "text": "*epstein* documents hoping that comes",
+          "location": 1249
+        }
+      ]
+    },
+    {
+      "id": "eERaZvdF6Ms",
+      "segments": [
+        {
+          "text": "who mentioned *epstein* didn't kill",
+          "location": 295
+        },
+        {
+          "text": "so *epstein* didn't kill himself getting",
+          "location": 306
+        },
+        {
+          "text": "for the same query do you think *epstein*",
+          "location": 312
+        }
+      ]
+    },
+    {
+      "id": "ees6El-Jay0",
+      "segments": [
+        {
+          "text": "epstein's island why is *epstein* spending",
+          "location": 105
+        }
+      ]
+    },
+    {
+      "id": "gG4fzaWuo9w",
+      "segments": [
+        {
+          "text": "*epstein* cover up expose it's spread like",
+          "location": 14
+        },
+        {
+          "text": "is the project veritas *epstein* cover-up",
+          "location": 95
+        },
+        {
+          "text": "accusations around jeffrey *epstein* ready",
+          "location": 120
+        },
+        {
+          "text": "jeffrey *epstein* did not commit suicide",
+          "location": 183
+        },
+        {
+          "text": "jeffrey *epstein* island he made a living",
+          "location": 194
+        },
+        {
+          "text": "at abc quashed an *epstein* story over",
+          "location": 218
+        }
+      ]
+    },
+    {
+      "id": "Gk2tr29fY6Q",
+      "segments": [
+        {
+          "text": "q says *epstein* wexner bolded and in the",
+          "location": 413
+        },
+        {
+          "text": "something important like an *epstein*",
+          "location": 444
+        },
+        {
+          "text": "talking about *epstein* and wexner and how",
+          "location": 1006
+        },
+        {
+          "text": "the canadian jeffrey *epstein* and if you",
+          "location": 1045
+        },
+        {
+          "text": "of a jeffrey *epstein* and totally is now",
+          "location": 1054
+        },
+        {
+          "text": "jeffrey *epstein* have been arrested in",
+          "location": 1127
+        },
+        {
+          "text": "was president would jeffrey *epstein* have",
+          "location": 1135
+        }
+      ]
+    },
+    {
+      "id": "HxhtJ-1kd5k",
+      "segments": [
+        {
+          "text": "stuff dropping soon *epstein* on ceilings",
+          "location": 1027
+        }
+      ]
+    },
+    {
+      "id": "I8VIDULc_jQ",
+      "segments": [
+        {
+          "text": "*epstein* huh then we have george",
+          "location": 509
+        },
+        {
+          "text": "connected to jeffrey *epstein* i believe",
+          "location": 521
+        },
+        {
+          "text": "partied with *epstein* after he was",
+          "location": 526
+        },
+        {
+          "text": "to cover up the *epstein* story years ago",
+          "location": 535
+        },
+        {
+          "text": "*epstein* connected people on this",
+          "location": 540
+        }
+      ]
+    },
+    {
+      "id": "IS-CvxLX47Y",
+      "segments": [
+        {
+          "text": "could chat about *epstein* a little",
+          "location": 26
+        },
+        {
+          "text": "dana jh *epstein* see seeing a lot of",
+          "location": 569
+        },
+        {
+          "text": "comments on *epstein* when you scroll up",
+          "location": 571
+        },
+        {
+          "text": "here thoughts on *epstein* signing is will",
+          "location": 573
+        },
+        {
+          "text": "they said *epstein* died from suicide by",
+          "location": 588
+        },
+        {
+          "text": "*epstein* basically like rushed delivered",
+          "location": 609
+        },
+        {
+          "text": "but *epstein* or somebody spending twenty",
+          "location": 631
+        },
+        {
+          "text": "*epstein* i mean go go through the daily",
+          "location": 753
+        },
+        {
+          "text": "*epstein* god opens the door to his",
+          "location": 827
+        },
+        {
+          "text": "*epstein* died and of course very few",
+          "location": 862
+        },
+        {
+          "text": "photo said it was talking about *epstein*",
+          "location": 1460
+        }
+      ]
+    },
+    {
+      "id": "ixHuaqf211Y",
+      "segments": [
+        {
+          "text": "drop a few *epstein* bombshells to some",
+          "location": 23
+        },
+        {
+          "text": "*epstein* alright last thing last topic",
+          "location": 1250
+        },
+        {
+          "text": "*epstein* number one comes from the son g",
+          "location": 1255
+        },
+        {
+          "text": "lane maxwell and jeffrey *epstein* were",
+          "location": 1258
+        },
+        {
+          "text": "*epstein* was a blackmailer but i find",
+          "location": 1271
+        },
+        {
+          "text": "jeffrey *epstein* blackmailing politicians",
+          "location": 1304
+        },
+        {
+          "text": "*epstein* blackmailing for he wasn't just",
+          "location": 1311
+        },
+        {
+          "text": "*epstein* situation they have some",
+          "location": 1346
+        },
+        {
+          "text": "some stuff on *epstein* so thank you for",
+          "location": 1421
+        }
+      ]
+    },
+    {
+      "id": "k55kWdrN8hw",
+      "segments": [
+        {
+          "text": "jeffrey *epstein* is dead he is dead dead",
+          "location": 17
+        },
+        {
+          "text": "was jeffrey *epstein* suicided arkin cited",
+          "location": 39
+        },
+        {
+          "text": "jeffrey *epstein* was one of the biggest",
+          "location": 52
+        },
+        {
+          "text": "whether jeffrey *epstein* is actually dead",
+          "location": 94
+        },
+        {
+          "text": "okay so jeffrey *epstein* found early this",
+          "location": 143
+        },
+        {
+          "text": "there with jeffrey *epstein* was locked up",
+          "location": 188
+        },
+        {
+          "text": "where *epstein* is who normally have",
+          "location": 208
+        },
+        {
+          "text": "hallways the morning the *epstein* was",
+          "location": 221
+        },
+        {
+          "text": "world this guy jeffrey *epstein* is more",
+          "location": 290
+        },
+        {
+          "text": "okay that means that jeffrey *epstein*",
+          "location": 307
+        },
+        {
+          "text": "going on around *epstein* right military",
+          "location": 330
+        },
+        {
+          "text": "the deep state trying to get *epstein*",
+          "location": 344
+        },
+        {
+          "text": "facility where *epstein* is locked up but",
+          "location": 352
+        },
+        {
+          "text": "*epstein* i don't know i just personally",
+          "location": 366
+        },
+        {
+          "text": "jeffrey *epstein* suicide okay",
+          "location": 398
+        },
+        {
+          "text": "*epstein* to clinton's clinton *epstein*",
+          "location": 412
+        },
+        {
+          "text": "would they want *epstein* dead you know",
+          "location": 510
+        },
+        {
+          "text": "see jure having to do with *epstein* now",
+          "location": 534
+        },
+        {
+          "text": "had *epstein* documents dumped yesterday",
+          "location": 579
+        },
+        {
+          "text": "moved up remember jeffrey *epstein* was",
+          "location": 611
+        },
+        {
+          "text": "ways away but now with *epstein* being",
+          "location": 620
+        },
+        {
+          "text": "how about photos of jeffrey *epstein* as",
+          "location": 697
+        },
+        {
+          "text": "jeffrey *epstein* as he's being wheeled",
+          "location": 706
+        },
+        {
+          "text": "in right there of jeffrey *epstein* right",
+          "location": 738
+        },
+        {
+          "text": "that we know of of jeffrey *epstein* some",
+          "location": 744
+        },
+        {
+          "text": "they claimed as jeffrey *epstein* all",
+          "location": 766
+        },
+        {
+          "text": "*epstein* could not be *epstein* so again",
+          "location": 775
+        },
+        {
+          "text": "arrhythmia maybe put *epstein* down but",
+          "location": 794
+        },
+        {
+          "text": "actual *epstein* out of there maybe taking",
+          "location": 798
+        },
+        {
+          "text": "very soon after news broke about *epstein*",
+          "location": 822
+        },
+        {
+          "text": "about *epstein* the daily beast not just",
+          "location": 953
+        },
+        {
+          "text": "still link trump to *epstein* still still",
+          "location": 1013
+        },
+        {
+          "text": "reports here *epstein* documents hid",
+          "location": 1032
+        },
+        {
+          "text": "*epstein* being suicided here it's quite a",
+          "location": 1058
+        },
+        {
+          "text": "way to get people talking about *epstein*",
+          "location": 1060
+        },
+        {
+          "text": "*epstein* suicide conspiracy theories",
+          "location": 1074
+        },
+        {
+          "text": "*epstein* so there you go guys that's",
+          "location": 1164
+        },
+        {
+          "text": "*epstein* being suicided what i think it",
+          "location": 1169
+        }
+      ]
+    },
+    {
+      "id": "MpiqVbdFnlo",
+      "segments": [
+        {
+          "text": "else a comey report youtube *epstein*",
+          "location": 31
+        },
+        {
+          "text": "with jeffrey *epstein* likely to draw fbi",
+          "location": 1229
+        },
+        {
+          "text": "and prince andrews emails with *epstein*",
+          "location": 1250
+        },
+        {
+          "text": "palace oh we didn't know about *epstein*",
+          "location": 1272
+        },
+        {
+          "text": "americans believing that jeff *epstein*",
+          "location": 1316
+        },
+        {
+          "text": "article monsanto and jeffrey *epstein*",
+          "location": 1355
+        },
+        {
+          "text": "speaking of *epstein* they're speaking of",
+          "location": 1357
+        },
+        {
+          "text": "that fricking devil monsanto and *epstein*",
+          "location": 1360
+        },
+        {
+          "text": "involved in an *epstein* case to quash",
+          "location": 1370
+        }
+      ]
+    },
+    {
+      "id": "noiATviQJ3Y",
+      "segments": [
+        {
+          "text": "these posts is of course *epstein* with",
+          "location": 827
+        },
+        {
+          "text": "time and i think that *epstein* we have to",
+          "location": 1209
+        },
+        {
+          "text": "*epstein* getting arrested is it is but",
+          "location": 1214
+        },
+        {
+          "text": "showing bill clinton and jeffrey *epstein*",
+          "location": 1240
+        },
+        {
+          "text": "breaking *epstein* q's back on the scene",
+          "location": 1411
+        },
+        {
+          "text": "doing with *epstein* one of the attorneys",
+          "location": 1543
+        },
+        {
+          "text": "i mean we like this just shows *epstein*",
+          "location": 1784
+        },
+        {
+          "text": "that now with *epstein* arrested you know",
+          "location": 1803
+        },
+        {
+          "text": "trump with *epstein* yeah you know that",
+          "location": 1851
+        },
+        {
+          "text": "florida *epstein* and trump was here he",
+          "location": 1859
+        },
+        {
+          "text": "one plane ride on *epstein* plane he went",
+          "location": 1871
+        },
+        {
+          "text": "billionaire next to *epstein* who's a",
+          "location": 1892
+        }
+      ]
+    },
+    {
+      "id": "NqL7EeYTd9s",
+      "segments": [
+        {
+          "text": "pedophile pal *epstein* as part of smear",
+          "location": 622
+        },
+        {
+          "text": "to label *epstein* and trump and then they",
+          "location": 649
+        },
+        {
+          "text": "actually go on to say the trump *epstein*",
+          "location": 652
+        }
+      ]
+    },
+    {
+      "id": "oK2ZWHTdbpA",
+      "segments": [
+        {
+          "text": "trafficker nasty bastard jeffrey *epstein*",
+          "location": 499
+        },
+        {
+          "text": "says here *epstein* the mc2 modeling",
+          "location": 513
+        },
+        {
+          "text": "*epstein* mc square you know maybe they're",
+          "location": 538
+        },
+        {
+          "text": "nevertheless ray chandler mc to *epstein*",
+          "location": 546
+        },
+        {
+          "text": "*epstein* and covered up as he so did",
+          "location": 832
+        }
+      ]
+    },
+    {
+      "id": "Pi8_BZtYNzQ",
+      "segments": [
+        {
+          "text": "queue space ufos *epstein* wikileaks you",
+          "location": 39
+        },
+        {
+          "text": "that *epstein* disney hmm weird stuff",
+          "location": 76
+        },
+        {
+          "text": "nearly connected with *epstein* of course",
+          "location": 437
+        },
+        {
+          "text": "theory finds new life in jeffrey *epstein*",
+          "location": 465
+        },
+        {
+          "text": "getting into the *epstein* information so",
+          "location": 1030
+        },
+        {
+          "text": "jeff *epstein* of course found injured who",
+          "location": 1034
+        },
+        {
+          "text": "*epstein* being held reconcile dropped",
+          "location": 1056
+        },
+        {
+          "text": "before *epstein* found injured in his cell",
+          "location": 1120
+        },
+        {
+          "text": "did they know this is where *epstein*",
+          "location": 1151
+        },
+        {
+          "text": "*epstein* for sure and they could probably",
+          "location": 1181
+        },
+        {
+          "text": "right music room where *epstein* played",
+          "location": 1295
+        },
+        {
+          "text": "get back to *epstein* a sec q gives us a",
+          "location": 1312
+        },
+        {
+          "text": "likely a hit *epstein* was again not given",
+          "location": 1330
+        },
+        {
+          "text": "deep underground *epstein* base and let's",
+          "location": 1392
+        },
+        {
+          "text": "people connected to clinton or *epstein*",
+          "location": 1682
+        },
+        {
+          "text": "know they want to distract from *epstein*",
+          "location": 2268
+        }
+      ]
+    },
+    {
+      "id": "QtYci9jXct4",
+      "segments": [
+        {
+          "text": "jeffrey *epstein* write stories allegedly",
+          "location": 180
+        },
+        {
+          "text": "he's gone down to *epstein* island lolita",
+          "location": 183
+        }
+      ]
+    },
+    {
+      "id": "qZZGyHrnsQM",
+      "segments": [
+        {
+          "text": "now let's move on into talking *epstein*",
+          "location": 382
+        },
+        {
+          "text": "*epstein* some of the accusers are",
+          "location": 416
+        },
+        {
+          "text": "richardson his ties to *epstein* and his",
+          "location": 440
+        },
+        {
+          "text": "ghislaine maxwell jeffrey *epstein* and",
+          "location": 460
+        },
+        {
+          "text": "allegations forth about *epstein* and",
+          "location": 477
+        },
+        {
+          "text": "thing on *epstein* this having to do with",
+          "location": 493
+        },
+        {
+          "text": "*epstein* stuff and i didn't have any role",
+          "location": 508
+        },
+        {
+          "text": "how about *epstein* how about david koch",
+          "location": 602
+        },
+        {
+          "text": "koch and *epstein* and not just that but",
+          "location": 616
+        },
+        {
+          "text": "party that *epstein* was at right after",
+          "location": 624
+        },
+        {
+          "text": "*epstein* got out of prison about a decade",
+          "location": 629
+        }
+      ]
+    },
+    {
+      "id": "R_iWc7_vQ14",
+      "segments": [
+        {
+          "text": "out that yes it was true jeffrey *epstein*",
+          "location": 115
+        },
+        {
+          "text": "against jeffrey *epstein* this is just",
+          "location": 150
+        },
+        {
+          "text": "jeffrey *epstein* would be arrested as he",
+          "location": 308
+        },
+        {
+          "text": "down with *epstein* i'm seeing a lot of",
+          "location": 327
+        },
+        {
+          "text": "saying that trump pal jeffrey *epstein* or",
+          "location": 333
+        },
+        {
+          "text": "jeffrey *epstein* you know they're just",
+          "location": 339
+        },
+        {
+          "text": "jeffrey *epstein* was actually banned from",
+          "location": 363
+        },
+        {
+          "text": "*epstein* was basically hitting on or",
+          "location": 368
+        },
+        {
+          "text": "*epstein* situation right now as i get",
+          "location": 384
+        },
+        {
+          "text": "have for you guys here jeffrey *epstein*",
+          "location": 969
+        }
+      ]
+    },
+    {
+      "id": "svwSKZ926yY",
+      "segments": [
+        {
+          "text": "maybe fisa also *epstein* documents ten to",
+          "location": 150
+        },
+        {
+          "text": "hundreds of more names lata cass *epstein*",
+          "location": 156
+        },
+        {
+          "text": "conversation talking *epstein* okay a lot",
+          "location": 421
+        },
+        {
+          "text": "that *epstein* is like faded from the",
+          "location": 428
+        },
+        {
+          "text": "related to *epstein* related to gil a",
+          "location": 451
+        },
+        {
+          "text": "modeling agency where *epstein* and his",
+          "location": 492
+        },
+        {
+          "text": "trump we went through *epstein* news how",
+          "location": 546
+        }
+      ]
+    },
+    {
+      "id": "T_mJ1awyakY",
+      "segments": [
+        {
+          "text": "*epstein* news the fbi searching la city",
+          "location": 47
+        },
+        {
+          "text": "let's talk *epstein* for a few minutes",
+          "location": 1410
+        },
+        {
+          "text": "offender jeffrey *epstein* could",
+          "location": 1422
+        },
+        {
+          "text": "*epstein* so again not only do we have",
+          "location": 1436
+        },
+        {
+          "text": "fisa d class asap more stuff on *epstein*",
+          "location": 1451
+        },
+        {
+          "text": "this *epstein* case they're trying to",
+          "location": 1475
+        },
+        {
+          "text": "the bus with jeffrey *epstein* and then",
+          "location": 1495
+        },
+        {
+          "text": "that why would jeffrey *epstein* get",
+          "location": 1520
+        },
+        {
+          "text": "jeffrey *epstein* has multiple planes and",
+          "location": 1539
+        }
+      ]
+    },
+    {
+      "id": "tkLyxIo8Cqo",
+      "segments": [
+        {
+          "text": "billionaire jeffrey *epstein* so this is",
+          "location": 314
+        },
+        {
+          "text": "lenient plea deal for *epstein* back in",
+          "location": 346
+        },
+        {
+          "text": "a lenient plea deal for jeffrey *epstein*",
+          "location": 377
+        },
+        {
+          "text": "*epstein* did and this was for soliciting",
+          "location": 382
+        }
+      ]
+    },
+    {
+      "id": "uJn58OP3GEI",
+      "segments": [
+        {
+          "text": "*epstein* doc's are going to be unsealed",
+          "location": 1016
+        }
+      ]
+    },
+    {
+      "id": "Up-MRtsG4Tw",
+      "segments": [
+        {
+          "text": "and then next one here why is *epstein*",
+          "location": 652
+        },
+        {
+          "text": "tunnels underneath his temple on *epstein*",
+          "location": 658
+        },
+        {
+          "text": "the tunnels underneath *epstein* island",
+          "location": 690
+        },
+        {
+          "text": "why is *epstein* spending so much money to",
+          "location": 695
+        },
+        {
+          "text": "satellite image of *epstein* island here",
+          "location": 704
+        },
+        {
+          "text": "the *epstein* is spending apparently 29",
+          "location": 781
+        }
+      ]
+    },
+    {
+      "id": "UsuA0HSRXzo",
+      "segments": [
+        {
+          "text": "happened to jeffrey *epstein* what the",
+          "location": 15
+        },
+        {
+          "text": "be talking about *epstein* here we're",
+          "location": 71
+        },
+        {
+          "text": "right now it's all *epstein* and all",
+          "location": 93
+        },
+        {
+          "text": "so now let's get into *epstein* so this",
+          "location": 133
+        },
+        {
+          "text": "*epstein* killed himself",
+          "location": 150
+        },
+        {
+          "text": "description of where exactly *epstein* was",
+          "location": 154
+        },
+        {
+          "text": "jeffrey *epstein* to say anything it's",
+          "location": 193
+        },
+        {
+          "text": "ago two of jeffrey *epstein* as longtime",
+          "location": 250
+        },
+        {
+          "text": "believe that jeffrey *epstein* had",
+          "location": 351
+        },
+        {
+          "text": "thing right when *epstein* news broke",
+          "location": 417
+        },
+        {
+          "text": "first thing that trended was *epstein* and",
+          "location": 419
+        },
+        {
+          "text": "jeffrey *epstein* apparent suicide",
+          "location": 562
+        },
+        {
+          "text": "far behind trump retweets *epstein*",
+          "location": 722
+        },
+        {
+          "text": "so i mean geez with *epstein* here potus",
+          "location": 731
+        },
+        {
+          "text": "use that *epstein* news use that *epstein*",
+          "location": 1316
+        }
+      ]
+    },
+    {
+      "id": "vL7VfteARhQ",
+      "segments": [
+        {
+          "text": "*epstein* pretty much every day a new a",
+          "location": 943
+        },
+        {
+          "text": "*epstein* was the pedophile blackmailer",
+          "location": 952
+        },
+        {
+          "text": "*epstein* had full video surveillance at",
+          "location": 966
+        },
+        {
+          "text": "that *epstein* was the blackmailer and",
+          "location": 1018
+        },
+        {
+          "text": "comment here *epstein* guards *epstein*",
+          "location": 1343
+        },
+        {
+          "text": "the *epstein* suicide thing iii don't know",
+          "location": 1394
+        }
+      ]
+    },
+    {
+      "id": "wjeEg2yoJbM",
+      "segments": [
+        {
+          "text": "*epstein* massive document dumps imminent",
+          "location": 63
+        },
+        {
+          "text": "*epstein* island temple resembles a",
+          "location": 515
+        },
+        {
+          "text": "note on this last drop to about *epstein*",
+          "location": 576
+        },
+        {
+          "text": "headline as jeffrey's case grows *epstein*",
+          "location": 700
+        },
+        {
+          "text": "globally to was *epstein* an intelligence",
+          "location": 714
+        },
+        {
+          "text": "associated with *epstein* include i didn't",
+          "location": 757
+        },
+        {
+          "text": "jeffrey *epstein* right now everybody but",
+          "location": 770
+        },
+        {
+          "text": "*epstein* primary purpose of this article",
+          "location": 1045
+        },
+        {
+          "text": "shape stories about jeffrey *epstein* here",
+          "location": 1052
+        },
+        {
+          "text": "contractor for *epstein* says he quit over",
+          "location": 1057
+        },
+        {
+          "text": "pointing back to those *epstein* documents",
+          "location": 1296
+        },
+        {
+          "text": "*epstein* got arrested at an airport i",
+          "location": 2023
+        }
+      ]
+    },
+    {
+      "id": "WlZQhQXwYTI",
+      "segments": [
+        {
+          "text": "*epstein* didn't kill himself sign on the",
+          "location": 575
+        }
+      ]
+    },
+    {
+      "id": "WwBj0YnLtX0",
+      "segments": [
+        {
+          "text": "pedos talked about jeffrey *epstein* up",
+          "location": 1649
+        },
+        {
+          "text": "brings up *epstein* - because jeez i'm",
+          "location": 1790
+        }
+      ]
+    },
+    {
+      "id": "Y8DPHUnnvXU",
+      "segments": [
+        {
+          "text": "er let's see here what else *epstein* news",
+          "location": 47
+        },
+        {
+          "text": "to prevent the unsealing of more *epstein*",
+          "location": 67
+        },
+        {
+          "text": "on your own let's move on into *epstein*",
+          "location": 801
+        },
+        {
+          "text": "alright so a couple things on *epstein*",
+          "location": 804
+        },
+        {
+          "text": "judge not to name names an *epstein*",
+          "location": 817
+        },
+        {
+          "text": "court papers related to jeffrey *epstein*",
+          "location": 827
+        },
+        {
+          "text": "*epstein* and the others of said crimes so",
+          "location": 921
+        },
+        {
+          "text": "like i said we're not done this *epstein*",
+          "location": 924
+        },
+        {
+          "text": "trafficker jeffrey *epstein* right here",
+          "location": 1053
+        },
+        {
+          "text": "said in court filings that *epstein* an mc",
+          "location": 1063
+        },
+        {
+          "text": "then also check this out ps *epstein*",
+          "location": 1117
+        },
+        {
+          "text": "be learning a lot more about *epstein*",
+          "location": 1150
+        },
+        {
+          "text": "fisa news *epstein* news and just crazy",
+          "location": 2323
+        }
+      ]
+    },
+    {
+      "id": "yu7cOa_9gN0",
+      "segments": [
+        {
+          "text": "payne where there *epstein* one the last",
+          "location": 791
+        },
+        {
+          "text": "moving on into *epstein* news so this",
+          "location": 825
+        },
+        {
+          "text": "ruled that a large trove of *epstein*",
+          "location": 831
+        },
+        {
+          "text": "*epstein* associations and that news",
+          "location": 978
+        }
+      ]
+    },
+    {
+      "id": "z9GTRwjpZLo",
+      "segments": [
+        {
+          "text": "just the mossad with the jeffrey *epstein*",
+          "location": 659
+        }
+      ]
+    },
+    {
+      "id": "zCKlkgpTrXo",
+      "segments": [
+        {
+          "text": "friends jeffrey *epstein* who was a",
+          "location": 1412
+        },
+        {
+          "text": "*epstein* yes i know he's a convicted",
+          "location": 1751
+        }
+      ]
+    },
+    {
+      "id": "ZseKL2q2S-E",
+      "segments": [
+        {
+          "text": "uh yeah any news on *epstein* i think i",
+          "location": 2327
+        },
+        {
+          "text": "what we're waiting on *epstein* we're",
+          "location": 2337
+        },
+        {
+          "text": "few weeks and then maybe more *epstein*",
+          "location": 2738
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3441 @@
+{
+  "indexed": "__lGfKxA0WI,_-_MVJecq5I,_5WkbucPT4g,_ec7XMfirg4,_EqneJRgSe8,_idzf18MYXs,_Ne214s756k,_Ob8jo-qOCU,_q5-lvNqF8Y,_TPUfVabVHU,_tRUka84Q10,_UMxGoem_cE,_YS92pFld0Y,-_4Za6eoYwY,-0DjA_r32uQ,-3F6SZZIT-E,-5M7Y-zFyZ0,-9msE7-ydts,-Avsxw6BrhI,-b8zWS3tty4,-e5ABbWTn8M,-i-6mNaKI3I,-icWyKwjrY8,-kDAK81lyaY,-kYE2w6y-GA,-MYXqXNhcnc,-P8dkAqUKZY,-tSHN-cRXo0,-VRexocuLyU,-zsJy_pc_gQ,0-8SzdsEPn0,047r18PmzXg,06ZhNoUqwA4,0C27jD9e-j0,0ICCjllfcD0,0jspiMXND2A,0kkMEbbFd9M,0NUQEdAWVkQ,0q_eYZ-zjys,0SJGTnXKJLk,0th1OKXNQXY,0thRJXOyyOs,0VW3c_f1WOI,0Ytkx1pvnL8,1-v18VEV4Rg,18k-mw0lGZ0,1atlaAzWtj4,1FoSp-tBfp4,1Qa_cX1DPn8,1s9fsICUfOw,1WmbX3JQa0c,1ya6QF21RjE,1ZoQGfCIQP4,22knD94PYNw,23GkaHyU2R4,23Zi93zyS6U,24o5bLbjYh0,29VWyFZAo98,2J-isPoaOe8,2MEzlpSs3hI,2qRm-XvaYGk,2vQA-V9OnxY,2XVtrBvxoNQ,3_9MzitOhpg,3-sR3LmB0N0,305W5z9yzW0,32HzhZpqqHs,32nTGjvWF9c,34kHft924rA,3cgcmRKlIhU,3ciusVGxdno,3E_KWnG6gO8,3fi1bx4oWOE,3GvhthG2rXo,3iT9_AqKX2M,3mCWwiYSQsM,3n_fTHOHmP4,3VJvZsz9VQk,3Vpaplt92is,3WDtVeSSyrU,3WzJtUe634M,3XT99f5rZkY,3YdbQS2xw0E,40cx-g-mfDk,41qO6bukotY,4aR7zbZf3pE,4ATvSzS-TLU,4dX3v4Z4aec,4fS6egD9cSc,4mNbB0RTuoI,4MXimasATsA,4nk3rY194h8,4oXIn88QFbc,4qQd8Qu7aPM,4VCgU1v0c3I,56hnR-UeVbI,59IbF_o4Xxc,5flC3-UkdyU,5PhM32xlVEs,5RLxQOvZxXs,5St08kicLiU,5uzjLst8w68,5VFOltHRXbM,6_wyHLXHqx4,60xrsFvDYYk,6Ezxw-UNmQI,6foOgmaZN-s,6kESQU65fUA,6KttPC8JV3s,6o54Y7dhOus,6PsL7aVI12U,6sbgm3s49BM,6sC4YqrrbsQ,73cggmTCclY,7a8EAuTwhdU,7d3A9Wi1xu0,7drP1GmKuhA,7HQEEo9pTxI,7kzKO982UIQ,7OUm208GUDs,7UT-kOjOka4,80z15a0xsUQ,81p3jRVXGk4,8gkGfhtpurY,8pa8Er939dg,8QiuuwivwsM,8z6EDkIocXI,91aT7JIOIbY,9gYGBZ6wUIE,9hqxfV040oQ,9K-4Jc2l-7U,9lbn3bkROBc,9lgC6A9CGqY,9LwjAgU_2hc,9w_UO-KJccs,9xhpctWntoI,9YBPFZ6r5nY,9yIsVlJ2qAY,9zB7TNiGuDw,A4-cSwxHsV4,a4jwV9NnySU,A52PfmoHm8I,a67Ukzg63u8,A7HbMpBAg8c,A82praOPfpo,AaP-PP8-KGk,aAzQwARAo28,ABM5Oj2s6eI,aC12-gepI3U,aCfOGluhEKI,aDPMNOgOz4E,aDUDC92PxcU,AJ_U54u6gbE,ajiBcgtAY-w,aJWZ_APGg6A,AKPMK0xaRN0,AmbKxQ51VWc,aN9TllOemSA,ANDq9-ttO-w,Ao2abBxOiLY,AOParRtlvFQ,ApHsdbvYgFA,aqGYpuYdbOM,Ar3JvKPGr40,ARwagwGekv0,AuJjdL3A0Wc,AvcEuGghWQk,aWGr7i2-IYA,AwzaAL1pDXQ,aXwILTOVL0M,AyLUG-qQcCA,B5_naGkaBDg,B5MFHmezpn8,B5mo-Rnwm4s,bbAaX9B5ncY,bbpmtRc18WQ,BC_VRjt8gvw,BcZjAF2oFEE,Bd0NHLMVTAQ,BFuaMj35qAo,bG3PLtnHSuc,BGt8AVBwAQc,BLJVjp0lq4g,bmipWlYsyEM,bMWIDBnA6Z4,Bn2OlX_4C4Q,bNHR5T64ooQ,bNMvlOzCsZk,Bozlwr1uHco,BpeOtb7CWeE,bPVLncDuirE,BR9EIDuUBJQ,bTFNebYIotU,bYRSIwwnCFU,bzAYF7yEn7Y,bzCEAKmxlVs,C_h2RLZEGEk,c1C7epr44bw,c7Yfc_JZAaU,CCLJZ-bM01Q,CDZhS3BfdB0,CeXQ15A9BSA,CIkVvgIT6qs,cKGw_Hrtajc,cKObBT3BQ4A,CksmGxdCvPQ,cLcHOtY9fgk,coYoIINOWcQ,cpAeoTwKHlc,cpPgoi7zUjo,cu1homOW9CE,CunzrKChTpI,CX6apttsGjs,CxaPpbC3pgA,CXbRscylFsY,CYE1-7NSG2g,cyjt9Vm0imo,D-va4Jpkt38,D-y5ALLiCZ4,D3zc2JmlHK0,D4AkLrH0WtI,D8mzSBBfnNQ,D8RUia2q5wA,daON-Y2Ph5w,DCkhkkb2nqM,DdiM5lA-05c,ddZfJCoq65o,DeEBJcmrjAU,dh_NJhuVafY,dHHqYCCujKY,DiRI7rhc4qE,DJJw71TSho4,dJspwk8huY4,dKaqjJzl0vg,DksI8ZPmBNE,dlZUFvOqJeY,dNI6tUGGJNM,dONKuAjf26Q,dos0E9blpHw,DsDBNF7mhqk,DSqcbzBojYk,Du5Cit3oe6w,duZHG7VDNm4,DxGp_peYB_A,e6gS2_fX0oY,e6mIdK0LLWk,e8AyslO62b8,e8xXVMiChuQ,E9n2iFMyXjQ,EcbwKNO6TBI,eERaZvdF6Ms,ees6El-Jay0,ejBAqhxqAkQ,EK0R7sdxAFQ,ekJ4hKREY8U,eLy1XqX9IcU,En-VTreZMTs,F3oAIzyo0HQ,F4IPqNACpvI,FAhsY5AIWWY,FDEmEvwZtrM,fHohiZp5hGc,FJGnynqfiCQ,Fo9T0LNhNqQ,fOQPFgF5Etg,FPUae6qsjdw,FS65Eef4z7o,fSwdVMLq8zI,FuBVeoPBd0U,fWjIv0WgyqA,fWk2XKmiQOI,fXA4SlMx-Mg,Fz5fZ_7pia4,G2ZwwI5fN0E,g57p8aQQSbY,G5RiRuFIh8Y,g90iVaKS8Mc,gCaHEfyXkA0,gdEzIz7ievE,gDlgmkVKpy0,GDx66bXgYq4,GFEth1i97yY,gG4fzaWuo9w,GhikRA2no60,gJ7o1StrKv8,Gk2tr29fY6Q,gKGT2jlVrgI,gkMB1_gooM0,gkO-A-sYsH0,GmuQx9AiYD4,GN4nmRCU0AY,gojwzzPJQrg,GrWwOG5yFFM,GThX5ssVBn0,GUip6dZpKEs,gUkB5Kk4WAA,H1FABkrnIaE,h6koxkXAJLU,h6y5TxpDvbs,h9dW3QCrYso,hA31PrCznjw,Hb187lnYh0o,HgE2EqazY68,hhPRDd4gOEI,hIrbIOaAUxg,hKdsv2EbSSo,hl-FK4t_9lA,HLRFTyNBlFY,hLumnOkZynU,hLWMbjtpLn0,Hm1iTIa7rFk,hMhDNxC-EB4,HMpv5DpVVUY,hMQTN9L1dBE,Huj55Cm9qH8,hUouIgbrNZY,HWjAwmGq654,HxhtJ-1kd5k,hy9Uo864i5g,hZGSNKUFjQk,I2-S22FiEvg,I2t1cPgCvJo,I2zRq3kdLbk,I3pn7Xex-Ks,i3rp0Uim-0o,i4AnsQlVTvQ,I5h76-o1Kjw,i8VDK89xXzg,I8VIDULc_jQ,iAIDKPNVjzU,ifJ_GtRJ5qM,Ig7fshISKmk,igDMQaECoSw,IifnpOcm0b4,ik-J2hrNaWo,IKpl4TeHwPg,iOLlT7CbqKs,iPX6pJ1dD1s,IS-CvxLX47Y,IsG3gQIRxno,IsjWF9k7TZE,iTFkB2iXkgI,iTFXxHtlImY,iu9vMZwMqgI,IUcqrB04ZpE,IuIhXyjMG28,iUolMe2Bu-M,IuVzHVFtFIE,iwCYGrXqmqw,iwIfxOwYNOE,IwvvrAh-JyA,ixHuaqf211Y,iXPDVq2lGsc,j6boJmmzNcg,j9gG0WZWO2M,jaInrf7dB30,jal0jAoFV70,Jcekm05d-so,JD4r7qP0OLw,jEgmVdV6HBE,JeGwCPRojJo,jgHK6JZonJM,JLPKO3AKA14,JMN2uWdknac,jN-MkK8djcY,JNaC6eDgjAk,jnUZD1wnBn8,jR_FxV3DYyU,jS-yK_ueKZw,jSZnoRobYTE,JT-aith5f5E,JvaI4JCd5ig,jZ_tr0NnNjE,k2bZBA1A82U,k2MXyXKRlN0,K2TOaYHNhDs,K3kiPpMhKkQ,k3m1P3Vie6s,k55kWdrN8hw,k9LVltxQF2Y,kan3dn8Q8nA,KbWsgGeTrb0,KDVsepSqmys,KgYgMWFqbEc,kHxWvaMOwhM,Kl3MyuzCdRs,KM6DTC_i-8s,kNNz1UEwF-E,KpFP8X1JTiI,KPj--UF1T0k,kRGV4cIdWwM,KSP24qYeWgs,ku6qyUwUgWo,KVb-rUXG6h0,KW1hgV9CBqk,KXHpsXQV82g,KXW0hS3aOjA,L-4ADrZak_4,l0PDi1KDi1w,L1mLdTih8gg,L4Sa4dArQUE,L61XF64Ls8E,l9qBVI4SVP0,lb46GsmPTsI,ldX0CQ2UUfI,LFlKG-VVzMc,LInNbS1JErM,LiU5TfehWW8,lj8AH-4ajRw,LjzWwM9Y9zg,llnr6CG6lHM,Llr69yow55Y,llsND2qpTjM,lNKXqkyE2NQ,lOGKAbcAVzE,LQ4NioOxuGM,lUOYOF9DuSs,LwTvS9v15LE,LXCTMl_Jp9M,LygxI2VGhDU,m_PowDSDjEE,m1HAZ0ESYD0,M1ODHcuO0V0,m2kffLdykTs,m30mwu-9WW0,m3193w4W8Po,m5p9p9LBEpM,MATnFsqiC7Y,Mc5wHbV6irw,mCy59eLFjZg,McZuVVn7fEw,miQPk7qxSvs,Ml1Ys-sDe4o,mlmAUPNPev0,mLZkwKOueVI,mMVX1iGgRac,MO8yy324jyk,MpiqVbdFnlo,mPovmVmAgXs,MsBWU2CFf-U,MUyBpTbvDmw,N-BsO-mirZQ,N-Nsni2kalY,N0l4oFEKoCY,N37LrIj7a8E,N4MwW69zjdk,NbUtbE4Zpoc,Nett68JXMUk,NFBFDRSsaU0,nfDm-SuYSrQ,nhR65A2Cz1U,nJ5B8GnH3mE,NJf-Tr3BrqI,njWcrYwundg,NObMClb6nMY,noiATviQJ3Y,NoLKqBPGGLQ,nPRGWjUYGow,nPtPHMYmnsk,Nqbj_4nIAiA,NqL7EeYTd9s,NS200QxWq7g,nsUd370-n9Q,Nt4ug94a134,NVIEhqdvMCo,NVRVSzP0rFU,NVUbej8exEk,NY7B_THWsM8,Nzx4XSf_fAI,O_R4bM7ONJk,obm0AKIypPI,OCzJwGE7RTY,OdS-XmHla-U,OdXjpK_tLRg,OE_u4IbopVo,OGL_5cu0F-M,OgrLw9IX-Ns,ojYZBeCwYis,oK2ZWHTdbpA,ooHxX3whFXA,OOxgnEI8_NI,oReGR3Bjjmw,oSZzclsh00Y,otE6dhCgsJc,Oun53CRXyeI,OwECoLGRl68,oX7b3YzRNXk,ox9yzjeHt3s,ozbHMNhYe0A,oZz9CJ9K8MA,P0cawbGyBxM,p0Qy24DXfdY,P12Gc4WmCak,P3jy8S0P-2w,p6_gLv5qy8E,p6GmDJEkOQk,p6wFKOTyR60,P8xmUD4Gmrw,PA9MTquQya0,pAK-a8Op8KI,pauS_rhaYO0,PBiBq_DiHmo,pbjkl0DwxHs,Pg21pJPDzEU,phbygYipE-g,Pi8_BZtYNzQ,PkeO8SN0cN4,plJqp67-iX4,PNsZI-uZH7I,PsQlxu6iOzI,pt17lUpcskk,PtAxf8A1Zco,ptvgcLZ3HOw,PvWDJd2UYT8,pwM9WH8pqaY,PWMXacQWEjs,pyMrzxZBZZQ,pZ5q5wUI1-Y,pZhHd9KT2lk,q0IR8IqKZ18,Q1nmx353lDo,q2ItOTBF1ys,Q4MG607MDz4,q6hnQoB_BlI,q78RNxcI38U,q7I8sj_3rlM,q7prMUoyMEo,Q84zuHjjuww,Qa2bfVP6ChQ,qB9zc5VAanc,QC7qRbcWsN0,qcEDt4YOkS8,qCmySBiZXVA,qdwN5mt9V2c,qFumeKZX_MA,QJaNPlhmdSM,QK6Y2tnFIAw,qlFnlzOoFgo,qNurdjNB-rw,Qo2GL5T8T_E,Qq339b2xOrY,qRKU3XXIwlI,qSFeOuQEXXw,QSMC7VnqOnQ,QtYci9jXct4,QuVpIqeSRnU,qwbX5au3Iuw,qWhpDyoLyR8,qX2Z7mLBM1k,qZMy5wog24o,qZZGyHrnsQM,R_iWc7_vQ14,r-vKLD9F61M,R1g3eyyM590,r1IYwxp0NNs,r1pXJkMaAmc,RCPgq96ku4k,rdE4NEIZACI,REcAj2PLMu4,RenafscRgUY,RgdXwexLI_Y,RGFh5qOWU3U,RLczNzWBbpE,RmZj7uATNFM,rqks6sKCmDc,Rt85IKjQ9hs,rUpElK5Qw3E,rVrthFN9dnI,rX0dkfDOO1s,rxMOShu0yQk,RZf9IVaRgdo,S2U7ncJQ000,S4mKQajGJl4,s6H86oQEC2I,SaR5pCeCjao,SAwrlpHFmOc,sBy_LmO3b7k,SePTbZOh8iE,sHUgXraPhAc,siBW29AUMrw,skkII0awwFM,sKMZRv9JY_A,sLv3F7kLpB4,SovJjIjmI6M,sR5B-vb3Fi0,svK1ajIeprU,svwSKZ926yY,SvyN0PlWwkM,swc_HIr-8WA,Sx3ElJlX7wQ,SxPNu1XMYKA,sxWWB5aKNk8,T_mJ1awyakY,T3TRP5tX3T0,T5IM3P9Md-4,t6dwa21eo_M,TCtPeZP1H0g,td8PwMAtpQI,TdNo4qfgAb4,TeFw8eqcLco,tfW6YjVSx0U,Tg0_AZbm71E,TgzkblYi9pg,THy-FwvnIqQ,tJjx9eVGzSY,tK7YaJnYETw,TKK1o-pPPkQ,tkLyxIo8Cqo,tkm-n8lbhLg,TKOI_wF6Rn0,Tr5IR4SqKcA,TsjX9SPfvSA,Tus8Yc2qNXc,TX1rZO2bLJ8,u_apd9SGqLc,U1GOoEoYLy8,u1gZGn0l8y4,u3TgwapRzSA,u9zCkZgwoik,UA8VNiOraJI,uaXp0CBucos,uJn58OP3GEI,uJYAdCT7xFA,uKCq7HfZh9A,UKfHVu47LXo,Up-MRtsG4Tw,UpaXSxM07to,urRt-Yju_SU,UrzdhfUMR6k,UsuA0HSRXzo,UuJpA7lXi7g,uUsLnKlWMkU,UVea--jSv1A,uvYdZu80X9Y,uWFJruvCPhc,UwVr2kwMjI0,uxDmAVpZ91Q,V-8xYjEosOY,V4OPmN3e8F8,V59pKIXUQuM,v5G6fZkyhXg,v6JLwp0aFpc,Vafm-ZaLAyI,vafXYoDY5dw,vcqHF8DDsNk,VfelKh4yN9g,vInE2aOTFdw,ViODeAbI2IQ,vK3bX5D1ysc,VKhRSDIFJK0,vL7VfteARhQ,vLnzuy_aeGQ,VLxlCXAuo08,VtMhFvMTyHQ,VVsAZ0AGHeo,vZDynmvvgWg,w_A3W-OJyNw,W0APO4axfn4,w0OSb7FbXas,W7UmZWUWBMQ,WB_PkYN9MFI,wCcjEszzrTI,wdwWgzAq48E,wdXHxEEAvps,wg5sukd6E6Q,WHSd5tVWq1I,wjeEg2yoJbM,WKfsgQLVsHk,WlZQhQXwYTI,WmhFYQnlKB4,wNgdMwL7isA,WOmDWYRAtiA,WsnaqvLhEUk,wu0Utsff6Jo,WvCBdE6rolk,WwBj0YnLtX0,x1EXDDlmrVU,x1UII7bCsvQ,x27EZLRmoAU,x4XfpmZxDq0,Xe8yEypTfNA,XfNnvWPlprc,Xg7s8fovfh8,xKxi0Bbl_Fs,Xl5iO-2wzq0,xLDnc1Vm99w,XMo_G2k5Wso,XobWx6C6lJs,xQVu3ywd2RU,XRABi40G2T4,xS-hT1sfvfs,Xtk7ntK7k14,xU1ilgRmqsk,xUDwyRTojUM,xXRUfka1XFM,Y31yR524zWU,y3LgzaKBw2w,y3OVColWu-g,Y8DPHUnnvXU,YaMWl4cmqkw,yb_kKBcdsRc,ybgD2ibYB0o,YDS7nKcT3rk,yEf7XF-JNy4,yf8ObyPk568,yFQEK_KaTMA,yIh9oqXg4JU,YiLWFF__qiM,YIPBQ3O8Wr0,yK2UAmF7gYA,ym22gqkQmUA,ymm3YfCfVUs,yOGL3BrXZlA,YpPXlDhdkOg,YSc4GkdMm-E,ysHQziNaMOo,ySHvJqNfN7I,ySSnEYdnsEM,ytA3-R4Fi4M,yu7cOa_9gN0,yVjAH8Wg-hk,ywKQGnLaYdk,Z_nveKGRnsI,Z5o33xspXi4,z5obz0z7rdo,z7s8UaWeshs,Z8oojkEH6Eo,z9GTRwjpZLo,zBBzw6WImlY,zCKlkgpTrXo,zdehlx8vy4U,zffLUSbaqlw,zGk_J9B9MDw,zgK4F6NW32s,ZgOL1h0-8Ok,ZGsWdjqtO-w,zgU0j8HGfX4,zIU-AuvMwqU,zjqEsdevnaU,zKar6awuy2Q,zoQmiHuW8nc,ZpqZoQBWXVo,ZpXeRJcgZlU,ZqMTDLT6akA,ZRISi-Y-X3s,ZseKL2q2S-E,zUxgy98UTp4,zw8yzCjmYcI,zziC-o5xumc,ZZTz8nYZ6vA,hj7ubtDDtik",
+  "topic": "Trafficking",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_ec7XMfirg4",
+      "segments": [
+        {
+          "text": "do this whether it's on *trafficking*",
+          "location": 210
+        }
+      ]
+    },
+    {
+      "id": "_idzf18MYXs",
+      "segments": [
+        {
+          "text": "*trafficking* that have happened just over",
+          "location": 19
+        },
+        {
+          "text": "a nother story in regards to *trafficking*",
+          "location": 139
+        },
+        {
+          "text": "pedophilia and human *trafficking* but",
+          "location": 144
+        },
+        {
+          "text": "*trafficking* bus that was occurring right",
+          "location": 149
+        },
+        {
+          "text": "drug *trafficking* bus there we know the",
+          "location": 175
+        },
+        {
+          "text": "*trafficking* aspect of it with trump",
+          "location": 182
+        },
+        {
+          "text": "*trafficking* because remember these deep",
+          "location": 190
+        },
+        {
+          "text": "he always slips that drug *trafficking*",
+          "location": 209
+        },
+        {
+          "text": "*trafficking* sting now i want to get into",
+          "location": 225
+        },
+        {
+          "text": "*trafficking* arrests you do that do that",
+          "location": 239
+        },
+        {
+          "text": "human *trafficking* in",
+          "location": 270
+        },
+        {
+          "text": "reported human *trafficking* survivor",
+          "location": 357
+        },
+        {
+          "text": "victim of sex *trafficking* and she was",
+          "location": 381
+        },
+        {
+          "text": "this human *trafficking* victim they're",
+          "location": 413
+        },
+        {
+          "text": "human *trafficking* bus and that's why i",
+          "location": 430
+        },
+        {
+          "text": "*trafficking* stuff and man this dr. phil",
+          "location": 485
+        },
+        {
+          "text": "specific like *trafficking* updates once a",
+          "location": 495
+        }
+      ]
+    },
+    {
+      "id": "_q5-lvNqF8Y",
+      "segments": [
+        {
+          "text": "*trafficking* related issues so if he's",
+          "location": 327
+        },
+        {
+          "text": "human *trafficking* central right there",
+          "location": 364
+        }
+      ]
+    },
+    {
+      "id": "_TPUfVabVHU",
+      "segments": [
+        {
+          "text": "an international child sex *trafficking*",
+          "location": 17
+        },
+        {
+          "text": "*trafficking* is nothing new it's part of",
+          "location": 94
+        },
+        {
+          "text": "pedophilia or child *trafficking* if you",
+          "location": 108
+        }
+      ]
+    },
+    {
+      "id": "-0DjA_r32uQ",
+      "segments": [
+        {
+          "text": "front for anti human *trafficking* related",
+          "location": 1045
+        },
+        {
+          "text": "*trafficking* a lot of people saying oh",
+          "location": 1053
+        }
+      ]
+    },
+    {
+      "id": "-Avsxw6BrhI",
+      "segments": [
+        {
+          "text": "would be human and child *trafficking* so",
+          "location": 366
+        },
+        {
+          "text": "just thought wow organ *trafficking* deep",
+          "location": 523
+        },
+        {
+          "text": "states involved in *trafficking* on the",
+          "location": 527
+        },
+        {
+          "text": "but organ *trafficking* is a huge way they",
+          "location": 531
+        },
+        {
+          "text": "*trafficking* industry so you just i mean",
+          "location": 541
+        },
+        {
+          "text": "organ *trafficking* industry",
+          "location": 564
+        },
+        {
+          "text": "*trafficking* issues but then of course",
+          "location": 713
+        }
+      ]
+    },
+    {
+      "id": "-i-6mNaKI3I",
+      "segments": [
+        {
+          "text": "human *trafficking* and organized crime so",
+          "location": 519
+        },
+        {
+          "text": "*trafficking* but we have to sweep up the",
+          "location": 582
+        }
+      ]
+    },
+    {
+      "id": "-kDAK81lyaY",
+      "segments": [
+        {
+          "text": "of drug *trafficking* people that have",
+          "location": 813
+        }
+      ]
+    },
+    {
+      "id": "-kYE2w6y-GA",
+      "segments": [
+        {
+          "text": "his mark by decimating human *trafficking*",
+          "location": 529
+        },
+        {
+          "text": "*trafficking* and pedophilia stuff",
+          "location": 557
+        },
+        {
+          "text": "nasty stuff like *trafficking* and",
+          "location": 640
+        }
+      ]
+    },
+    {
+      "id": "0ICCjllfcD0",
+      "segments": [
+        {
+          "text": "*trafficking* child *trafficking* behind",
+          "location": 1936
+        }
+      ]
+    },
+    {
+      "id": "0th1OKXNQXY",
+      "segments": [
+        {
+          "text": "to abolishing of human *trafficking* so he",
+          "location": 555
+        },
+        {
+          "text": "month to basically end human *trafficking*",
+          "location": 564
+        },
+        {
+          "text": "national slavery and human *trafficking*",
+          "location": 566
+        },
+        {
+          "text": "human *trafficking* awareness month but",
+          "location": 578
+        },
+        {
+          "text": "more outspoken against human *trafficking*",
+          "location": 586
+        },
+        {
+          "text": "and drug *trafficking* which donald trump",
+          "location": 596
+        },
+        {
+          "text": "human *trafficking* is going to be a",
+          "location": 602
+        }
+      ]
+    },
+    {
+      "id": "0Ytkx1pvnL8",
+      "segments": [
+        {
+          "text": "human *trafficking* some very suspicious",
+          "location": 769
+        },
+        {
+          "text": "human *trafficking* megachurch leader",
+          "location": 841
+        },
+        {
+          "text": "this nasty horrible *trafficking*",
+          "location": 884
+        },
+        {
+          "text": "human *trafficking* shady deep state stuff",
+          "location": 968
+        }
+      ]
+    },
+    {
+      "id": "1atlaAzWtj4",
+      "segments": [
+        {
+          "text": "child sex *trafficking* rings just days",
+          "location": 227
+        },
+        {
+          "text": "*trafficking* human *trafficking* and things",
+          "location": 310
+        }
+      ]
+    },
+    {
+      "id": "1FoSp-tBfp4",
+      "segments": [
+        {
+          "text": "*trafficking* as he calls for strong",
+          "location": 351
+        },
+        {
+          "text": "human *trafficking* drug *trafficking*",
+          "location": 355
+        },
+        {
+          "text": "about *trafficking* they never talk about",
+          "location": 373
+        },
+        {
+          "text": "drug *trafficking* human *trafficking* these",
+          "location": 375
+        }
+      ]
+    },
+    {
+      "id": "1Qa_cX1DPn8",
+      "segments": [
+        {
+          "text": "their freakin *trafficking* and and pedos",
+          "location": 2666
+        }
+      ]
+    },
+    {
+      "id": "23GkaHyU2R4",
+      "segments": [
+        {
+          "text": "human *trafficking* drug *trafficking*",
+          "location": 422
+        },
+        {
+          "text": "with drug *trafficking* and human",
+          "location": 1196
+        },
+        {
+          "text": "*trafficking* and point being here",
+          "location": 1197
+        }
+      ]
+    },
+    {
+      "id": "24o5bLbjYh0",
+      "segments": [
+        {
+          "text": "that help with the *trafficking* hat",
+          "location": 425
+        },
+        {
+          "text": "*trafficking* of the children and control",
+          "location": 429
+        },
+        {
+          "text": "blackmail of the child *trafficking* and",
+          "location": 437
+        },
+        {
+          "text": "combating drug *trafficking* fantastic",
+          "location": 1330
+        },
+        {
+          "text": "through *trafficking* drugs guns humans",
+          "location": 1336
+        }
+      ]
+    },
+    {
+      "id": "29VWyFZAo98",
+      "segments": [
+        {
+          "text": "involved in child *trafficking* have never",
+          "location": 828
+        }
+      ]
+    },
+    {
+      "id": "2XVtrBvxoNQ",
+      "segments": [
+        {
+          "text": "foundation and human child *trafficking* a",
+          "location": 546
+        },
+        {
+          "text": "*trafficking* and pedo gate stuff to",
+          "location": 1269
+        },
+        {
+          "text": "*trafficking* pedophilia issue but",
+          "location": 1279
+        }
+      ]
+    },
+    {
+      "id": "32HzhZpqqHs",
+      "segments": [
+        {
+          "text": "certain child *trafficking* and human",
+          "location": 279
+        },
+        {
+          "text": "*trafficking* information was because just",
+          "location": 281
+        }
+      ]
+    },
+    {
+      "id": "3cgcmRKlIhU",
+      "segments": [
+        {
+          "text": "*trafficking* he mentions q in my opinion",
+          "location": 2589
+        }
+      ]
+    },
+    {
+      "id": "3VJvZsz9VQk",
+      "segments": [
+        {
+          "text": "pizza gate or human *trafficking* that",
+          "location": 685
+        },
+        {
+          "text": "and greatest in human *trafficking* and",
+          "location": 767
+        }
+      ]
+    },
+    {
+      "id": "41qO6bukotY",
+      "segments": [
+        {
+          "text": "and facilitated *trafficking* of naming",
+          "location": 843
+        },
+        {
+          "text": "*trafficking* what about american",
+          "location": 861
+        },
+        {
+          "text": "how about arms *trafficking* you know go",
+          "location": 869
+        },
+        {
+          "text": "nexium arrests a lot of sex *trafficking*",
+          "location": 1943
+        }
+      ]
+    },
+    {
+      "id": "4aR7zbZf3pE",
+      "segments": [
+        {
+          "text": "and drug *trafficking* news right as you",
+          "location": 740
+        },
+        {
+          "text": "*trafficking* organ *trafficking* these are",
+          "location": 751
+        },
+        {
+          "text": "*trafficking* drugs in from afghanistan",
+          "location": 763
+        },
+        {
+          "text": "i just typed in human *trafficking* into",
+          "location": 801
+        },
+        {
+          "text": "connecting human *trafficking* to the",
+          "location": 815
+        },
+        {
+          "text": "*trafficking* network also i found some",
+          "location": 824
+        },
+        {
+          "text": "*trafficking* very interesting piece here",
+          "location": 861
+        },
+        {
+          "text": "opioid emic kills human *trafficking* and",
+          "location": 869
+        },
+        {
+          "text": "most vulnerable to human *trafficking* now",
+          "location": 877
+        },
+        {
+          "text": "right it's because of human *trafficking*",
+          "location": 907
+        },
+        {
+          "text": "then *trafficking* as well so really trump",
+          "location": 921
+        },
+        {
+          "text": "in *trafficking* and terrorism that's why",
+          "location": 932
+        },
+        {
+          "text": "*trafficking* so why is donald trump",
+          "location": 973
+        },
+        {
+          "text": "*trafficking* which we know he's been",
+          "location": 981
+        },
+        {
+          "text": "*trafficking* or how the deep state is",
+          "location": 989
+        }
+      ]
+    },
+    {
+      "id": "4fS6egD9cSc",
+      "segments": [
+        {
+          "text": "was found to be running *trafficking*",
+          "location": 289
+        }
+      ]
+    },
+    {
+      "id": "4nk3rY194h8",
+      "segments": [
+        {
+          "text": "was exposing the human *trafficking*",
+          "location": 676
+        }
+      ]
+    },
+    {
+      "id": "4oXIn88QFbc",
+      "segments": [
+        {
+          "text": "society *trafficking* right it's fun stuff",
+          "location": 1125
+        },
+        {
+          "text": "*trafficking* all that stuff so that's how",
+          "location": 1651
+        }
+      ]
+    },
+    {
+      "id": "5flC3-UkdyU",
+      "segments": [
+        {
+          "text": "*trafficking* that goes on with the",
+          "location": 1140
+        },
+        {
+          "text": "fight to end human *trafficking* this was",
+          "location": 1155
+        },
+        {
+          "text": "investigate human *trafficking* leaves and",
+          "location": 1173
+        }
+      ]
+    },
+    {
+      "id": "5St08kicLiU",
+      "segments": [
+        {
+          "text": "*trafficking* and exposure of the sick",
+          "location": 528
+        },
+        {
+          "text": "pedophilia and human *trafficking* front",
+          "location": 539
+        }
+      ]
+    },
+    {
+      "id": "5VFOltHRXbM",
+      "segments": [
+        {
+          "text": "right he all the human *trafficking* stuff",
+          "location": 260
+        },
+        {
+          "text": "*trafficking* and this is what interest",
+          "location": 264
+        },
+        {
+          "text": "drug *trafficking* when he talks about",
+          "location": 272
+        },
+        {
+          "text": "*trafficking* and networking for the elite",
+          "location": 283
+        }
+      ]
+    },
+    {
+      "id": "7OUm208GUDs",
+      "segments": [
+        {
+          "text": "off *trafficking* of drugs opioids and you",
+          "location": 1479
+        },
+        {
+          "text": "*trafficking* trade not only black market",
+          "location": 1497
+        }
+      ]
+    },
+    {
+      "id": "7UT-kOjOka4",
+      "segments": [
+        {
+          "text": "a sting on human *trafficking* 510",
+          "location": 753
+        }
+      ]
+    },
+    {
+      "id": "80z15a0xsUQ",
+      "segments": [
+        {
+          "text": "awaits sex *trafficking* charges and",
+          "location": 304
+        },
+        {
+          "text": "start of a sex *trafficking* trial so",
+          "location": 406
+        },
+        {
+          "text": "victims of human *trafficking*",
+          "location": 2218
+        },
+        {
+          "text": "end human *trafficking* asking for a",
+          "location": 2223
+        },
+        {
+          "text": "*trafficking* or child sex *trafficking*",
+          "location": 2235
+        }
+      ]
+    },
+    {
+      "id": "81p3jRVXGk4",
+      "segments": [
+        {
+          "text": "human *trafficking* issue",
+          "location": 370
+        },
+        {
+          "text": "the whole human *trafficking* issue we can",
+          "location": 382
+        },
+        {
+          "text": "*trafficking* now and this was actually",
+          "location": 542
+        },
+        {
+          "text": "hand in drug *trafficking* now this",
+          "location": 566
+        }
+      ]
+    },
+    {
+      "id": "9K-4Jc2l-7U",
+      "segments": [
+        {
+          "text": "human *trafficking* with their get onboard",
+          "location": 142
+        },
+        {
+          "text": "people in a human *trafficking* probe",
+          "location": 644
+        },
+        {
+          "text": "*trafficking* arrests going on around the",
+          "location": 1304
+        }
+      ]
+    },
+    {
+      "id": "9xhpctWntoI",
+      "segments": [
+        {
+          "text": "*trafficking* we're gonna be talking about",
+          "location": 21
+        },
+        {
+          "text": "human *trafficking* so check it out",
+          "location": 755
+        },
+        {
+          "text": "council to end human *trafficking* act",
+          "location": 770
+        },
+        {
+          "text": "human *trafficking* passing through this",
+          "location": 781
+        },
+        {
+          "text": "anti human *trafficking* and rehab",
+          "location": 797
+        },
+        {
+          "text": "against human *trafficking* with those",
+          "location": 803
+        },
+        {
+          "text": "way of human *trafficking* again step by",
+          "location": 808
+        },
+        {
+          "text": "*trafficking* as well a couple more news",
+          "location": 825
+        },
+        {
+          "text": "*trafficking* news coming our way from",
+          "location": 853
+        },
+        {
+          "text": "the human *trafficking* topic with those",
+          "location": 903
+        },
+        {
+          "text": "*trafficking* of the darkness within the",
+          "location": 971
+        }
+      ]
+    },
+    {
+      "id": "9yIsVlJ2qAY",
+      "segments": [
+        {
+          "text": "*trafficking* human *trafficking* so you",
+          "location": 2012
+        }
+      ]
+    },
+    {
+      "id": "A52PfmoHm8I",
+      "segments": [
+        {
+          "text": "cia's new way of *trafficking* cocaine",
+          "location": 523
+        }
+      ]
+    },
+    {
+      "id": "A82praOPfpo",
+      "segments": [
+        {
+          "text": "issue of human *trafficking* and",
+          "location": 180
+        },
+        {
+          "text": "just call it human *trafficking* you can",
+          "location": 213
+        },
+        {
+          "text": "call it child sex *trafficking* it kind of",
+          "location": 215
+        },
+        {
+          "text": "*trafficking* organ *trafficking* they're",
+          "location": 221
+        },
+        {
+          "text": "human *trafficking* and organ *trafficking*",
+          "location": 254
+        },
+        {
+          "text": "pedophilia and human *trafficking* issue",
+          "location": 288
+        },
+        {
+          "text": "the human *trafficking* is just one part",
+          "location": 302
+        },
+        {
+          "text": "of it there's the drug *trafficking*",
+          "location": 306
+        },
+        {
+          "text": "know the pedophilia human *trafficking*",
+          "location": 468
+        }
+      ]
+    },
+    {
+      "id": "aDUDC92PxcU",
+      "segments": [
+        {
+          "text": "mkultra sex *trafficking* q and on and",
+          "location": 59
+        },
+        {
+          "text": "*trafficking* ring through even talking",
+          "location": 180
+        }
+      ]
+    },
+    {
+      "id": "aJWZ_APGg6A",
+      "segments": [
+        {
+          "text": "*trafficking* rat lines are very easily",
+          "location": 884
+        }
+      ]
+    },
+    {
+      "id": "Ao2abBxOiLY",
+      "segments": [
+        {
+          "text": "on to talk about of course *trafficking*",
+          "location": 32
+        }
+      ]
+    },
+    {
+      "id": "AOParRtlvFQ",
+      "segments": [
+        {
+          "text": "child sex *trafficking* i mean even human",
+          "location": 1621
+        },
+        {
+          "text": "*trafficking* for galactic slave trade i",
+          "location": 1624
+        },
+        {
+          "text": "do we have human *trafficking* by people",
+          "location": 1828
+        }
+      ]
+    },
+    {
+      "id": "AvcEuGghWQk",
+      "segments": [
+        {
+          "text": "child *trafficking* data associated with",
+          "location": 411
+        }
+      ]
+    },
+    {
+      "id": "AwzaAL1pDXQ",
+      "segments": [
+        {
+          "text": "they're *trafficking* human *trafficking*",
+          "location": 287
+        }
+      ]
+    },
+    {
+      "id": "bbpmtRc18WQ",
+      "segments": [
+        {
+          "text": "he even talked about human *trafficking*",
+          "location": 539
+        }
+      ]
+    },
+    {
+      "id": "bMWIDBnA6Z4",
+      "segments": [
+        {
+          "text": "human *trafficking* delta employees",
+          "location": 259
+        },
+        {
+          "text": "and human *trafficking* and this is the",
+          "location": 267
+        },
+        {
+          "text": "the issue of human *trafficking* i",
+          "location": 387
+        },
+        {
+          "text": "gate human-*trafficking*",
+          "location": 969
+        }
+      ]
+    },
+    {
+      "id": "bNHR5T64ooQ",
+      "segments": [
+        {
+          "text": "*trafficking* the truth about ufos free",
+          "location": 888
+        }
+      ]
+    },
+    {
+      "id": "bNMvlOzCsZk",
+      "segments": [
+        {
+          "text": "in human *trafficking* and why would if if",
+          "location": 748
+        }
+      ]
+    },
+    {
+      "id": "BR9EIDuUBJQ",
+      "segments": [
+        {
+          "text": "sex *trafficking* this wasn't just cult",
+          "location": 850
+        }
+      ]
+    },
+    {
+      "id": "bzCEAKmxlVs",
+      "segments": [
+        {
+          "text": "the exposure of child *trafficking* and",
+          "location": 529
+        },
+        {
+          "text": "*trafficking* and look this stuff is being",
+          "location": 550
+        }
+      ]
+    },
+    {
+      "id": "c7Yfc_JZAaU",
+      "segments": [
+        {
+          "text": "*trafficking* maybe it will be a ritual",
+          "location": 64
+        },
+        {
+          "text": "sacrifice child *trafficking* saying",
+          "location": 84
+        }
+      ]
+    },
+    {
+      "id": "cKObBT3BQ4A",
+      "segments": [
+        {
+          "text": "news come out about human *trafficking* on",
+          "location": 1249
+        },
+        {
+          "text": "human *trafficking* yeah totally i mean if",
+          "location": 1298
+        }
+      ]
+    },
+    {
+      "id": "cpAeoTwKHlc",
+      "segments": [
+        {
+          "text": "*trafficking* great right not only that",
+          "location": 1283
+        }
+      ]
+    },
+    {
+      "id": "cpPgoi7zUjo",
+      "segments": [
+        {
+          "text": "*trafficking* a judge is letting the law",
+          "location": 865
+        },
+        {
+          "text": "about sex *trafficking* be used against",
+          "location": 868
+        },
+        {
+          "text": "there we need the *trafficking* we need",
+          "location": 1047
+        }
+      ]
+    },
+    {
+      "id": "CXbRscylFsY",
+      "segments": [
+        {
+          "text": "*trafficking* of many different things but",
+          "location": 323
+        }
+      ]
+    },
+    {
+      "id": "cyjt9Vm0imo",
+      "segments": [
+        {
+          "text": "illegal *trafficking* and those who are",
+          "location": 319
+        },
+        {
+          "text": "*trafficking* not just solicitation or",
+          "location": 637
+        },
+        {
+          "text": "says *trafficking* of children so i think",
+          "location": 640
+        }
+      ]
+    },
+    {
+      "id": "DCkhkkb2nqM",
+      "segments": [
+        {
+          "text": "turned to *trafficking* cocaine and",
+          "location": 1252
+        },
+        {
+          "text": "campaign targeting this drug *trafficking*",
+          "location": 1266
+        }
+      ]
+    },
+    {
+      "id": "DeEBJcmrjAU",
+      "segments": [
+        {
+          "text": "*trafficking* so who knows what they're",
+          "location": 474
+        }
+      ]
+    },
+    {
+      "id": "DiRI7rhc4qE",
+      "segments": [
+        {
+          "text": "human *trafficking* issues but then try to",
+          "location": 205
+        },
+        {
+          "text": "*trafficking* of basically everything you",
+          "location": 234
+        }
+      ]
+    },
+    {
+      "id": "dONKuAjf26Q",
+      "segments": [
+        {
+          "text": "discussing sex *trafficking* and this",
+          "location": 360
+        },
+        {
+          "text": "he's talking about sex *trafficking* why",
+          "location": 374
+        },
+        {
+          "text": "why is he talking about sex *trafficking*",
+          "location": 382
+        },
+        {
+          "text": "have had articles on human *trafficking*",
+          "location": 404
+        }
+      ]
+    },
+    {
+      "id": "dos0E9blpHw",
+      "segments": [
+        {
+          "text": "reality of drug *trafficking* the reality",
+          "location": 360
+        },
+        {
+          "text": "sick human organ *trafficking* stuff once",
+          "location": 415
+        }
+      ]
+    },
+    {
+      "id": "DSqcbzBojYk",
+      "segments": [
+        {
+          "text": "*trafficking* things like that of course",
+          "location": 426
+        }
+      ]
+    },
+    {
+      "id": "Du5Cit3oe6w",
+      "segments": [
+        {
+          "text": "*trafficking* things she talks about quite",
+          "location": 38
+        },
+        {
+          "text": "child sex *trafficking* in regards to",
+          "location": 45
+        }
+      ]
+    },
+    {
+      "id": "DxGp_peYB_A",
+      "segments": [
+        {
+          "text": "pedophilia the human *trafficking* issue",
+          "location": 380
+        }
+      ]
+    },
+    {
+      "id": "e6gS2_fX0oY",
+      "segments": [
+        {
+          "text": "he's still discussing human *trafficking*",
+          "location": 47
+        },
+        {
+          "text": "*trafficking* and the clintons have been",
+          "location": 122
+        },
+        {
+          "text": "was arrested for *trafficking*",
+          "location": 131
+        },
+        {
+          "text": "human *trafficking* clinton involvement",
+          "location": 142
+        }
+      ]
+    },
+    {
+      "id": "e8xXVMiChuQ",
+      "segments": [
+        {
+          "text": "against humanity the child *trafficking*",
+          "location": 80
+        }
+      ]
+    },
+    {
+      "id": "E9n2iFMyXjQ",
+      "segments": [
+        {
+          "text": "*trafficking* they're reporting on it this",
+          "location": 575
+        },
+        {
+          "text": "*trafficking* and the dark stuff here ren",
+          "location": 848
+        },
+        {
+          "text": "sex *trafficking* actual skulls and",
+          "location": 901
+        }
+      ]
+    },
+    {
+      "id": "ees6El-Jay0",
+      "segments": [
+        {
+          "text": "*trafficking* of basically everything you",
+          "location": 241
+        },
+        {
+          "text": "right here sex *trafficking* children",
+          "location": 245
+        }
+      ]
+    },
+    {
+      "id": "eLy1XqX9IcU",
+      "segments": [
+        {
+          "text": "disclosures drug *trafficking* human",
+          "location": 55
+        },
+        {
+          "text": "*trafficking* arms *trafficking* we have i",
+          "location": 56
+        },
+        {
+          "text": "*trafficking* human *trafficking*",
+          "location": 131
+        },
+        {
+          "text": "has talked about human *trafficking* he's",
+          "location": 626
+        },
+        {
+          "text": "*trafficking* he filmed that right on his",
+          "location": 647
+        },
+        {
+          "text": "remember the *trafficking* of everything",
+          "location": 917
+        }
+      ]
+    },
+    {
+      "id": "En-VTreZMTs",
+      "segments": [
+        {
+          "text": "things like pedo gate and *trafficking*",
+          "location": 910
+        }
+      ]
+    },
+    {
+      "id": "FAhsY5AIWWY",
+      "segments": [
+        {
+          "text": "*trafficking* we have human *trafficking*",
+          "location": 1285
+        },
+        {
+          "text": "and drug *trafficking* but technology",
+          "location": 1287
+        },
+        {
+          "text": "*trafficking* is a thing they keep these",
+          "location": 1289
+        }
+      ]
+    },
+    {
+      "id": "fHohiZp5hGc",
+      "segments": [
+        {
+          "text": "it a *trafficking* ring or a peddle ring",
+          "location": 626
+        }
+      ]
+    },
+    {
+      "id": "Fo9T0LNhNqQ",
+      "segments": [
+        {
+          "text": "*trafficking* legislation through the",
+          "location": 275
+        },
+        {
+          "text": "*trafficking* arrests and coincidentally",
+          "location": 325
+        },
+        {
+          "text": "*trafficking* so that the frees up frees",
+          "location": 347
+        }
+      ]
+    },
+    {
+      "id": "fOQPFgF5Etg",
+      "segments": [
+        {
+          "text": "*trafficking* haiti corruption yada yada",
+          "location": 600
+        },
+        {
+          "text": "*trafficking* the child sacrifice to get",
+          "location": 649
+        },
+        {
+          "text": "was caught *trafficking* children out of",
+          "location": 1019
+        }
+      ]
+    },
+    {
+      "id": "g57p8aQQSbY",
+      "segments": [
+        {
+          "text": "human *trafficking* so with trump taking a",
+          "location": 315
+        },
+        {
+          "text": "messages to these human *trafficking*",
+          "location": 330
+        },
+        {
+          "text": "combat the human and drug *trafficking*",
+          "location": 1087
+        }
+      ]
+    },
+    {
+      "id": "gdEzIz7ievE",
+      "segments": [
+        {
+          "text": "regards to the *trafficking* the",
+          "location": 2264
+        }
+      ]
+    },
+    {
+      "id": "GFEth1i97yY",
+      "segments": [
+        {
+          "text": "*trafficking* and all that that was really",
+          "location": 435
+        }
+      ]
+    },
+    {
+      "id": "GhikRA2no60",
+      "segments": [
+        {
+          "text": "*trafficking* ring at the top levels of",
+          "location": 683
+        }
+      ]
+    },
+    {
+      "id": "Gk2tr29fY6Q",
+      "segments": [
+        {
+          "text": "we're talking *trafficking* folks we're",
+          "location": 481
+        },
+        {
+          "text": "is fighting the *trafficking* and fighting",
+          "location": 1122
+        },
+        {
+          "text": "*trafficking* bus and these sorts of",
+          "location": 1165
+        }
+      ]
+    },
+    {
+      "id": "gKGT2jlVrgI",
+      "segments": [
+        {
+          "text": "*trafficking* sick stuff in poor",
+          "location": 1034
+        }
+      ]
+    },
+    {
+      "id": "GmuQx9AiYD4",
+      "segments": [
+        {
+          "text": "bit a body broker organ *trafficking*",
+          "location": 427
+        }
+      ]
+    },
+    {
+      "id": "GThX5ssVBn0",
+      "segments": [
+        {
+          "text": "child sex *trafficking* ring out of the",
+          "location": 396
+        },
+        {
+          "text": "human *trafficking* and *trafficking* of",
+          "location": 417
+        },
+        {
+          "text": "in *trafficking* as well arkansas so",
+          "location": 421
+        }
+      ]
+    },
+    {
+      "id": "GUip6dZpKEs",
+      "segments": [
+        {
+          "text": "*trafficking* legislation so now you know",
+          "location": 412
+        },
+        {
+          "text": "human *trafficking* stuff so a lot of",
+          "location": 601
+        }
+      ]
+    },
+    {
+      "id": "hA31PrCznjw",
+      "segments": [
+        {
+          "text": "*trafficking* now what i also want to",
+          "location": 121
+        },
+        {
+          "text": "human *trafficking* and it sounds like",
+          "location": 152
+        },
+        {
+          "text": "news human *trafficking* in south america",
+          "location": 394
+        },
+        {
+          "text": "news human *trafficking* in south america",
+          "location": 424
+        }
+      ]
+    },
+    {
+      "id": "hIrbIOaAUxg",
+      "segments": [
+        {
+          "text": "*trafficking* and right here i found this",
+          "location": 583
+        },
+        {
+          "text": "face those charges of *trafficking* he was",
+          "location": 606
+        },
+        {
+          "text": "industry and the *trafficking* and",
+          "location": 1040
+        }
+      ]
+    },
+    {
+      "id": "hLWMbjtpLn0",
+      "segments": [
+        {
+          "text": "*trafficking* of minors so on friday",
+          "location": 296
+        },
+        {
+          "text": "in the fight against human *trafficking*",
+          "location": 313
+        },
+        {
+          "text": "*trafficking* but truly this is a great",
+          "location": 321
+        }
+      ]
+    },
+    {
+      "id": "hy9Uo864i5g",
+      "segments": [
+        {
+          "text": "with *trafficking* of guns drugs humans",
+          "location": 106
+        }
+      ]
+    },
+    {
+      "id": "hZGSNKUFjQk",
+      "segments": [
+        {
+          "text": "powers-that-be make from *trafficking*",
+          "location": 229
+        }
+      ]
+    },
+    {
+      "id": "I2t1cPgCvJo",
+      "segments": [
+        {
+          "text": "report it on human *trafficking*",
+          "location": 663
+        },
+        {
+          "text": "*trafficking* but they reported on it",
+          "location": 681
+        },
+        {
+          "text": "mcgregor fight human *trafficking* might",
+          "location": 690
+        },
+        {
+          "text": "*trafficking* and its connections to",
+          "location": 702
+        },
+        {
+          "text": "*trafficking* but we're getting there that",
+          "location": 726
+        }
+      ]
+    },
+    {
+      "id": "I2zRq3kdLbk",
+      "segments": [
+        {
+          "text": "*trafficking* of the satanism or",
+          "location": 497
+        }
+      ]
+    },
+    {
+      "id": "I3pn7Xex-Ks",
+      "segments": [
+        {
+          "text": "*trafficking* issue and pedophilia side of",
+          "location": 143
+        }
+      ]
+    },
+    {
+      "id": "igDMQaECoSw",
+      "segments": [
+        {
+          "text": "*trafficking* all the things like that",
+          "location": 488
+        }
+      ]
+    },
+    {
+      "id": "iPX6pJ1dD1s",
+      "segments": [
+        {
+          "text": "to combat human *trafficking* drug",
+          "location": 1670
+        },
+        {
+          "text": "*trafficking* how many thousands and",
+          "location": 1673
+        }
+      ]
+    },
+    {
+      "id": "IsG3gQIRxno",
+      "segments": [
+        {
+          "text": "*trafficking* and pedo gate goes hand in",
+          "location": 438
+        }
+      ]
+    },
+    {
+      "id": "iTFkB2iXkgI",
+      "segments": [
+        {
+          "text": "pedo gate *trafficking* issues everything",
+          "location": 589
+        }
+      ]
+    },
+    {
+      "id": "IUcqrB04ZpE",
+      "segments": [
+        {
+          "text": "missing the human *trafficking* rings the",
+          "location": 269
+        }
+      ]
+    },
+    {
+      "id": "IuVzHVFtFIE",
+      "segments": [
+        {
+          "text": "*trafficking* and sacrifices this right",
+          "location": 875
+        },
+        {
+          "text": "when we get into the human *trafficking*",
+          "location": 978
+        },
+        {
+          "text": "fumin *trafficking* and and these",
+          "location": 1176
+        }
+      ]
+    },
+    {
+      "id": "iXPDVq2lGsc",
+      "segments": [
+        {
+          "text": "regards to the human *trafficking* pizza",
+          "location": 24
+        }
+      ]
+    },
+    {
+      "id": "j6boJmmzNcg",
+      "segments": [
+        {
+          "text": "sent about the human *trafficking* issue",
+          "location": 80
+        },
+        {
+          "text": "*trafficking* we had a former us district",
+          "location": 482
+        },
+        {
+          "text": "this guy guilty of human *trafficking* i",
+          "location": 490
+        },
+        {
+          "text": "charged for human *trafficking* soon right",
+          "location": 497
+        }
+      ]
+    },
+    {
+      "id": "Jcekm05d-so",
+      "segments": [
+        {
+          "text": "*trafficking* with la and hollywood being",
+          "location": 843
+        },
+        {
+          "text": "in july huge human *trafficking* bust was",
+          "location": 851
+        },
+        {
+          "text": "california in a human *trafficking* sex",
+          "location": 862
+        },
+        {
+          "text": "*trafficking* sting again to repeat this",
+          "location": 865
+        },
+        {
+          "text": "picture that sex *trafficking*",
+          "location": 877
+        },
+        {
+          "text": "things like pedophilia and *trafficking*",
+          "location": 951
+        },
+        {
+          "text": "human *trafficking* crackdown so we were",
+          "location": 1213
+        },
+        {
+          "text": "human *trafficking* and child sex",
+          "location": 1223
+        },
+        {
+          "text": "*trafficking* big hot spot there and more",
+          "location": 1227
+        },
+        {
+          "text": "advantage of *trafficking* victims was",
+          "location": 1248
+        }
+      ]
+    },
+    {
+      "id": "JD4r7qP0OLw",
+      "segments": [
+        {
+          "text": "human *trafficking* organ *trafficking* all",
+          "location": 1052
+        }
+      ]
+    },
+    {
+      "id": "jEgmVdV6HBE",
+      "segments": [
+        {
+          "text": "pedophilia all the human *trafficking* all",
+          "location": 84
+        },
+        {
+          "text": "human *trafficking* and i think these",
+          "location": 376
+        }
+      ]
+    },
+    {
+      "id": "jgHK6JZonJM",
+      "segments": [
+        {
+          "text": "bust of arms *trafficking* you know so",
+          "location": 926
+        },
+        {
+          "text": "*trafficking* of all sorts of stuff arms",
+          "location": 963
+        },
+        {
+          "text": "*trafficking* trial remember renier is",
+          "location": 1027
+        }
+      ]
+    },
+    {
+      "id": "jN-MkK8djcY",
+      "segments": [
+        {
+          "text": "large ties to various organ *trafficking*",
+          "location": 1759
+        }
+      ]
+    },
+    {
+      "id": "JNaC6eDgjAk",
+      "segments": [
+        {
+          "text": "about sex *trafficking* but he was doing",
+          "location": 296
+        }
+      ]
+    },
+    {
+      "id": "jS-yK_ueKZw",
+      "segments": [
+        {
+          "text": "*trafficking* press conference late last",
+          "location": 74
+        },
+        {
+          "text": "uh the drug *trafficking* whistleblower",
+          "location": 286
+        },
+        {
+          "text": "exposing the cia drug *trafficking* they",
+          "location": 289
+        }
+      ]
+    },
+    {
+      "id": "jSZnoRobYTE",
+      "segments": [
+        {
+          "text": "abuse human *trafficking* organ",
+          "location": 260
+        },
+        {
+          "text": "*trafficking* right all of that dark stuff",
+          "location": 262
+        },
+        {
+          "text": "community is all the human *trafficking*",
+          "location": 348
+        },
+        {
+          "text": "black-market *trafficking* is because",
+          "location": 598
+        }
+      ]
+    },
+    {
+      "id": "K3kiPpMhKkQ",
+      "segments": [
+        {
+          "text": "involvement in drug *trafficking* i mean",
+          "location": 274
+        },
+        {
+          "text": "things drug *trafficking*",
+          "location": 282
+        }
+      ]
+    },
+    {
+      "id": "k3m1P3Vie6s",
+      "segments": [
+        {
+          "text": "child exploitation human *trafficking* now",
+          "location": 406
+        }
+      ]
+    },
+    {
+      "id": "k9LVltxQF2Y",
+      "segments": [
+        {
+          "text": "*trafficking* false flags 9/11 all these",
+          "location": 113
+        },
+        {
+          "text": "*trafficking* and pet of satanist pedo",
+          "location": 706
+        }
+      ]
+    },
+    {
+      "id": "kHxWvaMOwhM",
+      "segments": [
+        {
+          "text": "organizations do the *trafficking* they do",
+          "location": 620
+        }
+      ]
+    },
+    {
+      "id": "Kl3MyuzCdRs",
+      "segments": [
+        {
+          "text": "*trafficking* ring was arrested in cyprus",
+          "location": 895
+        }
+      ]
+    },
+    {
+      "id": "KM6DTC_i-8s",
+      "segments": [
+        {
+          "text": "and human *trafficking* especially child",
+          "location": 427
+        },
+        {
+          "text": "*trafficking* because laura sylvia was",
+          "location": 430
+        },
+        {
+          "text": "the human *trafficking* the satanism in",
+          "location": 1257
+        }
+      ]
+    },
+    {
+      "id": "kNNz1UEwF-E",
+      "segments": [
+        {
+          "text": "busting human *trafficking* rings not just",
+          "location": 472
+        },
+        {
+          "text": "*trafficking* rings are being busted i",
+          "location": 744
+        }
+      ]
+    },
+    {
+      "id": "ku6qyUwUgWo",
+      "segments": [
+        {
+          "text": "they're pedophile child *trafficking*",
+          "location": 124
+        },
+        {
+          "text": "else from all of the child *trafficking*",
+          "location": 214
+        },
+        {
+          "text": "clinton child *trafficking* information",
+          "location": 287
+        }
+      ]
+    },
+    {
+      "id": "ldX0CQ2UUfI",
+      "segments": [
+        {
+          "text": "pedophile human *trafficking* disclosures",
+          "location": 2
+        },
+        {
+          "text": "*trafficking* exposure",
+          "location": 128
+        }
+      ]
+    },
+    {
+      "id": "llnr6CG6lHM",
+      "segments": [
+        {
+          "text": "*trafficking* rings i don't know what is",
+          "location": 181
+        },
+        {
+          "text": "have been arrested for human *trafficking*",
+          "location": 234
+        },
+        {
+          "text": "been charged with human *trafficking* and",
+          "location": 267
+        },
+        {
+          "text": "human *trafficking* thing which is hugely",
+          "location": 279
+        },
+        {
+          "text": "and let go in haiti for *trafficking*",
+          "location": 321
+        },
+        {
+          "text": "children i don't know if her *trafficking*",
+          "location": 324
+        },
+        {
+          "text": "you know i believe she was *trafficking* a",
+          "location": 327
+        },
+        {
+          "text": "who are doing the *trafficking* and",
+          "location": 369
+        },
+        {
+          "text": "human *trafficking* issue to be let go or",
+          "location": 418
+        }
+      ]
+    },
+    {
+      "id": "Llr69yow55Y",
+      "segments": [
+        {
+          "text": "connections between human *trafficking*",
+          "location": 454
+        },
+        {
+          "text": "weapons *trafficking* and that mccain",
+          "location": 455
+        }
+      ]
+    },
+    {
+      "id": "lOGKAbcAVzE",
+      "segments": [
+        {
+          "text": "exposing that deep dark *trafficking* of",
+          "location": 2091
+        },
+        {
+          "text": "human this *trafficking* of drugs",
+          "location": 2095
+        },
+        {
+          "text": "*trafficking* of all that sort of stuff",
+          "location": 2096
+        }
+      ]
+    },
+    {
+      "id": "LXCTMl_Jp9M",
+      "segments": [
+        {
+          "text": "*trafficking* network basically evidence",
+          "location": 1879
+        }
+      ]
+    },
+    {
+      "id": "m_PowDSDjEE",
+      "segments": [
+        {
+          "text": "*trafficking* sex abuse that happened you",
+          "location": 377
+        },
+        {
+          "text": "human *trafficking* and murder cover-ups",
+          "location": 386
+        }
+      ]
+    },
+    {
+      "id": "m2kffLdykTs",
+      "segments": [
+        {
+          "text": "their *trafficking* of humans guns and",
+          "location": 133
+        },
+        {
+          "text": "elite human *trafficking* and like i said",
+          "location": 509
+        }
+      ]
+    },
+    {
+      "id": "m30mwu-9WW0",
+      "segments": [
+        {
+          "text": "in *trafficking* of humans drugs guns",
+          "location": 434
+        },
+        {
+          "text": "are we looking at here *trafficking* in",
+          "location": 606
+        },
+        {
+          "text": "about *trafficking* of everything so this",
+          "location": 679
+        },
+        {
+          "text": "*trafficking* for everything drugs for the",
+          "location": 955
+        },
+        {
+          "text": "*trafficking* mandatory vaccination is",
+          "location": 1001
+        }
+      ]
+    },
+    {
+      "id": "m3193w4W8Po",
+      "segments": [
+        {
+          "text": "human *trafficking* that looks all nice on",
+          "location": 153
+        },
+        {
+          "text": "nice he's crying oh sex *trafficking*",
+          "location": 158
+        },
+        {
+          "text": "anti-human *trafficking* foundation or",
+          "location": 190
+        },
+        {
+          "text": "foundation and human *trafficking* stuff",
+          "location": 206
+        },
+        {
+          "text": "*trafficking* because it's best way to",
+          "location": 226
+        },
+        {
+          "text": "*trafficking* stuff really starts to blow",
+          "location": 497
+        }
+      ]
+    },
+    {
+      "id": "MATnFsqiC7Y",
+      "segments": [
+        {
+          "text": "were to blow open the human *trafficking*",
+          "location": 250
+        }
+      ]
+    },
+    {
+      "id": "mMVX1iGgRac",
+      "segments": [
+        {
+          "text": "human *trafficking* and child sex abuse",
+          "location": 496
+        },
+        {
+          "text": "*trafficking* you know we'll get to a",
+          "location": 772
+        },
+        {
+          "text": "*trafficking* bust in myrtle beach and",
+          "location": 917
+        }
+      ]
+    },
+    {
+      "id": "mPovmVmAgXs",
+      "segments": [
+        {
+          "text": "*trafficking* kids and stuffing money in",
+          "location": 621
+        }
+      ]
+    },
+    {
+      "id": "Nett68JXMUk",
+      "segments": [
+        {
+          "text": "he was implicated in a human *trafficking*",
+          "location": 1171
+        },
+        {
+          "text": "*trafficking* of everything drugs guns but",
+          "location": 1220
+        },
+        {
+          "text": "mentioning human *trafficking* is one of",
+          "location": 1358
+        },
+        {
+          "text": "whether it's human *trafficking* and",
+          "location": 1424
+        }
+      ]
+    },
+    {
+      "id": "NFBFDRSsaU0",
+      "segments": [
+        {
+          "text": "charged and arrested for *trafficking*",
+          "location": 448
+        },
+        {
+          "text": "got indicted for *trafficking* child",
+          "location": 634
+        }
+      ]
+    },
+    {
+      "id": "nfDm-SuYSrQ",
+      "segments": [
+        {
+          "text": "*trafficking* and whatnot",
+          "location": 1009
+        },
+        {
+          "text": "human *trafficking* so of course we it",
+          "location": 1018
+        }
+      ]
+    },
+    {
+      "id": "noiATviQJ3Y",
+      "segments": [
+        {
+          "text": "start talking about the sex *trafficking*",
+          "location": 917
+        },
+        {
+          "text": "about sex *trafficking* talking about all",
+          "location": 1758
+        }
+      ]
+    },
+    {
+      "id": "NoLKqBPGGLQ",
+      "segments": [
+        {
+          "text": "the stuff about the *trafficking* and",
+          "location": 786
+        }
+      ]
+    },
+    {
+      "id": "Nt4ug94a134",
+      "segments": [
+        {
+          "text": "human *trafficking* they just want to",
+          "location": 126
+        }
+      ]
+    },
+    {
+      "id": "NY7B_THWsM8",
+      "segments": [
+        {
+          "text": "smuggling human *trafficking* cartels like",
+          "location": 343
+        },
+        {
+          "text": "*trafficking* worldwide huge bust they",
+          "location": 520
+        }
+      ]
+    },
+    {
+      "id": "ooHxX3whFXA",
+      "segments": [
+        {
+          "text": "gate and sex *trafficking* topic that's",
+          "location": 1144
+        }
+      ]
+    },
+    {
+      "id": "OOxgnEI8_NI",
+      "segments": [
+        {
+          "text": "in *trafficking* into the new section of",
+          "location": 1095
+        },
+        {
+          "text": "from alleged human *trafficking* incident",
+          "location": 1113
+        },
+        {
+          "text": "*trafficking* sting and it was during the",
+          "location": 1121
+        },
+        {
+          "text": "influx of *trafficking* at every event",
+          "location": 1128
+        },
+        {
+          "text": "it's a big time *trafficking* operation so",
+          "location": 1130
+        },
+        {
+          "text": "article discussing sex *trafficking* on",
+          "location": 1144
+        },
+        {
+          "text": "*trafficking* two teenagers sacramento",
+          "location": 1150
+        },
+        {
+          "text": "*trafficking* awareness education so lots",
+          "location": 1155
+        },
+        {
+          "text": "*trafficking* human *trafficking* vixa",
+          "location": 1162
+        }
+      ]
+    },
+    {
+      "id": "oReGR3Bjjmw",
+      "segments": [
+        {
+          "text": "*trafficking* or all kinds of other stuff",
+          "location": 171
+        }
+      ]
+    },
+    {
+      "id": "oSZzclsh00Y",
+      "segments": [
+        {
+          "text": "this topic pedo gate human *trafficking*",
+          "location": 650
+        },
+        {
+          "text": "sex abuse it's human *trafficking* its",
+          "location": 812
+        },
+        {
+          "text": "child sex *trafficking* she was going at",
+          "location": 814
+        },
+        {
+          "text": "sex *trafficking* for sacrificial purposes",
+          "location": 848
+        }
+      ]
+    },
+    {
+      "id": "OwECoLGRl68",
+      "segments": [
+        {
+          "text": "human *trafficking* and the whole ufo",
+          "location": 30
+        },
+        {
+          "text": "stated that human *trafficking* and drug",
+          "location": 89
+        },
+        {
+          "text": "*trafficking* issue his outspoken",
+          "location": 123
+        },
+        {
+          "text": "*trafficking* back in february or so there",
+          "location": 149
+        },
+        {
+          "text": "about human *trafficking* that came out",
+          "location": 155
+        },
+        {
+          "text": "*trafficking* network now first i want to",
+          "location": 218
+        },
+        {
+          "text": "connections to larger human *trafficking*",
+          "location": 326
+        },
+        {
+          "text": "that human *trafficking* and all these",
+          "location": 412
+        }
+      ]
+    },
+    {
+      "id": "ozbHMNhYe0A",
+      "segments": [
+        {
+          "text": "men in human *trafficking* raids let's see",
+          "location": 1423
+        },
+        {
+          "text": "there was quite a few human *trafficking*",
+          "location": 1426
+        }
+      ]
+    },
+    {
+      "id": "PA9MTquQya0",
+      "segments": [
+        {
+          "text": "human *trafficking* elite pedophilia just",
+          "location": 480
+        }
+      ]
+    },
+    {
+      "id": "pAK-a8Op8KI",
+      "segments": [
+        {
+          "text": "market trade *trafficking*",
+          "location": 1192
+        },
+        {
+          "text": "*trafficking* of guns *trafficking* of drugs",
+          "location": 1195
+        },
+        {
+          "text": "*trafficking* of humans *trafficking* of",
+          "location": 1199
+        },
+        {
+          "text": "organ *trafficking* i believe i read",
+          "location": 1222
+        },
+        {
+          "text": "human *trafficking* and the child sex",
+          "location": 1236
+        },
+        {
+          "text": "*trafficking* you know all the nasty",
+          "location": 1238
+        }
+      ]
+    },
+    {
+      "id": "pbjkl0DwxHs",
+      "segments": [
+        {
+          "text": "*trafficking* of arms and again the elite",
+          "location": 1021
+        }
+      ]
+    },
+    {
+      "id": "Pi8_BZtYNzQ",
+      "segments": [
+        {
+          "text": "human *trafficking* holy shiznit on",
+          "location": 280
+        }
+      ]
+    },
+    {
+      "id": "plJqp67-iX4",
+      "segments": [
+        {
+          "text": "the human *trafficking* stuff because a",
+          "location": 189
+        }
+      ]
+    },
+    {
+      "id": "pwM9WH8pqaY",
+      "segments": [
+        {
+          "text": "pedophilia and *trafficking* of people",
+          "location": 645
+        }
+      ]
+    },
+    {
+      "id": "pZ5q5wUI1-Y",
+      "segments": [
+        {
+          "text": "out like pedo gate and human *trafficking*",
+          "location": 172
+        }
+      ]
+    },
+    {
+      "id": "Q4MG607MDz4",
+      "segments": [
+        {
+          "text": "involvement in cia drug *trafficking* or",
+          "location": 696
+        },
+        {
+          "text": "*trafficking* stuff that goes on but also",
+          "location": 761
+        }
+      ]
+    },
+    {
+      "id": "qCmySBiZXVA",
+      "segments": [
+        {
+          "text": "the human *trafficking* issue and it",
+          "location": 110
+        },
+        {
+          "text": "politics in ending human *trafficking* now",
+          "location": 114
+        },
+        {
+          "text": "human *trafficking* investigations a lot",
+          "location": 124
+        },
+        {
+          "text": "and his ties to human *trafficking* or i",
+          "location": 203
+        },
+        {
+          "text": "should say ending human *trafficking* not",
+          "location": 207
+        },
+        {
+          "text": "ties to human *trafficking* but that was",
+          "location": 209
+        }
+      ]
+    },
+    {
+      "id": "qFumeKZX_MA",
+      "segments": [
+        {
+          "text": "things and and human *trafficking* and",
+          "location": 243
+        }
+      ]
+    },
+    {
+      "id": "qlFnlzOoFgo",
+      "segments": [
+        {
+          "text": "everybody from pedo gate and *trafficking*",
+          "location": 1303
+        }
+      ]
+    },
+    {
+      "id": "qNurdjNB-rw",
+      "segments": [
+        {
+          "text": "*trafficking* so they're calling him",
+          "location": 772
+        }
+      ]
+    },
+    {
+      "id": "QtYci9jXct4",
+      "segments": [
+        {
+          "text": "about *trafficking* not only *trafficking*",
+          "location": 47
+        },
+        {
+          "text": "guns but *trafficking* drugs obviously",
+          "location": 50
+        },
+        {
+          "text": "*trafficking* of humans human *trafficking*",
+          "location": 62
+        },
+        {
+          "text": "child *trafficking* child sex abuse and",
+          "location": 64
+        }
+      ]
+    },
+    {
+      "id": "qX2Z7mLBM1k",
+      "segments": [
+        {
+          "text": "child *trafficking* and sacrifice actually",
+          "location": 49
+        },
+        {
+          "text": "*trafficking* and child sacrifice and a",
+          "location": 437
+        },
+        {
+          "text": "even mentioned it was child *trafficking*",
+          "location": 508
+        }
+      ]
+    },
+    {
+      "id": "qZMy5wog24o",
+      "segments": [
+        {
+          "text": "know haiti *trafficking* things like that",
+          "location": 487
+        },
+        {
+          "text": "drug *trafficking* and murder and things",
+          "location": 516
+        }
+      ]
+    },
+    {
+      "id": "R_iWc7_vQ14",
+      "segments": [
+        {
+          "text": "are for sex *trafficking* of minors from",
+          "location": 141
+        },
+        {
+          "text": "2002 to 2005 so this is sex *trafficking*",
+          "location": 144
+        }
+      ]
+    },
+    {
+      "id": "r1IYwxp0NNs",
+      "segments": [
+        {
+          "text": "of convicted human *trafficking* human",
+          "location": 829
+        }
+      ]
+    },
+    {
+      "id": "RenafscRgUY",
+      "segments": [
+        {
+          "text": "*trafficking* and child pornography these",
+          "location": 576
+        },
+        {
+          "text": "even you know human *trafficking* you got",
+          "location": 717
+        }
+      ]
+    },
+    {
+      "id": "RGFh5qOWU3U",
+      "segments": [
+        {
+          "text": "important a lot of *trafficking* ratlines",
+          "location": 1009
+        }
+      ]
+    },
+    {
+      "id": "S4mKQajGJl4",
+      "segments": [
+        {
+          "text": "child sex *trafficking* as colombia busts",
+          "location": 660
+        },
+        {
+          "text": "child sex *trafficking* ring they suspect",
+          "location": 672
+        },
+        {
+          "text": "there's just a lot of *trafficking* we see",
+          "location": 723
+        },
+        {
+          "text": "*trafficking* being busted in israel so we",
+          "location": 728
+        },
+        {
+          "text": "have child sex *trafficking* being busted",
+          "location": 730
+        }
+      ]
+    },
+    {
+      "id": "siBW29AUMrw",
+      "segments": [
+        {
+          "text": "mission to stop human *trafficking* and",
+          "location": 1001
+        },
+        {
+          "text": "human *trafficking* here in this country",
+          "location": 1010
+        },
+        {
+          "text": "involvement in human *trafficking* child",
+          "location": 1026
+        },
+        {
+          "text": "sex *trafficking* so this article is",
+          "location": 1029
+        }
+      ]
+    },
+    {
+      "id": "sKMZRv9JY_A",
+      "segments": [
+        {
+          "text": "been accused of drug *trafficking* he was",
+          "location": 420
+        },
+        {
+          "text": "*trafficking* ratlines",
+          "location": 477
+        }
+      ]
+    },
+    {
+      "id": "sLv3F7kLpB4",
+      "segments": [
+        {
+          "text": "in regards to human *trafficking* and",
+          "location": 231
+        },
+        {
+          "text": "order charged with baby *trafficking*",
+          "location": 1254
+        },
+        {
+          "text": "*trafficking* so little piece of news",
+          "location": 1271
+        }
+      ]
+    },
+    {
+      "id": "swc_HIr-8WA",
+      "segments": [
+        {
+          "text": "harvesting child *trafficking* sick",
+          "location": 437
+        }
+      ]
+    },
+    {
+      "id": "T_mJ1awyakY",
+      "segments": [
+        {
+          "text": "pedophilia *trafficking* satan worship in",
+          "location": 1248
+        }
+      ]
+    },
+    {
+      "id": "T5IM3P9Md-4",
+      "segments": [
+        {
+          "text": "*trafficking* stuff anyway if you can",
+          "location": 153
+        }
+      ]
+    },
+    {
+      "id": "td8PwMAtpQI",
+      "segments": [
+        {
+          "text": "because of *trafficking* *trafficking* of i",
+          "location": 295
+        },
+        {
+          "text": "course in regards to human *trafficking*",
+          "location": 1070
+        }
+      ]
+    },
+    {
+      "id": "Tg0_AZbm71E",
+      "segments": [
+        {
+          "text": "human *trafficking* the child sex traffic",
+          "location": 226
+        }
+      ]
+    },
+    {
+      "id": "tJjx9eVGzSY",
+      "segments": [
+        {
+          "text": "child sex *trafficking* and harm to",
+          "location": 2343
+        }
+      ]
+    },
+    {
+      "id": "tkLyxIo8Cqo",
+      "segments": [
+        {
+          "text": "of sex *trafficking* i mean stuff that",
+          "location": 389
+        }
+      ]
+    },
+    {
+      "id": "TsjX9SPfvSA",
+      "segments": [
+        {
+          "text": "*trafficking* and the deep corruption in",
+          "location": 1939
+        }
+      ]
+    },
+    {
+      "id": "Tus8Yc2qNXc",
+      "segments": [
+        {
+          "text": "*trafficking* of child sex abuse not just",
+          "location": 445
+        }
+      ]
+    },
+    {
+      "id": "TX1rZO2bLJ8",
+      "segments": [
+        {
+          "text": "human *trafficking* and these deep staters",
+          "location": 460
+        }
+      ]
+    },
+    {
+      "id": "u_apd9SGqLc",
+      "segments": [
+        {
+          "text": "arizona tucson incidents the *trafficking*",
+          "location": 1438
+        }
+      ]
+    },
+    {
+      "id": "UA8VNiOraJI",
+      "segments": [
+        {
+          "text": "pedophile pizza gate human *trafficking*",
+          "location": 468
+        }
+      ]
+    },
+    {
+      "id": "uKCq7HfZh9A",
+      "segments": [
+        {
+          "text": "*trafficking* and i can go on and on and i",
+          "location": 2240
+        }
+      ]
+    },
+    {
+      "id": "UrzdhfUMR6k",
+      "segments": [
+        {
+          "text": "covering up all sorts of *trafficking* and",
+          "location": 757
+        }
+      ]
+    },
+    {
+      "id": "UsuA0HSRXzo",
+      "segments": [
+        {
+          "text": "of *trafficking* allegedly that they were",
+          "location": 619
+        }
+      ]
+    },
+    {
+      "id": "uWFJruvCPhc",
+      "segments": [
+        {
+          "text": "the pedophilia human *trafficking*",
+          "location": 3
+        },
+        {
+          "text": "*trafficking* in my honest opinion i think",
+          "location": 184
+        }
+      ]
+    },
+    {
+      "id": "V4OPmN3e8F8",
+      "segments": [
+        {
+          "text": "it's human *trafficking* and you know what",
+          "location": 1726
+        }
+      ]
+    },
+    {
+      "id": "vcqHF8DDsNk",
+      "segments": [
+        {
+          "text": "scared of the whole human *trafficking*",
+          "location": 386
+        }
+      ]
+    },
+    {
+      "id": "VVsAZ0AGHeo",
+      "segments": [
+        {
+          "text": "ice is because of human *trafficking* ice",
+          "location": 358
+        },
+        {
+          "text": "*trafficking* laws and coming down on that",
+          "location": 366
+        },
+        {
+          "text": "*trafficking* component of what they do",
+          "location": 376
+        }
+      ]
+    },
+    {
+      "id": "vZDynmvvgWg",
+      "segments": [
+        {
+          "text": "edie buck accused of human *trafficking*",
+          "location": 483
+        },
+        {
+          "text": "buck accusing him of human *trafficking*",
+          "location": 498
+        }
+      ]
+    },
+    {
+      "id": "w0OSb7FbXas",
+      "segments": [
+        {
+          "text": "human *trafficking* child sex *trafficking*",
+          "location": 57
+        },
+        {
+          "text": "talking about child sex *trafficking* and",
+          "location": 461
+        }
+      ]
+    },
+    {
+      "id": "wdXHxEEAvps",
+      "segments": [
+        {
+          "text": "the house is harmful sex *trafficking*",
+          "location": 252
+        },
+        {
+          "text": "harmful sex *trafficking* proposal a",
+          "location": 269
+        },
+        {
+          "text": "*trafficking* so there was a bill in the",
+          "location": 278
+        },
+        {
+          "text": "committee to criminalize sex *trafficking*",
+          "location": 283
+        },
+        {
+          "text": "online sex *trafficking* and funny enough",
+          "location": 302
+        },
+        {
+          "text": "*trafficking* holy-shit though if you just",
+          "location": 313
+        },
+        {
+          "text": "mccain and human *trafficking* first thing",
+          "location": 318
+        },
+        {
+          "text": "donations for anti *trafficking* same",
+          "location": 335
+        },
+        {
+          "text": "*trafficking* so it's a total front john",
+          "location": 344
+        },
+        {
+          "text": "*trafficking* nonsense as a complete",
+          "location": 349
+        },
+        {
+          "text": "*trafficking* but also gun *trafficking*",
+          "location": 359
+        },
+        {
+          "text": "pedophilia or human *trafficking* or",
+          "location": 680
+        },
+        {
+          "text": "the elite *trafficking* or the elite being",
+          "location": 820
+        }
+      ]
+    },
+    {
+      "id": "WHSd5tVWq1I",
+      "segments": [
+        {
+          "text": "human *trafficking* and child sex abuse",
+          "location": 37
+        },
+        {
+          "text": "some of those human *trafficking* sex",
+          "location": 357
+        },
+        {
+          "text": "human *trafficking* sting authorities in",
+          "location": 697
+        },
+        {
+          "text": "we can have *trafficking* stings like this",
+          "location": 790
+        },
+        {
+          "text": "or drug *trafficking* stings wherever the",
+          "location": 792
+        },
+        {
+          "text": "there seems to be a lot of *trafficking*",
+          "location": 806
+        },
+        {
+          "text": "involves human *trafficking* child sex",
+          "location": 1032
+        },
+        {
+          "text": "*trafficking* child sex abuse human",
+          "location": 1035
+        }
+      ]
+    },
+    {
+      "id": "wjeEg2yoJbM",
+      "segments": [
+        {
+          "text": "*trafficking* but even vaccines it's just",
+          "location": 2251
+        }
+      ]
+    },
+    {
+      "id": "WsnaqvLhEUk",
+      "segments": [
+        {
+          "text": "*trafficking* and child abuse in atlanta",
+          "location": 404
+        },
+        {
+          "text": "human *trafficking* and child exploitation",
+          "location": 417
+        },
+        {
+          "text": "human *trafficking* but he's up there",
+          "location": 449
+        },
+        {
+          "text": "sex *trafficking* and that's that's like a",
+          "location": 486
+        },
+        {
+          "text": "to out the human *trafficking* child abuse",
+          "location": 519
+        },
+        {
+          "text": "outing human *trafficking* child abuse",
+          "location": 657
+        },
+        {
+          "text": "down for child *trafficking* drug dealing",
+          "location": 721
+        },
+        {
+          "text": "*trafficking* the organ *trafficking* we",
+          "location": 763
+        },
+        {
+          "text": "the child *trafficking* stuff because that",
+          "location": 784
+        },
+        {
+          "text": "stuff like the human *trafficking* and",
+          "location": 813
+        },
+        {
+          "text": "of that luciferian *trafficking*",
+          "location": 849
+        },
+        {
+          "text": "*trafficking*",
+          "location": 858
+        },
+        {
+          "text": "we don't see the human *trafficking* and",
+          "location": 876
+        }
+      ]
+    },
+    {
+      "id": "wu0Utsff6Jo",
+      "segments": [
+        {
+          "text": "of human *trafficking* prostitution and",
+          "location": 597
+        },
+        {
+          "text": "of *trafficking* prostitution and other",
+          "location": 624
+        },
+        {
+          "text": "human *trafficking* so it's not just human",
+          "location": 647
+        },
+        {
+          "text": "*trafficking* but drugs and weapons and",
+          "location": 650
+        },
+        {
+          "text": "*trafficking* so that's that understand",
+          "location": 678
+        },
+        {
+          "text": "combat *trafficking* so that's pretty much",
+          "location": 704
+        }
+      ]
+    },
+    {
+      "id": "x1EXDDlmrVU",
+      "segments": [
+        {
+          "text": "*trafficking* law so we're moving along",
+          "location": 536
+        },
+        {
+          "text": "down into human child sex *trafficking*",
+          "location": 567
+        },
+        {
+          "text": "it's moving into sex *trafficking* okay",
+          "location": 596
+        }
+      ]
+    },
+    {
+      "id": "x1UII7bCsvQ",
+      "segments": [
+        {
+          "text": "human *trafficking* through right after",
+          "location": 219
+        },
+        {
+          "text": "*trafficking* of infrastructure",
+          "location": 231
+        }
+      ]
+    },
+    {
+      "id": "Xe8yEypTfNA",
+      "segments": [
+        {
+          "text": "being human *trafficking* month and talk",
+          "location": 18
+        },
+        {
+          "text": "*trafficking* prevention month so this got",
+          "location": 133
+        },
+        {
+          "text": "national slavery and human *trafficking*",
+          "location": 145
+        },
+        {
+          "text": "national slavery and human *trafficking*",
+          "location": 165
+        },
+        {
+          "text": "mentioned combating human *trafficking* as",
+          "location": 233
+        },
+        {
+          "text": "*trafficking* as you can see here when you",
+          "location": 238
+        },
+        {
+          "text": "of human *trafficking* i recently came",
+          "location": 275
+        },
+        {
+          "text": "to human *trafficking* what do we find we",
+          "location": 325
+        },
+        {
+          "text": "foundation and *trafficking* in haiti",
+          "location": 338
+        },
+        {
+          "text": "deep human *trafficking* in pedophilia a",
+          "location": 396
+        },
+        {
+          "text": "here speaking of human *trafficking* let's",
+          "location": 427
+        },
+        {
+          "text": "*trafficking* and the spread of disease on",
+          "location": 440
+        },
+        {
+          "text": "spread the crimes of sex *trafficking*",
+          "location": 476
+        },
+        {
+          "text": "include a rape sex *trafficking* and the",
+          "location": 487
+        },
+        {
+          "text": "*trafficking* months okay obama has done",
+          "location": 499
+        },
+        {
+          "text": "sex *trafficking* rape and the spread of",
+          "location": 512
+        },
+        {
+          "text": "*trafficking* to the un and the spread of",
+          "location": 623
+        },
+        {
+          "text": "exploding the storm human *trafficking*",
+          "location": 1059
+        },
+        {
+          "text": "*trafficking* prevention month good stuff",
+          "location": 1290
+        },
+        {
+          "text": "outed sex *trafficking* corruption disease",
+          "location": 1296
+        }
+      ]
+    },
+    {
+      "id": "xKxi0Bbl_Fs",
+      "segments": [
+        {
+          "text": "to human *trafficking* and child sex",
+          "location": 286
+        },
+        {
+          "text": "*trafficking* and once then okay so here i",
+          "location": 288
+        },
+        {
+          "text": "dealing with child sex *trafficking* and",
+          "location": 305
+        },
+        {
+          "text": "of course human *trafficking* topics but",
+          "location": 490
+        },
+        {
+          "text": "going on combating human *trafficking* and",
+          "location": 928
+        },
+        {
+          "text": "child sex *trafficking* winning mister",
+          "location": 1196
+        },
+        {
+          "text": "are doing *trafficking* but of humans but",
+          "location": 1328
+        },
+        {
+          "text": "i think of it technology *trafficking*",
+          "location": 1335
+        },
+        {
+          "text": "satanists *trafficking* humans but my god",
+          "location": 1392
+        }
+      ]
+    },
+    {
+      "id": "XobWx6C6lJs",
+      "segments": [
+        {
+          "text": "*trafficking* yeah deep dark stuff but get",
+          "location": 656
+        },
+        {
+          "text": "*trafficking* because that's what gets rid",
+          "location": 663
+        }
+      ]
+    },
+    {
+      "id": "xU1ilgRmqsk",
+      "segments": [
+        {
+          "text": "*trafficking* this is so systemic within",
+          "location": 676
+        },
+        {
+          "text": "sorts of human *trafficking* and child",
+          "location": 692
+        },
+        {
+          "text": "*trafficking* arrests it's getting cleaned",
+          "location": 709
+        }
+      ]
+    },
+    {
+      "id": "Y8DPHUnnvXU",
+      "segments": [
+        {
+          "text": "was child sex *trafficking* through this",
+          "location": 1082
+        }
+      ]
+    },
+    {
+      "id": "YDS7nKcT3rk",
+      "segments": [
+        {
+          "text": "and ops related to *trafficking* a child",
+          "location": 660
+        },
+        {
+          "text": "involvement in elite *trafficking* is",
+          "location": 1345
+        }
+      ]
+    },
+    {
+      "id": "yFQEK_KaTMA",
+      "segments": [
+        {
+          "text": "*trafficking* and things like that that",
+          "location": 1183
+        },
+        {
+          "text": "gate human *trafficking* this i mean look",
+          "location": 1483
+        }
+      ]
+    },
+    {
+      "id": "YiLWFF__qiM",
+      "segments": [
+        {
+          "text": "crimes they investigate drug *trafficking*",
+          "location": 322
+        },
+        {
+          "text": "force investigating drug *trafficking*",
+          "location": 362
+        },
+        {
+          "text": "crimes and child *trafficking* crimes",
+          "location": 364
+        }
+      ]
+    },
+    {
+      "id": "ymm3YfCfVUs",
+      "segments": [
+        {
+          "text": "*trafficking* human sacrifice these cults",
+          "location": 1046
+        }
+      ]
+    },
+    {
+      "id": "zCKlkgpTrXo",
+      "segments": [
+        {
+          "text": "like *trafficking* and what a lot of",
+          "location": 141
+        },
+        {
+          "text": "*trafficking* of children and i was",
+          "location": 328
+        },
+        {
+          "text": "involved in child sex *trafficking* in",
+          "location": 360
+        },
+        {
+          "text": "being involved in child sex *trafficking*",
+          "location": 371
+        },
+        {
+          "text": "cover child sex *trafficking*",
+          "location": 398
+        },
+        {
+          "text": "*trafficking* so i've been independent",
+          "location": 420
+        },
+        {
+          "text": "*trafficking* arrests now this ran in",
+          "location": 435
+        },
+        {
+          "text": "exposing sex *trafficking* and or other",
+          "location": 458
+        },
+        {
+          "text": "continue exposing sex *trafficking* and",
+          "location": 481
+        },
+        {
+          "text": "*trafficking* among the elites so that's",
+          "location": 596
+        },
+        {
+          "text": "*trafficking* and that just goes to show",
+          "location": 604
+        },
+        {
+          "text": "arrests based on human *trafficking*",
+          "location": 713
+        },
+        {
+          "text": "white house about sex *trafficking* okay",
+          "location": 807
+        },
+        {
+          "text": "child sex *trafficking* that were directly",
+          "location": 983
+        },
+        {
+          "text": "child sex *trafficking* ring multiple",
+          "location": 989
+        },
+        {
+          "text": "man was involved in sex *trafficking*",
+          "location": 1065
+        },
+        {
+          "text": "*trafficking* and you're right his ex who",
+          "location": 1115
+        },
+        {
+          "text": "involved in child sex *trafficking*",
+          "location": 1125
+        },
+        {
+          "text": "involved in child sex *trafficking* are",
+          "location": 1148
+        },
+        {
+          "text": "profiting off of child sex *trafficking*",
+          "location": 1152
+        },
+        {
+          "text": "in child sex *trafficking* is that",
+          "location": 1241
+        },
+        {
+          "text": "*trafficking* mm-hmm the child sex",
+          "location": 1260
+        },
+        {
+          "text": "*trafficking* is the most profitable",
+          "location": 1262
+        },
+        {
+          "text": "*trafficking* and organ harvesting and",
+          "location": 1278
+        },
+        {
+          "text": "convicted pedophile who was *trafficking*",
+          "location": 1414
+        },
+        {
+          "text": "records he was *trafficking* kids on this",
+          "location": 1441
+        },
+        {
+          "text": "humanity which includes sex *trafficking*",
+          "location": 1577
+        },
+        {
+          "text": "sex *trafficking* there's not mass",
+          "location": 1695
+        },
+        {
+          "text": "clinton's involved in sex *trafficking*",
+          "location": 1742
+        },
+        {
+          "text": "pedophile fine no he was *trafficking*",
+          "location": 1753
+        },
+        {
+          "text": "sex *trafficking* and the beast of these",
+          "location": 1827
+        },
+        {
+          "text": "sex *trafficking* is a real thing and that",
+          "location": 2099
+        },
+        {
+          "text": "was arrested for child sex *trafficking*",
+          "location": 2135
+        },
+        {
+          "text": "*trafficking* there are victims of sexual",
+          "location": 2274
+        },
+        {
+          "text": "sex *trafficking* ring awareness the",
+          "location": 2638
+        }
+      ]
+    },
+    {
+      "id": "zffLUSbaqlw",
+      "segments": [
+        {
+          "text": "human *trafficking* and pedophilia",
+          "location": 1324
+        }
+      ]
+    },
+    {
+      "id": "zgK4F6NW32s",
+      "segments": [
+        {
+          "text": "find good news animal *trafficking*",
+          "location": 837
+        }
+      ]
+    },
+    {
+      "id": "zjqEsdevnaU",
+      "segments": [
+        {
+          "text": "privately through different *trafficking*",
+          "location": 1085
+        }
+      ]
+    },
+    {
+      "id": "ZpqZoQBWXVo",
+      "segments": [
+        {
+          "text": "*trafficking* rat lines it is it is",
+          "location": 653
+        },
+        {
+          "text": "*trafficking* focus on those drops et life",
+          "location": 2088
+        },
+        {
+          "text": "to tell us about human *trafficking*",
+          "location": 2106
+        }
+      ]
+    },
+    {
+      "id": "zw8yzCjmYcI",
+      "segments": [
+        {
+          "text": "*trafficking* of various things drugs",
+          "location": 2275
+        },
+        {
+          "text": "*trafficking* going on on this planet that",
+          "location": 2311
+        }
+      ]
+    },
+    {
+      "id": "zziC-o5xumc",
+      "segments": [
+        {
+          "text": "*trafficking* but who was he testifying",
+          "location": 580
+        },
+        {
+          "text": "*trafficking* pedo gate stuff it's",
+          "location": 586
+        },
+        {
+          "text": "*trafficking* pedo gate stuff that they're",
+          "location": 624
+        },
+        {
+          "text": "*trafficking* thing it's very tied into",
+          "location": 826
+        }
+      ]
+    },
+    {
+      "id": "ZZTz8nYZ6vA",
+      "segments": [
+        {
+          "text": "expose sex *trafficking* for a living then",
+          "location": 324
+        }
+      ]
+    }
+  ]
+}

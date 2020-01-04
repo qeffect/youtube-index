@@ -1,0 +1,800 @@
+{
+  "indexed": "_0GMW9eop3Q,_0k8gf2hqT8,_3Rl1KrDzlc,_9rpHbIpjdc,_c3-w-w0hd8,_gjH2umHAGw,_RmutDWSGgw,_xRwk1GDCtc,_xXAzbpQxCk,_Y32fnAp_mE,-_D0oq02HRY,-2V-Fidbe4Q,-fBcMRleHJs,-lj5lbMIt9w,-uo9Q6D8210,-WTkkUEgMpA,-wX2rOP6ktI,-x009HbyeMM,0DszWULPnJA,0kSVAa_BmU4,0Rg0lwnxdYA,0RnrwLJ2YB8,0UsEdqoi-uo,0v_9_7NQe7o,0ZQpgASg94o,12UHF03bxqg,12UIMLvh03M,14DEr87tKSc,14goSb7_h8k,188yfjWBsKM,1feiLSIDxzA,1G4XAByqwdc,1IBdXdpMtSQ,1KbA5wwl5iA,1mxwUYRqCLc,1qxksXmFHOw,1Sh9FkZ0Z_M,1WLIn7en9pQ,1ztx8JOWikU,21_5KACaBAA,246yVwb5diI,29I9Zl0qTFQ,2B6uuN4h5To,2B8vstdpb9Y,2hwzvqyTWk0,2kcXiFrNxu8,2KlWnWIW9es,2KpDBlqtvh4,2MJZ9NDs3EY,2nHvxV92Fo8,2NXqxp8mQmI,2Q3ooMM1qAA,2rguDK_EFjs,2VvxKYycSTA,2z1u4f9qxSk,3__6oQQBx4U,366ELkY8w8c,3anaRM4cxWc,3cNC-TuFKTM,3DT04vReamc,3hTjnoctYb8,3in8rDn_GiU,3iNDtYv3ogU,3inrKG1TPqA,3JpE_sVAXtI,3mBJwCIqEp4,3mZH_LNF6QM,3QHT8IoCibY,3QPQ-gJQDio,43l56zl36nA,46EzIkcqsf8,4aeInV5RoBU,4IELe4HKwW8,4krKjHMPsg4,4l3InNocQok,4L5tYESX97M,4pRyUnOoG4k,4QBY4MC9H4A,4reDYsbFjIA,4SVOSBqdzh4,4V_km03gzkc,4Vg0iy8-V8U,4wnZSd3XIrs,5A6dZwdwTxA,5aclmTHqG3Y,5dLvEB_CqP0,5FndfbwFaR4,5GkDWQBxE_Y,5i-ZMBE5r80,5LnqJOG082k,5msn1xthpVw,5OD8QdsbiDU,5teFvGwE9Ec,5tLVsNwlo4E,5ZV3UJmN3j4,5zwSaKW2qzA,6__xoin6aw8,639Gc3bX0Hs,68Bl7RbXS2A,6dPlpdME9bA,6gP2Zh2J4lU,6T7oPFcotQ8,6VOzbo_Xzcs,6vu4aiDJlLI,6ZRbp3qcQWw,77KCplrOQIs,77xVpKuEWnc,79lRgwEbfHQ,7BjNpnHLRlg,7dUatd4L2_I,7HkSIcIUJEI,7KyRGYh74yM,7nBOtseGsvM,7PPE5IfAS8Q,7uKOdZECGKo,84FDa13e5-g,85-ahemlFUU,85y3X4rQxA4,8BvPh2JcG1I,8fechd5G8bQ,8HN_fDiyxps,8Hn9sRON8JU,8IEQfBwVCnI,8pfDKYOa2YQ,8SIxFBeXF3A,8SJ8Si8dOik,8VlLxBGFQbo,9_UKSBXn7ko,9-Ct8QNd5l8,93Ilpb7IySY,94-23EfqkIo,96qHwT4UG7A,9aC20cRhA6A,9bmI1uHhg2Y,9CRaVe_WoRA,9DCeANHAmJk,9E6bhpqXb4Q,9GURyE2qHg0,9iLcGsHVzpM,9IoPnmjsOQg,9IYh49I9vLI,9kWhckKtLyw,9lRA4hj5-zs,9O8VPOd3Dsw,9ObMFi6ReKE,9PqmG_y1mEA,9Rsj2RvPQQY,9v8K97nYOmc,9YpbXzuAYao,A3CcapXxDBc,A3UCbl5D6xw,A4K1C-k9Soo,AaEkl-of76c,aAjl5E-9Xwc,aauT5183_Y0,ABKGKVoSAZs,Ae8VPPrDP3I,aeg4hpZ9Ozw,afbpVahE8m0,AGcXhMgEl-g,AGvin09PnlY,Ai_hTzDSyO0,aiSN2yWRXMk,AJPTbrTUYxI,AKx3yG4zhNQ,altHQp6NMoA,aMjfmqYp1k0,aMU1r-XXIe0,ANNU2PD-HFo,ApxADBQ8v3A,AQn0A4aVW6E,aRH_VcgxE-M,aRk2tCY5P6A,AT7BqWZWWag,ATycYftkD9M,avWKx_cmjpk,aww13Cq9r7Q,ayRMg-VLpmE,aZ_1pPcUgFk,aZ9ow4ZlnfI,AzTWh1-xt14,b-LpBCpFIU0,b0pHnjCKYzI,b1BuM4rDtj4,b2o6RTKxh4I,BBOhxkAxLis,bBQITwVQ2c4,BcVYQ8Qb8WE,bcxBqQ7PMew,BEnGqcIKQBI,BFqiftOTLL8,BFxZRHPz1QI,BgKgV7LyEIo,bJpGmwu9-k4,BjZ3EmeaX5k,bKA-qsz0fsU,BKrYqZUyOIQ,BLbmipYjHR4,BMvOvzcBOq0,BnmAkjBYrZ8,BoMEoJRDgcU,BRRHTfNJMg4,bTO8-X3R_0g,BufAWX9OL9M,bWCu3V4E0Cw,BX0vhcv_pRQ,BYme9spNF9A,BZ6g4cgOQIo,c2JtJ3aEJI4,c3uk_PM4FTU,C52GieN9zdM,c8x6_3FTcmk,Ce_6croEF8c,CeUgCB6lb8Q,cfD7Ifh578E,CFDn-VKYsC0,cjcQ6t4JMXs,CLxo7YDcLzk,Coqn8CHu1cM,CpCLI8mo6T8,cppd4rNaGCY,cQbGXIlAVTM,cRLq7aAC-XI,Ct4sQbD2Dj0,CUobzPBIPYs,CVPDq78OM50,CxlcQbMPATY,CYMHBldnHH4,cZWsTRVduts,d_GwGYmK26Y,d1MKZw4vHEw,d352Nhkd02g,d8l0y2XLq3Q,d9HpahnSk3g,ddO9VroAjuU,DeiOBs9WCFY,dfzrdTb1zZE,dgJVXPaHqP8,dI75N0o_5DI,DJhwFGJhk5k,dLlF7sxrUCQ,DOO7fNIwpYY,dPmQytHJFIs,dS2qkAQ33Xw,Dt0bn771sGA,dTiW7GUvpiE,DTJrCcpKAsE,DWyqBff8MD0,dxXweiDpFuI,dzvqryS1tvM,DZyPZzqwvsA,E0C2qvYK31I,E0IZHA3G3Ig,e4MakjQr6wQ,e5nUedXajQI,E930zZVMjyY,EEnVvVzaBCo,ehplL8V_3rs,ehRpPBA6HgM,ejJhYz7wFwo,ek_MgNKuQKg,EKeXTDJ61eQ,EL6vqvpcreQ,Erfp78sCx3E,etzYB5Acisw,ex1IEZ3gULY,EXbJ0oQART8,eYGFc99WbHU,EyLK_rCRmPI,EzqNatWuS6Y,f4qBTki5iH4,F5FobXrvY3E,f7YHUbjdCzM,FB4dExVms7s,fB7BASL5g54,fbpZlOeQiAM,fbY83L61Kd0,fchREWrn0vY,FDbXuhcLWtU,Ff4fEQVTpSs,FHBsONoVnq0,fhyBcxyxbVI,Fk16jEhiBrQ,fLuLK72GwyA,FLYTjpU15No,ft2oJSlNPtQ,fU5hFfGsdjM,FWZHVOZ4ggQ,g_-JsMSaCdA,g_4yojz2mAs,g-KHTYSFJXA,G0xwAccaQ0A,G2aQUZYgTL4,G5Xu8M-uc60,G6rtL2LbzqA,g8XCMFkFyjY,gAHVZF__So4,GcJnkA-FE1M,Gd0BSKLLqsc,Gf0trv-9tvc,gHZMOupPYsg,GHzp1M24Fsw,gJcJ38T8oNM,GjQpoYm971o,gMSJoVkQZWw,gnDVjDTXE0k,GNedUPBOSqs,Gnmbc4G0dmg,GRBDH_i0FB4,GU2lVhxS9vY,gya_mSZwAl0,GYcdeNuBthM,GYRgczPNxJI,h17tF0Xii1c,h1BC7XmZr8I,h7CqHL04D-Y,HCCtVyqBoRE,HF1kNM1SZWw,hfX559mxFQo,HGHg7Nt2WVo,HiDyMOUhdZY,hIG3MjKRzBE,HjH_ZCvf3_g,hKbE7MG3OIA,HkJj6tZtzKg,hKSHNiPdaQU,hNazips7-k8,HoHfevtIV2w,hQcYnde_RDA,HTETmsKXnkE,hxMqBVB9oIU,i7CsAm6pTpE,i7hxZGH9fCY,iaA6l7wVsGE,IC9FN_fY2go,If2rCEuFeNY,ijaW9oSwCw8,im06ZuqowDk,Ima-kdh9Zo0,IMvbHX-XxMs,iQHR1-6RKGY,iry3kHF_jvI,is45doBHO4k,IubAKIW7LW8,IuGCv6BE808,ivzGKZFp8M8,IyRWVFXn45A,IZLsNynu6Ns,j0aA2J_kFkc,J296P7VE5p8,J2spK-T9ev0,j4__e_WelW0,j598EAg5zdI,J6zapuerlJk,J7b6SPEd0FA,j8A3-iLoEOI,J8tQL-J1p-4,jCLp7eJwIrE,JEKeMGgqEFA,jIf63gDirvc,JkdHKdiTXAM,jnUP8mEuPqc,jO3DSz6VU10,JP_9kWACn3U,jPdBNzia1bQ,JqB96gXQCHs,Jqmk-9gfMoc,jr_aTXakEwk,jSkzvaEVGyw,Jw000N2NVzY,JXObjjcM37E,k1e3a3x0VHE,k2pfkR9ey1o,k3a7JrqCGxM,k5J7_AWQvec,K68zHw0_xp8,K6D4AseiyvA,K6X_A5nDkn8,k7HZG6YnFww,Ka58QhPEBs0,kbsHKl1F3PI,kGrIdTasjN0,KhBpRt0R9-8,kMvmpeySbAk,kmwVSMKdhaU,kmxEhecyMN8,Ko4YrWusYB0,kPNmP4e9jfA,KQYQ6-hMOjY,KsFcbtIB9IQ,kv41joeMcM4,KVAsKc8v5t8,KVvB35XeEig,kZgInLvnTxE,kZSTJv4Hxk0,L_xCuCDisLM,L1AVZd4DsQc,L2Az5A7kcP8,L3Ij2cvGFkY,l6iCUxTXOBw,L6uSGv164Xw,L8KfIdZMszk,l8r-U_GKKPw,l8TEy3DabHA,LBYjX-YKi3A,LcYUTlXa9LA,LDbkkYUWvpA,Lioi0r8CebQ,LIwSMMqCTfU,ljBQV9kO_48,LniEKTpx8Qo,LPcjU1iEMa8,LrIY2UK10UA,lRMkZVPheVA,LTZqQj0xixg,lxUADz6sO24,M-MA0geeqcs,m-ODejCbNWA,m2iCTKjwGZY,M2SBwEaGWjA,m5TtiXCF06Y,m9zakT_UDY4,MbhDYscAAN8,MBmjx6pEVyM,mBU8ggNgS8s,mCG61ZXjwgM,mDGN4mIrYTs,mdj-e3WW1Bo,mDVvkqXidds,mh_UlTxOQQ8,MHhA6kW_K1g,mi6oOSOcu8U,mIMeh-79eFQ,mJWjRqEjk1U,MKMicgqhopw,mkzUXQCz7g0,Mm6WkdjRwXE,Mm8has8rJ6Q,MMiesWjJy3k,ModN7UGbEc4,mOIXtYBUHzE,mpo_IhTE430,mqjohU4wchw,MQkqD0MhKnY,mQmoOcT31Ro,msr6oM0RLew,Mt8NfLhd-bQ,MU2Rcx_7eK0,mU9euZ7sEes,MUy19aL4UNs,MvFElFTEyAo,N_LPPAZ6a5k,n2RdX0ydluc,n5D-l-3F7ik,N5YALJhloAc,nb48sfxaBzA,Nb9AndSj88I,NC02quLtRsA,NC8ofbJYmgQ,NcQDwCqQeO0,nDIenS-L7Qc,NgbBiTBNx_E,NjWZnzfy4Bk,No3ER-UeVEw,no6rrhl9HP4,NPnxrTpCpnw,NQNDDUtnzYk,nRaCGIerr6g,nspGMcDjCKM,ntdGh-KbrDw,NV7heJFREsE,NVweq5WqxQs,Nw0SUu18OzY,NwWi8UclL4k,Nyz8AZ4IvdA,Nz6lrDmtUxk,O_aacfmu4kk,O52v4nUvluw,O5EtoXjZNus,o6KJkaLISn8,o6YcBl2u0n0,o8Akan5GihI,oC62RUXGAeo,ocx0eQ3IYGc,ofmaPjLqKpY,oGgzXrlF0m4,OhcEdpoDPxQ,OipmgYEOOj8,OJj7uOy38hI,OjodkECxTFE,oJslPIbYry4,ojSvumv3RDc,OKRqb03TEUs,okuxViVbyTs,OLDsP1BrbDU,Olfa4vMMDEk,OQCgaoqYPDQ,ornHtBUFohc,OsoQu546x8g,oStMB-W5ovI,Ou8IoZrbRFY,OVGfiwkKdqY,OWfrBrQlhkk,oXoEIlNO77U,oXoo6eYsZ3o,OY0Jqc3-hV0,P2YYC5MMzFc,p4Wc6Zs3qQM,p5s61jAYDzE,PbcQo398070,pbi5dRCB2cA,pDkUn-isAGk,pdW4LVkaiYA,peHd3IOjylg,Pepkc8bM3uo,PfDbmwtawNg,PfZh-XLbE_I,Pi-FHomqwtE,PIHmedWFDBI,piPPWEVM7BI,Pk6jznEcP4U,PMt56AI7XrI,PN8oDcxVDKU,pOgq_axpn1k,PRGJZtCTLVA,pRriJNgzrcs,pUZDbK0a1R4,PwfwMH9cRP0,q_QmpI9cyRY,q0d0OkpV5gs,q1LXh9jQU38,Q23RnpfTgiE,q2tI5JrJKzE,q40i492ZGUU,Q5xDDuhudtU,Q8C-i61AH9Q,q8N3XgSDddU,qaB9Xgr-K-U,qaeEK1ydKHQ,qb8eND6_eH8,qbNEx7wfmRw,qCVOU264zOY,qeyblMlgmf4,QFxy7aHGQAk,QgdmFUaMaTg,QHMQrxZEG0A,Qi1p1ciC6ig,QJ87Y3IHM0E,qJZUzPJM_8o,QlB-DTGsxA4,qnSzR1wZFJw,qQCLQxxZ-JQ,qSIbJjKcNfg,QuIScPQ4-HI,QwJVJTZy7_I,QWt5r7p1prc,R0kUC-zTi_w,R1LjmP8-04A,r509r1pO2R0,r6wUIvkTfA0,RaMEtW-jj3Y,RBg7ln8YvZs,rCig3kho2SM,RDi6epw_6q8,RhIjc2y2tAk,rhU9LM5NMjw,rKsfEM1BgDc,RQ0Vxa8t2lE,RqvIfoLVDOk,RU7GoALMyfc,rvKeEwBBpVI,rWFJYGKR8Q0,rwgpNw7-Z2o,RWoC617ICiE,rWUwM3PSctc,RWwMA7NgHPw,rygv-W2nBMQ,S6nzPrp1znE,s7WQRQMZHpg,sbQRdt546xk,sCpKR0JfQYg,SCrkA-IU-MA,SCYQEWuPQ5k,shbkSBhJ2I0,SIa7IJeIZTs,sj2d6MMMHe8,Smgbk6_u95o,SMJH9hOBoHs,sNJWA5xXzJ4,SnZ6S3mRxL4,Sp4RLy_qYKg,sqjMUSm7P7g,Sr-bsrd1__k,sRO9eUbKbHk,STeFcjPilJQ,stXbBirLOa4,SuFrbJ6SU-o,svsHMcqSxo0,t1tZokS2EvY,t5_FT2IuuU4,t6E_0ndD_uc,t6Lt13vIedE,ta_w9snGNto,tA5qx4py3vk,Tcnt9LQ9ghs,TcTxPlJydUY,tHP9ltlAus8,TiTXAXiDfUc,tIWPr_DcdIo,tjMfQ3p3laE,Tnrn3L8FY0I,tPO2SMpryYw,TQscIaCFOkI,TQZvMICk0VY,tsbPU6Db2kY,TsPRXxIwYko,tvC2gQ4AczY,TvVR9BnYdcM,TwLUyzhOLOg,tYyiFa4vM6U,tyzocNwNQKM,u_GGjeSvYec,U008Q4Nl6Pw,u4vS2DaqFLc,U7kcy4JVL-A,u87rX2092og,UAHuVEBXel4,ubHkJ2JOyYc,udBq5d5QJu4,UDz1OZ08WdM,ufbriRv6ttg,ujGzJFLXyyU,ulqxOJMqlbE,uM3wMO8soPk,UnaCSOYEHJY,uNbF9eE8iQo,uPZH86T-gbU,UqoqSIhUkis,uUHrITp2OII,Uv9kdzginz4,UYZK6SLUDac,uznBzdoryQE,v__k4yoGtr0,v1EVuUPy0TM,V5UBaiLKTJ8,v7n8XMG6_lU,VAb-q4zZZ84,vdBH5hXgTx0,VDegR-PmnPY,VDiIHvrYiP4,VDNvoDprdXw,VdW3BTCrFyk,VEPn4Jpriag,vH2LP87XOhM,vhEhHA1_lYc,VifwNccVoaI,VIVQ8DSeXA0,vK8vS2FLi_8,VkklwV-XWV8,vLkThiVu-7w,VLODkOCKOTQ,Vm1M-wrzD30,vNBvyX0c2GU,VncJ0_vEoR0,VNKopA1AWqc,vNoLVvWSsyo,vo2k76mYB48,VOiG-bND5gw,vOxfriLzg30,vPi9nxUXeXY,vpPs1VYeYq4,VqfhBji9KRg,VSa_TIkV6lE,VU5aarfEf-k,vvIB5CzHtRk,W2YIfMkkfwk,w3TsReVTDJg,w7usO3iDt_o,W9zaoEqRVZA,WAHJQb4hEOc,wENuaVviKSo,wGKkvAU6BXM,wgltyCeZ9pk,WGM4fqCVAQg,wgx-dnhKrBU,WhXBxkP9xE4,WJ_m4kinM7w,wLKBFYSG524,wp-A4Xc_aLU,WQ505PlHjnA,ws0Sia6taoM,Ws3y42YOuCI,wwoXSecjUy0,WxIbdhY0A54,X1Ei27wYEkk,X28tURO5Cq0,X3Sqj3g_n6c,X4jATK5wBgU,X6DgdzLcbTc,x8rM1oZB8U8,XBbVIwgeD2g,xBjg0GydtgY,XD8UWjkcE1s,xDMceMQCI_I,xe9N5iVspPY,Xfgb4YaqMT0,xfoQHcU3MyI,XfSHGaDZbBk,XISLjXeWUwk,XLzGCZkYvIc,Xna5SsHOcUo,xot9iXQ-zBA,XpBu8gmssPY,XqmwL0TTfo0,xsFay-hybec,xsO-xNEhoBI,xSQvQDtzB6U,xTJgKGF--OQ,xwOcpq9TqpE,XXd8q4BfcYQ,xYBSsLGzMlc,Y0exfyEXpfI,Y88ecV_X87E,YACpICjPygE,YAHylAzN21o,YAZ0b3JyML8,yc4umVzljCM,YDbwkcXJXRo,ygVJlwArt0A,YiKnAv4Iw2I,YJiMBvqbCwc,ykP7QXaZp9M,YkrFx8fhafI,YLlsruYA4pk,YlYxp4VTDgw,YnYkBcT-rnY,yQrUOHG8e2k,YSoJN2dPoZw,YSq6X6aQhd0,yuNxrYT4t58,ywlM82gfvbk,yWZgvfLs_ss,yzJ3vadEb_0,YZniSg3z3Iw,z1mRlnZbCF0,Z3cDEAKbMyA,Z5r4RVFd2a8,z5T_1jyN5f8,z7iJ5zZ0cLY,Za2u9FkqiaU,zB8nIspKlco,Zdnvu5QIjXE,ZEn6pbfoNlo,Zfa1UNNaPxc,ZGLLyMlvoUY,zJoO_HiEUno,ZkwW4xznOmQ,zlajBZP3nH0,ZnPojroUsrU,ZOUO80Q44B4,zozvEuKPdKs,ZTV18-GhqyU,Zu2ITGywrmU,zu3muQumFyI,zUQ1UARkl24,ZZJ6BNKXcTw,zy611VHFFwU",
+  "topic": "Durham",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "4IELe4HKwW8",
+      "segments": [
+        {
+          "text": "after john *durham* you have democratic",
+          "location": 290
+        },
+        {
+          "text": "john *durham* resigned from the justice",
+          "location": 294
+        },
+        {
+          "text": "bar and *durham* both neither of them",
+          "location": 310
+        },
+        {
+          "text": "general barr and ran by john *durham* into",
+          "location": 358
+        },
+        {
+          "text": "barr and *durham* need to be removed",
+          "location": 486
+        }
+      ]
+    },
+    {
+      "id": "8SJ8Si8dOik",
+      "segments": [
+        {
+          "text": "this have for democrats bar *durham*",
+          "location": 356
+        },
+        {
+          "text": "*durham* five through three 1 through 99 q",
+          "location": 743
+        },
+        {
+          "text": "that question says *durham* discoveries",
+          "location": 1562
+        }
+      ]
+    },
+    {
+      "id": "9IYh49I9vLI",
+      "segments": [
+        {
+          "text": "*durham* to take over a special task force",
+          "location": 288
+        }
+      ]
+    },
+    {
+      "id": "ATycYftkD9M",
+      "segments": [
+        {
+          "text": "that you know john *durham* is is",
+          "location": 736
+        }
+      ]
+    },
+    {
+      "id": "bWCu3V4E0Cw",
+      "segments": [
+        {
+          "text": "*durham* investigation and bar who have",
+          "location": 1232
+        }
+      ]
+    },
+    {
+      "id": "CpCLI8mo6T8",
+      "segments": [
+        {
+          "text": "with us attorney john *durham* as part of",
+          "location": 421
+        }
+      ]
+    },
+    {
+      "id": "dgJVXPaHqP8",
+      "segments": [
+        {
+          "text": "out far and wide *durham* has spent weeks",
+          "location": 289
+        },
+        {
+          "text": "*durham* scrutinising john brennan's",
+          "location": 509
+        }
+      ]
+    },
+    {
+      "id": "DTJrCcpKAsE",
+      "segments": [
+        {
+          "text": "ongoing investigations with john *durham*",
+          "location": 824
+        }
+      ]
+    },
+    {
+      "id": "ehplL8V_3rs",
+      "segments": [
+        {
+          "text": "watching *durham* dershowitz tried it to",
+          "location": 777
+        }
+      ]
+    },
+    {
+      "id": "fhyBcxyxbVI",
+      "segments": [
+        {
+          "text": "meaning *durham* and rogers meeting why",
+          "location": 1777
+        },
+        {
+          "text": "*durham* and sat down and had meetings",
+          "location": 1805
+        }
+      ]
+    },
+    {
+      "id": "FLYTjpU15No",
+      "segments": [
+        {
+          "text": "*durham* start queue start did you learn",
+          "location": 685
+        },
+        {
+          "text": "sessions appointed john *durham* to head",
+          "location": 748
+        },
+        {
+          "text": "that's the bomb *durham* and bar dropped",
+          "location": 832
+        },
+        {
+          "text": "*durham* initiated monday q public",
+          "location": 1271
+        },
+        {
+          "text": "*durham* up and then q says what if other",
+          "location": 1353
+        }
+      ]
+    },
+    {
+      "id": "ft2oJSlNPtQ",
+      "segments": [
+        {
+          "text": "wait what's coming from john *durham*",
+          "location": 792
+        },
+        {
+          "text": "*durham* but they had at least the slew of",
+          "location": 799
+        }
+      ]
+    },
+    {
+      "id": "g_-JsMSaCdA",
+      "segments": [
+        {
+          "text": "28th 2017 month day and *durham* was",
+          "location": 773
+        },
+        {
+          "text": "attorney i should say john *durham* was",
+          "location": 779
+        },
+        {
+          "text": "crime family did *durham* target",
+          "location": 792
+        },
+        {
+          "text": "investigator john *durham* so this is",
+          "location": 810
+        },
+        {
+          "text": "what abc agency to *durham* target so of",
+          "location": 817
+        },
+        {
+          "text": "*durham* who was apparently tapped by the",
+          "location": 832
+        },
+        {
+          "text": "2017 john *durham* who starts the",
+          "location": 917
+        }
+      ]
+    },
+    {
+      "id": "g_4yojz2mAs",
+      "segments": [
+        {
+          "text": "did *durham* target also spearheaded mob",
+          "location": 671
+        },
+        {
+          "text": "investigator johnson or john *durham* i",
+          "location": 708
+        },
+        {
+          "text": "*durham* target howard message is sent and",
+          "location": 735
+        },
+        {
+          "text": "john *durham* was opening his",
+          "location": 783
+        }
+      ]
+    },
+    {
+      "id": "GYRgczPNxJI",
+      "segments": [
+        {
+          "text": "the veteran mob prosecutor john *durham*",
+          "location": 766
+        },
+        {
+          "text": "was not appointed by a g bar *durham*",
+          "location": 768
+        },
+        {
+          "text": "posting president trump nominee *durham*",
+          "location": 781
+        },
+        {
+          "text": "yeah if you think about it john *durham*",
+          "location": 791
+        },
+        {
+          "text": "general bar who brought john *durham* up",
+          "location": 799
+        },
+        {
+          "text": "anything about john *durham* is this one",
+          "location": 898
+        },
+        {
+          "text": "general and rogers meeting *durham* and",
+          "location": 907
+        }
+      ]
+    },
+    {
+      "id": "hfX559mxFQo",
+      "segments": [
+        {
+          "text": "know that john *durham* went to italy and",
+          "location": 1013
+        }
+      ]
+    },
+    {
+      "id": "iQHR1-6RKGY",
+      "segments": [
+        {
+          "text": "what john *durham* and the attorney",
+          "location": 24
+        },
+        {
+          "text": "*durham* apparently announcing the",
+          "location": 1414
+        }
+      ]
+    },
+    {
+      "id": "iry3kHF_jvI",
+      "segments": [
+        {
+          "text": "using *durham* boats to cross the delaware",
+          "location": 444
+        },
+        {
+          "text": "the same oar john *durham* was basically",
+          "location": 1057
+        }
+      ]
+    },
+    {
+      "id": "j4__e_WelW0",
+      "segments": [
+        {
+          "text": "forward to the *durham* report which is",
+          "location": 52
+        },
+        {
+          "text": "attorney john *durham* and i just thought",
+          "location": 783
+        },
+        {
+          "text": "john *durham* who's gonna have the",
+          "location": 828
+        },
+        {
+          "text": "and an excuse me us attorney *durham* but",
+          "location": 1324
+        }
+      ]
+    },
+    {
+      "id": "J7b6SPEd0FA",
+      "segments": [
+        {
+          "text": "*durham* classified one through four human",
+          "location": 335
+        }
+      ]
+    },
+    {
+      "id": "JP_9kWACn3U",
+      "segments": [
+        {
+          "text": "sessions horowitz humor whittaker *durham*",
+          "location": 1338
+        }
+      ]
+    },
+    {
+      "id": "Jqmk-9gfMoc",
+      "segments": [
+        {
+          "text": "john *durham* has convened a grand jury",
+          "location": 496
+        },
+        {
+          "text": "*durham* has been very quiet about this if",
+          "location": 637
+        },
+        {
+          "text": "john *durham* will probably more than",
+          "location": 648
+        }
+      ]
+    },
+    {
+      "id": "KQYQ6-hMOjY",
+      "segments": [
+        {
+          "text": "derner *durham* the guy who was just named",
+          "location": 487
+        }
+      ]
+    },
+    {
+      "id": "KVAsKc8v5t8",
+      "segments": [
+        {
+          "text": "documentation z-- *durham* news said on",
+          "location": 1118
+        },
+        {
+          "text": "*durham* investigating the smoking gun",
+          "location": 1473
+        }
+      ]
+    },
+    {
+      "id": "LniEKTpx8Qo",
+      "segments": [
+        {
+          "text": "john *durham* and what attorney general",
+          "location": 920
+        }
+      ]
+    },
+    {
+      "id": "M2SBwEaGWjA",
+      "segments": [
+        {
+          "text": "report and the john *durham* report coming",
+          "location": 32
+        }
+      ]
+    },
+    {
+      "id": "MUy19aL4UNs",
+      "segments": [
+        {
+          "text": "john *durham* and this obviously is going",
+          "location": 160
+        }
+      ]
+    },
+    {
+      "id": "OLDsP1BrbDU",
+      "segments": [
+        {
+          "text": "general and rogers meetings *durham* and",
+          "location": 1000
+        },
+        {
+          "text": "us attorney john *durham* on multiple",
+          "location": 1055
+        },
+        {
+          "text": "who puts this *durham* and rogers meetings",
+          "location": 1065
+        }
+      ]
+    },
+    {
+      "id": "ornHtBUFohc",
+      "segments": [
+        {
+          "text": "he told john *durham* the us attorney",
+          "location": 191
+        },
+        {
+          "text": "mi6 meeting with *durham* the only way to",
+          "location": 722
+        }
+      ]
+    },
+    {
+      "id": "OsoQu546x8g",
+      "segments": [
+        {
+          "text": "saying wow queuing on john *durham* was",
+          "location": 946
+        },
+        {
+          "text": "started is the same day that john *durham*",
+          "location": 966
+        }
+      ]
+    },
+    {
+      "id": "Ou8IoZrbRFY",
+      "segments": [
+        {
+          "text": "john *durham* are doing they're gonna find",
+          "location": 47
+        }
+      ]
+    },
+    {
+      "id": "oXoEIlNO77U",
+      "segments": [
+        {
+          "text": "what is *durham* going after everything",
+          "location": 1146
+        }
+      ]
+    },
+    {
+      "id": "PbcQo398070",
+      "segments": [
+        {
+          "text": "and john *durham* says why did rogers",
+          "location": 247
+        },
+        {
+          "text": "and i'm looking at *durham* to hold people",
+          "location": 905
+        },
+        {
+          "text": "and attorney general bar john *durham* and",
+          "location": 1046
+        },
+        {
+          "text": "attorney john *durham* put out that",
+          "location": 1409
+        }
+      ]
+    },
+    {
+      "id": "q_QmpI9cyRY",
+      "segments": [
+        {
+          "text": "don't know john huber and john *durham*",
+          "location": 1063
+        },
+        {
+          "text": "about the john *durham* probe and saying",
+          "location": 1695
+        },
+        {
+          "text": "you listen to what john *durham* says",
+          "location": 1721
+        }
+      ]
+    },
+    {
+      "id": "Qi1p1ciC6ig",
+      "segments": [
+        {
+          "text": "article to look up what a *durham* boat is",
+          "location": 894
+        },
+        {
+          "text": "well what's the *durham* boat it's a large",
+          "location": 897
+        },
+        {
+          "text": "*durham* start think hugh start you've",
+          "location": 969
+        },
+        {
+          "text": "beginning of all this and *durham* is the",
+          "location": 974
+        },
+        {
+          "text": "boat *durham* is the investigator and",
+          "location": 977
+        },
+        {
+          "text": "mentioned *durham* twice and it may be",
+          "location": 992
+        },
+        {
+          "text": "possible if there's more than one *durham*",
+          "location": 994
+        },
+        {
+          "text": "as in there's a john henry *durham* and",
+          "location": 997
+        },
+        {
+          "text": "john joseph *durham* and apparently john",
+          "location": 999
+        },
+        {
+          "text": "henry *durham* who is the us attorney for",
+          "location": 1002
+        },
+        {
+          "text": "then it says *durham* pointed the same day",
+          "location": 1079
+        },
+        {
+          "text": "basically that *durham* is the one cut who",
+          "location": 1093
+        },
+        {
+          "text": "hessians on a *durham* boat and and knows",
+          "location": 1128
+        },
+        {
+          "text": "missing is *durham* right and then you",
+          "location": 1183
+        },
+        {
+          "text": "all the way back in 2017 that *durham* is",
+          "location": 1194
+        },
+        {
+          "text": "post was referencing *durham* boat as hint",
+          "location": 1213
+        }
+      ]
+    },
+    {
+      "id": "STeFcjPilJQ",
+      "segments": [
+        {
+          "text": "now expect john *durham* to look at from a",
+          "location": 750
+        },
+        {
+          "text": "it's the *durham* statement so on q says",
+          "location": 1392
+        },
+        {
+          "text": "john *durham* statement come out and ig",
+          "location": 1417
+        },
+        {
+          "text": "says the exact time of *durham* statement",
+          "location": 1424
+        },
+        {
+          "text": "thank you *durham* state start date",
+          "location": 1426
+        },
+        {
+          "text": "least we know that *durham* statement and",
+          "location": 1433
+        },
+        {
+          "text": "day that the us attorney john *durham* was",
+          "location": 1472
+        },
+        {
+          "text": "the ig report the *durham* rebuttal in the",
+          "location": 1500
+        },
+        {
+          "text": "horowitz *durham* and bar are all in",
+          "location": 1507
+        },
+        {
+          "text": "communication with q or horowitz *durham*",
+          "location": 1509
+        }
+      ]
+    },
+    {
+      "id": "Tnrn3L8FY0I",
+      "segments": [
+        {
+          "text": "attorney john *durham* now that not that's",
+          "location": 1285
+        }
+      ]
+    },
+    {
+      "id": "VDNvoDprdXw",
+      "segments": [
+        {
+          "text": "horowitz and also with *durham* us",
+          "location": 1565
+        },
+        {
+          "text": "attorney *durham* these are all very",
+          "location": 1568
+        }
+      ]
+    },
+    {
+      "id": "vLkThiVu-7w",
+      "segments": [
+        {
+          "text": "conjunction with both john *durham*",
+          "location": 284
+        }
+      ]
+    },
+    {
+      "id": "Vm1M-wrzD30",
+      "segments": [
+        {
+          "text": "command potus barbar *durham* foreign",
+          "location": 1054
+        },
+        {
+          "text": "as needed does *durham* want to hold fries",
+          "location": 1060
+        },
+        {
+          "text": "john *durham* was appointed by then",
+          "location": 1087
+        }
+      ]
+    },
+    {
+      "id": "vNBvyX0c2GU",
+      "segments": [
+        {
+          "text": "*durham* interviewed u.s. embassy official",
+          "location": 1551
+        },
+        {
+          "text": "john *durham* talked to was an embassy",
+          "location": 1565
+        },
+        {
+          "text": "that's a sign that john *durham* is",
+          "location": 1571
+        }
+      ]
+    },
+    {
+      "id": "vo2k76mYB48",
+      "segments": [
+        {
+          "text": "*durham* to investigate the destruction of",
+          "location": 966
+        },
+        {
+          "text": "profile on *durham* whom the reporter said",
+          "location": 974
+        },
+        {
+          "text": "said *durham* reminded him of the title",
+          "location": 1011
+        },
+        {
+          "text": "remember john *durham* was appointed as in",
+          "location": 1026
+        },
+        {
+          "text": "*durham* in the 1980s told the washington",
+          "location": 1066
+        },
+        {
+          "text": "we're hearing now from q is that *durham*",
+          "location": 1081
+        },
+        {
+          "text": "*durham* is investigating to throw",
+          "location": 1087
+        }
+      ]
+    },
+    {
+      "id": "vvIB5CzHtRk",
+      "segments": [
+        {
+          "text": "john *durham*",
+          "location": 999
+        },
+        {
+          "text": "*durham* has been doing this for i",
+          "location": 1048
+        },
+        {
+          "text": "believe *durham* has been in this",
+          "location": 1052
+        }
+      ]
+    },
+    {
+      "id": "wgltyCeZ9pk",
+      "segments": [
+        {
+          "text": "*durham* i mean i don't know what i did",
+          "location": 1070
+        }
+      ]
+    },
+    {
+      "id": "xTJgKGF--OQ",
+      "segments": [
+        {
+          "text": "that the *durham* investigation and the",
+          "location": 779
+        }
+      ]
+    },
+    {
+      "id": "YkrFx8fhafI",
+      "segments": [
+        {
+          "text": "general barr and *durham* and others",
+          "location": 561
+        }
+      ]
+    },
+    {
+      "id": "YlYxp4VTDgw",
+      "segments": [
+        {
+          "text": "talks about *durham* scrutinising john",
+          "location": 331
+        },
+        {
+          "text": "*durham* has been investigating these",
+          "location": 385
+        },
+        {
+          "text": "from john *durham* who is as we looked at",
+          "location": 914
+        },
+        {
+          "text": "*durham* investigation concludes i",
+          "location": 1044
+        },
+        {
+          "text": "but what are you saying about *durham* is",
+          "location": 1143
+        },
+        {
+          "text": "before the *durham* investigation is going",
+          "location": 1148
+        },
+        {
+          "text": "also the *durham* investigation for all",
+          "location": 1154
+        }
+      ]
+    },
+    {
+      "id": "zy611VHFFwU",
+      "segments": [
+        {
+          "text": "in *durham* lack of confidence and full",
+          "location": 790
+        },
+        {
+          "text": "john *durham* but nothing to see here guys",
+          "location": 895
+        },
+        {
+          "text": "we can't talk about that and john *durham*",
+          "location": 941
+        }
+      ]
+    }
+  ]
+}

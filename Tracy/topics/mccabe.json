@@ -1,0 +1,3082 @@
+{
+  "indexed": "__WCSJnSz5M,_5jrZG6XFAM,_6OvndXKxrE,_cws-B_aCLw,_dhPZZrqjes,_hBN_MlOf50,_TqbXZttcfA,-3gqYREfHAc,-95rTjI-bAc,-dn_6rY55HU,-r0Kyj_s5u8,-rlY8QI9sUk,-TUlMAmVDRI,0mE9kxU6dQs,0SiYA1snRkQ,0uwR7XhETWE,17CO54eE2XU,1aaBzvQcBTA,1Aho-gQkibk,1GFB8myZY20,1hWMCjfcBIQ,1k_qCdEXyMU,1maKcnwhUOA,1O8LHZYpf34,1ps63MvjEVs,1pzh3PLWPko,1WV3PKSO0v4,2TvQuMwnjOY,36Gkz5UqciY,3Dw4BRxQE4s,3eE2c29UouM,3IbZzwkihvE,3Jrvq3-sHmU,3klvncysWik,3lgVPRWBJE4,3QnenCyt3h4,3S2g8H3U4ps,41Aw5Zxk5I0,44-D2Fw_JBc,47BSCVoYeHg,4g1rWAqgG3A,4Jdmm6wQqgA,4lA19x738Rg,4SObm0X1s6k,4TM2_GywmzA,4VZUpky7dtc,5AiX4xowqO8,5hQ4P9wtPhE,5J2OzvumTyE,5nTTOcIGd2c,5qscofzF9Qs,5Rh3bNKHGeA,60KRb_WhtZg,6bnqAu0XWU8,6gixbgaamrM,6jgbk_PDiFs,6R-D1fvMtbk,6v2IBsA1t5g,6xR5-_4B3hc,6YZsnBTinXc,70Td7-xjPHE,74BNOUCgKRI,7APLgR39HpA,7hmPtFeR0v0,7HtUhKvmDeA,7kzwBZVdW4Y,7O-EDH3mdJc,7oxvyYdJUIA,7UQlagc_4IA,88HoWDr7-Bk,8cvueX-8Bx0,8GRYHRlylL4,8ITUZW8J8PM,8mD5-pVZAWI,8Rt2wChpX48,909-IGBf7GQ,9hsKPMi36xA,9iNXSfDCdvc,9kn4E2-NC4A,9rg06XDuwWU,9VbSnz-gbNk,A0b_46PRayY,A5zA3WbDBO0,A7FxIOSBxpI,ahQdZjEkanw,AHubgIJi00I,alvsG0JlCfo,Amyex812zNc,Aqtegh09-Sg,ARB9VUsO06M,asTOzf-O9go,AWabeiBwKq8,AxexRRlH35s,b_1yL0hf6MI,b-OUVnwGkRU,b27pVTRmF70,B3KRFYHV8D0,B4b2qPpUwP4,b6AYe0-sw40,BA0ISlhqFDc,BdKSaXGTp3c,BEZ2Y8e1P0k,bH8ddLavh78,bhnvHScGi60,BIh9H9mJjOk,bLw0dPEhLec,bN-DzG40IN8,BnBotKXBPzI,bQrYgXX2H0I,br1lJ89zRXM,bs6GFy_W9ZA,bSICVpP2Flo,BTZjoxiEpkQ,C_6ODvPAAqA,cVIOSuzT3Jg,CWC6MLH47ZA,CWYCFgHTYmA,d_b2qxZ2VLI,D8yca8CaN1I,D90N1xF8mSg,dAP8No32qq4,dbouA9jqaZk,dCUSWEyA1fQ,ddeNbDYm0a4,df6S3O_BR-4,DhXfEO8w6EU,dI4VXG6-L7w,DMqULLWRYwE,DMu5zdHYlNI,DRoWNAuir7Q,dtM38vNIIRE,E5xktIh0hSo,e6HAetq1URA,eAPdWWZ-N8U,Eay3F3y7RHA,EdYX6W1UJtY,eeoDzLQgzhc,EGDoPENXaFc,egNsI3Z_xEY,Em8qDwE1QUU,EmKqos_eMuA,EOAkWHS_J9c,ePI6Ne1-wSE,eQILiuc4-WI,Er7gV79z06s,ewp-JR5DSMg,exCMVE7D9p0,EXJQ2-FeguU,Ey-mgXrq_aI,f_xlb24r2XE,f0Y5c2vUb20,Fgs8dpS_cRo,Fl4UnxpNK0g,FMrxMFO6M7k,fn95uHfF_18,FP6aqQ5_SRo,FTiJ-zICZMo,G_xDoLwljuo,G5SpkviUTqw,g7xN6glhUs4,gMbWAHxW250,GnDiCFxZGBg,gq0pf4HhD5Q,gQj0bDc_Fm4,guAQZEdnf0M,GzfdL9oDTg4,h6_Jg15PMqw,H7A3KJGdYPk,hBxouTsYc1Y,Hc7HhtjmztU,hHsc4kcCP8Y,hhWxiFd1Lek,hjrAa1i3-1I,hkUkxy-QQ-Q,hkXilPGvALE,hm0W85hSL-o,hNLb3_m01ZI,hPOyJAATDD4,hQ_O1Lr1M-g,HV-vFME-F50,hvwOzn5PKpM,i1FNodDHArM,i5RW-XXzHtw,iCpkWbYELao,iFw7BfmkPoA,IG61YMUfKzo,Igzj0udBvls,isiKn_13a6o,ITt0C3PdbH4,IWxOLAn5AlQ,Iz42b8G-oqg,JbxByzDdwfA,JfWVbWJ2_Ko,jGt9zgpwZ9Q,Jhw6670X1VY,jnh-GeQxp_8,JoGtXBDBgp0,JPZUyqpKGZs,jr_urxcqA4o,jtHG1a1tP_I,jYPNWZq_H18,JyzYMIjanBs,k-bt6bWGij8,k6olZ74o90Q,kB0zCpNGhVE,KHjoVdnA62A,kkpyV-18WTk,km-Gx0Hg-44,KmOCQWVesHU,kOiKC6mnU1k,kOyFUE6J1ZE,KsAs7ycY5FA,KSc87YJAwQM,KSGgsanhC3E,KSJ6Tj0QHjo,kUJpIgoTT9U,KWcjgJZ-jAk,KWFlQpXXONw,KXFH17xn4Qg,kXjxdiUO96s,KXsekpEVyeU,L_ZGt4k94As,L0KufJcu7eU,L0sdWF4eG4c,L1dD7fTqLBw,l2qKLALnF8I,L3Rn-zQQrkc,L5ZN9kavwRg,L7Qpyk_feBM,l9JcAUvGP5Y,Lax37pJP5ac,LIbrzV8SpcY,LJbp7jg7l0Q,LKMIQnS5Pcs,lnT22cOqOFM,lovFAwq_JWQ,lQmUOtgjIdA,lrn1yQbSnHo,Lvu5_YQ2Rm4,LzRxTK4rmXM,m3lnyzjqWnE,m5eFn72m2pI,M6vwonTniVw,M8mqCIXelB0,m9A7mw2sqRE,mETx7SAJlVk,MfJAbIW3BfA,MI0YvliWM0Y,MkT73qYCd1Q,MMGy4DTklPE,MQAFkrQWBrg,mqeKRt3rodU,mQTUYjU24Rg,mRfeqr9l1dI,mVh7uWYYC2o,N2oyYNbCdhI,N6OJkEcTNBI,N8kcgZSUKWQ,NAmvx01k9GY,nC8mScSK1h0,NcAHFwSMHQU,NEqIlHSws84,Nj95GFo9wN4,NjcvkuXyV5c,NK3yMiSIWo4,NkiAVuCp9OA,nkLSyJ1D2PM,nqwzAuS8oBk,ntbpwigxlS8,nU3pJ4Hc2Qs,NXPMR-tDIwA,nZyEcOqMuao,o-sDc-zz74I,O12aMrSJa-c,O2ThACsc-SI,O3n3tdQvElY,O4byIO53upA,O7aByWyTSS4,oaI7ZdDSSLY,OAsTBQQGtLI,okT48ySZj6c,onIo2GfzUMo,OOpjLWnIarQ,OTjO3iSHtXY,OW2lf9AXAH8,owoNCVy2Xf4,OyTxEOGN7-I,oZ6ZfjPVZus,P3ZrrRQSEjU,p5-5kKc5cdM,p6IrQgYqqU8,PKjUOAt9RHM,plz4oQw22fA,pnpALUUC0Uk,pOIac4OGMds,POIU6dYFevw,pPq8Lg_hb7o,PQCSlwbRVtA,PWKxJruh6Jo,q1tM24C9Dk8,q2nut-TQnAw,q3goDK3TGjo,Q3njGcQzlGY,Q4IUKLD7pWE,Q7ltKlDb_iQ,qBpZdtQLRgM,qIWsc3FHA70,qJgdwDTFy4Q,QKfSaUy0aOo,QMlK_fJGhQQ,Qmxk668ru_8,QOTCpAaze4o,QPnMyftwpE0,qqN3g_IwRPc,qTJyrUkvyaY,qTYCtgOr_8I,qu0ud72O-84,qUzD-oDrbSI,qVOhVy16McI,qWgPkGlxWV4,qwoYJx2_w-o,QzLIZODzQLk,R2X3ffYdbkM,r3uCJZSMEyQ,r5SBzWlW1_Y,RBnA7SjdZ1U,rC9Lo4MnTXM,RemTxx4eTLs,rFFmXASbUl4,RGv6qwJ1_a4,RqJObun2kmc,rR2ZM4f7rD0,RrzuONSfoDc,RSjalaT3uCM,rZ7pDU0Uj10,S0eJc1n7n1I,s5oAP6aumHg,S9YcyTZRn68,SGG7C4VWGnI,SIhqTvxwW00,siuzAF3wO_c,smRrggNmtTg,SoUIJo6x8xU,soUj9u_mFDA,SSBGXDOTdns,SWH3bHMfcNk,sz8gHF1kxYc,T2k6zBRoAYQ,T6z098lTUeY,TgQkfFU6iq0,thYce7wAYyM,tkzklwBW-vo,tN9XqD3BuH4,tnbruuOA82Y,tqehbUzjWWM,tQXq-O3d3hA,trFb5FQRPnk,Tvip1mMGZZc,tYcCAfVDzHg,U-88txyDepo,UbP09heNJNI,UctJtL8VPPA,UeL420NDy1k,UHB66CIjDnw,UhEdnT61QoU,uLcyWCAzigA,UNPLv2GkkCE,UoTU7A7dp6k,uqVPGzLVLtk,UTfjag8AVZ8,UYbcFFkO0ng,V0Q1L5ql0QM,v12sR5cplGI,v492vdHa5HI,v5B_i3VuPHo,vaw2XW2G9Uk,VbdqNDf5xHQ,vHfOYaL0a1U,VIcuy7PV4XU,Vjk9Q6h8H_Y,vLmXQexS_4s,vPtOp-kAIx0,vq4qGnL-zGc,vrCZyXe0XMM,VtFJKZhA1OI,vVhHmj0Ov4k,vwZTHlanOoU,vxVTXKkTkMM,vxwJqPBY_g8,vZ8fq7gx3xk,VZsK9kz7rHA,w_2u4uyq-Q0,w_mQQ1HxSDU,WCwGdJqq6d4,WE9-rWOUHJQ,wEliGdBG-EE,whZcsQbiK4Q,wIyPQj4IXpA,wKCtvpanR_c,WKKw6FaYcvQ,WkXCIktsusQ,WPeWjxhDOUM,wq64dbpEuz4,WUddcZX8J6c,wWO3JK3eJrI,Wywfz5RnfSQ,x2hBenC4AZ0,X39_Z_zvFfc,x5gjjT830Nc,xeNVGTPWym8,Xh0c6L74Ll4,xHtZdQLjZbg,XjnLYFXVuAM,Xn2mO1j3g94,xrWUcRsinII,XSdO8-6pbWQ,XsXLhmdIOyY,y7YAfBt6rgc,YDdoBandbeY,ye_6sRSBZos,Yh54h9QIAh4,yHpm6Ptuncc,yjBJBt_OhWE,yNPm3M09GRU,ySl-C8ZebIo,Z_6mc2jx1Mk,z_sMqj3UtMA,z5f0mreNYgs,zekVPdW-IR0,zGwMYp4DV7Y,ZKz6sejxOYg,zlxiqAdaLfQ,zMRwHvoTM5Q,zofJZLN0x20,zOkqzikAFjE,zpDE6X-ijH8,ZXccn8oYJuM,zZMOXdh0frU",
+  "topic": "McCabe",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_5jrZG6XFAM",
+      "segments": [
+        {
+          "text": "because we know that *mccabe* and baker",
+          "location": 445
+        },
+        {
+          "text": "was a criminal referral to andrew *mccabe*",
+          "location": 1026
+        }
+      ]
+    },
+    {
+      "id": "-r0Kyj_s5u8",
+      "segments": [
+        {
+          "text": "*mccabe* i'm sorry not *mccabe* muller",
+          "location": 340
+        },
+        {
+          "text": "andrew *mccabe* to persuade a high-ranking",
+          "location": 1660
+        },
+        {
+          "text": "okay when did andrew *mccabe* become",
+          "location": 1699
+        },
+        {
+          "text": "they're badgering *mccabe* to hurry it up",
+          "location": 1880
+        },
+        {
+          "text": "*mccabe* didn't have news to add to the",
+          "location": 2488
+        }
+      ]
+    },
+    {
+      "id": "0uwR7XhETWE",
+      "segments": [
+        {
+          "text": "post leaked the andrew *mccabe* grand jury",
+          "location": 1390
+        },
+        {
+          "text": "*mccabe* is under grand jury investigation",
+          "location": 1406
+        }
+      ]
+    },
+    {
+      "id": "1O8LHZYpf34",
+      "segments": [
+        {
+          "text": "*mccabe* james baker sally yates loretta",
+          "location": 445
+        },
+        {
+          "text": "in there or bruce or peter struck *mccabe*",
+          "location": 1788
+        }
+      ]
+    },
+    {
+      "id": "1pzh3PLWPko",
+      "segments": [
+        {
+          "text": "mean we can see clinton obama *mccabe*",
+          "location": 1407
+        }
+      ]
+    },
+    {
+      "id": "4VZUpky7dtc",
+      "segments": [
+        {
+          "text": "rosenstein and andrew *mccabe* and i did a",
+          "location": 121
+        },
+        {
+          "text": "rhod rosenstein and andrew *mccabe* signed",
+          "location": 133
+        },
+        {
+          "text": "this butting heads between andrew *mccabe*",
+          "location": 272
+        },
+        {
+          "text": "*mccabe* is under grand jury investigation",
+          "location": 278
+        },
+        {
+          "text": "*mccabe* and and his lies which is where i",
+          "location": 295
+        },
+        {
+          "text": "stein and andrew *mccabe* about",
+          "location": 381
+        },
+        {
+          "text": "russia probe supposedly *mccabe* says you",
+          "location": 388
+        },
+        {
+          "text": "between *mccabe* and rod rosenstein and",
+          "location": 429
+        },
+        {
+          "text": "on the raw rod rosenstein andrew *mccabe*",
+          "location": 788
+        },
+        {
+          "text": "that *mccabe* had even memos written about",
+          "location": 801
+        },
+        {
+          "text": "the side of *mccabe* and paige the fact",
+          "location": 812
+        }
+      ]
+    },
+    {
+      "id": "5hQ4P9wtPhE",
+      "segments": [
+        {
+          "text": "especially because *mccabe* and comey both",
+          "location": 1223
+        },
+        {
+          "text": "that stuff with him during the *mccabe*",
+          "location": 1254
+        },
+        {
+          "text": "will probably get something on *mccabe*",
+          "location": 1354
+        }
+      ]
+    },
+    {
+      "id": "6v2IBsA1t5g",
+      "segments": [
+        {
+          "text": "so *mccabe* calls mike and says you know",
+          "location": 2117
+        }
+      ]
+    },
+    {
+      "id": "74BNOUCgKRI",
+      "segments": [
+        {
+          "text": "*mccabe* it's you ready no part of any",
+          "location": 414
+        },
+        {
+          "text": "working on an analysis of the *mccabe*",
+          "location": 830
+        }
+      ]
+    },
+    {
+      "id": "7hmPtFeR0v0",
+      "segments": [
+        {
+          "text": "well-read and already on what *mccabe* did",
+          "location": 2751
+        }
+      ]
+    },
+    {
+      "id": "7kzwBZVdW4Y",
+      "segments": [
+        {
+          "text": "deputy director andrew *mccabe* the",
+          "location": 1254
+        },
+        {
+          "text": "doesn't work with *mccabe* anymore either",
+          "location": 1335
+        },
+        {
+          "text": "for *mccabe* in the fbi why would this",
+          "location": 1588
+        }
+      ]
+    },
+    {
+      "id": "88HoWDr7-Bk",
+      "segments": [
+        {
+          "text": "stuff other than they accused *mccabe*",
+          "location": 883
+        },
+        {
+          "text": "*mccabe* in here as being the one to get",
+          "location": 896
+        }
+      ]
+    },
+    {
+      "id": "909-IGBf7GQ",
+      "segments": [
+        {
+          "text": "*mccabe* oh ig report i had promised you",
+          "location": 13
+        },
+        {
+          "text": "course *mccabe* was referred for criminal",
+          "location": 95
+        },
+        {
+          "text": "out on *mccabe* was not a it was it was a",
+          "location": 107
+        },
+        {
+          "text": "lisa paige said will *mccabe* ordered me",
+          "location": 126
+        },
+        {
+          "text": "you know *mccabe* confirmed it it was him",
+          "location": 134
+        },
+        {
+          "text": "general was speaking to *mccabe* about the",
+          "location": 145
+        },
+        {
+          "text": "the fbi deputy director *mccabe* should",
+          "location": 211
+        },
+        {
+          "text": "said that this o ig report about *mccabe*",
+          "location": 261
+        },
+        {
+          "text": "if this report about *mccabe* is any",
+          "location": 290
+        },
+        {
+          "text": "concluded that *mccabe* lacked candor and",
+          "location": 337
+        },
+        {
+          "text": "which will read is that comey *mccabe*",
+          "location": 357
+        },
+        {
+          "text": "*mccabe* and his counsels review the oig",
+          "location": 386
+        },
+        {
+          "text": "and comey told us that *mccabe* led him to",
+          "location": 409
+        },
+        {
+          "text": "believe that *mccabe* had nothing to do",
+          "location": 412
+        },
+        {
+          "text": "stating that *mccabe* didn't know where",
+          "location": 415
+        },
+        {
+          "text": "did not state to call me that he *mccabe*",
+          "location": 419
+        },
+        {
+          "text": "disclosure is is that *mccabe* pretended",
+          "location": 424
+        },
+        {
+          "text": "it up because *mccabe* was trying to make",
+          "location": 429
+        },
+        {
+          "text": "finally commis testimony that *mccabe* did",
+          "location": 466
+        },
+        {
+          "text": "not tell him that *mccabe* had authorized",
+          "location": 469
+        },
+        {
+          "text": "*mccabe* statement to the eye nsd which is",
+          "location": 474
+        },
+        {
+          "text": "so *mccabe* testified to the or spoke to i",
+          "location": 484
+        },
+        {
+          "text": "call me because *mccabe* said the same",
+          "location": 517
+        },
+        {
+          "text": "sense that *mccabe* would also tell the",
+          "location": 525
+        },
+        {
+          "text": "testimony that *mccabe* did not tell him",
+          "location": 539
+        },
+        {
+          "text": "that *mccabe* had authorized the",
+          "location": 541
+        },
+        {
+          "text": "would be no reason for *mccabe* to not",
+          "location": 581
+        },
+        {
+          "text": "there would be no reason for *mccabe* to",
+          "location": 590
+        },
+        {
+          "text": "*mccabe* contacted the oig on august 1st",
+          "location": 616
+        },
+        {
+          "text": "page so *mccabe* is texting with lisa page",
+          "location": 635
+        },
+        {
+          "text": "tells *mccabe* that they've got your text",
+          "location": 646
+        },
+        {
+          "text": "messages dude and then *mccabe* decides",
+          "location": 648
+        },
+        {
+          "text": "uh-oh i'm screwed *mccabe* is done now his",
+          "location": 650
+        },
+        {
+          "text": "draft of this report *mccabe* argues that",
+          "location": 680
+        },
+        {
+          "text": "the first reason cited by *mccabe* as to",
+          "location": 707
+        },
+        {
+          "text": "not it is noteworthy that *mccabe* did not",
+          "location": 721
+        },
+        {
+          "text": "*mccabe* focus entirely on attacking the",
+          "location": 828
+        },
+        {
+          "text": "the second reason cited by *mccabe* as to",
+          "location": 861
+        },
+        {
+          "text": "comey would have recalled *mccabe* telling",
+          "location": 894
+        },
+        {
+          "text": "disclosure if in fact *mccabe* had told co",
+          "location": 898
+        },
+        {
+          "text": "stresses that because *mccabe* leaked to",
+          "location": 908
+        },
+        {
+          "text": "so by *mccabe* leaking they completely",
+          "location": 922
+        },
+        {
+          "text": "finally *mccabe* argues that comey quote",
+          "location": 955
+        },
+        {
+          "text": "however *mccabe* provides no factual basis",
+          "location": 978
+        },
+        {
+          "text": "*mccabe* in this case just think about",
+          "location": 1064
+        },
+        {
+          "text": "that *mccabe* was trying to throw him",
+          "location": 1072
+        },
+        {
+          "text": "not they should prosecute *mccabe* not",
+          "location": 1079
+        },
+        {
+          "text": "not testify that *mccabe* affirmatively",
+          "location": 1089
+        },
+        {
+          "text": "the disclosure but rather that *mccabe* in",
+          "location": 1094
+        },
+        {
+          "text": "*mccabe* did not know how the wall street",
+          "location": 1099
+        },
+        {
+          "text": "*mccabe* to back off of the clinton",
+          "location": 1112
+        },
+        {
+          "text": "investigation and *mccabe* trying to get",
+          "location": 1114
+        },
+        {
+          "text": "investigation and making *mccabe* look",
+          "location": 1141
+        },
+        {
+          "text": "*mccabe* is saying our turn luke thought",
+          "location": 1144
+        },
+        {
+          "text": "asked about the leak *mccabe* told them he",
+          "location": 1157
+        },
+        {
+          "text": "happened *mccabe* says i told him it was",
+          "location": 1167
+        },
+        {
+          "text": "out in those words but rather *mccabe* in",
+          "location": 1188
+        },
+        {
+          "text": "*mccabe* didn't know how the wall street",
+          "location": 1194
+        },
+        {
+          "text": "so *mccabe* didn't say i had nothin to do",
+          "location": 1201
+        },
+        {
+          "text": "leak this big for *mccabe* to say i had",
+          "location": 1265
+        },
+        {
+          "text": "horowitz says that *mccabe* lacked candor",
+          "location": 1281
+        },
+        {
+          "text": "counsel for *mccabe* argued that the oig",
+          "location": 1295
+        },
+        {
+          "text": "things so *mccabe* can't argue that he",
+          "location": 1321
+        },
+        {
+          "text": "not *mccabe* told him and then in footnote",
+          "location": 1339
+        },
+        {
+          "text": "*mccabe* conveyed to comey in some former",
+          "location": 1379
+        },
+        {
+          "text": "fashion that it was not *mccabe* who had",
+          "location": 1382
+        },
+        {
+          "text": "report asks *mccabe* what does cf stand",
+          "location": 1399
+        },
+        {
+          "text": "for and *mccabe* pretends he has no idea",
+          "location": 1402
+        },
+        {
+          "text": "finding that *mccabe* lacked candor when",
+          "location": 1512
+        },
+        {
+          "text": "contradict themselves by *mccabe* *mccabe*",
+          "location": 1526
+        },
+        {
+          "text": "saying i told them and then *mccabe*",
+          "location": 1530
+        },
+        {
+          "text": "that makes much sense mr. *mccabe*",
+          "location": 1539
+        },
+        {
+          "text": "*mccabe* violated fbi offense code 2.6",
+          "location": 1554
+        },
+        {
+          "text": "counsel for *mccabe* argued that in asking",
+          "location": 1600
+        },
+        {
+          "text": "*mccabe* about the october 27th through",
+          "location": 1603
+        },
+        {
+          "text": "explicit agreement with *mccabe* that when",
+          "location": 1618
+        },
+        {
+          "text": "*mccabe* provides no evidence in support",
+          "location": 1628
+        },
+        {
+          "text": "time of the july 28th interview *mccabe*",
+          "location": 1653
+        },
+        {
+          "text": "investigation of *mccabe* concerning the",
+          "location": 1675
+        },
+        {
+          "text": "informed by i nsd that *mccabe* had",
+          "location": 1680
+        },
+        {
+          "text": "basically *mccabe* is accusing the ig of",
+          "location": 1693
+        },
+        {
+          "text": "that *mccabe* stated in advance of the",
+          "location": 1716
+        },
+        {
+          "text": "that at no time did *mccabe* give any",
+          "location": 1725
+        },
+        {
+          "text": "inform *mccabe* who has a law degree that",
+          "location": 1734
+        },
+        {
+          "text": "oig would not be asking *mccabe* questions",
+          "location": 1743
+        },
+        {
+          "text": "or any issues related to that *mccabe*",
+          "location": 1750
+        },
+        {
+          "text": "the ig prefaced his question to *mccabe*",
+          "location": 1795
+        },
+        {
+          "text": "*mccabe* responds yes yeah you can ask",
+          "location": 1803
+        },
+        {
+          "text": "messages *mccabe* expressed a preference",
+          "location": 1814
+        },
+        {
+          "text": "evidencing that at the time of *mccabe*",
+          "location": 1833
+        },
+        {
+          "text": "july 28th interview *mccabe* was the",
+          "location": 1835
+        },
+        {
+          "text": "interview because *mccabe* was lying about",
+          "location": 1846
+        },
+        {
+          "text": "statements to the ig on july 28th *mccabe*",
+          "location": 1870
+        },
+        {
+          "text": "on behalf of *mccabe* these accusations of",
+          "location": 1879
+        },
+        {
+          "text": "period *mccabe* did not do so until nearly",
+          "location": 1905
+        }
+      ]
+    },
+    {
+      "id": "Aqtegh09-Sg",
+      "segments": [
+        {
+          "text": "investigation that comes from the *mccabe*",
+          "location": 1196
+        },
+        {
+          "text": "the same time august 12th 2016 *mccabe*",
+          "location": 1275
+        },
+        {
+          "text": "authorities a couple days later *mccabe*",
+          "location": 1399
+        }
+      ]
+    },
+    {
+      "id": "ARB9VUsO06M",
+      "segments": [
+        {
+          "text": "with just announced today andrew *mccabe*",
+          "location": 464
+        },
+        {
+          "text": "andrew *mccabe* is now going to be a cnn",
+          "location": 467
+        },
+        {
+          "text": "*mccabe* oh you know that means that means",
+          "location": 472
+        }
+      ]
+    },
+    {
+      "id": "b_1yL0hf6MI",
+      "segments": [
+        {
+          "text": "that *mccabe* comes out with this little",
+          "location": 803
+        },
+        {
+          "text": "andrew *mccabe* lawyering up there's some",
+          "location": 841
+        }
+      ]
+    },
+    {
+      "id": "B3KRFYHV8D0",
+      "segments": [
+        {
+          "text": "*mccabe* think about this this is a john",
+          "location": 662
+        }
+      ]
+    },
+    {
+      "id": "B4b2qPpUwP4",
+      "segments": [
+        {
+          "text": "especially angie *mccabe* as well as the",
+          "location": 1267
+        }
+      ]
+    },
+    {
+      "id": "bhnvHScGi60",
+      "segments": [
+        {
+          "text": "point outside of everything else *mccabe*",
+          "location": 1054
+        }
+      ]
+    },
+    {
+      "id": "dI4VXG6-L7w",
+      "segments": [
+        {
+          "text": "andrew *mccabe* has a pathological need",
+          "location": 1605
+        }
+      ]
+    },
+    {
+      "id": "DRoWNAuir7Q",
+      "segments": [
+        {
+          "text": "number two in the fbi andrew *mccabe* and",
+          "location": 32
+        },
+        {
+          "text": "about firing andrew *mccabe* and it is a",
+          "location": 68
+        },
+        {
+          "text": "important to fire *mccabe* the public",
+          "location": 107
+        },
+        {
+          "text": "basically the charges against *mccabe*",
+          "location": 144
+        },
+        {
+          "text": "investigating *mccabe* horowitz's office",
+          "location": 223
+        },
+        {
+          "text": "assessment that *mccabe* quote lacked",
+          "location": 283
+        },
+        {
+          "text": "discuss *mccabe* and by the way before i",
+          "location": 309
+        },
+        {
+          "text": "schools is the one that *mccabe* has been",
+          "location": 311
+        },
+        {
+          "text": "decision to dismiss *mccabe* career",
+          "location": 326
+        },
+        {
+          "text": "*mccabe* has heads exploding among members",
+          "location": 367
+        },
+        {
+          "text": "that the firing of *mccabe* was justified",
+          "location": 400
+        },
+        {
+          "text": "so if *mccabe* was less than candid in",
+          "location": 404
+        },
+        {
+          "text": "finding that *mccabe* did not meet fbi fbi",
+          "location": 413
+        },
+        {
+          "text": "investigation *mccabe* is trying to shift",
+          "location": 454
+        },
+        {
+          "text": "*mccabe* trump had nothing to do with it",
+          "location": 569
+        },
+        {
+          "text": "responsible for recommending that *mccabe*",
+          "location": 586
+        },
+        {
+          "text": "representative not as an observer *mccabe*",
+          "location": 656
+        },
+        {
+          "text": "his retirement *mccabe* was hoping to",
+          "location": 877
+        },
+        {
+          "text": "*mccabe* declined to comment a justice",
+          "location": 902
+        },
+        {
+          "text": "working on a report that blasts *mccabe*",
+          "location": 929
+        },
+        {
+          "text": "and *mccabe* denies having misled anyone",
+          "location": 958
+        },
+        {
+          "text": "*mccabe* reportedly said if he goes down",
+          "location": 980
+        },
+        {
+          "text": "of fb i--'s *mccabe* after an extensive",
+          "location": 999
+        },
+        {
+          "text": "*mccabe* to the opr the fbi's opr then",
+          "location": 1014
+        },
+        {
+          "text": "mr. *mccabe* both the oig and the fbi opr",
+          "location": 1026
+        },
+        {
+          "text": "reports concluded that mr. *mccabe* had",
+          "location": 1030
+        },
+        {
+          "text": "employment of andrew *mccabe* effective",
+          "location": 1072
+        },
+        {
+          "text": "read *mccabe* statement it's disgusting i",
+          "location": 1088
+        },
+        {
+          "text": "*mccabe* it's all coming out no more",
+          "location": 1180
+        },
+        {
+          "text": "the answers to *mccabe* says it was not a",
+          "location": 1429
+        },
+        {
+          "text": "*mccabe* come out and say that",
+          "location": 1452
+        },
+        {
+          "text": "to andrew *mccabe* in this matter i've",
+          "location": 1470
+        },
+        {
+          "text": "to terminate mr. *mccabe* before his long",
+          "location": 1489
+        },
+        {
+          "text": "of what *mccabe* deserved no mm-hmm",
+          "location": 1562
+        },
+        {
+          "text": "*mccabe* sent as always sundance from",
+          "location": 1580
+        },
+        {
+          "text": "narrative is outlined by *mccabe* and his",
+          "location": 1613
+        },
+        {
+          "text": "in order for *mccabe* in bromwich who have",
+          "location": 1629
+        },
+        {
+          "text": "as described in the letter mr *mccabe* and",
+          "location": 1641
+        },
+        {
+          "text": "month in february *mccabe* and his",
+          "location": 1665
+        },
+        {
+          "text": "*mccabe* was led left to be the number one",
+          "location": 1783
+        },
+        {
+          "text": "*mccabe* and it's interesting that there",
+          "location": 1797
+        },
+        {
+          "text": "because *mccabe* kind of took on a life of",
+          "location": 1804
+        },
+        {
+          "text": "deputy director andrew *mccabe* declared",
+          "location": 1825
+        },
+        {
+          "text": "however *mccabe* may have rectified his",
+          "location": 1831
+        },
+        {
+          "text": "strikingly similar fashion *mccabe*",
+          "location": 1879
+        },
+        {
+          "text": "breaking *mccabe* memo drops early trump",
+          "location": 1914
+        },
+        {
+          "text": "*mccabe* like his predecessor comey",
+          "location": 1930
+        },
+        {
+          "text": "*mccabe* about his own interactions",
+          "location": 2056
+        },
+        {
+          "text": "response to accusations that *mccabe*",
+          "location": 2092
+        },
+        {
+          "text": "the probe the fbi is maintained *mccabe*",
+          "location": 2096
+        },
+        {
+          "text": "brennan schumer *mccabe* is also",
+          "location": 2170
+        },
+        {
+          "text": "to *mccabe* real quick let's listen to",
+          "location": 2261
+        },
+        {
+          "text": "struck and andy *mccabe* both having",
+          "location": 2308
+        },
+        {
+          "text": "andrew *mccabe* there's more coming",
+          "location": 2333
+        },
+        {
+          "text": "*mccabe* can he fight this",
+          "location": 2353
+        },
+        {
+          "text": "high as *mccabe* had held is massive this",
+          "location": 2379
+        },
+        {
+          "text": "projection and *mccabe* has been dirty for",
+          "location": 2400
+        },
+        {
+          "text": "you may scapegoat andy *mccabe* but you",
+          "location": 2449
+        },
+        {
+          "text": "special about andrew *mccabe* execution",
+          "location": 2517
+        },
+        {
+          "text": "andy *mccabe* is an upper-level manager at",
+          "location": 2522
+        },
+        {
+          "text": "well it turns out *mccabe* and flynn have",
+          "location": 2552
+        },
+        {
+          "text": "was being targeted by *mccabe* for various",
+          "location": 2559
+        },
+        {
+          "text": "reasons and *mccabe* doesn't like flint i",
+          "location": 2562
+        },
+        {
+          "text": "andy *mccabe* goes to the white house",
+          "location": 2595
+        },
+        {
+          "text": "of blow your mind *mccabe* tells priebus",
+          "location": 2610
+        },
+        {
+          "text": "of staff says the *mccabe* well can you",
+          "location": 2620
+        },
+        {
+          "text": "he says i'll get back to you *mccabe*",
+          "location": 2627
+        },
+        {
+          "text": "disappointed because *mccabe* told him it",
+          "location": 2634
+        },
+        {
+          "text": "here *mccabe* she has a thread here that",
+          "location": 2671
+        },
+        {
+          "text": "about what happened basically *mccabe*",
+          "location": 2676
+        },
+        {
+          "text": "who's been rickrolled by *mccabe* and",
+          "location": 2742
+        },
+        {
+          "text": "company it's clear that flynn and *mccabe*",
+          "location": 2745
+        },
+        {
+          "text": "hence *mccabe* allegedly obstructing",
+          "location": 2749
+        },
+        {
+          "text": "allegedly moron *mccabe* and flynn in",
+          "location": 2765
+        },
+        {
+          "text": "*mccabe* this is from 2017 okay",
+          "location": 2786
+        },
+        {
+          "text": "*mccabe* told fbi agents to lie about",
+          "location": 2791
+        },
+        {
+          "text": "director andrew *mccabe* told agents",
+          "location": 2797
+        },
+        {
+          "text": "former fbi supervisor who said *mccabe*",
+          "location": 2817
+        },
+        {
+          "text": "obama in other words *mccabe* was directly",
+          "location": 2838
+        },
+        {
+          "text": "over a youtube video eventually *mccabe*",
+          "location": 2847
+        }
+      ]
+    },
+    {
+      "id": "EdYX6W1UJtY",
+      "segments": [
+        {
+          "text": "*mccabe* doesn't come into work he had",
+          "location": 26
+        },
+        {
+          "text": "so *mccabe* decides he's gonna go on",
+          "location": 78
+        },
+        {
+          "text": "don't want to lose that money *mccabe* is",
+          "location": 150
+        }
+      ]
+    },
+    {
+      "id": "Fgs8dpS_cRo",
+      "segments": [
+        {
+          "text": "the *mccabe* o ig report it was like seven",
+          "location": 540
+        },
+        {
+          "text": "anything like the *mccabe* one was then",
+          "location": 560
+        },
+        {
+          "text": "heard anything about the *mccabe* criminal",
+          "location": 585
+        }
+      ]
+    },
+    {
+      "id": "Fl4UnxpNK0g",
+      "segments": [
+        {
+          "text": "is a lie as per andrew *mccabe* and the",
+          "location": 403
+        }
+      ]
+    },
+    {
+      "id": "Hc7HhtjmztU",
+      "segments": [
+        {
+          "text": "to talk about *mccabe* i want to talk",
+          "location": 175
+        },
+        {
+          "text": "about *mccabe* i want to talk about the",
+          "location": 181
+        },
+        {
+          "text": "we got the news about *mccabe* i covered",
+          "location": 220
+        },
+        {
+          "text": "jury considering charges against *mccabe*",
+          "location": 284
+        },
+        {
+          "text": "on *mccabe* and i think that i have a",
+          "location": 349
+        },
+        {
+          "text": "here from andrew *mccabe* which was",
+          "location": 365
+        },
+        {
+          "text": "i'm not andrew *mccabe* from from oh gosh",
+          "location": 368
+        },
+        {
+          "text": "title is why it's unlikely the *mccabe*",
+          "location": 384
+        },
+        {
+          "text": "andrew *mccabe* in coverage of the andrew",
+          "location": 409
+        },
+        {
+          "text": "*mccabe* investigation there seems to be a",
+          "location": 411
+        },
+        {
+          "text": "into *mccabe* as i write this column on",
+          "location": 431
+        },
+        {
+          "text": "*mccabe* and from this and what seems to",
+          "location": 436
+        },
+        {
+          "text": "indictment of *mccabe* so while conceding",
+          "location": 473
+        },
+        {
+          "text": "*mccabe* especially not anyone on the",
+          "location": 487
+        },
+        {
+          "text": "a no true bill but *mccabe* his legal team",
+          "location": 496
+        },
+        {
+          "text": "four *mccabe* so what he says is",
+          "location": 518
+        },
+        {
+          "text": "the criminal probe of *mccabe* stems from",
+          "location": 526
+        },
+        {
+          "text": "*mccabe* lied in several interviews by fbi",
+          "location": 540
+        },
+        {
+          "text": "charges against *mccabe* now you've seen",
+          "location": 557
+        },
+        {
+          "text": "the *mccabe* defense team that their",
+          "location": 594
+        },
+        {
+          "text": "that *mccabe* is in there on right now",
+          "location": 664
+        },
+        {
+          "text": "consideration or even if *mccabe* is the",
+          "location": 675
+        },
+        {
+          "text": "maybe not related just to *mccabe* may be",
+          "location": 686
+        },
+        {
+          "text": "related to other suspects or just *mccabe*",
+          "location": 689
+        },
+        {
+          "text": "ago for again from bertrand *mccabe*",
+          "location": 726
+        },
+        {
+          "text": "attorneys and spokespeople from *mccabe*",
+          "location": 748
+        },
+        {
+          "text": "witness for *mccabe* well if there is not",
+          "location": 754
+        },
+        {
+          "text": "puts an update update *mccabe*",
+          "location": 782
+        },
+        {
+          "text": "andrew *mccabe* and one has to wonder why",
+          "location": 805
+        },
+        {
+          "text": "witness for *mccabe* and then we had today",
+          "location": 829
+        },
+        {
+          "text": "the *mccabe* report but that wasn't the",
+          "location": 981
+        },
+        {
+          "text": "had done on andrew *mccabe* more than a",
+          "location": 1002
+        },
+        {
+          "text": "why was *mccabe* referred for criminal",
+          "location": 1251
+        },
+        {
+          "text": "asked why he referred *mccabe* for",
+          "location": 1262
+        },
+        {
+          "text": "*mccabe* for criminal prosecution and",
+          "location": 1274
+        }
+      ]
+    },
+    {
+      "id": "hm0W85hSL-o",
+      "segments": [
+        {
+          "text": "*mccabe* but he was fired before he could",
+          "location": 1128
+        }
+      ]
+    },
+    {
+      "id": "HV-vFME-F50",
+      "segments": [
+        {
+          "text": "andrew *mccabe* the number two deputy",
+          "location": 585
+        },
+        {
+          "text": "regard to andrew *mccabe* we will see that",
+          "location": 641
+        },
+        {
+          "text": "between grassley and rae and and *mccabe*",
+          "location": 753
+        }
+      ]
+    },
+    {
+      "id": "hvwOzn5PKpM",
+      "segments": [
+        {
+          "text": "obviously because of this *mccabe* debacle",
+          "location": 105
+        },
+        {
+          "text": "afternoon *mccabe* called the head of the",
+          "location": 151
+        },
+        {
+          "text": "*mccabe* railed that the new york agents",
+          "location": 158
+        },
+        {
+          "text": "remembering that *mccabe* is october 30th",
+          "location": 171
+        },
+        {
+          "text": "leak *mccabe* dressed down the fbi's to",
+          "location": 187
+        },
+        {
+          "text": "fbi *mccabe* and the nypd on september",
+          "location": 253
+        },
+        {
+          "text": "28th 2016 *mccabe* is made aware of",
+          "location": 258
+        },
+        {
+          "text": "deputy director andrew *mccabe* knew of",
+          "location": 286
+        },
+        {
+          "text": "anymore it says it's unavailable *mccabe*",
+          "location": 308
+        },
+        {
+          "text": "so *mccabe* sits on this weiner laptop",
+          "location": 340
+        },
+        {
+          "text": "26 same day *mccabe* and the new york ad i",
+          "location": 427
+        },
+        {
+          "text": "*mccabe* and new york ad ic participated",
+          "location": 447
+        },
+        {
+          "text": "in what *mccabe* described as a hastily",
+          "location": 451
+        },
+        {
+          "text": "eric garner *mccabe* told us that he has",
+          "location": 464
+        },
+        {
+          "text": "that *mccabe* is trying to pin on them new",
+          "location": 476
+        },
+        {
+          "text": "information the mckay that *mccabe* leaked",
+          "location": 505
+        },
+        {
+          "text": "*mccabe* and lynch are admonishing the new",
+          "location": 705
+        },
+        {
+          "text": "here on november 1st 2016 *mccabe* r",
+          "location": 718
+        },
+        {
+          "text": "get this ig report where *mccabe* tells",
+          "location": 781
+        },
+        {
+          "text": "and what *mccabe* tells the ig years later",
+          "location": 802
+        },
+        {
+          "text": "that *mccabe* was being investigated for",
+          "location": 1049
+        },
+        {
+          "text": "bombshell because *mccabe* tells d ig that",
+          "location": 1298
+        },
+        {
+          "text": "*mccabe* tells them that and then the new",
+          "location": 1311
+        }
+      ]
+    },
+    {
+      "id": "i5RW-XXzHtw",
+      "segments": [
+        {
+          "text": "with comey and *mccabe* for years so what",
+          "location": 1222
+        },
+        {
+          "text": "like andrew *mccabe* well then yeah or",
+          "location": 1382
+        },
+        {
+          "text": "comey andrew *mccabe* prieta struck lisa",
+          "location": 2341
+        },
+        {
+          "text": "investigation the *mccabe* investigation",
+          "location": 2548
+        },
+        {
+          "text": "michael horowitz referred *mccabe* for",
+          "location": 2562
+        }
+      ]
+    },
+    {
+      "id": "IG61YMUfKzo",
+      "segments": [
+        {
+          "text": "sorry *mccabe* in his testimony at the",
+          "location": 1039
+        },
+        {
+          "text": "deputy director *mccabe* testifies that",
+          "location": 1601
+        },
+        {
+          "text": "here that *mccabe* alluded to the fact",
+          "location": 1664
+        }
+      ]
+    },
+    {
+      "id": "Igzj0udBvls",
+      "segments": [
+        {
+          "text": "server which would envelop *mccabe* and",
+          "location": 596
+        }
+      ]
+    },
+    {
+      "id": "jYPNWZq_H18",
+      "segments": [
+        {
+          "text": "and if you remember andrew *mccabe* did",
+          "location": 611
+        }
+      ]
+    },
+    {
+      "id": "JyzYMIjanBs",
+      "segments": [
+        {
+          "text": "comey and *mccabe* and struck and paige",
+          "location": 1087
+        },
+        {
+          "text": "told andrew *mccabe* said no dossier no",
+          "location": 2205
+        },
+        {
+          "text": "page or *mccabe* i mean *mccabe* is",
+          "location": 2574
+        }
+      ]
+    },
+    {
+      "id": "km-Gx0Hg-44",
+      "segments": [
+        {
+          "text": "involved here *mccabe* etc we're trying to",
+          "location": 225
+        },
+        {
+          "text": "also the andy *mccabe* text messages that",
+          "location": 296
+        },
+        {
+          "text": "stuff he said that *mccabe* had gone to",
+          "location": 1091
+        },
+        {
+          "text": "now we find out why *mccabe* was with tara",
+          "location": 1110
+        },
+        {
+          "text": "pasca *mccabe* was in there with deripaska",
+          "location": 1113
+        },
+        {
+          "text": "so *mccabe* goes to metaphor or goes to",
+          "location": 1147
+        }
+      ]
+    },
+    {
+      "id": "KmOCQWVesHU",
+      "segments": [
+        {
+          "text": "approached by andrew *mccabe* and asked to",
+          "location": 192
+        },
+        {
+          "text": "deripaska involved with andrew *mccabe*",
+          "location": 268
+        }
+      ]
+    },
+    {
+      "id": "L0sdWF4eG4c",
+      "segments": [
+        {
+          "text": "connected to *mccabe*",
+          "location": 314
+        },
+        {
+          "text": "director andrew *mccabe* and is uniquely",
+          "location": 955
+        },
+        {
+          "text": "director andrew *mccabe* the document",
+          "location": 1825
+        },
+        {
+          "text": "*mccabe* memos over i did a video this",
+          "location": 1915
+        },
+        {
+          "text": "wrote rod rosenstein and andrew *mccabe*",
+          "location": 1921
+        },
+        {
+          "text": "andrew *mccabe* denying they leaked them",
+          "location": 1931
+        }
+      ]
+    },
+    {
+      "id": "Lax37pJP5ac",
+      "segments": [
+        {
+          "text": "sentence in the andrew *mccabe* woe ig",
+          "location": 251
+        },
+        {
+          "text": "the *mccabe* leaks and how does that weave",
+          "location": 1283
+        },
+        {
+          "text": "*mccabe* was the one who referred this to",
+          "location": 1452
+        },
+        {
+          "text": "*mccabe* page struck sound familiar pre",
+          "location": 1470
+        },
+        {
+          "text": "and *mccabe* told the oig they raised and",
+          "location": 1612
+        },
+        {
+          "text": "the president baker and *mccabe* said they",
+          "location": 1618
+        },
+        {
+          "text": "to show it to *mccabe* and baker then take",
+          "location": 1917
+        },
+        {
+          "text": "to show *mccabe* and baker he did not give",
+          "location": 1924
+        },
+        {
+          "text": "*mccabe* forwarded the memo two-page memo",
+          "location": 2434
+        },
+        {
+          "text": "uploaded into the case system but *mccabe*",
+          "location": 2462
+        },
+        {
+          "text": "if the request was coming from *mccabe*",
+          "location": 2757
+        },
+        {
+          "text": "one for paige to give to *mccabe* and one",
+          "location": 2778
+        },
+        {
+          "text": "instructed by *mccabe*",
+          "location": 2818
+        },
+        {
+          "text": "he understood to be relayed from *mccabe*",
+          "location": 2849
+        },
+        {
+          "text": "and baker now *mccabe* and baker i don't",
+          "location": 2851
+        },
+        {
+          "text": "these guys baker assumes that *mccabe*",
+          "location": 2885
+        },
+        {
+          "text": "*mccabe* meanwhile none of that's",
+          "location": 2895
+        },
+        {
+          "text": "from *mccabe* but she gives him to pre",
+          "location": 2903
+        },
+        {
+          "text": "*mccabe* asked her to assemble the copies",
+          "location": 2907
+        }
+      ]
+    },
+    {
+      "id": "LJbp7jg7l0Q",
+      "segments": [
+        {
+          "text": "investigate andrew *mccabe* for his leaks",
+          "location": 190
+        },
+        {
+          "text": "leaves him out however andrew *mccabe*",
+          "location": 748
+        },
+        {
+          "text": "bhante and andrew *mccabe* so if these",
+          "location": 794
+        }
+      ]
+    },
+    {
+      "id": "LKMIQnS5Pcs",
+      "segments": [
+        {
+          "text": "director andrew *mccabe* signed one then",
+          "location": 454
+        }
+      ]
+    },
+    {
+      "id": "LzRxTK4rmXM",
+      "segments": [
+        {
+          "text": "*mccabe* testifies in front of congress he",
+          "location": 3309
+        },
+        {
+          "text": "*mccabe* steps down or gets quote removed",
+          "location": 3351
+        }
+      ]
+    },
+    {
+      "id": "m3lnyzjqWnE",
+      "segments": [
+        {
+          "text": "investigate andrew *mccabe* for leaks to",
+          "location": 690
+        },
+        {
+          "text": "*mccabe* i don't know i i don't know so i",
+          "location": 1073
+        }
+      ]
+    },
+    {
+      "id": "MfJAbIW3BfA",
+      "segments": [
+        {
+          "text": "*mccabe* and eric prints and that's later",
+          "location": 812
+        }
+      ]
+    },
+    {
+      "id": "nC8mScSK1h0",
+      "segments": [
+        {
+          "text": "andrew *mccabe* they were doing a report",
+          "location": 184
+        },
+        {
+          "text": "andrew *mccabe* which andrew *mccabe*",
+          "location": 206
+        },
+        {
+          "text": "to report that andrew *mccabe* was part of",
+          "location": 215
+        },
+        {
+          "text": "that and andrew *mccabe* got pissed off",
+          "location": 218
+        },
+        {
+          "text": "realized that *mccabe* may have lied to",
+          "location": 290
+        },
+        {
+          "text": "so *mccabe* had a special counsel which i",
+          "location": 304
+        },
+        {
+          "text": "that *mccabe* broke and they they",
+          "location": 355
+        },
+        {
+          "text": "mccook *mccabe* and co me completely",
+          "location": 545
+        },
+        {
+          "text": "basically called called *mccabe* and",
+          "location": 595
+        },
+        {
+          "text": "sure i believe *mccabe* there it may be",
+          "location": 605
+        },
+        {
+          "text": "street journal that's critical of *mccabe*",
+          "location": 616
+        },
+        {
+          "text": "*mccabe* was an fbi official who leader",
+          "location": 690
+        },
+        {
+          "text": "that *mccabe* quote played no role in his",
+          "location": 699
+        },
+        {
+          "text": "2015 mr. *mccabe* was running the fbi's",
+          "location": 731
+        },
+        {
+          "text": "brings it to *mccabe* and *mccabe* tells",
+          "location": 760
+        },
+        {
+          "text": "ending up in the news so *mccabe* is",
+          "location": 796
+        },
+        {
+          "text": "24th on the same day as *mccabe* is you",
+          "location": 815
+        },
+        {
+          "text": "same exact day as *mccabe* is on the phone",
+          "location": 843
+        },
+        {
+          "text": "*mccabe* at this point admonishing the new",
+          "location": 976
+        },
+        {
+          "text": "aka *mccabe* there were stories that the",
+          "location": 1025
+        },
+        {
+          "text": "new york guys told the ag and *mccabe*",
+          "location": 1044
+        },
+        {
+          "text": "like the ag and *mccabe* knew that someone",
+          "location": 1235
+        },
+        {
+          "text": "here obviously on october 26 *mccabe* and",
+          "location": 1259
+        },
+        {
+          "text": "ny adiz participated in what *mccabe*",
+          "location": 1265
+        },
+        {
+          "text": "garner *mccabe* told us that he never",
+          "location": 1283
+        },
+        {
+          "text": "*mccabe* indicated to ny ad ic and the",
+          "location": 1301
+        },
+        {
+          "text": "call that *mccabe* was refusing himself",
+          "location": 1310
+        },
+        {
+          "text": "*mccabe* should have been recused from",
+          "location": 1338
+        },
+        {
+          "text": "congress and *mccabe* states he was okay",
+          "location": 1443
+        },
+        {
+          "text": "so *mccabe* states he was asked to leave",
+          "location": 1446
+        },
+        {
+          "text": "comey asked *mccabe* to leave because",
+          "location": 1455
+        },
+        {
+          "text": "*mccabe* and she's likely a very crucial",
+          "location": 1466
+        },
+        {
+          "text": "young fbi and *mccabe* sends a text to",
+          "location": 1545
+        },
+        {
+          "text": "*mccabe* officially recused himself from",
+          "location": 1578
+        },
+        {
+          "text": "lot *mccabe* tells page and the ad opa",
+          "location": 1589
+        },
+        {
+          "text": "the fbi who are adamant that *mccabe* was",
+          "location": 1610
+        },
+        {
+          "text": "before the election implying that *mccabe*",
+          "location": 1618
+        },
+        {
+          "text": "to barrett about *mccabe* telling her to",
+          "location": 1666
+        },
+        {
+          "text": "interviews *mccabe* he tells them that he",
+          "location": 1678
+        },
+        {
+          "text": "talks to *mccabe* he says we had to do",
+          "location": 1711
+        },
+        {
+          "text": "only time *mccabe* says it was the only",
+          "location": 1727
+        },
+        {
+          "text": "august with the pa d ag and *mccabe* so i",
+          "location": 1832
+        },
+        {
+          "text": "about *mccabe* pushing back against the",
+          "location": 1871
+        },
+        {
+          "text": "*mccabe* admonishes two fbi executives for",
+          "location": 1885
+        },
+        {
+          "text": "each received calls from *mccabe*",
+          "location": 1919
+        },
+        {
+          "text": "investigation at no time did *mccabe*",
+          "location": 1927
+        },
+        {
+          "text": "disclose to either of them that *mccabe*",
+          "location": 1930
+        },
+        {
+          "text": "these guys get a call from *mccabe*",
+          "location": 1947
+        },
+        {
+          "text": "*mccabe* calls you and starts screaming at",
+          "location": 1961
+        },
+        {
+          "text": "the story come *mccabe* says he doesn't",
+          "location": 1983
+        },
+        {
+          "text": "he says i told *mccabe* told us he did not",
+          "location": 1988
+        },
+        {
+          "text": "converge so *mccabe* testifies to the oig",
+          "location": 2006
+        },
+        {
+          "text": "unauthorized unless either he or *mccabe*",
+          "location": 2080
+        },
+        {
+          "text": "not have any discussions with *mccabe*",
+          "location": 2091
+        },
+        {
+          "text": "issue with *mccabe* after the article was",
+          "location": 2099
+        },
+        {
+          "text": "published and at that time *mccabe* quote",
+          "location": 2101
+        },
+        {
+          "text": "comey said that *mccabe* gave him the",
+          "location": 2107
+        },
+        {
+          "text": "comey said he believed that *mccabe* would",
+          "location": 2166
+        },
+        {
+          "text": "that *mccabe* would have known that the",
+          "location": 2175
+        },
+        {
+          "text": "*mccabe* lied so many times and was caught",
+          "location": 2246
+        },
+        {
+          "text": "*mccabe* also states that people quote",
+          "location": 2258
+        },
+        {
+          "text": "remind *mccabe* hey we wouldn't know any",
+          "location": 2293
+        },
+        {
+          "text": "we wouldn't know any of that oops *mccabe*",
+          "location": 2299
+        },
+        {
+          "text": "of dis leak the interview *mccabe* under",
+          "location": 2317
+        },
+        {
+          "text": "*mccabe* tells the oig later on something",
+          "location": 2327
+        },
+        {
+          "text": "leak *mccabe* gave now at this time they",
+          "location": 2349
+        },
+        {
+          "text": "indicted *mccabe* had better be indicted",
+          "location": 2359
+        },
+        {
+          "text": "*mccabe* denies having any idea where the",
+          "location": 2397
+        },
+        {
+          "text": "agents are looking at *mccabe* like he's a",
+          "location": 2404
+        },
+        {
+          "text": "you know *mccabe* says i've told so many",
+          "location": 2407
+        },
+        {
+          "text": "interview where that *mccabe* did not",
+          "location": 2428
+        },
+        {
+          "text": "that *mccabe* acknowledged that he'd",
+          "location": 2444
+        },
+        {
+          "text": "their discussion with *mccabe* about the",
+          "location": 2470
+        },
+        {
+          "text": "*mccabe* on media leaks ended abruptly now",
+          "location": 2476
+        },
+        {
+          "text": "how horrible horrible of a person *mccabe*",
+          "location": 2517
+        },
+        {
+          "text": "interview *mccabe* email him a draft",
+          "location": 2532
+        },
+        {
+          "text": "notes taken from *mccabe* to sign so",
+          "location": 2538
+        },
+        {
+          "text": "provided me andrew *mccabe* with a",
+          "location": 2566
+        },
+        {
+          "text": "everything *mccabe* told them in the",
+          "location": 2620
+        },
+        {
+          "text": "but their job is to figure it out *mccabe*",
+          "location": 2627
+        },
+        {
+          "text": "*mccabe* doesn't sign it he ignores it it",
+          "location": 2640
+        },
+        {
+          "text": "person that person forwards it to *mccabe*",
+          "location": 2652
+        },
+        {
+          "text": "happened *mccabe* says the old the i n sd",
+          "location": 2689
+        },
+        {
+          "text": "conversation *mccabe* says to the oig on",
+          "location": 2699
+        },
+        {
+          "text": "*mccabe* tells the oig he didn't know and",
+          "location": 2730
+        },
+        {
+          "text": "*mccabe* as part of the larger probe under",
+          "location": 2796
+        },
+        {
+          "text": "shows *mccabe* the text that reference",
+          "location": 2868
+        },
+        {
+          "text": "page i *mccabe* speaking about the barrett",
+          "location": 2870
+        },
+        {
+          "text": "interviewing *mccabe* under oath on the",
+          "location": 2878
+        },
+        {
+          "text": "exchange where *mccabe* pretends not to",
+          "location": 2898
+        },
+        {
+          "text": "so *mccabe* denies but he told paige to",
+          "location": 2905
+        },
+        {
+          "text": "you happen to know mr. *mccabe* says i",
+          "location": 2952
+        },
+        {
+          "text": "*mccabe* says not one that i recall but",
+          "location": 2970
+        },
+        {
+          "text": "right mr. *mccabe* says because it just",
+          "location": 2980
+        },
+        {
+          "text": "page and mr. *mccabe* says not that i'm",
+          "location": 2991
+        }
+      ]
+    },
+    {
+      "id": "Nj95GFo9wN4",
+      "segments": [
+        {
+          "text": "was in the *mccabe* leak report was in",
+          "location": 981
+        },
+        {
+          "text": "to *mccabe* so there you go now oh ann's",
+          "location": 1132
+        }
+      ]
+    },
+    {
+      "id": "NK3yMiSIWo4",
+      "segments": [
+        {
+          "text": "so here's the deal andrew *mccabe* has",
+          "location": 38
+        },
+        {
+          "text": "work into andrew *mccabe* and what he's",
+          "location": 48
+        },
+        {
+          "text": "andrew *mccabe* on these charges of lying",
+          "location": 83
+        },
+        {
+          "text": "text messages between *mccabe* and struck",
+          "location": 108
+        },
+        {
+          "text": "about how andrew *mccabe* was tanking the",
+          "location": 133
+        },
+        {
+          "text": "*mccabe* was a key component of that",
+          "location": 152
+        },
+        {
+          "text": "*mccabe* got wind of it and he decided he",
+          "location": 154
+        },
+        {
+          "text": "investigation to not do it and *mccabe* in",
+          "location": 170
+        },
+        {
+          "text": "political reasons so what he did *mccabe*",
+          "location": 177
+        },
+        {
+          "text": "investigating this *mccabe* denied it",
+          "location": 193
+        },
+        {
+          "text": "nsd realized that it was *mccabe* they",
+          "location": 201
+        },
+        {
+          "text": "text messages starts asking *mccabe* about",
+          "location": 237
+        },
+        {
+          "text": "them *mccabe* is denying everything until",
+          "location": 240
+        },
+        {
+          "text": "*mccabe* that told me to do this and then",
+          "location": 244
+        },
+        {
+          "text": "against *mccabe* *mccabe* realizes he's done",
+          "location": 252
+        },
+        {
+          "text": "for *mccabe* takes finally after four",
+          "location": 255
+        },
+        {
+          "text": "who else was pitted against *mccabe* in",
+          "location": 277
+        },
+        {
+          "text": "this james comey because *mccabe* said he",
+          "location": 279
+        },
+        {
+          "text": "the entire time that *mccabe* is doing",
+          "location": 300
+        },
+        {
+          "text": "is going on with andrew *mccabe* what the",
+          "location": 328
+        },
+        {
+          "text": "report about andrew *mccabe* he",
+          "location": 346
+        },
+        {
+          "text": "refer andrew *mccabe* for criminal",
+          "location": 353
+        },
+        {
+          "text": "*mccabe* and doing they're sort of like",
+          "location": 400
+        },
+        {
+          "text": "*mccabe* which is is misleading in my",
+          "location": 412
+        },
+        {
+          "text": "andrew *mccabe* on this i think that that",
+          "location": 461
+        },
+        {
+          "text": "today in regards to andrew *mccabe* have",
+          "location": 497
+        },
+        {
+          "text": "lisa page told the truth andrew *mccabe*",
+          "location": 509
+        },
+        {
+          "text": "*mccabe* is imminent us attorney jesse lu",
+          "location": 606
+        },
+        {
+          "text": "charges against andrew *mccabe* again very",
+          "location": 610
+        },
+        {
+          "text": "*mccabe* he would be the first senior law",
+          "location": 641
+        },
+        {
+          "text": "russian interference *mccabe* served as a",
+          "location": 645
+        },
+        {
+          "text": "proceeding with charges against *mccabe*",
+          "location": 675
+        },
+        {
+          "text": "decision i don't know *mccabe* was just",
+          "location": 696
+        },
+        {
+          "text": "faulted *mccabe* for leaking information",
+          "location": 712
+        },
+        {
+          "text": "expressed his pleasure to *mccabe* that",
+          "location": 736
+        },
+        {
+          "text": "to do the report said *mccabe* lacked",
+          "location": 750
+        },
+        {
+          "text": "that's it andrew *mccabe* in my opinion",
+          "location": 802
+        }
+      ]
+    },
+    {
+      "id": "nU3pJ4Hc2Qs",
+      "segments": [
+        {
+          "text": "*mccabe* and carlin and i piece everything",
+          "location": 44
+        },
+        {
+          "text": "discussion between andrew *mccabe* and",
+          "location": 308
+        },
+        {
+          "text": "october 27th because *mccabe* spoke to",
+          "location": 348
+        },
+        {
+          "text": "on andrew *mccabe* and the mid-year exam",
+          "location": 391
+        },
+        {
+          "text": "investigation because of *mccabe* leaking",
+          "location": 402
+        },
+        {
+          "text": "september 28th *mccabe* is made aware of",
+          "location": 431
+        },
+        {
+          "text": "before *mccabe* sits on the information",
+          "location": 445
+        },
+        {
+          "text": "26th *mccabe* and the new york ad i see of",
+          "location": 530
+        },
+        {
+          "text": "the eric garner case *mccabe* says he",
+          "location": 543
+        },
+        {
+          "text": "*mccabe* indicated to the ad i see anna",
+          "location": 562
+        },
+        {
+          "text": "from the call that *mccabe* was recusing",
+          "location": 571
+        },
+        {
+          "text": "about what was in the *mccabe* leaks to",
+          "location": 593
+        },
+        {
+          "text": "*mccabe* was trying to pin those leaks on",
+          "location": 598
+        },
+        {
+          "text": "here *mccabe* and lynch are admonishing",
+          "location": 623
+        },
+        {
+          "text": "*mccabe* accuses himself for many",
+          "location": 642
+        },
+        {
+          "text": "prison knows that that *mccabe* and carlin",
+          "location": 812
+        },
+        {
+          "text": "investigation of andrew *mccabe* for which",
+          "location": 1222
+        }
+      ]
+    },
+    {
+      "id": "OOpjLWnIarQ",
+      "segments": [
+        {
+          "text": "others like jim comey and *mccabe* and",
+          "location": 934
+        }
+      ]
+    },
+    {
+      "id": "oZ6ZfjPVZus",
+      "segments": [
+        {
+          "text": "former acting fbi director *mccabe* was",
+          "location": 2340
+        }
+      ]
+    },
+    {
+      "id": "P3ZrrRQSEjU",
+      "segments": [
+        {
+          "text": "deputy director *mccabe* to discuss an",
+          "location": 116
+        },
+        {
+          "text": "furthermore deputy director *mccabe*",
+          "location": 393
+        },
+        {
+          "text": "that *mccabe* may have flipped",
+          "location": 409
+        },
+        {
+          "text": "looks like *mccabe* might have flipped",
+          "location": 682
+        }
+      ]
+    },
+    {
+      "id": "qTYCtgOr_8I",
+      "segments": [
+        {
+          "text": "then this *mccabe* report that we've had",
+          "location": 718
+        },
+        {
+          "text": "questioning andrew *mccabe* about the",
+          "location": 768
+        },
+        {
+          "text": "was andrew *mccabe* who instructed her to",
+          "location": 779
+        },
+        {
+          "text": "confronted *mccabe* about that the i nsd",
+          "location": 787
+        },
+        {
+          "text": "the fbi and realized *mccabe* fessed up to",
+          "location": 791
+        },
+        {
+          "text": "so mr *mccabe* has been recommended that",
+          "location": 837
+        },
+        {
+          "text": "essentially is what mr. *mccabe* is saying",
+          "location": 850
+        },
+        {
+          "text": "get mr. *mccabe* the ability to go talk to",
+          "location": 866
+        }
+      ]
+    },
+    {
+      "id": "qWgPkGlxWV4",
+      "segments": [
+        {
+          "text": "york sent it to andrew *mccabe* and it got",
+          "location": 55
+        },
+        {
+          "text": "so *mccabe* sits on this likely under",
+          "location": 107
+        },
+        {
+          "text": "information to *mccabe* *mccabe* and the",
+          "location": 208
+        },
+        {
+          "text": "is inside of the oig report on *mccabe*",
+          "location": 234
+        },
+        {
+          "text": "*mccabe* told the oig that during the",
+          "location": 238
+        },
+        {
+          "text": "ending up in the news *mccabe* told the",
+          "location": 248
+        },
+        {
+          "text": "*mccabe* tells us he never heard her use",
+          "location": 266
+        },
+        {
+          "text": "*mccabe* recusing himself there was a lot",
+          "location": 288
+        }
+      ]
+    },
+    {
+      "id": "R2X3ffYdbkM",
+      "segments": [
+        {
+          "text": "tired of the mueller comey *mccabe*",
+          "location": 164
+        }
+      ]
+    },
+    {
+      "id": "r5SBzWlW1_Y",
+      "segments": [
+        {
+          "text": "provided to *mccabe* ryebeck he asked her",
+          "location": 1210
+        },
+        {
+          "text": "to confirm *mccabe* had requested them and",
+          "location": 1213
+        }
+      ]
+    },
+    {
+      "id": "RSjalaT3uCM",
+      "segments": [
+        {
+          "text": "bear with me guys it's the *mccabe* oh ig",
+          "location": 2262
+        },
+        {
+          "text": "october 2016 *mccabe* authorized special",
+          "location": 2339
+        },
+        {
+          "text": "investigation in particular *mccabe*",
+          "location": 2346
+        },
+        {
+          "text": "between *mccabe* and the then principal",
+          "location": 2355
+        },
+        {
+          "text": "it go *mccabe* told the oig that on august",
+          "location": 2380
+        },
+        {
+          "text": "*mccabe* he pushed back asking are you",
+          "location": 2408
+        },
+        {
+          "text": "validly predicated investigation *mccabe*",
+          "location": 2413
+        }
+      ]
+    },
+    {
+      "id": "SGG7C4VWGnI",
+      "segments": [
+        {
+          "text": "fired fbi deputy director andrew *mccabe*",
+          "location": 376
+        },
+        {
+          "text": "his *mccabe* investigation this attack is",
+          "location": 415
+        },
+        {
+          "text": "*mccabe* who at the time was under an",
+          "location": 675
+        },
+        {
+          "text": "report on *mccabe* which has still not",
+          "location": 708
+        }
+      ]
+    },
+    {
+      "id": "siuzAF3wO_c",
+      "segments": [
+        {
+          "text": "that he was very very upset with *mccabe*",
+          "location": 1986
+        }
+      ]
+    },
+    {
+      "id": "SoUIJo6x8xU",
+      "segments": [
+        {
+          "text": "report from *mccabe* and i found some",
+          "location": 140
+        },
+        {
+          "text": "andrew *mccabe* and loretta lynch during",
+          "location": 150
+        },
+        {
+          "text": "andrew *mccabe* said that loretta lynch",
+          "location": 162
+        },
+        {
+          "text": "this ig report on *mccabe* leaking to the",
+          "location": 182
+        },
+        {
+          "text": "email server he found also that *mccabe*",
+          "location": 358
+        },
+        {
+          "text": "into mccabe's leak *mccabe* told horowitz",
+          "location": 382
+        },
+        {
+          "text": "was on the call with him and *mccabe* says",
+          "location": 406
+        },
+        {
+          "text": "office that *mccabe* and loretta lynch",
+          "location": 483
+        }
+      ]
+    },
+    {
+      "id": "tN9XqD3BuH4",
+      "segments": [
+        {
+          "text": "everything *mccabe* fisa clinton you know",
+          "location": 275
+        }
+      ]
+    },
+    {
+      "id": "uLcyWCAzigA",
+      "segments": [
+        {
+          "text": "go over *mccabe* we're gonna go over",
+          "location": 68
+        },
+        {
+          "text": "official andrew *mccabe* hoping to retire",
+          "location": 81
+        },
+        {
+          "text": "basically *mccabe* retired he was",
+          "location": 86
+        },
+        {
+          "text": "laundry list of things that *mccabe* has",
+          "location": 114
+        },
+        {
+          "text": "*mccabe* on thursday made a final pitch to",
+          "location": 133
+        },
+        {
+          "text": "a deadline rapidly approaching *mccabe*",
+          "location": 145
+        },
+        {
+          "text": "*mccabe* the fbi office that handles",
+          "location": 277
+        },
+        {
+          "text": "andrew *mccabe* who abruptly stepped down",
+          "location": 312
+        },
+        {
+          "text": "employee *mccabe* was hoping to retire",
+          "location": 319
+        },
+        {
+          "text": "long made *mccabe* a particular target of",
+          "location": 330
+        },
+        {
+          "text": "discipline *mccabe* will face i think that",
+          "location": 345
+        },
+        {
+          "text": "with *mccabe* and i think that the way",
+          "location": 350
+        },
+        {
+          "text": "sessions doesn't fire *mccabe* it could be",
+          "location": 366
+        },
+        {
+          "text": "sessions does fire *mccabe* it can be used",
+          "location": 375
+        },
+        {
+          "text": "more *mccabe* stuff hold on oh no this is",
+          "location": 734
+        },
+        {
+          "text": "session ways firing *mccabe* the",
+          "location": 742
+        },
+        {
+          "text": "fbi official andrew *mccabe* and his",
+          "location": 757
+        },
+        {
+          "text": "firing *mccabe* over the findings in",
+          "location": 788
+        },
+        {
+          "text": "horowitz his review *mccabe* should be in",
+          "location": 790
+        }
+      ]
+    },
+    {
+      "id": "UoTU7A7dp6k",
+      "segments": [
+        {
+          "text": "*mccabe* from the doj saying that andrew",
+          "location": 49
+        },
+        {
+          "text": "*mccabe* is not going to be facing charges",
+          "location": 53
+        },
+        {
+          "text": "do you put a in andrew *mccabe*",
+          "location": 68
+        },
+        {
+          "text": "found in that ig report on andrew *mccabe*",
+          "location": 121
+        },
+        {
+          "text": "andrew *mccabe* made to the wall street",
+          "location": 137
+        },
+        {
+          "text": "which was a quote from andrew *mccabe*",
+          "location": 156
+        },
+        {
+          "text": "clinton and *mccabe* wanted to get it out",
+          "location": 169
+        },
+        {
+          "text": "*mccabe* so they passed it to the ig and",
+          "location": 202
+        },
+        {
+          "text": "and *mccabe* lied to the ig four times",
+          "location": 210
+        },
+        {
+          "text": "department not prosecute andrew *mccabe*",
+          "location": 280
+        },
+        {
+          "text": "charge *mccabe* with this when they can",
+          "location": 367
+        },
+        {
+          "text": "indict *mccabe* now when you bring charges",
+          "location": 435
+        },
+        {
+          "text": "former fbi deputy director andrew *mccabe*",
+          "location": 521
+        },
+        {
+          "text": "and that something wasn't the *mccabe*",
+          "location": 529
+        },
+        {
+          "text": "prosecution according to the post *mccabe*",
+          "location": 548
+        },
+        {
+          "text": "andrew *mccabe* they couldn't get them the",
+          "location": 582
+        },
+        {
+          "text": "indict andrew *mccabe* and when that",
+          "location": 589
+        },
+        {
+          "text": "into *mccabe* and call me and all of that",
+          "location": 675
+        },
+        {
+          "text": "andrew *mccabe* and look at what they've",
+          "location": 731
+        },
+        {
+          "text": "*mccabe* to go on cnn and complain about",
+          "location": 925
+        }
+      ]
+    },
+    {
+      "id": "uqVPGzLVLtk",
+      "segments": [
+        {
+          "text": "spin-off report into andrew *mccabe* and",
+          "location": 82
+        },
+        {
+          "text": "this leaking that andrew *mccabe* did to",
+          "location": 129
+        },
+        {
+          "text": "doj on andrew *mccabe* and as i was",
+          "location": 141
+        },
+        {
+          "text": "office of the fbi andrew *mccabe* and the",
+          "location": 190
+        },
+        {
+          "text": "of 2016 *mccabe* is made aware of the",
+          "location": 200
+        },
+        {
+          "text": "*mccabe* knew of thousands of emails",
+          "location": 228
+        },
+        {
+          "text": "fbi has it and *mccabe* sits on this for",
+          "location": 250
+        },
+        {
+          "text": "26th *mccabe* and the adi c of the fbi",
+          "location": 430
+        },
+        {
+          "text": "gonna read this really quickly *mccabe* is",
+          "location": 470
+        },
+        {
+          "text": "let's read it on october 26 2016 *mccabe*",
+          "location": 486
+        },
+        {
+          "text": "*mccabe* described as quote a hastily",
+          "location": 492
+        },
+        {
+          "text": "eric garner *mccabe* told us that he had",
+          "location": 509
+        },
+        {
+          "text": "andrew *mccabe* accuses himself from the",
+          "location": 529
+        },
+        {
+          "text": "information that *mccabe* was leaking so",
+          "location": 550
+        },
+        {
+          "text": "gets on a call with andrew *mccabe* andrew",
+          "location": 559
+        },
+        {
+          "text": "*mccabe* tells the ig horowitz that the",
+          "location": 562
+        },
+        {
+          "text": "*mccabe* and linter admonishing the field",
+          "location": 768
+        },
+        {
+          "text": "the winter laptop again *mccabe* work you",
+          "location": 798
+        },
+        {
+          "text": "*mccabe* corroborates eric prints and what",
+          "location": 1040
+        },
+        {
+          "text": "andrew *mccabe* are on the phone yelling",
+          "location": 1086
+        },
+        {
+          "text": "evidence that andrew *mccabe* sits on this",
+          "location": 1345
+        },
+        {
+          "text": "lynch and andrew *mccabe* are on the phone",
+          "location": 1352
+        },
+        {
+          "text": "so now we have andrew *mccabe* gone",
+          "location": 1539
+        }
+      ]
+    },
+    {
+      "id": "v5B_i3VuPHo",
+      "segments": [
+        {
+          "text": "remember the *mccabe* the clinton",
+          "location": 630
+        },
+        {
+          "text": "adviser there there the *mccabe*",
+          "location": 634
+        }
+      ]
+    },
+    {
+      "id": "vrCZyXe0XMM",
+      "segments": [
+        {
+          "text": "*mccabe* is fired *mccabe* should not only",
+          "location": 2528
+        },
+        {
+          "text": "the swamp i agree about *mccabe* have you",
+          "location": 2537
+        },
+        {
+          "text": "came out in regards to *mccabe* and rae",
+          "location": 2542
+        },
+        {
+          "text": "*mccabe* unless he left - there was one",
+          "location": 2551
+        },
+        {
+          "text": "this on purpose guys *mccabe*-grey look at",
+          "location": 2601
+        }
+      ]
+    },
+    {
+      "id": "vVhHmj0Ov4k",
+      "segments": [
+        {
+          "text": "that andrew *mccabe* claims to you know he",
+          "location": 427
+        },
+        {
+          "text": "when that happens andrew *mccabe* writes a",
+          "location": 444
+        },
+        {
+          "text": "andrew *mccabe* thing so there was a night",
+          "location": 1377
+        },
+        {
+          "text": "*mccabe* had dropped his wrongful",
+          "location": 1386
+        },
+        {
+          "text": "*mccabe* under this foia lawsuit then we",
+          "location": 1629
+        }
+      ]
+    },
+    {
+      "id": "vxVTXKkTkMM",
+      "segments": [
+        {
+          "text": "they run back and tell *mccabe* and struck",
+          "location": 232
+        },
+        {
+          "text": "*mccabe* has been a part of the on an",
+          "location": 619
+        },
+        {
+          "text": "that *mccabe* is under a grand jury",
+          "location": 733
+        }
+      ]
+    },
+    {
+      "id": "vxwJqPBY_g8",
+      "segments": [
+        {
+          "text": "*mccabe* directs directs his basically",
+          "location": 250
+        },
+        {
+          "text": "with you about *mccabe* and the 302s what",
+          "location": 401
+        }
+      ]
+    },
+    {
+      "id": "VZsK9kz7rHA",
+      "segments": [
+        {
+          "text": "*mccabe* or whoever it is inside or peters",
+          "location": 126
+        },
+        {
+          "text": "past few days and weeks andrew *mccabe*",
+          "location": 464
+        },
+        {
+          "text": "this warrant andrew *mccabe* and rod",
+          "location": 472
+        },
+        {
+          "text": "andrew *mccabe* and this is in june of",
+          "location": 500
+        },
+        {
+          "text": "renewal the document that he and *mccabe*",
+          "location": 826
+        },
+        {
+          "text": "sokeep *mccabe* in mind as this has",
+          "location": 832
+        },
+        {
+          "text": "leaves *mccabe* and lynch i also believe",
+          "location": 1249
+        },
+        {
+          "text": "surrounding *mccabe* and rod rosen stein",
+          "location": 1319
+        },
+        {
+          "text": "york times report on *mccabe* memo may",
+          "location": 1332
+        },
+        {
+          "text": "with andrew *mccabe* about secretly",
+          "location": 1386
+        },
+        {
+          "text": "andrew *mccabe* through his attorney",
+          "location": 1420
+        },
+        {
+          "text": "on the statement basically says *mccabe*",
+          "location": 1436
+        },
+        {
+          "text": "but again looping in both *mccabe* and rod",
+          "location": 1552
+        },
+        {
+          "text": "behind the scenes in regards to *mccabe*",
+          "location": 1564
+        },
+        {
+          "text": "the *mccabe* case and it's serious",
+          "location": 1573
+        },
+        {
+          "text": "someone setting up *mccabe* by leaking his",
+          "location": 1580
+        },
+        {
+          "text": "special counsel is *mccabe* trying to tank",
+          "location": 1583
+        },
+        {
+          "text": "rosenstein trying to further tank *mccabe*",
+          "location": 1590
+        },
+        {
+          "text": "did *mccabe* flip and start singing and",
+          "location": 1592
+        },
+        {
+          "text": "june signed by both *mccabe* and rod",
+          "location": 1966
+        },
+        {
+          "text": "because this *mccabe* rosen stein thing is",
+          "location": 1991
+        }
+      ]
+    },
+    {
+      "id": "w_2u4uyq-Q0",
+      "segments": [
+        {
+          "text": "rosenstein andrew *mccabe* james comey all",
+          "location": 2339
+        }
+      ]
+    },
+    {
+      "id": "whZcsQbiK4Q",
+      "segments": [
+        {
+          "text": "indictment an arrest of somebody *mccabe*",
+          "location": 190
+        }
+      ]
+    },
+    {
+      "id": "wKCtvpanR_c",
+      "segments": [
+        {
+          "text": "andrew *mccabe* was really serious about",
+          "location": 760
+        },
+        {
+          "text": "meeting that *mccabe* had with deputy",
+          "location": 770
+        },
+        {
+          "text": "conversations with *mccabe* and the fbi",
+          "location": 781
+        },
+        {
+          "text": "lawyer assigned to *mccabe* lisa page",
+          "location": 783
+        },
+        {
+          "text": "lover and the top lawyer *mccabe* about",
+          "location": 814
+        }
+      ]
+    },
+    {
+      "id": "wq64dbpEuz4",
+      "segments": [
+        {
+          "text": "comey and his deputy director at *mccabe*",
+          "location": 1068
+        },
+        {
+          "text": "*mccabe* james comey rod rosenstein bruce",
+          "location": 1330
+        },
+        {
+          "text": "about the *mccabe* struck meeting or",
+          "location": 1598
+        },
+        {
+          "text": "this stuff which will prove what *mccabe*",
+          "location": 1637
+        },
+        {
+          "text": "former deputy director andrew *mccabe*",
+          "location": 2435
+        },
+        {
+          "text": "*mccabe* notice all the rest these people",
+          "location": 2478
+        },
+        {
+          "text": "including blank struck massa *mccabe* pre",
+          "location": 2496
+        }
+      ]
+    },
+    {
+      "id": "yjBJBt_OhWE",
+      "segments": [
+        {
+          "text": "gonna talk about *mccabe* we don't even",
+          "location": 499
+        }
+      ]
+    },
+    {
+      "id": "zGwMYp4DV7Y",
+      "segments": [
+        {
+          "text": "this is andrew *mccabe* and accepting",
+          "location": 229
+        },
+        {
+          "text": "together and you're *mccabe* ex deputy",
+          "location": 1815
+        },
+        {
+          "text": "deputy director andrew *mccabe* for",
+          "location": 1825
+        },
+        {
+          "text": "criticize *mccabe* but mr. mccabe's",
+          "location": 1839
+        },
+        {
+          "text": "either this month or next mr. *mccabe*",
+          "location": 1877
+        },
+        {
+          "text": "horowitz isn't talking *mccabe* isn't",
+          "location": 1928
+        },
+        {
+          "text": "*mccabe* motive outlined in pending ig",
+          "location": 1943
+        },
+        {
+          "text": "*mccabe* struck page rebecky and court an",
+          "location": 1985
+        },
+        {
+          "text": "prior reporting showed that *mccabe* along",
+          "location": 1992
+        },
+        {
+          "text": "messages showed *mccabe* and crew that",
+          "location": 2019
+        },
+        {
+          "text": "need for at andrew *mccabe* to recuse",
+          "location": 2137
+        },
+        {
+          "text": "*mccabe* should recuse however taking that",
+          "location": 2145
+        },
+        {
+          "text": "counsel to *mccabe* and didn't see the",
+          "location": 2152
+        },
+        {
+          "text": "fbi assistant director andrew *mccabe*",
+          "location": 2193
+        }
+      ]
+    },
+    {
+      "id": "zZMOXdh0frU",
+      "segments": [
+        {
+          "text": "rosen stein didn't trust *mccabe* and",
+          "location": 699
+        },
+        {
+          "text": "find it interesting *mccabe* opened up",
+          "location": 736
+        },
+        {
+          "text": "wrongdoing in this case and *mccabe* was",
+          "location": 752
+        },
+        {
+          "text": "deripaska *mccabe* actually saw oleg",
+          "location": 2193
+        }
+      ]
+    }
+  ]
+}

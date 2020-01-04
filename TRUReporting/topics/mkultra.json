@@ -1,0 +1,831 @@
+{
+  "indexed": "_3_9jNnqSLs,_84VsnBpaBc,_93RNA5Ha70,_Awvc8QlDz4,_AxZQUqtJsA,_beFZDjQdW4,_doyaNsa-pQ,_eg0ITfj_qQ,_fY9I8Nv7Lw,_H1YgL0RznE,_jNixS1mbhw,_kjF5FIvGZw,_lCYmAZo7sw,_OomAKMJPOI,_pHvjJVPcN8,_VV3NsbBwrM,_wm27SsFDUI,--KGd8543KY,-A1QXJPxNKk,-AUYiNIOBIY,-bt0XdlECmo,-C_bR9GeDYg,-c86Aow016c,-HkaT32jmhw,-HlG0W6-vmE,-IrgjkkM6lQ,-jHFOTPlZaI,-jmPwHHE89E,-oQyw8s0S84,-sA7wkR8UB0,-tHxUIgbg7M,-UKFQbdZpPY,-ZZAkZpTXIQ,00CCQDR3fL4,00Hf7lUrPyc,04FOeZBZxc0,04ycuYtnGas,07BCgoDxBVE,0aFUemaJFVY,0E7DwReRt04,0huECwWFIsk,0I-VTk_zTqc,0kmuhPreeYY,0lVpfRdqKA0,0N8m2YJnPuo,0QO_xmRyaNk,0tERS6Uq4qA,0ujo6SQJ6LQ,1_9hcn4t38I,1A3qJWY3_L4,1dYaLq4QLQY,1E_KfRzWu0Q,1Etm_hTRVeA,1M9dy5DMI9E,1V4JzFqKaJc,22AU1lrH7Ls,2CP8xTCgtfE,2d5qlKFsZzA,2hW8LHTkStA,2j-qy0AIt7Y,2LufOwLiBis,2MiU_vQHuhQ,2PrXFlocDYU,2REUfU97jhs,2Ve67t_uOf4,2VYEiCqkRTI,2zi0PNq4bkk,30bOiqbusQ0,335wkvmX5vg,368sHIBHpAo,3aOeVRKLb4c,3DMaiyiS1Lg,3f4jGulfRwI,3g7lq9jPgWA,3U_ap4R6vdo,3Uj1_qSvQdM,4-_B_e26qMc,4-a_MvhVnC4,4-K7fN5Jk7s,400edNy_ni0,40ToCc712RQ,41HmC9YpFeo,43X77-0Mxk0,4eC5ShxBcFU,4FhT3SbVFis,4GaYnV7Fh8U,4I_5Onwb7Ss,4nh69vhSftk,4NMb5c7hbGQ,4UWUZQ0yrNI,4vf5cD_3FCY,5fRiEMjJMfw,5Gu5Z8hoE9c,5poquW251MU,5rSvzWuZKfg,5U4ZPlJjJdw,5Zw7tKJT9GM,6Dl7BqoQw7g,6FaHx01j-5s,6g0gWvCnyyY,6G3ESBGC_4k,6kxLuR_hc2g,6lIwy_rUGC4,6Md_28o7Y4U,6MUonL3L6Xo,6o4PE7BZEtk,6ophCz8lTCE,6Px52BhaPXo,6zPiSKXu20Q,7-39lGBwGf4,7425763TuLU,78Sy0Z0VE8w,7d5rqWzxayk,7Kvt9DCqM4E,7NumZVPxeUY,7TDCozqNzfo,7wdZ3Vcn63E,8-P2j0E4qmY,88yfd3QkbWc,8bFizNFJ65s,8gUUCnDw7bQ,8i_Pa6_mnMk,8I01RmblRoU,8j96g3074yQ,8rCRN8p-qaE,8vm-WMalEyA,92zIM-H_OlQ,9CSDk0QrrbI,9dnWjr2dwKE,9EbZMn-XIEM,9FB7DLvib8c,9HNRi_RNFJU,9HPGIpbOjLY,9hu6rgAp9RU,9i-fexWiOqM,9qdCetVazSw,9tIaPchdlx8,9UL4-qJIOIs,9W8NVIuNGfg,A_GyZMHraMw,A-L4oM1TviQ,A3T2487JWiQ,A5u9XLWx7O0,AAr6KmurWHk,abm5ilF5UEc,ABnoHIMGEtM,Adlk-Fd9Z3c,ahYQzAvhNjQ,AjoBJmFp23k,ajpeQ26EMVg,ameA5eNkxEk,ANc2YPRntzo,aouy1eOFILs,aQ3l5YiK2eA,AQ8yuh8tfKo,As9Fp3euKP0,aSaAYVvwTqI,ASj7Z_A6VvQ,ata21yb9Bnw,av_I5CbyFHM,AvSJQiTPr8U,AvssE-w5oes,aWx0FDWC_yQ,ax-fLACWZVQ,ax706dVg8Y4,AZE2QGS27Zc,B14_7XPCjGY,B1IA6YZ5B88,b9ATGOEE2Ak,Ba8wxZLp_c0,BAZP3_t6_3k,BBFwDktGjgU,bdhoF0WHkjw,BEh8VFQCFc4,BfpHBMhsPb4,BGBjHI5vEms,BGnTSKjizC8,BIyn24hd4_w,bk7ldBrVG6o,bKc6RQd54aQ,bmzZIhsUfO4,BNIFaLBvku4,BqwQEPGN54c,BrihPR8lAoI,BRnrQnLdWbU,BRxT9wJT67o,BttAEQuo6Qk,bXZvpE22ZFM,bY6kNlrb7lQ,C-7r58C0qiA,C0_JjTASDto,c0JKggUZ028,C6Q-GCX62ms,c8rd7yx1Asc,CArCwfHHacQ,cAY147Txzxg,CBv1Iy_E5lI,ceJRYVThNcs,CGLcVJUDwk0,cJNuWm8m3-Q,cJzaQc5diYs,cLYAbfJMQMw,cmvFQHqzYnY,cnkl7yadh5E,cO44KG0AMiY,CoXobUWxHXI,CrDv03cDYL0,CSeG9anxjpo,cugV1VK6jV4,cWwr5WpypZs,cZzJIudDGHI,db0BMqNo0Fg,DbZ0D6E7u4w,dcD2esCoW7o,der_2oCAjiM,dg3ISnKD6dA,DHxPqxERYX8,Dl6Cxeh_nyY,dLkmXjXZmMA,DOfyCq5xvZY,DQ0-oJrRr3Q,DRrAZZ0Iuyg,DRu4kDanXk0,DSCgUtdjUrY,DtN8mf93Te8,dTUApE4DU10,DUSRyUwm-gM,dVB86fl8t6M,dx7gs-krRjw,DXsYZZ1mzG4,dzAhAflB6s0,DZCdgZfalD4,E-KewVNO38M,E6E05M89Wd0,EDublqR_5JU,eGbYnP1Et30,EgNpxiRrPfw,EHa8I45qMMc,EhZ7udzTJ5o,eJ-otgb_tg8,EKc1-XVqxyI,ENkWUPcpOE0,EoiuSDSivh4,eP6hz4wmwFc,ER4g2Tb-HbA,ErCxjqBe6AU,EVU9bfki-LU,EwDzzFdFO1Q,ewMNDqpA4mA,EYCCXXkAPQA,F-BRTD3Csco,f-kKEyiVVwo,F6IYn4iGwjI,F9BclaKfoac,FcElJxMypMU,fcUXyrphxgA,Fi5OkAjc-vc,fib2sf26pOM,FIYTR5uoMNM,fNSUxHEPHtk,FPZQdrCD97U,fQ3X7xMypg8,ftWB7T3EVGU,fUc1es3e9-s,fUIVoeryTsI,fUW7hfoDEp8,fVgAazqQarI,FysQzQeY_2U,g0mnw3iFKrE,g0td3qUP-Nc,G63GWS9GxgA,GCgI2VkLr3w,gfrgrfzcuyY,GGcBiGMSPcI,GgzoQZAO6r0,gMMr8m85HQw,GQbjkSj7F-Y,GqeHEmbYy2A,gu0IbFpVdf4,GuO3hW25FKE,gwgOJbOgX9g,gXm_ysbwlSU,GXqikbjZydc,gzMCu9C85rM,H7USwoa5QqI,h9sI48iPRFs,H9zOSlnVz3A,HaGG5aApgTA,hby1lvnYnK8,hdeoc0uMPYI,hEgGt1t7Swk,hf_gZSt0kps,HgsDem-itYw,hj1p2Ni7h2I,Hk00p90xnj0,hLmfGwfjk00,hN7nl4JqClA,hqKg14dEylQ,Hr5x3sbooaw,hRIO6bWbfzk,Hshq59C2vM4,HVnUANzdJlI,hwFa7lTr0vs,hwus0Rr7K1s,HY1_ErPhaK8,I-P2lMBMdHE,I0KRAnljhBY,I0M73_jCMow,I3PAPJ6bsq8,id7jH-rT8Dk,IE_FgjUAnmQ,Ie4vh_uPrFU,IEX5TOERLgo,IgiJ8D3RoV4,IHVG77ZucUU,iJ6IqFUIhSo,IJo-J5O5QZE,IkR1zohQ9VE,IMO8zFbAu8c,iNHsUBsbRLI,InoVWK8a5H8,ipCkwQDxaiM,IQCa2padKIM,ISxeMvt3s4U,iTw-9Q3QGNA,ityzooj6Z9w,IvH-D2hhqyk,iZgbikWE7yA,j1KcS2TccCw,j5lsFf3cV9E,j7jtYUployI,J7WeQuZU-sc,J8a11EilEEk,JEFH6j-UIQA,JLgJq-b8aEI,jlK9AJcFB0A,jNVJSIuRb8Y,JR-MzJ6fDaE,jr3vL6Rmm7M,jYVdKNEZUHw,JzvUX4bFLAQ,k1h2g6fsFv0,K2qBcmowSQE,K4IUGJ3DHFM,K5gGbRYD6Ro,KcsnuRYS5tk,KCTu3nv8xE8,KFb4nHmut2s,kfF3pAHXj30,kff9xWbBCnw,Kg85wki662E,kI-t3mGWWQs,kQr4-Yxpz44,kQW9_GYatgs,kTPxvk1B0Hc,KWr5uJuObwU,ky2WjqFhjj4,l0bWGKuNsCI,L2V-1dQ0n-0,L6WDBPfLuYY,Lbo_WcwcFmU,lcg_yoIS1Yw,Lep0WYoe7Sc,LGLUpqfUuSQ,lHJn-XwhkpU,lHL-6-qYzQY,LHM4GEHUZBE,ljhVxvAbEhE,lJzeDEQ6J9Y,lkKlLAOTJPY,LNIFpbcg17o,lOqhbDn7RCY,lQNRIFpWuQc,lqpTLDqewPI,lsDYimKBWzA,Lsv1GMI7Ck8,LV1pXXsI89M,lvKy5X1zA8A,lXNYG17twtI,LYGkGtuCEb0,m_6bftMf-8w,M2Q_-pADhm0,M4w_xAOaGD0,MAo0HuH-dAU,MbUaLBD2cPo,mFLifAJZoAw,mftoxsrzl9w,MGFrzWikMsE,MHjNOIJB9gk,MIdOiZVZq04,MiI61UMtf70,mIZBPh3j_oY,MK6ZJ8Y7_H0,MKlHF7hjMrk,MmC4KQ5ScNw,MO0gwMl-0CE,MotM4c-nQCk,MQwsfj_ixMQ,msPHFMRkBiw,mVm_I7RZraE,MXAovKmB5WM,mY2TUO5kYCY,Myd3GRR65YY,myIQChpgtN8,mzB-9GoYb3Y,N24HKBWgwy0,Na0dF5v2y_M,nED5_AV8URQ,netc5DITbWA,NF1lpvcpWog,nflPhrkaSEk,nIUAOJQqMwk,njM4no6DIrU,NK6btC5LWAk,nL6EXjus6-o,nM09tCiEeb0,NNF1_g3HYYo,nPEGU2nR2dM,nSuGzA_p7yk,nTMFqovdXno,NVKSDQ8EhBY,ny_CoYXrcew,nZQlcxHjRuo,o1-igj3nuBE,O5S6Ej4K3Co,o7NRAlhjZks,OAEcYUOdGWo,oeIk7YrMXfs,oeWLBFiwB08,OfRZMNN35CI,oFxMHPaEKig,OG6qckEf1Eo,Ogn0lUtVB30,ok5Lw6UKVWA,OkRqFqfznRY,oTP78AH4vk0,OVZcBaBLAJM,OzSQPUNEX1Y,p-qXg_JfUUs,p-SzWzFERN8,p4vsdIhVLRE,PbD4kFH2GSw,pBod4miQ1po,PCImEJv37ZA,pEE6wSvIdH8,pFc4Sohzxyg,Pgb6pamGX9M,phSS8PbGX1E,Pi6FijU1qJw,pN8qgKZSxtg,PQFSD72x0Ic,pRyuXPFqxqA,pt1M-kl-atg,PtgW7xTG428,PXcEVOzCLJM,Py11WiNhEvU,q4DDiKob_gY,Q8NhENBNyyk,QeuDOlRTHB0,QF2rJkUKMrY,QhgNItzDV54,QKANTV1X-04,QmYwSijaoik,qRjUM6Fx7ww,r_JL8vekSoY,R_tIG5zyJ0g,R-6SIciSc4c,R1_b-Pf3KNw,R2dDhC-0etM,r2GFtcsNhTU,R5jcM1Zbm30,r6twJUsuSOI,R7Ar8OG3yuQ,rda35BHlMUs,RHKbO1krLQs,riiiqXFtw5c,RJVYmN0eAuI,RKx5ANX93fE,rLN6mMplynI,RMMzPYcKVpA,RoFZBVPep6s,rqF_NJF-1h8,RQPOQB8upmw,RRnSeDNg368,rrOKtWMvHQg,RRxTeVBpEZU,Rvnnpt0CYFE,s39MfWPR07c,S6ZgTlSGF8Q,S9lyhm543Sc,s9XPvUNIvsw,Sa2nt1B9JRQ,sb1c2oG54gw,scZT-cIPwkw,SFWSnU8dolk,SipMJtAXmJY,SIQDBcg8thM,SLlRyO6_xrI,SqJmoJANdrY,SsqfiC7M7Xc,swnXUdVp3Dc,SxlUgNSLqvo,T-rKedrhRyY,T4SaRz8JME8,T9RgEmAwhgI,TaouWXb0TOA,TgZrDSK3HGg,TIei7eta0uw,tM8Qd2nSMs4,TOGn8EBE7Q0,tP1dSZ4JDDQ,tQR__3LXOyE,tR-G27nl0zk,tR4LuV0lI5w,tRrvGSBqEnI,tsfFNiqDU5w,TTZ4ssYx7_M,TW0svE7k-yg,txtwyCMxpFc,TYcslztwl7o,TyNxd8tdMW4,tyxT-ZZnXUg,U_7e9KeYQ3Q,u2LPCIl5QMI,U5PQ2P0SXcU,U8ba9Dndv5M,uBmS5RboEs0,UE_6el_A3pw,ugXxmj3thCA,UhON5Y1TdCU,UhxdIJe1H0U,uHYiItvKEbc,ulaxUszIqYM,UN6ry1_HJis,uNeMTlW6n3s,UoXSkZZ7HTg,Up__8B8eMhw,uq_XBsBOanc,url3_C-M2S4,uX13WbNqlBU,UY3WagHWKCs,UYYMId_dlao,uzDHRbsZyzQ,v-5pNb0dSeo,v-7GiZjDJ_g,v75UxqTSd-U,VaaZ-HAptPw,VBqbbPcIwkA,Vd4za_x25zU,vDxIOTBR3AE,veCRl2F8JY4,Vh7dkYT_8Tk,vIk-VfKu7w0,vKC-7RdORbw,VMdIpZfmpRk,vn10WEyJ_C8,VNbFPI6evs4,VNvGLN7JB4I,Vqjcvl7OL_I,vsOoRbj5QtY,vuAa0Pn0z_k,VUb6IFyt-Q0,vuCmDgARMJw,VvB-9_zxEBA,VVGtkZD9TTU,vWKwO6XnBNE,VY2Nu-MZseQ,VY8HIV2tpLw,VzUVq1K6If0,w_bSXes3tCc,w1FgKkHknsg,W1JPXx4eckg,W1mtswcthVI,W46qLjiG6bE,W6sLZKBHAN0,wACjGwOYhBQ,WalYLpN970c,WBaZACYxsrA,wD66LPDIP20,wHCbeGaIG-8,wnAwPHXM9dg,wndjUTqAQgM,WnFXguaTIc0,wOJfbj4fCAg,WQfFVkWsfbo,WsP5mGcicWM,wvRjXXxowDk,Ww26APxpkJo,wWhS3QxK1wY,X0yOJO_Xq0o,X4yw71zwXCs,X6wfhEtWwyw,xAsEWayiYxM,XATzwG7VuiU,XBfY_vBDwWE,xC5t2QnzdgE,xcMo6bqu_xM,XfytSneFuow,XiV-gQtp71M,xMhsDlXJaG8,XMMKDHO9cDI,xNSqW2yOIzQ,xP1vq13Cudk,XpCHXFTmPY4,XpxhWQniTUM,xqa5koaMZN4,xtKRHEf4Qxo,XUJYVYMivj8,xuUifNY5Tb0,XVlnFC-iKME,xxLDbO_L3No,y7GsaCb87dw,yb2PreneQAM,yFBSt-ZUYvQ,ygE4GdXfgbs,yIQxcL6ayD4,yJ6pkGapoUE,YkQ8EIpvv4Q,ylnzIxBxkfA,ymS-qCPTgzQ,YnwfHRu_dsk,YTRfNb6HTkA,Yu6P4YYW0vs,yvjv45AjEI4,ywNsn7mkDKg,YyrXeXIzzZY,z3n6wC6HsXM,Z5Y49GjEPqg,z6FoTfoznUI,ZdUNq3UAQvw,ZGU-d6Ie7Bw,ZitpbhRc9pc,ZJArfdL13CQ,zjffrWDqrTw,ZKAJFutc098,ZKPKvVQ6F6g,zKQy0x_bOIY,ZLN7QmFf-7g,ZLsueURVgkI,zmYleuo1UjM,ZPNKcrhIFDg,zqNtRBF4bt4,ZrBZdi00St0,Zrjz_9qqKHU,zRnr5QcUqCQ,zV2LxHqOq-I,Zwfv2PVt1uw,zXPzz0FtjC4,zzVXx4mxt18,3fUXewJ5G70,p3x-cOMdhVI,IKkdg3u4Ud0,lp_zbwVefFQ",
+  "topic": "MKUltra",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "1M9dy5DMI9E",
+      "segments": [
+        {
+          "text": "some *mkultra* shit like do not i don't",
+          "location": 4203
+        }
+      ]
+    },
+    {
+      "id": "5rSvzWuZKfg",
+      "segments": [
+        {
+          "text": "under a spell from *mkultra* from how we",
+          "location": 183
+        },
+        {
+          "text": "with *mkultra* pdf from 1977 qed also",
+          "location": 740
+        }
+      ]
+    },
+    {
+      "id": "5Zw7tKJT9GM",
+      "segments": [
+        {
+          "text": "they use through *mkultra* i think this is",
+          "location": 827
+        }
+      ]
+    },
+    {
+      "id": "6Px52BhaPXo",
+      "segments": [
+        {
+          "text": "shannon of voodoo also owns an *mkultra*",
+          "location": 928
+        }
+      ]
+    },
+    {
+      "id": "7425763TuLU",
+      "segments": [
+        {
+          "text": "*mkultra* guys' project deep dream we all",
+          "location": 724
+        }
+      ]
+    },
+    {
+      "id": "7wdZ3Vcn63E",
+      "segments": [
+        {
+          "text": "*mkultra* if you want to take it that far",
+          "location": 338
+        },
+        {
+          "text": "like child of *mkultra* he was back in the",
+          "location": 1824
+        },
+        {
+          "text": "bit of *mkultra* i believe they even show",
+          "location": 1846
+        },
+        {
+          "text": "say *mkultra* nietzsche and it takes place",
+          "location": 1850
+        }
+      ]
+    },
+    {
+      "id": "8j96g3074yQ",
+      "segments": [
+        {
+          "text": "*mkultra* training them through",
+          "location": 564
+        }
+      ]
+    },
+    {
+      "id": "9W8NVIuNGfg",
+      "segments": [
+        {
+          "text": "*mkultra* a couple months back if you want",
+          "location": 2260
+        }
+      ]
+    },
+    {
+      "id": "A_GyZMHraMw",
+      "segments": [
+        {
+          "text": "*mkultra* mind control assassination in",
+          "location": 414
+        },
+        {
+          "text": "stanford for cia *mkultra* mine",
+          "location": 545
+        },
+        {
+          "text": "stanford cia *mkultra* college position",
+          "location": 576
+        },
+        {
+          "text": "might *mkultra* mind control then or now",
+          "location": 582
+        },
+        {
+          "text": "mind-altering *mkultra* connections to the",
+          "location": 588
+        },
+        {
+          "text": "his cia funded mind-control *mkultra*",
+          "location": 1206
+        },
+        {
+          "text": "standard university the *mkultra* mind",
+          "location": 1231
+        },
+        {
+          "text": "*mkultra* program on mrs. lange to target",
+          "location": 1248
+        },
+        {
+          "text": "*mkultra* for the cia and fbi not only",
+          "location": 1400
+        }
+      ]
+    },
+    {
+      "id": "AAr6KmurWHk",
+      "segments": [
+        {
+          "text": "for *mkultra* so i guess they have stopped",
+          "location": 829
+        }
+      ]
+    },
+    {
+      "id": "aouy1eOFILs",
+      "segments": [
+        {
+          "text": "according to some of these *mkultra*",
+          "location": 2391
+        },
+        {
+          "text": "to know about *mkultra* you could just",
+          "location": 2682
+        },
+        {
+          "text": "story of *mkultra*",
+          "location": 2686
+        },
+        {
+          "text": "those that to all the *mkultra* victims",
+          "location": 2754
+        }
+      ]
+    },
+    {
+      "id": "aWx0FDWC_yQ",
+      "segments": [
+        {
+          "text": "this is some sort of mmm *mkultra* effect",
+          "location": 1069
+        }
+      ]
+    },
+    {
+      "id": "b9ATGOEE2Ak",
+      "segments": [
+        {
+          "text": "and he is one of the *mkultra* victims",
+          "location": 869
+        },
+        {
+          "text": "are in mind these *mkultra* people know",
+          "location": 1071
+        },
+        {
+          "text": "*mkultra* people are saying that bono",
+          "location": 1120
+        },
+        {
+          "text": "*mkultra* victims are not coming up here",
+          "location": 1924
+        }
+      ]
+    },
+    {
+      "id": "BBFwDktGjgU",
+      "segments": [
+        {
+          "text": "they also were in hollywood in *mkultra*",
+          "location": 1714
+        },
+        {
+          "text": "psyops exist and *mkultra* things like",
+          "location": 2463
+        }
+      ]
+    },
+    {
+      "id": "C0_JjTASDto",
+      "segments": [
+        {
+          "text": "first *mkultra* victims to come out along",
+          "location": 2549
+        }
+      ]
+    },
+    {
+      "id": "CArCwfHHacQ",
+      "segments": [
+        {
+          "text": "just some kind of like *mkultra*",
+          "location": 1072
+        }
+      ]
+    },
+    {
+      "id": "dVB86fl8t6M",
+      "segments": [
+        {
+          "text": "clockwork orange *mkultra* lolita ped",
+          "location": 761
+        }
+      ]
+    },
+    {
+      "id": "EwDzzFdFO1Q",
+      "segments": [
+        {
+          "text": "obviously *mkultra* just the same thing",
+          "location": 146
+        }
+      ]
+    },
+    {
+      "id": "F-BRTD3Csco",
+      "segments": [
+        {
+          "text": "*mkultra* a washington dc restaurant that",
+          "location": 152
+        }
+      ]
+    },
+    {
+      "id": "fQ3X7xMypg8",
+      "segments": [
+        {
+          "text": "about to go crazy *mkultra* is out there",
+          "location": 380
+        },
+        {
+          "text": "how about all those *mkultra* people",
+          "location": 1175
+        }
+      ]
+    },
+    {
+      "id": "fUIVoeryTsI",
+      "segments": [
+        {
+          "text": "can somehow somehow maybe do *mkultra*",
+          "location": 2389
+        }
+      ]
+    },
+    {
+      "id": "g0td3qUP-Nc",
+      "segments": [
+        {
+          "text": "to try and get *mkultra* conditioned",
+          "location": 1131
+        }
+      ]
+    },
+    {
+      "id": "gzMCu9C85rM",
+      "segments": [
+        {
+          "text": "known as *mkultra* spidered out into",
+          "location": 868
+        }
+      ]
+    },
+    {
+      "id": "HgsDem-itYw",
+      "segments": [
+        {
+          "text": "that's a *mkultra* thing you know i think",
+          "location": 2516
+        },
+        {
+          "text": "*mkultra* people and that whole her having",
+          "location": 2523
+        },
+        {
+          "text": "the *mkultra* victims have all said and",
+          "location": 2603
+        }
+      ]
+    },
+    {
+      "id": "hN7nl4JqClA",
+      "segments": [
+        {
+          "text": "*mkultra* to me right right he was 55 and",
+          "location": 1166
+        }
+      ]
+    },
+    {
+      "id": "I0KRAnljhBY",
+      "segments": [
+        {
+          "text": "almost kind of makes me think of *mkultra*",
+          "location": 480
+        }
+      ]
+    },
+    {
+      "id": "IkR1zohQ9VE",
+      "segments": [
+        {
+          "text": "that sounds like *mkultra* to me",
+          "location": 298
+        }
+      ]
+    },
+    {
+      "id": "iTw-9Q3QGNA",
+      "segments": [
+        {
+          "text": "probably through *mkultra* are some sort",
+          "location": 903
+        }
+      ]
+    },
+    {
+      "id": "jlK9AJcFB0A",
+      "segments": [
+        {
+          "text": "guarantee it over there under *mkultra*",
+          "location": 1377
+        }
+      ]
+    },
+    {
+      "id": "K5gGbRYD6Ro",
+      "segments": [
+        {
+          "text": "*mkultra* to me insults denigration and",
+          "location": 605
+        }
+      ]
+    },
+    {
+      "id": "KCTu3nv8xE8",
+      "segments": [
+        {
+          "text": "just like *mkultra* you see a coca-cola",
+          "location": 808
+        }
+      ]
+    },
+    {
+      "id": "LHM4GEHUZBE",
+      "segments": [
+        {
+          "text": "it's because they *mkultra* her to doing",
+          "location": 2126
+        }
+      ]
+    },
+    {
+      "id": "lJzeDEQ6J9Y",
+      "segments": [
+        {
+          "text": "*mkultra* victims that talks about a",
+          "location": 1728
+        }
+      ]
+    },
+    {
+      "id": "MiI61UMtf70",
+      "segments": [
+        {
+          "text": "absolutely brainwashing *mkultra* style",
+          "location": 617
+        }
+      ]
+    },
+    {
+      "id": "mIZBPh3j_oY",
+      "segments": [
+        {
+          "text": "is part of *mkultra* well this is when",
+          "location": 643
+        }
+      ]
+    },
+    {
+      "id": "MQwsfj_ixMQ",
+      "segments": [
+        {
+          "text": "children well they're using *mkultra* they",
+          "location": 786
+        },
+        {
+          "text": "using *mkultra* through i believe through",
+          "location": 789
+        }
+      ]
+    },
+    {
+      "id": "mVm_I7RZraE",
+      "segments": [
+        {
+          "text": "perform *mkultra* on victims and",
+          "location": 958
+        }
+      ]
+    },
+    {
+      "id": "Myd3GRR65YY",
+      "segments": [
+        {
+          "text": "the *mkultra* this time you know and some",
+          "location": 813
+        }
+      ]
+    },
+    {
+      "id": "nL6EXjus6-o",
+      "segments": [
+        {
+          "text": "rapture *mkultra* controls abductions fake",
+          "location": 694
+        }
+      ]
+    },
+    {
+      "id": "oeWLBFiwB08",
+      "segments": [
+        {
+          "text": "falls into step with all the *mkultra*",
+          "location": 789
+        },
+        {
+          "text": "was described by one *mkultra* victim but",
+          "location": 1191
+        },
+        {
+          "text": "they bring these kids into the *mkultra*",
+          "location": 1542
+        },
+        {
+          "text": "imagine if someone's making you *mkultra*",
+          "location": 1822
+        },
+        {
+          "text": "souls that's what this one *mkultra* guy",
+          "location": 2601
+        }
+      ]
+    },
+    {
+      "id": "p4vsdIhVLRE",
+      "segments": [
+        {
+          "text": "there it's basically it's *mkultra* in in",
+          "location": 876
+        },
+        {
+          "text": "not the definition of sheep *mkultra* i",
+          "location": 906
+        },
+        {
+          "text": "to *mkultra* look into all that stuff that",
+          "location": 1093
+        }
+      ]
+    },
+    {
+      "id": "QmYwSijaoik",
+      "segments": [
+        {
+          "text": "the brainwashing this is the *mkultra* of",
+          "location": 756
+        }
+      ]
+    },
+    {
+      "id": "R-6SIciSc4c",
+      "segments": [
+        {
+          "text": "*mkultra* what white rabbits are why",
+          "location": 174
+        },
+        {
+          "text": "about programming through *mkultra* and so",
+          "location": 1207
+        },
+        {
+          "text": "of *mkultra* because we're awake everybody",
+          "location": 1234
+        }
+      ]
+    },
+    {
+      "id": "RKx5ANX93fE",
+      "segments": [
+        {
+          "text": "you know the *mkultra* uh i can't think of",
+          "location": 1752
+        }
+      ]
+    },
+    {
+      "id": "S6ZgTlSGF8Q",
+      "segments": [
+        {
+          "text": "control target subject *mkultra* mind",
+          "location": 1047
+        },
+        {
+          "text": "monarch pollinator plant seized *mkultra*",
+          "location": 1130
+        },
+        {
+          "text": "*mkultra* programming but i'm sorry i just",
+          "location": 1323
+        }
+      ]
+    },
+    {
+      "id": "tQR__3LXOyE",
+      "segments": [
+        {
+          "text": "people the *mkultra* victims from all",
+          "location": 279
+        },
+        {
+          "text": "lot of the *mkultra* victims have a lot of",
+          "location": 299
+        },
+        {
+          "text": "*mkultra* victims are saying that they are",
+          "location": 982
+        },
+        {
+          "text": "wait a lot of the newer *mkultra* victims",
+          "location": 2086
+        },
+        {
+          "text": "these *mkultra* victims say some of them",
+          "location": 2371
+        },
+        {
+          "text": "these *mkultra* victims they are able to",
+          "location": 2514
+        },
+        {
+          "text": "because see these *mkultra* victims they",
+          "location": 2519
+        },
+        {
+          "text": "these *mkultra* victims are saying some of",
+          "location": 2582
+        },
+        {
+          "text": "they call it in the *mkultra* program the",
+          "location": 2599
+        }
+      ]
+    },
+    {
+      "id": "tRrvGSBqEnI",
+      "segments": [
+        {
+          "text": "going to *mkultra* and they're gonna go",
+          "location": 1082
+        },
+        {
+          "text": "project imitate *mkultra* the cia's",
+          "location": 1371
+        },
+        {
+          "text": "in 1973 the 1963 report iming *mkultra* by",
+          "location": 1417
+        },
+        {
+          "text": "okay project *mkultra* the cia convinced",
+          "location": 1469
+        },
+        {
+          "text": "of their ongoing project *mkultra* in",
+          "location": 1479
+        },
+        {
+          "text": "forty years of the fifth estate *mkultra*",
+          "location": 1590
+        },
+        {
+          "text": "*mkultra* was a success and went in to",
+          "location": 2205
+        },
+        {
+          "text": "longer called *mkultra* that was the",
+          "location": 2211
+        }
+      ]
+    },
+    {
+      "id": "ugXxmj3thCA",
+      "segments": [
+        {
+          "text": "of *mkultra* satanic ritual abuse this guy",
+          "location": 532
+        }
+      ]
+    },
+    {
+      "id": "Vh7dkYT_8Tk",
+      "segments": [
+        {
+          "text": "as *mkultra* ss officer and physician",
+          "location": 599
+        }
+      ]
+    },
+    {
+      "id": "vn10WEyJ_C8",
+      "segments": [
+        {
+          "text": "who they are anymore under *mkultra* all",
+          "location": 755
+        }
+      ]
+    },
+    {
+      "id": "Vqjcvl7OL_I",
+      "segments": [
+        {
+          "text": "has something to do with *mkultra* or to",
+          "location": 1625
+        }
+      ]
+    },
+    {
+      "id": "WBaZACYxsrA",
+      "segments": [
+        {
+          "text": "programs such as *mkultra* recall",
+          "location": 863
+        },
+        {
+          "text": "leaves out only one name *mkultra* and",
+          "location": 1805
+        },
+        {
+          "text": "*mkultra* division specializing in",
+          "location": 1818
+        },
+        {
+          "text": "nexus that gave us *mkultra* project",
+          "location": 2097
+        }
+      ]
+    },
+    {
+      "id": "WsP5mGcicWM",
+      "segments": [
+        {
+          "text": "themselves and look these *mkultra*",
+          "location": 760
+        },
+        {
+          "text": "*mkultra* victims that a lot of scientists",
+          "location": 2579
+        },
+        {
+          "text": "a lot of these *mkultra* victims into",
+          "location": 2628
+        }
+      ]
+    },
+    {
+      "id": "XiV-gQtp71M",
+      "segments": [
+        {
+          "text": "*mkultra* pizza gate pedo gay no more neon",
+          "location": 40
+        },
+        {
+          "text": "on *mkultra* and found reference to the",
+          "location": 598
+        },
+        {
+          "text": "her book our life beyond *mkultra* which",
+          "location": 1060
+        },
+        {
+          "text": "on to list a number of known *mkultra*",
+          "location": 1777
+        },
+        {
+          "text": "thing people forget that *mkultra* isn't a",
+          "location": 1891
+        },
+        {
+          "text": "in a kiddie kindling club his *mkultra*",
+          "location": 2067
+        }
+      ]
+    },
+    {
+      "id": "xP1vq13Cudk",
+      "segments": [
+        {
+          "text": "so they're using *mkultra* with it - and",
+          "location": 1589
+        },
+        {
+          "text": "tattoos is this part of that *mkultra* is",
+          "location": 1705
+        }
+      ]
+    },
+    {
+      "id": "xuUifNY5Tb0",
+      "segments": [
+        {
+          "text": "illuminati *mkultra* and then breed for",
+          "location": 448
+        }
+      ]
+    },
+    {
+      "id": "y7GsaCb87dw",
+      "segments": [
+        {
+          "text": "cue also she knows about *mkultra* in",
+          "location": 1098
+        }
+      ]
+    },
+    {
+      "id": "YnwfHRu_dsk",
+      "segments": [
+        {
+          "text": "definitely *mkultra* proposed from what it",
+          "location": 1716
+        },
+        {
+          "text": "they're able through *mkultra* through a",
+          "location": 1733
+        }
+      ]
+    },
+    {
+      "id": "YTRfNb6HTkA",
+      "segments": [
+        {
+          "text": "get into is the *mkultra* aspect of people",
+          "location": 288
+        }
+      ]
+    },
+    {
+      "id": "Yu6P4YYW0vs",
+      "segments": [
+        {
+          "text": "brain washington probably *mkultra* and",
+          "location": 2425
+        },
+        {
+          "text": "this one's for this this one's *mkultra*",
+          "location": 2762
+        }
+      ]
+    },
+    {
+      "id": "ZitpbhRc9pc",
+      "segments": [
+        {
+          "text": "think about that *mkultra* right this this",
+          "location": 507
+        },
+        {
+          "text": "cia created the project *mkultra* a series",
+          "location": 910
+        },
+        {
+          "text": "show terry takes part a mill in *mkultra*",
+          "location": 934
+        }
+      ]
+    },
+    {
+      "id": "ZrBZdi00St0",
+      "segments": [
+        {
+          "text": "that through a signal *mkultra* i mean",
+          "location": 1200
+        }
+      ]
+    },
+    {
+      "id": "Zwfv2PVt1uw",
+      "segments": [
+        {
+          "text": "your were of they go all *mkultra* with",
+          "location": 2957
+        },
+        {
+          "text": "*mkultra* really wow",
+          "location": 3302
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,985 @@
+{
+  "indexed": "__lGfKxA0WI,_-_MVJecq5I,_5WkbucPT4g,_ec7XMfirg4,_EqneJRgSe8,_idzf18MYXs,_Ne214s756k,_Ob8jo-qOCU,_q5-lvNqF8Y,_TPUfVabVHU,_tRUka84Q10,_UMxGoem_cE,_YS92pFld0Y,-_4Za6eoYwY,-0DjA_r32uQ,-3F6SZZIT-E,-5M7Y-zFyZ0,-9msE7-ydts,-Avsxw6BrhI,-b8zWS3tty4,-e5ABbWTn8M,-i-6mNaKI3I,-icWyKwjrY8,-kDAK81lyaY,-kYE2w6y-GA,-MYXqXNhcnc,-P8dkAqUKZY,-tSHN-cRXo0,-VRexocuLyU,-zsJy_pc_gQ,0-8SzdsEPn0,047r18PmzXg,06ZhNoUqwA4,0C27jD9e-j0,0ICCjllfcD0,0jspiMXND2A,0kkMEbbFd9M,0NUQEdAWVkQ,0q_eYZ-zjys,0SJGTnXKJLk,0th1OKXNQXY,0thRJXOyyOs,0VW3c_f1WOI,0Ytkx1pvnL8,1-v18VEV4Rg,18k-mw0lGZ0,1atlaAzWtj4,1FoSp-tBfp4,1Qa_cX1DPn8,1s9fsICUfOw,1WmbX3JQa0c,1ya6QF21RjE,1ZoQGfCIQP4,22knD94PYNw,23GkaHyU2R4,23Zi93zyS6U,24o5bLbjYh0,29VWyFZAo98,2J-isPoaOe8,2MEzlpSs3hI,2qRm-XvaYGk,2vQA-V9OnxY,2XVtrBvxoNQ,3_9MzitOhpg,3-sR3LmB0N0,305W5z9yzW0,32HzhZpqqHs,32nTGjvWF9c,34kHft924rA,3cgcmRKlIhU,3ciusVGxdno,3E_KWnG6gO8,3fi1bx4oWOE,3GvhthG2rXo,3iT9_AqKX2M,3mCWwiYSQsM,3n_fTHOHmP4,3VJvZsz9VQk,3Vpaplt92is,3WDtVeSSyrU,3WzJtUe634M,3XT99f5rZkY,3YdbQS2xw0E,40cx-g-mfDk,41qO6bukotY,4aR7zbZf3pE,4ATvSzS-TLU,4dX3v4Z4aec,4fS6egD9cSc,4mNbB0RTuoI,4MXimasATsA,4nk3rY194h8,4oXIn88QFbc,4qQd8Qu7aPM,4VCgU1v0c3I,56hnR-UeVbI,59IbF_o4Xxc,5flC3-UkdyU,5PhM32xlVEs,5RLxQOvZxXs,5St08kicLiU,5uzjLst8w68,5VFOltHRXbM,6_wyHLXHqx4,60xrsFvDYYk,6Ezxw-UNmQI,6foOgmaZN-s,6kESQU65fUA,6KttPC8JV3s,6o54Y7dhOus,6PsL7aVI12U,6sbgm3s49BM,6sC4YqrrbsQ,73cggmTCclY,7a8EAuTwhdU,7d3A9Wi1xu0,7drP1GmKuhA,7HQEEo9pTxI,7kzKO982UIQ,7OUm208GUDs,7UT-kOjOka4,80z15a0xsUQ,81p3jRVXGk4,8gkGfhtpurY,8pa8Er939dg,8QiuuwivwsM,8z6EDkIocXI,91aT7JIOIbY,9gYGBZ6wUIE,9hqxfV040oQ,9K-4Jc2l-7U,9lbn3bkROBc,9lgC6A9CGqY,9LwjAgU_2hc,9w_UO-KJccs,9xhpctWntoI,9YBPFZ6r5nY,9yIsVlJ2qAY,9zB7TNiGuDw,A4-cSwxHsV4,a4jwV9NnySU,A52PfmoHm8I,a67Ukzg63u8,A7HbMpBAg8c,A82praOPfpo,AaP-PP8-KGk,aAzQwARAo28,ABM5Oj2s6eI,aC12-gepI3U,aCfOGluhEKI,aDPMNOgOz4E,aDUDC92PxcU,AJ_U54u6gbE,ajiBcgtAY-w,aJWZ_APGg6A,AKPMK0xaRN0,AmbKxQ51VWc,aN9TllOemSA,ANDq9-ttO-w,Ao2abBxOiLY,AOParRtlvFQ,ApHsdbvYgFA,aqGYpuYdbOM,Ar3JvKPGr40,ARwagwGekv0,AuJjdL3A0Wc,AvcEuGghWQk,aWGr7i2-IYA,AwzaAL1pDXQ,aXwILTOVL0M,AyLUG-qQcCA,B5_naGkaBDg,B5MFHmezpn8,B5mo-Rnwm4s,bbAaX9B5ncY,bbpmtRc18WQ,BC_VRjt8gvw,BcZjAF2oFEE,Bd0NHLMVTAQ,BFuaMj35qAo,bG3PLtnHSuc,BGt8AVBwAQc,BLJVjp0lq4g,bmipWlYsyEM,bMWIDBnA6Z4,Bn2OlX_4C4Q,bNHR5T64ooQ,bNMvlOzCsZk,Bozlwr1uHco,BpeOtb7CWeE,bPVLncDuirE,BR9EIDuUBJQ,bTFNebYIotU,bYRSIwwnCFU,bzAYF7yEn7Y,bzCEAKmxlVs,C_h2RLZEGEk,c1C7epr44bw,c7Yfc_JZAaU,CCLJZ-bM01Q,CDZhS3BfdB0,CeXQ15A9BSA,CIkVvgIT6qs,cKGw_Hrtajc,cKObBT3BQ4A,CksmGxdCvPQ,cLcHOtY9fgk,coYoIINOWcQ,cpAeoTwKHlc,cpPgoi7zUjo,cu1homOW9CE,CunzrKChTpI,CX6apttsGjs,CxaPpbC3pgA,CXbRscylFsY,CYE1-7NSG2g,cyjt9Vm0imo,D-va4Jpkt38,D-y5ALLiCZ4,D3zc2JmlHK0,D4AkLrH0WtI,D8mzSBBfnNQ,D8RUia2q5wA,daON-Y2Ph5w,DCkhkkb2nqM,DdiM5lA-05c,ddZfJCoq65o,DeEBJcmrjAU,dh_NJhuVafY,dHHqYCCujKY,DiRI7rhc4qE,DJJw71TSho4,dJspwk8huY4,dKaqjJzl0vg,DksI8ZPmBNE,dlZUFvOqJeY,dNI6tUGGJNM,dONKuAjf26Q,dos0E9blpHw,DsDBNF7mhqk,DSqcbzBojYk,Du5Cit3oe6w,duZHG7VDNm4,DxGp_peYB_A,e6gS2_fX0oY,e6mIdK0LLWk,e8AyslO62b8,e8xXVMiChuQ,E9n2iFMyXjQ,EcbwKNO6TBI,eERaZvdF6Ms,ees6El-Jay0,ejBAqhxqAkQ,EK0R7sdxAFQ,ekJ4hKREY8U,eLy1XqX9IcU,En-VTreZMTs,F3oAIzyo0HQ,F4IPqNACpvI,FAhsY5AIWWY,FDEmEvwZtrM,fHohiZp5hGc,FJGnynqfiCQ,Fo9T0LNhNqQ,fOQPFgF5Etg,FPUae6qsjdw,FS65Eef4z7o,fSwdVMLq8zI,FuBVeoPBd0U,fWjIv0WgyqA,fWk2XKmiQOI,fXA4SlMx-Mg,Fz5fZ_7pia4,G2ZwwI5fN0E,g57p8aQQSbY,G5RiRuFIh8Y,g90iVaKS8Mc,gCaHEfyXkA0,gdEzIz7ievE,gDlgmkVKpy0,GDx66bXgYq4,GFEth1i97yY,gG4fzaWuo9w,GhikRA2no60,gJ7o1StrKv8,Gk2tr29fY6Q,gKGT2jlVrgI,gkMB1_gooM0,gkO-A-sYsH0,GmuQx9AiYD4,GN4nmRCU0AY,gojwzzPJQrg,GrWwOG5yFFM,GThX5ssVBn0,GUip6dZpKEs,gUkB5Kk4WAA,H1FABkrnIaE,h6koxkXAJLU,h6y5TxpDvbs,h9dW3QCrYso,hA31PrCznjw,Hb187lnYh0o,HgE2EqazY68,hhPRDd4gOEI,hIrbIOaAUxg,hKdsv2EbSSo,hl-FK4t_9lA,HLRFTyNBlFY,hLumnOkZynU,hLWMbjtpLn0,Hm1iTIa7rFk,hMhDNxC-EB4,HMpv5DpVVUY,hMQTN9L1dBE,Huj55Cm9qH8,hUouIgbrNZY,HWjAwmGq654,HxhtJ-1kd5k,hy9Uo864i5g,hZGSNKUFjQk,I2-S22FiEvg,I2t1cPgCvJo,I2zRq3kdLbk,I3pn7Xex-Ks,i3rp0Uim-0o,i4AnsQlVTvQ,I5h76-o1Kjw,i8VDK89xXzg,I8VIDULc_jQ,iAIDKPNVjzU,ifJ_GtRJ5qM,Ig7fshISKmk,igDMQaECoSw,IifnpOcm0b4,ik-J2hrNaWo,IKpl4TeHwPg,iOLlT7CbqKs,iPX6pJ1dD1s,IS-CvxLX47Y,IsG3gQIRxno,IsjWF9k7TZE,iTFkB2iXkgI,iTFXxHtlImY,iu9vMZwMqgI,IUcqrB04ZpE,IuIhXyjMG28,iUolMe2Bu-M,IuVzHVFtFIE,iwCYGrXqmqw,iwIfxOwYNOE,IwvvrAh-JyA,ixHuaqf211Y,iXPDVq2lGsc,j6boJmmzNcg,j9gG0WZWO2M,jaInrf7dB30,jal0jAoFV70,Jcekm05d-so,JD4r7qP0OLw,jEgmVdV6HBE,JeGwCPRojJo,jgHK6JZonJM,JLPKO3AKA14,JMN2uWdknac,jN-MkK8djcY,JNaC6eDgjAk,jnUZD1wnBn8,jR_FxV3DYyU,jS-yK_ueKZw,jSZnoRobYTE,JT-aith5f5E,JvaI4JCd5ig,jZ_tr0NnNjE,k2bZBA1A82U,k2MXyXKRlN0,K2TOaYHNhDs,K3kiPpMhKkQ,k3m1P3Vie6s,k55kWdrN8hw,k9LVltxQF2Y,kan3dn8Q8nA,KbWsgGeTrb0,KDVsepSqmys,KgYgMWFqbEc,kHxWvaMOwhM,Kl3MyuzCdRs,KM6DTC_i-8s,kNNz1UEwF-E,KpFP8X1JTiI,KPj--UF1T0k,kRGV4cIdWwM,KSP24qYeWgs,ku6qyUwUgWo,KVb-rUXG6h0,KW1hgV9CBqk,KXHpsXQV82g,KXW0hS3aOjA,L-4ADrZak_4,l0PDi1KDi1w,L1mLdTih8gg,L4Sa4dArQUE,L61XF64Ls8E,l9qBVI4SVP0,lb46GsmPTsI,ldX0CQ2UUfI,LFlKG-VVzMc,LInNbS1JErM,LiU5TfehWW8,lj8AH-4ajRw,LjzWwM9Y9zg,llnr6CG6lHM,Llr69yow55Y,llsND2qpTjM,lNKXqkyE2NQ,lOGKAbcAVzE,LQ4NioOxuGM,lUOYOF9DuSs,LwTvS9v15LE,LXCTMl_Jp9M,LygxI2VGhDU,m_PowDSDjEE,m1HAZ0ESYD0,M1ODHcuO0V0,m2kffLdykTs,m30mwu-9WW0,m3193w4W8Po,m5p9p9LBEpM,MATnFsqiC7Y,Mc5wHbV6irw,mCy59eLFjZg,McZuVVn7fEw,miQPk7qxSvs,Ml1Ys-sDe4o,mlmAUPNPev0,mLZkwKOueVI,mMVX1iGgRac,MO8yy324jyk,MpiqVbdFnlo,mPovmVmAgXs,MsBWU2CFf-U,MUyBpTbvDmw,N-BsO-mirZQ,N-Nsni2kalY,N0l4oFEKoCY,N37LrIj7a8E,N4MwW69zjdk,NbUtbE4Zpoc,Nett68JXMUk,NFBFDRSsaU0,nfDm-SuYSrQ,nhR65A2Cz1U,nJ5B8GnH3mE,NJf-Tr3BrqI,njWcrYwundg,NObMClb6nMY,noiATviQJ3Y,NoLKqBPGGLQ,nPRGWjUYGow,nPtPHMYmnsk,Nqbj_4nIAiA,NqL7EeYTd9s,NS200QxWq7g,nsUd370-n9Q,Nt4ug94a134,NVIEhqdvMCo,NVRVSzP0rFU,NVUbej8exEk,NY7B_THWsM8,Nzx4XSf_fAI,O_R4bM7ONJk,obm0AKIypPI,OCzJwGE7RTY,OdS-XmHla-U,OdXjpK_tLRg,OE_u4IbopVo,OGL_5cu0F-M,OgrLw9IX-Ns,ojYZBeCwYis,oK2ZWHTdbpA,ooHxX3whFXA,OOxgnEI8_NI,oReGR3Bjjmw,oSZzclsh00Y,otE6dhCgsJc,Oun53CRXyeI,OwECoLGRl68,oX7b3YzRNXk,ox9yzjeHt3s,ozbHMNhYe0A,oZz9CJ9K8MA,P0cawbGyBxM,p0Qy24DXfdY,P12Gc4WmCak,P3jy8S0P-2w,p6_gLv5qy8E,p6GmDJEkOQk,p6wFKOTyR60,P8xmUD4Gmrw,PA9MTquQya0,pAK-a8Op8KI,pauS_rhaYO0,PBiBq_DiHmo,pbjkl0DwxHs,Pg21pJPDzEU,phbygYipE-g,Pi8_BZtYNzQ,PkeO8SN0cN4,plJqp67-iX4,PNsZI-uZH7I,PsQlxu6iOzI,pt17lUpcskk,PtAxf8A1Zco,ptvgcLZ3HOw,PvWDJd2UYT8,pwM9WH8pqaY,PWMXacQWEjs,pyMrzxZBZZQ,pZ5q5wUI1-Y,pZhHd9KT2lk,q0IR8IqKZ18,Q1nmx353lDo,q2ItOTBF1ys,Q4MG607MDz4,q6hnQoB_BlI,q78RNxcI38U,q7I8sj_3rlM,q7prMUoyMEo,Q84zuHjjuww,Qa2bfVP6ChQ,qB9zc5VAanc,QC7qRbcWsN0,qcEDt4YOkS8,qCmySBiZXVA,qdwN5mt9V2c,qFumeKZX_MA,QJaNPlhmdSM,QK6Y2tnFIAw,qlFnlzOoFgo,qNurdjNB-rw,Qo2GL5T8T_E,Qq339b2xOrY,qRKU3XXIwlI,qSFeOuQEXXw,QSMC7VnqOnQ,QtYci9jXct4,QuVpIqeSRnU,qwbX5au3Iuw,qWhpDyoLyR8,qX2Z7mLBM1k,qZMy5wog24o,qZZGyHrnsQM,R_iWc7_vQ14,r-vKLD9F61M,R1g3eyyM590,r1IYwxp0NNs,r1pXJkMaAmc,RCPgq96ku4k,rdE4NEIZACI,REcAj2PLMu4,RenafscRgUY,RgdXwexLI_Y,RGFh5qOWU3U,RLczNzWBbpE,RmZj7uATNFM,rqks6sKCmDc,Rt85IKjQ9hs,rUpElK5Qw3E,rVrthFN9dnI,rX0dkfDOO1s,rxMOShu0yQk,RZf9IVaRgdo,S2U7ncJQ000,S4mKQajGJl4,s6H86oQEC2I,SaR5pCeCjao,SAwrlpHFmOc,sBy_LmO3b7k,SePTbZOh8iE,sHUgXraPhAc,siBW29AUMrw,skkII0awwFM,sKMZRv9JY_A,sLv3F7kLpB4,SovJjIjmI6M,sR5B-vb3Fi0,svK1ajIeprU,svwSKZ926yY,SvyN0PlWwkM,swc_HIr-8WA,Sx3ElJlX7wQ,SxPNu1XMYKA,sxWWB5aKNk8,T_mJ1awyakY,T3TRP5tX3T0,T5IM3P9Md-4,t6dwa21eo_M,TCtPeZP1H0g,td8PwMAtpQI,TdNo4qfgAb4,TeFw8eqcLco,tfW6YjVSx0U,Tg0_AZbm71E,TgzkblYi9pg,THy-FwvnIqQ,tJjx9eVGzSY,tK7YaJnYETw,TKK1o-pPPkQ,tkLyxIo8Cqo,tkm-n8lbhLg,TKOI_wF6Rn0,Tr5IR4SqKcA,TsjX9SPfvSA,Tus8Yc2qNXc,TX1rZO2bLJ8,u_apd9SGqLc,U1GOoEoYLy8,u1gZGn0l8y4,u3TgwapRzSA,u9zCkZgwoik,UA8VNiOraJI,uaXp0CBucos,uJn58OP3GEI,uJYAdCT7xFA,uKCq7HfZh9A,UKfHVu47LXo,Up-MRtsG4Tw,UpaXSxM07to,urRt-Yju_SU,UrzdhfUMR6k,UsuA0HSRXzo,UuJpA7lXi7g,uUsLnKlWMkU,UVea--jSv1A,uvYdZu80X9Y,uWFJruvCPhc,UwVr2kwMjI0,uxDmAVpZ91Q,V-8xYjEosOY,V4OPmN3e8F8,V59pKIXUQuM,v5G6fZkyhXg,v6JLwp0aFpc,Vafm-ZaLAyI,vafXYoDY5dw,vcqHF8DDsNk,VfelKh4yN9g,vInE2aOTFdw,ViODeAbI2IQ,vK3bX5D1ysc,VKhRSDIFJK0,vL7VfteARhQ,vLnzuy_aeGQ,VLxlCXAuo08,VtMhFvMTyHQ,VVsAZ0AGHeo,vZDynmvvgWg,w_A3W-OJyNw,W0APO4axfn4,w0OSb7FbXas,W7UmZWUWBMQ,WB_PkYN9MFI,wCcjEszzrTI,wdwWgzAq48E,wdXHxEEAvps,wg5sukd6E6Q,WHSd5tVWq1I,wjeEg2yoJbM,WKfsgQLVsHk,WlZQhQXwYTI,WmhFYQnlKB4,wNgdMwL7isA,WOmDWYRAtiA,WsnaqvLhEUk,wu0Utsff6Jo,WvCBdE6rolk,WwBj0YnLtX0,x1EXDDlmrVU,x1UII7bCsvQ,x27EZLRmoAU,x4XfpmZxDq0,Xe8yEypTfNA,XfNnvWPlprc,Xg7s8fovfh8,xKxi0Bbl_Fs,Xl5iO-2wzq0,xLDnc1Vm99w,XMo_G2k5Wso,XobWx6C6lJs,xQVu3ywd2RU,XRABi40G2T4,xS-hT1sfvfs,Xtk7ntK7k14,xU1ilgRmqsk,xUDwyRTojUM,xXRUfka1XFM,Y31yR524zWU,y3LgzaKBw2w,y3OVColWu-g,Y8DPHUnnvXU,YaMWl4cmqkw,yb_kKBcdsRc,ybgD2ibYB0o,YDS7nKcT3rk,yEf7XF-JNy4,yf8ObyPk568,yFQEK_KaTMA,yIh9oqXg4JU,YiLWFF__qiM,YIPBQ3O8Wr0,yK2UAmF7gYA,ym22gqkQmUA,ymm3YfCfVUs,yOGL3BrXZlA,YpPXlDhdkOg,YSc4GkdMm-E,ysHQziNaMOo,ySHvJqNfN7I,ySSnEYdnsEM,ytA3-R4Fi4M,yu7cOa_9gN0,yVjAH8Wg-hk,ywKQGnLaYdk,Z_nveKGRnsI,Z5o33xspXi4,z5obz0z7rdo,z7s8UaWeshs,Z8oojkEH6Eo,z9GTRwjpZLo,zBBzw6WImlY,zCKlkgpTrXo,zdehlx8vy4U,zffLUSbaqlw,zGk_J9B9MDw,zgK4F6NW32s,ZgOL1h0-8Ok,ZGsWdjqtO-w,zgU0j8HGfX4,zIU-AuvMwqU,zjqEsdevnaU,zKar6awuy2Q,zoQmiHuW8nc,ZpqZoQBWXVo,ZpXeRJcgZlU,ZqMTDLT6akA,ZRISi-Y-X3s,ZseKL2q2S-E,zUxgy98UTp4,zw8yzCjmYcI,zziC-o5xumc,ZZTz8nYZ6vA,hj7ubtDDtik",
+  "topic": "Iran",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_YS92pFld0Y",
+      "segments": [
+        {
+          "text": "undervalued so it's it is an *iran*",
+          "location": 539
+        }
+      ]
+    },
+    {
+      "id": "6_wyHLXHqx4",
+      "segments": [
+        {
+          "text": "hit *iran* south korea and around the",
+          "location": 838
+        }
+      ]
+    },
+    {
+      "id": "9K-4Jc2l-7U",
+      "segments": [
+        {
+          "text": "events going on in *iran* and the trump",
+          "location": 665
+        }
+      ]
+    },
+    {
+      "id": "AKPMK0xaRN0",
+      "segments": [
+        {
+          "text": "with *iran* backed militias and this is",
+          "location": 835
+        }
+      ]
+    },
+    {
+      "id": "aN9TllOemSA",
+      "segments": [
+        {
+          "text": "china *iran* qatar russia saudi arabia huh",
+          "location": 2176
+        }
+      ]
+    },
+    {
+      "id": "Ao2abBxOiLY",
+      "segments": [
+        {
+          "text": "you know i reported on *iran* i've seen",
+          "location": 237
+        },
+        {
+          "text": "flights going out of *iran* and they'll",
+          "location": 244
+        }
+      ]
+    },
+    {
+      "id": "Ar3JvKPGr40",
+      "segments": [
+        {
+          "text": "cover *iran* the vatican what's going on",
+          "location": 76
+        },
+        {
+          "text": "what's really going on with that *iran*",
+          "location": 282
+        },
+        {
+          "text": "or people involved in the *iran* deal",
+          "location": 344
+        },
+        {
+          "text": "and it was done so that *iran* deal could",
+          "location": 386
+        },
+        {
+          "text": "bad so sad also in terms of *iran* this",
+          "location": 420
+        },
+        {
+          "text": "iranian post *iran* has arrested dozens of",
+          "location": 427
+        },
+        {
+          "text": "*iran* big shit's gonna happen there and",
+          "location": 436
+        },
+        {
+          "text": "this is that big shit going on so *iran*",
+          "location": 438
+        },
+        {
+          "text": "so that's what's going on with *iran* in",
+          "location": 511
+        }
+      ]
+    },
+    {
+      "id": "BR9EIDuUBJQ",
+      "segments": [
+        {
+          "text": "that oil tanker incident near *iran* in a",
+          "location": 772
+        },
+        {
+          "text": "iranians to say it was *iran* is very",
+          "location": 1401
+        },
+        {
+          "text": "on *iran* for certain optics right now but",
+          "location": 1409
+        },
+        {
+          "text": "networks in *iran* you know you can't say",
+          "location": 1415
+        },
+        {
+          "text": "understanding arrests made in *iran* as",
+          "location": 1438
+        },
+        {
+          "text": "*iran* bust large cia run network so there",
+          "location": 1444
+        },
+        {
+          "text": "was a cia run network in *iran* that *iran*",
+          "location": 1447
+        },
+        {
+          "text": "and *iran* why wouldn't it be",
+          "location": 1473
+        },
+        {
+          "text": "cia networks in *iran* there's a lot of",
+          "location": 1474
+        },
+        {
+          "text": "bad stuff in *iran* deep state",
+          "location": 1477
+        },
+        {
+          "text": "in *iran* - okay so i hope the good in",
+          "location": 1480
+        },
+        {
+          "text": "*iran* is gaining the upper hand and i",
+          "location": 1483
+        },
+        {
+          "text": "peace with *iran* can come very very soon",
+          "location": 1492
+        }
+      ]
+    },
+    {
+      "id": "cpAeoTwKHlc",
+      "segments": [
+        {
+          "text": "*iran* let's see we are moving fast he",
+          "location": 347
+        },
+        {
+          "text": "targeting the *iran*-backed",
+          "location": 847
+        }
+      ]
+    },
+    {
+      "id": "cyjt9Vm0imo",
+      "segments": [
+        {
+          "text": "the *iran* deal it's talking about",
+          "location": 79
+        },
+        {
+          "text": "that go to *iran* you can see this line",
+          "location": 85
+        },
+        {
+          "text": "telling us here is that *iran* is used",
+          "location": 100
+        },
+        {
+          "text": "*iran* any other rogue nuclear states",
+          "location": 262
+        },
+        {
+          "text": "shortly another mention of *iran* bigger",
+          "location": 495
+        },
+        {
+          "text": "problems than ever before signal to *iran*",
+          "location": 498
+        },
+        {
+          "text": "union to remain in the *iran* deal you",
+          "location": 512
+        },
+        {
+          "text": "still talking *iran* deal hostage no more",
+          "location": 519
+        }
+      ]
+    },
+    {
+      "id": "fOQPFgF5Etg",
+      "segments": [
+        {
+          "text": "foundation layers uranium one *iran* human",
+          "location": 597
+        }
+      ]
+    },
+    {
+      "id": "HLRFTyNBlFY",
+      "segments": [
+        {
+          "text": "overseas right now especially with *iran*",
+          "location": 519
+        },
+        {
+          "text": "same time we got events in *iran* so in",
+          "location": 622
+        },
+        {
+          "text": "*iran* of course there was some attacks",
+          "location": 626
+        },
+        {
+          "text": "excuse me not in *iran* they were in syria",
+          "location": 630
+        },
+        {
+          "text": "here define the terms of the *iran*",
+          "location": 641
+        },
+        {
+          "text": "republic of *iran* what if great question",
+          "location": 649
+        },
+        {
+          "text": "*iran* created a classified satellite",
+          "location": 652
+        },
+        {
+          "text": "*iran* amazing revelations we're having go",
+          "location": 681
+        },
+        {
+          "text": "so this whole *iran* nuclear deal was",
+          "location": 695
+        },
+        {
+          "text": "cover *iran* sir no you know we won't have",
+          "location": 699
+        },
+        {
+          "text": "here netanyahu saying *iran* lied european",
+          "location": 747
+        },
+        {
+          "text": "admitting on the world stage that *iran*",
+          "location": 755
+        },
+        {
+          "text": "this but israel saying *iran* lied and",
+          "location": 783
+        },
+        {
+          "text": "then *iran* saying no israel's netanyahu",
+          "location": 785
+        }
+      ]
+    },
+    {
+      "id": "hLWMbjtpLn0",
+      "segments": [
+        {
+          "text": "*iran* so *iran* hit by a global cyber",
+          "location": 129
+        },
+        {
+          "text": "centers in *iran* where they left the",
+          "location": 143
+        },
+        {
+          "text": "mean didn't q say *iran* was one of the",
+          "location": 152
+        },
+        {
+          "text": "chiki now we're moving from *iran* over to",
+          "location": 158
+        },
+        {
+          "text": "going on in regards to *iran* and now in",
+          "location": 250
+        }
+      ]
+    },
+    {
+      "id": "ifJ_GtRJ5qM",
+      "segments": [
+        {
+          "text": "you see the network's you know in *iran*",
+          "location": 266
+        }
+      ]
+    },
+    {
+      "id": "IuIhXyjMG28",
+      "segments": [
+        {
+          "text": "china such as china and *iran* to censor",
+          "location": 959
+        }
+      ]
+    },
+    {
+      "id": "j9gG0WZWO2M",
+      "segments": [
+        {
+          "text": "*iran* some people are floating theories",
+          "location": 445
+        }
+      ]
+    },
+    {
+      "id": "LFlKG-VVzMc",
+      "segments": [
+        {
+          "text": "with the good people of *iran* who are",
+          "location": 428
+        }
+      ]
+    },
+    {
+      "id": "mLZkwKOueVI",
+      "segments": [
+        {
+          "text": "imagine *iran* is still involved with that",
+          "location": 2661
+        }
+      ]
+    },
+    {
+      "id": "MpiqVbdFnlo",
+      "segments": [
+        {
+          "text": "number two is obama's dealings with *iran*",
+          "location": 865
+        }
+      ]
+    },
+    {
+      "id": "N4MwW69zjdk",
+      "segments": [
+        {
+          "text": "korea *iran* russia china mexico all",
+          "location": 287
+        },
+        {
+          "text": "*iran* and of course the rest of the world",
+          "location": 313
+        },
+        {
+          "text": "in regards to *iran* now to talk about",
+          "location": 775
+        },
+        {
+          "text": "that because cusing of course *iran* is",
+          "location": 778
+        },
+        {
+          "text": "he's not trust in the plan from *iran* and",
+          "location": 812
+        }
+      ]
+    },
+    {
+      "id": "NoLKqBPGGLQ",
+      "segments": [
+        {
+          "text": "isis gone *iran* being handled north korea",
+          "location": 1208
+        }
+      ]
+    },
+    {
+      "id": "NVUbej8exEk",
+      "segments": [
+        {
+          "text": "*iran* being one of the next ones very",
+          "location": 226
+        },
+        {
+          "text": "articles coming out about *iran* saying",
+          "location": 234
+        },
+        {
+          "text": "*iran* is next now north korea oh now",
+          "location": 1093
+        },
+        {
+          "text": "they're gonna use *iran* is their deep as",
+          "location": 1095
+        },
+        {
+          "text": "their proxy deep stays gonna use *iran* as",
+          "location": 1097
+        }
+      ]
+    },
+    {
+      "id": "ox9yzjeHt3s",
+      "segments": [
+        {
+          "text": "talking *iran* and into talking elites",
+          "location": 1474
+        },
+        {
+          "text": "supposed miracle frequency he said *iran*",
+          "location": 1479
+        },
+        {
+          "text": "and he said they're trying to go to *iran*",
+          "location": 1495
+        },
+        {
+          "text": "many times are negotiating with *iran* to",
+          "location": 1718
+        }
+      ]
+    },
+    {
+      "id": "p0Qy24DXfdY",
+      "segments": [
+        {
+          "text": "note it was *iran* actually one of their i",
+          "location": 468
+        },
+        {
+          "text": "*iran* kind of talking and then lastly",
+          "location": 493
+        }
+      ]
+    },
+    {
+      "id": "p6wFKOTyR60",
+      "segments": [
+        {
+          "text": "pickle will *iran* expose the names of",
+          "location": 182
+        },
+        {
+          "text": "will *iran* expose the names of corrupted",
+          "location": 215
+        },
+        {
+          "text": "*iran* was going to expose the names of",
+          "location": 220
+        }
+      ]
+    },
+    {
+      "id": "PA9MTquQya0",
+      "segments": [
+        {
+          "text": "*iran* so zero hedge reporting here that",
+          "location": 28
+        },
+        {
+          "text": "*iran* threatened to name politicians who",
+          "location": 30
+        },
+        {
+          "text": "pulling out of the *iran* deal a lot of",
+          "location": 39
+        },
+        {
+          "text": "what's really going on with the *iran*",
+          "location": 46
+        },
+        {
+          "text": "*iran* deal so *iran* can have a nuclear",
+          "location": 54
+        },
+        {
+          "text": "all this bullshit when really the *iran*",
+          "location": 62
+        },
+        {
+          "text": "this *iran* deal crumbling that's now",
+          "location": 78
+        },
+        {
+          "text": "because that *iran* deal is failing a lot",
+          "location": 108
+        },
+        {
+          "text": "with *iran* and still sticking on zero",
+          "location": 154
+        }
+      ]
+    },
+    {
+      "id": "qlFnlzOoFgo",
+      "segments": [
+        {
+          "text": "calling *iran* and terrorist hezbollah",
+          "location": 1573
+        }
+      ]
+    },
+    {
+      "id": "qWhpDyoLyR8",
+      "segments": [
+        {
+          "text": "*iran* john kerry we're gonna talk about",
+          "location": 35
+        }
+      ]
+    },
+    {
+      "id": "sxWWB5aKNk8",
+      "segments": [
+        {
+          "text": "q then saying here watch *iran* something",
+          "location": 728
+        },
+        {
+          "text": "people of *iran* have the power fight for",
+          "location": 734
+        },
+        {
+          "text": "regime change in *iran* yada-yada",
+          "location": 743
+        },
+        {
+          "text": "q was saying here the people in *iran*",
+          "location": 755
+        }
+      ]
+    },
+    {
+      "id": "T_mJ1awyakY",
+      "segments": [
+        {
+          "text": "taking a look at *iran* i'll be giving you",
+          "location": 55
+        },
+        {
+          "text": "happening alright let's move on to *iran*",
+          "location": 1685
+        },
+        {
+          "text": "i ran so *iran* saying that it has",
+          "location": 1689
+        },
+        {
+          "text": "news this didn't happen but still *iran*",
+          "location": 1714
+        },
+        {
+          "text": "it's a hint that *iran* is soon to be",
+          "location": 1750
+        },
+        {
+          "text": "that *iran* is in the process of being",
+          "location": 1773
+        },
+        {
+          "text": "eyes on *iran* i don't doubt that very",
+          "location": 1799
+        },
+        {
+          "text": "because i've seen pictures of *iran* it",
+          "location": 1806
+        }
+      ]
+    },
+    {
+      "id": "u_apd9SGqLc",
+      "segments": [
+        {
+          "text": "*iran* cyberattack remember that one where",
+          "location": 1122
+        },
+        {
+          "text": "there was a cyber attack aimed at *iran*",
+          "location": 1126
+        }
+      ]
+    },
+    {
+      "id": "Up-MRtsG4Tw",
+      "segments": [
+        {
+          "text": "cue here *iran* north korea uranium one",
+          "location": 333
+        }
+      ]
+    },
+    {
+      "id": "WB_PkYN9MFI",
+      "segments": [
+        {
+          "text": "*iran* these disclosures coming out about",
+          "location": 179
+        },
+        {
+          "text": "quietly seeking to salvage *iran* deal",
+          "location": 188
+        },
+        {
+          "text": "kerry *iran* deal report sparks chatter",
+          "location": 196
+        },
+        {
+          "text": "running around trying to say this *iran*",
+          "location": 203
+        },
+        {
+          "text": "create a boogeyman and *iran* and there's",
+          "location": 211
+        },
+        {
+          "text": "involved with this *iran* deal so he's",
+          "location": 217
+        },
+        {
+          "text": "and *iran* important context for future",
+          "location": 227
+        }
+      ]
+    },
+    {
+      "id": "wjeEg2yoJbM",
+      "segments": [
+        {
+          "text": "donald trump had on *iran* yesterday now",
+          "location": 1228
+        },
+        {
+          "text": "going on with *iran* allegations of drones",
+          "location": 1232
+        },
+        {
+          "text": "being shut down and *iran* taking uh",
+          "location": 1235
+        }
+      ]
+    },
+    {
+      "id": "WOmDWYRAtiA",
+      "segments": [
+        {
+          "text": "*iran* at least in context there i can't",
+          "location": 593
+        },
+        {
+          "text": "in *iran* were hitting hitting the fan",
+          "location": 605
+        },
+        {
+          "text": "unmarked planes fleeing *iran* and it",
+          "location": 612
+        },
+        {
+          "text": "and speaking of *iran* remember we had the",
+          "location": 1086
+        },
+        {
+          "text": "former *iran* prime or president a medina",
+          "location": 1089
+        },
+        {
+          "text": "surrounding *iran* right now i want to",
+          "location": 1111
+        }
+      ]
+    },
+    {
+      "id": "WwBj0YnLtX0",
+      "segments": [
+        {
+          "text": "talk *iran* okay cuz that's just crazy",
+          "location": 487
+        },
+        {
+          "text": "events of apparently *iran* sending some",
+          "location": 494
+        },
+        {
+          "text": "crash happening in *iran* all tonight okay",
+          "location": 509
+        },
+        {
+          "text": "up and talk about the general *iran*",
+          "location": 520
+        },
+        {
+          "text": "connected to there and *iran* as well",
+          "location": 587
+        },
+        {
+          "text": "the cia's point guy there in *iran* that",
+          "location": 611
+        },
+        {
+          "text": "*iran* is exact same thing that cia does",
+          "location": 618
+        },
+        {
+          "text": "thank you so and *iran* no i don't feel",
+          "location": 708
+        },
+        {
+          "text": "power in *iran* to mit let's back this up",
+          "location": 879
+        },
+        {
+          "text": "out maybe somebody there in and *iran*",
+          "location": 886
+        },
+        {
+          "text": "were cut no war *iran* next on the list it",
+          "location": 962
+        },
+        {
+          "text": "twitter here *iran* says it has concluded",
+          "location": 992
+        },
+        {
+          "text": "account def con so *iran* says it",
+          "location": 1008
+        },
+        {
+          "text": "something like that what if we see *iran*",
+          "location": 1032
+        },
+        {
+          "text": "about what's going on and *iran* although",
+          "location": 1090
+        },
+        {
+          "text": "another one *iran* was one before it was",
+          "location": 1100
+        },
+        {
+          "text": "undergoing a cleanup right now well *iran*",
+          "location": 1117
+        },
+        {
+          "text": "maybe they're doing that in *iran* maybe",
+          "location": 1207
+        },
+        {
+          "text": "state black site well free *iran* a little",
+          "location": 1217
+        },
+        {
+          "text": "crash in *iran* funny enough one of the",
+          "location": 1228
+        },
+        {
+          "text": "could say and he grew up in *iran* he",
+          "location": 1240
+        },
+        {
+          "text": "still has some family in *iran* but he",
+          "location": 1243
+        },
+        {
+          "text": "going on in *iran* and he literally told",
+          "location": 1251
+        },
+        {
+          "text": "solomon he's family in *iran* literally",
+          "location": 1259
+        },
+        {
+          "text": "in the middle east in *iran* graffiti in",
+          "location": 1288
+        },
+        {
+          "text": "seeing in *iran* to show of support for",
+          "location": 1344
+        },
+        {
+          "text": "in *iran* that are being forced to show",
+          "location": 1359
+        },
+        {
+          "text": "*iran* i think it was malaysian airlines i",
+          "location": 1464
+        },
+        {
+          "text": "arrived in *iran* at 8:00 with the caveat",
+          "location": 1546
+        },
+        {
+          "text": "*iran* sent which that just totally sounds",
+          "location": 1568
+        },
+        {
+          "text": "was like a rogue person with an *iran*",
+          "location": 1585
+        },
+        {
+          "text": "there's weird stuff going on with *iran*",
+          "location": 1613
+        },
+        {
+          "text": "and fly it over *iran* i'm sure they got",
+          "location": 2571
+        }
+      ]
+    },
+    {
+      "id": "xQVu3ywd2RU",
+      "segments": [
+        {
+          "text": "just in regards to *iran* saying that",
+          "location": 1110
+        },
+        {
+          "text": "a black site a secret site in *iran* to",
+          "location": 1115
+        }
+      ]
+    },
+    {
+      "id": "yu7cOa_9gN0",
+      "segments": [
+        {
+          "text": "*iran* some things going on in american",
+          "location": 64
+        },
+        {
+          "text": "on in *iran* so the protests there in *iran*",
+          "location": 392
+        },
+        {
+          "text": "mean these people in *iran* are really",
+          "location": 429
+        },
+        {
+          "text": "in *iran* because i've seen multiple",
+          "location": 477
+        },
+        {
+          "text": "videos in recent days where in *iran* they",
+          "location": 478
+        },
+        {
+          "text": "*iran* look at what's going on in hong",
+          "location": 503
+        },
+        {
+          "text": "to see so that's happening in *iran* one",
+          "location": 515
+        },
+        {
+          "text": "more thing going on in *iran* too before",
+          "location": 518
+        },
+        {
+          "text": "how about this *iran* state tv sees at",
+          "location": 524
+        },
+        {
+          "text": "right i love it i love to see *iran*",
+          "location": 556
+        }
+      ]
+    },
+    {
+      "id": "zjqEsdevnaU",
+      "segments": [
+        {
+          "text": "raised in *iran* so he was utilized by the",
+          "location": 1146
+        },
+        {
+          "text": "against russia and china and *iran* and",
+          "location": 2334
+        }
+      ]
+    },
+    {
+      "id": "zKar6awuy2Q",
+      "segments": [
+        {
+          "text": "terror attempt *iran* diplomat among four",
+          "location": 1176
+        },
+        {
+          "text": "*iran* being next in an uprising there in",
+          "location": 1194
+        },
+        {
+          "text": "so i wonder was it an *iran* diplomat set",
+          "location": 1212
+        }
+      ]
+    },
+    {
+      "id": "ZZTz8nYZ6vA",
+      "segments": [
+        {
+          "text": "let's talk about *iran* so the events in",
+          "location": 684
+        },
+        {
+          "text": "*iran* first we're gonna go to jack do i",
+          "location": 686
+        },
+        {
+          "text": "gonna begin talking about the *iran*",
+          "location": 699
+        },
+        {
+          "text": "so when the *iran* story first started",
+          "location": 716
+        },
+        {
+          "text": "says *iran* holds pro-government rallies",
+          "location": 724
+        },
+        {
+          "text": "going on in *iran* then it forced cnn and",
+          "location": 743
+        },
+        {
+          "text": "*iran* restricts scholz from media and",
+          "location": 751
+        },
+        {
+          "text": "these protests in *iran* and then of",
+          "location": 761
+        },
+        {
+          "text": "*iran* was trying to restrict social media",
+          "location": 780
+        },
+        {
+          "text": "and *iran* the people are finally getting",
+          "location": 872
+        },
+        {
+          "text": "*iran* so it looks like some things are",
+          "location": 897
+        },
+        {
+          "text": "with *iran* i just love this one that i",
+          "location": 927
+        },
+        {
+          "text": "and thousands of women around *iran* are",
+          "location": 936
+        },
+        {
+          "text": "flights are getting out of *iran* with no",
+          "location": 970
+        },
+        {
+          "text": "lots of flights are getting out of *iran*",
+          "location": 978
+        },
+        {
+          "text": "everywhere not only out of *iran* but into",
+          "location": 995
+        }
+      ]
+    }
+  ]
+}

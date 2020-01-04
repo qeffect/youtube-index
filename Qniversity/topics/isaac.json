@@ -1,0 +1,50 @@
+{
+  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI",
+  "topic": "Isaac",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "Hgk-U4PlV14",
+      "segments": [
+        {
+          "text": "who is *isaac* cappy chester bennington",
+          "location": 1118
+        },
+        {
+          "text": "elites *isaac* happy is a related issue",
+          "location": 1903
+        },
+        {
+          "text": "*isaac* a p is mentioned by q and when q",
+          "location": 1906
+        },
+        {
+          "text": "does mention *isaac* happy who had thrown",
+          "location": 1910
+        },
+        {
+          "text": "himself off *isaac* happy was a",
+          "location": 1924
+        }
+      ]
+    },
+    {
+      "id": "uKF_DkIXJQw",
+      "segments": [
+        {
+          "text": "that he was related to abraham *isaac* and",
+          "location": 2082
+        },
+        {
+          "text": "children of abraham *isaac* and jacob",
+          "location": 2107
+        },
+        {
+          "text": "there's a scent of abraham *isaac* and",
+          "location": 2153
+        }
+      ]
+    }
+  ]
+}

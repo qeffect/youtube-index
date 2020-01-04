@@ -1,0 +1,1876 @@
+{
+  "indexed": "_0GMW9eop3Q,_0k8gf2hqT8,_3Rl1KrDzlc,_9rpHbIpjdc,_c3-w-w0hd8,_gjH2umHAGw,_RmutDWSGgw,_xRwk1GDCtc,_xXAzbpQxCk,_Y32fnAp_mE,-_D0oq02HRY,-2V-Fidbe4Q,-fBcMRleHJs,-lj5lbMIt9w,-uo9Q6D8210,-WTkkUEgMpA,-wX2rOP6ktI,-x009HbyeMM,0DszWULPnJA,0kSVAa_BmU4,0Rg0lwnxdYA,0RnrwLJ2YB8,0UsEdqoi-uo,0v_9_7NQe7o,0ZQpgASg94o,12UHF03bxqg,12UIMLvh03M,14DEr87tKSc,14goSb7_h8k,188yfjWBsKM,1feiLSIDxzA,1G4XAByqwdc,1IBdXdpMtSQ,1KbA5wwl5iA,1mxwUYRqCLc,1qxksXmFHOw,1Sh9FkZ0Z_M,1WLIn7en9pQ,1ztx8JOWikU,21_5KACaBAA,246yVwb5diI,29I9Zl0qTFQ,2B6uuN4h5To,2B8vstdpb9Y,2hwzvqyTWk0,2kcXiFrNxu8,2KlWnWIW9es,2KpDBlqtvh4,2MJZ9NDs3EY,2nHvxV92Fo8,2NXqxp8mQmI,2Q3ooMM1qAA,2rguDK_EFjs,2VvxKYycSTA,2z1u4f9qxSk,3__6oQQBx4U,366ELkY8w8c,3anaRM4cxWc,3cNC-TuFKTM,3DT04vReamc,3hTjnoctYb8,3in8rDn_GiU,3iNDtYv3ogU,3inrKG1TPqA,3JpE_sVAXtI,3mBJwCIqEp4,3mZH_LNF6QM,3QHT8IoCibY,3QPQ-gJQDio,43l56zl36nA,46EzIkcqsf8,4aeInV5RoBU,4IELe4HKwW8,4krKjHMPsg4,4l3InNocQok,4L5tYESX97M,4pRyUnOoG4k,4QBY4MC9H4A,4reDYsbFjIA,4SVOSBqdzh4,4V_km03gzkc,4Vg0iy8-V8U,4wnZSd3XIrs,5A6dZwdwTxA,5aclmTHqG3Y,5dLvEB_CqP0,5FndfbwFaR4,5GkDWQBxE_Y,5i-ZMBE5r80,5LnqJOG082k,5msn1xthpVw,5OD8QdsbiDU,5teFvGwE9Ec,5tLVsNwlo4E,5ZV3UJmN3j4,5zwSaKW2qzA,6__xoin6aw8,639Gc3bX0Hs,68Bl7RbXS2A,6dPlpdME9bA,6gP2Zh2J4lU,6T7oPFcotQ8,6VOzbo_Xzcs,6vu4aiDJlLI,6ZRbp3qcQWw,77KCplrOQIs,77xVpKuEWnc,79lRgwEbfHQ,7BjNpnHLRlg,7dUatd4L2_I,7HkSIcIUJEI,7KyRGYh74yM,7nBOtseGsvM,7PPE5IfAS8Q,7uKOdZECGKo,84FDa13e5-g,85-ahemlFUU,85y3X4rQxA4,8BvPh2JcG1I,8fechd5G8bQ,8HN_fDiyxps,8Hn9sRON8JU,8IEQfBwVCnI,8pfDKYOa2YQ,8SIxFBeXF3A,8SJ8Si8dOik,8VlLxBGFQbo,9_UKSBXn7ko,9-Ct8QNd5l8,93Ilpb7IySY,94-23EfqkIo,96qHwT4UG7A,9aC20cRhA6A,9bmI1uHhg2Y,9CRaVe_WoRA,9DCeANHAmJk,9E6bhpqXb4Q,9GURyE2qHg0,9iLcGsHVzpM,9IoPnmjsOQg,9IYh49I9vLI,9kWhckKtLyw,9lRA4hj5-zs,9O8VPOd3Dsw,9ObMFi6ReKE,9PqmG_y1mEA,9Rsj2RvPQQY,9v8K97nYOmc,9YpbXzuAYao,A3CcapXxDBc,A3UCbl5D6xw,A4K1C-k9Soo,AaEkl-of76c,aAjl5E-9Xwc,aauT5183_Y0,ABKGKVoSAZs,Ae8VPPrDP3I,aeg4hpZ9Ozw,afbpVahE8m0,AGcXhMgEl-g,AGvin09PnlY,Ai_hTzDSyO0,aiSN2yWRXMk,AJPTbrTUYxI,AKx3yG4zhNQ,altHQp6NMoA,aMjfmqYp1k0,aMU1r-XXIe0,ANNU2PD-HFo,ApxADBQ8v3A,AQn0A4aVW6E,aRH_VcgxE-M,aRk2tCY5P6A,AT7BqWZWWag,ATycYftkD9M,avWKx_cmjpk,aww13Cq9r7Q,ayRMg-VLpmE,aZ_1pPcUgFk,aZ9ow4ZlnfI,AzTWh1-xt14,b-LpBCpFIU0,b0pHnjCKYzI,b1BuM4rDtj4,b2o6RTKxh4I,BBOhxkAxLis,bBQITwVQ2c4,BcVYQ8Qb8WE,bcxBqQ7PMew,BEnGqcIKQBI,BFqiftOTLL8,BFxZRHPz1QI,BgKgV7LyEIo,bJpGmwu9-k4,BjZ3EmeaX5k,bKA-qsz0fsU,BKrYqZUyOIQ,BLbmipYjHR4,BMvOvzcBOq0,BnmAkjBYrZ8,BoMEoJRDgcU,BRRHTfNJMg4,bTO8-X3R_0g,BufAWX9OL9M,bWCu3V4E0Cw,BX0vhcv_pRQ,BYme9spNF9A,BZ6g4cgOQIo,c2JtJ3aEJI4,c3uk_PM4FTU,C52GieN9zdM,c8x6_3FTcmk,Ce_6croEF8c,CeUgCB6lb8Q,cfD7Ifh578E,CFDn-VKYsC0,cjcQ6t4JMXs,CLxo7YDcLzk,Coqn8CHu1cM,CpCLI8mo6T8,cppd4rNaGCY,cQbGXIlAVTM,cRLq7aAC-XI,Ct4sQbD2Dj0,CUobzPBIPYs,CVPDq78OM50,CxlcQbMPATY,CYMHBldnHH4,cZWsTRVduts,d_GwGYmK26Y,d1MKZw4vHEw,d352Nhkd02g,d8l0y2XLq3Q,d9HpahnSk3g,ddO9VroAjuU,DeiOBs9WCFY,dfzrdTb1zZE,dgJVXPaHqP8,dI75N0o_5DI,DJhwFGJhk5k,dLlF7sxrUCQ,DOO7fNIwpYY,dPmQytHJFIs,dS2qkAQ33Xw,Dt0bn771sGA,dTiW7GUvpiE,DTJrCcpKAsE,DWyqBff8MD0,dxXweiDpFuI,dzvqryS1tvM,DZyPZzqwvsA,E0C2qvYK31I,E0IZHA3G3Ig,e4MakjQr6wQ,e5nUedXajQI,E930zZVMjyY,EEnVvVzaBCo,ehplL8V_3rs,ehRpPBA6HgM,ejJhYz7wFwo,ek_MgNKuQKg,EKeXTDJ61eQ,EL6vqvpcreQ,Erfp78sCx3E,etzYB5Acisw,ex1IEZ3gULY,EXbJ0oQART8,eYGFc99WbHU,EyLK_rCRmPI,EzqNatWuS6Y,f4qBTki5iH4,F5FobXrvY3E,f7YHUbjdCzM,FB4dExVms7s,fB7BASL5g54,fbpZlOeQiAM,fbY83L61Kd0,fchREWrn0vY,FDbXuhcLWtU,Ff4fEQVTpSs,FHBsONoVnq0,fhyBcxyxbVI,Fk16jEhiBrQ,fLuLK72GwyA,FLYTjpU15No,ft2oJSlNPtQ,fU5hFfGsdjM,FWZHVOZ4ggQ,g_-JsMSaCdA,g_4yojz2mAs,g-KHTYSFJXA,G0xwAccaQ0A,G2aQUZYgTL4,G5Xu8M-uc60,G6rtL2LbzqA,g8XCMFkFyjY,gAHVZF__So4,GcJnkA-FE1M,Gd0BSKLLqsc,Gf0trv-9tvc,gHZMOupPYsg,GHzp1M24Fsw,gJcJ38T8oNM,GjQpoYm971o,gMSJoVkQZWw,gnDVjDTXE0k,GNedUPBOSqs,Gnmbc4G0dmg,GRBDH_i0FB4,GU2lVhxS9vY,gya_mSZwAl0,GYcdeNuBthM,GYRgczPNxJI,h17tF0Xii1c,h1BC7XmZr8I,h7CqHL04D-Y,HCCtVyqBoRE,HF1kNM1SZWw,hfX559mxFQo,HGHg7Nt2WVo,HiDyMOUhdZY,hIG3MjKRzBE,HjH_ZCvf3_g,hKbE7MG3OIA,HkJj6tZtzKg,hKSHNiPdaQU,hNazips7-k8,HoHfevtIV2w,hQcYnde_RDA,HTETmsKXnkE,hxMqBVB9oIU,i7CsAm6pTpE,i7hxZGH9fCY,iaA6l7wVsGE,IC9FN_fY2go,If2rCEuFeNY,ijaW9oSwCw8,im06ZuqowDk,Ima-kdh9Zo0,IMvbHX-XxMs,iQHR1-6RKGY,iry3kHF_jvI,is45doBHO4k,IubAKIW7LW8,IuGCv6BE808,ivzGKZFp8M8,IyRWVFXn45A,IZLsNynu6Ns,j0aA2J_kFkc,J296P7VE5p8,J2spK-T9ev0,j4__e_WelW0,j598EAg5zdI,J6zapuerlJk,J7b6SPEd0FA,j8A3-iLoEOI,J8tQL-J1p-4,jCLp7eJwIrE,JEKeMGgqEFA,jIf63gDirvc,JkdHKdiTXAM,jnUP8mEuPqc,jO3DSz6VU10,JP_9kWACn3U,jPdBNzia1bQ,JqB96gXQCHs,Jqmk-9gfMoc,jr_aTXakEwk,jSkzvaEVGyw,Jw000N2NVzY,JXObjjcM37E,k1e3a3x0VHE,k2pfkR9ey1o,k3a7JrqCGxM,k5J7_AWQvec,K68zHw0_xp8,K6D4AseiyvA,K6X_A5nDkn8,k7HZG6YnFww,Ka58QhPEBs0,kbsHKl1F3PI,kGrIdTasjN0,KhBpRt0R9-8,kMvmpeySbAk,kmwVSMKdhaU,kmxEhecyMN8,Ko4YrWusYB0,kPNmP4e9jfA,KQYQ6-hMOjY,KsFcbtIB9IQ,kv41joeMcM4,KVAsKc8v5t8,KVvB35XeEig,kZgInLvnTxE,kZSTJv4Hxk0,L_xCuCDisLM,L1AVZd4DsQc,L2Az5A7kcP8,L3Ij2cvGFkY,l6iCUxTXOBw,L6uSGv164Xw,L8KfIdZMszk,l8r-U_GKKPw,l8TEy3DabHA,LBYjX-YKi3A,LcYUTlXa9LA,LDbkkYUWvpA,Lioi0r8CebQ,LIwSMMqCTfU,ljBQV9kO_48,LniEKTpx8Qo,LPcjU1iEMa8,LrIY2UK10UA,lRMkZVPheVA,LTZqQj0xixg,lxUADz6sO24,M-MA0geeqcs,m-ODejCbNWA,m2iCTKjwGZY,M2SBwEaGWjA,m5TtiXCF06Y,m9zakT_UDY4,MbhDYscAAN8,MBmjx6pEVyM,mBU8ggNgS8s,mCG61ZXjwgM,mDGN4mIrYTs,mdj-e3WW1Bo,mDVvkqXidds,mh_UlTxOQQ8,MHhA6kW_K1g,mi6oOSOcu8U,mIMeh-79eFQ,mJWjRqEjk1U,MKMicgqhopw,mkzUXQCz7g0,Mm6WkdjRwXE,Mm8has8rJ6Q,MMiesWjJy3k,ModN7UGbEc4,mOIXtYBUHzE,mpo_IhTE430,mqjohU4wchw,MQkqD0MhKnY,mQmoOcT31Ro,msr6oM0RLew,Mt8NfLhd-bQ,MU2Rcx_7eK0,mU9euZ7sEes,MUy19aL4UNs,MvFElFTEyAo,N_LPPAZ6a5k,n2RdX0ydluc,n5D-l-3F7ik,N5YALJhloAc,nb48sfxaBzA,Nb9AndSj88I,NC02quLtRsA,NC8ofbJYmgQ,NcQDwCqQeO0,nDIenS-L7Qc,NgbBiTBNx_E,NjWZnzfy4Bk,No3ER-UeVEw,no6rrhl9HP4,NPnxrTpCpnw,NQNDDUtnzYk,nRaCGIerr6g,nspGMcDjCKM,ntdGh-KbrDw,NV7heJFREsE,NVweq5WqxQs,Nw0SUu18OzY,NwWi8UclL4k,Nyz8AZ4IvdA,Nz6lrDmtUxk,O_aacfmu4kk,O52v4nUvluw,O5EtoXjZNus,o6KJkaLISn8,o6YcBl2u0n0,o8Akan5GihI,oC62RUXGAeo,ocx0eQ3IYGc,ofmaPjLqKpY,oGgzXrlF0m4,OhcEdpoDPxQ,OipmgYEOOj8,OJj7uOy38hI,OjodkECxTFE,oJslPIbYry4,ojSvumv3RDc,OKRqb03TEUs,okuxViVbyTs,OLDsP1BrbDU,Olfa4vMMDEk,OQCgaoqYPDQ,ornHtBUFohc,OsoQu546x8g,oStMB-W5ovI,Ou8IoZrbRFY,OVGfiwkKdqY,OWfrBrQlhkk,oXoEIlNO77U,oXoo6eYsZ3o,OY0Jqc3-hV0,P2YYC5MMzFc,p4Wc6Zs3qQM,p5s61jAYDzE,PbcQo398070,pbi5dRCB2cA,pDkUn-isAGk,pdW4LVkaiYA,peHd3IOjylg,Pepkc8bM3uo,PfDbmwtawNg,PfZh-XLbE_I,Pi-FHomqwtE,PIHmedWFDBI,piPPWEVM7BI,Pk6jznEcP4U,PMt56AI7XrI,PN8oDcxVDKU,pOgq_axpn1k,PRGJZtCTLVA,pRriJNgzrcs,pUZDbK0a1R4,PwfwMH9cRP0,q0d0OkpV5gs,q1LXh9jQU38,Q23RnpfTgiE,q2tI5JrJKzE,q40i492ZGUU,Q5xDDuhudtU,Q8C-i61AH9Q,q8N3XgSDddU,qaB9Xgr-K-U,qaeEK1ydKHQ,qb8eND6_eH8,qbNEx7wfmRw,qCVOU264zOY,qeyblMlgmf4,QFxy7aHGQAk,QgdmFUaMaTg,QHMQrxZEG0A,Qi1p1ciC6ig,QJ87Y3IHM0E,qJZUzPJM_8o,QlB-DTGsxA4,qnSzR1wZFJw,qQCLQxxZ-JQ,qSIbJjKcNfg,QuIScPQ4-HI,QwJVJTZy7_I,QWt5r7p1prc,R0kUC-zTi_w,R1LjmP8-04A,r509r1pO2R0,r6wUIvkTfA0,RaMEtW-jj3Y,RBg7ln8YvZs,rCig3kho2SM,RDi6epw_6q8,RhIjc2y2tAk,rhU9LM5NMjw,rKsfEM1BgDc,RQ0Vxa8t2lE,RqvIfoLVDOk,RU7GoALMyfc,rvKeEwBBpVI,rWFJYGKR8Q0,rwgpNw7-Z2o,RWoC617ICiE,rWUwM3PSctc,RWwMA7NgHPw,rygv-W2nBMQ,S6nzPrp1znE,s7WQRQMZHpg,sbQRdt546xk,sCpKR0JfQYg,SCrkA-IU-MA,SCYQEWuPQ5k,shbkSBhJ2I0,SIa7IJeIZTs,sj2d6MMMHe8,Smgbk6_u95o,SMJH9hOBoHs,sNJWA5xXzJ4,SnZ6S3mRxL4,Sp4RLy_qYKg,sqjMUSm7P7g,Sr-bsrd1__k,sRO9eUbKbHk,STeFcjPilJQ,stXbBirLOa4,SuFrbJ6SU-o,svsHMcqSxo0,t1tZokS2EvY,t5_FT2IuuU4,t6E_0ndD_uc,t6Lt13vIedE,ta_w9snGNto,tA5qx4py3vk,Tcnt9LQ9ghs,TcTxPlJydUY,tHP9ltlAus8,TiTXAXiDfUc,tIWPr_DcdIo,tjMfQ3p3laE,Tnrn3L8FY0I,tPO2SMpryYw,TQscIaCFOkI,TQZvMICk0VY,tsbPU6Db2kY,TsPRXxIwYko,tvC2gQ4AczY,TvVR9BnYdcM,TwLUyzhOLOg,tYyiFa4vM6U,tyzocNwNQKM,u_GGjeSvYec,U008Q4Nl6Pw,u4vS2DaqFLc,U7kcy4JVL-A,u87rX2092og,UAHuVEBXel4,ubHkJ2JOyYc,udBq5d5QJu4,UDz1OZ08WdM,ufbriRv6ttg,ujGzJFLXyyU,ulqxOJMqlbE,uM3wMO8soPk,UnaCSOYEHJY,uNbF9eE8iQo,uPZH86T-gbU,UqoqSIhUkis,uUHrITp2OII,Uv9kdzginz4,UYZK6SLUDac,uznBzdoryQE,v__k4yoGtr0,v1EVuUPy0TM,V5UBaiLKTJ8,v7n8XMG6_lU,VAb-q4zZZ84,vdBH5hXgTx0,VDegR-PmnPY,VDiIHvrYiP4,VDNvoDprdXw,VdW3BTCrFyk,VEPn4Jpriag,vH2LP87XOhM,vhEhHA1_lYc,VifwNccVoaI,VIVQ8DSeXA0,vK8vS2FLi_8,VkklwV-XWV8,vLkThiVu-7w,VLODkOCKOTQ,Vm1M-wrzD30,vNBvyX0c2GU,VncJ0_vEoR0,VNKopA1AWqc,vNoLVvWSsyo,vo2k76mYB48,VOiG-bND5gw,vOxfriLzg30,vPi9nxUXeXY,vpPs1VYeYq4,VqfhBji9KRg,VSa_TIkV6lE,VU5aarfEf-k,vvIB5CzHtRk,W2YIfMkkfwk,w3TsReVTDJg,w7usO3iDt_o,W9zaoEqRVZA,WAHJQb4hEOc,wENuaVviKSo,wGKkvAU6BXM,wgltyCeZ9pk,WGM4fqCVAQg,wgx-dnhKrBU,WhXBxkP9xE4,WJ_m4kinM7w,wLKBFYSG524,wp-A4Xc_aLU,WQ505PlHjnA,ws0Sia6taoM,Ws3y42YOuCI,wwoXSecjUy0,WxIbdhY0A54,X1Ei27wYEkk,X28tURO5Cq0,X3Sqj3g_n6c,X4jATK5wBgU,X6DgdzLcbTc,x8rM1oZB8U8,XBbVIwgeD2g,xBjg0GydtgY,XD8UWjkcE1s,xDMceMQCI_I,xe9N5iVspPY,Xfgb4YaqMT0,xfoQHcU3MyI,XfSHGaDZbBk,XISLjXeWUwk,XLzGCZkYvIc,Xna5SsHOcUo,xot9iXQ-zBA,XpBu8gmssPY,XqmwL0TTfo0,xsFay-hybec,xsO-xNEhoBI,xSQvQDtzB6U,xTJgKGF--OQ,xwOcpq9TqpE,XXd8q4BfcYQ,xYBSsLGzMlc,Y0exfyEXpfI,Y88ecV_X87E,YACpICjPygE,YAHylAzN21o,YAZ0b3JyML8,yc4umVzljCM,YDbwkcXJXRo,ygVJlwArt0A,YiKnAv4Iw2I,YJiMBvqbCwc,ykP7QXaZp9M,YkrFx8fhafI,YLlsruYA4pk,YlYxp4VTDgw,YnYkBcT-rnY,yQrUOHG8e2k,YSoJN2dPoZw,YSq6X6aQhd0,yuNxrYT4t58,ywlM82gfvbk,yWZgvfLs_ss,yzJ3vadEb_0,YZniSg3z3Iw,z1mRlnZbCF0,Z3cDEAKbMyA,Z5r4RVFd2a8,z5T_1jyN5f8,z7iJ5zZ0cLY,Za2u9FkqiaU,zB8nIspKlco,Zdnvu5QIjXE,ZEn6pbfoNlo,Zfa1UNNaPxc,ZGLLyMlvoUY,zJoO_HiEUno,ZkwW4xznOmQ,zlajBZP3nH0,ZnPojroUsrU,ZOUO80Q44B4,zozvEuKPdKs,ZTV18-GhqyU,Zu2ITGywrmU,zu3muQumFyI,zUQ1UARkl24,ZZJ6BNKXcTw,q_QmpI9cyRY,zy611VHFFwU",
+  "topic": "Saudi Arabia",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_RmutDWSGgw",
+      "segments": [
+        {
+          "text": "hillary clinton in *saudi* *arabia* and",
+          "location": 294
+        },
+        {
+          "text": "*saudi* *arabia* moving on now it says list",
+          "location": 1778
+        },
+        {
+          "text": "to the muslim brotherhood and to *saudi*",
+          "location": 2021
+        },
+        {
+          "text": "*arabia* and her role in the ballooning",
+          "location": 2023
+        },
+        {
+          "text": "trip *saudi* *arabia* what was the purpose",
+          "location": 2171
+        },
+        {
+          "text": "undisclosed trip to *saudi* *arabia* as far",
+          "location": 2234
+        },
+        {
+          "text": "before trump went to *saudi* *arabia* i",
+          "location": 2277
+        },
+        {
+          "text": "says how did *saudi* *arabia* welcome potus",
+          "location": 2335
+        },
+        {
+          "text": "how did *saudi* *arabia* welcome barack",
+          "location": 2341
+        },
+        {
+          "text": "obama during his trip how did *saudi*",
+          "location": 2343
+        },
+        {
+          "text": "*arabia* welcome hillary clinton during",
+          "location": 2345
+        },
+        {
+          "text": "suggesting *saudi* *arabia* is clean by any",
+          "location": 2349
+        },
+        {
+          "text": "ceremony in *saudi* *arabia* and it's it's",
+          "location": 2365
+        },
+        {
+          "text": "this trump and then how did *saudi* *arabia*",
+          "location": 2401
+        }
+      ]
+    },
+    {
+      "id": "-lj5lbMIt9w",
+      "segments": [
+        {
+          "text": "go back and understand think *saudi*",
+          "location": 941
+        },
+        {
+          "text": "*arabia* drops all of this is accomplished",
+          "location": 943
+        }
+      ]
+    },
+    {
+      "id": "0RnrwLJ2YB8",
+      "segments": [
+        {
+          "text": "pyramid is the sow dynasty in *saudi*",
+          "location": 892
+        },
+        {
+          "text": "*arabia* they can be represented or best",
+          "location": 893
+        },
+        {
+          "text": "corruption *saudi* *arabia* was the bloody",
+          "location": 1001
+        },
+        {
+          "text": "saud the king of *saudi* *arabia* turned",
+          "location": 1022
+        },
+        {
+          "text": "leaders to cabal in *saudi* *arabia* prince",
+          "location": 1030
+        },
+        {
+          "text": "more q told us that the events in *saudi*",
+          "location": 1067
+        },
+        {
+          "text": "*arabia* were to be replicated elsewhere",
+          "location": 1071
+        },
+        {
+          "text": "*saudi* *arabia* being replicated around the",
+          "location": 1091
+        }
+      ]
+    },
+    {
+      "id": "1IBdXdpMtSQ",
+      "segments": [
+        {
+          "text": "to *saudi* *arabia* and the terrorist",
+          "location": 764
+        }
+      ]
+    },
+    {
+      "id": "1mxwUYRqCLc",
+      "segments": [
+        {
+          "text": "listed his residence as *saudi* *arabia* and",
+          "location": 1195
+        }
+      ]
+    },
+    {
+      "id": "1WLIn7en9pQ",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* access closed epstein i on",
+          "location": 1288
+        }
+      ]
+    },
+    {
+      "id": "246yVwb5diI",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* and iran the post truth",
+          "location": 1915
+        }
+      ]
+    },
+    {
+      "id": "2Q3ooMM1qAA",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* where why would you do that",
+          "location": 686
+        }
+      ]
+    },
+    {
+      "id": "2rguDK_EFjs",
+      "segments": [
+        {
+          "text": "false *saudi*-*arabia*",
+          "location": 86
+        },
+        {
+          "text": "questions were asked regarding *saudi*",
+          "location": 90
+        },
+        {
+          "text": "*arabia* prior to *saudi* *arabia* events why",
+          "location": 92
+        },
+        {
+          "text": "this is talking about the *saudi* *arabia*",
+          "location": 319
+        },
+        {
+          "text": "happened in *saudi* *arabia* of all the",
+          "location": 323
+        },
+        {
+          "text": "seek retribution from *saudi* *arabia* for",
+          "location": 425
+        }
+      ]
+    },
+    {
+      "id": "3anaRM4cxWc",
+      "segments": [
+        {
+          "text": "the lists like ukraine england *saudi*",
+          "location": 848
+        },
+        {
+          "text": "*arabia* those names ring a bell i mean",
+          "location": 852
+        },
+        {
+          "text": "the connections with epstein *saudi*",
+          "location": 859
+        },
+        {
+          "text": "*arabia* prince alwaleed bin talal",
+          "location": 861
+        }
+      ]
+    },
+    {
+      "id": "3in8rDn_GiU",
+      "segments": [
+        {
+          "text": "wonderland and hillary clinton in *saudi*",
+          "location": 155
+        },
+        {
+          "text": "*arabia* how does that all connect",
+          "location": 156
+        }
+      ]
+    },
+    {
+      "id": "3mZH_LNF6QM",
+      "segments": [
+        {
+          "text": "american allies like *saudi* *arabia*",
+          "location": 554
+        },
+        {
+          "text": "it started in iran then was in *saudi*",
+          "location": 793
+        },
+        {
+          "text": "*arabia* and was one of the",
+          "location": 795
+        }
+      ]
+    },
+    {
+      "id": "3QHT8IoCibY",
+      "segments": [
+        {
+          "text": "change following my trip to *saudi* *arabia*",
+          "location": 860
+        },
+        {
+          "text": "their own region the uae *saudi* *arabia*",
+          "location": 884
+        },
+        {
+          "text": "there is *saudi* *arabia* where king salman",
+          "location": 2235
+        }
+      ]
+    },
+    {
+      "id": "46EzIkcqsf8",
+      "segments": [
+        {
+          "text": "it's all connected to *saudi* *arabia* so q",
+          "location": 721
+        },
+        {
+          "text": "human trafficking arrests up *saudi*",
+          "location": 732
+        },
+        {
+          "text": "*arabia* cooperating nexium when does a",
+          "location": 734
+        }
+      ]
+    },
+    {
+      "id": "4V_km03gzkc",
+      "segments": [
+        {
+          "text": "something like *saudi* *arabia* who's saying",
+          "location": 799
+        },
+        {
+          "text": "now i *saudi* *arabia* wanting this is",
+          "location": 847
+        },
+        {
+          "text": "been alleged by *saudi* *arabia* as having",
+          "location": 860
+        },
+        {
+          "text": "in to the *saudi* capital riyadh and at",
+          "location": 869
+        },
+        {
+          "text": "israel and *saudi* *arabia* seem to share",
+          "location": 880
+        },
+        {
+          "text": "it would benefit countries like *saudi*",
+          "location": 943
+        },
+        {
+          "text": "*arabia* in israel and that's what they're",
+          "location": 944
+        }
+      ]
+    },
+    {
+      "id": "5A6dZwdwTxA",
+      "segments": [
+        {
+          "text": "tonight we cover the *saudi* *arabia* issue",
+          "location": 0
+        },
+        {
+          "text": "*saudi* *arabia* and israel i don't know if",
+          "location": 133
+        },
+        {
+          "text": "to be the resuming article is *saudi*",
+          "location": 209
+        },
+        {
+          "text": "*arabia* open up planes to israeli air",
+          "location": 211
+        },
+        {
+          "text": "is in syria and then get with *saudi*",
+          "location": 238
+        },
+        {
+          "text": "*arabia* and exactly and the whole thing",
+          "location": 240
+        },
+        {
+          "text": "relation to what's going on in *saudi*",
+          "location": 254
+        },
+        {
+          "text": "*arabia* i just want to tell you that i",
+          "location": 255
+        },
+        {
+          "text": "declared in *saudi* *arabia* why is this",
+          "location": 325
+        },
+        {
+          "text": "foundation by *saudi* *arabia* how much",
+          "location": 331
+        },
+        {
+          "text": "institute by *saudi* *arabia* how much money",
+          "location": 335
+        },
+        {
+          "text": "by *saudi* *arabia* what other bad actors",
+          "location": 342
+        },
+        {
+          "text": "have been paid by *saudi* *arabia* bribed",
+          "location": 345
+        },
+        {
+          "text": "what are the laws in *saudi* *arabia* versus",
+          "location": 354
+        },
+        {
+          "text": "is this important *saudi* *arabia* is",
+          "location": 361
+        },
+        {
+          "text": "is actively deployed in *saudi* *arabia*",
+          "location": 370
+        },
+        {
+          "text": "as the wahhabis inside of *saudi* *arabia*",
+          "location": 416
+        }
+      ]
+    },
+    {
+      "id": "6gP2Zh2J4lU",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* so there's there's the",
+          "location": 1336
+        }
+      ]
+    },
+    {
+      "id": "6VOzbo_Xzcs",
+      "segments": [
+        {
+          "text": "took over *saudi* *arabia* in october 2017",
+          "location": 879
+        },
+        {
+          "text": "china and *saudi* *arabia* seem to be in",
+          "location": 1157
+        }
+      ]
+    },
+    {
+      "id": "6vu4aiDJlLI",
+      "segments": [
+        {
+          "text": "being used but the *saudi* *arabia* story",
+          "location": 225
+        },
+        {
+          "text": "*saudi* *arabia* events so it was it was",
+          "location": 236
+        }
+      ]
+    },
+    {
+      "id": "7nBOtseGsvM",
+      "segments": [
+        {
+          "text": "in *saudi* *arabia* working with these you",
+          "location": 703
+        }
+      ]
+    },
+    {
+      "id": "8fechd5G8bQ",
+      "segments": [
+        {
+          "text": "inside-out destruction *saudi* *arabia*",
+          "location": 133
+        },
+        {
+          "text": "*saudi* *arabia* *saudi* *arabia* ummah and",
+          "location": 136
+        },
+        {
+          "text": "who paid *saudi* *arabia* vidal q now we're",
+          "location": 142
+        },
+        {
+          "text": "it the inside out destruction *saudi*",
+          "location": 495
+        },
+        {
+          "text": "*arabia* *saudi* *arabia* *saudi* *arabia* prince",
+          "location": 498
+        }
+      ]
+    },
+    {
+      "id": "9GURyE2qHg0",
+      "segments": [
+        {
+          "text": "carried out during the *saudi* arabian",
+          "location": 560
+        },
+        {
+          "text": "all those people in *saudi* *arabia* joined",
+          "location": 566
+        },
+        {
+          "text": "noticed the king of *saudi* *arabia* i've",
+          "location": 1018
+        }
+      ]
+    },
+    {
+      "id": "9Rsj2RvPQQY",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* by arresting the criminals",
+          "location": 909
+        },
+        {
+          "text": "that all the connections back to *saudi*",
+          "location": 1263
+        },
+        {
+          "text": "*arabia* and how that ties in and saudis",
+          "location": 1266
+        },
+        {
+          "text": "then connect the money to *saudi* *arabia*",
+          "location": 1339
+        }
+      ]
+    },
+    {
+      "id": "AJPTbrTUYxI",
+      "segments": [
+        {
+          "text": "states that isil isis is funded by *saudi*",
+          "location": 625
+        },
+        {
+          "text": "*arabia* and qatar the governments of",
+          "location": 633
+        },
+        {
+          "text": "*saudi* *arabia* and qatar now this is a",
+          "location": 637
+        },
+        {
+          "text": "collection and perhaps because *saudi* and",
+          "location": 644
+        },
+        {
+          "text": "particularly to *saudi* *arabia* under",
+          "location": 716
+        },
+        {
+          "text": "was made with *saudi* *arabia* more than",
+          "location": 729
+        }
+      ]
+    },
+    {
+      "id": "altHQp6NMoA",
+      "segments": [
+        {
+          "text": "he's saying q goes on think *saudi* *arabia*",
+          "location": 815
+        },
+        {
+          "text": "order is important *saudi* *arabia* then",
+          "location": 818
+        },
+        {
+          "text": "about *saudi* *arabia* talk about north",
+          "location": 867
+        }
+      ]
+    },
+    {
+      "id": "b2o6RTKxh4I",
+      "segments": [
+        {
+          "text": "saying *saudi* *arabia* access closed",
+          "location": 544
+        },
+        {
+          "text": "pending government *saudi* *arabia* us push",
+          "location": 563
+        },
+        {
+          "text": "access pending government *saudi* *arabia*",
+          "location": 570
+        },
+        {
+          "text": "*saudi* *arabia* us push q now what i think",
+          "location": 581
+        },
+        {
+          "text": "spearheaded by a *saudi* *arabia* us push as",
+          "location": 802
+        }
+      ]
+    },
+    {
+      "id": "BgKgV7LyEIo",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* i would know that and of",
+          "location": 258
+        }
+      ]
+    },
+    {
+      "id": "BKrYqZUyOIQ",
+      "segments": [
+        {
+          "text": "and *saudi* *arabia* and all this crazy",
+          "location": 1664
+        }
+      ]
+    },
+    {
+      "id": "BZ6g4cgOQIo",
+      "segments": [
+        {
+          "text": "involvement with *saudi* *arabia* which goes",
+          "location": 1585
+        },
+        {
+          "text": "reference to hillary clinton and *saudi*",
+          "location": 1596
+        },
+        {
+          "text": "*arabia* and how she let that influence",
+          "location": 1598
+        },
+        {
+          "text": "*saudi* *arabia* since november of last year",
+          "location": 1623
+        },
+        {
+          "text": "directly about *saudi* *arabia* and the",
+          "location": 1646
+        }
+      ]
+    },
+    {
+      "id": "DOO7fNIwpYY",
+      "segments": [
+        {
+          "text": "the prince in *saudi* *arabia* i will lead",
+          "location": 1784
+        },
+        {
+          "text": "through her family and you have *saudi*",
+          "location": 1791
+        },
+        {
+          "text": "*arabia* controlling so much here in",
+          "location": 1792
+        }
+      ]
+    },
+    {
+      "id": "dTiW7GUvpiE",
+      "segments": [
+        {
+          "text": "similar to *saudi* *arabia* where it would",
+          "location": 871
+        }
+      ]
+    },
+    {
+      "id": "dzvqryS1tvM",
+      "segments": [
+        {
+          "text": "- right into *saudi* *arabia* leaving the",
+          "location": 198
+        },
+        {
+          "text": "to *saudi* *arabia* there's some very",
+          "location": 364
+        },
+        {
+          "text": "the crown prince of *saudi* *arabia* which",
+          "location": 389
+        },
+        {
+          "text": "obviously the initial trip to *saudi*",
+          "location": 563
+        },
+        {
+          "text": "*arabia* he's fully aware with your",
+          "location": 565
+        },
+        {
+          "text": "prince of *saudi* *arabia* and why do we",
+          "location": 575
+        },
+        {
+          "text": "out of *saudi* *arabia* we you know they're",
+          "location": 606
+        },
+        {
+          "text": "broken up occupied by *saudi* *arabia* so",
+          "location": 1197
+        }
+      ]
+    },
+    {
+      "id": "E0IZHA3G3Ig",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* then we have video here",
+          "location": 558
+        }
+      ]
+    },
+    {
+      "id": "FB4dExVms7s",
+      "segments": [
+        {
+          "text": "over in *saudi* *arabia* it's great here's",
+          "location": 1741
+        },
+        {
+          "text": "*saudi* *arabia* and explained him that",
+          "location": 1773
+        },
+        {
+          "text": "i'm asking that *saudi* *arabia* increased",
+          "location": 1778
+        },
+        {
+          "text": "*saudi* *arabia* to raise the whole output",
+          "location": 1797
+        }
+      ]
+    },
+    {
+      "id": "Fk16jEhiBrQ",
+      "segments": [
+        {
+          "text": "and it talks about *saudi* *arabia* but i",
+          "location": 107
+        },
+        {
+          "text": "in riyadh *saudi* *arabia* and that he is",
+          "location": 1709
+        }
+      ]
+    },
+    {
+      "id": "GRBDH_i0FB4",
+      "segments": [
+        {
+          "text": "down in *saudi* *arabia* and and those hard",
+          "location": 971
+        },
+        {
+          "text": "there in *saudi* *arabia* but i'm not sure",
+          "location": 1457
+        }
+      ]
+    },
+    {
+      "id": "HCCtVyqBoRE",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* that somehow they were able",
+          "location": 827
+        },
+        {
+          "text": "prince alwaleed bin talal *saudi* royal",
+          "location": 836
+        },
+        {
+          "text": "*saudi* princes where we basically went to",
+          "location": 983
+        },
+        {
+          "text": "*saudi* *arabia* and said look you need to",
+          "location": 986
+        }
+      ]
+    },
+    {
+      "id": "hKSHNiPdaQU",
+      "segments": [
+        {
+          "text": "tonight *saudi* *arabia* the nexium sex",
+          "location": 0
+        },
+        {
+          "text": "says *saudi* *arabia* controlled us puppets",
+          "location": 176
+        },
+        {
+          "text": "*saudi* *arabia* don't you realize the war",
+          "location": 186
+        },
+        {
+          "text": "are up *saudi* *arabia* cooperating nexium",
+          "location": 220
+        },
+        {
+          "text": "*saudi* *arabia* and some sort of blackmail",
+          "location": 284
+        },
+        {
+          "text": "*saudi* *arabia* and if *saudi* *arabia* could",
+          "location": 330
+        }
+      ]
+    },
+    {
+      "id": "hxMqBVB9oIU",
+      "segments": [
+        {
+          "text": "iran is more wanted by israel and *saudi*",
+          "location": 1091
+        },
+        {
+          "text": "*arabia* than it is wanted by people in",
+          "location": 1097
+        }
+      ]
+    },
+    {
+      "id": "IC9FN_fY2go",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* and iran so you have to",
+          "location": 690
+        },
+        {
+          "text": "powers such as *saudi* *arabia* who has you",
+          "location": 877
+        }
+      ]
+    },
+    {
+      "id": "Ima-kdh9Zo0",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* more specifically this",
+          "location": 1001
+        },
+        {
+          "text": "why did jared kushner travel to *saudi*",
+          "location": 1009
+        },
+        {
+          "text": "*arabia* recently what a *saudi* *arabia*",
+          "location": 1012
+        },
+        {
+          "text": "relevant what is relevant with *saudi*",
+          "location": 1018
+        },
+        {
+          "text": "undisclosed trip to *saudi* *arabia* two",
+          "location": 1031
+        },
+        {
+          "text": "days before the *saudi* purge here we have",
+          "location": 1033
+        },
+        {
+          "text": "trip to *saudi* *arabia* and earlier reports",
+          "location": 1038
+        },
+        {
+          "text": "that kushner were in *saudi* *arabia*",
+          "location": 1042
+        },
+        {
+          "text": "still in *saudi* *arabia* assisting the new",
+          "location": 1123
+        }
+      ]
+    },
+    {
+      "id": "iQHR1-6RKGY",
+      "segments": [
+        {
+          "text": "his ties to whom abidine *saudi* *arabia*",
+          "location": 421
+        }
+      ]
+    },
+    {
+      "id": "iry3kHF_jvI",
+      "segments": [
+        {
+          "text": "backdoor deals of *saudi* *arabia* through",
+          "location": 303
+        }
+      ]
+    },
+    {
+      "id": "is45doBHO4k",
+      "segments": [
+        {
+          "text": "talking about is *saudi* *arabia* and how",
+          "location": 62
+        },
+        {
+          "text": "understand *saudi* *arabia* you have to",
+          "location": 70
+        },
+        {
+          "text": "and you look at from *saudi* *arabia* to",
+          "location": 127
+        },
+        {
+          "text": "about *saudi* *arabia* so let's read through",
+          "location": 175
+        },
+        {
+          "text": "it how did *saudi* *arabia* welcome potus",
+          "location": 178
+        },
+        {
+          "text": "how did *saudi* *arabia* welcome barack",
+          "location": 184
+        },
+        {
+          "text": "obama during his trip how did *saudi*",
+          "location": 186
+        },
+        {
+          "text": "*arabia* welcomed hrc during her trip why",
+          "location": 188
+        },
+        {
+          "text": "is this relevant not suggesting *saudi*",
+          "location": 191
+        },
+        {
+          "text": "*arabia* is clean by any means but they",
+          "location": 193
+        },
+        {
+          "text": "missile attacks in *saudi* *arabia* and",
+          "location": 261
+        },
+        {
+          "text": "saying as the crown prince of *saudi*",
+          "location": 282
+        },
+        {
+          "text": "*arabia* is making a tour through america",
+          "location": 284
+        },
+        {
+          "text": "what's going on in *saudi* *arabia* right",
+          "location": 303
+        },
+        {
+          "text": "country of *saudi* *arabia* now i'm not here",
+          "location": 350
+        },
+        {
+          "text": "saying that *saudi* arabia's our best ally",
+          "location": 353
+        },
+        {
+          "text": "talks about *saudi* *arabia* now and why is",
+          "location": 386
+        },
+        {
+          "text": "about the barrage of missiles on *saudi*",
+          "location": 404
+        },
+        {
+          "text": "*arabia* which just happened a few days",
+          "location": 406
+        },
+        {
+          "text": "why did jared kushner travel of *saudi*",
+          "location": 543
+        },
+        {
+          "text": "*arabia* recently what is *saudi* *arabia*",
+          "location": 545
+        },
+        {
+          "text": "else is relevant with *saudi* *arabia* safe",
+          "location": 552
+        },
+        {
+          "text": "what we are seeing live today in *saudi*",
+          "location": 586
+        },
+        {
+          "text": "*arabia* so why don't you guys sit back",
+          "location": 589
+        },
+        {
+          "text": "lead the prince in *saudi* *arabia* who was",
+          "location": 687
+        },
+        {
+          "text": "battleships in riyadh in *saudi* *arabia*",
+          "location": 696
+        },
+        {
+          "text": "released what just occurred in *saudi*",
+          "location": 786
+        },
+        {
+          "text": "*arabia*",
+          "location": 789
+        },
+        {
+          "text": "*saudi* *arabia* how is this connected to al",
+          "location": 842
+        },
+        {
+          "text": "*saudi* *arabia* okay and in the harvard",
+          "location": 873
+        },
+        {
+          "text": "seeing missiles raining down in *saudi*",
+          "location": 939
+        },
+        {
+          "text": "*arabia* and then taunting us with this",
+          "location": 942
+        },
+        {
+          "text": "it'll be the us *saudi* *arabia* and israel",
+          "location": 1184
+        },
+        {
+          "text": "right and then get my *saudi* *arabia* sand",
+          "location": 1291
+        },
+        {
+          "text": "we're hoping for a more moderate *saudi*",
+          "location": 1340
+        },
+        {
+          "text": "*arabia* that's the goal we have to i want",
+          "location": 1342
+        }
+      ]
+    },
+    {
+      "id": "J296P7VE5p8",
+      "segments": [
+        {
+          "text": "facilities in *saudi* *arabia* there is not",
+          "location": 579
+        }
+      ]
+    },
+    {
+      "id": "j8A3-iLoEOI",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* hussein",
+          "location": 130
+        }
+      ]
+    },
+    {
+      "id": "jCLp7eJwIrE",
+      "segments": [
+        {
+          "text": "called the relationship between *saudi*",
+          "location": 291
+        },
+        {
+          "text": "*arabia* and russia and opec a cartel and",
+          "location": 295
+        }
+      ]
+    },
+    {
+      "id": "JP_9kWACn3U",
+      "segments": [
+        {
+          "text": "why trump's first state trip with *saudi*",
+          "location": 1493
+        },
+        {
+          "text": "*arabia* which nation could provide the",
+          "location": 1495
+        },
+        {
+          "text": "overthrow of *saudi* *arabia* new crown",
+          "location": 1537
+        }
+      ]
+    },
+    {
+      "id": "k2pfkR9ey1o",
+      "segments": [
+        {
+          "text": "happened in *saudi* *arabia* can you give us",
+          "location": 1023
+        },
+        {
+          "text": "*saudi* *arabia* before it happened who told",
+          "location": 2446
+        }
+      ]
+    },
+    {
+      "id": "K6X_A5nDkn8",
+      "segments": [
+        {
+          "text": "cover-up of crimes in *saudi* *arabia* when",
+          "location": 400
+        },
+        {
+          "text": "embassy but or in a *saudi* embassy in",
+          "location": 409
+        }
+      ]
+    },
+    {
+      "id": "kbsHKl1F3PI",
+      "segments": [
+        {
+          "text": "public *saudi* *arabia* was strategic so the",
+          "location": 506
+        },
+        {
+          "text": "prince allah from *saudi* *arabia* who was",
+          "location": 530
+        }
+      ]
+    },
+    {
+      "id": "KhBpRt0R9-8",
+      "segments": [
+        {
+          "text": "because she takes her prize and *saudi*",
+          "location": 4
+        },
+        {
+          "text": "*arabia* giving 25 million dollars guitar",
+          "location": 12
+        }
+      ]
+    },
+    {
+      "id": "KVAsKc8v5t8",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* to smear her to then turn",
+          "location": 1366
+        }
+      ]
+    },
+    {
+      "id": "L2Az5A7kcP8",
+      "segments": [
+        {
+          "text": "represent the house of saud or the *saudi*",
+          "location": 630
+        },
+        {
+          "text": "royal family of *saudi* *arabia* now looking",
+          "location": 632
+        }
+      ]
+    },
+    {
+      "id": "LBYjX-YKi3A",
+      "segments": [
+        {
+          "text": "safe actions in *saudi* *arabia* these guys",
+          "location": 802
+        }
+      ]
+    },
+    {
+      "id": "LcYUTlXa9LA",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* and israel and everybody",
+          "location": 522
+        },
+        {
+          "text": "it's all stuffed up sits out of *saudi*",
+          "location": 567
+        },
+        {
+          "text": "*arabia* a deep states out of there their",
+          "location": 569
+        }
+      ]
+    },
+    {
+      "id": "mDGN4mIrYTs",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* the outlaw prince outlaw or",
+          "location": 1165
+        },
+        {
+          "text": "my guess is *saudi* *arabia* this is right",
+          "location": 1187
+        },
+        {
+          "text": "how is the disconnected to *saudi* *arabia*",
+          "location": 1392
+        },
+        {
+          "text": "this connected to las vegas well *saudi*",
+          "location": 1396
+        },
+        {
+          "text": "*arabia* helped finance 9/11 our lead was",
+          "location": 1400
+        }
+      ]
+    },
+    {
+      "id": "MUy19aL4UNs",
+      "segments": [
+        {
+          "text": "saud which would be the *saudi* royal",
+          "location": 528
+        },
+        {
+          "text": "family in *saudi* *arabia*",
+          "location": 529
+        }
+      ]
+    },
+    {
+      "id": "N_LPPAZ6a5k",
+      "segments": [
+        {
+          "text": "first *saudi* *arabia* if we broke with them",
+          "location": 59
+        },
+        {
+          "text": "i don't make deals with *saudi* *arabia* i",
+          "location": 107
+        },
+        {
+          "text": "don't have money from *saudi* *arabia* i",
+          "location": 109
+        },
+        {
+          "text": "have nothing to do with *saudi* *arabia* i",
+          "location": 111
+        },
+        {
+          "text": "so *saudi* *arabia* has nothing to do with",
+          "location": 143
+        },
+        {
+          "text": "military equipment from *saudi* *arabia* we",
+          "location": 535
+        }
+      ]
+    },
+    {
+      "id": "nspGMcDjCKM",
+      "segments": [
+        {
+          "text": "foundation how much did *saudi* *arabia*",
+          "location": 924
+        },
+        {
+          "text": "*saudi* *arabia* and the clinton foundation",
+          "location": 962
+        },
+        {
+          "text": "refer to old drops the *saudi* *arabia* in",
+          "location": 1146
+        },
+        {
+          "text": "where you see *saudi* *arabia* national",
+          "location": 1161
+        },
+        {
+          "text": "one false *saudi* *arabia* true why was this",
+          "location": 1243
+        },
+        {
+          "text": "tresor a bia prior to *saudi* *arabia*",
+          "location": 1251
+        },
+        {
+          "text": "*saudi* *arabia* mentioned here in the same",
+          "location": 1330
+        },
+        {
+          "text": "here about *saudi* *arabia* and the national",
+          "location": 1375
+        }
+      ]
+    },
+    {
+      "id": "NV7heJFREsE",
+      "segments": [
+        {
+          "text": "what it's telling us is that *saudi*",
+          "location": 151
+        },
+        {
+          "text": "*arabia* had direct knowledge of the fact",
+          "location": 155
+        },
+        {
+          "text": "country of *saudi* *arabia* they would",
+          "location": 379
+        }
+      ]
+    },
+    {
+      "id": "Nw0SUu18OzY",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* who has been locked in a",
+          "location": 229
+        }
+      ]
+    },
+    {
+      "id": "o6KJkaLISn8",
+      "segments": [
+        {
+          "text": "war that is wanted by *saudi* *arabia* and",
+          "location": 202
+        },
+        {
+          "text": "*saudi* *arabia* and other countries at bay",
+          "location": 228
+        },
+        {
+          "text": "countries such as *saudi* *arabia* as we",
+          "location": 276
+        },
+        {
+          "text": "*saudi* *arabia* so this is not some game",
+          "location": 283
+        },
+        {
+          "text": "of people don't trust *saudi* *arabia* a lot",
+          "location": 381
+        },
+        {
+          "text": "out for iran and the the king of *saudi*",
+          "location": 395
+        },
+        {
+          "text": "*arabia* is looking out for *saudi* *arabia*",
+          "location": 398
+        },
+        {
+          "text": "obviously *saudi* *arabia* and israel have",
+          "location": 1047
+        }
+      ]
+    },
+    {
+      "id": "oC62RUXGAeo",
+      "segments": [
+        {
+          "text": "of *saudi* *arabia* relevant to above who is",
+          "location": 671
+        },
+        {
+          "text": "underage sex think *saudi* *arabia*",
+          "location": 676
+        },
+        {
+          "text": "the arrests in *saudi* *arabia* the",
+          "location": 743
+        }
+      ]
+    },
+    {
+      "id": "OLDsP1BrbDU",
+      "segments": [
+        {
+          "text": "shake from *saudi* *arabia* and you can read",
+          "location": 1276
+        },
+        {
+          "text": "air conditioning salesman from *saudi*",
+          "location": 1293
+        },
+        {
+          "text": "*arabia* like that's a hard job but as a",
+          "location": 1296
+        }
+      ]
+    },
+    {
+      "id": "oXoEIlNO77U",
+      "segments": [
+        {
+          "text": "iran and *saudi* *arabia* and that his",
+          "location": 802
+        }
+      ]
+    },
+    {
+      "id": "Pepkc8bM3uo",
+      "segments": [
+        {
+          "text": "now it says rothschild clinton *saudi*",
+          "location": 1170
+        },
+        {
+          "text": "*arabia* etc so these are all the people",
+          "location": 1173
+        }
+      ]
+    },
+    {
+      "id": "QuIScPQ4-HI",
+      "segments": [
+        {
+          "text": "will in fact *saudi* *arabia* yesterday you",
+          "location": 582
+        }
+      ]
+    },
+    {
+      "id": "R0kUC-zTi_w",
+      "segments": [
+        {
+          "text": "reserves in the world after *saudi* *arabia*",
+          "location": 1276
+        }
+      ]
+    },
+    {
+      "id": "R1LjmP8-04A",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* then north korea then it's",
+          "location": 613
+        },
+        {
+          "text": "here is a *saudi* *arabia* and and in the",
+          "location": 647
+        }
+      ]
+    },
+    {
+      "id": "RqvIfoLVDOk",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* you think huma and hussein",
+          "location": 1029
+        },
+        {
+          "text": "the muslim brotherhood in *saudi* *arabia*",
+          "location": 1171
+        }
+      ]
+    },
+    {
+      "id": "rwgpNw7-Z2o",
+      "segments": [
+        {
+          "text": "who was captured in *saudi* *arabia* and i'm",
+          "location": 1298
+        },
+        {
+          "text": "from the hobbyists in *saudi* *arabia* but",
+          "location": 1607
+        }
+      ]
+    },
+    {
+      "id": "svsHMcqSxo0",
+      "segments": [
+        {
+          "text": "why is potus focused on *saudi* *arabia*",
+          "location": 1685
+        }
+      ]
+    },
+    {
+      "id": "t1tZokS2EvY",
+      "segments": [
+        {
+          "text": "brennan's background regarding *saudi*",
+          "location": 326
+        },
+        {
+          "text": "*arabia* does the cia hold blackmail on",
+          "location": 327
+        }
+      ]
+    },
+    {
+      "id": "Tnrn3L8FY0I",
+      "segments": [
+        {
+          "text": "from *saudi* *arabia* and then that side and",
+          "location": 1056
+        }
+      ]
+    },
+    {
+      "id": "tsbPU6Db2kY",
+      "segments": [
+        {
+          "text": "how does *saudi* *arabia* connect to the bin",
+          "location": 491
+        },
+        {
+          "text": "laden's is a prince who in *saudi* *arabia*",
+          "location": 497
+        },
+        {
+          "text": "what are the events in *saudi* *arabia*",
+          "location": 521
+        },
+        {
+          "text": "lot of different people but in *saudi*",
+          "location": 536
+        },
+        {
+          "text": "*arabia* that the financial backer it says",
+          "location": 538
+        },
+        {
+          "text": "incest think *saudi* *arabia* so that's",
+          "location": 542
+        },
+        {
+          "text": "what other people were arrested in *saudi*",
+          "location": 582
+        },
+        {
+          "text": "*arabia* all the other princes what are",
+          "location": 584
+        }
+      ]
+    },
+    {
+      "id": "ubHkJ2JOyYc",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* i'm not saying it does but",
+          "location": 296
+        },
+        {
+          "text": "*saudi* *arabia* what happened on 9/11 where",
+          "location": 1214
+        },
+        {
+          "text": "a *saudi* *arabia* deal but with the eu so",
+          "location": 1339
+        },
+        {
+          "text": "imagine like the deal we have a *saudi*",
+          "location": 1341
+        },
+        {
+          "text": "*arabia* now where we kind of have turned",
+          "location": 1343
+        }
+      ]
+    },
+    {
+      "id": "uNbF9eE8iQo",
+      "segments": [
+        {
+          "text": "talking about *saudi* *arabia* and all",
+          "location": 1095
+        },
+        {
+          "text": "about a corruption purge in *saudi* *arabia*",
+          "location": 1157
+        }
+      ]
+    },
+    {
+      "id": "uUHrITp2OII",
+      "segments": [
+        {
+          "text": "happens to be in *saudi* *arabia* all of the",
+          "location": 109
+        },
+        {
+          "text": "the highest bidder happens to be *saudi*",
+          "location": 444
+        },
+        {
+          "text": "*arabia* and the gulf states at this point",
+          "location": 446
+        },
+        {
+          "text": "been meet with a *saudi* prince what",
+          "location": 451
+        }
+      ]
+    },
+    {
+      "id": "v1EVuUPy0TM",
+      "segments": [
+        {
+          "text": "news out of *saudi* *arabia* where it says",
+          "location": 1533
+        },
+        {
+          "text": "that heavy gunfire in *saudi* king palace",
+          "location": 1536
+        }
+      ]
+    },
+    {
+      "id": "VLODkOCKOTQ",
+      "segments": [
+        {
+          "text": "secret funding from china and *saudi*",
+          "location": 709
+        },
+        {
+          "text": "*arabia* so who",
+          "location": 711
+        }
+      ]
+    },
+    {
+      "id": "VSa_TIkV6lE",
+      "segments": [
+        {
+          "text": "discovered in *saudi* *arabia* in 2012 by",
+          "location": 1678
+        },
+        {
+          "text": "*saudi* scientists then studied in canada",
+          "location": 1680
+        }
+      ]
+    },
+    {
+      "id": "WQ505PlHjnA",
+      "segments": [
+        {
+          "text": "the purge in *saudi* *arabia* was based on a",
+          "location": 175
+        },
+        {
+          "text": "the purge in *saudi* *arabia* was kind of",
+          "location": 181
+        },
+        {
+          "text": "*saudi* *arabia* basically and what that",
+          "location": 200
+        },
+        {
+          "text": "*saudi* *arabia* and it was of the elite",
+          "location": 245
+        },
+        {
+          "text": "worked his intention of going to *saudi*",
+          "location": 332
+        },
+        {
+          "text": "*arabia* i think what he did was of course",
+          "location": 337
+        },
+        {
+          "text": "*saudi* *arabia* he sat down with the the",
+          "location": 345
+        },
+        {
+          "text": "*saudi* *arabia* and it's 10,000 square",
+          "location": 427
+        },
+        {
+          "text": "you look at *saudi* *arabia* they've been at",
+          "location": 632
+        },
+        {
+          "text": "so this is a plan by *saudi* *arabia* and",
+          "location": 759
+        },
+        {
+          "text": "*saudi* *arabia* you know women are given",
+          "location": 774
+        },
+        {
+          "text": "other corner are *saudi* *arabia* egypt the",
+          "location": 913
+        }
+      ]
+    },
+    {
+      "id": "wwoXSecjUy0",
+      "segments": [
+        {
+          "text": "hillary and hillary's allison *saudi*",
+          "location": 980
+        },
+        {
+          "text": "hillary in *saudi* *arabia* that's been been",
+          "location": 982
+        }
+      ]
+    },
+    {
+      "id": "X28tURO5Cq0",
+      "segments": [
+        {
+          "text": "removed *saudi* *arabia* u.s. asia eu",
+          "location": 675
+        },
+        {
+          "text": "happening in *saudi* *arabia* under *saudi*",
+          "location": 684
+        },
+        {
+          "text": "*arabia* under safe under same context",
+          "location": 686
+        },
+        {
+          "text": "*saudi* *arabia* why is this relevant",
+          "location": 699
+        },
+        {
+          "text": "*saudi* *arabia* one u.s. to asia 3uv",
+          "location": 702
+        }
+      ]
+    },
+    {
+      "id": "Xfgb4YaqMT0",
+      "segments": [
+        {
+          "text": "he running in 2020 also what about *saudi*",
+          "location": 2164
+        },
+        {
+          "text": "*arabia* our returning over going to",
+          "location": 2166
+        },
+        {
+          "text": "prince in *saudi* *arabia* no i think",
+          "location": 2172
+        },
+        {
+          "text": "with *saudi* *arabia* i mean they are one of",
+          "location": 2176
+        }
+      ]
+    },
+    {
+      "id": "xot9iXQ-zBA",
+      "segments": [
+        {
+          "text": "hillary clinton in *saudi* *arabia* hi i'm",
+          "location": 10
+        },
+        {
+          "text": "*saudi* *arabia* and how that all connects",
+          "location": 120
+        },
+        {
+          "text": "wonderland hillary and *saudi* *arabia*",
+          "location": 1418
+        },
+        {
+          "text": "by lewis carroll *saudi* *arabia* the bloody",
+          "location": 1422
+        },
+        {
+          "text": "hillary clinton alice in *saudi*-*arabia*",
+          "location": 1477
+        },
+        {
+          "text": "wonderland hillary clinton in *saudi*",
+          "location": 1507
+        },
+        {
+          "text": "*arabia* and it goes over a lot of what",
+          "location": 1509
+        },
+        {
+          "text": "ago and it says *saudi* *arabia* epstein",
+          "location": 1640
+        },
+        {
+          "text": "*saudi* *arabia* equals wonderland it says",
+          "location": 1709
+        },
+        {
+          "text": "regarding *saudi* *arabia* have faith for",
+          "location": 1714
+        },
+        {
+          "text": "still an issue in *saudi* *arabia* so",
+          "location": 1729
+        },
+        {
+          "text": "those people but hugh says here *saudi*",
+          "location": 1852
+        },
+        {
+          "text": "*arabia* was a priority we wish this was a",
+          "location": 1855
+        },
+        {
+          "text": "hillary clinton in *saudi* riyal what is",
+          "location": 1860
+        },
+        {
+          "text": "what was she doing in *saudi* *arabia* all",
+          "location": 1874
+        },
+        {
+          "text": "marriage arrangements in *saudi* *arabia*",
+          "location": 1888
+        },
+        {
+          "text": "connections to *saudi* *arabia* in the",
+          "location": 1998
+        },
+        {
+          "text": "and *saudi* *arabia* that's something we've",
+          "location": 2015
+        },
+        {
+          "text": "*saudi* *arabia* somehow it only would make",
+          "location": 2261
+        },
+        {
+          "text": "*saudi* *arabia* actually talked about all",
+          "location": 2305
+        }
+      ]
+    },
+    {
+      "id": "YDbwkcXJXRo",
+      "segments": [
+        {
+          "text": "reflection why apple why *saudi* *arabia*",
+          "location": 542
+        },
+        {
+          "text": "and resolved *saudi* *arabia* and q1 681 but",
+          "location": 578
+        }
+      ]
+    },
+    {
+      "id": "YiKnAv4Iw2I",
+      "segments": [
+        {
+          "text": "speeches in china in russia *saudi* *arabia*",
+          "location": 585
+        },
+        {
+          "text": "*saudi* *arabia* earning a total of $600,000",
+          "location": 630
+        },
+        {
+          "text": "riyadh founded by the *saudi* investment",
+          "location": 637
+        }
+      ]
+    },
+    {
+      "id": "YLlsruYA4pk",
+      "segments": [
+        {
+          "text": "brennan's background regarding *saudi*",
+          "location": 1711
+        },
+        {
+          "text": "*arabia* does the cia hold blackmail on",
+          "location": 1713
+        },
+        {
+          "text": "is brennan's background in see in *saudi*",
+          "location": 2324
+        },
+        {
+          "text": "*arabia* so what was his connection to",
+          "location": 2326
+        },
+        {
+          "text": "*saudi* *arabia* it was his first assignment",
+          "location": 2328
+        },
+        {
+          "text": "*saudi* *arabia* and he spent almost a",
+          "location": 2337
+        }
+      ]
+    },
+    {
+      "id": "ZGLLyMlvoUY",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* clinton foundation we have",
+          "location": 668
+        }
+      ]
+    },
+    {
+      "id": "ZOUO80Q44B4",
+      "segments": [
+        {
+          "text": "make more public *saudi* *arabia* was",
+          "location": 152
+        }
+      ]
+    }
+  ]
+}

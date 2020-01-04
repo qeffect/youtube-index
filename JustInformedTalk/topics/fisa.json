@@ -1,0 +1,4202 @@
+{
+  "indexed": "_0GMW9eop3Q,_0k8gf2hqT8,_3Rl1KrDzlc,_9rpHbIpjdc,_c3-w-w0hd8,_gjH2umHAGw,_RmutDWSGgw,_xRwk1GDCtc,_xXAzbpQxCk,_Y32fnAp_mE,-_D0oq02HRY,-2V-Fidbe4Q,-fBcMRleHJs,-lj5lbMIt9w,-uo9Q6D8210,-WTkkUEgMpA,-wX2rOP6ktI,-x009HbyeMM,0DszWULPnJA,0kSVAa_BmU4,0Rg0lwnxdYA,0RnrwLJ2YB8,0UsEdqoi-uo,0v_9_7NQe7o,0ZQpgASg94o,12UHF03bxqg,12UIMLvh03M,14DEr87tKSc,14goSb7_h8k,188yfjWBsKM,1feiLSIDxzA,1G4XAByqwdc,1IBdXdpMtSQ,1KbA5wwl5iA,1mxwUYRqCLc,1qxksXmFHOw,1Sh9FkZ0Z_M,1WLIn7en9pQ,1ztx8JOWikU,21_5KACaBAA,246yVwb5diI,29I9Zl0qTFQ,2B6uuN4h5To,2B8vstdpb9Y,2hwzvqyTWk0,2kcXiFrNxu8,2KlWnWIW9es,2KpDBlqtvh4,2MJZ9NDs3EY,2nHvxV92Fo8,2NXqxp8mQmI,2Q3ooMM1qAA,2rguDK_EFjs,2VvxKYycSTA,2z1u4f9qxSk,3__6oQQBx4U,366ELkY8w8c,3anaRM4cxWc,3cNC-TuFKTM,3DT04vReamc,3hTjnoctYb8,3in8rDn_GiU,3iNDtYv3ogU,3inrKG1TPqA,3JpE_sVAXtI,3mBJwCIqEp4,3mZH_LNF6QM,3QHT8IoCibY,3QPQ-gJQDio,43l56zl36nA,46EzIkcqsf8,4aeInV5RoBU,4IELe4HKwW8,4krKjHMPsg4,4l3InNocQok,4L5tYESX97M,4pRyUnOoG4k,4QBY4MC9H4A,4reDYsbFjIA,4SVOSBqdzh4,4V_km03gzkc,4Vg0iy8-V8U,4wnZSd3XIrs,5A6dZwdwTxA,5aclmTHqG3Y,5dLvEB_CqP0,5FndfbwFaR4,5GkDWQBxE_Y,5i-ZMBE5r80,5LnqJOG082k,5msn1xthpVw,5OD8QdsbiDU,5teFvGwE9Ec,5tLVsNwlo4E,5ZV3UJmN3j4,5zwSaKW2qzA,6__xoin6aw8,639Gc3bX0Hs,68Bl7RbXS2A,6dPlpdME9bA,6gP2Zh2J4lU,6T7oPFcotQ8,6VOzbo_Xzcs,6vu4aiDJlLI,6ZRbp3qcQWw,77KCplrOQIs,77xVpKuEWnc,79lRgwEbfHQ,7BjNpnHLRlg,7dUatd4L2_I,7HkSIcIUJEI,7KyRGYh74yM,7nBOtseGsvM,7PPE5IfAS8Q,7uKOdZECGKo,84FDa13e5-g,85-ahemlFUU,85y3X4rQxA4,8BvPh2JcG1I,8fechd5G8bQ,8HN_fDiyxps,8Hn9sRON8JU,8IEQfBwVCnI,8pfDKYOa2YQ,8SIxFBeXF3A,8SJ8Si8dOik,8VlLxBGFQbo,9_UKSBXn7ko,9-Ct8QNd5l8,93Ilpb7IySY,94-23EfqkIo,96qHwT4UG7A,9aC20cRhA6A,9bmI1uHhg2Y,9CRaVe_WoRA,9DCeANHAmJk,9E6bhpqXb4Q,9GURyE2qHg0,9iLcGsHVzpM,9IoPnmjsOQg,9IYh49I9vLI,9kWhckKtLyw,9lRA4hj5-zs,9O8VPOd3Dsw,9ObMFi6ReKE,9PqmG_y1mEA,9Rsj2RvPQQY,9v8K97nYOmc,9YpbXzuAYao,A3CcapXxDBc,A3UCbl5D6xw,A4K1C-k9Soo,AaEkl-of76c,aAjl5E-9Xwc,aauT5183_Y0,ABKGKVoSAZs,Ae8VPPrDP3I,aeg4hpZ9Ozw,afbpVahE8m0,AGcXhMgEl-g,AGvin09PnlY,Ai_hTzDSyO0,aiSN2yWRXMk,AJPTbrTUYxI,AKx3yG4zhNQ,altHQp6NMoA,aMjfmqYp1k0,aMU1r-XXIe0,ANNU2PD-HFo,ApxADBQ8v3A,AQn0A4aVW6E,aRH_VcgxE-M,aRk2tCY5P6A,AT7BqWZWWag,ATycYftkD9M,avWKx_cmjpk,aww13Cq9r7Q,ayRMg-VLpmE,aZ_1pPcUgFk,aZ9ow4ZlnfI,AzTWh1-xt14,b-LpBCpFIU0,b0pHnjCKYzI,b1BuM4rDtj4,b2o6RTKxh4I,BBOhxkAxLis,bBQITwVQ2c4,BcVYQ8Qb8WE,bcxBqQ7PMew,BEnGqcIKQBI,BFqiftOTLL8,BFxZRHPz1QI,BgKgV7LyEIo,bJpGmwu9-k4,BjZ3EmeaX5k,bKA-qsz0fsU,BKrYqZUyOIQ,BLbmipYjHR4,BMvOvzcBOq0,BnmAkjBYrZ8,BoMEoJRDgcU,BRRHTfNJMg4,bTO8-X3R_0g,BufAWX9OL9M,bWCu3V4E0Cw,BX0vhcv_pRQ,BYme9spNF9A,BZ6g4cgOQIo,c2JtJ3aEJI4,c3uk_PM4FTU,C52GieN9zdM,c8x6_3FTcmk,Ce_6croEF8c,CeUgCB6lb8Q,cfD7Ifh578E,CFDn-VKYsC0,cjcQ6t4JMXs,CLxo7YDcLzk,Coqn8CHu1cM,CpCLI8mo6T8,cppd4rNaGCY,cQbGXIlAVTM,cRLq7aAC-XI,Ct4sQbD2Dj0,CUobzPBIPYs,CVPDq78OM50,CxlcQbMPATY,CYMHBldnHH4,cZWsTRVduts,d_GwGYmK26Y,d1MKZw4vHEw,d352Nhkd02g,d8l0y2XLq3Q,d9HpahnSk3g,ddO9VroAjuU,DeiOBs9WCFY,dfzrdTb1zZE,dgJVXPaHqP8,dI75N0o_5DI,DJhwFGJhk5k,dLlF7sxrUCQ,DOO7fNIwpYY,dPmQytHJFIs,dS2qkAQ33Xw,Dt0bn771sGA,dTiW7GUvpiE,DTJrCcpKAsE,DWyqBff8MD0,dxXweiDpFuI,dzvqryS1tvM,DZyPZzqwvsA,E0C2qvYK31I,E0IZHA3G3Ig,e4MakjQr6wQ,e5nUedXajQI,E930zZVMjyY,EEnVvVzaBCo,ehplL8V_3rs,ehRpPBA6HgM,ejJhYz7wFwo,ek_MgNKuQKg,EKeXTDJ61eQ,EL6vqvpcreQ,Erfp78sCx3E,etzYB5Acisw,ex1IEZ3gULY,EXbJ0oQART8,eYGFc99WbHU,EyLK_rCRmPI,EzqNatWuS6Y,f4qBTki5iH4,F5FobXrvY3E,f7YHUbjdCzM,FB4dExVms7s,fB7BASL5g54,fbpZlOeQiAM,fbY83L61Kd0,fchREWrn0vY,FDbXuhcLWtU,Ff4fEQVTpSs,FHBsONoVnq0,fhyBcxyxbVI,Fk16jEhiBrQ,fLuLK72GwyA,FLYTjpU15No,ft2oJSlNPtQ,fU5hFfGsdjM,FWZHVOZ4ggQ,g_-JsMSaCdA,g_4yojz2mAs,g-KHTYSFJXA,G0xwAccaQ0A,G2aQUZYgTL4,G5Xu8M-uc60,G6rtL2LbzqA,g8XCMFkFyjY,gAHVZF__So4,GcJnkA-FE1M,Gd0BSKLLqsc,Gf0trv-9tvc,gHZMOupPYsg,GHzp1M24Fsw,gJcJ38T8oNM,GjQpoYm971o,gMSJoVkQZWw,gnDVjDTXE0k,GNedUPBOSqs,Gnmbc4G0dmg,GRBDH_i0FB4,GU2lVhxS9vY,gya_mSZwAl0,GYcdeNuBthM,GYRgczPNxJI,h17tF0Xii1c,h1BC7XmZr8I,h7CqHL04D-Y,HCCtVyqBoRE,HF1kNM1SZWw,hfX559mxFQo,HGHg7Nt2WVo,HiDyMOUhdZY,hIG3MjKRzBE,HjH_ZCvf3_g,hKbE7MG3OIA,HkJj6tZtzKg,hKSHNiPdaQU,hNazips7-k8,HoHfevtIV2w,hQcYnde_RDA,HTETmsKXnkE,hxMqBVB9oIU,i7CsAm6pTpE,i7hxZGH9fCY,iaA6l7wVsGE,IC9FN_fY2go,If2rCEuFeNY,ijaW9oSwCw8,im06ZuqowDk,Ima-kdh9Zo0,IMvbHX-XxMs,iQHR1-6RKGY,iry3kHF_jvI,is45doBHO4k,IubAKIW7LW8,IuGCv6BE808,ivzGKZFp8M8,IyRWVFXn45A,IZLsNynu6Ns,j0aA2J_kFkc,J296P7VE5p8,J2spK-T9ev0,j4__e_WelW0,j598EAg5zdI,J6zapuerlJk,J7b6SPEd0FA,j8A3-iLoEOI,J8tQL-J1p-4,jCLp7eJwIrE,JEKeMGgqEFA,jIf63gDirvc,JkdHKdiTXAM,jnUP8mEuPqc,jO3DSz6VU10,JP_9kWACn3U,jPdBNzia1bQ,JqB96gXQCHs,Jqmk-9gfMoc,jr_aTXakEwk,jSkzvaEVGyw,Jw000N2NVzY,JXObjjcM37E,k1e3a3x0VHE,k2pfkR9ey1o,k3a7JrqCGxM,k5J7_AWQvec,K68zHw0_xp8,K6D4AseiyvA,K6X_A5nDkn8,k7HZG6YnFww,Ka58QhPEBs0,kbsHKl1F3PI,kGrIdTasjN0,KhBpRt0R9-8,kMvmpeySbAk,kmwVSMKdhaU,kmxEhecyMN8,Ko4YrWusYB0,kPNmP4e9jfA,KQYQ6-hMOjY,KsFcbtIB9IQ,kv41joeMcM4,KVAsKc8v5t8,KVvB35XeEig,kZgInLvnTxE,kZSTJv4Hxk0,L_xCuCDisLM,L1AVZd4DsQc,L2Az5A7kcP8,L3Ij2cvGFkY,l6iCUxTXOBw,L6uSGv164Xw,L8KfIdZMszk,l8r-U_GKKPw,l8TEy3DabHA,LBYjX-YKi3A,LcYUTlXa9LA,LDbkkYUWvpA,Lioi0r8CebQ,LIwSMMqCTfU,ljBQV9kO_48,LniEKTpx8Qo,LPcjU1iEMa8,LrIY2UK10UA,lRMkZVPheVA,LTZqQj0xixg,lxUADz6sO24,M-MA0geeqcs,m-ODejCbNWA,m2iCTKjwGZY,M2SBwEaGWjA,m5TtiXCF06Y,m9zakT_UDY4,MbhDYscAAN8,MBmjx6pEVyM,mBU8ggNgS8s,mCG61ZXjwgM,mDGN4mIrYTs,mdj-e3WW1Bo,mDVvkqXidds,mh_UlTxOQQ8,MHhA6kW_K1g,mi6oOSOcu8U,mIMeh-79eFQ,mJWjRqEjk1U,MKMicgqhopw,mkzUXQCz7g0,Mm6WkdjRwXE,Mm8has8rJ6Q,MMiesWjJy3k,ModN7UGbEc4,mOIXtYBUHzE,mpo_IhTE430,mqjohU4wchw,MQkqD0MhKnY,mQmoOcT31Ro,msr6oM0RLew,Mt8NfLhd-bQ,MU2Rcx_7eK0,mU9euZ7sEes,MUy19aL4UNs,MvFElFTEyAo,N_LPPAZ6a5k,n2RdX0ydluc,n5D-l-3F7ik,N5YALJhloAc,nb48sfxaBzA,Nb9AndSj88I,NC02quLtRsA,NC8ofbJYmgQ,NcQDwCqQeO0,nDIenS-L7Qc,NgbBiTBNx_E,NjWZnzfy4Bk,No3ER-UeVEw,no6rrhl9HP4,NPnxrTpCpnw,NQNDDUtnzYk,nRaCGIerr6g,nspGMcDjCKM,ntdGh-KbrDw,NV7heJFREsE,NVweq5WqxQs,Nw0SUu18OzY,NwWi8UclL4k,Nyz8AZ4IvdA,Nz6lrDmtUxk,O_aacfmu4kk,O52v4nUvluw,O5EtoXjZNus,o6KJkaLISn8,o6YcBl2u0n0,o8Akan5GihI,oC62RUXGAeo,ocx0eQ3IYGc,ofmaPjLqKpY,oGgzXrlF0m4,OhcEdpoDPxQ,OipmgYEOOj8,OJj7uOy38hI,OjodkECxTFE,oJslPIbYry4,ojSvumv3RDc,OKRqb03TEUs,okuxViVbyTs,OLDsP1BrbDU,Olfa4vMMDEk,OQCgaoqYPDQ,ornHtBUFohc,OsoQu546x8g,oStMB-W5ovI,Ou8IoZrbRFY,OVGfiwkKdqY,OWfrBrQlhkk,oXoEIlNO77U,oXoo6eYsZ3o,OY0Jqc3-hV0,P2YYC5MMzFc,p4Wc6Zs3qQM,p5s61jAYDzE,PbcQo398070,pbi5dRCB2cA,pDkUn-isAGk,pdW4LVkaiYA,peHd3IOjylg,Pepkc8bM3uo,PfDbmwtawNg,PfZh-XLbE_I,Pi-FHomqwtE,PIHmedWFDBI,piPPWEVM7BI,Pk6jznEcP4U,PMt56AI7XrI,PN8oDcxVDKU,pOgq_axpn1k,PRGJZtCTLVA,pRriJNgzrcs,pUZDbK0a1R4,PwfwMH9cRP0,q0d0OkpV5gs,q1LXh9jQU38,Q23RnpfTgiE,q2tI5JrJKzE,q40i492ZGUU,Q5xDDuhudtU,Q8C-i61AH9Q,q8N3XgSDddU,qaB9Xgr-K-U,qaeEK1ydKHQ,qb8eND6_eH8,qbNEx7wfmRw,qCVOU264zOY,qeyblMlgmf4,QFxy7aHGQAk,QgdmFUaMaTg,QHMQrxZEG0A,Qi1p1ciC6ig,QJ87Y3IHM0E,qJZUzPJM_8o,QlB-DTGsxA4,qnSzR1wZFJw,qQCLQxxZ-JQ,qSIbJjKcNfg,QuIScPQ4-HI,QwJVJTZy7_I,QWt5r7p1prc,R0kUC-zTi_w,R1LjmP8-04A,r509r1pO2R0,r6wUIvkTfA0,RaMEtW-jj3Y,RBg7ln8YvZs,rCig3kho2SM,RDi6epw_6q8,RhIjc2y2tAk,rhU9LM5NMjw,rKsfEM1BgDc,RQ0Vxa8t2lE,RqvIfoLVDOk,RU7GoALMyfc,rvKeEwBBpVI,rWFJYGKR8Q0,rwgpNw7-Z2o,RWoC617ICiE,rWUwM3PSctc,RWwMA7NgHPw,rygv-W2nBMQ,S6nzPrp1znE,s7WQRQMZHpg,sbQRdt546xk,sCpKR0JfQYg,SCrkA-IU-MA,SCYQEWuPQ5k,shbkSBhJ2I0,SIa7IJeIZTs,sj2d6MMMHe8,Smgbk6_u95o,SMJH9hOBoHs,sNJWA5xXzJ4,SnZ6S3mRxL4,Sp4RLy_qYKg,sqjMUSm7P7g,Sr-bsrd1__k,sRO9eUbKbHk,STeFcjPilJQ,stXbBirLOa4,SuFrbJ6SU-o,svsHMcqSxo0,t1tZokS2EvY,t5_FT2IuuU4,t6E_0ndD_uc,t6Lt13vIedE,ta_w9snGNto,tA5qx4py3vk,Tcnt9LQ9ghs,TcTxPlJydUY,tHP9ltlAus8,TiTXAXiDfUc,tIWPr_DcdIo,tjMfQ3p3laE,Tnrn3L8FY0I,tPO2SMpryYw,TQscIaCFOkI,TQZvMICk0VY,tsbPU6Db2kY,TsPRXxIwYko,tvC2gQ4AczY,TvVR9BnYdcM,TwLUyzhOLOg,tYyiFa4vM6U,tyzocNwNQKM,u_GGjeSvYec,U008Q4Nl6Pw,u4vS2DaqFLc,U7kcy4JVL-A,u87rX2092og,UAHuVEBXel4,ubHkJ2JOyYc,udBq5d5QJu4,UDz1OZ08WdM,ufbriRv6ttg,ujGzJFLXyyU,ulqxOJMqlbE,uM3wMO8soPk,UnaCSOYEHJY,uNbF9eE8iQo,uPZH86T-gbU,UqoqSIhUkis,uUHrITp2OII,Uv9kdzginz4,UYZK6SLUDac,uznBzdoryQE,v__k4yoGtr0,v1EVuUPy0TM,V5UBaiLKTJ8,v7n8XMG6_lU,VAb-q4zZZ84,vdBH5hXgTx0,VDegR-PmnPY,VDiIHvrYiP4,VDNvoDprdXw,VdW3BTCrFyk,VEPn4Jpriag,vH2LP87XOhM,vhEhHA1_lYc,VifwNccVoaI,VIVQ8DSeXA0,vK8vS2FLi_8,VkklwV-XWV8,vLkThiVu-7w,VLODkOCKOTQ,Vm1M-wrzD30,vNBvyX0c2GU,VncJ0_vEoR0,VNKopA1AWqc,vNoLVvWSsyo,vo2k76mYB48,VOiG-bND5gw,vOxfriLzg30,vPi9nxUXeXY,vpPs1VYeYq4,VqfhBji9KRg,VSa_TIkV6lE,VU5aarfEf-k,vvIB5CzHtRk,W2YIfMkkfwk,w3TsReVTDJg,w7usO3iDt_o,W9zaoEqRVZA,WAHJQb4hEOc,wENuaVviKSo,wGKkvAU6BXM,wgltyCeZ9pk,WGM4fqCVAQg,wgx-dnhKrBU,WhXBxkP9xE4,WJ_m4kinM7w,wLKBFYSG524,wp-A4Xc_aLU,WQ505PlHjnA,ws0Sia6taoM,Ws3y42YOuCI,wwoXSecjUy0,WxIbdhY0A54,X1Ei27wYEkk,X28tURO5Cq0,X3Sqj3g_n6c,X4jATK5wBgU,X6DgdzLcbTc,x8rM1oZB8U8,XBbVIwgeD2g,xBjg0GydtgY,XD8UWjkcE1s,xDMceMQCI_I,xe9N5iVspPY,Xfgb4YaqMT0,xfoQHcU3MyI,XfSHGaDZbBk,XISLjXeWUwk,XLzGCZkYvIc,Xna5SsHOcUo,xot9iXQ-zBA,XpBu8gmssPY,XqmwL0TTfo0,xsFay-hybec,xsO-xNEhoBI,xSQvQDtzB6U,xTJgKGF--OQ,xwOcpq9TqpE,XXd8q4BfcYQ,xYBSsLGzMlc,Y0exfyEXpfI,Y88ecV_X87E,YACpICjPygE,YAHylAzN21o,YAZ0b3JyML8,yc4umVzljCM,YDbwkcXJXRo,ygVJlwArt0A,YiKnAv4Iw2I,YJiMBvqbCwc,ykP7QXaZp9M,YkrFx8fhafI,YLlsruYA4pk,YlYxp4VTDgw,YnYkBcT-rnY,yQrUOHG8e2k,YSoJN2dPoZw,YSq6X6aQhd0,yuNxrYT4t58,ywlM82gfvbk,yWZgvfLs_ss,yzJ3vadEb_0,YZniSg3z3Iw,z1mRlnZbCF0,Z3cDEAKbMyA,Z5r4RVFd2a8,z5T_1jyN5f8,z7iJ5zZ0cLY,Za2u9FkqiaU,zB8nIspKlco,Zdnvu5QIjXE,ZEn6pbfoNlo,Zfa1UNNaPxc,ZGLLyMlvoUY,zJoO_HiEUno,ZkwW4xznOmQ,zlajBZP3nH0,ZnPojroUsrU,ZOUO80Q44B4,zozvEuKPdKs,ZTV18-GhqyU,Zu2ITGywrmU,zu3muQumFyI,zUQ1UARkl24,ZZJ6BNKXcTw,q_QmpI9cyRY,zy611VHFFwU",
+  "topic": "FISA",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_0GMW9eop3Q",
+      "segments": [
+        {
+          "text": "investigation into the *fisa* abuse and",
+          "location": 321
+        },
+        {
+          "text": "honored look *fisa* abuse is a serious",
+          "location": 1539
+        },
+        {
+          "text": "this issue the *fisa* requests are",
+          "location": 1584
+        }
+      ]
+    },
+    {
+      "id": "_3Rl1KrDzlc",
+      "segments": [
+        {
+          "text": "fbi doj to expand fast *fisa* apps false",
+          "location": 1654
+        },
+        {
+          "text": "gave us talking about how the *fisa*",
+          "location": 1757
+        }
+      ]
+    },
+    {
+      "id": "_9rpHbIpjdc",
+      "segments": [
+        {
+          "text": "about of course the phytic *fisa* carter",
+          "location": 107
+        },
+        {
+          "text": "declassification of the *fisa* it's going",
+          "location": 1622
+        }
+      ]
+    },
+    {
+      "id": "_c3-w-w0hd8",
+      "segments": [
+        {
+          "text": "regarding the declassification of *fisa*",
+          "location": 824
+        },
+        {
+          "text": "the dossier and basis for the *fisa* and",
+          "location": 1177
+        },
+        {
+          "text": "declassify *fisa* q says reference correct",
+          "location": 1187
+        }
+      ]
+    },
+    {
+      "id": "-_D0oq02HRY",
+      "segments": [
+        {
+          "text": "why the carter page *fisa* was redacted",
+          "location": 10
+        },
+        {
+          "text": "*fisa* for purely to avoid political",
+          "location": 506
+        },
+        {
+          "text": "potus to obtain *fisa* warrant why the",
+          "location": 791
+        },
+        {
+          "text": "so with this *fisa* warrant and they",
+          "location": 902
+        },
+        {
+          "text": "knowing it was unverified to a *fisa*",
+          "location": 2379
+        }
+      ]
+    },
+    {
+      "id": "-2V-Fidbe4Q",
+      "segments": [
+        {
+          "text": "redacted out of it it's a 99 page a *fisa*",
+          "location": 221
+        },
+        {
+          "text": "uncovered in this *fisa* and the fact that",
+          "location": 473
+        }
+      ]
+    },
+    {
+      "id": "0DszWULPnJA",
+      "segments": [
+        {
+          "text": "show the evolution of the *fisa*",
+          "location": 1269
+        }
+      ]
+    },
+    {
+      "id": "0kSVAa_BmU4",
+      "segments": [
+        {
+          "text": "*fisa* court warrants and the peter stroke",
+          "location": 531
+        }
+      ]
+    },
+    {
+      "id": "0Rg0lwnxdYA",
+      "segments": [
+        {
+          "text": "illegal abuse of the *fisa* court taking",
+          "location": 389
+        },
+        {
+          "text": "*fisa* court is playing out it seems that",
+          "location": 689
+        },
+        {
+          "text": "the illegal use of the *fisa* court have",
+          "location": 707
+        }
+      ]
+    },
+    {
+      "id": "0ZQpgASg94o",
+      "segments": [
+        {
+          "text": "have here the *fisa* warrant in my hands",
+          "location": 167
+        },
+        {
+          "text": "would the *fisa* that we've fought so hard",
+          "location": 211
+        },
+        {
+          "text": "percent of that *fisa* that came out last",
+          "location": 231
+        },
+        {
+          "text": "a *fisa* warrant we were exonerated last",
+          "location": 255
+        },
+        {
+          "text": "dirt to get a *fisa* is bad what she what",
+          "location": 320
+        },
+        {
+          "text": "that *fisa* has has the president read the",
+          "location": 378
+        },
+        {
+          "text": "what's in the the *fisa* document was",
+          "location": 554
+        },
+        {
+          "text": "the *fisa* warrant to go after president",
+          "location": 561
+        },
+        {
+          "text": "and who is ordering this *fisa* warrant",
+          "location": 592
+        },
+        {
+          "text": "bottom to top layers *fisa* equals",
+          "location": 1731
+        },
+        {
+          "text": "starting with the *fisa* because the feist",
+          "location": 1770
+        },
+        {
+          "text": "foundation is *fisa* then the layers are",
+          "location": 1821
+        }
+      ]
+    },
+    {
+      "id": "12UIMLvh03M",
+      "segments": [
+        {
+          "text": "in the *fisa* court if i can't get that i",
+          "location": 1336
+        }
+      ]
+    },
+    {
+      "id": "14goSb7_h8k",
+      "segments": [
+        {
+          "text": "lying reasons why the *fisa* court was",
+          "location": 376
+        },
+        {
+          "text": "mind you illegally abusing the *fisa*",
+          "location": 881
+        }
+      ]
+    },
+    {
+      "id": "1feiLSIDxzA",
+      "segments": [
+        {
+          "text": "*fisa* warrant issued to spy on carter",
+          "location": 589
+        },
+        {
+          "text": "criminals you have this second *fisa*",
+          "location": 603
+        }
+      ]
+    },
+    {
+      "id": "1IBdXdpMtSQ",
+      "segments": [
+        {
+          "text": "obtain the *fisa* warrant was in fact",
+          "location": 280
+        },
+        {
+          "text": "the *fisa* carter page redacted documents",
+          "location": 346
+        },
+        {
+          "text": "declassified *fisa* documents were going",
+          "location": 611
+        },
+        {
+          "text": "*fisa* court so this is pretty big and",
+          "location": 634
+        },
+        {
+          "text": "disclose that information to the *fisa*",
+          "location": 1016
+        },
+        {
+          "text": "when the bureau applied for a *fisa*",
+          "location": 1021
+        }
+      ]
+    },
+    {
+      "id": "1KbA5wwl5iA",
+      "segments": [
+        {
+          "text": "*fisa* court documents that expose so much",
+          "location": 533
+        }
+      ]
+    },
+    {
+      "id": "1Sh9FkZ0Z_M",
+      "segments": [
+        {
+          "text": "*fisa* is released and a couple things",
+          "location": 265
+        },
+        {
+          "text": "a foia request on my *fisa* should be very",
+          "location": 365
+        },
+        {
+          "text": "one thing the classification of *fisa* and",
+          "location": 1285
+        }
+      ]
+    },
+    {
+      "id": "29I9Zl0qTFQ",
+      "segments": [
+        {
+          "text": "of course the *fisa* abuse where basically",
+          "location": 1358
+        },
+        {
+          "text": "evidence to the *fisa* court they knew",
+          "location": 1384
+        },
+        {
+          "text": "have basically may be given the *fisa*",
+          "location": 1400
+        },
+        {
+          "text": "with the *fisa* spying on president trump",
+          "location": 1504
+        }
+      ]
+    },
+    {
+      "id": "2KlWnWIW9es",
+      "segments": [
+        {
+          "text": "about *fisa* because she has her",
+          "location": 426
+        },
+        {
+          "text": "*fisa* court conveniently enough right",
+          "location": 433
+        }
+      ]
+    },
+    {
+      "id": "2nHvxV92Fo8",
+      "segments": [
+        {
+          "text": "the *fisa* courts documents related to the",
+          "location": 442
+        },
+        {
+          "text": "to get the *fisa* court warrants and to do",
+          "location": 1122
+        }
+      ]
+    },
+    {
+      "id": "2VvxKYycSTA",
+      "segments": [
+        {
+          "text": "whistleblower and as to the *fisa* warrant",
+          "location": 1149
+        },
+        {
+          "text": "even the head of the *fisa* court said it",
+          "location": 1160
+        },
+        {
+          "text": "allowing the *fisa* court to be abused why",
+          "location": 1225
+        },
+        {
+          "text": "of justice and the *fisa* court they",
+          "location": 1429
+        },
+        {
+          "text": "several of these *fisa* applications",
+          "location": 1437
+        },
+        {
+          "text": "admitted that the *fisa* warrants and",
+          "location": 1493
+        }
+      ]
+    },
+    {
+      "id": "3anaRM4cxWc",
+      "segments": [
+        {
+          "text": "is somebody's talking about *fisa* is the",
+          "location": 1455
+        },
+        {
+          "text": "that was used to get the *fisa* warrant to",
+          "location": 1583
+        }
+      ]
+    },
+    {
+      "id": "4IELe4HKwW8",
+      "segments": [
+        {
+          "text": "news concerning *fisa* concerning dirty",
+          "location": 22
+        }
+      ]
+    },
+    {
+      "id": "4SVOSBqdzh4",
+      "segments": [
+        {
+          "text": "ryan to block the *fisa* memo from",
+          "location": 120
+        }
+      ]
+    },
+    {
+      "id": "5aclmTHqG3Y",
+      "segments": [
+        {
+          "text": "of carter pages *fisa* application how did",
+          "location": 747
+        },
+        {
+          "text": "hillarie getting a past *fisa* abuse and",
+          "location": 1105
+        },
+        {
+          "text": "*fisa* applications how much more is",
+          "location": 1135
+        }
+      ]
+    },
+    {
+      "id": "5msn1xthpVw",
+      "segments": [
+        {
+          "text": "out that they lied to the *fisa* court to",
+          "location": 1094
+        }
+      ]
+    },
+    {
+      "id": "5OD8QdsbiDU",
+      "segments": [
+        {
+          "text": "the abuse of the *fisa* warrants to spy on",
+          "location": 935
+        }
+      ]
+    },
+    {
+      "id": "5zwSaKW2qzA",
+      "segments": [
+        {
+          "text": "on him through the *fisa* court and then",
+          "location": 595
+        },
+        {
+          "text": "way before there was any *fisa* warrant to",
+          "location": 847
+        }
+      ]
+    },
+    {
+      "id": "6__xoin6aw8",
+      "segments": [
+        {
+          "text": "*fisa* warrant violating the section 702 a",
+          "location": 1027
+        }
+      ]
+    },
+    {
+      "id": "639Gc3bX0Hs",
+      "segments": [
+        {
+          "text": "they used obviously in the the *fisa*",
+          "location": 234
+        },
+        {
+          "text": "to willingly withhold that from the *fisa*",
+          "location": 1637
+        }
+      ]
+    },
+    {
+      "id": "6dPlpdME9bA",
+      "segments": [
+        {
+          "text": "connected back to the original *fisa*",
+          "location": 715
+        },
+        {
+          "text": "the *fisa* courts should be ashamed of",
+          "location": 1271
+        }
+      ]
+    },
+    {
+      "id": "6gP2Zh2J4lU",
+      "segments": [
+        {
+          "text": "*fisa* court and we're going to talk about",
+          "location": 114
+        },
+        {
+          "text": "the *fisa* courts in",
+          "location": 400
+        }
+      ]
+    },
+    {
+      "id": "77KCplrOQIs",
+      "segments": [
+        {
+          "text": "of justice and then on to the *fisa* court",
+          "location": 845
+        },
+        {
+          "text": "*fisa* court was comfortable with the",
+          "location": 884
+        },
+        {
+          "text": "*fisa* court opinion also says the same",
+          "location": 939
+        }
+      ]
+    },
+    {
+      "id": "79lRgwEbfHQ",
+      "segments": [
+        {
+          "text": "abusing the *fisa* court illegally",
+          "location": 1594
+        }
+      ]
+    },
+    {
+      "id": "7dUatd4L2_I",
+      "segments": [
+        {
+          "text": "these illegal *fisa* warrants right where",
+          "location": 235
+        },
+        {
+          "text": "they were using the *fisa* court",
+          "location": 238
+        },
+        {
+          "text": "they were gaming the *fisa* court in order",
+          "location": 240
+        },
+        {
+          "text": "signing off on some of these *fisa*",
+          "location": 259
+        },
+        {
+          "text": "the officials who were seeking the *fisa*",
+          "location": 281
+        },
+        {
+          "text": "has cited how roses scene sign a *fisa*",
+          "location": 388
+        },
+        {
+          "text": "him rod rosenstein signing off on *fisa*",
+          "location": 448
+        },
+        {
+          "text": "opponents by using and abusing the *fisa*",
+          "location": 463
+        }
+      ]
+    },
+    {
+      "id": "7KyRGYh74yM",
+      "segments": [
+        {
+          "text": "a evidence and proof to get a *fisa*",
+          "location": 430
+        }
+      ]
+    },
+    {
+      "id": "7uKOdZECGKo",
+      "segments": [
+        {
+          "text": "intelligence surveillance act *fisa*",
+          "location": 372
+        },
+        {
+          "text": "immigration 100 agree review *fisa* and as",
+          "location": 472
+        },
+        {
+          "text": "because *fisa* is a necessary thing so it",
+          "location": 488
+        },
+        {
+          "text": "know you guys tell me it says the *fisa*",
+          "location": 740
+        },
+        {
+          "text": "related to *fisa* to fix problems this",
+          "location": 891
+        }
+      ]
+    },
+    {
+      "id": "85-ahemlFUU",
+      "segments": [
+        {
+          "text": "document the *fisa* documents now i'd",
+          "location": 533
+        },
+        {
+          "text": "the parts of the *fisa* the carter page",
+          "location": 563
+        },
+        {
+          "text": "*fisa* that were used to surveil the",
+          "location": 566
+        },
+        {
+          "text": "call it *fisa* cheating rubber-stamping",
+          "location": 696
+        }
+      ]
+    },
+    {
+      "id": "8IEQfBwVCnI",
+      "segments": [
+        {
+          "text": "get it going with the *fisa* court",
+          "location": 1459
+        },
+        {
+          "text": "furthering *fisa* warrants okay i hope i'm",
+          "location": 1491
+        }
+      ]
+    },
+    {
+      "id": "8pfDKYOa2YQ",
+      "segments": [
+        {
+          "text": "redacted pages from the *fisa* because",
+          "location": 151
+        },
+        {
+          "text": "activity blatant abuse of the *fisa* court",
+          "location": 168
+        },
+        {
+          "text": "*fisa* because it's just getting out of",
+          "location": 489
+        }
+      ]
+    },
+    {
+      "id": "8SJ8Si8dOik",
+      "segments": [
+        {
+          "text": "that the *fisa* are there excuse me that",
+          "location": 394
+        },
+        {
+          "text": "obviously the *fisa* courts slamming the",
+          "location": 1304
+        },
+        {
+          "text": "forth by the *fisa* court basically saying",
+          "location": 1312
+        },
+        {
+          "text": "established principles of the *fisa* court",
+          "location": 1321
+        },
+        {
+          "text": "*fisa* court and they have to give more",
+          "location": 1351
+        },
+        {
+          "text": "course here the next one is the *fisa*",
+          "location": 1364
+        },
+        {
+          "text": "reliable thank flynn *fisa* illegal so",
+          "location": 1412
+        }
+      ]
+    },
+    {
+      "id": "8VlLxBGFQbo",
+      "segments": [
+        {
+          "text": "*fisa* these these *fisa* warrants that were",
+          "location": 173
+        }
+      ]
+    },
+    {
+      "id": "9_UKSBXn7ko",
+      "segments": [
+        {
+          "text": "it to the *fisa* court to get a warrant to",
+          "location": 841
+        }
+      ]
+    },
+    {
+      "id": "94-23EfqkIo",
+      "segments": [
+        {
+          "text": "obama *fisa* to press daily briefing",
+          "location": 161
+        }
+      ]
+    },
+    {
+      "id": "9E6bhpqXb4Q",
+      "segments": [
+        {
+          "text": "get the *fisa* carter page warrants why",
+          "location": 408
+        },
+        {
+          "text": "dossier *fisa* court application so that's",
+          "location": 890
+        }
+      ]
+    },
+    {
+      "id": "9IoPnmjsOQg",
+      "segments": [
+        {
+          "text": "rosenstein bey grind and block the *fisa*",
+          "location": 140
+        }
+      ]
+    },
+    {
+      "id": "9IYh49I9vLI",
+      "segments": [
+        {
+          "text": "to the *fisa* and the investigations that",
+          "location": 276
+        },
+        {
+          "text": "important to the upcoming *fisa* report",
+          "location": 450
+        }
+      ]
+    },
+    {
+      "id": "9kWhckKtLyw",
+      "segments": [
+        {
+          "text": "*fisa* and and sometimes we tend to only",
+          "location": 166
+        },
+        {
+          "text": "point now the 20 pages in the *fisa*",
+          "location": 222
+        },
+        {
+          "text": "include *fisa* declassified by potus key",
+          "location": 474
+        },
+        {
+          "text": "awareness *fisa* he is / sparring",
+          "location": 501
+        },
+        {
+          "text": "this is it right here *fisa* implicates",
+          "location": 526
+        }
+      ]
+    },
+    {
+      "id": "A4K1C-k9Soo",
+      "segments": [
+        {
+          "text": "hashtag fight are given the pending *fisa*",
+          "location": 1163
+        }
+      ]
+    },
+    {
+      "id": "AaEkl-of76c",
+      "segments": [
+        {
+          "text": "declassification of *fisa* will initiate",
+          "location": 201
+        },
+        {
+          "text": "because if you're signing off on a *fisa*",
+          "location": 847
+        }
+      ]
+    },
+    {
+      "id": "AGvin09PnlY",
+      "segments": [
+        {
+          "text": "the the *fisa* warrants was just",
+          "location": 514
+        }
+      ]
+    },
+    {
+      "id": "aMjfmqYp1k0",
+      "segments": [
+        {
+          "text": "knew prior to signing see the cp *fisa*",
+          "location": 1179
+        },
+        {
+          "text": "page *fisa* it says why did rob roses dean",
+          "location": 1196
+        },
+        {
+          "text": "puts us into the court card of page *fisa*",
+          "location": 1234
+        }
+      ]
+    },
+    {
+      "id": "ApxADBQ8v3A",
+      "segments": [
+        {
+          "text": "abuse not only the *fisa* court but to",
+          "location": 358
+        }
+      ]
+    },
+    {
+      "id": "aRH_VcgxE-M",
+      "segments": [
+        {
+          "text": "*fisa* and comey but this is gonna be a",
+          "location": 1564
+        }
+      ]
+    },
+    {
+      "id": "ATycYftkD9M",
+      "segments": [
+        {
+          "text": "there were gross abuses of *fisa* an",
+          "location": 21
+        },
+        {
+          "text": "*fisa* abuses we are going to take a",
+          "location": 62
+        },
+        {
+          "text": "as a result of the *fisa* warrant they",
+          "location": 849
+        },
+        {
+          "text": "going for the *fisa* warrant initially was",
+          "location": 861
+        },
+        {
+          "text": "reason they went for the *fisa* to get",
+          "location": 878
+        },
+        {
+          "text": "ultimately relied on to get the *fisa*",
+          "location": 1308
+        },
+        {
+          "text": "*fisa* court hey the fact that this guy",
+          "location": 1578
+        },
+        {
+          "text": "the *fisa* court that this was being paid",
+          "location": 1636
+        }
+      ]
+    },
+    {
+      "id": "aww13Cq9r7Q",
+      "segments": [
+        {
+          "text": "released the *fisa* earlier then we could",
+          "location": 2243
+        }
+      ]
+    },
+    {
+      "id": "aZ_1pPcUgFk",
+      "segments": [
+        {
+          "text": "took all that abuse of the *fisa*",
+          "location": 388
+        }
+      ]
+    },
+    {
+      "id": "aZ9ow4ZlnfI",
+      "segments": [
+        {
+          "text": "*fisa* court has already communicated with",
+          "location": 250
+        },
+        {
+          "text": "about how the *fisa* court was abused",
+          "location": 703
+        },
+        {
+          "text": "of the *fisa* court against a us citizen",
+          "location": 1100
+        }
+      ]
+    },
+    {
+      "id": "b1BuM4rDtj4",
+      "segments": [
+        {
+          "text": "a simple logical question what is a *fisa*",
+          "location": 823
+        },
+        {
+          "text": "president by getting this *fisa* warrant",
+          "location": 994
+        },
+        {
+          "text": "cite the *fisa* court was signing off",
+          "location": 1010
+        },
+        {
+          "text": "of warrant *fisa* surveillance apparatus",
+          "location": 1037
+        },
+        {
+          "text": "trust the *fisa* process so i mentioned",
+          "location": 2194
+        },
+        {
+          "text": "it because it's very important the *fisa*",
+          "location": 2199
+        }
+      ]
+    },
+    {
+      "id": "b2o6RTKxh4I",
+      "segments": [
+        {
+          "text": "we're blocking the *fisa* memo from being",
+          "location": 1849
+        }
+      ]
+    },
+    {
+      "id": "BcVYQ8Qb8WE",
+      "segments": [
+        {
+          "text": "was some kind of abuse of the *fisa*",
+          "location": 30
+        },
+        {
+          "text": "government up to and including *fisa*",
+          "location": 454
+        },
+        {
+          "text": "*fisa* court was established under the",
+          "location": 459
+        },
+        {
+          "text": "illegally abuse the *fisa* court to spy on",
+          "location": 631
+        }
+      ]
+    },
+    {
+      "id": "bcxBqQ7PMew",
+      "segments": [
+        {
+          "text": "*fisa* warrants like that is that trying",
+          "location": 272
+        }
+      ]
+    },
+    {
+      "id": "BjZ3EmeaX5k",
+      "segments": [
+        {
+          "text": "giving them to *fisa* court judges and",
+          "location": 171
+        },
+        {
+          "text": "*fisa* court judges who are having",
+          "location": 174
+        }
+      ]
+    },
+    {
+      "id": "BLbmipYjHR4",
+      "segments": [
+        {
+          "text": "we know that the *fisa* court application",
+          "location": 815
+        }
+      ]
+    },
+    {
+      "id": "BoMEoJRDgcU",
+      "segments": [
+        {
+          "text": "contrast one of the *fisa* court judges",
+          "location": 1818
+        }
+      ]
+    },
+    {
+      "id": "BYme9spNF9A",
+      "segments": [
+        {
+          "text": "releasing the top secret *fisa* memo this",
+          "location": 93
+        }
+      ]
+    },
+    {
+      "id": "BZ6g4cgOQIo",
+      "segments": [
+        {
+          "text": "*fisa* iii don't know how that works",
+          "location": 1297
+        }
+      ]
+    },
+    {
+      "id": "c2JtJ3aEJI4",
+      "segments": [
+        {
+          "text": "carter page *fisa* warrant was rubber",
+          "location": 1
+        },
+        {
+          "text": "stamped through the *fisa* court without",
+          "location": 3
+        },
+        {
+          "text": "basically just rubber stamped the *fisa*",
+          "location": 1932
+        },
+        {
+          "text": "roberts oversees the *fisa* court and i'm",
+          "location": 1962
+        },
+        {
+          "text": "how the hearing went with the *fisa* court",
+          "location": 2008
+        },
+        {
+          "text": "warrant by the *fisa* judge so now it's",
+          "location": 2046
+        },
+        {
+          "text": "was like here sir this is the *fisa*",
+          "location": 2061
+        },
+        {
+          "text": "the *fisa* court he should direct the",
+          "location": 2138
+        },
+        {
+          "text": "to a *fisa* court judge i'm pretty sure",
+          "location": 2209
+        },
+        {
+          "text": "a *fisa* court if you knowingly deceive",
+          "location": 2214
+        }
+      ]
+    },
+    {
+      "id": "cfD7Ifh578E",
+      "segments": [
+        {
+          "text": "the *fisa* applications and the related",
+          "location": 206
+        },
+        {
+          "text": "spying thing from the *fisa* court on",
+          "location": 1597
+        }
+      ]
+    },
+    {
+      "id": "cjcQ6t4JMXs",
+      "segments": [
+        {
+          "text": "graham and the upcoming *fisa* release",
+          "location": 89
+        },
+        {
+          "text": "those *fisa* abuses and this article is",
+          "location": 2181
+        },
+        {
+          "text": "article kind of compares the *fisa*",
+          "location": 2198
+        }
+      ]
+    },
+    {
+      "id": "CLxo7YDcLzk",
+      "segments": [
+        {
+          "text": "we're gonna look at the *fisa* warrant",
+          "location": 281
+        },
+        {
+          "text": "concerns about the *fisa* warrant process",
+          "location": 647
+        }
+      ]
+    },
+    {
+      "id": "CpCLI8mo6T8",
+      "segments": [
+        {
+          "text": "the *fisa* court right and then went and",
+          "location": 382
+        }
+      ]
+    },
+    {
+      "id": "cQbGXIlAVTM",
+      "segments": [
+        {
+          "text": "forward with the *fisa* warrants based on",
+          "location": 858
+        }
+      ]
+    },
+    {
+      "id": "cRLq7aAC-XI",
+      "segments": [
+        {
+          "text": "this *fisa* court the spiced warrants and",
+          "location": 792
+        }
+      ]
+    },
+    {
+      "id": "Ct4sQbD2Dj0",
+      "segments": [
+        {
+          "text": "*fisa* warrant and put it into an",
+          "location": 1439
+        },
+        {
+          "text": "would need to understand how the *fisa*",
+          "location": 1448
+        }
+      ]
+    },
+    {
+      "id": "CUobzPBIPYs",
+      "segments": [
+        {
+          "text": "the *fisa* abuse scandal and this is what",
+          "location": 142
+        },
+        {
+          "text": "dossier no *fisa* warrant",
+          "location": 173
+        }
+      ]
+    },
+    {
+      "id": "CYMHBldnHH4",
+      "segments": [
+        {
+          "text": "that that's how the carter page *fisa*",
+          "location": 237
+        }
+      ]
+    },
+    {
+      "id": "cZWsTRVduts",
+      "segments": [
+        {
+          "text": "asking about the *fisa* declassification",
+          "location": 1597
+        }
+      ]
+    },
+    {
+      "id": "d1MKZw4vHEw",
+      "segments": [
+        {
+          "text": "abuse of the *fisa* court in the lead-up",
+          "location": 22
+        },
+        {
+          "text": "provisions for unmasking as far as *fisa*",
+          "location": 311
+        },
+        {
+          "text": "court and and *fisa* intelligence",
+          "location": 314
+        },
+        {
+          "text": "by the *fisa* court the intelligence",
+          "location": 371
+        },
+        {
+          "text": "*fisa* database database however after the",
+          "location": 382
+        },
+        {
+          "text": "denied by the *fisa* court in 2016 the",
+          "location": 589
+        },
+        {
+          "text": "valid visa warrant a *fisa* warrant would",
+          "location": 613
+        },
+        {
+          "text": "out says these *fisa* court denials would",
+          "location": 652
+        },
+        {
+          "text": "policy they couldn't clear the *fisa*",
+          "location": 663
+        },
+        {
+          "text": "of justice and then on to the *fisa* court",
+          "location": 742
+        },
+        {
+          "text": "*fisa* court was comfortable with the",
+          "location": 781
+        },
+        {
+          "text": "*fisa* court opinion also says the same",
+          "location": 836
+        },
+        {
+          "text": "rest of your ilk abuse this the *fisa*",
+          "location": 1211
+        },
+        {
+          "text": "went and tried to get a *fisa* court",
+          "location": 1222
+        }
+      ]
+    },
+    {
+      "id": "d8l0y2XLq3Q",
+      "segments": [
+        {
+          "text": "come out about *fisa* abuse what's the",
+          "location": 455
+        },
+        {
+          "text": "*fisa* court in order to gain a warrant",
+          "location": 889
+        },
+        {
+          "text": "the president in an abuse of the *fisa*",
+          "location": 1327
+        }
+      ]
+    },
+    {
+      "id": "ddO9VroAjuU",
+      "segments": [
+        {
+          "text": "was a conspiracy to lie to the *fisa*",
+          "location": 824
+        },
+        {
+          "text": "court mislead the *fisa* court by numerous",
+          "location": 826
+        },
+        {
+          "text": "the illegal abuse of the *fisa* court by",
+          "location": 849
+        },
+        {
+          "text": "to a *fisa* court judge to get him to sign",
+          "location": 855
+        },
+        {
+          "text": "that information to the *fisa* court to",
+          "location": 1506
+        }
+      ]
+    },
+    {
+      "id": "dfzrdTb1zZE",
+      "segments": [
+        {
+          "text": "unredacted *fisa* carter page warrant and",
+          "location": 678
+        },
+        {
+          "text": "*fisa* and the bruce or interviews and",
+          "location": 792
+        }
+      ]
+    },
+    {
+      "id": "dgJVXPaHqP8",
+      "segments": [
+        {
+          "text": "*fisa* court nobody else in the media got",
+          "location": 308
+        }
+      ]
+    },
+    {
+      "id": "DJhwFGJhk5k",
+      "segments": [
+        {
+          "text": "a *fisa* court judge and that's the judge",
+          "location": 843
+        },
+        {
+          "text": "the *fisa* warrant application on page but",
+          "location": 1182
+        }
+      ]
+    },
+    {
+      "id": "dPmQytHJFIs",
+      "segments": [
+        {
+          "text": "obtain *fisa* warrants in order to go and",
+          "location": 233
+        }
+      ]
+    },
+    {
+      "id": "dS2qkAQ33Xw",
+      "segments": [
+        {
+          "text": "related to *fisa* hi i'm craig and welcome",
+          "location": 12
+        },
+        {
+          "text": "whole premise for using the *fisa* court",
+          "location": 48
+        },
+        {
+          "text": "page and the *fisa* you know or the steel",
+          "location": 273
+        },
+        {
+          "text": "saying but it says unseal the *fisa*",
+          "location": 884
+        },
+        {
+          "text": "to the *fisa* court four times including",
+          "location": 971
+        },
+        {
+          "text": "they took this information to the *fisa*",
+          "location": 978
+        },
+        {
+          "text": "the *fisa* warrants show that this",
+          "location": 1047
+        },
+        {
+          "text": "in the *fisa* warrants about having",
+          "location": 1173
+        },
+        {
+          "text": "from the *fisa* document declassifying the",
+          "location": 1371
+        }
+      ]
+    },
+    {
+      "id": "Dt0bn771sGA",
+      "segments": [
+        {
+          "text": "right in 2018 he called on the *fisa*",
+          "location": 921
+        },
+        {
+          "text": "information to the *fisa* court but now it",
+          "location": 934
+        },
+        {
+          "text": "came out that oh yeah the *fisa* courts",
+          "location": 937
+        }
+      ]
+    },
+    {
+      "id": "dTiW7GUvpiE",
+      "segments": [
+        {
+          "text": "dossier the *fisa* so they went to face up",
+          "location": 1131
+        },
+        {
+          "text": "giving the *fisa* warrant when you know",
+          "location": 1255
+        },
+        {
+          "text": "the faisal the judge granting the *fisa*",
+          "location": 1257
+        }
+      ]
+    },
+    {
+      "id": "DWyqBff8MD0",
+      "segments": [
+        {
+          "text": "people from abuses related to the *fisa*",
+          "location": 135
+        },
+        {
+          "text": "received a *fisa* probable cause order not",
+          "location": 144
+        },
+        {
+          "text": "with requirements under *fisa* the",
+          "location": 162
+        },
+        {
+          "text": "doj obtained one initial *fisa* warrant",
+          "location": 179
+        },
+        {
+          "text": "paragraph 1 a *fisa* order on an american",
+          "location": 192
+        },
+        {
+          "text": "citizen must be renewed by the *fisa*",
+          "location": 197
+        },
+        {
+          "text": "three *fisa* applications in question on",
+          "location": 205
+        },
+        {
+          "text": "*fisa* intelligence court are classified",
+          "location": 233
+        },
+        {
+          "text": "the integrity of the *fisa* process",
+          "location": 239
+        },
+        {
+          "text": "to the target of the *fisa* application",
+          "location": 267
+        },
+        {
+          "text": "disclose that in the *fisa* court and that",
+          "location": 286
+        },
+        {
+          "text": "opportunities before the *fisa* court to",
+          "location": 307
+        },
+        {
+          "text": "none of in the *fisa* court nothing was",
+          "location": 402
+        },
+        {
+          "text": "*fisa* court in october so they knew about",
+          "location": 503
+        },
+        {
+          "text": "the *fisa* court in october so they knew",
+          "location": 511
+        },
+        {
+          "text": "reflected in any of the page *fisa* a",
+          "location": 575
+        },
+        {
+          "text": "*fisa* court well obviously there's",
+          "location": 613
+        },
+        {
+          "text": "*fisa* application relied on steele's past",
+          "location": 672
+        },
+        {
+          "text": "sought from the *fisa* court without the",
+          "location": 689
+        },
+        {
+          "text": "*fisa* application also mentions",
+          "location": 712
+        }
+      ]
+    },
+    {
+      "id": "dxXweiDpFuI",
+      "segments": [
+        {
+          "text": "on verified information lie to the *fisa*",
+          "location": 331
+        },
+        {
+          "text": "explain the why they lied to the *fisa*",
+          "location": 477
+        }
+      ]
+    },
+    {
+      "id": "E0C2qvYK31I",
+      "segments": [
+        {
+          "text": "of this *fisa* classified info why did rod",
+          "location": 113
+        },
+        {
+          "text": "*fisa* was illegally yet",
+          "location": 123
+        },
+        {
+          "text": "such warrants *fisa* do we trust in *fisa*",
+          "location": 778
+        }
+      ]
+    },
+    {
+      "id": "ejJhYz7wFwo",
+      "segments": [
+        {
+          "text": "of the *fisa* warrant abuse all of that",
+          "location": 820
+        },
+        {
+          "text": "violating the law and abusing the *fisa*",
+          "location": 2055
+        }
+      ]
+    },
+    {
+      "id": "ek_MgNKuQKg",
+      "segments": [
+        {
+          "text": "and the renewal of the *fisa* warrant all",
+          "location": 137
+        }
+      ]
+    },
+    {
+      "id": "etzYB5Acisw",
+      "segments": [
+        {
+          "text": "this all goes with the the *fisa* request",
+          "location": 366
+        }
+      ]
+    },
+    {
+      "id": "EzqNatWuS6Y",
+      "segments": [
+        {
+          "text": "*fisa* on carter page so the fbi had to",
+          "location": 1695
+        },
+        {
+          "text": "to appeal to a *fisa* court to get a",
+          "location": 1848
+        },
+        {
+          "text": "those *fisa* warrant applications aren't",
+          "location": 1920
+        },
+        {
+          "text": "facts submitted to *fisa* court to obtain",
+          "location": 2018
+        },
+        {
+          "text": "submitted to the *fisa* court in order to",
+          "location": 2036
+        }
+      ]
+    },
+    {
+      "id": "f7YHUbjdCzM",
+      "segments": [
+        {
+          "text": "get these *fisa* warrants to go after",
+          "location": 242
+        }
+      ]
+    },
+    {
+      "id": "fB7BASL5g54",
+      "segments": [
+        {
+          "text": "her unmasking requests for these *fisa*",
+          "location": 190
+        },
+        {
+          "text": "of the *fisa* court as political for",
+          "location": 382
+        },
+        {
+          "text": "*fisa* includes who was doing the",
+          "location": 453
+        },
+        {
+          "text": "information related to the *fisa* court",
+          "location": 966
+        },
+        {
+          "text": "application of *fisa* court application",
+          "location": 968
+        },
+        {
+          "text": "using to go and get *fisa* warrants in",
+          "location": 1891
+        }
+      ]
+    },
+    {
+      "id": "fbpZlOeQiAM",
+      "segments": [
+        {
+          "text": "information from the *fisa* warrant from",
+          "location": 798
+        }
+      ]
+    },
+    {
+      "id": "fhyBcxyxbVI",
+      "segments": [
+        {
+          "text": "violation of the *fisa* against president",
+          "location": 1816
+        }
+      ]
+    },
+    {
+      "id": "FLYTjpU15No",
+      "segments": [
+        {
+          "text": "exactly how they set up these *fisa*",
+          "location": 560
+        },
+        {
+          "text": "they illegally gained the *fisa* court to",
+          "location": 571
+        },
+        {
+          "text": "presented evidence to the *fisa* court to",
+          "location": 602
+        },
+        {
+          "text": "abuse of the *fisa* court and it could be",
+          "location": 824
+        }
+      ]
+    },
+    {
+      "id": "fU5hFfGsdjM",
+      "segments": [
+        {
+          "text": "rep paul ryan to block the *fisa* memo",
+          "location": 216
+        }
+      ]
+    },
+    {
+      "id": "g-KHTYSFJXA",
+      "segments": [
+        {
+          "text": "clinton in the dnc and used in the *fisa*",
+          "location": 92
+        },
+        {
+          "text": "abusing the *fisa* court lying to the *fisa*",
+          "location": 872
+        },
+        {
+          "text": "*fisa* court now this is interesting okay",
+          "location": 942
+        },
+        {
+          "text": "2024 the the *fisa* court to produce all",
+          "location": 955
+        },
+        {
+          "text": "by *fisa* or another express statutory",
+          "location": 1149
+        },
+        {
+          "text": "this so that the *fisa* court doesn't",
+          "location": 1195
+        },
+        {
+          "text": "they went to the *fisa* court and said hey",
+          "location": 1261
+        },
+        {
+          "text": "first learn regarding *fisa* warrants plus",
+          "location": 1294
+        },
+        {
+          "text": "three non page if *fisa* warrants deemed",
+          "location": 1296
+        }
+      ]
+    },
+    {
+      "id": "G0xwAccaQ0A",
+      "segments": [
+        {
+          "text": "declassification of the *fisa* so with",
+          "location": 167
+        }
+      ]
+    },
+    {
+      "id": "G2aQUZYgTL4",
+      "segments": [
+        {
+          "text": "the *fisa* courts so yeah that's what that",
+          "location": 429
+        },
+        {
+          "text": "to the *fisa* court where he has a special",
+          "location": 456
+        },
+        {
+          "text": "helped create the *fisa* court so i think",
+          "location": 462
+        },
+        {
+          "text": "illegally abuse our *fisa* surveillance",
+          "location": 565
+        },
+        {
+          "text": "this is not how this *fisa* court was ever",
+          "location": 570
+        }
+      ]
+    },
+    {
+      "id": "G6rtL2LbzqA",
+      "segments": [
+        {
+          "text": "q reminding us that *fisa* goes both ways",
+          "location": 87
+        }
+      ]
+    },
+    {
+      "id": "Gf0trv-9tvc",
+      "segments": [
+        {
+          "text": "taine a *fisa* court sign-off is it",
+          "location": 1196
+        },
+        {
+          "text": "order to bolster the *fisa* court warrant",
+          "location": 1240
+        }
+      ]
+    },
+    {
+      "id": "GjQpoYm971o",
+      "segments": [
+        {
+          "text": "that we look at the *fisa* court i think",
+          "location": 1224
+        },
+        {
+          "text": "of the *fisa* court and i only say that in",
+          "location": 1228
+        },
+        {
+          "text": "powell is done in exposing this *fisa*",
+          "location": 1799
+        }
+      ]
+    },
+    {
+      "id": "GYcdeNuBthM",
+      "segments": [
+        {
+          "text": "*fisa* and what is gonna be coming around",
+          "location": 7
+        },
+        {
+          "text": "says phi suffice a *fisa* 20 public",
+          "location": 709
+        },
+        {
+          "text": "within the *fisa* documents that explain",
+          "location": 760
+        },
+        {
+          "text": "what's in the rest of that *fisa* i could",
+          "location": 911
+        }
+      ]
+    },
+    {
+      "id": "GYRgczPNxJI",
+      "segments": [
+        {
+          "text": "abusing the *fisa* a surveillance system",
+          "location": 963
+        }
+      ]
+    },
+    {
+      "id": "h7CqHL04D-Y",
+      "segments": [
+        {
+          "text": "going on at the fbi and doj with *fisa*",
+          "location": 561
+        }
+      ]
+    },
+    {
+      "id": "HCCtVyqBoRE",
+      "segments": [
+        {
+          "text": "abusing the *fisa* courts and abusing the",
+          "location": 1185
+        }
+      ]
+    },
+    {
+      "id": "HF1kNM1SZWw",
+      "segments": [
+        {
+          "text": "people who had *fisa* i think put out on",
+          "location": 1188
+        },
+        {
+          "text": "communications section 702 of the *fisa*",
+          "location": 1216
+        },
+        {
+          "text": "intelligence agencies can use their *fisa*",
+          "location": 1235
+        }
+      ]
+    },
+    {
+      "id": "HGHg7Nt2WVo",
+      "segments": [
+        {
+          "text": "which was then injected into the *fisa*",
+          "location": 1359
+        }
+      ]
+    },
+    {
+      "id": "hKSHNiPdaQU",
+      "segments": [
+        {
+          "text": "when *fisa* is declassified what are we",
+          "location": 365
+        },
+        {
+          "text": "declassify declassification of *fisa* will",
+          "location": 372
+        },
+        {
+          "text": "classification of *fisa* will initiate the",
+          "location": 379
+        },
+        {
+          "text": "declassification of *fisa* will factually",
+          "location": 384
+        },
+        {
+          "text": "presented false evidence to *fisa* court",
+          "location": 390
+        },
+        {
+          "text": "coordination *fisa* full brings down the",
+          "location": 436
+        },
+        {
+          "text": "saying that when the *fisa* comes out it's",
+          "location": 447
+        },
+        {
+          "text": "the carter page *fisa* one of the the main",
+          "location": 946
+        },
+        {
+          "text": "into *fisa* app in application in effort",
+          "location": 1134
+        },
+        {
+          "text": "now that ties together the *fisa* and and",
+          "location": 1199
+        },
+        {
+          "text": "here review who signed the *fisa* these",
+          "location": 1223
+        }
+      ]
+    },
+    {
+      "id": "HTETmsKXnkE",
+      "segments": [
+        {
+          "text": "papadopolis the *fisa* warrants the",
+          "location": 330
+        },
+        {
+          "text": "fast to get all of this and the *fisa*",
+          "location": 776
+        },
+        {
+          "text": "*fisa* warrants *fisa* surveillance warrants",
+          "location": 812
+        },
+        {
+          "text": "targeted for *fisa* surveillance with the",
+          "location": 855
+        }
+      ]
+    },
+    {
+      "id": "i7CsAm6pTpE",
+      "segments": [
+        {
+          "text": "happened *fisa* gate the spying and all",
+          "location": 127
+        },
+        {
+          "text": "but it says carter page public *fisa*",
+          "location": 1199
+        },
+        {
+          "text": "analyst acupoint stewart says *fisa*",
+          "location": 1372
+        }
+      ]
+    },
+    {
+      "id": "If2rCEuFeNY",
+      "segments": [
+        {
+          "text": "whole layout of this this how *fisa* was",
+          "location": 411
+        },
+        {
+          "text": "a *fisa* and then they used a yahoo news",
+          "location": 1080
+        },
+        {
+          "text": "the *fisa* court by having knowledge of",
+          "location": 1613
+        },
+        {
+          "text": "went to a *fisa* court and they neglected",
+          "location": 1636
+        },
+        {
+          "text": "used in the *fisa* warrant to bolster the",
+          "location": 1731
+        },
+        {
+          "text": "of deception you can pull on the *fisa*",
+          "location": 1762
+        },
+        {
+          "text": "*fisa* court so i you know what do you",
+          "location": 1944
+        }
+      ]
+    },
+    {
+      "id": "iQHR1-6RKGY",
+      "segments": [
+        {
+          "text": "predicated off of the *fisa* investigation",
+          "location": 107
+        }
+      ]
+    },
+    {
+      "id": "ivzGKZFp8M8",
+      "segments": [
+        {
+          "text": "trump not to declassify *fisa* documents q",
+          "location": 4
+        },
+        {
+          "text": "top secret *fisa* warrant hi i'm craig and",
+          "location": 11
+        },
+        {
+          "text": "pages out of the *fisa* memo or *fisa*",
+          "location": 142
+        },
+        {
+          "text": "classification of *fisa* will initiate the",
+          "location": 227
+        },
+        {
+          "text": "*fisa* will initiate their awareness that",
+          "location": 233
+        },
+        {
+          "text": "investigation the classification of *fisa*",
+          "location": 236
+        },
+        {
+          "text": "*fisa* courts in an effort to obtain legal",
+          "location": 245
+        },
+        {
+          "text": "release the the *fisa* warrant redacted",
+          "location": 405
+        },
+        {
+          "text": "of the *fisa* warrant that was used to spy",
+          "location": 442
+        },
+        {
+          "text": "on him now how was that *fisa* warrant",
+          "location": 444
+        },
+        {
+          "text": "*fisa* court as a predicate for this",
+          "location": 453
+        },
+        {
+          "text": "what's inside of us top secret *fisa*",
+          "location": 565
+        },
+        {
+          "text": "of the *fisa* comes out when the bruce or",
+          "location": 772
+        },
+        {
+          "text": "laws hüseyin public dossier *fisa* not",
+          "location": 1043
+        },
+        {
+          "text": "in exact detail how the *fisa*",
+          "location": 1496
+        },
+        {
+          "text": "declassification of *fisa* will initiate",
+          "location": 1518
+        },
+        {
+          "text": "will fail *fisa* declassified will bring",
+          "location": 1533
+        }
+      ]
+    },
+    {
+      "id": "IyRWVFXn45A",
+      "segments": [
+        {
+          "text": "the *fisa* that was obtained through the",
+          "location": 1111
+        },
+        {
+          "text": "*fisa* judge to get the warrant to surveil",
+          "location": 1121
+        }
+      ]
+    },
+    {
+      "id": "J296P7VE5p8",
+      "segments": [
+        {
+          "text": "you know we have at least the *fisa* abuse",
+          "location": 527
+        }
+      ]
+    },
+    {
+      "id": "J2spK-T9ev0",
+      "segments": [
+        {
+          "text": "intelligence to get a *fisa* warrant to",
+          "location": 1407
+        }
+      ]
+    },
+    {
+      "id": "j4__e_WelW0",
+      "segments": [
+        {
+          "text": "particular and the new *fisa* ag report",
+          "location": 385
+        },
+        {
+          "text": "process of obtaining *fisa* warrants to",
+          "location": 556
+        },
+        {
+          "text": "apple in the in the attempt to get *fisa*",
+          "location": 613
+        },
+        {
+          "text": "was a clear abuse of the *fisa* process so",
+          "location": 636
+        },
+        {
+          "text": "obtain and maintain *fisa* surveillance of",
+          "location": 735
+        },
+        {
+          "text": "misled the *fisa* court or made a critical",
+          "location": 739
+        },
+        {
+          "text": "found about the abuse of the *fisa* court",
+          "location": 907
+        }
+      ]
+    },
+    {
+      "id": "J7b6SPEd0FA",
+      "segments": [
+        {
+          "text": "was happening with the abuse of the *fisa*",
+          "location": 436
+        },
+        {
+          "text": "did these different abuses of the *fisa*",
+          "location": 994
+        }
+      ]
+    },
+    {
+      "id": "JEKeMGgqEFA",
+      "segments": [
+        {
+          "text": "the judge in the *fisa* court for a fusion",
+          "location": 982
+        }
+      ]
+    },
+    {
+      "id": "jO3DSz6VU10",
+      "segments": [
+        {
+          "text": "just google the *fisa* intelligence",
+          "location": 312
+        },
+        {
+          "text": "database the *fisa* court looks into it",
+          "location": 334
+        },
+        {
+          "text": "this beautiful thing called the *fisa*",
+          "location": 643
+        },
+        {
+          "text": "court where we can walk into the *fisa*",
+          "location": 644
+        },
+        {
+          "text": "*fisa* warrant on the guy cleaning the",
+          "location": 669
+        },
+        {
+          "text": "the problem with the *fisa* court unlike",
+          "location": 690
+        },
+        {
+          "text": "there was a judge in a *fisa* court that",
+          "location": 698
+        },
+        {
+          "text": "the *fisa* court and do this legally but",
+          "location": 823
+        },
+        {
+          "text": "john hancock on the *fisa* warrant he",
+          "location": 1044
+        },
+        {
+          "text": "faked a *fisa* warrant they have been",
+          "location": 1076
+        },
+        {
+          "text": "busted by the *fisa* court tap it into the",
+          "location": 1083
+        },
+        {
+          "text": "bs *fisa* warrant john carlin is all chief",
+          "location": 1146
+        }
+      ]
+    },
+    {
+      "id": "Jw000N2NVzY",
+      "segments": [
+        {
+          "text": "which talks about there was a *fisa*",
+          "location": 587
+        }
+      ]
+    },
+    {
+      "id": "k2pfkR9ey1o",
+      "segments": [
+        {
+          "text": "announced the *fisa* memo on his show but",
+          "location": 1690
+        }
+      ]
+    },
+    {
+      "id": "K6X_A5nDkn8",
+      "segments": [
+        {
+          "text": "everything about *fisa* everything about",
+          "location": 143
+        }
+      ]
+    },
+    {
+      "id": "kPNmP4e9jfA",
+      "segments": [
+        {
+          "text": "president to get this *fisa* warrant",
+          "location": 371
+        },
+        {
+          "text": "they weaponized the *fisa* court this is",
+          "location": 854
+        }
+      ]
+    },
+    {
+      "id": "KQYQ6-hMOjY",
+      "segments": [
+        {
+          "text": "and got *fisa* warrants to go and spy on",
+          "location": 319
+        },
+        {
+          "text": "*fisa* warrants they were set up illegally",
+          "location": 338
+        },
+        {
+          "text": "the fbi it was approved by the *fisa*",
+          "location": 585
+        },
+        {
+          "text": "interview was that the *fisa* court has an",
+          "location": 595
+        },
+        {
+          "text": "on the *fisa* court if you want to but i",
+          "location": 678
+        }
+      ]
+    },
+    {
+      "id": "kv41joeMcM4",
+      "segments": [
+        {
+          "text": "stories to get *fisa* warrants well there",
+          "location": 76
+        },
+        {
+          "text": "order to get a *fisa* court to agree to a",
+          "location": 108
+        },
+        {
+          "text": "saying *fisa* and then the abcs which are",
+          "location": 299
+        },
+        {
+          "text": "operations then it's saying *fisa* equals",
+          "location": 415
+        },
+        {
+          "text": "fisk which *fisa* is the foreign",
+          "location": 418
+        },
+        {
+          "text": "process of obtaining a *fisa* warrant what",
+          "location": 438
+        },
+        {
+          "text": "*fisa* warrants notices who directs the",
+          "location": 471
+        },
+        {
+          "text": "the *fisa* warrant says who must sign off",
+          "location": 628
+        },
+        {
+          "text": "active *fisa* warrants and surveillance so",
+          "location": 656
+        },
+        {
+          "text": "knowing what was in active *fisa* warrants",
+          "location": 670
+        },
+        {
+          "text": "*fisa* warrants well you have like i said",
+          "location": 698
+        },
+        {
+          "text": "but it could be very true that *fisa*",
+          "location": 783
+        }
+      ]
+    },
+    {
+      "id": "kZSTJv4Hxk0",
+      "segments": [
+        {
+          "text": "*fisa* as those reports are made public",
+          "location": 863
+        }
+      ]
+    },
+    {
+      "id": "L1AVZd4DsQc",
+      "segments": [
+        {
+          "text": "with regard to the *fisa* application with",
+          "location": 513
+        },
+        {
+          "text": "predicate for these *fisa* abuses does",
+          "location": 715
+        },
+        {
+          "text": "*fisa* court spying on him he's got the",
+          "location": 975
+        },
+        {
+          "text": "*fisa* intelligence apparatus spying on",
+          "location": 976
+        }
+      ]
+    },
+    {
+      "id": "L2Az5A7kcP8",
+      "segments": [
+        {
+          "text": "*fisa* was what was it what what its",
+          "location": 1017
+        },
+        {
+          "text": "and on admitted involvement in *fisa*",
+          "location": 1141
+        }
+      ]
+    },
+    {
+      "id": "L3Ij2cvGFkY",
+      "segments": [
+        {
+          "text": "will the declassification of the *fisa*",
+          "location": 3
+        },
+        {
+          "text": "*fisa* not public five eyes uk australia",
+          "location": 743
+        },
+        {
+          "text": "the steel dossier and the *fisa* warrants",
+          "location": 773
+        },
+        {
+          "text": "present to a *fisa* court nor in an effort",
+          "location": 1040
+        },
+        {
+          "text": "there was was there *fisa* warrants that",
+          "location": 1242
+        },
+        {
+          "text": "acts regarding signers *fisa* equals",
+          "location": 1274
+        },
+        {
+          "text": "insurance says *fisa* equals implicates",
+          "location": 1291
+        },
+        {
+          "text": "include *fisa* so you can't use freedom of",
+          "location": 1330
+        },
+        {
+          "text": "signed off on extending the the *fisa*",
+          "location": 1558
+        },
+        {
+          "text": "scope of *fisa* warrant or internal to",
+          "location": 1711
+        }
+      ]
+    },
+    {
+      "id": "l6iCUxTXOBw",
+      "segments": [
+        {
+          "text": "*fisa* documents the 20 pages being",
+          "location": 129
+        },
+        {
+          "text": "of a *fisa* application targeting carter",
+          "location": 210
+        },
+        {
+          "text": "doj and fbi officials while the *fisa*",
+          "location": 280
+        },
+        {
+          "text": "of the *fisa* applications none of the",
+          "location": 321
+        },
+        {
+          "text": "*fisa* applications mentioned that the fbi",
+          "location": 323
+        },
+        {
+          "text": "initial page *fisa* application in early",
+          "location": 340
+        },
+        {
+          "text": "unverified the page *fisa* application",
+          "location": 353
+        },
+        {
+          "text": "page *fisa* application also mentions",
+          "location": 407
+        },
+        {
+          "text": "*fisa* process at doj and fbi - the memo",
+          "location": 428
+        },
+        {
+          "text": "intelligence we have the *fisa* title in",
+          "location": 584
+        },
+        {
+          "text": "renewed by the *fisa* court every 90 days",
+          "location": 677
+        },
+        {
+          "text": "fake dossier to actually get a *fisa*",
+          "location": 807
+        },
+        {
+          "text": "declassify the remaining doj *fisa* docs",
+          "location": 967
+        },
+        {
+          "text": "why shouldn't he allow the *fisa*",
+          "location": 970
+        },
+        {
+          "text": "on those *fisa* warrants because they're",
+          "location": 1033
+        },
+        {
+          "text": "*fisa* court and they said oh we've got",
+          "location": 1074
+        },
+        {
+          "text": "analysis that there would be no of *fisa*",
+          "location": 1084
+        }
+      ]
+    },
+    {
+      "id": "LDbkkYUWvpA",
+      "segments": [
+        {
+          "text": "*fisa* courts with the steal dossier guys",
+          "location": 1249
+        }
+      ]
+    },
+    {
+      "id": "ljBQV9kO_48",
+      "segments": [
+        {
+          "text": "frame the president to abuse the *fisa*",
+          "location": 661
+        }
+      ]
+    },
+    {
+      "id": "LniEKTpx8Qo",
+      "segments": [
+        {
+          "text": "were having access to the *fisa*",
+          "location": 144
+        },
+        {
+          "text": "*fisa* court so here this story talks",
+          "location": 155
+        },
+        {
+          "text": "access to raw *fisa* acquired information",
+          "location": 324
+        },
+        {
+          "text": "investigation into how and why the *fisa*",
+          "location": 386
+        },
+        {
+          "text": "in obtaining *fisa* coverage on page",
+          "location": 539
+        },
+        {
+          "text": "findings the presiding *fisa* court judge",
+          "location": 580
+        },
+        {
+          "text": "to continue to utilize *fisa* this",
+          "location": 593
+        },
+        {
+          "text": "the *fisa* court against president trump",
+          "location": 651
+        }
+      ]
+    },
+    {
+      "id": "m-ODejCbNWA",
+      "segments": [
+        {
+          "text": "lobbying for a *fisa* warrant or",
+          "location": 408
+        },
+        {
+          "text": "in the *fisa* they were planted so guys i",
+          "location": 2092
+        }
+      ]
+    },
+    {
+      "id": "m2iCTKjwGZY",
+      "segments": [
+        {
+          "text": "with the *fisa* documents and i can say",
+          "location": 377
+        },
+        {
+          "text": "regarding *fisa* and the dossier important",
+          "location": 630
+        },
+        {
+          "text": "false info *fisa* equals implicates hrc",
+          "location": 796
+        },
+        {
+          "text": "cooperation strategy *fisa* brings down",
+          "location": 838
+        },
+        {
+          "text": "the house for you does not include *fisa*",
+          "location": 842
+        }
+      ]
+    },
+    {
+      "id": "M2SBwEaGWjA",
+      "segments": [
+        {
+          "text": "the bigger one about the *fisa* abuse and",
+          "location": 206
+        }
+      ]
+    },
+    {
+      "id": "MbhDYscAAN8",
+      "segments": [
+        {
+          "text": "*fisa* - how many faces did they pull out",
+          "location": 912
+        }
+      ]
+    },
+    {
+      "id": "mBU8ggNgS8s",
+      "segments": [
+        {
+          "text": "corruption and abuse of the *fisa* court",
+          "location": 734
+        },
+        {
+          "text": "wife fbi 302s *fisa* spy flynn will newly",
+          "location": 1181
+        }
+      ]
+    },
+    {
+      "id": "mdj-e3WW1Bo",
+      "segments": [
+        {
+          "text": "clinton hussein illegal *fisa* democrats",
+          "location": 532
+        },
+        {
+          "text": "*fisa* court to spy on president trump in",
+          "location": 552
+        },
+        {
+          "text": "also he's not just looking at the *fisa*",
+          "location": 772
+        },
+        {
+          "text": "to access the the *fisa* database in query",
+          "location": 1656
+        }
+      ]
+    },
+    {
+      "id": "mDVvkqXidds",
+      "segments": [
+        {
+          "text": "with the *fisa* court especially the fact",
+          "location": 416
+        },
+        {
+          "text": "went into a *fisa* warrant against carter",
+          "location": 663
+        },
+        {
+          "text": "not go into the *fisa* application was not",
+          "location": 669
+        }
+      ]
+    },
+    {
+      "id": "mh_UlTxOQQ8",
+      "segments": [
+        {
+          "text": "*fisa* court is being investigated by the",
+          "location": 447
+        },
+        {
+          "text": "requested this *fisa*",
+          "location": 457
+        },
+        {
+          "text": "unverified information to the *fisa* court",
+          "location": 499
+        },
+        {
+          "text": "the *fisa* court in order to obtain the",
+          "location": 518
+        },
+        {
+          "text": "about carter page and the *fisa* court",
+          "location": 572
+        }
+      ]
+    },
+    {
+      "id": "Mm8has8rJ6Q",
+      "segments": [
+        {
+          "text": "the crimes like the abuse of *fisa* gate",
+          "location": 766
+        },
+        {
+          "text": "by don and although the *fisa* warrants",
+          "location": 934
+        },
+        {
+          "text": "director about the *fisa* surveillance",
+          "location": 950
+        },
+        {
+          "text": "says that there was no abuse of the *fisa*",
+          "location": 1094
+        },
+        {
+          "text": "involved with the *fisa* investigation",
+          "location": 1144
+        }
+      ]
+    },
+    {
+      "id": "MMiesWjJy3k",
+      "segments": [
+        {
+          "text": "*fisa* was basically bogus because they",
+          "location": 322
+        },
+        {
+          "text": "was weaponized and used to get *fisa*",
+          "location": 428
+        },
+        {
+          "text": "illegal and abuse of the *fisa* court in",
+          "location": 563
+        },
+        {
+          "text": "my opinion the weaponization of *fisa* to",
+          "location": 565
+        },
+        {
+          "text": "going on with these *fisa* warrants and",
+          "location": 1562
+        }
+      ]
+    },
+    {
+      "id": "n2RdX0ydluc",
+      "segments": [
+        {
+          "text": "merits of it but it says *fisa* warrant",
+          "location": 149
+        },
+        {
+          "text": "for *fisa* surveillance then it goes into",
+          "location": 160
+        },
+        {
+          "text": "fake dossier we'll present it to a *fisa*",
+          "location": 354
+        },
+        {
+          "text": "then it says what *fisa* is about to be",
+          "location": 400
+        },
+        {
+          "text": "*fisa* warrant why have they not the",
+          "location": 419
+        },
+        {
+          "text": "pages out of that *fisa* that have been",
+          "location": 441
+        },
+        {
+          "text": "the *fisa* warrant through manufacturing",
+          "location": 457
+        },
+        {
+          "text": "signatures *fisa* ten blank sixteen so",
+          "location": 555
+        },
+        {
+          "text": "especially in the original *fisa* warrant",
+          "location": 558
+        },
+        {
+          "text": "fraud committed against the *fisa* court",
+          "location": 694
+        },
+        {
+          "text": "from all directions ready the memes *fisa*",
+          "location": 1659
+        },
+        {
+          "text": "the *fisa* application because that's a",
+          "location": 1670
+        }
+      ]
+    },
+    {
+      "id": "nb48sfxaBzA",
+      "segments": [
+        {
+          "text": "talks about how the *fisa* documents",
+          "location": 1293
+        }
+      ]
+    },
+    {
+      "id": "Nb9AndSj88I",
+      "segments": [
+        {
+          "text": "*fisa* court their illegal spying on the",
+          "location": 491
+        },
+        {
+          "text": "to a *fisa* court and say look what they",
+          "location": 598
+        }
+      ]
+    },
+    {
+      "id": "nDIenS-L7Qc",
+      "segments": [
+        {
+          "text": "like the carter page *fisa* you know",
+          "location": 371
+        },
+        {
+          "text": "unredacted out of the *fisa* warrant if",
+          "location": 460
+        },
+        {
+          "text": "for a *fisa* investigation which are",
+          "location": 973
+        }
+      ]
+    },
+    {
+      "id": "NgbBiTBNx_E",
+      "segments": [
+        {
+          "text": "kind of important *fisa* court judge more",
+          "location": 1032
+        }
+      ]
+    },
+    {
+      "id": "Nw0SUu18OzY",
+      "segments": [
+        {
+          "text": "releases top secret *fisa* memo so we'll",
+          "location": 177
+        }
+      ]
+    },
+    {
+      "id": "oGgzXrlF0m4",
+      "segments": [
+        {
+          "text": "obvious subversion of the *fisa* court",
+          "location": 385
+        },
+        {
+          "text": "*fisa* court approving trump's tower to be",
+          "location": 827
+        }
+      ]
+    },
+    {
+      "id": "OhcEdpoDPxQ",
+      "segments": [
+        {
+          "text": "going into them the *fisa* investigating",
+          "location": 311
+        },
+        {
+          "text": "these people who abuse the *fisa* court",
+          "location": 1428
+        }
+      ]
+    },
+    {
+      "id": "oJslPIbYry4",
+      "segments": [
+        {
+          "text": "now oh it was all okay the *fisa* warrant",
+          "location": 942
+        }
+      ]
+    },
+    {
+      "id": "ojSvumv3RDc",
+      "segments": [
+        {
+          "text": "playing *fisa* goes both ways",
+          "location": 348
+        }
+      ]
+    },
+    {
+      "id": "OLDsP1BrbDU",
+      "segments": [
+        {
+          "text": "of the *fisa* court they illegally got",
+          "location": 819
+        },
+        {
+          "text": "these these *fisa* warrants to tap all",
+          "location": 822
+        }
+      ]
+    },
+    {
+      "id": "Olfa4vMMDEk",
+      "segments": [
+        {
+          "text": "panic regarding huber why has the *fisa*",
+          "location": 921
+        },
+        {
+          "text": "*fisa* court has kept quiet about the",
+          "location": 1024
+        }
+      ]
+    },
+    {
+      "id": "ornHtBUFohc",
+      "segments": [
+        {
+          "text": "the dossier for *fisa* and now as you know",
+          "location": 32
+        },
+        {
+          "text": "the *fisa* court and you top judge is very",
+          "location": 35
+        },
+        {
+          "text": "courts the *fisa* court more most",
+          "location": 203
+        },
+        {
+          "text": "of national security highest levels *fisa*",
+          "location": 972
+        }
+      ]
+    },
+    {
+      "id": "OsoQu546x8g",
+      "segments": [
+        {
+          "text": "abusing the *fisa* court and illegally",
+          "location": 449
+        }
+      ]
+    },
+    {
+      "id": "oStMB-W5ovI",
+      "segments": [
+        {
+          "text": "to the *fisa* court in the matter of",
+          "location": 126
+        },
+        {
+          "text": "with all carter page *fisa* applications",
+          "location": 141
+        },
+        {
+          "text": "*fisa* warrants with basically knowledge",
+          "location": 442
+        }
+      ]
+    },
+    {
+      "id": "Ou8IoZrbRFY",
+      "segments": [
+        {
+          "text": "with declassification and the *fisa* abuse",
+          "location": 67
+        }
+      ]
+    },
+    {
+      "id": "OVGfiwkKdqY",
+      "segments": [
+        {
+          "text": "referring to that *fisa* target that would",
+          "location": 1119
+        },
+        {
+          "text": "about our plan regarding that *fisa*",
+          "location": 1179
+        },
+        {
+          "text": "elected so this is crazy and then *fisa*",
+          "location": 1356
+        },
+        {
+          "text": "it's this is what it is *fisa* gate all",
+          "location": 1368
+        }
+      ]
+    },
+    {
+      "id": "oXoEIlNO77U",
+      "segments": [
+        {
+          "text": "count who listened in to count *fisa* and",
+          "location": 269
+        },
+        {
+          "text": "one p flynn interview if *fisa* warrant",
+          "location": 278
+        },
+        {
+          "text": "on illegal uncorroborated if *fisa* actors",
+          "location": 284
+        },
+        {
+          "text": "start these *fisa* warrant applications to",
+          "location": 337
+        },
+        {
+          "text": "the *fisa* court they were taking fake",
+          "location": 409
+        },
+        {
+          "text": "evidence to *fisa* court judges and",
+          "location": 410
+        },
+        {
+          "text": "illegal *fisa* court applications all of",
+          "location": 622
+        },
+        {
+          "text": "who are you know abusing the *fisa* court",
+          "location": 688
+        },
+        {
+          "text": "*fisa* court by pushing his fbi to go into",
+          "location": 889
+        }
+      ]
+    },
+    {
+      "id": "p4Wc6Zs3qQM",
+      "segments": [
+        {
+          "text": "the *fisa* warrant that was you that was",
+          "location": 1047
+        }
+      ]
+    },
+    {
+      "id": "PbcQo398070",
+      "segments": [
+        {
+          "text": "they de frauded the *fisa* court the *fisa*",
+          "location": 45
+        },
+        {
+          "text": "defrauded the *fisa* court they concealed",
+          "location": 51
+        },
+        {
+          "text": "the *fisa* surveillance systems to",
+          "location": 271
+        },
+        {
+          "text": "graham regarding senate *fisa* hearings",
+          "location": 639
+        },
+        {
+          "text": "senate starts doing the *fisa*",
+          "location": 740
+        },
+        {
+          "text": "look long and hard at *fisa* abuse we're",
+          "location": 889
+        },
+        {
+          "text": "*fisa* into this impeachment debacle - my",
+          "location": 981
+        },
+        {
+          "text": "why they were abusing the *fisa* court why",
+          "location": 1001
+        },
+        {
+          "text": "and the fbi made to the *fisa* court by",
+          "location": 1260
+        },
+        {
+          "text": "to the *fisa* court to get a wiretap by",
+          "location": 1336
+        }
+      ]
+    },
+    {
+      "id": "pDkUn-isAGk",
+      "segments": [
+        {
+          "text": "james comey loretta lynch hussein *fisa*",
+          "location": 253
+        }
+      ]
+    },
+    {
+      "id": "piPPWEVM7BI",
+      "segments": [
+        {
+          "text": "carter page *fisa* interesting right",
+          "location": 929
+        }
+      ]
+    },
+    {
+      "id": "Pk6jznEcP4U",
+      "segments": [
+        {
+          "text": "where if the *fisa* is declassified before",
+          "location": 685
+        }
+      ]
+    },
+    {
+      "id": "PN8oDcxVDKU",
+      "segments": [
+        {
+          "text": "related to clinton email probe *fisa*",
+          "location": 181
+        },
+        {
+          "text": "be july 28th that talks about how *fisa*",
+          "location": 1323
+        },
+        {
+          "text": "this is the nunez carter page *fisa*",
+          "location": 1353
+        },
+        {
+          "text": "page *fisa* all the redacted parts",
+          "location": 1366
+        },
+        {
+          "text": "the *fisa* the redacted pages and some",
+          "location": 1389
+        },
+        {
+          "text": "get the *fisa* and it says the president",
+          "location": 1423
+        },
+        {
+          "text": "document here which is the *fisa* redacted",
+          "location": 1453
+        },
+        {
+          "text": "document right the *fisa* carter page",
+          "location": 1457
+        },
+        {
+          "text": "*fisa* or use the steele dossier but then",
+          "location": 1511
+        },
+        {
+          "text": "doj i believe it says *fisa* equals start",
+          "location": 1722
+        },
+        {
+          "text": "q so the *fisa* was the beginning of it",
+          "location": 1725
+        }
+      ]
+    },
+    {
+      "id": "pOgq_axpn1k",
+      "segments": [
+        {
+          "text": "public dossier *fisa* not public five eyes",
+          "location": 1207
+        },
+        {
+          "text": "*fisa* thing look this is from april 15th",
+          "location": 1242
+        },
+        {
+          "text": "russia dossier and the *fisa* court abuse",
+          "location": 1325
+        }
+      ]
+    },
+    {
+      "id": "q0d0OkpV5gs",
+      "segments": [
+        {
+          "text": "*fisa* court had to sign off on each and",
+          "location": 678
+        },
+        {
+          "text": "including the one time head of the *fisa*",
+          "location": 693
+        }
+      ]
+    },
+    {
+      "id": "Q5xDDuhudtU",
+      "segments": [
+        {
+          "text": "picture as titled by q is *fisa* 20 well q",
+          "location": 225
+        },
+        {
+          "text": "that what q saying is that the *fisa* the",
+          "location": 237
+        },
+        {
+          "text": "from the carter page *fisa* warrant that",
+          "location": 243
+        }
+      ]
+    },
+    {
+      "id": "qaB9Xgr-K-U",
+      "segments": [
+        {
+          "text": "*fisa* court to sign off on tapping trump",
+          "location": 1321
+        }
+      ]
+    },
+    {
+      "id": "qbNEx7wfmRw",
+      "segments": [
+        {
+          "text": "fraudulent *fisa* warrants well of course",
+          "location": 435
+        },
+        {
+          "text": "abuses of the *fisa* they're looking into",
+          "location": 1452
+        }
+      ]
+    },
+    {
+      "id": "qCVOU264zOY",
+      "segments": [
+        {
+          "text": "in the twenty redacted pages of *fisa*",
+          "location": 551
+        }
+      ]
+    },
+    {
+      "id": "QgdmFUaMaTg",
+      "segments": [
+        {
+          "text": "*fisa* warrant to to spy an american",
+          "location": 24
+        },
+        {
+          "text": "obama administration's abuse of *fisa* and",
+          "location": 319
+        },
+        {
+          "text": "involved with the abuse of *fisa* the *fisa*",
+          "location": 397
+        },
+        {
+          "text": "there to get the *fisa* warrants to go spy",
+          "location": 430
+        },
+        {
+          "text": "stories to a *fisa* judge and presented",
+          "location": 439
+        },
+        {
+          "text": "a *fisa* court to spy",
+          "location": 1327
+        }
+      ]
+    },
+    {
+      "id": "Qi1p1ciC6ig",
+      "segments": [
+        {
+          "text": "basis to obtain *fisa* warrants",
+          "location": 1425
+        },
+        {
+          "text": "utilized to get the *fisa* warrants from",
+          "location": 1443
+        },
+        {
+          "text": "fraud on the *fisa* court became a lawyer",
+          "location": 1506
+        }
+      ]
+    },
+    {
+      "id": "RBg7ln8YvZs",
+      "segments": [
+        {
+          "text": "*fisa* court to on the behest of the obama",
+          "location": 566
+        }
+      ]
+    },
+    {
+      "id": "rCig3kho2SM",
+      "segments": [
+        {
+          "text": "to investigate the *fisa* criminal by the",
+          "location": 652
+        },
+        {
+          "text": "appointed to investigate the *fisa*",
+          "location": 712
+        }
+      ]
+    },
+    {
+      "id": "rhU9LM5NMjw",
+      "segments": [
+        {
+          "text": "surprise coming today with the *fisa*",
+          "location": 150
+        },
+        {
+          "text": "*fisa* 20 pages of the carter page fleiss",
+          "location": 187
+        },
+        {
+          "text": "that the *fisa* docket or the the steel",
+          "location": 201
+        },
+        {
+          "text": "excuse me the carter page *fisa* warrant",
+          "location": 207
+        },
+        {
+          "text": "carter page *fisa* are released or some",
+          "location": 1586
+        }
+      ]
+    },
+    {
+      "id": "RQ0Vxa8t2lE",
+      "segments": [
+        {
+          "text": "way that they're alleging that *fisa* the",
+          "location": 742
+        },
+        {
+          "text": "*fisa* court was abused and misused so the",
+          "location": 745
+        },
+        {
+          "text": "renewals of a *fisa* order authorizing",
+          "location": 776
+        },
+        {
+          "text": "a *fisa* warrant from the *fisa* court it",
+          "location": 836
+        },
+        {
+          "text": "with the *fisa* court referring to or",
+          "location": 841
+        }
+      ]
+    },
+    {
+      "id": "RU7GoALMyfc",
+      "segments": [
+        {
+          "text": "we're gonna cover stuff today like *fisa*",
+          "location": 34
+        },
+        {
+          "text": "in the *fisa* court with the fight with",
+          "location": 398
+        },
+        {
+          "text": "the *fisa* document or the vice carter",
+          "location": 695
+        },
+        {
+          "text": "documents from the *fisa* carter page",
+          "location": 702
+        }
+      ]
+    },
+    {
+      "id": "sbQRdt546xk",
+      "segments": [
+        {
+          "text": "obtain the *fisa* court warrants and to",
+          "location": 1207
+        },
+        {
+          "text": "using the *fisa* court which is just the",
+          "location": 1316
+        }
+      ]
+    },
+    {
+      "id": "sqjMUSm7P7g",
+      "segments": [
+        {
+          "text": "released a secret *fisa* memo and it was",
+          "location": 55
+        },
+        {
+          "text": "using fake evidence for the *fisa* court",
+          "location": 177
+        },
+        {
+          "text": "secret *fisa* member william banting",
+          "location": 320
+        }
+      ]
+    },
+    {
+      "id": "sRO9eUbKbHk",
+      "segments": [
+        {
+          "text": "dossier *fisa* not public five eyes uk",
+          "location": 1898
+        },
+        {
+          "text": "*fisa* and you're you're very adamant that",
+          "location": 2039
+        }
+      ]
+    },
+    {
+      "id": "STeFcjPilJQ",
+      "segments": [
+        {
+          "text": "*fisa* warrant was a complete sham on this",
+          "location": 72
+        },
+        {
+          "text": "*fisa* abuse by the fbi that was false he",
+          "location": 523
+        },
+        {
+          "text": "central part of the *fisa* applications",
+          "location": 533
+        },
+        {
+          "text": "representations to the *fisa* court yeah",
+          "location": 571
+        },
+        {
+          "text": "these four *fisa* abuses then it goes from",
+          "location": 1545
+        }
+      ]
+    },
+    {
+      "id": "t1tZokS2EvY",
+      "segments": [
+        {
+          "text": "of *fisa* warrant or internal to",
+          "location": 166
+        }
+      ]
+    },
+    {
+      "id": "t6E_0ndD_uc",
+      "segments": [
+        {
+          "text": "obama ministration was sending *fisa*",
+          "location": 753
+        },
+        {
+          "text": "stunning april 2017 report from the *fisa*",
+          "location": 769
+        },
+        {
+          "text": "investigation or audit into *fisa*",
+          "location": 778
+        },
+        {
+          "text": "congress about the way that the *fisa*",
+          "location": 793
+        },
+        {
+          "text": "of justice and then on to the *fisa* court",
+          "location": 868
+        },
+        {
+          "text": "*fisa* court was comfortable with the",
+          "location": 907
+        },
+        {
+          "text": "will say this and the *fisa* court opinion",
+          "location": 961
+        },
+        {
+          "text": "the the ways that the *fisa* court were",
+          "location": 1016
+        },
+        {
+          "text": "collect data through the *fisa* court on",
+          "location": 1049
+        }
+      ]
+    },
+    {
+      "id": "ta_w9snGNto",
+      "segments": [
+        {
+          "text": "to now here's the next one *fisa* equals",
+          "location": 923
+        }
+      ]
+    },
+    {
+      "id": "tA5qx4py3vk",
+      "segments": [
+        {
+          "text": "he says here talking about the *fisa*",
+          "location": 796
+        },
+        {
+          "text": "ryan to block the *fisa* memo from great",
+          "location": 1084
+        },
+        {
+          "text": "then q says declassified *fisa* rod",
+          "location": 1255
+        },
+        {
+          "text": "disclosed to the *fisa* judges they were",
+          "location": 1591
+        },
+        {
+          "text": "support verify applications to the *fisa*",
+          "location": 1600
+        },
+        {
+          "text": "final renewal of the *fisa* warrant",
+          "location": 1703
+        }
+      ]
+    },
+    {
+      "id": "Tcnt9LQ9ghs",
+      "segments": [
+        {
+          "text": "*fisa* courts but we're gonna get to that",
+          "location": 51
+        },
+        {
+          "text": "being an abuse of the *fisa* courts and",
+          "location": 231
+        },
+        {
+          "text": "used to obtain a *fisa* warrant on trump",
+          "location": 453
+        }
+      ]
+    },
+    {
+      "id": "TcTxPlJydUY",
+      "segments": [
+        {
+          "text": "abusing the *fisa* courts and so on and",
+          "location": 778
+        }
+      ]
+    },
+    {
+      "id": "tHP9ltlAus8",
+      "segments": [
+        {
+          "text": "antonin scalia one-time head of the *fisa*",
+          "location": 514
+        },
+        {
+          "text": "antonin scalia plus the *fisa* court judge",
+          "location": 590
+        },
+        {
+          "text": "what may come out in the *fisa* ig report",
+          "location": 598
+        }
+      ]
+    },
+    {
+      "id": "TiTXAXiDfUc",
+      "segments": [
+        {
+          "text": "out of the *fisa* were released if that",
+          "location": 1238
+        }
+      ]
+    },
+    {
+      "id": "TwLUyzhOLOg",
+      "segments": [
+        {
+          "text": "this whole *fisa* surveillance on",
+          "location": 888
+        }
+      ]
+    },
+    {
+      "id": "tyzocNwNQKM",
+      "segments": [
+        {
+          "text": "glad does the *fisa* court granted",
+          "location": 1444
+        },
+        {
+          "text": "was *fisa* court made aware of all the",
+          "location": 1452
+        }
+      ]
+    },
+    {
+      "id": "ulqxOJMqlbE",
+      "segments": [
+        {
+          "text": "through the *fisa* how bruce or was in",
+          "location": 513
+        }
+      ]
+    },
+    {
+      "id": "Uv9kdzginz4",
+      "segments": [
+        {
+          "text": "signing carter page *fisa* why did rod",
+          "location": 228
+        },
+        {
+          "text": "the carter page *fisa* that basically was",
+          "location": 271
+        },
+        {
+          "text": "his asses who it gives us this the *fisa*",
+          "location": 325
+        },
+        {
+          "text": "on these *fisa* warrants while knowing",
+          "location": 363
+        },
+        {
+          "text": "cottage *fisa* and then all the way down",
+          "location": 847
+        }
+      ]
+    },
+    {
+      "id": "uznBzdoryQE",
+      "segments": [
+        {
+          "text": "truth in exposing the way that the *fisa*",
+          "location": 106
+        },
+        {
+          "text": "in exposing how they handled the *fisa*",
+          "location": 402
+        },
+        {
+          "text": "campaign and withheld it from the *fisa*",
+          "location": 1350
+        }
+      ]
+    },
+    {
+      "id": "V5UBaiLKTJ8",
+      "segments": [
+        {
+          "text": "fbi agents lied to the *fisa* court to get",
+          "location": 1416
+        }
+      ]
+    },
+    {
+      "id": "v7n8XMG6_lU",
+      "segments": [
+        {
+          "text": "public they lose setup scam *fisa* abuse",
+          "location": 513
+        }
+      ]
+    },
+    {
+      "id": "VAb-q4zZZ84",
+      "segments": [
+        {
+          "text": "there they got *fisa* warrants and went",
+          "location": 818
+        },
+        {
+          "text": "correlation between *fisa* abuse treason",
+          "location": 1015
+        }
+      ]
+    },
+    {
+      "id": "vH2LP87XOhM",
+      "segments": [
+        {
+          "text": "country will be revealed in the *fisa*",
+          "location": 351
+        }
+      ]
+    },
+    {
+      "id": "vK8vS2FLi_8",
+      "segments": [
+        {
+          "text": "*fisa* abuse about what the behavior was",
+          "location": 1119
+        },
+        {
+          "text": "*fisa* court to get the warrant to spy on",
+          "location": 1218
+        },
+        {
+          "text": "and after the october 21st *fisa*",
+          "location": 1246
+        },
+        {
+          "text": "application was taken to the *fisa* court",
+          "location": 1248
+        },
+        {
+          "text": "more importantly how the *fisa* process",
+          "location": 1298
+        },
+        {
+          "text": "were there abuses in how this *fisa* was",
+          "location": 1300
+        },
+        {
+          "text": "called *fisa* abuse",
+          "location": 1446
+        },
+        {
+          "text": "how the *fisa* process was handled we'll",
+          "location": 1451
+        }
+      ]
+    },
+    {
+      "id": "vLkThiVu-7w",
+      "segments": [
+        {
+          "text": "abuse of the *fisa* court and you know",
+          "location": 300
+        }
+      ]
+    },
+    {
+      "id": "vNBvyX0c2GU",
+      "segments": [
+        {
+          "text": "abuse of the *fisa* court using unverified",
+          "location": 498
+        },
+        {
+          "text": "*fisa* and how everything's gonna be",
+          "location": 1250
+        },
+        {
+          "text": "implicated through the *fisa* and foia is",
+          "location": 1252
+        }
+      ]
+    },
+    {
+      "id": "vo2k76mYB48",
+      "segments": [
+        {
+          "text": "government they were lying to the *fisa*",
+          "location": 397
+        }
+      ]
+    },
+    {
+      "id": "VSa_TIkV6lE",
+      "segments": [
+        {
+          "text": "we're now finding out that the *fisa*",
+          "location": 1253
+        }
+      ]
+    },
+    {
+      "id": "vvIB5CzHtRk",
+      "segments": [
+        {
+          "text": "remind you that they use to get the *fisa*",
+          "location": 926
+        },
+        {
+          "text": "together the actual *fisa* gate warrants",
+          "location": 1016
+        }
+      ]
+    },
+    {
+      "id": "w7usO3iDt_o",
+      "segments": [
+        {
+          "text": "same source in in *fisa* court to get the",
+          "location": 666
+        }
+      ]
+    },
+    {
+      "id": "wwoXSecjUy0",
+      "segments": [
+        {
+          "text": "during before even the *fisa* warrant so",
+          "location": 169
+        },
+        {
+          "text": "wasn't told to the *fisa* court so you",
+          "location": 176
+        },
+        {
+          "text": "want your your evidence of *fisa* abuse",
+          "location": 178
+        },
+        {
+          "text": "tell the *fisa* judge when they were",
+          "location": 213
+        },
+        {
+          "text": "looking to get that *fisa* warrant and to",
+          "location": 216
+        },
+        {
+          "text": "the *fisa* that have been blocking",
+          "location": 328
+        },
+        {
+          "text": "you know once the *fisa* is released it's",
+          "location": 828
+        }
+      ]
+    },
+    {
+      "id": "WxIbdhY0A54",
+      "segments": [
+        {
+          "text": "effort to block the release of the *fisa*",
+          "location": 513
+        }
+      ]
+    },
+    {
+      "id": "X4jATK5wBgU",
+      "segments": [
+        {
+          "text": "*fisa* court judge white house meeting",
+          "location": 470
+        },
+        {
+          "text": "met with the *fisa* court judge prior to",
+          "location": 488
+        },
+        {
+          "text": "document the *fisa* warrant itself the",
+          "location": 503
+        },
+        {
+          "text": "*fisa* application itself they didn't even",
+          "location": 505
+        },
+        {
+          "text": "reforming the *fisa* courts because this",
+          "location": 551
+        },
+        {
+          "text": "abusing the *fisa* courts starting this",
+          "location": 641
+        },
+        {
+          "text": "off on on bogus *fisa* warrants that used",
+          "location": 646
+        },
+        {
+          "text": "between now the the judge *fisa* court",
+          "location": 652
+        },
+        {
+          "text": "involved in the *fisa* for mr. paige at",
+          "location": 1260
+        },
+        {
+          "text": "sign off on several of those *fisa*",
+          "location": 1266
+        },
+        {
+          "text": "obtaining a *fisa* warrant in her position",
+          "location": 1272
+        },
+        {
+          "text": "*fisa* warrant oh how convenient loretta",
+          "location": 1283
+        },
+        {
+          "text": "the *fisa* court was abused and illegally",
+          "location": 1298
+        },
+        {
+          "text": "actually signing *fisa* warrants which",
+          "location": 1397
+        },
+        {
+          "text": "*fisa* court abuse of the *fisa* court and a",
+          "location": 1431
+        },
+        {
+          "text": "weaponization if you will the *fisa* court",
+          "location": 1434
+        },
+        {
+          "text": "way that the *fisa* court actually works",
+          "location": 1454
+        }
+      ]
+    },
+    {
+      "id": "x8rM1oZB8U8",
+      "segments": [
+        {
+          "text": "*fisa* system at this point and try to",
+          "location": 529
+        },
+        {
+          "text": "there about getting rid of the *fisa*",
+          "location": 580
+        },
+        {
+          "text": "evidence if you will to go to the *fisa*",
+          "location": 606
+        },
+        {
+          "text": "brought to the *fisa* court was unverified",
+          "location": 1247
+        },
+        {
+          "text": "carlin didn't even tell the *fisa* court",
+          "location": 1342
+        },
+        {
+          "text": "for fraudulent page *fisa* warrant oh no",
+          "location": 1349
+        },
+        {
+          "text": "it then they go the *fisa* court and say",
+          "location": 1371
+        }
+      ]
+    },
+    {
+      "id": "XISLjXeWUwk",
+      "segments": [
+        {
+          "text": "requesting *fisa* warrants to spy on in",
+          "location": 1073
+        }
+      ]
+    },
+    {
+      "id": "xot9iXQ-zBA",
+      "segments": [
+        {
+          "text": "*fisa* and how it's just a rubber rubber",
+          "location": 377
+        },
+        {
+          "text": "so there you go *fisa* is a big rubber",
+          "location": 399
+        },
+        {
+          "text": "talking about the *fisa* courts and it's a",
+          "location": 444
+        },
+        {
+          "text": "believe in the *fisa* case she's",
+          "location": 458
+        },
+        {
+          "text": "quote transcripts of relevant *fisa* court",
+          "location": 469
+        },
+        {
+          "text": "actual response from the *fisa* court with",
+          "location": 506
+        },
+        {
+          "text": "know a *fisa* warrant a you know spy on",
+          "location": 527
+        },
+        {
+          "text": "appointing *fisa* court judges and",
+          "location": 559
+        },
+        {
+          "text": "it says *fisa* warrant was issued and",
+          "location": 700
+        },
+        {
+          "text": "after mana for *fisa* warrant was issued",
+          "location": 705
+        }
+      ]
+    },
+    {
+      "id": "YACpICjPygE",
+      "segments": [
+        {
+          "text": "what happens if *fisa* fails or signers",
+          "location": 831
+        },
+        {
+          "text": "clinton probe *fisa* meaning that there is",
+          "location": 841
+        },
+        {
+          "text": "probe *fisa* it says how do you keep",
+          "location": 855
+        }
+      ]
+    },
+    {
+      "id": "YAHylAzN21o",
+      "segments": [
+        {
+          "text": "*fisa* they used the steel dossier to get",
+          "location": 603
+        },
+        {
+          "text": "*fisa* gate to go after the president and",
+          "location": 654
+        }
+      ]
+    },
+    {
+      "id": "YkrFx8fhafI",
+      "segments": [
+        {
+          "text": "context post on fysop meaning the *fisa*",
+          "location": 351
+        },
+        {
+          "text": "spices so how does that connect to *fisa*",
+          "location": 497
+        }
+      ]
+    },
+    {
+      "id": "YLlsruYA4pk",
+      "segments": [
+        {
+          "text": "*fisa* warrants out against the deep state",
+          "location": 8
+        },
+        {
+          "text": "*fisa* umbrella surveillance warrants",
+          "location": 1005
+        },
+        {
+          "text": "have apparently *fisa* warrants going on",
+          "location": 1035
+        },
+        {
+          "text": "we've been going over is true about *fisa*",
+          "location": 1050
+        },
+        {
+          "text": "covering now including the spy gate *fisa*",
+          "location": 1191
+        },
+        {
+          "text": "under scope of *fisa* warrant or internal",
+          "location": 1528
+        },
+        {
+          "text": "the scope of a *fisa* warrant or was it an",
+          "location": 1821
+        }
+      ]
+    },
+    {
+      "id": "YlYxp4VTDgw",
+      "segments": [
+        {
+          "text": "lying to the *fisa* court 17 times now is",
+          "location": 181
+        },
+        {
+          "text": "the fbi lied to the *fisa* court to obtain",
+          "location": 196
+        },
+        {
+          "text": "present it to a *fisa* court to begin an",
+          "location": 206
+        },
+        {
+          "text": "that is lying to the *fisa* court they did",
+          "location": 215
+        }
+      ]
+    },
+    {
+      "id": "ywlM82gfvbk",
+      "segments": [
+        {
+          "text": "*fisa* by the fbi and the doj so this guy",
+          "location": 1240
+        },
+        {
+          "text": "no *fisa* is the highest level",
+          "location": 1358
+        },
+        {
+          "text": "fact that *fisa* is not covered under foia",
+          "location": 1389
+        },
+        {
+          "text": "information act generate redacted *fisa*",
+          "location": 1399
+        }
+      ]
+    },
+    {
+      "id": "z1mRlnZbCF0",
+      "segments": [
+        {
+          "text": "twenty pages from the *fisa* carter page",
+          "location": 1965
+        }
+      ]
+    },
+    {
+      "id": "Z5r4RVFd2a8",
+      "segments": [
+        {
+          "text": "on the *fisa* extension of the warrant for",
+          "location": 193
+        }
+      ]
+    },
+    {
+      "id": "Zfa1UNNaPxc",
+      "segments": [
+        {
+          "text": "mentioning the fact that the whole *fisa*",
+          "location": 568
+        }
+      ]
+    },
+    {
+      "id": "ZGLLyMlvoUY",
+      "segments": [
+        {
+          "text": "now it says thick *fisa* right think no",
+          "location": 155
+        }
+      ]
+    },
+    {
+      "id": "zJoO_HiEUno",
+      "segments": [
+        {
+          "text": "steel dossier which was used by *fisa*",
+          "location": 370
+        },
+        {
+          "text": "willfully lie to the *fisa* judges in",
+          "location": 772
+        },
+        {
+          "text": "so one of the *fisa* court judges",
+          "location": 963
+        },
+        {
+          "text": "silence from the *fisa* judges and it says",
+          "location": 982
+        },
+        {
+          "text": "to a *fisa* judge who allegedly according",
+          "location": 1203
+        }
+      ]
+    },
+    {
+      "id": "zu3muQumFyI",
+      "segments": [
+        {
+          "text": "one-time head of the *fisa* court",
+          "location": 689
+        },
+        {
+          "text": "*fisa* court judges us supreme court",
+          "location": 778
+        },
+        {
+          "text": "on *fisa* court judges",
+          "location": 797
+        },
+        {
+          "text": "story brought it to a *fisa* court and",
+          "location": 1135
+        }
+      ]
+    },
+    {
+      "id": "q_QmpI9cyRY",
+      "segments": [
+        {
+          "text": "did the *fisa* court get a lied to so that",
+          "location": 376
+        },
+        {
+          "text": "the *fisa* indictments equal start public",
+          "location": 890
+        },
+        {
+          "text": "same thing it was all about a *fisa* abuse",
+          "location": 968
+        },
+        {
+          "text": "remember this when you talk about *fisa*",
+          "location": 1705
+        }
+      ]
+    },
+    {
+      "id": "zy611VHFFwU",
+      "segments": [
+        {
+          "text": "articles foreign acts public *fisa* public",
+          "location": 977
+        },
+        {
+          "text": "the *fisa* court with this fake steel",
+          "location": 1089
+        },
+        {
+          "text": "have to ask these questions was the *fisa*",
+          "location": 1104
+        }
+      ]
+    }
+  ]
+}

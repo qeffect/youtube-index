@@ -1,0 +1,889 @@
+{
+  "indexed": "_3_9jNnqSLs,_84VsnBpaBc,_93RNA5Ha70,_Awvc8QlDz4,_AxZQUqtJsA,_beFZDjQdW4,_doyaNsa-pQ,_eg0ITfj_qQ,_fY9I8Nv7Lw,_H1YgL0RznE,_jNixS1mbhw,_kjF5FIvGZw,_lCYmAZo7sw,_OomAKMJPOI,_pHvjJVPcN8,_VV3NsbBwrM,_wm27SsFDUI,--KGd8543KY,-A1QXJPxNKk,-AUYiNIOBIY,-bt0XdlECmo,-C_bR9GeDYg,-c86Aow016c,-HkaT32jmhw,-HlG0W6-vmE,-IrgjkkM6lQ,-jHFOTPlZaI,-jmPwHHE89E,-oQyw8s0S84,-sA7wkR8UB0,-tHxUIgbg7M,-UKFQbdZpPY,-ZZAkZpTXIQ,00CCQDR3fL4,00Hf7lUrPyc,04FOeZBZxc0,04ycuYtnGas,07BCgoDxBVE,0aFUemaJFVY,0E7DwReRt04,0huECwWFIsk,0I-VTk_zTqc,0kmuhPreeYY,0lVpfRdqKA0,0N8m2YJnPuo,0QO_xmRyaNk,0tERS6Uq4qA,0ujo6SQJ6LQ,1_9hcn4t38I,1A3qJWY3_L4,1dYaLq4QLQY,1E_KfRzWu0Q,1Etm_hTRVeA,1M9dy5DMI9E,1V4JzFqKaJc,22AU1lrH7Ls,2CP8xTCgtfE,2d5qlKFsZzA,2hW8LHTkStA,2j-qy0AIt7Y,2LufOwLiBis,2MiU_vQHuhQ,2PrXFlocDYU,2REUfU97jhs,2Ve67t_uOf4,2VYEiCqkRTI,2zi0PNq4bkk,30bOiqbusQ0,335wkvmX5vg,368sHIBHpAo,3aOeVRKLb4c,3DMaiyiS1Lg,3f4jGulfRwI,3g7lq9jPgWA,3U_ap4R6vdo,3Uj1_qSvQdM,4-_B_e26qMc,4-a_MvhVnC4,4-K7fN5Jk7s,400edNy_ni0,40ToCc712RQ,41HmC9YpFeo,43X77-0Mxk0,4eC5ShxBcFU,4FhT3SbVFis,4GaYnV7Fh8U,4I_5Onwb7Ss,4nh69vhSftk,4NMb5c7hbGQ,4UWUZQ0yrNI,4vf5cD_3FCY,5fRiEMjJMfw,5Gu5Z8hoE9c,5poquW251MU,5rSvzWuZKfg,5U4ZPlJjJdw,5Zw7tKJT9GM,6Dl7BqoQw7g,6FaHx01j-5s,6g0gWvCnyyY,6G3ESBGC_4k,6kxLuR_hc2g,6lIwy_rUGC4,6Md_28o7Y4U,6MUonL3L6Xo,6o4PE7BZEtk,6ophCz8lTCE,6Px52BhaPXo,6zPiSKXu20Q,7-39lGBwGf4,7425763TuLU,78Sy0Z0VE8w,7d5rqWzxayk,7Kvt9DCqM4E,7NumZVPxeUY,7TDCozqNzfo,7wdZ3Vcn63E,8-P2j0E4qmY,88yfd3QkbWc,8bFizNFJ65s,8gUUCnDw7bQ,8i_Pa6_mnMk,8I01RmblRoU,8j96g3074yQ,8rCRN8p-qaE,8vm-WMalEyA,92zIM-H_OlQ,9CSDk0QrrbI,9dnWjr2dwKE,9EbZMn-XIEM,9FB7DLvib8c,9HNRi_RNFJU,9HPGIpbOjLY,9hu6rgAp9RU,9i-fexWiOqM,9qdCetVazSw,9tIaPchdlx8,9UL4-qJIOIs,9W8NVIuNGfg,A_GyZMHraMw,A-L4oM1TviQ,A3T2487JWiQ,A5u9XLWx7O0,AAr6KmurWHk,abm5ilF5UEc,ABnoHIMGEtM,Adlk-Fd9Z3c,ahYQzAvhNjQ,AjoBJmFp23k,ajpeQ26EMVg,ameA5eNkxEk,ANc2YPRntzo,aouy1eOFILs,aQ3l5YiK2eA,AQ8yuh8tfKo,As9Fp3euKP0,aSaAYVvwTqI,ASj7Z_A6VvQ,ata21yb9Bnw,av_I5CbyFHM,AvSJQiTPr8U,AvssE-w5oes,aWx0FDWC_yQ,ax-fLACWZVQ,ax706dVg8Y4,AZE2QGS27Zc,B14_7XPCjGY,B1IA6YZ5B88,b9ATGOEE2Ak,Ba8wxZLp_c0,BAZP3_t6_3k,BBFwDktGjgU,bdhoF0WHkjw,BEh8VFQCFc4,BfpHBMhsPb4,BGBjHI5vEms,BGnTSKjizC8,BIyn24hd4_w,bk7ldBrVG6o,bKc6RQd54aQ,bmzZIhsUfO4,BNIFaLBvku4,BqwQEPGN54c,BrihPR8lAoI,BRnrQnLdWbU,BRxT9wJT67o,BttAEQuo6Qk,bXZvpE22ZFM,bY6kNlrb7lQ,C-7r58C0qiA,C0_JjTASDto,c0JKggUZ028,C6Q-GCX62ms,c8rd7yx1Asc,CArCwfHHacQ,cAY147Txzxg,CBv1Iy_E5lI,ceJRYVThNcs,CGLcVJUDwk0,cJNuWm8m3-Q,cJzaQc5diYs,cLYAbfJMQMw,cmvFQHqzYnY,cnkl7yadh5E,cO44KG0AMiY,CoXobUWxHXI,CrDv03cDYL0,CSeG9anxjpo,cugV1VK6jV4,cWwr5WpypZs,cZzJIudDGHI,db0BMqNo0Fg,DbZ0D6E7u4w,dcD2esCoW7o,der_2oCAjiM,dg3ISnKD6dA,DHxPqxERYX8,Dl6Cxeh_nyY,dLkmXjXZmMA,DOfyCq5xvZY,DQ0-oJrRr3Q,DRrAZZ0Iuyg,DRu4kDanXk0,DSCgUtdjUrY,DtN8mf93Te8,dTUApE4DU10,DUSRyUwm-gM,dVB86fl8t6M,dx7gs-krRjw,DXsYZZ1mzG4,dzAhAflB6s0,DZCdgZfalD4,E-KewVNO38M,E6E05M89Wd0,EDublqR_5JU,eGbYnP1Et30,EgNpxiRrPfw,EHa8I45qMMc,EhZ7udzTJ5o,eJ-otgb_tg8,EKc1-XVqxyI,ENkWUPcpOE0,EoiuSDSivh4,eP6hz4wmwFc,ER4g2Tb-HbA,ErCxjqBe6AU,EVU9bfki-LU,EwDzzFdFO1Q,ewMNDqpA4mA,EYCCXXkAPQA,F-BRTD3Csco,f-kKEyiVVwo,F6IYn4iGwjI,F9BclaKfoac,FcElJxMypMU,fcUXyrphxgA,Fi5OkAjc-vc,fib2sf26pOM,FIYTR5uoMNM,fNSUxHEPHtk,FPZQdrCD97U,fQ3X7xMypg8,ftWB7T3EVGU,fUc1es3e9-s,fUIVoeryTsI,fUW7hfoDEp8,fVgAazqQarI,FysQzQeY_2U,g0mnw3iFKrE,g0td3qUP-Nc,G63GWS9GxgA,GCgI2VkLr3w,gfrgrfzcuyY,GGcBiGMSPcI,GgzoQZAO6r0,gMMr8m85HQw,GQbjkSj7F-Y,GqeHEmbYy2A,gu0IbFpVdf4,GuO3hW25FKE,gwgOJbOgX9g,gXm_ysbwlSU,GXqikbjZydc,gzMCu9C85rM,H7USwoa5QqI,h9sI48iPRFs,H9zOSlnVz3A,HaGG5aApgTA,hby1lvnYnK8,hdeoc0uMPYI,hEgGt1t7Swk,hf_gZSt0kps,HgsDem-itYw,hj1p2Ni7h2I,Hk00p90xnj0,hLmfGwfjk00,hN7nl4JqClA,hqKg14dEylQ,Hr5x3sbooaw,hRIO6bWbfzk,Hshq59C2vM4,HVnUANzdJlI,hwFa7lTr0vs,hwus0Rr7K1s,HY1_ErPhaK8,I-P2lMBMdHE,I0KRAnljhBY,I0M73_jCMow,I3PAPJ6bsq8,id7jH-rT8Dk,IE_FgjUAnmQ,Ie4vh_uPrFU,IEX5TOERLgo,IgiJ8D3RoV4,IHVG77ZucUU,iJ6IqFUIhSo,IJo-J5O5QZE,IkR1zohQ9VE,IMO8zFbAu8c,iNHsUBsbRLI,InoVWK8a5H8,ipCkwQDxaiM,IQCa2padKIM,ISxeMvt3s4U,iTw-9Q3QGNA,ityzooj6Z9w,IvH-D2hhqyk,iZgbikWE7yA,j1KcS2TccCw,j5lsFf3cV9E,j7jtYUployI,J7WeQuZU-sc,J8a11EilEEk,JEFH6j-UIQA,JLgJq-b8aEI,jlK9AJcFB0A,jNVJSIuRb8Y,JR-MzJ6fDaE,jr3vL6Rmm7M,jYVdKNEZUHw,JzvUX4bFLAQ,k1h2g6fsFv0,K2qBcmowSQE,K4IUGJ3DHFM,K5gGbRYD6Ro,KcsnuRYS5tk,KCTu3nv8xE8,KFb4nHmut2s,kfF3pAHXj30,kff9xWbBCnw,Kg85wki662E,kI-t3mGWWQs,kQr4-Yxpz44,kQW9_GYatgs,kTPxvk1B0Hc,KWr5uJuObwU,ky2WjqFhjj4,l0bWGKuNsCI,L2V-1dQ0n-0,L6WDBPfLuYY,Lbo_WcwcFmU,lcg_yoIS1Yw,Lep0WYoe7Sc,LGLUpqfUuSQ,lHJn-XwhkpU,lHL-6-qYzQY,LHM4GEHUZBE,ljhVxvAbEhE,lJzeDEQ6J9Y,lkKlLAOTJPY,LNIFpbcg17o,lOqhbDn7RCY,lQNRIFpWuQc,lqpTLDqewPI,lsDYimKBWzA,Lsv1GMI7Ck8,LV1pXXsI89M,lvKy5X1zA8A,lXNYG17twtI,LYGkGtuCEb0,m_6bftMf-8w,M2Q_-pADhm0,M4w_xAOaGD0,MAo0HuH-dAU,MbUaLBD2cPo,mFLifAJZoAw,mftoxsrzl9w,MGFrzWikMsE,MHjNOIJB9gk,MIdOiZVZq04,MiI61UMtf70,mIZBPh3j_oY,MK6ZJ8Y7_H0,MKlHF7hjMrk,MmC4KQ5ScNw,MO0gwMl-0CE,MotM4c-nQCk,MQwsfj_ixMQ,msPHFMRkBiw,mVm_I7RZraE,MXAovKmB5WM,mY2TUO5kYCY,Myd3GRR65YY,myIQChpgtN8,mzB-9GoYb3Y,N24HKBWgwy0,Na0dF5v2y_M,nED5_AV8URQ,netc5DITbWA,NF1lpvcpWog,nflPhrkaSEk,nIUAOJQqMwk,njM4no6DIrU,NK6btC5LWAk,nL6EXjus6-o,nM09tCiEeb0,NNF1_g3HYYo,nPEGU2nR2dM,nSuGzA_p7yk,nTMFqovdXno,NVKSDQ8EhBY,ny_CoYXrcew,nZQlcxHjRuo,o1-igj3nuBE,O5S6Ej4K3Co,o7NRAlhjZks,OAEcYUOdGWo,oeIk7YrMXfs,oeWLBFiwB08,OfRZMNN35CI,oFxMHPaEKig,OG6qckEf1Eo,Ogn0lUtVB30,ok5Lw6UKVWA,OkRqFqfznRY,oTP78AH4vk0,OVZcBaBLAJM,OzSQPUNEX1Y,p-qXg_JfUUs,p-SzWzFERN8,p4vsdIhVLRE,PbD4kFH2GSw,pBod4miQ1po,PCImEJv37ZA,pEE6wSvIdH8,pFc4Sohzxyg,Pgb6pamGX9M,phSS8PbGX1E,Pi6FijU1qJw,pN8qgKZSxtg,PQFSD72x0Ic,pRyuXPFqxqA,pt1M-kl-atg,PtgW7xTG428,PXcEVOzCLJM,Py11WiNhEvU,q4DDiKob_gY,Q8NhENBNyyk,QeuDOlRTHB0,QF2rJkUKMrY,QhgNItzDV54,QKANTV1X-04,QmYwSijaoik,qRjUM6Fx7ww,r_JL8vekSoY,R_tIG5zyJ0g,R-6SIciSc4c,R1_b-Pf3KNw,R2dDhC-0etM,r2GFtcsNhTU,R5jcM1Zbm30,r6twJUsuSOI,R7Ar8OG3yuQ,rda35BHlMUs,RHKbO1krLQs,riiiqXFtw5c,RJVYmN0eAuI,RKx5ANX93fE,rLN6mMplynI,RMMzPYcKVpA,RoFZBVPep6s,rqF_NJF-1h8,RQPOQB8upmw,RRnSeDNg368,rrOKtWMvHQg,RRxTeVBpEZU,Rvnnpt0CYFE,s39MfWPR07c,S6ZgTlSGF8Q,S9lyhm543Sc,s9XPvUNIvsw,Sa2nt1B9JRQ,sb1c2oG54gw,scZT-cIPwkw,SFWSnU8dolk,SipMJtAXmJY,SIQDBcg8thM,SLlRyO6_xrI,SqJmoJANdrY,SsqfiC7M7Xc,swnXUdVp3Dc,SxlUgNSLqvo,T-rKedrhRyY,T4SaRz8JME8,T9RgEmAwhgI,TaouWXb0TOA,TgZrDSK3HGg,TIei7eta0uw,tM8Qd2nSMs4,TOGn8EBE7Q0,tP1dSZ4JDDQ,tQR__3LXOyE,tR-G27nl0zk,tR4LuV0lI5w,tRrvGSBqEnI,tsfFNiqDU5w,TTZ4ssYx7_M,TW0svE7k-yg,txtwyCMxpFc,TYcslztwl7o,TyNxd8tdMW4,tyxT-ZZnXUg,U_7e9KeYQ3Q,u2LPCIl5QMI,U5PQ2P0SXcU,U8ba9Dndv5M,uBmS5RboEs0,UE_6el_A3pw,ugXxmj3thCA,UhON5Y1TdCU,UhxdIJe1H0U,uHYiItvKEbc,ulaxUszIqYM,UN6ry1_HJis,uNeMTlW6n3s,UoXSkZZ7HTg,Up__8B8eMhw,uq_XBsBOanc,url3_C-M2S4,uX13WbNqlBU,UY3WagHWKCs,UYYMId_dlao,uzDHRbsZyzQ,v-5pNb0dSeo,v-7GiZjDJ_g,v75UxqTSd-U,VaaZ-HAptPw,VBqbbPcIwkA,Vd4za_x25zU,vDxIOTBR3AE,veCRl2F8JY4,Vh7dkYT_8Tk,vIk-VfKu7w0,vKC-7RdORbw,VMdIpZfmpRk,vn10WEyJ_C8,VNbFPI6evs4,VNvGLN7JB4I,Vqjcvl7OL_I,vsOoRbj5QtY,vuAa0Pn0z_k,VUb6IFyt-Q0,vuCmDgARMJw,VvB-9_zxEBA,VVGtkZD9TTU,vWKwO6XnBNE,VY2Nu-MZseQ,VY8HIV2tpLw,VzUVq1K6If0,w_bSXes3tCc,w1FgKkHknsg,W1JPXx4eckg,W1mtswcthVI,W46qLjiG6bE,W6sLZKBHAN0,wACjGwOYhBQ,WalYLpN970c,WBaZACYxsrA,wD66LPDIP20,wHCbeGaIG-8,wnAwPHXM9dg,wndjUTqAQgM,WnFXguaTIc0,wOJfbj4fCAg,WQfFVkWsfbo,WsP5mGcicWM,wvRjXXxowDk,Ww26APxpkJo,wWhS3QxK1wY,X0yOJO_Xq0o,X4yw71zwXCs,X6wfhEtWwyw,xAsEWayiYxM,XATzwG7VuiU,XBfY_vBDwWE,xC5t2QnzdgE,xcMo6bqu_xM,XfytSneFuow,XiV-gQtp71M,xMhsDlXJaG8,XMMKDHO9cDI,xNSqW2yOIzQ,xP1vq13Cudk,XpCHXFTmPY4,XpxhWQniTUM,xqa5koaMZN4,xtKRHEf4Qxo,XUJYVYMivj8,xuUifNY5Tb0,XVlnFC-iKME,xxLDbO_L3No,y7GsaCb87dw,yb2PreneQAM,yFBSt-ZUYvQ,ygE4GdXfgbs,yIQxcL6ayD4,yJ6pkGapoUE,YkQ8EIpvv4Q,ylnzIxBxkfA,ymS-qCPTgzQ,YnwfHRu_dsk,YTRfNb6HTkA,Yu6P4YYW0vs,yvjv45AjEI4,ywNsn7mkDKg,YyrXeXIzzZY,z3n6wC6HsXM,Z5Y49GjEPqg,z6FoTfoznUI,ZdUNq3UAQvw,ZGU-d6Ie7Bw,ZitpbhRc9pc,ZJArfdL13CQ,zjffrWDqrTw,ZKAJFutc098,ZKPKvVQ6F6g,zKQy0x_bOIY,ZLN7QmFf-7g,ZLsueURVgkI,zmYleuo1UjM,ZPNKcrhIFDg,zqNtRBF4bt4,ZrBZdi00St0,Zrjz_9qqKHU,zRnr5QcUqCQ,zV2LxHqOq-I,Zwfv2PVt1uw,zXPzz0FtjC4,zzVXx4mxt18,3fUXewJ5G70,p3x-cOMdhVI,IKkdg3u4Ud0,lp_zbwVefFQ",
+  "topic": "Pizza gate",
+  "aliases": [
+    "pizza gate",
+    "pizzagate"
+  ],
+  "hash": null,
+  "results": [
+    {
+      "id": "_eg0ITfj_qQ",
+      "segments": [
+        {
+          "text": "into like some *pizza* *gate* stuff right so",
+          "location": 992
+        }
+      ]
+    },
+    {
+      "id": "_H1YgL0RznE",
+      "segments": [
+        {
+          "text": "hashtag *pizza* *gate* this is published on",
+          "location": 84
+        },
+        {
+          "text": "hashtag *pizza* *gate* and they've been to",
+          "location": 535
+        },
+        {
+          "text": "independent *pizza* *gate* investigations",
+          "location": 581
+        },
+        {
+          "text": "after the horrifying *pizza* *gate* claims",
+          "location": 667
+        }
+      ]
+    },
+    {
+      "id": "_VV3NsbBwrM",
+      "segments": [
+        {
+          "text": "into *pizza* *gate* pita gate and child",
+          "location": 17
+        },
+        {
+          "text": "*pizza* *gate* queueing on the great",
+          "location": 41
+        },
+        {
+          "text": "oh god we've just entered hashtag *pizza*",
+          "location": 361
+        },
+        {
+          "text": "*gate* territory yet again anthony",
+          "location": 363
+        },
+        {
+          "text": "bourdain favorite *pizza* spot on cape cod",
+          "location": 370
+        },
+        {
+          "text": "into the *pizza* *gate* territory again",
+          "location": 558
+        }
+      ]
+    },
+    {
+      "id": "-HkaT32jmhw",
+      "segments": [
+        {
+          "text": "real and it goes beyond that said *pizza*",
+          "location": 1461
+        },
+        {
+          "text": "*gate* is disgustingly real beyond that my",
+          "location": 1464
+        }
+      ]
+    },
+    {
+      "id": "2REUfU97jhs",
+      "segments": [
+        {
+          "text": "*pizza* *gate* and mole walk you can go down",
+          "location": 370
+        }
+      ]
+    },
+    {
+      "id": "4eC5ShxBcFU",
+      "segments": [
+        {
+          "text": "look into *pizza* *gate* look into",
+          "location": 723
+        }
+      ]
+    },
+    {
+      "id": "6Px52BhaPXo",
+      "segments": [
+        {
+          "text": "creepy pedo music video *pizza* *gate* check",
+          "location": 1140
+        }
+      ]
+    },
+    {
+      "id": "9HPGIpbOjLY",
+      "segments": [
+        {
+          "text": "reptilian type stuff *pizza* *gate* and",
+          "location": 3387
+        }
+      ]
+    },
+    {
+      "id": "9qdCetVazSw",
+      "segments": [
+        {
+          "text": "hash tag spirit cooking hash tags *pizza*",
+          "location": 1275
+        },
+        {
+          "text": "*gate* pedo gate look into aberdeen and",
+          "location": 1278
+        }
+      ]
+    },
+    {
+      "id": "abm5ilF5UEc",
+      "segments": [
+        {
+          "text": "email servers with attachments e *pizza*",
+          "location": 465
+        },
+        {
+          "text": "*gate* files including video photos and",
+          "location": 468
+        }
+      ]
+    },
+    {
+      "id": "ajpeQ26EMVg",
+      "segments": [
+        {
+          "text": "implicated in everything from *pizza* *gate*",
+          "location": 506
+        }
+      ]
+    },
+    {
+      "id": "ax-fLACWZVQ",
+      "segments": [
+        {
+          "text": "for this is like into the pedo *gate*",
+          "location": 986
+        },
+        {
+          "text": "*pizza* *gate* stuff so check this out the",
+          "location": 989
+        }
+      ]
+    },
+    {
+      "id": "AZE2QGS27Zc",
+      "segments": [
+        {
+          "text": "with the whole *pizza* *gate* and he",
+          "location": 1262
+        },
+        {
+          "text": "the whole *pizza* *gate* thing in the back",
+          "location": 1453
+        },
+        {
+          "text": "*pizza* *gate* i guess here maybe i wouldn't",
+          "location": 1486
+        },
+        {
+          "text": "*pizza* *gate* as well like it was a big",
+          "location": 1516
+        }
+      ]
+    },
+    {
+      "id": "BIyn24hd4_w",
+      "segments": [
+        {
+          "text": "from saying that *pizza* *gate* is real and",
+          "location": 1066
+        },
+        {
+          "text": "board smart people realize that *pizza*",
+          "location": 1115
+        },
+        {
+          "text": "*gate* is real smart people know that the",
+          "location": 1118
+        }
+      ]
+    },
+    {
+      "id": "BqwQEPGN54c",
+      "segments": [
+        {
+          "text": "that's like *pizza* *gate* on bath salts a",
+          "location": 890
+        }
+      ]
+    },
+    {
+      "id": "bXZvpE22ZFM",
+      "segments": [
+        {
+          "text": "make is with *pizza* *gate* and from the",
+          "location": 1519
+        },
+        {
+          "text": "*pizza* *gate* but like bigger and",
+          "location": 1534
+        },
+        {
+          "text": "happened with *pizza* *gate* is also going",
+          "location": 1544
+        },
+        {
+          "text": "that's so stupid because we know *pizza*",
+          "location": 1547
+        },
+        {
+          "text": "*gate* was definitely real still is real",
+          "location": 1550
+        },
+        {
+          "text": "happened with *pizza* *gate* and *pizza* *gate*",
+          "location": 1554
+        },
+        {
+          "text": "with *pizza* *gate* is also gonna happen",
+          "location": 1574
+        }
+      ]
+    },
+    {
+      "id": "DtN8mf93Te8",
+      "segments": [
+        {
+          "text": "another *pizza* *gate* it's disgusting",
+          "location": 1835
+        }
+      ]
+    },
+    {
+      "id": "dVB86fl8t6M",
+      "segments": [
+        {
+          "text": "on *pizza* gay pedo *gate* the standard",
+          "location": 89
+        },
+        {
+          "text": "to the old *pizza* *gate* investigation",
+          "location": 542
+        },
+        {
+          "text": "hussain to *pizza* *gate* and i did see this",
+          "location": 885
+        }
+      ]
+    },
+    {
+      "id": "eJ-otgb_tg8",
+      "segments": [
+        {
+          "text": "could it be the precursor to *pizza* *gate*",
+          "location": 1375
+        }
+      ]
+    },
+    {
+      "id": "F-BRTD3Csco",
+      "segments": [
+        {
+          "text": "*pizza* *gate* with rolling stone a very",
+          "location": 21
+        },
+        {
+          "text": "is ready to talk about *pizza* *gate* well i",
+          "location": 28
+        },
+        {
+          "text": "*pizza* *gate* he's talking about pressing",
+          "location": 36
+        },
+        {
+          "text": "podesta cause *pizza* *gate* conspiracy",
+          "location": 63
+        },
+        {
+          "text": "theory dubbed *pizza* *gate* which falsely",
+          "location": 107
+        },
+        {
+          "text": "politics the *pizza* *gate* can spear",
+          "location": 131
+        },
+        {
+          "text": "type in *pizza* *gate* but anyways most of",
+          "location": 183
+        },
+        {
+          "text": "phone and talks to *pizza* *gate* fanatics",
+          "location": 268
+        },
+        {
+          "text": "in 2016 by *pizza* *gate* inspired gunmen",
+          "location": 301
+        },
+        {
+          "text": "*pizza* *gate* for me at some point i was",
+          "location": 329
+        },
+        {
+          "text": "sudden are we talking about *pizza* *gate*",
+          "location": 424
+        },
+        {
+          "text": "that talked about this *pizza* operation",
+          "location": 782
+        },
+        {
+          "text": "the *pizza* *gate* thing he asked did you",
+          "location": 783
+        },
+        {
+          "text": "talking about *pizza* *gate* in the rolling",
+          "location": 953
+        },
+        {
+          "text": "*pizza* *gate* stuff about to break guys is",
+          "location": 985
+        }
+      ]
+    },
+    {
+      "id": "fUc1es3e9-s",
+      "segments": [
+        {
+          "text": "*pizza* *gate* and the hillary emails and",
+          "location": 979
+        }
+      ]
+    },
+    {
+      "id": "g0td3qUP-Nc",
+      "segments": [
+        {
+          "text": "instance the *pizza* *gate* shooter and the",
+          "location": 1150
+        }
+      ]
+    },
+    {
+      "id": "hby1lvnYnK8",
+      "segments": [
+        {
+          "text": "*pizza* *gate* he's like a *pizza* *gate* it",
+          "location": 37
+        },
+        {
+          "text": "ring out of a washington dc *pizza* parlor",
+          "location": 45
+        },
+        {
+          "text": "*pizza* *gate* is real",
+          "location": 48
+        }
+      ]
+    },
+    {
+      "id": "hf_gZSt0kps",
+      "segments": [
+        {
+          "text": "tunnels *pizza* *gate* pedo gate the cabal",
+          "location": 66
+        }
+      ]
+    },
+    {
+      "id": "j5lsFf3cV9E",
+      "segments": [
+        {
+          "text": "but i thought *pizza* *gate* wasn't real",
+          "location": 7
+        },
+        {
+          "text": "hollywood more *pizza* *gate* related stuff",
+          "location": 50
+        },
+        {
+          "text": "thought *pizza* *gate* wasn't real hashtag",
+          "location": 56
+        },
+        {
+          "text": "let's go ahead and hop into this *pizza*",
+          "location": 85
+        },
+        {
+          "text": "*gate* stuff right this whole *pizza* *gate*",
+          "location": 87
+        },
+        {
+          "text": "croak and always on top of the *pizza*",
+          "location": 330
+        },
+        {
+          "text": "*gate* stuff going down exposed for",
+          "location": 333
+        },
+        {
+          "text": "still think *pizza* *gate* hashtag *pizza*",
+          "location": 351
+        },
+        {
+          "text": "*gate* it's fake so we look at this we see",
+          "location": 353
+        },
+        {
+          "text": "attacking the girl we see *pizza* more",
+          "location": 357
+        },
+        {
+          "text": "resurfaced *pizza* *gate* hashtag and ons",
+          "location": 625
+        },
+        {
+          "text": "and all of this *pizza* got *gate* stuff",
+          "location": 639
+        }
+      ]
+    },
+    {
+      "id": "KCTu3nv8xE8",
+      "segments": [
+        {
+          "text": "i thought after *pizza* *gate* broke out you",
+          "location": 158
+        }
+      ]
+    },
+    {
+      "id": "Kg85wki662E",
+      "segments": [
+        {
+          "text": "on *pizza* *gate* we should help them out at",
+          "location": 953
+        }
+      ]
+    },
+    {
+      "id": "L6WDBPfLuYY",
+      "segments": [
+        {
+          "text": "comments on the so called *pizza* *gate*",
+          "location": 302
+        },
+        {
+          "text": "york city saying that *pizza* *gate* scandal",
+          "location": 320
+        }
+      ]
+    },
+    {
+      "id": "Lbo_WcwcFmU",
+      "segments": [
+        {
+          "text": "on you know *pizza* *gate* or you know takes",
+          "location": 1065
+        }
+      ]
+    },
+    {
+      "id": "ljhVxvAbEhE",
+      "segments": [
+        {
+          "text": "i am totally yes what woke me up *pizza*",
+          "location": 921
+        },
+        {
+          "text": "*gate*",
+          "location": 924
+        }
+      ]
+    },
+    {
+      "id": "LYGkGtuCEb0",
+      "segments": [
+        {
+          "text": "20th 2017 a rundown info from vote *pizza*",
+          "location": 704
+        },
+        {
+          "text": "*gate* group search board for breadcrumbs",
+          "location": 709
+        }
+      ]
+    },
+    {
+      "id": "MO0gwMl-0CE",
+      "segments": [
+        {
+          "text": "wikileaks *pizza* *gate* disclosure namely",
+          "location": 571
+        },
+        {
+          "text": "if you've ever investigated *pizza* *gate*",
+          "location": 1098
+        }
+      ]
+    },
+    {
+      "id": "MXAovKmB5WM",
+      "segments": [
+        {
+          "text": "10-year old drag queen *pizza* *gate* is",
+          "location": 1474
+        }
+      ]
+    },
+    {
+      "id": "njM4no6DIrU",
+      "segments": [
+        {
+          "text": "*pizza* *gate* or because of an orange mae",
+          "location": 1408
+        },
+        {
+          "text": "in the *pizza* *gate* this is the story that",
+          "location": 1428
+        }
+      ]
+    },
+    {
+      "id": "nL6EXjus6-o",
+      "segments": [
+        {
+          "text": "eric thomas she will be *pizza* *gate* is",
+          "location": 3655
+        }
+      ]
+    },
+    {
+      "id": "o1-igj3nuBE",
+      "segments": [
+        {
+          "text": "so you don't want this whole pedo *gate*",
+          "location": 421
+        },
+        {
+          "text": "*pizza* *gate* thing even you know blowing",
+          "location": 423
+        }
+      ]
+    },
+    {
+      "id": "o7NRAlhjZks",
+      "segments": [
+        {
+          "text": "bit of *pizza* *gate* on today's true",
+          "location": 17
+        },
+        {
+          "text": "pedophilia camp or pedophilia ring *pizza*",
+          "location": 184
+        },
+        {
+          "text": "gay pedo *gate* is was he in the in on",
+          "location": 188
+        },
+        {
+          "text": "the skin of dead children *pizza* *gate* is",
+          "location": 697
+        }
+      ]
+    },
+    {
+      "id": "pEE6wSvIdH8",
+      "segments": [
+        {
+          "text": "break the cabal spell *pizza* *gate* may",
+          "location": 373
+        }
+      ]
+    },
+    {
+      "id": "phSS8PbGX1E",
+      "segments": [
+        {
+          "text": "photographer with all the *pizza* *gate*",
+          "location": 181
+        }
+      ]
+    },
+    {
+      "id": "PtgW7xTG428",
+      "segments": [
+        {
+          "text": "they be using for the you know *pizza*",
+          "location": 2237
+        },
+        {
+          "text": "*gate* and everything in these rituals and",
+          "location": 2239
+        }
+      ]
+    },
+    {
+      "id": "R2dDhC-0etM",
+      "segments": [
+        {
+          "text": "the children *pizza* *gate* pedo gate cueing",
+          "location": 1104
+        }
+      ]
+    },
+    {
+      "id": "r6twJUsuSOI",
+      "segments": [
+        {
+          "text": "cooking and adrenochrome and *pizza* *gate*",
+          "location": 585
+        }
+      ]
+    },
+    {
+      "id": "RMMzPYcKVpA",
+      "segments": [
+        {
+          "text": "awakening *pizza* *gate* pedo gate no more",
+          "location": 58
+        },
+        {
+          "text": "reaction to the *pizza* *gate* related",
+          "location": 930
+        }
+      ]
+    },
+    {
+      "id": "T9RgEmAwhgI",
+      "segments": [
+        {
+          "text": "covers pedo *gate* *pizza* *gate* all all of",
+          "location": 43
+        }
+      ]
+    },
+    {
+      "id": "ulaxUszIqYM",
+      "segments": [
+        {
+          "text": "and i followed *pizza* *gate* and probably",
+          "location": 1424
+        }
+      ]
+    },
+    {
+      "id": "vKC-7RdORbw",
+      "segments": [
+        {
+          "text": "point not believe in pedo *gate* and *pizza*",
+          "location": 1343
+        },
+        {
+          "text": "*gate* and all these things is so",
+          "location": 1345
+        }
+      ]
+    },
+    {
+      "id": "vn10WEyJ_C8",
+      "segments": [
+        {
+          "text": "that linked justin trudeau to the *pizza*",
+          "location": 67
+        },
+        {
+          "text": "*gate* conspiracy which we all know is",
+          "location": 71
+        },
+        {
+          "text": "*pizza* *gate* oh yeah why did you hear that",
+          "location": 95
+        },
+        {
+          "text": "foundation and *pizza* *gate* and a common",
+          "location": 248
+        }
+      ]
+    },
+    {
+      "id": "Vqjcvl7OL_I",
+      "segments": [
+        {
+          "text": "*pizza* *gate* conspiracy search of children",
+          "location": 66
+        },
+        {
+          "text": "*pizza* *gate* was bad look at how bad this",
+          "location": 207
+        },
+        {
+          "text": "*pizza* *gate* *pizza* *gate* in the rolling",
+          "location": 293
+        }
+      ]
+    },
+    {
+      "id": "VVGtkZD9TTU",
+      "segments": [
+        {
+          "text": "theory is *pizza* *gate* it's it's crazy and",
+          "location": 182
+        }
+      ]
+    },
+    {
+      "id": "w_bSXes3tCc",
+      "segments": [
+        {
+          "text": "slander because of all the *pizza* *gate*",
+          "location": 366
+        },
+        {
+          "text": "being interviewed about *pizza* *gate* but",
+          "location": 386
+        }
+      ]
+    },
+    {
+      "id": "W46qLjiG6bE",
+      "segments": [
+        {
+          "text": "the whole *pizza* *gate* stuff coming out",
+          "location": 25
+        },
+        {
+          "text": "through the entire *pizza* *gate* and the",
+          "location": 35
+        },
+        {
+          "text": "know the the story of *pizza* *gate* so if",
+          "location": 87
+        },
+        {
+          "text": "online investigation known as *pizza* *gate*",
+          "location": 102
+        },
+        {
+          "text": "this guy posted unbelievable a *pizza*",
+          "location": 213
+        },
+        {
+          "text": "*gate* researcher named ryan o'neal",
+          "location": 216
+        },
+        {
+          "text": "evidence surrounding *pizza* *gate* has been",
+          "location": 278
+        },
+        {
+          "text": "*pizza* *gate* stuff i was wondering if i",
+          "location": 362
+        },
+        {
+          "text": "attempting to make him out to be *pizza*",
+          "location": 612
+        },
+        {
+          "text": "*gate* can be debunked so can't be",
+          "location": 614
+        },
+        {
+          "text": "debunked excuse me *pizza* *gate* can't be",
+          "location": 617
+        },
+        {
+          "text": "non-existent basement of a *pizza* shop",
+          "location": 655
+        },
+        {
+          "text": "*pizza* *gate* is",
+          "location": 661
+        },
+        {
+          "text": "the *pizza* *gate* doubters actually looked",
+          "location": 696
+        }
+      ]
+    },
+    {
+      "id": "WQfFVkWsfbo",
+      "segments": [
+        {
+          "text": "we hear potus talk about *pizza* *gate* this",
+          "location": 778
+        },
+        {
+          "text": "definitely looked into *pizza* *gate* he",
+          "location": 793
+        },
+        {
+          "text": "references *pizza* gay wiener gates and",
+          "location": 869
+        },
+        {
+          "text": "studying into *pizza* *gate* then into",
+          "location": 873
+        }
+      ]
+    },
+    {
+      "id": "XiV-gQtp71M",
+      "segments": [
+        {
+          "text": "mkultra *pizza* *gate* pedo gay no more neon",
+          "location": 40
+        }
+      ]
+    },
+    {
+      "id": "xP1vq13Cudk",
+      "segments": [
+        {
+          "text": "look who was there promoting the *pizza*",
+          "location": 650
+        },
+        {
+          "text": "service *pizza* *gate* pita *gate* queueing on",
+          "location": 652
+        },
+        {
+          "text": "all right we know about the *pizza* we",
+          "location": 654
+        }
+      ]
+    },
+    {
+      "id": "Z5Y49GjEPqg",
+      "segments": [
+        {
+          "text": "podesta true master of cuisine pedo *gate*",
+          "location": 1122
+        },
+        {
+          "text": "*pizza* *gate* and the *pizza* right here",
+          "location": 1126
+        }
+      ]
+    },
+    {
+      "id": "ZKPKvVQ6F6g",
+      "segments": [
+        {
+          "text": "cooking *pizza* *gate* so on and so forth it",
+          "location": 437
+        }
+      ]
+    },
+    {
+      "id": "ZrBZdi00St0",
+      "segments": [
+        {
+          "text": "with *pizza* *gate* pita gate all that kind",
+          "location": 43
+        }
+      ]
+    },
+    {
+      "id": "zzVXx4mxt18",
+      "segments": [
+        {
+          "text": "brought up with *pizza* *gate* then stuff",
+          "location": 1736
+        }
+      ]
+    }
+  ]
+}

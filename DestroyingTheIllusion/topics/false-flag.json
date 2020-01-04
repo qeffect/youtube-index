@@ -1,0 +1,2910 @@
+{
+  "indexed": "__lGfKxA0WI,_-_MVJecq5I,_5WkbucPT4g,_ec7XMfirg4,_EqneJRgSe8,_idzf18MYXs,_Ne214s756k,_Ob8jo-qOCU,_q5-lvNqF8Y,_TPUfVabVHU,_tRUka84Q10,_UMxGoem_cE,_YS92pFld0Y,-_4Za6eoYwY,-0DjA_r32uQ,-3F6SZZIT-E,-5M7Y-zFyZ0,-9msE7-ydts,-Avsxw6BrhI,-b8zWS3tty4,-e5ABbWTn8M,-i-6mNaKI3I,-icWyKwjrY8,-kDAK81lyaY,-kYE2w6y-GA,-MYXqXNhcnc,-P8dkAqUKZY,-tSHN-cRXo0,-VRexocuLyU,-zsJy_pc_gQ,0-8SzdsEPn0,047r18PmzXg,06ZhNoUqwA4,0C27jD9e-j0,0ICCjllfcD0,0jspiMXND2A,0kkMEbbFd9M,0NUQEdAWVkQ,0q_eYZ-zjys,0SJGTnXKJLk,0th1OKXNQXY,0thRJXOyyOs,0VW3c_f1WOI,0Ytkx1pvnL8,1-v18VEV4Rg,18k-mw0lGZ0,1atlaAzWtj4,1FoSp-tBfp4,1Qa_cX1DPn8,1s9fsICUfOw,1WmbX3JQa0c,1ya6QF21RjE,1ZoQGfCIQP4,22knD94PYNw,23GkaHyU2R4,23Zi93zyS6U,24o5bLbjYh0,29VWyFZAo98,2J-isPoaOe8,2MEzlpSs3hI,2qRm-XvaYGk,2vQA-V9OnxY,2XVtrBvxoNQ,3_9MzitOhpg,3-sR3LmB0N0,305W5z9yzW0,32HzhZpqqHs,32nTGjvWF9c,34kHft924rA,3cgcmRKlIhU,3ciusVGxdno,3E_KWnG6gO8,3fi1bx4oWOE,3GvhthG2rXo,3iT9_AqKX2M,3mCWwiYSQsM,3n_fTHOHmP4,3VJvZsz9VQk,3Vpaplt92is,3WDtVeSSyrU,3WzJtUe634M,3XT99f5rZkY,3YdbQS2xw0E,40cx-g-mfDk,41qO6bukotY,4aR7zbZf3pE,4ATvSzS-TLU,4dX3v4Z4aec,4fS6egD9cSc,4mNbB0RTuoI,4MXimasATsA,4nk3rY194h8,4oXIn88QFbc,4qQd8Qu7aPM,4VCgU1v0c3I,56hnR-UeVbI,59IbF_o4Xxc,5flC3-UkdyU,5PhM32xlVEs,5RLxQOvZxXs,5St08kicLiU,5uzjLst8w68,5VFOltHRXbM,6_wyHLXHqx4,60xrsFvDYYk,6Ezxw-UNmQI,6foOgmaZN-s,6kESQU65fUA,6KttPC8JV3s,6o54Y7dhOus,6PsL7aVI12U,6sbgm3s49BM,6sC4YqrrbsQ,73cggmTCclY,7a8EAuTwhdU,7d3A9Wi1xu0,7drP1GmKuhA,7HQEEo9pTxI,7kzKO982UIQ,7OUm208GUDs,7UT-kOjOka4,80z15a0xsUQ,81p3jRVXGk4,8gkGfhtpurY,8pa8Er939dg,8QiuuwivwsM,8z6EDkIocXI,91aT7JIOIbY,9gYGBZ6wUIE,9hqxfV040oQ,9K-4Jc2l-7U,9lbn3bkROBc,9lgC6A9CGqY,9LwjAgU_2hc,9w_UO-KJccs,9xhpctWntoI,9YBPFZ6r5nY,9yIsVlJ2qAY,9zB7TNiGuDw,A4-cSwxHsV4,a4jwV9NnySU,A52PfmoHm8I,a67Ukzg63u8,A7HbMpBAg8c,A82praOPfpo,AaP-PP8-KGk,aAzQwARAo28,ABM5Oj2s6eI,aC12-gepI3U,aCfOGluhEKI,aDPMNOgOz4E,aDUDC92PxcU,AJ_U54u6gbE,ajiBcgtAY-w,aJWZ_APGg6A,AKPMK0xaRN0,AmbKxQ51VWc,aN9TllOemSA,ANDq9-ttO-w,Ao2abBxOiLY,AOParRtlvFQ,ApHsdbvYgFA,aqGYpuYdbOM,Ar3JvKPGr40,ARwagwGekv0,AuJjdL3A0Wc,AvcEuGghWQk,aWGr7i2-IYA,AwzaAL1pDXQ,aXwILTOVL0M,AyLUG-qQcCA,B5_naGkaBDg,B5MFHmezpn8,B5mo-Rnwm4s,bbAaX9B5ncY,bbpmtRc18WQ,BC_VRjt8gvw,BcZjAF2oFEE,Bd0NHLMVTAQ,BFuaMj35qAo,bG3PLtnHSuc,BGt8AVBwAQc,BLJVjp0lq4g,bmipWlYsyEM,bMWIDBnA6Z4,Bn2OlX_4C4Q,bNHR5T64ooQ,bNMvlOzCsZk,Bozlwr1uHco,BpeOtb7CWeE,bPVLncDuirE,BR9EIDuUBJQ,bTFNebYIotU,bYRSIwwnCFU,bzAYF7yEn7Y,bzCEAKmxlVs,C_h2RLZEGEk,c1C7epr44bw,c7Yfc_JZAaU,CCLJZ-bM01Q,CDZhS3BfdB0,CeXQ15A9BSA,CIkVvgIT6qs,cKGw_Hrtajc,cKObBT3BQ4A,CksmGxdCvPQ,cLcHOtY9fgk,coYoIINOWcQ,cpAeoTwKHlc,cpPgoi7zUjo,cu1homOW9CE,CunzrKChTpI,CX6apttsGjs,CxaPpbC3pgA,CXbRscylFsY,CYE1-7NSG2g,cyjt9Vm0imo,D-va4Jpkt38,D-y5ALLiCZ4,D3zc2JmlHK0,D4AkLrH0WtI,D8mzSBBfnNQ,D8RUia2q5wA,daON-Y2Ph5w,DCkhkkb2nqM,DdiM5lA-05c,ddZfJCoq65o,DeEBJcmrjAU,dh_NJhuVafY,dHHqYCCujKY,DiRI7rhc4qE,DJJw71TSho4,dJspwk8huY4,dKaqjJzl0vg,DksI8ZPmBNE,dlZUFvOqJeY,dNI6tUGGJNM,dONKuAjf26Q,dos0E9blpHw,DsDBNF7mhqk,DSqcbzBojYk,Du5Cit3oe6w,duZHG7VDNm4,DxGp_peYB_A,e6gS2_fX0oY,e6mIdK0LLWk,e8AyslO62b8,e8xXVMiChuQ,E9n2iFMyXjQ,EcbwKNO6TBI,eERaZvdF6Ms,ees6El-Jay0,ejBAqhxqAkQ,EK0R7sdxAFQ,ekJ4hKREY8U,eLy1XqX9IcU,En-VTreZMTs,F3oAIzyo0HQ,F4IPqNACpvI,FAhsY5AIWWY,FDEmEvwZtrM,fHohiZp5hGc,FJGnynqfiCQ,Fo9T0LNhNqQ,fOQPFgF5Etg,FPUae6qsjdw,FS65Eef4z7o,fSwdVMLq8zI,FuBVeoPBd0U,fWjIv0WgyqA,fWk2XKmiQOI,fXA4SlMx-Mg,Fz5fZ_7pia4,G2ZwwI5fN0E,g57p8aQQSbY,G5RiRuFIh8Y,g90iVaKS8Mc,gCaHEfyXkA0,gdEzIz7ievE,gDlgmkVKpy0,GDx66bXgYq4,GFEth1i97yY,gG4fzaWuo9w,GhikRA2no60,gJ7o1StrKv8,Gk2tr29fY6Q,gKGT2jlVrgI,gkMB1_gooM0,gkO-A-sYsH0,GmuQx9AiYD4,GN4nmRCU0AY,gojwzzPJQrg,GrWwOG5yFFM,GThX5ssVBn0,GUip6dZpKEs,gUkB5Kk4WAA,H1FABkrnIaE,h6koxkXAJLU,h6y5TxpDvbs,h9dW3QCrYso,hA31PrCznjw,Hb187lnYh0o,HgE2EqazY68,hhPRDd4gOEI,hIrbIOaAUxg,hKdsv2EbSSo,hl-FK4t_9lA,HLRFTyNBlFY,hLumnOkZynU,hLWMbjtpLn0,Hm1iTIa7rFk,hMhDNxC-EB4,HMpv5DpVVUY,hMQTN9L1dBE,Huj55Cm9qH8,hUouIgbrNZY,HWjAwmGq654,HxhtJ-1kd5k,hy9Uo864i5g,hZGSNKUFjQk,I2-S22FiEvg,I2t1cPgCvJo,I2zRq3kdLbk,I3pn7Xex-Ks,i3rp0Uim-0o,i4AnsQlVTvQ,I5h76-o1Kjw,i8VDK89xXzg,I8VIDULc_jQ,iAIDKPNVjzU,ifJ_GtRJ5qM,Ig7fshISKmk,igDMQaECoSw,IifnpOcm0b4,ik-J2hrNaWo,IKpl4TeHwPg,iOLlT7CbqKs,iPX6pJ1dD1s,IS-CvxLX47Y,IsG3gQIRxno,IsjWF9k7TZE,iTFkB2iXkgI,iTFXxHtlImY,iu9vMZwMqgI,IUcqrB04ZpE,IuIhXyjMG28,iUolMe2Bu-M,IuVzHVFtFIE,iwCYGrXqmqw,iwIfxOwYNOE,IwvvrAh-JyA,ixHuaqf211Y,iXPDVq2lGsc,j6boJmmzNcg,j9gG0WZWO2M,jaInrf7dB30,jal0jAoFV70,Jcekm05d-so,JD4r7qP0OLw,jEgmVdV6HBE,JeGwCPRojJo,jgHK6JZonJM,JLPKO3AKA14,JMN2uWdknac,jN-MkK8djcY,JNaC6eDgjAk,jnUZD1wnBn8,jR_FxV3DYyU,jS-yK_ueKZw,jSZnoRobYTE,JT-aith5f5E,JvaI4JCd5ig,jZ_tr0NnNjE,k2bZBA1A82U,k2MXyXKRlN0,K2TOaYHNhDs,K3kiPpMhKkQ,k3m1P3Vie6s,k55kWdrN8hw,k9LVltxQF2Y,kan3dn8Q8nA,KbWsgGeTrb0,KDVsepSqmys,KgYgMWFqbEc,kHxWvaMOwhM,Kl3MyuzCdRs,KM6DTC_i-8s,kNNz1UEwF-E,KpFP8X1JTiI,KPj--UF1T0k,kRGV4cIdWwM,KSP24qYeWgs,ku6qyUwUgWo,KVb-rUXG6h0,KW1hgV9CBqk,KXHpsXQV82g,KXW0hS3aOjA,L-4ADrZak_4,l0PDi1KDi1w,L1mLdTih8gg,L4Sa4dArQUE,L61XF64Ls8E,l9qBVI4SVP0,lb46GsmPTsI,ldX0CQ2UUfI,LFlKG-VVzMc,LInNbS1JErM,LiU5TfehWW8,lj8AH-4ajRw,LjzWwM9Y9zg,llnr6CG6lHM,Llr69yow55Y,llsND2qpTjM,lNKXqkyE2NQ,lOGKAbcAVzE,LQ4NioOxuGM,lUOYOF9DuSs,LwTvS9v15LE,LXCTMl_Jp9M,LygxI2VGhDU,m_PowDSDjEE,m1HAZ0ESYD0,M1ODHcuO0V0,m2kffLdykTs,m30mwu-9WW0,m3193w4W8Po,m5p9p9LBEpM,MATnFsqiC7Y,Mc5wHbV6irw,mCy59eLFjZg,McZuVVn7fEw,miQPk7qxSvs,Ml1Ys-sDe4o,mlmAUPNPev0,mLZkwKOueVI,mMVX1iGgRac,MO8yy324jyk,MpiqVbdFnlo,mPovmVmAgXs,MsBWU2CFf-U,MUyBpTbvDmw,N-BsO-mirZQ,N-Nsni2kalY,N0l4oFEKoCY,N37LrIj7a8E,N4MwW69zjdk,NbUtbE4Zpoc,Nett68JXMUk,NFBFDRSsaU0,nfDm-SuYSrQ,nhR65A2Cz1U,nJ5B8GnH3mE,NJf-Tr3BrqI,njWcrYwundg,NObMClb6nMY,noiATviQJ3Y,NoLKqBPGGLQ,nPRGWjUYGow,nPtPHMYmnsk,Nqbj_4nIAiA,NqL7EeYTd9s,NS200QxWq7g,nsUd370-n9Q,Nt4ug94a134,NVIEhqdvMCo,NVRVSzP0rFU,NVUbej8exEk,NY7B_THWsM8,Nzx4XSf_fAI,O_R4bM7ONJk,obm0AKIypPI,OCzJwGE7RTY,OdS-XmHla-U,OdXjpK_tLRg,OE_u4IbopVo,OGL_5cu0F-M,OgrLw9IX-Ns,ojYZBeCwYis,oK2ZWHTdbpA,ooHxX3whFXA,OOxgnEI8_NI,oReGR3Bjjmw,oSZzclsh00Y,otE6dhCgsJc,Oun53CRXyeI,OwECoLGRl68,oX7b3YzRNXk,ox9yzjeHt3s,ozbHMNhYe0A,oZz9CJ9K8MA,P0cawbGyBxM,p0Qy24DXfdY,P12Gc4WmCak,P3jy8S0P-2w,p6_gLv5qy8E,p6GmDJEkOQk,p6wFKOTyR60,P8xmUD4Gmrw,PA9MTquQya0,pAK-a8Op8KI,pauS_rhaYO0,PBiBq_DiHmo,pbjkl0DwxHs,Pg21pJPDzEU,phbygYipE-g,Pi8_BZtYNzQ,PkeO8SN0cN4,plJqp67-iX4,PNsZI-uZH7I,PsQlxu6iOzI,pt17lUpcskk,PtAxf8A1Zco,ptvgcLZ3HOw,PvWDJd2UYT8,pwM9WH8pqaY,PWMXacQWEjs,pyMrzxZBZZQ,pZ5q5wUI1-Y,pZhHd9KT2lk,q0IR8IqKZ18,Q1nmx353lDo,q2ItOTBF1ys,Q4MG607MDz4,q6hnQoB_BlI,q78RNxcI38U,q7I8sj_3rlM,q7prMUoyMEo,Q84zuHjjuww,Qa2bfVP6ChQ,qB9zc5VAanc,QC7qRbcWsN0,qcEDt4YOkS8,qCmySBiZXVA,qdwN5mt9V2c,qFumeKZX_MA,QJaNPlhmdSM,QK6Y2tnFIAw,qlFnlzOoFgo,qNurdjNB-rw,Qo2GL5T8T_E,Qq339b2xOrY,qRKU3XXIwlI,qSFeOuQEXXw,QSMC7VnqOnQ,QtYci9jXct4,QuVpIqeSRnU,qwbX5au3Iuw,qWhpDyoLyR8,qX2Z7mLBM1k,qZMy5wog24o,qZZGyHrnsQM,R_iWc7_vQ14,r-vKLD9F61M,R1g3eyyM590,r1IYwxp0NNs,r1pXJkMaAmc,RCPgq96ku4k,rdE4NEIZACI,REcAj2PLMu4,RenafscRgUY,RgdXwexLI_Y,RGFh5qOWU3U,RLczNzWBbpE,RmZj7uATNFM,rqks6sKCmDc,Rt85IKjQ9hs,rUpElK5Qw3E,rVrthFN9dnI,rX0dkfDOO1s,rxMOShu0yQk,RZf9IVaRgdo,S2U7ncJQ000,S4mKQajGJl4,s6H86oQEC2I,SaR5pCeCjao,SAwrlpHFmOc,sBy_LmO3b7k,SePTbZOh8iE,sHUgXraPhAc,siBW29AUMrw,skkII0awwFM,sKMZRv9JY_A,sLv3F7kLpB4,SovJjIjmI6M,sR5B-vb3Fi0,svK1ajIeprU,svwSKZ926yY,SvyN0PlWwkM,swc_HIr-8WA,Sx3ElJlX7wQ,SxPNu1XMYKA,sxWWB5aKNk8,T_mJ1awyakY,T3TRP5tX3T0,T5IM3P9Md-4,t6dwa21eo_M,TCtPeZP1H0g,td8PwMAtpQI,TdNo4qfgAb4,TeFw8eqcLco,tfW6YjVSx0U,Tg0_AZbm71E,TgzkblYi9pg,THy-FwvnIqQ,tJjx9eVGzSY,tK7YaJnYETw,TKK1o-pPPkQ,tkLyxIo8Cqo,tkm-n8lbhLg,TKOI_wF6Rn0,Tr5IR4SqKcA,TsjX9SPfvSA,Tus8Yc2qNXc,TX1rZO2bLJ8,u_apd9SGqLc,U1GOoEoYLy8,u1gZGn0l8y4,u3TgwapRzSA,u9zCkZgwoik,UA8VNiOraJI,uaXp0CBucos,uJn58OP3GEI,uJYAdCT7xFA,uKCq7HfZh9A,UKfHVu47LXo,Up-MRtsG4Tw,UpaXSxM07to,urRt-Yju_SU,UrzdhfUMR6k,UsuA0HSRXzo,UuJpA7lXi7g,uUsLnKlWMkU,UVea--jSv1A,uvYdZu80X9Y,uWFJruvCPhc,UwVr2kwMjI0,uxDmAVpZ91Q,V-8xYjEosOY,V4OPmN3e8F8,V59pKIXUQuM,v5G6fZkyhXg,v6JLwp0aFpc,Vafm-ZaLAyI,vafXYoDY5dw,vcqHF8DDsNk,VfelKh4yN9g,vInE2aOTFdw,ViODeAbI2IQ,vK3bX5D1ysc,VKhRSDIFJK0,vL7VfteARhQ,vLnzuy_aeGQ,VLxlCXAuo08,VtMhFvMTyHQ,VVsAZ0AGHeo,vZDynmvvgWg,w_A3W-OJyNw,W0APO4axfn4,w0OSb7FbXas,W7UmZWUWBMQ,WB_PkYN9MFI,wCcjEszzrTI,wdwWgzAq48E,wdXHxEEAvps,wg5sukd6E6Q,WHSd5tVWq1I,wjeEg2yoJbM,WKfsgQLVsHk,WlZQhQXwYTI,WmhFYQnlKB4,wNgdMwL7isA,WOmDWYRAtiA,WsnaqvLhEUk,wu0Utsff6Jo,WvCBdE6rolk,WwBj0YnLtX0,x1EXDDlmrVU,x1UII7bCsvQ,x27EZLRmoAU,x4XfpmZxDq0,Xe8yEypTfNA,XfNnvWPlprc,Xg7s8fovfh8,xKxi0Bbl_Fs,Xl5iO-2wzq0,xLDnc1Vm99w,XMo_G2k5Wso,XobWx6C6lJs,xQVu3ywd2RU,XRABi40G2T4,xS-hT1sfvfs,Xtk7ntK7k14,xU1ilgRmqsk,xUDwyRTojUM,xXRUfka1XFM,Y31yR524zWU,y3LgzaKBw2w,y3OVColWu-g,Y8DPHUnnvXU,YaMWl4cmqkw,yb_kKBcdsRc,ybgD2ibYB0o,YDS7nKcT3rk,yEf7XF-JNy4,yf8ObyPk568,yFQEK_KaTMA,yIh9oqXg4JU,YiLWFF__qiM,YIPBQ3O8Wr0,yK2UAmF7gYA,ym22gqkQmUA,ymm3YfCfVUs,yOGL3BrXZlA,YpPXlDhdkOg,YSc4GkdMm-E,ysHQziNaMOo,ySHvJqNfN7I,ySSnEYdnsEM,ytA3-R4Fi4M,yu7cOa_9gN0,yVjAH8Wg-hk,ywKQGnLaYdk,Z_nveKGRnsI,Z5o33xspXi4,z5obz0z7rdo,z7s8UaWeshs,Z8oojkEH6Eo,z9GTRwjpZLo,zBBzw6WImlY,zCKlkgpTrXo,zdehlx8vy4U,zffLUSbaqlw,zGk_J9B9MDw,zgK4F6NW32s,ZgOL1h0-8Ok,ZGsWdjqtO-w,zgU0j8HGfX4,zIU-AuvMwqU,zjqEsdevnaU,zKar6awuy2Q,zoQmiHuW8nc,ZpqZoQBWXVo,ZpXeRJcgZlU,ZqMTDLT6akA,ZRISi-Y-X3s,ZseKL2q2S-E,zUxgy98UTp4,zw8yzCjmYcI,zziC-o5xumc,ZZTz8nYZ6vA,hj7ubtDDtik",
+  "topic": "false flag",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_ec7XMfirg4",
+      "segments": [
+        {
+          "text": "used in various *false* *flag* events that",
+          "location": 496
+        }
+      ]
+    },
+    {
+      "id": "-_4Za6eoYwY",
+      "segments": [
+        {
+          "text": "used that as a *false* *flag* to of course",
+          "location": 1307
+        }
+      ]
+    },
+    {
+      "id": "-0DjA_r32uQ",
+      "segments": [
+        {
+          "text": "*false* *flag* that happened at the",
+          "location": 369
+        },
+        {
+          "text": "proxies isis knew ms-13 the *false* *flag*",
+          "location": 695
+        }
+      ]
+    },
+    {
+      "id": "-3F6SZZIT-E",
+      "segments": [
+        {
+          "text": "don't want to say it's a it's a *false*",
+          "location": 668
+        },
+        {
+          "text": "*flag* because the mass media has kind of",
+          "location": 670
+        },
+        {
+          "text": "*false* *flag* or staged event kind of what",
+          "location": 847
+        }
+      ]
+    },
+    {
+      "id": "-Avsxw6BrhI",
+      "segments": [
+        {
+          "text": "critical thinker the *false* *flag* alarms",
+          "location": 25
+        },
+        {
+          "text": "*false* *flag* very questionable incidents",
+          "location": 144
+        }
+      ]
+    },
+    {
+      "id": "-i-6mNaKI3I",
+      "segments": [
+        {
+          "text": "you feel *false*-*flag* if you're studied on",
+          "location": 422
+        },
+        {
+          "text": "this and think *false* *flag* and then i saw",
+          "location": 429
+        },
+        {
+          "text": "*false* disclosure *false* *flag* disclosure a",
+          "location": 888
+        }
+      ]
+    },
+    {
+      "id": "0-8SzdsEPn0",
+      "segments": [
+        {
+          "text": "was essentially a double *false* *flag* to",
+          "location": 41
+        },
+        {
+          "text": "that blatant *false* *flag* gas attack trump",
+          "location": 259
+        },
+        {
+          "text": "knows it was a *false* *flag* attack he's",
+          "location": 262
+        },
+        {
+          "text": "sorts are actually using this *false* *flag*",
+          "location": 312
+        },
+        {
+          "text": "is using that *false* *flag* chemical attack",
+          "location": 344
+        }
+      ]
+    },
+    {
+      "id": "047r18PmzXg",
+      "segments": [
+        {
+          "text": "they could use that as a kind of *false*",
+          "location": 949
+        },
+        {
+          "text": "*flag* so there's many different ways they",
+          "location": 951
+        },
+        {
+          "text": "can go about that *false* *flag* there's",
+          "location": 953
+        },
+        {
+          "text": "beam the *false* like alien invasion i",
+          "location": 956
+        },
+        {
+          "text": "hopefully we don't see a *false*-*flag*",
+          "location": 1032
+        }
+      ]
+    },
+    {
+      "id": "1atlaAzWtj4",
+      "segments": [
+        {
+          "text": "*false* *flag* we obviously know it was some",
+          "location": 407
+        },
+        {
+          "text": "vegas *false* *flag* next fbi informant to",
+          "location": 444
+        }
+      ]
+    },
+    {
+      "id": "1FoSp-tBfp4",
+      "segments": [
+        {
+          "text": "there we could call it a *false* *flag* for",
+          "location": 1128
+        }
+      ]
+    },
+    {
+      "id": "1WmbX3JQa0c",
+      "segments": [
+        {
+          "text": "those *false* *flag* pings within me not",
+          "location": 27
+        }
+      ]
+    },
+    {
+      "id": "23Zi93zyS6U",
+      "segments": [
+        {
+          "text": "massacre the deadliest *false*-*flag*",
+          "location": 60
+        }
+      ]
+    },
+    {
+      "id": "24o5bLbjYh0",
+      "segments": [
+        {
+          "text": "that whole *false* *flag* disclosure thing",
+          "location": 338
+        }
+      ]
+    },
+    {
+      "id": "2XVtrBvxoNQ",
+      "segments": [
+        {
+          "text": "a *false* *flag* some kind of diversion or",
+          "location": 607
+        }
+      ]
+    },
+    {
+      "id": "3_9MzitOhpg",
+      "segments": [
+        {
+          "text": "because of lies and fabricated *false*",
+          "location": 425
+        },
+        {
+          "text": "*flag* situations so whatever",
+          "location": 427
+        },
+        {
+          "text": "planning evidence that's a *false* *flag*",
+          "location": 600
+        },
+        {
+          "text": "that a *false* *flag* like this is going to",
+          "location": 991
+        }
+      ]
+    },
+    {
+      "id": "32HzhZpqqHs",
+      "segments": [
+        {
+          "text": "video on that it was obviously a *false*",
+          "location": 35
+        },
+        {
+          "text": "*flag* and i just want to tell you i am so",
+          "location": 37
+        },
+        {
+          "text": "understanding that this was it *false*",
+          "location": 42
+        },
+        {
+          "text": "*flag* hashtag syria hoax is trending it's",
+          "location": 44
+        },
+        {
+          "text": "occurred and said *false* *flag* boom right",
+          "location": 55
+        },
+        {
+          "text": "certain *false* *flag* with the ufo issue or",
+          "location": 469
+        }
+      ]
+    },
+    {
+      "id": "3fi1bx4oWOE",
+      "segments": [
+        {
+          "text": "of like their *false* *flag* that they're",
+          "location": 108
+        }
+      ]
+    },
+    {
+      "id": "3n_fTHOHmP4",
+      "segments": [
+        {
+          "text": "*false* *flag* tomorrow just keep your eyes",
+          "location": 488
+        }
+      ]
+    },
+    {
+      "id": "4aR7zbZf3pE",
+      "segments": [
+        {
+          "text": "right know how many *false* flags have",
+          "location": 936
+        },
+        {
+          "text": "*flag* shooting is done by muslim people",
+          "location": 942
+        }
+      ]
+    },
+    {
+      "id": "4fS6egD9cSc",
+      "segments": [
+        {
+          "text": "it's gonna set off the *false* *flag* alarms",
+          "location": 527
+        },
+        {
+          "text": "possible *false* *flag* that's just the",
+          "location": 541
+        }
+      ]
+    },
+    {
+      "id": "4mNbB0RTuoI",
+      "segments": [
+        {
+          "text": "over to the tv here *false* *flag* is galore",
+          "location": 76
+        },
+        {
+          "text": "there's likely some kind of *false* *flag*",
+          "location": 154
+        },
+        {
+          "text": "could have even been a *false* *flag* right",
+          "location": 568
+        },
+        {
+          "text": "it could have been a *false* *flag* planned",
+          "location": 570
+        },
+        {
+          "text": "or thwarted afforded *false* *flag* there",
+          "location": 577
+        },
+        {
+          "text": "whether it was a *false* *flag* or some bad",
+          "location": 613
+        },
+        {
+          "text": "for a potential *false* *flag* disclosure",
+          "location": 1421
+        }
+      ]
+    },
+    {
+      "id": "4VCgU1v0c3I",
+      "segments": [
+        {
+          "text": "*false* *flag* attack so i'm just gonna run",
+          "location": 123
+        },
+        {
+          "text": "*flag* happens and right off the bat it",
+          "location": 133
+        },
+        {
+          "text": "was obvious that it was a *false* *flag* ron",
+          "location": 136
+        },
+        {
+          "text": "this is a *false* *flag* he knows very well",
+          "location": 261
+        },
+        {
+          "text": "they're calling out as a *false* *flag*",
+          "location": 492
+        },
+        {
+          "text": "waking everybody up they're like *false*",
+          "location": 497
+        },
+        {
+          "text": "*flag* obvious right and that's being",
+          "location": 499
+        },
+        {
+          "text": "calling now is a *false* *flag* trump",
+          "location": 502
+        },
+        {
+          "text": "it was a reverse multinational *false*",
+          "location": 514
+        },
+        {
+          "text": "*flag* i thought that was a really good",
+          "location": 515
+        },
+        {
+          "text": "the people that know it was a *false* *flag*",
+          "location": 566
+        },
+        {
+          "text": "game it's not the normal bad *false*-*flag*",
+          "location": 702
+        },
+        {
+          "text": "the day before that *false* *flag* attack",
+          "location": 913
+        },
+        {
+          "text": "the *false* *flag* air that air force space",
+          "location": 952
+        }
+      ]
+    },
+    {
+      "id": "5flC3-UkdyU",
+      "segments": [
+        {
+          "text": "*false* *flag* attack or something that",
+          "location": 891
+        },
+        {
+          "text": "state retaliation some kind of *false*",
+          "location": 1030
+        },
+        {
+          "text": "*flag* attack and who knows maybe this was",
+          "location": 1032
+        }
+      ]
+    },
+    {
+      "id": "5PhM32xlVEs",
+      "segments": [
+        {
+          "text": "hologram technology be used in a *false*",
+          "location": 2410
+        },
+        {
+          "text": "*flag* and you might have heard of this",
+          "location": 2413
+        },
+        {
+          "text": "let's see ufo *false* *flag* event deep",
+          "location": 3099
+        },
+        {
+          "text": "the *false* *flag* beginning to be set up",
+          "location": 3105
+        },
+        {
+          "text": "of phase two of *false* *flag* disclosure",
+          "location": 3127
+        }
+      ]
+    },
+    {
+      "id": "5VFOltHRXbM",
+      "segments": [
+        {
+          "text": "9/11 he knows it was a *false* *flag* next",
+          "location": 256
+        }
+      ]
+    },
+    {
+      "id": "6Ezxw-UNmQI",
+      "segments": [
+        {
+          "text": "colorado basically *false* *flag* scare so",
+          "location": 910
+        },
+        {
+          "text": "infatuated with this *false* *flag* then is",
+          "location": 998
+        },
+        {
+          "text": "another looks to be potential *false* *flag*",
+          "location": 1171
+        },
+        {
+          "text": "know the next *false* *flag* or distraction",
+          "location": 1193
+        }
+      ]
+    },
+    {
+      "id": "6o54Y7dhOus",
+      "segments": [
+        {
+          "text": "happened in new york *false* *flag* you know",
+          "location": 59
+        },
+        {
+          "text": "happened instantly the *false* *flag* alarms",
+          "location": 66
+        },
+        {
+          "text": "some say fukushima was in fact a *false*",
+          "location": 274
+        },
+        {
+          "text": "*flag* and that that earthquake was either",
+          "location": 278
+        },
+        {
+          "text": "pull a *false* *flag* today so we have that",
+          "location": 307
+        }
+      ]
+    },
+    {
+      "id": "6sbgm3s49BM",
+      "segments": [
+        {
+          "text": "manifestos and those *false* *flag*",
+          "location": 197
+        }
+      ]
+    },
+    {
+      "id": "7HQEEo9pTxI",
+      "segments": [
+        {
+          "text": "*false* *flag* disclosure so with all of",
+          "location": 1456
+        },
+        {
+          "text": "dismantled their last *false* *flag* that",
+          "location": 1471
+        }
+      ]
+    },
+    {
+      "id": "7UT-kOjOka4",
+      "segments": [
+        {
+          "text": "*false*-*flag* phosphide",
+          "location": 704
+        },
+        {
+          "text": "about those right let's check it *false*",
+          "location": 768
+        },
+        {
+          "text": "*flag*",
+          "location": 772
+        },
+        {
+          "text": "beware major *false* *flag* attempts this",
+          "location": 775
+        },
+        {
+          "text": "week *false* *flag* attempt look for more",
+          "location": 778
+        },
+        {
+          "text": "*false* flags no *false* *flag* expect a",
+          "location": 781
+        }
+      ]
+    },
+    {
+      "id": "80z15a0xsUQ",
+      "segments": [
+        {
+          "text": "chin there's so much just *false* *flag* eco",
+          "location": 214
+        },
+        {
+          "text": "shooting just just *false* *flag* written",
+          "location": 956
+        },
+        {
+          "text": "*false* *flag* like this just just shut down",
+          "location": 1113
+        },
+        {
+          "text": "collective consciousness for a *false*",
+          "location": 1142
+        },
+        {
+          "text": "*flag* i think it's just some clickbait",
+          "location": 1144
+        },
+        {
+          "text": "narratives *false*-*flag* cuz i don't see",
+          "location": 1301
+        },
+        {
+          "text": "drop here a 24-hour *false* *flag* alert",
+          "location": 2364
+        }
+      ]
+    },
+    {
+      "id": "8QiuuwivwsM",
+      "segments": [
+        {
+          "text": "look to be *false* *flag* events that the",
+          "location": 223
+        },
+        {
+          "text": "proper execution of a deep state *false*",
+          "location": 240
+        },
+        {
+          "text": "*flag* in their eyes right so no doubt",
+          "location": 243
+        },
+        {
+          "text": "political *false* *flag* events etc even",
+          "location": 351
+        }
+      ]
+    },
+    {
+      "id": "9LwjAgU_2hc",
+      "segments": [
+        {
+          "text": "*false*-*flag* is because so many people are",
+          "location": 12
+        },
+        {
+          "text": "manchester bombing as being a *false* *flag*",
+          "location": 25
+        },
+        {
+          "text": "what a *false* *flag* is and clear the air a",
+          "location": 29
+        },
+        {
+          "text": "exactly what a *false* *flag* is and then",
+          "location": 47
+        },
+        {
+          "text": "so what is exactly a *false* *flag* so a",
+          "location": 57
+        },
+        {
+          "text": "*false* *flag* is i'm just literally gonna",
+          "location": 62
+        },
+        {
+          "text": "stage a *false* *flag* and then put a",
+          "location": 96
+        },
+        {
+          "text": "all a *false* *flag* it's okay a *false* *flag*",
+          "location": 103
+        },
+        {
+          "text": "and things a *false* *flag* could mean that",
+          "location": 126
+        },
+        {
+          "text": "hear the term *false* *flag* they hear the",
+          "location": 157
+        },
+        {
+          "text": "*false* and they automatically assume that",
+          "location": 160
+        },
+        {
+          "text": "aren't duped yet again so *false* *flag*",
+          "location": 189
+        },
+        {
+          "text": "the term *false* *flag* originates from the",
+          "location": 194
+        },
+        {
+          "text": "them so that's how a *false* id was termed",
+          "location": 218
+        },
+        {
+          "text": "because it was a literal *false* *flag* that",
+          "location": 221
+        },
+        {
+          "text": "background on what a *false* *flag* is it's",
+          "location": 234
+        },
+        {
+          "text": "else on what a *false* *flag* is operation",
+          "location": 258
+        },
+        {
+          "text": "to you know a *false*-*flag* so not a lot of",
+          "location": 267
+        },
+        {
+          "text": "help stage a *false* *flag* attack against",
+          "location": 282
+        },
+        {
+          "text": "what *false* flags are for again it's to",
+          "location": 296
+        },
+        {
+          "text": "powers that are pulling the *false* *flag*",
+          "location": 302
+        },
+        {
+          "text": "project that was set up to be a *false*",
+          "location": 311
+        },
+        {
+          "text": "*flag* there's been many others since then",
+          "location": 314
+        },
+        {
+          "text": "simply *false* *flag* as a distraction for",
+          "location": 379
+        },
+        {
+          "text": "happened well we saw a *false* *flag* attack",
+          "location": 385
+        },
+        {
+          "text": "vietnam war a *false* *flag* bombing of a",
+          "location": 482
+        },
+        {
+          "text": "ship there 9/11 was probably the *false*",
+          "location": 485
+        },
+        {
+          "text": "*flag* of all *false* flags i call it the",
+          "location": 490
+        },
+        {
+          "text": "falsest *flag* of them all because 9/11",
+          "location": 492
+        },
+        {
+          "text": "this being a *false* *flag* attack so 9/11",
+          "location": 509
+        },
+        {
+          "text": "last little *false* *flag* i want to discuss",
+          "location": 513
+        },
+        {
+          "text": "*false* *flag* alien attack and they can do",
+          "location": 577
+        },
+        {
+          "text": "something is a *false*-*flag* look at the",
+          "location": 666
+        },
+        {
+          "text": "*false* *flag* is to hoist that agenda upon",
+          "location": 690
+        },
+        {
+          "text": "*false* flags the more that we can see",
+          "location": 695
+        }
+      ]
+    },
+    {
+      "id": "AaP-PP8-KGk",
+      "segments": [
+        {
+          "text": "people don't want to say *false* flags the",
+          "location": 1208
+        },
+        {
+          "text": "these obvious *false* *flag* shootings and",
+          "location": 1212
+        }
+      ]
+    },
+    {
+      "id": "ABM5Oj2s6eI",
+      "segments": [
+        {
+          "text": "a potential *false* *flag* or siop",
+          "location": 349
+        },
+        {
+          "text": "*false* *flag* half-assed distraction event",
+          "location": 716
+        },
+        {
+          "text": "*false* *flag* disclosure takes place",
+          "location": 764
+        }
+      ]
+    },
+    {
+      "id": "aCfOGluhEKI",
+      "segments": [
+        {
+          "text": "pull some sort of *false* *flag* or",
+          "location": 1812
+        }
+      ]
+    },
+    {
+      "id": "aDPMNOgOz4E",
+      "segments": [
+        {
+          "text": "can literally look like a *false* *flag*",
+          "location": 76
+        }
+      ]
+    },
+    {
+      "id": "aJWZ_APGg6A",
+      "segments": [
+        {
+          "text": "particular *false* *flag* events have this",
+          "location": 444
+        }
+      ]
+    },
+    {
+      "id": "AKPMK0xaRN0",
+      "segments": [
+        {
+          "text": "was a *false* *flag* there's much more in",
+          "location": 694
+        },
+        {
+          "text": "keep saying kind of a *false* *flag*",
+          "location": 934
+        },
+        {
+          "text": "as many people say *false* last *false* *flag*",
+          "location": 1108
+        }
+      ]
+    },
+    {
+      "id": "aN9TllOemSA",
+      "segments": [
+        {
+          "text": "*false* *flag* planned that day in georgia i",
+          "location": 950
+        }
+      ]
+    },
+    {
+      "id": "Ar3JvKPGr40",
+      "segments": [
+        {
+          "text": "like is this a potential *false* *flag* that",
+          "location": 165
+        }
+      ]
+    },
+    {
+      "id": "AvcEuGghWQk",
+      "segments": [
+        {
+          "text": "or that *false* *flag* so man i don't know",
+          "location": 446
+        }
+      ]
+    },
+    {
+      "id": "AyLUG-qQcCA",
+      "segments": [
+        {
+          "text": "when it's a *false* *flag* and they want to",
+          "location": 492
+        },
+        {
+          "text": "state *false* *flag* interesting question",
+          "location": 525
+        },
+        {
+          "text": "*false* *flag* stitch this one here i don't",
+          "location": 592
+        },
+        {
+          "text": "many news stories about these *false* *flag*",
+          "location": 1556
+        },
+        {
+          "text": "lot to suppress *false* *flag* information",
+          "location": 1568
+        },
+        {
+          "text": "it comes to a *false* *flag* so look at all",
+          "location": 1573
+        }
+      ]
+    },
+    {
+      "id": "bmipWlYsyEM",
+      "segments": [
+        {
+          "text": "word *false* *flag* and the idea of a *false*",
+          "location": 206
+        },
+        {
+          "text": "*flag* has been hitting the mainstream the",
+          "location": 209
+        },
+        {
+          "text": "that *false* *flag* i've already said it you",
+          "location": 327
+        },
+        {
+          "text": "*false* *flag* totally totally smells like",
+          "location": 336
+        },
+        {
+          "text": "*false* *flag* like i mentioned earlier hit",
+          "location": 744
+        },
+        {
+          "text": "*false* *flag* out there in on google in the",
+          "location": 756
+        },
+        {
+          "text": "term for *false* *flag* spiked through the",
+          "location": 762
+        },
+        {
+          "text": "normally does *false* *flag* right-wing",
+          "location": 813
+        }
+      ]
+    },
+    {
+      "id": "bNMvlOzCsZk",
+      "segments": [
+        {
+          "text": "*false*-*flag* us or something like that and",
+          "location": 736
+        }
+      ]
+    },
+    {
+      "id": "BpeOtb7CWeE",
+      "segments": [
+        {
+          "text": "when you boil it down a deep state *false*",
+          "location": 358
+        },
+        {
+          "text": "*flag* shooting and especially in the last",
+          "location": 361
+        },
+        {
+          "text": "*false* *flag* shootings to put out their",
+          "location": 458
+        }
+      ]
+    },
+    {
+      "id": "bPVLncDuirE",
+      "segments": [
+        {
+          "text": "*false* *flag* on the very first day of",
+          "location": 50
+        },
+        {
+          "text": "the *false* *flag* in new york so it's",
+          "location": 68
+        }
+      ]
+    },
+    {
+      "id": "BR9EIDuUBJQ",
+      "segments": [
+        {
+          "text": "*false* *flag* itself a lot of a lot of",
+          "location": 765
+        },
+        {
+          "text": "*false* *flag* ii smelling things going",
+          "location": 768
+        },
+        {
+          "text": "*false* *flag* ii i don't think it was the",
+          "location": 1398
+        }
+      ]
+    },
+    {
+      "id": "c1C7epr44bw",
+      "segments": [
+        {
+          "text": "smollett was a *false* *flag* ff designed to",
+          "location": 436
+        }
+      ]
+    },
+    {
+      "id": "cpAeoTwKHlc",
+      "segments": [
+        {
+          "text": "*false* *flag* dallas is on the 33rd",
+          "location": 1149
+        },
+        {
+          "text": "an extraction or a *false* *flag* thwarting",
+          "location": 1190
+        }
+      ]
+    },
+    {
+      "id": "cu1homOW9CE",
+      "segments": [
+        {
+          "text": "disclosure or *false* *flag* event because",
+          "location": 1359
+        },
+        {
+          "text": "i mean we get *false* *flag* events all the",
+          "location": 1363
+        },
+        {
+          "text": "*false* *flag* alien invasion is a psyop so",
+          "location": 1435
+        },
+        {
+          "text": "psyop the whole *false* *flag* an agent in",
+          "location": 1444
+        }
+      ]
+    },
+    {
+      "id": "cyjt9Vm0imo",
+      "segments": [
+        {
+          "text": "attack which i do believe was a *false*",
+          "location": 920
+        },
+        {
+          "text": "*flag* way too many mysterious",
+          "location": 923
+        },
+        {
+          "text": "*false* *flag* sacrifices going on so we",
+          "location": 1053
+        }
+      ]
+    },
+    {
+      "id": "D4AkLrH0WtI",
+      "segments": [
+        {
+          "text": "this is their we could call it a *false*",
+          "location": 1357
+        },
+        {
+          "text": "*flag* disclosure we also get this",
+          "location": 1359
+        },
+        {
+          "text": "*false*-*flag* us they're distracting us",
+          "location": 1692
+        }
+      ]
+    },
+    {
+      "id": "DCkhkkb2nqM",
+      "segments": [
+        {
+          "text": "little bit more about the *false* *flag*",
+          "location": 29
+        },
+        {
+          "text": "this whole *false* *flag* fake disclosure",
+          "location": 492
+        },
+        {
+          "text": "it was a *false* *flag* set up you know",
+          "location": 836
+        },
+        {
+          "text": "supposed to be a *false* *flag* a big *false*",
+          "location": 944
+        },
+        {
+          "text": "*flag* and what it occurred is that they",
+          "location": 947
+        },
+        {
+          "text": "prevented that *false* *flag* from occurring",
+          "location": 957
+        },
+        {
+          "text": "be a large *false* *flag* that was stopped",
+          "location": 994
+        },
+        {
+          "text": "*false* flags in play we got a *false* *flag*",
+          "location": 1019
+        },
+        {
+          "text": "my opinion what was a potential *false*",
+          "location": 1024
+        },
+        {
+          "text": "*flag* in atlanta that was luckily looked",
+          "location": 1026
+        },
+        {
+          "text": "one hand no more *false* flags so that's",
+          "location": 1049
+        },
+        {
+          "text": "believe that this was a botched *false*",
+          "location": 1055
+        },
+        {
+          "text": "*flag* and he also said ten days of",
+          "location": 1058
+        }
+      ]
+    },
+    {
+      "id": "dHHqYCCujKY",
+      "segments": [
+        {
+          "text": "again it's almost a *false* *flag*",
+          "location": 1209
+        },
+        {
+          "text": "disclosure initiative not a *false* *flag*",
+          "location": 1211
+        }
+      ]
+    },
+    {
+      "id": "DiRI7rhc4qE",
+      "segments": [
+        {
+          "text": "*false* *flag* alien disclosure or kind of",
+          "location": 179
+        },
+        {
+          "text": "they can play now and that is that *false*",
+          "location": 282
+        },
+        {
+          "text": "*flag* alien disclosure so it's gonna get",
+          "location": 284
+        }
+      ]
+    },
+    {
+      "id": "DSqcbzBojYk",
+      "segments": [
+        {
+          "text": "for the *false* *flag* disclosure you know",
+          "location": 864
+        }
+      ]
+    },
+    {
+      "id": "DxGp_peYB_A",
+      "segments": [
+        {
+          "text": "a lot in it's basically a *false* *flag* or",
+          "location": 250
+        }
+      ]
+    },
+    {
+      "id": "e6mIdK0LLWk",
+      "segments": [
+        {
+          "text": "*false* *flag* *false* *flag* is a big umbrella",
+          "location": 1158
+        },
+        {
+          "text": "basically a *false* *flag* they mind-control",
+          "location": 1165
+        },
+        {
+          "text": "people to do stuff like this for *false*",
+          "location": 1167
+        }
+      ]
+    },
+    {
+      "id": "F4IPqNACpvI",
+      "segments": [
+        {
+          "text": "of these *false* *flag* events let's just",
+          "location": 341
+        },
+        {
+          "text": "call them what they are *false* freaking",
+          "location": 342
+        },
+        {
+          "text": "actually happened okay *false* *flag*",
+          "location": 389
+        },
+        {
+          "text": "doesn't mean hoax *false* *flag* just means",
+          "location": 391
+        },
+        {
+          "text": "so uh *false* *flag* is much different than",
+          "location": 401
+        },
+        {
+          "text": "*false* *flag* events like this with no",
+          "location": 1593
+        }
+      ]
+    },
+    {
+      "id": "fHohiZp5hGc",
+      "segments": [
+        {
+          "text": "and crazy so if any sort of *false* *flag*",
+          "location": 1324
+        },
+        {
+          "text": "then you know just beware the *false* *flag*",
+          "location": 1404
+        }
+      ]
+    },
+    {
+      "id": "fWk2XKmiQOI",
+      "segments": [
+        {
+          "text": "video i just released on the *false* *flag*",
+          "location": 117
+        }
+      ]
+    },
+    {
+      "id": "Fz5fZ_7pia4",
+      "segments": [
+        {
+          "text": "orchestrated an elaborate *false* *flag*",
+          "location": 509
+        },
+        {
+          "text": "media *false* *flag* operation that planted",
+          "location": 513
+        }
+      ]
+    },
+    {
+      "id": "gdEzIz7ievE",
+      "segments": [
+        {
+          "text": "you know another *false* *flag* oh great",
+          "location": 1320
+        }
+      ]
+    },
+    {
+      "id": "gDlgmkVKpy0",
+      "segments": [
+        {
+          "text": "telling us it's a controlled *false* *flag*",
+          "location": 103
+        }
+      ]
+    },
+    {
+      "id": "gKGT2jlVrgI",
+      "segments": [
+        {
+          "text": "awards *false* *flag* so this is a really",
+          "location": 354
+        }
+      ]
+    },
+    {
+      "id": "GmuQx9AiYD4",
+      "segments": [
+        {
+          "text": "a *false* *flag* or anything in my opinion",
+          "location": 360
+        }
+      ]
+    },
+    {
+      "id": "GThX5ssVBn0",
+      "segments": [
+        {
+          "text": "partial a half disclosure a *false* *flag*",
+          "location": 1479
+        },
+        {
+          "text": "kind of contingency plan of a *false* *flag*",
+          "location": 1531
+        },
+        {
+          "text": "but the whole *false* *flag* disclosure",
+          "location": 1725
+        },
+        {
+          "text": "kind of *false* *flag* disclosure so anyway",
+          "location": 1756
+        }
+      ]
+    },
+    {
+      "id": "hIrbIOaAUxg",
+      "segments": [
+        {
+          "text": "stop or is that some kind of like *false*",
+          "location": 938
+        },
+        {
+          "text": "*flag* disclosure bs that netflix has been",
+          "location": 942
+        },
+        {
+          "text": "would be the last *false* *flag* card that",
+          "location": 1061
+        },
+        {
+          "text": "by a *false* *flag* or a partial disclosure",
+          "location": 1114
+        }
+      ]
+    },
+    {
+      "id": "hKdsv2EbSSo",
+      "segments": [
+        {
+          "text": "some kind of *false* *flag* partial",
+          "location": 550
+        },
+        {
+          "text": "we're not duped by any *false* *flag* of",
+          "location": 622
+        }
+      ]
+    },
+    {
+      "id": "hl-FK4t_9lA",
+      "segments": [
+        {
+          "text": "it as well you know pulling a *false* *flag*",
+          "location": 2010
+        },
+        {
+          "text": "they can pull a *false* *flag* with some",
+          "location": 2026
+        },
+        {
+          "text": "again *false* *flag* partial hangout",
+          "location": 2126
+        }
+      ]
+    },
+    {
+      "id": "HLRFTyNBlFY",
+      "segments": [
+        {
+          "text": "claimed *false* *flag* there was no *false*",
+          "location": 718
+        },
+        {
+          "text": "*flag* that was the cover to send forces",
+          "location": 720
+        }
+      ]
+    },
+    {
+      "id": "hLWMbjtpLn0",
+      "segments": [
+        {
+          "text": "if this doesn't set the *false* *flag*",
+          "location": 172
+        }
+      ]
+    },
+    {
+      "id": "HMpv5DpVVUY",
+      "segments": [
+        {
+          "text": "predictive programming to a *false* *flag*",
+          "location": 204
+        },
+        {
+          "text": "probably a *false* *flag* announcement so",
+          "location": 241
+        },
+        {
+          "text": "probably a *false* *flag* announcement that",
+          "location": 329
+        },
+        {
+          "text": "they probably want to pull a *false* *flag*",
+          "location": 345
+        }
+      ]
+    },
+    {
+      "id": "HxhtJ-1kd5k",
+      "segments": [
+        {
+          "text": "*false* *flag* alert i just think it's good",
+          "location": 357
+        }
+      ]
+    },
+    {
+      "id": "I2-S22FiEvg",
+      "segments": [
+        {
+          "text": "any sort of *false* *flag* any sort of story",
+          "location": 612
+        },
+        {
+          "text": "per se but you know *false* *flag* an event",
+          "location": 619
+        },
+        {
+          "text": "their propaganda and i hope no *false*",
+          "location": 627
+        },
+        {
+          "text": "*flag* occurs so be careful out there guys",
+          "location": 631
+        }
+      ]
+    },
+    {
+      "id": "i3rp0Uim-0o",
+      "segments": [
+        {
+          "text": "it was a staged *false* *flag* attack this",
+          "location": 107
+        }
+      ]
+    },
+    {
+      "id": "iPX6pJ1dD1s",
+      "segments": [
+        {
+          "text": "new zealand equals *false* *flag* big news",
+          "location": 2108
+        },
+        {
+          "text": "*false* *flag* they're actually openly",
+          "location": 2120
+        },
+        {
+          "text": "attacking people who call it a *false*",
+          "location": 2123
+        },
+        {
+          "text": "*flag* but then they're not describing to",
+          "location": 2124
+        },
+        {
+          "text": "their audience what a *false* *flag* is and",
+          "location": 2126
+        },
+        {
+          "text": "audience knows what a *false* *flag* is",
+          "location": 2134
+        },
+        {
+          "text": "you know what a *false* *flag* is now we",
+          "location": 2165
+        },
+        {
+          "text": "have to educate him about a *false* *flag*",
+          "location": 2166
+        },
+        {
+          "text": "nothing know what a *false* *flag* is ha",
+          "location": 2167
+        },
+        {
+          "text": "well we got our attack *false* flags well",
+          "location": 2169
+        }
+      ]
+    },
+    {
+      "id": "IsG3gQIRxno",
+      "segments": [
+        {
+          "text": "*false* *flag* partial disclosure",
+          "location": 414
+        }
+      ]
+    },
+    {
+      "id": "iTFkB2iXkgI",
+      "segments": [
+        {
+          "text": "recent *false* *flag* attack in manchester",
+          "location": 377
+        },
+        {
+          "text": "oh this *false* *flag* was to distract from",
+          "location": 382
+        },
+        {
+          "text": "reasons for that *false* *flag* attack but",
+          "location": 387
+        },
+        {
+          "text": "seth rich story big but that *false* *flag*",
+          "location": 392
+        },
+        {
+          "text": "oh what if whistle *false* i was *false*",
+          "location": 396
+        },
+        {
+          "text": "*flag* and then even snopes had to debunk",
+          "location": 398
+        },
+        {
+          "text": "saw once that manchester *false* like hit",
+          "location": 409
+        },
+        {
+          "text": "*false* *flag* in the title the trolls just",
+          "location": 414
+        }
+      ]
+    },
+    {
+      "id": "IuVzHVFtFIE",
+      "segments": [
+        {
+          "text": "*false*-*flag* territory right now so for",
+          "location": 293
+        }
+      ]
+    },
+    {
+      "id": "Jcekm05d-so",
+      "segments": [
+        {
+          "text": "a *false* *flag* incident and then q said do",
+          "location": 453
+        }
+      ]
+    },
+    {
+      "id": "jEgmVdV6HBE",
+      "segments": [
+        {
+          "text": "that card it's gonna be a big *false* *flag*",
+          "location": 116
+        },
+        {
+          "text": "powers that be wants to have that *false*",
+          "location": 384
+        },
+        {
+          "text": "*flag* ready they want to have that card",
+          "location": 386
+        },
+        {
+          "text": "to pull their *false* *flag* but we can't",
+          "location": 451
+        }
+      ]
+    },
+    {
+      "id": "JeGwCPRojJo",
+      "segments": [
+        {
+          "text": "call the deep state for *false* flags and",
+          "location": 48
+        },
+        {
+          "text": "*false* *flag* attacks and this definitely",
+          "location": 55
+        },
+        {
+          "text": "white helmets to do the *false* *flag* in",
+          "location": 488
+        },
+        {
+          "text": "manchester was a *false* *flag* also people",
+          "location": 492
+        },
+        {
+          "text": "event is *false* it's intended to keep me",
+          "location": 497
+        }
+      ]
+    },
+    {
+      "id": "jgHK6JZonJM",
+      "segments": [
+        {
+          "text": "yeah i'm thinking some sort of *false*",
+          "location": 775
+        },
+        {
+          "text": "*flag* and the *false* *flag* vibes with this",
+          "location": 780
+        }
+      ]
+    },
+    {
+      "id": "k3m1P3Vie6s",
+      "segments": [
+        {
+          "text": "another *false* *flag* could very well be",
+          "location": 156
+        }
+      ]
+    },
+    {
+      "id": "k55kWdrN8hw",
+      "segments": [
+        {
+          "text": "framed *false* *flag* we can call it is",
+          "location": 234
+        },
+        {
+          "text": "some sort of faked suicide *false* *flag*",
+          "location": 362
+        }
+      ]
+    },
+    {
+      "id": "kRGV4cIdWwM",
+      "segments": [
+        {
+          "text": "any sort of *false* *flag* to happen and",
+          "location": 595
+        }
+      ]
+    },
+    {
+      "id": "LFlKG-VVzMc",
+      "segments": [
+        {
+          "text": "these *false* *flag* shootings think bourne",
+          "location": 1810
+        },
+        {
+          "text": "the quicker we get rid of these *false*",
+          "location": 1947
+        },
+        {
+          "text": "*flag* shootings so there's that",
+          "location": 1949
+        }
+      ]
+    },
+    {
+      "id": "LjzWwM9Y9zg",
+      "segments": [
+        {
+          "text": "manchester *false* *flag* attack that was a",
+          "location": 226
+        },
+        {
+          "text": "blatant *false* *flag* i mean they're just",
+          "location": 228
+        },
+        {
+          "text": "demolition as being essentially a *false*",
+          "location": 257
+        },
+        {
+          "text": "*flag* and i still find people that don't",
+          "location": 259
+        },
+        {
+          "text": "that are pulling the *false* *flag* so",
+          "location": 287
+        }
+      ]
+    },
+    {
+      "id": "Llr69yow55Y",
+      "segments": [
+        {
+          "text": "*false* *flag* alarms within you you know it",
+          "location": 840
+        },
+        {
+          "text": "could look like a *false* *flag* just go",
+          "location": 850
+        }
+      ]
+    },
+    {
+      "id": "llsND2qpTjM",
+      "segments": [
+        {
+          "text": "plans might be right with *false* *flag*",
+          "location": 1973
+        }
+      ]
+    },
+    {
+      "id": "LQ4NioOxuGM",
+      "segments": [
+        {
+          "text": "going on and not only that but *false*",
+          "location": 324
+        },
+        {
+          "text": "*flag* like i saw the word *false* *flag* i",
+          "location": 330
+        },
+        {
+          "text": "morning i saw the word *false* *flag* put in",
+          "location": 334
+        },
+        {
+          "text": "saying it's a *false* *flag* because they're",
+          "location": 425
+        },
+        {
+          "text": "go and tell *false* *flag* whatever we want",
+          "location": 510
+        }
+      ]
+    },
+    {
+      "id": "LXCTMl_Jp9M",
+      "segments": [
+        {
+          "text": "them over here and they pull *false* *flag*",
+          "location": 1535
+        },
+        {
+          "text": "attacks too so to prevent these *false*",
+          "location": 1536
+        }
+      ]
+    },
+    {
+      "id": "m_PowDSDjEE",
+      "segments": [
+        {
+          "text": "*false* *flag* so not only vegas but 9/11",
+          "location": 461
+        },
+        {
+          "text": "and all the truth on all the *false* flags",
+          "location": 464
+        }
+      ]
+    },
+    {
+      "id": "mCy59eLFjZg",
+      "segments": [
+        {
+          "text": "a purposeful incident a *false* *flag* if",
+          "location": 472
+        }
+      ]
+    },
+    {
+      "id": "McZuVVn7fEw",
+      "segments": [
+        {
+          "text": "evidence *false* *flag* set up just to blame",
+          "location": 1159
+        }
+      ]
+    },
+    {
+      "id": "mMVX1iGgRac",
+      "segments": [
+        {
+          "text": "and the las vegas *false*-*flag* is just",
+          "location": 1077
+        }
+      ]
+    },
+    {
+      "id": "mPovmVmAgXs",
+      "segments": [
+        {
+          "text": "of wildfires are a *false* *flag* so there's",
+          "location": 197
+        }
+      ]
+    },
+    {
+      "id": "N-Nsni2kalY",
+      "segments": [
+        {
+          "text": "to beware from either a *false*-*flag* alien",
+          "location": 2173
+        }
+      ]
+    },
+    {
+      "id": "Nett68JXMUk",
+      "segments": [
+        {
+          "text": "obviously an attempt at a *false* *flag*",
+          "location": 966
+        },
+        {
+          "text": "*false* *flag* that would be much more",
+          "location": 1028
+        }
+      ]
+    },
+    {
+      "id": "nfDm-SuYSrQ",
+      "segments": [
+        {
+          "text": "*false* *flag* alarms in my head and again",
+          "location": 74
+        },
+        {
+          "text": "this is in combination with the *false*",
+          "location": 77
+        },
+        {
+          "text": "*flag* that we saw in canada just the",
+          "location": 80
+        },
+        {
+          "text": "*false* *flag* events so if it looks like a",
+          "location": 168
+        },
+        {
+          "text": "*false* *flag* and it smells like a *false*",
+          "location": 171
+        },
+        {
+          "text": "*flag* it's probably a *false* *flag* and",
+          "location": 173
+        },
+        {
+          "text": "point in case as well with the *false*",
+          "location": 175
+        },
+        {
+          "text": "*flag* because a lot of people get this",
+          "location": 178
+        },
+        {
+          "text": "*false* *flag* was used doesn't mean nobody",
+          "location": 182
+        },
+        {
+          "text": "died 9/11 was a *false* *flag* three towers",
+          "location": 185
+        },
+        {
+          "text": "fell lots of people died a *false* *flag*",
+          "location": 189
+        },
+        {
+          "text": "*false* *flag* gulf of tonkin was a *false*",
+          "location": 207
+        },
+        {
+          "text": "*flag* how many of these countless",
+          "location": 208
+        },
+        {
+          "text": "to ten years mainly have all been *false*",
+          "location": 213
+        },
+        {
+          "text": "somebody send me a picture of a *false*",
+          "location": 264
+        },
+        {
+          "text": "*flag* actor that some of the mainstream",
+          "location": 267
+        },
+        {
+          "text": "a *false* *flag* what are they trying to",
+          "location": 307
+        },
+        {
+          "text": "off the *false* *flag* red flags right there",
+          "location": 425
+        },
+        {
+          "text": "you know on the topic of *false* flags",
+          "location": 733
+        },
+        {
+          "text": "future *false* *flag* that i'm going to make",
+          "location": 739
+        },
+        {
+          "text": "shooter the orlando *false*-*flag* shooter",
+          "location": 801
+        },
+        {
+          "text": "*false*-*flag* patsy used to work for so",
+          "location": 814
+        },
+        {
+          "text": "again on that topic all *false* flags i",
+          "location": 817
+        },
+        {
+          "text": "*false* *flag* might not be at the super",
+          "location": 821
+        }
+      ]
+    },
+    {
+      "id": "NoLKqBPGGLQ",
+      "segments": [
+        {
+          "text": "of *false* *flag* disclosure in play is this",
+          "location": 1349
+        },
+        {
+          "text": "looking to maybe not *false* *flag*",
+          "location": 1358
+        }
+      ]
+    },
+    {
+      "id": "nPRGWjUYGow",
+      "segments": [
+        {
+          "text": "project blue beam staging like a *false*",
+          "location": 755
+        },
+        {
+          "text": "*flag* kind of pseudo ufo kind of alien",
+          "location": 757
+        },
+        {
+          "text": "reid is now getting in on these *false*",
+          "location": 914
+        },
+        {
+          "text": "*flag* ufo disclosures right",
+          "location": 916
+        }
+      ]
+    },
+    {
+      "id": "Nqbj_4nIAiA",
+      "segments": [
+        {
+          "text": "commented about the *false* *flag* you know",
+          "location": 643
+        },
+        {
+          "text": "syrian *false* *flag* happened and i called",
+          "location": 647
+        }
+      ]
+    },
+    {
+      "id": "NVUbej8exEk",
+      "segments": [
+        {
+          "text": "*false* *flag* attack many of you have i'm",
+          "location": 51
+        },
+        {
+          "text": "of the *false* *flag* attack so military",
+          "location": 1007
+        },
+        {
+          "text": "investigate and pin this *false* *flag*",
+          "location": 1041
+        },
+        {
+          "text": "was this syria *false* *flag* finally",
+          "location": 1213
+        },
+        {
+          "text": "referencing the *false* *flag* in syria as",
+          "location": 1252
+        }
+      ]
+    },
+    {
+      "id": "O_R4bM7ONJk",
+      "segments": [
+        {
+          "text": "events whether it's a *false* *flag* whether",
+          "location": 667
+        },
+        {
+          "text": "already know how we're gonna react *false*",
+          "location": 701
+        },
+        {
+          "text": "*flag* shooting happens who the problem",
+          "location": 703
+        }
+      ]
+    },
+    {
+      "id": "obm0AKIypPI",
+      "segments": [
+        {
+          "text": "sort of a *false* *flag* if you want to call",
+          "location": 1263
+        },
+        {
+          "text": "calling it sort of a *false* *flag*",
+          "location": 1349
+        }
+      ]
+    },
+    {
+      "id": "ooHxX3whFXA",
+      "segments": [
+        {
+          "text": "*false* *flag* well their typical *false*",
+          "location": 1085
+        },
+        {
+          "text": "that's quite obvious so the last *false*",
+          "location": 1088
+        },
+        {
+          "text": "*flag* that the deep state has to play is",
+          "location": 1091
+        },
+        {
+          "text": "potentially pull some kind of *false* *flag*",
+          "location": 1439
+        }
+      ]
+    },
+    {
+      "id": "OOxgnEI8_NI",
+      "segments": [
+        {
+          "text": "a *false* *flag* but there's a difference",
+          "location": 190
+        },
+        {
+          "text": "between a *false* *flag* and hoax",
+          "location": 192
+        },
+        {
+          "text": "something is a *false* *flag* doesn't mean",
+          "location": 196
+        },
+        {
+          "text": "all the typical signs of a *false* *flag*",
+          "location": 209
+        },
+        {
+          "text": "*false* flags and how the deep state",
+          "location": 340
+        },
+        {
+          "text": "operates many of these *false* *flag*",
+          "location": 341
+        },
+        {
+          "text": "information showing that it was a *false*",
+          "location": 429
+        },
+        {
+          "text": "*flag* and pre-planned attack and some",
+          "location": 431
+        },
+        {
+          "text": "huge *false* *flag* distraction away from",
+          "location": 1661
+        },
+        {
+          "text": "a chance we have to be duped by a *false*",
+          "location": 1682
+        },
+        {
+          "text": "*flag* partial disclosure narrative you",
+          "location": 1685
+        }
+      ]
+    },
+    {
+      "id": "oReGR3Bjjmw",
+      "segments": [
+        {
+          "text": "talk about the *false* *flag* warnings in a",
+          "location": 827
+        },
+        {
+          "text": "of a major *false* *flag* so let's talk",
+          "location": 1278
+        }
+      ]
+    },
+    {
+      "id": "oSZzclsh00Y",
+      "segments": [
+        {
+          "text": "noted that the *false* flags were seeing",
+          "location": 932
+        },
+        {
+          "text": "that like this las vegas *false* *flag*",
+          "location": 935
+        }
+      ]
+    },
+    {
+      "id": "ox9yzjeHt3s",
+      "segments": [
+        {
+          "text": "blue beam the alien *false*-*flag* stuff i",
+          "location": 1757
+        }
+      ]
+    },
+    {
+      "id": "p0Qy24DXfdY",
+      "segments": [
+        {
+          "text": "that *false* *flag* terror attack yesterday",
+          "location": 265
+        },
+        {
+          "text": "attack quite obviously a *false* *flag* in",
+          "location": 279
+        },
+        {
+          "text": "attack happened *false* *flag* and to keep",
+          "location": 296
+        }
+      ]
+    },
+    {
+      "id": "PA9MTquQya0",
+      "segments": [
+        {
+          "text": "telltale signs of some kind of *false*",
+          "location": 546
+        },
+        {
+          "text": "*flag* that they're the deep state is",
+          "location": 549
+        }
+      ]
+    },
+    {
+      "id": "PBiBq_DiHmo",
+      "segments": [
+        {
+          "text": "demons oh it's a the new *false* *flag* oh",
+          "location": 1327
+        },
+        {
+          "text": "sorts of bad info of just *false* logic",
+          "location": 1335
+        }
+      ]
+    },
+    {
+      "id": "Pi8_BZtYNzQ",
+      "segments": [
+        {
+          "text": "defined *false* *flag* who they're gonna",
+          "location": 1829
+        }
+      ]
+    },
+    {
+      "id": "pwM9WH8pqaY",
+      "segments": [
+        {
+          "text": "be pulled per se that *false* *flag* and",
+          "location": 371
+        }
+      ]
+    },
+    {
+      "id": "pyMrzxZBZZQ",
+      "segments": [
+        {
+          "text": "into any sort of big *false* *flag* you can",
+          "location": 2248
+        }
+      ]
+    },
+    {
+      "id": "pZhHd9KT2lk",
+      "segments": [
+        {
+          "text": "sense that this is all a *false* *flag* of",
+          "location": 563
+        }
+      ]
+    },
+    {
+      "id": "Q1nmx353lDo",
+      "segments": [
+        {
+          "text": "*false* *flag* attack emp *false* like tech",
+          "location": 656
+        }
+      ]
+    },
+    {
+      "id": "Qa2bfVP6ChQ",
+      "segments": [
+        {
+          "text": "there's no *false* *flag* or anything that's",
+          "location": 113
+        }
+      ]
+    },
+    {
+      "id": "qB9zc5VAanc",
+      "segments": [
+        {
+          "text": "*false* *flag* i saw this video of like cops",
+          "location": 209
+        },
+        {
+          "text": "did like my *false* *flag* video just a",
+          "location": 221
+        },
+        {
+          "text": "with some *false* *flag* terror attack",
+          "location": 228
+        },
+        {
+          "text": "to address the issue of what a *false*",
+          "location": 266
+        },
+        {
+          "text": "*flag* is and then we're seeing articles",
+          "location": 268
+        },
+        {
+          "text": "terror attacks from being *false* flags so",
+          "location": 273
+        },
+        {
+          "text": "the reality of *false* *flag* attacks what",
+          "location": 281
+        }
+      ]
+    },
+    {
+      "id": "qlFnlzOoFgo",
+      "segments": [
+        {
+          "text": "some kind of *false* *flag* that was stopped",
+          "location": 187
+        },
+        {
+          "text": "beautiful occult references to any *false*",
+          "location": 1538
+        },
+        {
+          "text": "*flag* disclosure they wanted to play",
+          "location": 1541
+        },
+        {
+          "text": "be blamed for a *false* *flag* assassination",
+          "location": 1592
+        }
+      ]
+    },
+    {
+      "id": "QtYci9jXct4",
+      "segments": [
+        {
+          "text": "disclosures would be somewhat of a *false*",
+          "location": 289
+        },
+        {
+          "text": "*flag* you could call it or i mean for",
+          "location": 293
+        },
+        {
+          "text": "an excuse for a *false* *flag* you know we",
+          "location": 606
+        },
+        {
+          "text": "kind of *false* *flag* i do want to make a",
+          "location": 618
+        }
+      ]
+    },
+    {
+      "id": "QuVpIqeSRnU",
+      "segments": [
+        {
+          "text": "pull some type of *false* *flag* in hopes of",
+          "location": 349
+        },
+        {
+          "text": "what's that *false* *flag* gonna be well",
+          "location": 352
+        }
+      ]
+    },
+    {
+      "id": "rxMOShu0yQk",
+      "segments": [
+        {
+          "text": "always a *false* *flag* planned when they",
+          "location": 405
+        },
+        {
+          "text": "potential *false* *flag* very all the",
+          "location": 412
+        }
+      ]
+    },
+    {
+      "id": "S4mKQajGJl4",
+      "segments": [
+        {
+          "text": "destroy america next post *false* *flag*",
+          "location": 144
+        },
+        {
+          "text": "like a *false* *flag* that is the context",
+          "location": 169
+        },
+        {
+          "text": "boom *false* *flag* attack with all these",
+          "location": 186
+        }
+      ]
+    },
+    {
+      "id": "skkII0awwFM",
+      "segments": [
+        {
+          "text": "related to these *false* *flag* shootings",
+          "location": 998
+        }
+      ]
+    },
+    {
+      "id": "svK1ajIeprU",
+      "segments": [
+        {
+          "text": "the *false* *flag* attacks that have been",
+          "location": 15
+        },
+        {
+          "text": "their sacrificial *false* *flag* attacks ok",
+          "location": 26
+        },
+        {
+          "text": "we very much did have a *false* *flag*",
+          "location": 40
+        },
+        {
+          "text": "we've had a couple *false* *flag* attacks",
+          "location": 57
+        },
+        {
+          "text": "*false* *flag* attack pulled in russia right",
+          "location": 79
+        },
+        {
+          "text": "was a *false* *flag* attack on march 31st",
+          "location": 93
+        },
+        {
+          "text": "another *false* *flag* attack on 44 remember",
+          "location": 113
+        },
+        {
+          "text": "instantly showed this to be a *false* *flag*",
+          "location": 127
+        },
+        {
+          "text": "*false* *flag* attacks that may be coming up",
+          "location": 227
+        },
+        {
+          "text": "of these *false* *flag* attacks that happen",
+          "location": 260
+        },
+        {
+          "text": "*false* *flag* occurs so it's very easy for",
+          "location": 273
+        }
+      ]
+    },
+    {
+      "id": "SxPNu1XMYKA",
+      "segments": [
+        {
+          "text": "this again with each *false* *flag* which i",
+          "location": 386
+        },
+        {
+          "text": "another *false* *flag* there's always a",
+          "location": 393
+        },
+        {
+          "text": "on the next *false* *flag* with these powers",
+          "location": 431
+        }
+      ]
+    },
+    {
+      "id": "T5IM3P9Md-4",
+      "segments": [
+        {
+          "text": "pull a *false* *flag* attack they will often",
+          "location": 642
+        },
+        {
+          "text": "the *false* *flag* don't question it they",
+          "location": 655
+        },
+        {
+          "text": "it's not *false* like and then boom they",
+          "location": 659
+        },
+        {
+          "text": "21st could this have been a *false* *flag*",
+          "location": 676
+        },
+        {
+          "text": "reverse *false*-*flag* by the white hats",
+          "location": 718
+        },
+        {
+          "text": "opposed to being a normal bad *false* *flag*",
+          "location": 737
+        },
+        {
+          "text": "operation good drill good *false* *flag*",
+          "location": 743
+        }
+      ]
+    },
+    {
+      "id": "Tg0_AZbm71E",
+      "segments": [
+        {
+          "text": "last *false* *flag* to distract us all from",
+          "location": 216
+        },
+        {
+          "text": "so it's the perfect *false* *flag* for them",
+          "location": 250
+        },
+        {
+          "text": "that this is a total *false* *flag* it's a",
+          "location": 309
+        }
+      ]
+    },
+    {
+      "id": "TsjX9SPfvSA",
+      "segments": [
+        {
+          "text": "*false* *flag* incidents from trains getting",
+          "location": 1553
+        }
+      ]
+    },
+    {
+      "id": "u_apd9SGqLc",
+      "segments": [
+        {
+          "text": "so the staged gas attack *false* *flag* that",
+          "location": 1031
+        },
+        {
+          "text": "but it was a *false* *flag* thing in syria",
+          "location": 1039
+        },
+        {
+          "text": "that you know it's a *false* *flag* and it",
+          "location": 1046
+        },
+        {
+          "text": "capitalizing on the *false* *flag* that the",
+          "location": 1054
+        }
+      ]
+    },
+    {
+      "id": "UA8VNiOraJI",
+      "segments": [
+        {
+          "text": "try and pull and that is the *false* *flag*",
+          "location": 47
+        },
+        {
+          "text": "*false* *flag* alien disclosure or a partial",
+          "location": 193
+        },
+        {
+          "text": "he said that alien *false* *flag* card would",
+          "location": 303
+        },
+        {
+          "text": "to pull that alien *false* *flag* in his",
+          "location": 318
+        },
+        {
+          "text": "and to be warned about this *false* *flag*",
+          "location": 332
+        }
+      ]
+    },
+    {
+      "id": "uJYAdCT7xFA",
+      "segments": [
+        {
+          "text": "smells of *false* *flag* siop cointelpro you",
+          "location": 157
+        }
+      ]
+    },
+    {
+      "id": "Up-MRtsG4Tw",
+      "segments": [
+        {
+          "text": "bit well be some kind of *false* *flag* or",
+          "location": 1411
+        },
+        {
+          "text": "*false* *flag* essentially trying to be used",
+          "location": 1431
+        }
+      ]
+    },
+    {
+      "id": "vLnzuy_aeGQ",
+      "segments": [
+        {
+          "text": "state as their last remaining *false* *flag*",
+          "location": 2222
+        },
+        {
+          "text": "to be exposed oh let's do some *false*",
+          "location": 2305
+        },
+        {
+          "text": "*flag* disclosures are involving ets",
+          "location": 2306
+        },
+        {
+          "text": "trying to enact some sort of *false* *flag*",
+          "location": 2369
+        }
+      ]
+    },
+    {
+      "id": "WB_PkYN9MFI",
+      "segments": [
+        {
+          "text": "actors *false* *flag* i think that too",
+          "location": 683
+        }
+      ]
+    },
+    {
+      "id": "wCcjEszzrTI",
+      "segments": [
+        {
+          "text": "you know maybe this was a botched *false*",
+          "location": 143
+        },
+        {
+          "text": "*flag* operation or something of that",
+          "location": 146
+        }
+      ]
+    },
+    {
+      "id": "wdwWgzAq48E",
+      "segments": [
+        {
+          "text": "the chemical attack was a blatant *false*",
+          "location": 150
+        },
+        {
+          "text": "*flag* just to be used for this missile",
+          "location": 153
+        },
+        {
+          "text": "attack was a *false* *flag* and this missile",
+          "location": 162
+        },
+        {
+          "text": "attack was a *false* *flag* they're both",
+          "location": 166
+        },
+        {
+          "text": "*false* flags right and a *false* *flag*",
+          "location": 168
+        },
+        {
+          "text": "it didn't happen all the *false* *flag*",
+          "location": 172
+        },
+        {
+          "text": "that *false* *flag* chemical attack on was",
+          "location": 227
+        },
+        {
+          "text": "chemical attack as a *false* *flag* but they",
+          "location": 359
+        },
+        {
+          "text": "*false* *flag* which was blatant right that",
+          "location": 378
+        },
+        {
+          "text": "botched the first *false* *flag* they needed",
+          "location": 386
+        },
+        {
+          "text": "probably want to try some type of *false*",
+          "location": 501
+        },
+        {
+          "text": "*flag* ufo disclosure after this would be",
+          "location": 503
+        }
+      ]
+    },
+    {
+      "id": "WOmDWYRAtiA",
+      "segments": [
+        {
+          "text": "this is the idea of a *false* *flag* sigh",
+          "location": 1523
+        }
+      ]
+    },
+    {
+      "id": "x1EXDDlmrVU",
+      "segments": [
+        {
+          "text": "operation out there that the last *false*",
+          "location": 778
+        },
+        {
+          "text": "*flag* that the deep state has to play is",
+          "location": 783
+        },
+        {
+          "text": "the alien *false* *flag* is some kind of",
+          "location": 785
+        },
+        {
+          "text": "*false* *flag* regarding full ufo disclosure",
+          "location": 788
+        },
+        {
+          "text": "*false* *flag* disclosure we have the new",
+          "location": 801
+        },
+        {
+          "text": "the deep state and a kind of *false* *flag*",
+          "location": 833
+        },
+        {
+          "text": "likely it's going to be a *false* *flag* one",
+          "location": 870
+        }
+      ]
+    },
+    {
+      "id": "Xe8yEypTfNA",
+      "segments": [
+        {
+          "text": "and a *false* *flag* disclosure and i'm not",
+          "location": 1123
+        },
+        {
+          "text": "these *false* *flag* disclosures so i just",
+          "location": 1240
+        }
+      ]
+    },
+    {
+      "id": "Y8DPHUnnvXU",
+      "segments": [
+        {
+          "text": "know it's it's real *false* *flag* ii all",
+          "location": 704
+        },
+        {
+          "text": "*false* *flag* or not is contradicting",
+          "location": 715
+        },
+        {
+          "text": "was a *false* *flag* shooting it gets",
+          "location": 763
+        },
+        {
+          "text": "know you get the *false* *flag* imams don't",
+          "location": 781
+        },
+        {
+          "text": "that *false* *flag* shooting or you know",
+          "location": 1133
+        },
+        {
+          "text": "potentially *false* *flag* shooting really",
+          "location": 1135
+        }
+      ]
+    },
+    {
+      "id": "YiLWFF__qiM",
+      "segments": [
+        {
+          "text": "pull a *false* *flag* but with the national",
+          "location": 1004
+        },
+        {
+          "text": "prevention of a *false* *flag* i reported on",
+          "location": 1009
+        },
+        {
+          "text": "setting up to pull a *false* *flag* at",
+          "location": 1058
+        },
+        {
+          "text": "to prevent a *false* *flag* disclosure by",
+          "location": 1578
+        },
+        {
+          "text": "do some other kind of *false* *flag*",
+          "location": 1587
+        }
+      ]
+    },
+    {
+      "id": "yK2UAmF7gYA",
+      "segments": [
+        {
+          "text": "that said cue non-adherence cry *false*",
+          "location": 54
+        },
+        {
+          "text": "*flag* about explosives found near george",
+          "location": 57
+        },
+        {
+          "text": "it being a *false* *flag* and of course it",
+          "location": 80
+        },
+        {
+          "text": "started the *false* *flag* alarm started",
+          "location": 162
+        },
+        {
+          "text": "*false* *flag* i'm seeing just those two",
+          "location": 676
+        },
+        {
+          "text": "words *false* *flag* being put on the",
+          "location": 679
+        },
+        {
+          "text": "words *false* *flag* and learning about it a",
+          "location": 705
+        }
+      ]
+    },
+    {
+      "id": "ym22gqkQmUA",
+      "segments": [
+        {
+          "text": "*false* *flag* in my video last night and it",
+          "location": 184
+        },
+        {
+          "text": "killed and remember point on *false* flags",
+          "location": 199
+        },
+        {
+          "text": "calling it a *false* *flag*",
+          "location": 204
+        },
+        {
+          "text": "point being 9/11 was a *false* *flag* 9/11",
+          "location": 205
+        },
+        {
+          "text": "this was definitely *false* *flag* not a",
+          "location": 211
+        },
+        {
+          "text": "hoax and it was *false* *flag* done",
+          "location": 213
+        },
+        {
+          "text": "whenever there's a *false* *flag* america",
+          "location": 247
+        },
+        {
+          "text": "biggest *false* half-assed partial *false*",
+          "location": 751
+        },
+        {
+          "text": "*flag* disclosure they can play because",
+          "location": 755
+        },
+        {
+          "text": "massive *false* *flag* i want to say than",
+          "location": 820
+        }
+      ]
+    },
+    {
+      "id": "ymm3YfCfVUs",
+      "segments": [
+        {
+          "text": "*false* *flag* in new zealand the",
+          "location": 509
+        },
+        {
+          "text": "utilize that *false* *flag* spend it and",
+          "location": 544
+        }
+      ]
+    },
+    {
+      "id": "ysHQziNaMOo",
+      "segments": [
+        {
+          "text": "was warning of a *false* *flag* of course",
+          "location": 657
+        },
+        {
+          "text": "trying to pull any kind of *false* *flag*",
+          "location": 863
+        }
+      ]
+    },
+    {
+      "id": "ytA3-R4Fi4M",
+      "segments": [
+        {
+          "text": "distraction some *false* *flag* in a way you",
+          "location": 1006
+        },
+        {
+          "text": "of *false* *flag* disclosure siop you see",
+          "location": 1089
+        }
+      ]
+    },
+    {
+      "id": "zffLUSbaqlw",
+      "segments": [
+        {
+          "text": "contractor or mercenary *false* *flag*",
+          "location": 608
+        }
+      ]
+    },
+    {
+      "id": "zgK4F6NW32s",
+      "segments": [
+        {
+          "text": "it out on to *false* flags potential foss",
+          "location": 633
+        },
+        {
+          "text": "if it walks like a *false* *flag* and talks",
+          "location": 640
+        },
+        {
+          "text": "like a *false* *flag* probably is one but we",
+          "location": 644
+        }
+      ]
+    },
+    {
+      "id": "ZGsWdjqtO-w",
+      "segments": [
+        {
+          "text": "*false* *flag* took place and they're doing",
+          "location": 1436
+        },
+        {
+          "text": "can *false* *flag* operations you know so",
+          "location": 1459
+        }
+      ]
+    },
+    {
+      "id": "ZqMTDLT6akA",
+      "segments": [
+        {
+          "text": "make note of *false* *flag* alert",
+          "location": 525
+        },
+        {
+          "text": "they put a *false* *flag* a little out there",
+          "location": 527
+        }
+      ]
+    },
+    {
+      "id": "zziC-o5xumc",
+      "segments": [
+        {
+          "text": "is just pretty obvious with the *false*",
+          "location": 381
+        },
+        {
+          "text": "*flag* shooting in texas they killed 26",
+          "location": 383
+        },
+        {
+          "text": "*false* *flag* with it and they can do that",
+          "location": 846
+        }
+      ]
+    },
+    {
+      "id": "ZZTz8nYZ6vA",
+      "segments": [
+        {
+          "text": "don't know *false*-*flag*",
+          "location": 560
+        },
+        {
+          "text": "*false*-*flag* sensors began going off",
+          "location": 565
+        },
+        {
+          "text": "potential *false* *flag* that was thwarted",
+          "location": 658
+        }
+      ]
+    }
+  ]
+}

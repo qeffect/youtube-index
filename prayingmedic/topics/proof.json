@@ -1,0 +1,941 @@
+{
+  "indexed": "_-UNzfR7fUE,_7ZJXbCBHKc,_9wz964E0i0,_k0U3qphs_U,_NEQNhd_H2Q,-7-_JmniE6Q,-C7Bh9GodeU,-D8s_cFb2HI,-nl13s2FApM,-tE6Df3gy-E,-v9I4MSB7l8,-vf4PLM5rUA,06Kgv3docBk,0CtsycrzAuM,0gF2EHUVMtU,0Gi978YaRUo,0H589P-BaZM,0J3yaAPW2e4,0k0KttVYvPY,0LOxFLX9Ry4,0yb_opQ70Xc,18EncswsL0A,1k0NtnDLDJY,1NMRz8OrEhk,1O_sC-IdNJ8,1WNv5YpRJvs,1yNWIkDRr4U,25KGYIBB-P0,2Fk7Nuw51ac,2fW_ouOHFTM,2JI_WsiTU9Y,2SZCIuJCWQM,2Yct7sTvSjM,2z8416jhRoE,31I-JDrIKGg,35kHehj65DA,3OP7gkvmZcc,3wEO0ivvGM8,3z07cFmde7g,422BkE69E3c,47YRwoF__SQ,4Dtpw0EVmCg,4ehi-9aOdh0,4Kw73zVngOc,4n1kz3UaWNU,4vLfnVI8HcQ,54_vbZWY2mQ,54hEyScMY7Q,54ukTn-fRgw,5eBhV2CjE-U,5fIeVm9Zi5E,5I2G-H6MZQw,5J9f7-k7OFE,5lWI_QkgeLU,5pjCs7vzTE4,5s8zfVY1t9o,5vYqqH3-xFY,5YAKVnIuke8,5yRe4BtirDQ,67U96BcTP0I,69Hwy5-X1Tw,6k4HJcGmKNk,6uoSVdeKPX4,6zSz3wtCWjY,7_j_QmvSuSY,7-RfGd0x8lc,70SM8_ENT8w,7ADzOVXupEk,7HvbevUomb0,7kvC-UTrvmg,7LtKndmSw-s,7O6lXayceu4,7Oke8mmV7lM,7OmAB3-sgaU,7ubtLlwkd2s,7ysVzjZjz1c,84_iSCNuu48,8CIqUeovbfk,8kfazsZsDno,8RdTbhi3FwQ,8UfJ7t27BUE,8wANDAWjxGs,8Y0lQEZJSuE,9efdvG5Hlto,9HnEUw-ZOUA,9x3Fs9eascU,9xG6SZF9pIw,A0Umv6d9iRY,A6KkLoWypC4,A6mJ0JHX-oc,aAsF0C_xYyI,aIW6ZxjBYQU,aIW7pXbz0xc,aJGeI0KD0bw,AnXcsO_kBPY,arRglVEdnAs,BAyQo1Ku_R0,bf69bv2vR9Y,BHjeCE-7Bd4,BImvDk9v7NI,BLIgajmecOs,bRpkMkCZ6KE,BSHBeYhVlSY,Bu3Z8HLT0UU,bvAm3cBOraI,BvqbsQoqadQ,BVZD61ZyJTs,C0CLAjc_pL8,c80azCONOb8,CIESr6ghs6U,cL2NnCq8KZI,cN6ADsEMYnQ,coyb_OKdWDU,CuShiuv53x4,CxJTZt2Ey4Q,CZe4_WUuGGU,dBFyZF98GnY,dEcFcsf62oA,dHT-uJOJIHI,djCQmSk7c-8,dKpxfz81sUg,dMwXnrPdwcA,DvxB3VmY1JA,dweAxenTE1s,DwP5EG22Fmg,Dww9X6s8M2A,dZj6ZuCAsvw,e0QC9yggIxw,E9-5Vj4VzFs,edSwr8vsL58,Ej15wUHC6KQ,EJPYPaejtkE,EswJiRHsEVI,exeZcOUxSeE,Ey-tm16UJYA,EZaxAI8SErI,Ezgr8dXloOU,f6nHnfBDATI,Fopm4WR1MkU,foQ2rqsTd0M,FRBW1CVDdmE,fTVECAl73Cc,FuRk4DLzoI0,G7jBx1mYWTk,gAmGK4zwbqA,gDjhw90Z3hQ,GEAfTE139tM,gEidXQKD5AU,gfaIa_hiP-Q,ggnz2LX_cak,gk_DaU5J8N8,glmNemrJeLc,GLx4rKq4DIY,gop9YjFTiZ4,gpMCCu5Qtrw,gQ2ShEpWiQY,gRZ9BloeYa4,GyawK0VUmV0,GZ5ubSvx3Oo,H23OkY_bvzM,H2YdTfDGlgQ,h5elIvBf0X0,h7pC0AGyR1M,hb41h875Xh0,HcrbEoTw00I,hE0OGD9JrdE,HedYVPGTHhY,hFFN4IRvRd4,hi_3kolwcjM,HIgGOKRYWJo,HIS2Vqfr2AI,Hk9j2d8uMRU,HKcSR9ApVTA,hkU30U9zqu0,hmBEm1wcCw4,hmhKTY1rdZw,ho8McOIOPG0,htOZG5OPcf8,hU4Y325_-bw,HXFnL_RgOEQ,hZ1H8K1vqJM,HZVI24JYd40,I3RlemIg92U,Ii7tnv_UIGA,IiAbLcZspGQ,IJs6NmjQX-Y,ikz5kaHBBKQ,IRcgRfHCfZU,Ivvr4O2KYiE,IXT_CfbSZ30,J1Qzs2Ha_mM,j2F5ECzKXo4,J4-GZ5IFZ9w,J5inaxSS1BE,J5iNDh8dgQI,JdGuTVuTKpE,jFjb3Nq2QiY,JmaMv_w7JJE,JMctGWUJwKk,jq5scsh7ifk,jWiJTYUMBpw,JyHDN6W7lOE,JyLpSwtMSLM,jYmJhPzt1tw,k1q446gop5E,KcWI61Vi5XY,kh42twfH0XU,kHTnjx5nqIk,kk7oY1MNw7k,KlHfb7n34js,kNpWr8Rs6cg,kocrenpFj1w,kqK9al1K7CE,kU6TEqmKN2Q,KwZaEPBIgTs,l--9tzRAHj0,L0mWkVLSd7o,lbuwTX29kHE,lepX52Ee7bA,LGcMIoNbVmo,LGviebc27tI,LhmWmJN6DVQ,LhY-BiiFLjw,lKzIvpirZTs,llms604TTsg,LOPayQiU-2U,lpmlgtmB3Nk,LrbY1GHkK6A,LrpetSzF7yY,lvzuwWJffE0,lYgFCua1EUY,M7GLR4yLo94,mA0qZ1tzfko,mETJyH2b-Oo,mFodrD4UTO0,mfZeM0dNse0,mn7HnT6tkog,mqRjFU5ScFI,MQu0udfdma8,MS38NCyulU8,mTpz2s5szmU,MuP508taA8w,muvBCkyEwwc,mVoSieaFRzM,MWVH_3SOi8g,n1BAa13t6QU,Neh0ogTYuSg,Ngl8d57DMbI,nH2HOPGkuQ4,nKEKWTYoDMY,nKH_hEiuw10,NkTQPI9A6HY,nKTTkRqqT8Y,nSSeHtp6n7E,o1dDWBzrcsY,O4x7somoUxU,o6HzgfnvXR0,ObLFQiCVxiU,od0bNV6Gw0E,oEsHYNc-m8s,ogpEQvlRwzM,Ojcq5VaL4_0,oMCX4xfgmk8,oqiZfiz2wzo,oROV8fjn8aQ,Ou3UAJz7DXQ,p_IWzF6Jz9s,P0VmdcY1S3w,P6JL0jYFvnc,p77S5JgBP2E,pA1IlXK9RYo,pbFkAZBtQzA,PblkFNGVmFM,PBXRu0OGRy8,peD7I0YXUNU,pgjV0Ji6qRw,PgkBcQBsWYE,pl7FPvLE4pw,PnUyU5iIy7g,POcfd9fZhww,ptgDkUO7Aww,PUpeRPfJOSI,PYCZ_2tZNi8,q6ixxuDHaak,q6XzWOIcpzI,Q7kBrBTj0Z4,q9vLJJH4uMk,QAAmsXik9pQ,qBuSWyBIr7E,QDEti9AwsYk,QEwsP_XosIM,qiftHTo-oKk,qnnqzvQkoKo,QqZ6MIvZyTY,qYEoaxsjxoY,rcQnr71t_rM,rFMnW8ePNMM,RiwPhfTVbA4,rJew-v9JMS4,rJwnOmEVgAw,RkzKvyBuQuI,Rnqvz205dhc,rr0oJU0wwQc,ruaSxSUgSXY,rV6FXK9WpwA,rVc7t80bAjM,s04ZSe4XfU4,S3vBrmojpTw,s4g1wk_NjlI,s5T82WB3INU,Sa6juIn992g,sCrsYjFZvw0,sd8dg6KPKXA,sEkAuuruJLY,sfNpU09nT2s,SolUmIKW5d4,sP1hgGeDaGg,sQgNNRj51_I,SQwzoCsbvlM,SwgW8FXP41Q,sZZgfCbbCiI,T0HNYLhRdEc,t9I14Pc1tI4,Tcbqi3F8-WE,TEJDS5u0PKM,ThkA9Z4RC_U,Ti7OfQXTa6w,TL0IeokqWvE,tMpdhtih_zE,tNyv62eBemM,TtIiq5Ot480,TXD273qX8is,tXKVsOAqhHw,TYbBtKU8xC4,u_4xKf6DbOM,U0mS1pwG3gw,U220GZXcYC8,U5Vdb76eq8k,U8snJHeaLFE,uKs06uY7i_I,ULpceyOxqqo,UMoYUrq_cIE,UNqA8o-dz8A,urPT0MMejhw,UWXKdoMLcJI,V3FveaneLkM,V7wGRVAYazM,V9zQVGPRT0w,vIaCnXEgOfw,VjtBoV23QHA,vKRpoXl4E3g,vlMbXNCImJ4,VNrohKLOZF0,VpSa_1MoxuE,vRlWTdInjdc,vSdKl6EwS9E,VXaMHrzsulk,W0M1_baKrak,W68FK-1i8H8,W6ekVuAXghQ,W8PA9WXmu3Q,W90Yv8wygyA,WMxzzd6b5AU,wQ_wlm6M8E8,WT8_Ltsd8zU,WWa6xOJGNU8,wwjfh05KOhU,x6bYmUuBhgI,x7ADq9k1gTE,xATWcH0_sOs,xhSBr7LBm7M,xm7JtjVPoaA,xqTZ6d59a7Y,xR3uil53oEo,XsqmI3oJ9ZY,XTXZvCPvY_8,xTzx-xO3yls,xuT7CVwFlxk,XwUoC4wWhLQ,y_skOcQQOAo,y5Fz8uZU5jI,Y8gSTcFuT_M,yc5spgVYjPU,yEoVRaYUIZA,YfuWmaOd1Xw,YgSfT-yDd4k,YJytnKANuAk,yJYVDO3pfDk,YkbwROH8tDA,YKuXK106G1w,ymIENvtcJqo,yNMPRf1BPaw,yP5TbSY-sFs,YpmT_Jr1EV4,YtwTTI7yjwU,YvknvevezL8,yyBdX9jUmIE,yZfF1Xec0FY,YZHpR8DTFsc,YzwTBRo2vXw,z2kluPryFAo,Z51zIVn67LA,Za2NKpM8rvs,ZAWbHHqY_WI,zcgeqou4YbU,ZETzZfpuJak,ZFBCfqGWgnA,zkzuxv7MxCM,Zp7-DYX8r7U,zrTQxSmzwa8,zuFbluehZas,ZXhSaVt1kFY,zyJJq6S3DWE,2AcNCSlvQe4,Ntr4EwpfmX8",
+  "topic": "Proof",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "-C7Bh9GodeU",
+      "segments": [
+        {
+          "text": "information to get *proof* that they were",
+          "location": 3132
+        }
+      ]
+    },
+    {
+      "id": "0CtsycrzAuM",
+      "segments": [
+        {
+          "text": "you and it's *proof* that you need to",
+          "location": 989
+        }
+      ]
+    },
+    {
+      "id": "2JI_WsiTU9Y",
+      "segments": [
+        {
+          "text": "the evidence where is the *proof* they're",
+          "location": 214
+        },
+        {
+          "text": "accusing falsely nope offers no *proof*",
+          "location": 1753
+        },
+        {
+          "text": "and no *proof* making these baseless",
+          "location": 1763
+        }
+      ]
+    },
+    {
+      "id": "2SZCIuJCWQM",
+      "segments": [
+        {
+          "text": "technological the *proof* or evidence that",
+          "location": 1001
+        }
+      ]
+    },
+    {
+      "id": "2Yct7sTvSjM",
+      "segments": [
+        {
+          "text": "have *proof* that they are the victims of",
+          "location": 1123
+        }
+      ]
+    },
+    {
+      "id": "2z8416jhRoE",
+      "segments": [
+        {
+          "text": "it undeniable *proof* of the afterlife",
+          "location": 10
+        },
+        {
+          "text": "christian and i believe that gives *proof*",
+          "location": 156
+        }
+      ]
+    },
+    {
+      "id": "3wEO0ivvGM8",
+      "segments": [
+        {
+          "text": "information for a *proof*",
+          "location": 1723
+        },
+        {
+          "text": "*proof* the standard hotel helicopter",
+          "location": 1759
+        },
+        {
+          "text": "*proof* standard hotel helicopter crash",
+          "location": 2105
+        }
+      ]
+    },
+    {
+      "id": "422BkE69E3c",
+      "segments": [
+        {
+          "text": "in june of 2018 cue *proof* cache patel",
+          "location": 261
+        },
+        {
+          "text": "*proof* proves our strength - thank you q",
+          "location": 452
+        }
+      ]
+    },
+    {
+      "id": "5fIeVm9Zi5E",
+      "segments": [
+        {
+          "text": "don't have any *proof* you don't have any",
+          "location": 664
+        }
+      ]
+    },
+    {
+      "id": "5I2G-H6MZQw",
+      "segments": [
+        {
+          "text": "government local and federal *proof*",
+          "location": 2000
+        }
+      ]
+    },
+    {
+      "id": "5YAKVnIuke8",
+      "segments": [
+        {
+          "text": "however q is not giving us some *proof* of",
+          "location": 135
+        }
+      ]
+    },
+    {
+      "id": "6k4HJcGmKNk",
+      "segments": [
+        {
+          "text": "pushing for *proof* of life and many",
+          "location": 1491
+        },
+        {
+          "text": "she's not this is *proof* q is a fake",
+          "location": 1508
+        }
+      ]
+    },
+    {
+      "id": "7LtKndmSw-s",
+      "segments": [
+        {
+          "text": "aq *proof* skiff tc cap so this is the",
+          "location": 2741
+        }
+      ]
+    },
+    {
+      "id": "8CIqUeovbfk",
+      "segments": [
+        {
+          "text": "*proof* of identity january 13th",
+          "location": 1850
+        },
+        {
+          "text": "little *proof* of who q is and speaking of",
+          "location": 1875
+        }
+      ]
+    },
+    {
+      "id": "8RdTbhi3FwQ",
+      "segments": [
+        {
+          "text": "broadcast there is little *proof* that",
+          "location": 243
+        },
+        {
+          "text": "*proof* that belief in q is what drove him",
+          "location": 250
+        },
+        {
+          "text": "another interesting *proof* so this is a",
+          "location": 1600
+        },
+        {
+          "text": "all right got one more little *proof* here",
+          "location": 1753
+        }
+      ]
+    },
+    {
+      "id": "8UfJ7t27BUE",
+      "segments": [
+        {
+          "text": "cute *proof* there and then this post goes",
+          "location": 1133
+        }
+      ]
+    },
+    {
+      "id": "8wANDAWjxGs",
+      "segments": [
+        {
+          "text": "well took that announcement as *proof*",
+          "location": 90
+        },
+        {
+          "text": "q is setting us up for a watch *proof*",
+          "location": 919
+        },
+        {
+          "text": "that a watch *proof* is going to come that",
+          "location": 936
+        },
+        {
+          "text": "incredible *proof* like i said i don't",
+          "location": 957
+        }
+      ]
+    },
+    {
+      "id": "A6KkLoWypC4",
+      "segments": [
+        {
+          "text": "bombs bursting in air gave *proof* through",
+          "location": 249
+        }
+      ]
+    },
+    {
+      "id": "BSHBeYhVlSY",
+      "segments": [
+        {
+          "text": "that time thought this was *proof* that q",
+          "location": 690
+        }
+      ]
+    },
+    {
+      "id": "c80azCONOb8",
+      "segments": [
+        {
+          "text": "*proof* and said it's worth remembering",
+          "location": 1915
+        },
+        {
+          "text": "confirmation of the watch *proof* queue",
+          "location": 1956
+        },
+        {
+          "text": "watch *proof* in that q is drawing our",
+          "location": 2119
+        }
+      ]
+    },
+    {
+      "id": "dKpxfz81sUg",
+      "segments": [
+        {
+          "text": "host a watch *proof* coming up that is",
+          "location": 786
+        },
+        {
+          "text": "going to be connected to *proof* that ted",
+          "location": 791
+        },
+        {
+          "text": "*proof* that will show us what the",
+          "location": 824
+        }
+      ]
+    },
+    {
+      "id": "DvxB3VmY1JA",
+      "segments": [
+        {
+          "text": "this is just *proof* of life some people",
+          "location": 2417
+        }
+      ]
+    },
+    {
+      "id": "dweAxenTE1s",
+      "segments": [
+        {
+          "text": "will feature *proof* past i guess we'll",
+          "location": 1580
+        }
+      ]
+    },
+    {
+      "id": "E9-5Vj4VzFs",
+      "segments": [
+        {
+          "text": "can't disclose him yeah he has *proof* of",
+          "location": 1584
+        }
+      ]
+    },
+    {
+      "id": "FRBW1CVDdmE",
+      "segments": [
+        {
+          "text": "isn't *proof* yet that they've actually",
+          "location": 331
+        }
+      ]
+    },
+    {
+      "id": "fTVECAl73Cc",
+      "segments": [
+        {
+          "text": "*proof* to show that not only did we not",
+          "location": 545
+        },
+        {
+          "text": "tomorrow the first *proof* to show that",
+          "location": 1412
+        }
+      ]
+    },
+    {
+      "id": "FuRk4DLzoI0",
+      "segments": [
+        {
+          "text": "so now you have absolute *proof* that that",
+          "location": 277
+        }
+      ]
+    },
+    {
+      "id": "gop9YjFTiZ4",
+      "segments": [
+        {
+          "text": "*proof* of the imperfection of the human",
+          "location": 2762
+        }
+      ]
+    },
+    {
+      "id": "h5elIvBf0X0",
+      "segments": [
+        {
+          "text": "*proof* check locate a national guard",
+          "location": 638
+        }
+      ]
+    },
+    {
+      "id": "hE0OGD9JrdE",
+      "segments": [
+        {
+          "text": "that and said was a *proof* missed that's",
+          "location": 1499
+        },
+        {
+          "text": "a *proof* let's see",
+          "location": 1513
+        },
+        {
+          "text": "*proof* the culprit of the marine assaults",
+          "location": 1589
+        }
+      ]
+    },
+    {
+      "id": "hFFN4IRvRd4",
+      "segments": [
+        {
+          "text": "any *proof* have you seen anything that",
+          "location": 97
+        }
+      ]
+    },
+    {
+      "id": "HIgGOKRYWJo",
+      "segments": [
+        {
+          "text": "and here's even more *proof* baristas",
+          "location": 1799
+        }
+      ]
+    },
+    {
+      "id": "IiAbLcZspGQ",
+      "segments": [
+        {
+          "text": "airstrike was to obtain *proof* that syria",
+          "location": 2432
+        },
+        {
+          "text": "*proof* that obama's people shipped",
+          "location": 2446
+        },
+        {
+          "text": "produce public *proof* of their corruption",
+          "location": 2861
+        },
+        {
+          "text": "indisputable public *proof* that they lied",
+          "location": 2865
+        }
+      ]
+    },
+    {
+      "id": "JmaMv_w7JJE",
+      "segments": [
+        {
+          "text": "you need *proof* check their net worth",
+          "location": 1816
+        }
+      ]
+    },
+    {
+      "id": "kocrenpFj1w",
+      "segments": [
+        {
+          "text": "i'll take what is aq *proof* for 1,000",
+          "location": 531
+        },
+        {
+          "text": "have *proof* i think there's a lot of",
+          "location": 1073
+        },
+        {
+          "text": "regarding *proof* vs. evidence d party con",
+          "location": 1087
+        },
+        {
+          "text": "example synonyms *proof* is in brackets",
+          "location": 1106
+        },
+        {
+          "text": "attestation documentation define *proof*",
+          "location": 1115
+        },
+        {
+          "text": "*proof* of your identity synonyms evidence",
+          "location": 1130
+        },
+        {
+          "text": "and testament those *proof* equal evidence",
+          "location": 1143
+        },
+        {
+          "text": "listen to the clip again regarding *proof*",
+          "location": 1146
+        },
+        {
+          "text": "*proof* that trump colluded with russia",
+          "location": 1164
+        },
+        {
+          "text": "they have *proof* that of trumps crimes or",
+          "location": 1166
+        },
+        {
+          "text": "have evidence they don't have *proof* they",
+          "location": 1179
+        },
+        {
+          "text": "want to find *proof* they want to find",
+          "location": 1181
+        }
+      ]
+    },
+    {
+      "id": "L0mWkVLSd7o",
+      "segments": [
+        {
+          "text": "another q *proof* and there's a link to a",
+          "location": 383
+        },
+        {
+          "text": "house at a *proof* q said check the",
+          "location": 403
+        },
+        {
+          "text": "you're looking for hard verifiable *proof*",
+          "location": 526
+        },
+        {
+          "text": "*proof* how do you share what you already",
+          "location": 1778
+        },
+        {
+          "text": "badge that they have undeniable *proof* of",
+          "location": 1809
+        },
+        {
+          "text": "a *proof* that rosen's sent altered the ig",
+          "location": 1991
+        },
+        {
+          "text": "another *proof* so at 9:48 kiera spotted",
+          "location": 2108
+        }
+      ]
+    },
+    {
+      "id": "LhY-BiiFLjw",
+      "segments": [
+        {
+          "text": "play another q *proof* game hey q let's",
+          "location": 81
+        },
+        {
+          "text": "*proof* that was done previously alright",
+          "location": 99
+        },
+        {
+          "text": "shall we play another q *proof* game all",
+          "location": 193
+        },
+        {
+          "text": "just one part of the watch *proof* at some",
+          "location": 642
+        },
+        {
+          "text": "to say well he's *proof* that were a mega",
+          "location": 2846
+        }
+      ]
+    },
+    {
+      "id": "mfZeM0dNse0",
+      "segments": [
+        {
+          "text": "of that one said q *proof* asking dan and",
+          "location": 168
+        },
+        {
+          "text": "*proof* there here's the larger screen cap",
+          "location": 193
+        },
+        {
+          "text": "interesting little *proof* anons are",
+          "location": 216
+        }
+      ]
+    },
+    {
+      "id": "mVoSieaFRzM",
+      "segments": [
+        {
+          "text": "things is there any *proof* readers out",
+          "location": 2475
+        }
+      ]
+    },
+    {
+      "id": "nKH_hEiuw10",
+      "segments": [
+        {
+          "text": "*proof* check located national guard and",
+          "location": 376
+        },
+        {
+          "text": "did here because no *proof* is provided",
+          "location": 480
+        }
+      ]
+    },
+    {
+      "id": "o1dDWBzrcsY",
+      "segments": [
+        {
+          "text": "investigation leak-*proof* if that story",
+          "location": 930
+        }
+      ]
+    },
+    {
+      "id": "o6HzgfnvXR0",
+      "segments": [
+        {
+          "text": "hopefully they'll have a nice bomb-*proof*",
+          "location": 2989
+        }
+      ]
+    },
+    {
+      "id": "p77S5JgBP2E",
+      "segments": [
+        {
+          "text": "have *proof* that trump jr. was colluding",
+          "location": 1039
+        }
+      ]
+    },
+    {
+      "id": "pgjV0Ji6qRw",
+      "segments": [
+        {
+          "text": "anon created a graphic with a *proof* this",
+          "location": 881
+        },
+        {
+          "text": "provide *proof* groupthink control the",
+          "location": 2477
+        },
+        {
+          "text": "no *proof* of conspiracy between trump",
+          "location": 2507
+        }
+      ]
+    },
+    {
+      "id": "PgkBcQBsWYE",
+      "segments": [
+        {
+          "text": "and labeled it q *proof* not impervious to",
+          "location": 557
+        },
+        {
+          "text": "q but a *proof* of q's coordination with",
+          "location": 564
+        }
+      ]
+    },
+    {
+      "id": "ptgDkUO7Aww",
+      "segments": [
+        {
+          "text": "graphic shows the *proof* that is related",
+          "location": 1332
+        }
+      ]
+    },
+    {
+      "id": "PUpeRPfJOSI",
+      "segments": [
+        {
+          "text": "not *proof* that george's consciousness",
+          "location": 418
+        }
+      ]
+    },
+    {
+      "id": "q6XzWOIcpzI",
+      "segments": [
+        {
+          "text": "*proof* double zero delta trump's team is",
+          "location": 1427
+        },
+        {
+          "text": "*proof* that cube is in the loop one of",
+          "location": 1635
+        }
+      ]
+    },
+    {
+      "id": "RkzKvyBuQuI",
+      "segments": [
+        {
+          "text": "to like which q *proof* would be your",
+          "location": 716
+        },
+        {
+          "text": "when we actually see a q *proof* or you",
+          "location": 2221
+        },
+        {
+          "text": "last *proof* because i am just so tickled",
+          "location": 2268
+        },
+        {
+          "text": "so bomb-*proof*",
+          "location": 2750
+        }
+      ]
+    },
+    {
+      "id": "sd8dg6KPKXA",
+      "segments": [
+        {
+          "text": "potus does not speculate future-*proof*",
+          "location": 61
+        }
+      ]
+    },
+    {
+      "id": "SolUmIKW5d4",
+      "segments": [
+        {
+          "text": "i sent him a *proof* thread he read",
+          "location": 1313
+        }
+      ]
+    },
+    {
+      "id": "SwgW8FXP41Q",
+      "segments": [
+        {
+          "text": "government local federal *proof* standard",
+          "location": 2143
+        },
+        {
+          "text": "future will *proof* past aas adam schiff",
+          "location": 2148
+        }
+      ]
+    },
+    {
+      "id": "T0HNYLhRdEc",
+      "segments": [
+        {
+          "text": "this point has been leak *proof* it also",
+          "location": 198
+        },
+        {
+          "text": "*proof* past history books justice enjoy",
+          "location": 567
+        }
+      ]
+    },
+    {
+      "id": "TEJDS5u0PKM",
+      "segments": [
+        {
+          "text": "proposed theory diagram or *proof* is",
+          "location": 2614
+        }
+      ]
+    },
+    {
+      "id": "Ti7OfQXTa6w",
+      "segments": [
+        {
+          "text": "federal *proof* the standard hotel",
+          "location": 215
+        },
+        {
+          "text": "she knows and she has *proof* so that i",
+          "location": 427
+        }
+      ]
+    },
+    {
+      "id": "TL0IeokqWvE",
+      "segments": [
+        {
+          "text": "from the same set *proof* that the q",
+          "location": 283
+        },
+        {
+          "text": "is that q wants to offer *proof* to us",
+          "location": 351
+        },
+        {
+          "text": "get a *proof* come that comes from them",
+          "location": 385
+        },
+        {
+          "text": "well we still have a watch *proof* that",
+          "location": 386
+        },
+        {
+          "text": "another watch *proof* so we're waiting for",
+          "location": 399
+        }
+      ]
+    },
+    {
+      "id": "tMpdhtih_zE",
+      "segments": [
+        {
+          "text": "new narrative q *proof* so q",
+          "location": 641
+        }
+      ]
+    },
+    {
+      "id": "ULpceyOxqqo",
+      "segments": [
+        {
+          "text": "look at crumbs and you know future-*proof*",
+          "location": 506
+        }
+      ]
+    },
+    {
+      "id": "vKRpoXl4E3g",
+      "segments": [
+        {
+          "text": "okay and an on put together a *proof*",
+          "location": 717
+        }
+      ]
+    },
+    {
+      "id": "VpSa_1MoxuE",
+      "segments": [
+        {
+          "text": "watch *proof* drop did not come to",
+          "location": 80
+        },
+        {
+          "text": "of a fulfillment of the watch *proof* so q",
+          "location": 93
+        },
+        {
+          "text": "i'd call it *proof* but it's evidence that",
+          "location": 100
+        },
+        {
+          "text": "watch *proof* now and anon made a graphic",
+          "location": 402
+        },
+        {
+          "text": "the watch *proof* and asked if we'd like",
+          "location": 459
+        },
+        {
+          "text": "to play another watch *proof* game and the",
+          "location": 461
+        },
+        {
+          "text": "this watch *proof* now cute this is the",
+          "location": 558
+        },
+        {
+          "text": "fulfillment of the watch *proof* and then",
+          "location": 757
+        },
+        {
+          "text": "the watch *proof* thing didn't happen so",
+          "location": 759
+        },
+        {
+          "text": "that expected that this watch *proof* was",
+          "location": 779
+        },
+        {
+          "text": "so what about this watch *proof* i i'm",
+          "location": 887
+        },
+        {
+          "text": "watch *proof* fulfilled on the 27th i",
+          "location": 897
+        },
+        {
+          "text": "be part of the watch *proof* but i don't",
+          "location": 908
+        },
+        {
+          "text": "maybe the watch *proof* fulfillment has",
+          "location": 915
+        },
+        {
+          "text": "really don't know what the watch *proof*",
+          "location": 919
+        },
+        {
+          "text": "in a window where that watch *proof* might",
+          "location": 937
+        }
+      ]
+    },
+    {
+      "id": "WT8_Ltsd8zU",
+      "segments": [
+        {
+          "text": "asking for a *proof* of life so george",
+          "location": 263
+        },
+        {
+          "text": "started doing some *proof* of life videos",
+          "location": 266
+        }
+      ]
+    },
+    {
+      "id": "wwjfh05KOhU",
+      "segments": [
+        {
+          "text": "about the fbi vault release his *proof*",
+          "location": 457
+        }
+      ]
+    },
+    {
+      "id": "x7ADq9k1gTE",
+      "segments": [
+        {
+          "text": "have any *proof* of this but i suspect it",
+          "location": 1494
+        }
+      ]
+    },
+    {
+      "id": "XTXZvCPvY_8",
+      "segments": [
+        {
+          "text": "a future *proof* past we're gonna i think",
+          "location": 2170
+        }
+      ]
+    },
+    {
+      "id": "yNMPRf1BPaw",
+      "segments": [
+        {
+          "text": "insider and i've given you tons of *proof*",
+          "location": 2018
+        }
+      ]
+    },
+    {
+      "id": "yP5TbSY-sFs",
+      "segments": [
+        {
+          "text": "*proof* in there and i was like oh really",
+          "location": 2123
+        }
+      ]
+    },
+    {
+      "id": "YpmT_Jr1EV4",
+      "segments": [
+        {
+          "text": "*proof* from a recent post this is from",
+          "location": 632
+        }
+      ]
+    },
+    {
+      "id": "ZXhSaVt1kFY",
+      "segments": [
+        {
+          "text": "government local and federal *proof*",
+          "location": 883
+        }
+      ]
+    },
+    {
+      "id": "Ntr4EwpfmX8",
+      "segments": [
+        {
+          "text": "this is absolutely bomb-*proof* we can",
+          "location": 524
+        }
+      ]
+    }
+  ]
+}

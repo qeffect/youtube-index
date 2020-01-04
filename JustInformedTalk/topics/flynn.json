@@ -1,0 +1,1906 @@
+{
+  "indexed": "_0GMW9eop3Q,_0k8gf2hqT8,_3Rl1KrDzlc,_9rpHbIpjdc,_c3-w-w0hd8,_gjH2umHAGw,_RmutDWSGgw,_xRwk1GDCtc,_xXAzbpQxCk,_Y32fnAp_mE,-_D0oq02HRY,-2V-Fidbe4Q,-fBcMRleHJs,-lj5lbMIt9w,-uo9Q6D8210,-WTkkUEgMpA,-wX2rOP6ktI,-x009HbyeMM,0DszWULPnJA,0kSVAa_BmU4,0Rg0lwnxdYA,0RnrwLJ2YB8,0UsEdqoi-uo,0v_9_7NQe7o,0ZQpgASg94o,12UHF03bxqg,12UIMLvh03M,14DEr87tKSc,14goSb7_h8k,188yfjWBsKM,1feiLSIDxzA,1G4XAByqwdc,1IBdXdpMtSQ,1KbA5wwl5iA,1mxwUYRqCLc,1qxksXmFHOw,1Sh9FkZ0Z_M,1WLIn7en9pQ,1ztx8JOWikU,21_5KACaBAA,246yVwb5diI,29I9Zl0qTFQ,2B6uuN4h5To,2B8vstdpb9Y,2hwzvqyTWk0,2kcXiFrNxu8,2KlWnWIW9es,2KpDBlqtvh4,2MJZ9NDs3EY,2nHvxV92Fo8,2NXqxp8mQmI,2Q3ooMM1qAA,2rguDK_EFjs,2VvxKYycSTA,2z1u4f9qxSk,3__6oQQBx4U,366ELkY8w8c,3anaRM4cxWc,3cNC-TuFKTM,3DT04vReamc,3hTjnoctYb8,3in8rDn_GiU,3iNDtYv3ogU,3inrKG1TPqA,3JpE_sVAXtI,3mBJwCIqEp4,3mZH_LNF6QM,3QHT8IoCibY,3QPQ-gJQDio,43l56zl36nA,46EzIkcqsf8,4aeInV5RoBU,4IELe4HKwW8,4krKjHMPsg4,4l3InNocQok,4L5tYESX97M,4pRyUnOoG4k,4QBY4MC9H4A,4reDYsbFjIA,4SVOSBqdzh4,4V_km03gzkc,4Vg0iy8-V8U,4wnZSd3XIrs,5A6dZwdwTxA,5aclmTHqG3Y,5dLvEB_CqP0,5FndfbwFaR4,5GkDWQBxE_Y,5i-ZMBE5r80,5LnqJOG082k,5msn1xthpVw,5OD8QdsbiDU,5teFvGwE9Ec,5tLVsNwlo4E,5ZV3UJmN3j4,5zwSaKW2qzA,6__xoin6aw8,639Gc3bX0Hs,68Bl7RbXS2A,6dPlpdME9bA,6gP2Zh2J4lU,6T7oPFcotQ8,6VOzbo_Xzcs,6vu4aiDJlLI,6ZRbp3qcQWw,77KCplrOQIs,77xVpKuEWnc,79lRgwEbfHQ,7BjNpnHLRlg,7dUatd4L2_I,7HkSIcIUJEI,7KyRGYh74yM,7nBOtseGsvM,7PPE5IfAS8Q,7uKOdZECGKo,84FDa13e5-g,85-ahemlFUU,85y3X4rQxA4,8BvPh2JcG1I,8fechd5G8bQ,8HN_fDiyxps,8Hn9sRON8JU,8IEQfBwVCnI,8pfDKYOa2YQ,8SIxFBeXF3A,8SJ8Si8dOik,8VlLxBGFQbo,9_UKSBXn7ko,9-Ct8QNd5l8,93Ilpb7IySY,94-23EfqkIo,96qHwT4UG7A,9aC20cRhA6A,9bmI1uHhg2Y,9CRaVe_WoRA,9DCeANHAmJk,9E6bhpqXb4Q,9GURyE2qHg0,9iLcGsHVzpM,9IoPnmjsOQg,9IYh49I9vLI,9kWhckKtLyw,9lRA4hj5-zs,9O8VPOd3Dsw,9ObMFi6ReKE,9PqmG_y1mEA,9Rsj2RvPQQY,9v8K97nYOmc,9YpbXzuAYao,A3CcapXxDBc,A3UCbl5D6xw,A4K1C-k9Soo,AaEkl-of76c,aAjl5E-9Xwc,aauT5183_Y0,ABKGKVoSAZs,Ae8VPPrDP3I,aeg4hpZ9Ozw,afbpVahE8m0,AGcXhMgEl-g,AGvin09PnlY,Ai_hTzDSyO0,aiSN2yWRXMk,AJPTbrTUYxI,AKx3yG4zhNQ,altHQp6NMoA,aMjfmqYp1k0,aMU1r-XXIe0,ANNU2PD-HFo,ApxADBQ8v3A,AQn0A4aVW6E,aRH_VcgxE-M,aRk2tCY5P6A,AT7BqWZWWag,ATycYftkD9M,avWKx_cmjpk,aww13Cq9r7Q,ayRMg-VLpmE,aZ_1pPcUgFk,aZ9ow4ZlnfI,AzTWh1-xt14,b-LpBCpFIU0,b0pHnjCKYzI,b1BuM4rDtj4,b2o6RTKxh4I,BBOhxkAxLis,bBQITwVQ2c4,BcVYQ8Qb8WE,bcxBqQ7PMew,BEnGqcIKQBI,BFqiftOTLL8,BFxZRHPz1QI,BgKgV7LyEIo,bJpGmwu9-k4,BjZ3EmeaX5k,bKA-qsz0fsU,BKrYqZUyOIQ,BLbmipYjHR4,BMvOvzcBOq0,BnmAkjBYrZ8,BoMEoJRDgcU,BRRHTfNJMg4,bTO8-X3R_0g,BufAWX9OL9M,bWCu3V4E0Cw,BX0vhcv_pRQ,BYme9spNF9A,BZ6g4cgOQIo,c2JtJ3aEJI4,c3uk_PM4FTU,C52GieN9zdM,c8x6_3FTcmk,Ce_6croEF8c,CeUgCB6lb8Q,cfD7Ifh578E,CFDn-VKYsC0,cjcQ6t4JMXs,CLxo7YDcLzk,Coqn8CHu1cM,CpCLI8mo6T8,cppd4rNaGCY,cQbGXIlAVTM,cRLq7aAC-XI,Ct4sQbD2Dj0,CUobzPBIPYs,CVPDq78OM50,CxlcQbMPATY,CYMHBldnHH4,cZWsTRVduts,d_GwGYmK26Y,d1MKZw4vHEw,d352Nhkd02g,d8l0y2XLq3Q,d9HpahnSk3g,ddO9VroAjuU,DeiOBs9WCFY,dfzrdTb1zZE,dgJVXPaHqP8,dI75N0o_5DI,DJhwFGJhk5k,dLlF7sxrUCQ,DOO7fNIwpYY,dPmQytHJFIs,dS2qkAQ33Xw,Dt0bn771sGA,dTiW7GUvpiE,DTJrCcpKAsE,DWyqBff8MD0,dxXweiDpFuI,dzvqryS1tvM,DZyPZzqwvsA,E0C2qvYK31I,E0IZHA3G3Ig,e4MakjQr6wQ,e5nUedXajQI,E930zZVMjyY,EEnVvVzaBCo,ehplL8V_3rs,ehRpPBA6HgM,ejJhYz7wFwo,ek_MgNKuQKg,EKeXTDJ61eQ,EL6vqvpcreQ,Erfp78sCx3E,etzYB5Acisw,ex1IEZ3gULY,EXbJ0oQART8,eYGFc99WbHU,EyLK_rCRmPI,EzqNatWuS6Y,f4qBTki5iH4,F5FobXrvY3E,f7YHUbjdCzM,FB4dExVms7s,fB7BASL5g54,fbpZlOeQiAM,fbY83L61Kd0,fchREWrn0vY,FDbXuhcLWtU,Ff4fEQVTpSs,FHBsONoVnq0,fhyBcxyxbVI,Fk16jEhiBrQ,fLuLK72GwyA,FLYTjpU15No,ft2oJSlNPtQ,fU5hFfGsdjM,FWZHVOZ4ggQ,g_-JsMSaCdA,g_4yojz2mAs,g-KHTYSFJXA,G0xwAccaQ0A,G2aQUZYgTL4,G5Xu8M-uc60,G6rtL2LbzqA,g8XCMFkFyjY,gAHVZF__So4,GcJnkA-FE1M,Gd0BSKLLqsc,Gf0trv-9tvc,gHZMOupPYsg,GHzp1M24Fsw,gJcJ38T8oNM,GjQpoYm971o,gMSJoVkQZWw,gnDVjDTXE0k,GNedUPBOSqs,Gnmbc4G0dmg,GRBDH_i0FB4,GU2lVhxS9vY,gya_mSZwAl0,GYcdeNuBthM,GYRgczPNxJI,h17tF0Xii1c,h1BC7XmZr8I,h7CqHL04D-Y,HCCtVyqBoRE,HF1kNM1SZWw,hfX559mxFQo,HGHg7Nt2WVo,HiDyMOUhdZY,hIG3MjKRzBE,HjH_ZCvf3_g,hKbE7MG3OIA,HkJj6tZtzKg,hKSHNiPdaQU,hNazips7-k8,HoHfevtIV2w,hQcYnde_RDA,HTETmsKXnkE,hxMqBVB9oIU,i7CsAm6pTpE,i7hxZGH9fCY,iaA6l7wVsGE,IC9FN_fY2go,If2rCEuFeNY,ijaW9oSwCw8,im06ZuqowDk,Ima-kdh9Zo0,IMvbHX-XxMs,iQHR1-6RKGY,iry3kHF_jvI,is45doBHO4k,IubAKIW7LW8,IuGCv6BE808,ivzGKZFp8M8,IyRWVFXn45A,IZLsNynu6Ns,j0aA2J_kFkc,J296P7VE5p8,J2spK-T9ev0,j4__e_WelW0,j598EAg5zdI,J6zapuerlJk,J7b6SPEd0FA,j8A3-iLoEOI,J8tQL-J1p-4,jCLp7eJwIrE,JEKeMGgqEFA,jIf63gDirvc,JkdHKdiTXAM,jnUP8mEuPqc,jO3DSz6VU10,JP_9kWACn3U,jPdBNzia1bQ,JqB96gXQCHs,Jqmk-9gfMoc,jr_aTXakEwk,jSkzvaEVGyw,Jw000N2NVzY,JXObjjcM37E,k1e3a3x0VHE,k2pfkR9ey1o,k3a7JrqCGxM,k5J7_AWQvec,K68zHw0_xp8,K6D4AseiyvA,K6X_A5nDkn8,k7HZG6YnFww,Ka58QhPEBs0,kbsHKl1F3PI,kGrIdTasjN0,KhBpRt0R9-8,kMvmpeySbAk,kmwVSMKdhaU,kmxEhecyMN8,Ko4YrWusYB0,kPNmP4e9jfA,KQYQ6-hMOjY,KsFcbtIB9IQ,kv41joeMcM4,KVAsKc8v5t8,KVvB35XeEig,kZgInLvnTxE,kZSTJv4Hxk0,L_xCuCDisLM,L1AVZd4DsQc,L2Az5A7kcP8,L3Ij2cvGFkY,l6iCUxTXOBw,L6uSGv164Xw,L8KfIdZMszk,l8r-U_GKKPw,l8TEy3DabHA,LBYjX-YKi3A,LcYUTlXa9LA,LDbkkYUWvpA,Lioi0r8CebQ,LIwSMMqCTfU,ljBQV9kO_48,LniEKTpx8Qo,LPcjU1iEMa8,LrIY2UK10UA,lRMkZVPheVA,LTZqQj0xixg,lxUADz6sO24,M-MA0geeqcs,m-ODejCbNWA,m2iCTKjwGZY,M2SBwEaGWjA,m5TtiXCF06Y,m9zakT_UDY4,MbhDYscAAN8,MBmjx6pEVyM,mBU8ggNgS8s,mCG61ZXjwgM,mDGN4mIrYTs,mdj-e3WW1Bo,mDVvkqXidds,mh_UlTxOQQ8,MHhA6kW_K1g,mi6oOSOcu8U,mIMeh-79eFQ,mJWjRqEjk1U,MKMicgqhopw,mkzUXQCz7g0,Mm6WkdjRwXE,Mm8has8rJ6Q,MMiesWjJy3k,ModN7UGbEc4,mOIXtYBUHzE,mpo_IhTE430,mqjohU4wchw,MQkqD0MhKnY,mQmoOcT31Ro,msr6oM0RLew,Mt8NfLhd-bQ,MU2Rcx_7eK0,mU9euZ7sEes,MUy19aL4UNs,MvFElFTEyAo,N_LPPAZ6a5k,n2RdX0ydluc,n5D-l-3F7ik,N5YALJhloAc,nb48sfxaBzA,Nb9AndSj88I,NC02quLtRsA,NC8ofbJYmgQ,NcQDwCqQeO0,nDIenS-L7Qc,NgbBiTBNx_E,NjWZnzfy4Bk,No3ER-UeVEw,no6rrhl9HP4,NPnxrTpCpnw,NQNDDUtnzYk,nRaCGIerr6g,nspGMcDjCKM,ntdGh-KbrDw,NV7heJFREsE,NVweq5WqxQs,Nw0SUu18OzY,NwWi8UclL4k,Nyz8AZ4IvdA,Nz6lrDmtUxk,O_aacfmu4kk,O52v4nUvluw,O5EtoXjZNus,o6KJkaLISn8,o6YcBl2u0n0,o8Akan5GihI,oC62RUXGAeo,ocx0eQ3IYGc,ofmaPjLqKpY,oGgzXrlF0m4,OhcEdpoDPxQ,OipmgYEOOj8,OJj7uOy38hI,OjodkECxTFE,oJslPIbYry4,ojSvumv3RDc,OKRqb03TEUs,okuxViVbyTs,OLDsP1BrbDU,Olfa4vMMDEk,OQCgaoqYPDQ,ornHtBUFohc,OsoQu546x8g,oStMB-W5ovI,Ou8IoZrbRFY,OVGfiwkKdqY,OWfrBrQlhkk,oXoEIlNO77U,oXoo6eYsZ3o,OY0Jqc3-hV0,P2YYC5MMzFc,p4Wc6Zs3qQM,p5s61jAYDzE,PbcQo398070,pbi5dRCB2cA,pDkUn-isAGk,pdW4LVkaiYA,peHd3IOjylg,Pepkc8bM3uo,PfDbmwtawNg,PfZh-XLbE_I,Pi-FHomqwtE,PIHmedWFDBI,piPPWEVM7BI,Pk6jznEcP4U,PMt56AI7XrI,PN8oDcxVDKU,pOgq_axpn1k,PRGJZtCTLVA,pRriJNgzrcs,pUZDbK0a1R4,PwfwMH9cRP0,q0d0OkpV5gs,q1LXh9jQU38,Q23RnpfTgiE,q2tI5JrJKzE,q40i492ZGUU,Q5xDDuhudtU,Q8C-i61AH9Q,q8N3XgSDddU,qaB9Xgr-K-U,qaeEK1ydKHQ,qb8eND6_eH8,qbNEx7wfmRw,qCVOU264zOY,qeyblMlgmf4,QFxy7aHGQAk,QgdmFUaMaTg,QHMQrxZEG0A,Qi1p1ciC6ig,QJ87Y3IHM0E,qJZUzPJM_8o,QlB-DTGsxA4,qnSzR1wZFJw,qQCLQxxZ-JQ,qSIbJjKcNfg,QuIScPQ4-HI,QwJVJTZy7_I,QWt5r7p1prc,R0kUC-zTi_w,R1LjmP8-04A,r509r1pO2R0,r6wUIvkTfA0,RaMEtW-jj3Y,RBg7ln8YvZs,rCig3kho2SM,RDi6epw_6q8,RhIjc2y2tAk,rhU9LM5NMjw,rKsfEM1BgDc,RQ0Vxa8t2lE,RqvIfoLVDOk,RU7GoALMyfc,rvKeEwBBpVI,rWFJYGKR8Q0,rwgpNw7-Z2o,RWoC617ICiE,rWUwM3PSctc,RWwMA7NgHPw,rygv-W2nBMQ,S6nzPrp1znE,s7WQRQMZHpg,sbQRdt546xk,sCpKR0JfQYg,SCrkA-IU-MA,SCYQEWuPQ5k,shbkSBhJ2I0,SIa7IJeIZTs,sj2d6MMMHe8,Smgbk6_u95o,SMJH9hOBoHs,sNJWA5xXzJ4,SnZ6S3mRxL4,Sp4RLy_qYKg,sqjMUSm7P7g,Sr-bsrd1__k,sRO9eUbKbHk,STeFcjPilJQ,stXbBirLOa4,SuFrbJ6SU-o,svsHMcqSxo0,t1tZokS2EvY,t5_FT2IuuU4,t6E_0ndD_uc,t6Lt13vIedE,ta_w9snGNto,tA5qx4py3vk,Tcnt9LQ9ghs,TcTxPlJydUY,tHP9ltlAus8,TiTXAXiDfUc,tIWPr_DcdIo,tjMfQ3p3laE,Tnrn3L8FY0I,tPO2SMpryYw,TQscIaCFOkI,TQZvMICk0VY,tsbPU6Db2kY,TsPRXxIwYko,tvC2gQ4AczY,TvVR9BnYdcM,TwLUyzhOLOg,tYyiFa4vM6U,tyzocNwNQKM,u_GGjeSvYec,U008Q4Nl6Pw,u4vS2DaqFLc,U7kcy4JVL-A,u87rX2092og,UAHuVEBXel4,ubHkJ2JOyYc,udBq5d5QJu4,UDz1OZ08WdM,ufbriRv6ttg,ujGzJFLXyyU,ulqxOJMqlbE,uM3wMO8soPk,UnaCSOYEHJY,uNbF9eE8iQo,uPZH86T-gbU,UqoqSIhUkis,uUHrITp2OII,Uv9kdzginz4,UYZK6SLUDac,uznBzdoryQE,v__k4yoGtr0,v1EVuUPy0TM,V5UBaiLKTJ8,v7n8XMG6_lU,VAb-q4zZZ84,vdBH5hXgTx0,VDegR-PmnPY,VDiIHvrYiP4,VDNvoDprdXw,VdW3BTCrFyk,VEPn4Jpriag,vH2LP87XOhM,vhEhHA1_lYc,VifwNccVoaI,VIVQ8DSeXA0,vK8vS2FLi_8,VkklwV-XWV8,vLkThiVu-7w,VLODkOCKOTQ,Vm1M-wrzD30,vNBvyX0c2GU,VncJ0_vEoR0,VNKopA1AWqc,vNoLVvWSsyo,vo2k76mYB48,VOiG-bND5gw,vOxfriLzg30,vPi9nxUXeXY,vpPs1VYeYq4,VqfhBji9KRg,VSa_TIkV6lE,VU5aarfEf-k,vvIB5CzHtRk,W2YIfMkkfwk,w3TsReVTDJg,w7usO3iDt_o,W9zaoEqRVZA,WAHJQb4hEOc,wENuaVviKSo,wGKkvAU6BXM,wgltyCeZ9pk,WGM4fqCVAQg,wgx-dnhKrBU,WhXBxkP9xE4,WJ_m4kinM7w,wLKBFYSG524,wp-A4Xc_aLU,WQ505PlHjnA,ws0Sia6taoM,Ws3y42YOuCI,wwoXSecjUy0,WxIbdhY0A54,X1Ei27wYEkk,X28tURO5Cq0,X3Sqj3g_n6c,X4jATK5wBgU,X6DgdzLcbTc,x8rM1oZB8U8,XBbVIwgeD2g,xBjg0GydtgY,XD8UWjkcE1s,xDMceMQCI_I,xe9N5iVspPY,Xfgb4YaqMT0,xfoQHcU3MyI,XfSHGaDZbBk,XISLjXeWUwk,XLzGCZkYvIc,Xna5SsHOcUo,xot9iXQ-zBA,XpBu8gmssPY,XqmwL0TTfo0,xsFay-hybec,xsO-xNEhoBI,xSQvQDtzB6U,xTJgKGF--OQ,xwOcpq9TqpE,XXd8q4BfcYQ,xYBSsLGzMlc,Y0exfyEXpfI,Y88ecV_X87E,YACpICjPygE,YAHylAzN21o,YAZ0b3JyML8,yc4umVzljCM,YDbwkcXJXRo,ygVJlwArt0A,YiKnAv4Iw2I,YJiMBvqbCwc,ykP7QXaZp9M,YkrFx8fhafI,YLlsruYA4pk,YlYxp4VTDgw,YnYkBcT-rnY,yQrUOHG8e2k,YSoJN2dPoZw,YSq6X6aQhd0,yuNxrYT4t58,ywlM82gfvbk,yWZgvfLs_ss,yzJ3vadEb_0,YZniSg3z3Iw,z1mRlnZbCF0,Z3cDEAKbMyA,Z5r4RVFd2a8,z5T_1jyN5f8,z7iJ5zZ0cLY,Za2u9FkqiaU,zB8nIspKlco,Zdnvu5QIjXE,ZEn6pbfoNlo,Zfa1UNNaPxc,ZGLLyMlvoUY,zJoO_HiEUno,ZkwW4xznOmQ,zlajBZP3nH0,ZnPojroUsrU,ZOUO80Q44B4,zozvEuKPdKs,ZTV18-GhqyU,Zu2ITGywrmU,zu3muQumFyI,zUQ1UARkl24,ZZJ6BNKXcTw,q_QmpI9cyRY,zy611VHFFwU",
+  "topic": "Flynn",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_xRwk1GDCtc",
+      "segments": [
+        {
+          "text": "*flynn* has been who knows where the",
+          "location": 162
+        },
+        {
+          "text": "*flynn* who went along at first but then",
+          "location": 201
+        },
+        {
+          "text": "son michael *flynn* or michael *flynn* jr.",
+          "location": 240
+        },
+        {
+          "text": "but it's also talking about *flynn*",
+          "location": 347
+        },
+        {
+          "text": "*flynn* is mentioned here and the whole",
+          "location": 351
+        },
+        {
+          "text": "background why is this relevant *flynn*",
+          "location": 376
+        },
+        {
+          "text": "being referenced here with *flynn* right",
+          "location": 437
+        },
+        {
+          "text": "and this is talking about how *flynn* was",
+          "location": 439
+        },
+        {
+          "text": "*flynn* are obviously working together as",
+          "location": 483
+        },
+        {
+          "text": "bodies are buried *flynn* is safe we",
+          "location": 500
+        },
+        {
+          "text": "know hint by hint that general *flynn* is",
+          "location": 507
+        },
+        {
+          "text": "*flynn* targeted why who knows where the",
+          "location": 534
+        },
+        {
+          "text": "patriots out there like general *flynn*",
+          "location": 598
+        },
+        {
+          "text": "to take testimony from general *flynn*",
+          "location": 796
+        },
+        {
+          "text": "recusal does *flynn* no define on the",
+          "location": 2239
+        },
+        {
+          "text": "to the fact that *flynn* is spilling the",
+          "location": 2248
+        },
+        {
+          "text": "does flynt know well of course *flynn*",
+          "location": 2364
+        }
+      ]
+    },
+    {
+      "id": "0Rg0lwnxdYA",
+      "segments": [
+        {
+          "text": "general *flynn* right who is remember",
+          "location": 313
+        },
+        {
+          "text": "*flynn* who now they have a corroborating",
+          "location": 345
+        },
+        {
+          "text": "verify that what general *flynn* said was",
+          "location": 357
+        }
+      ]
+    },
+    {
+      "id": "12UIMLvh03M",
+      "segments": [
+        {
+          "text": "general *flynn* that were somehow being",
+          "location": 1232
+        },
+        {
+          "text": "to get people like general flamin *flynn*",
+          "location": 1243
+        }
+      ]
+    },
+    {
+      "id": "188yfjWBsKM",
+      "segments": [
+        {
+          "text": "the general *flynn* thing a general flint",
+          "location": 1402
+        },
+        {
+          "text": "know *flynn* gets up on stand and start",
+          "location": 1433
+        }
+      ]
+    },
+    {
+      "id": "1Sh9FkZ0Z_M",
+      "segments": [
+        {
+          "text": "we talk about michael *flynn* these all",
+          "location": 234
+        },
+        {
+          "text": "papadopolis talked to michael *flynn* and",
+          "location": 249
+        },
+        {
+          "text": "then michael *flynn* talked to mike pence",
+          "location": 251
+        }
+      ]
+    },
+    {
+      "id": "21_5KACaBAA",
+      "segments": [
+        {
+          "text": "rick gates mike *flynn* george papadopolis",
+          "location": 1071
+        },
+        {
+          "text": "they can make me like mike *flynn* where i",
+          "location": 1121
+        }
+      ]
+    },
+    {
+      "id": "2B6uuN4h5To",
+      "segments": [
+        {
+          "text": "with general *flynn* for all of you who",
+          "location": 499
+        },
+        {
+          "text": "don't know general *flynn* went in for a",
+          "location": 502
+        },
+        {
+          "text": "*flynn* lied and that they their",
+          "location": 540
+        }
+      ]
+    },
+    {
+      "id": "3cNC-TuFKTM",
+      "segments": [
+        {
+          "text": "carlos patriot says general *flynn* equals",
+          "location": 1974
+        }
+      ]
+    },
+    {
+      "id": "5LnqJOG082k",
+      "segments": [
+        {
+          "text": "ago whatever q said *flynn* news coming",
+          "location": 1211
+        },
+        {
+          "text": "*flynn* including the fact that there was",
+          "location": 1221
+        },
+        {
+          "text": "lot of stories about *flynn* yesterday so",
+          "location": 1237
+        }
+      ]
+    },
+    {
+      "id": "68Bl7RbXS2A",
+      "segments": [
+        {
+          "text": "and into general *flynn* when he went in",
+          "location": 173
+        },
+        {
+          "text": "says *flynn* or because it says who knows",
+          "location": 590
+        }
+      ]
+    },
+    {
+      "id": "6dPlpdME9bA",
+      "segments": [
+        {
+          "text": "*flynn* the one who's been attacked from",
+          "location": 947
+        }
+      ]
+    },
+    {
+      "id": "6VOzbo_Xzcs",
+      "segments": [
+        {
+          "text": "rogers in general mike *flynn* who wants",
+          "location": 960
+        },
+        {
+          "text": "biggest threat general mike *flynn* was",
+          "location": 1132
+        }
+      ]
+    },
+    {
+      "id": "8SJ8Si8dOik",
+      "segments": [
+        {
+          "text": "reliable thank *flynn* fisa illegal so",
+          "location": 1412
+        },
+        {
+          "text": "this is going to be how general *flynn* is",
+          "location": 1415
+        }
+      ]
+    },
+    {
+      "id": "9bmI1uHhg2Y",
+      "segments": [
+        {
+          "text": "of course you have *flynn* and rogers",
+          "location": 1391
+        },
+        {
+          "text": "with general *flynn* helping him and this",
+          "location": 1408
+        }
+      ]
+    },
+    {
+      "id": "A3UCbl5D6xw",
+      "segments": [
+        {
+          "text": "general *flynn* and how he's connected to",
+          "location": 63
+        },
+        {
+          "text": "roger stone and general michael *flynn*",
+          "location": 1247
+        },
+        {
+          "text": "prove that general *flynn* is innocent",
+          "location": 1299
+        },
+        {
+          "text": "*flynn* was lying instead they got a",
+          "location": 1312
+        },
+        {
+          "text": "it's become impossible for *flynn* to",
+          "location": 1320
+        }
+      ]
+    },
+    {
+      "id": "aauT5183_Y0",
+      "segments": [
+        {
+          "text": "before that general *flynn* may or may not",
+          "location": 714
+        },
+        {
+          "text": "water and his *flynn* giving us a hint",
+          "location": 733
+        }
+      ]
+    },
+    {
+      "id": "Ae8VPPrDP3I",
+      "segments": [
+        {
+          "text": "an ant on post free *flynn* he says done",
+          "location": 1000
+        },
+        {
+          "text": "*flynn* being pardoned for his crime which",
+          "location": 1011
+        }
+      ]
+    },
+    {
+      "id": "AGvin09PnlY",
+      "segments": [
+        {
+          "text": "he also appears the general *flynn* and",
+          "location": 1286
+        }
+      ]
+    },
+    {
+      "id": "Ai_hTzDSyO0",
+      "segments": [
+        {
+          "text": "general *flynn* a 33 year combat veteran",
+          "location": 552
+        }
+      ]
+    },
+    {
+      "id": "AJPTbrTUYxI",
+      "segments": [
+        {
+          "text": "talking about i'm a rogers general *flynn*",
+          "location": 1889
+        }
+      ]
+    },
+    {
+      "id": "aMjfmqYp1k0",
+      "segments": [
+        {
+          "text": "*flynn* before 45,000 sealed indictments",
+          "location": 906
+        }
+      ]
+    },
+    {
+      "id": "b-LpBCpFIU0",
+      "segments": [
+        {
+          "text": "trump's team of sessions and *flynn* and",
+          "location": 1047
+        }
+      ]
+    },
+    {
+      "id": "BBOhxkAxLis",
+      "segments": [
+        {
+          "text": "director *flynn* the the national security",
+          "location": 170
+        }
+      ]
+    },
+    {
+      "id": "BFqiftOTLL8",
+      "segments": [
+        {
+          "text": "travesty of general *flynn* nobody knows",
+          "location": 30
+        }
+      ]
+    },
+    {
+      "id": "BKrYqZUyOIQ",
+      "segments": [
+        {
+          "text": "council by michael *flynn* in the earliest",
+          "location": 108
+        },
+        {
+          "text": "a surrogate of the michael *flynn*",
+          "location": 124
+        },
+        {
+          "text": "in 2013 when our 2014 when general *flynn*",
+          "location": 132
+        },
+        {
+          "text": "a protege of michael *flynn* it would be",
+          "location": 178
+        },
+        {
+          "text": "*flynn* was aware of and just as they've",
+          "location": 183
+        }
+      ]
+    },
+    {
+      "id": "BufAWX9OL9M",
+      "segments": [
+        {
+          "text": "michael *flynn* they knew they had to",
+          "location": 535
+        },
+        {
+          "text": "buried it was *flynn* guys this is all",
+          "location": 550
+        }
+      ]
+    },
+    {
+      "id": "BZ6g4cgOQIo",
+      "segments": [
+        {
+          "text": "*flynn* and robert muller trying to give",
+          "location": 5
+        },
+        {
+          "text": "michael *flynn* allegedly lying to the fbi",
+          "location": 221
+        },
+        {
+          "text": "you know general *flynn* lied to us about",
+          "location": 414
+        },
+        {
+          "text": "that general *flynn* has been assisting in",
+          "location": 513
+        },
+        {
+          "text": "the reason why general *flynn* pled guilty",
+          "location": 531
+        },
+        {
+          "text": "bodies are buried *flynn* is safe we",
+          "location": 599
+        },
+        {
+          "text": "have what we have general *flynn* getting",
+          "location": 608
+        },
+        {
+          "text": "retired lieutenant general michael *flynn*",
+          "location": 643
+        },
+        {
+          "text": "mullahs purview for which *flynn* has been",
+          "location": 674
+        },
+        {
+          "text": "*flynn* has been providing significant",
+          "location": 725
+        },
+        {
+          "text": "general *flynn* i guess he's been giving",
+          "location": 1202
+        },
+        {
+          "text": "michael *flynn* and this is obviously to",
+          "location": 1640
+        }
+      ]
+    },
+    {
+      "id": "c3uk_PM4FTU",
+      "segments": [
+        {
+          "text": "with general *flynn* it's like they say he",
+          "location": 962
+        },
+        {
+          "text": "anyway i think general *flynn* was all",
+          "location": 973
+        },
+        {
+          "text": "investigation *flynn* pleads guilty to non",
+          "location": 1033
+        }
+      ]
+    },
+    {
+      "id": "cQbGXIlAVTM",
+      "segments": [
+        {
+          "text": "here's another one general *flynn* i mean",
+          "location": 1060
+        },
+        {
+          "text": "trump giving *flynn* a pardon when you",
+          "location": 1065
+        },
+        {
+          "text": "hear a general *flynn* life flynn's life",
+          "location": 1067
+        }
+      ]
+    },
+    {
+      "id": "CVPDq78OM50",
+      "segments": [
+        {
+          "text": "*flynn* and the q response done in 30",
+          "location": 50
+        },
+        {
+          "text": "agents did not think *flynn* lied despite",
+          "location": 80
+        },
+        {
+          "text": "*flynn* dan lied but he pled guilty",
+          "location": 116
+        },
+        {
+          "text": "keep going why would *flynn* plead guilty",
+          "location": 129
+        },
+        {
+          "text": "*flynn* is safe expand your thinking queue",
+          "location": 137
+        },
+        {
+          "text": "going after *flynn* and *flynn*",
+          "location": 151
+        },
+        {
+          "text": "gonna have *flynn* be able to get on the",
+          "location": 169
+        },
+        {
+          "text": "*flynn* is safe expand your thing well",
+          "location": 208
+        },
+        {
+          "text": "that's exactly who *flynn* is and *flynn* is",
+          "location": 210
+        },
+        {
+          "text": "today regarding *flynn* done in 30 expand",
+          "location": 225
+        },
+        {
+          "text": "they lied to get *flynn* on a process",
+          "location": 269
+        },
+        {
+          "text": "interviewed *flynn* what redacted texts",
+          "location": 349
+        },
+        {
+          "text": "why did *flynn* take the bullet rubber",
+          "location": 354
+        },
+        {
+          "text": "what q is saying that the whole *flynn*",
+          "location": 388
+        },
+        {
+          "text": "the whole *flynn* indictment was then",
+          "location": 396
+        },
+        {
+          "text": "further expand further when *flynn* was",
+          "location": 547
+        },
+        {
+          "text": "concluded so any shot *flynn* had to get",
+          "location": 586
+        },
+        {
+          "text": "believe *flynn* pled guilty in order to",
+          "location": 596
+        },
+        {
+          "text": "criminal charge against *flynn* that",
+          "location": 604
+        },
+        {
+          "text": "*flynn* pled guilty and i think that just",
+          "location": 627
+        },
+        {
+          "text": "about how michael *flynn* has pled guilty",
+          "location": 671
+        },
+        {
+          "text": "*flynn* lied despite his guilty plea and",
+          "location": 713
+        },
+        {
+          "text": "connection to the mueller *flynn* and",
+          "location": 760
+        },
+        {
+          "text": "about *flynn* but really this is not as",
+          "location": 767
+        },
+        {
+          "text": "*flynn* pleads guilty to non committed",
+          "location": 1913
+        },
+        {
+          "text": "say he that *flynn* lied so *flynn* said i'm",
+          "location": 1941
+        },
+        {
+          "text": "general *flynn* it would seem and then now",
+          "location": 2090
+        }
+      ]
+    },
+    {
+      "id": "CYMHBldnHH4",
+      "segments": [
+        {
+          "text": "to *flynn* but they didn't have any dirt",
+          "location": 305
+        },
+        {
+          "text": "the general *flynn* lied and they brought",
+          "location": 316
+        }
+      ]
+    },
+    {
+      "id": "d1MKZw4vHEw",
+      "segments": [
+        {
+          "text": "the likely targets were manna fort *flynn*",
+          "location": 617
+        },
+        {
+          "text": "*flynn* and papadopoulos this is this i",
+          "location": 643
+        }
+      ]
+    },
+    {
+      "id": "d352Nhkd02g",
+      "segments": [
+        {
+          "text": "general *flynn* excuse me i had a i had to",
+          "location": 412
+        }
+      ]
+    },
+    {
+      "id": "dgJVXPaHqP8",
+      "segments": [
+        {
+          "text": "general *flynn* news today because we know",
+          "location": 206
+        },
+        {
+          "text": "council to look into the general *flynn*",
+          "location": 210
+        },
+        {
+          "text": "go after guys like *flynn* and stone and",
+          "location": 372
+        },
+        {
+          "text": "review case against general *flynn* amid",
+          "location": 516
+        },
+        {
+          "text": "they don't forget general *flynn* back in",
+          "location": 1605
+        }
+      ]
+    },
+    {
+      "id": "dPmQytHJFIs",
+      "segments": [
+        {
+          "text": "*flynn* all this stuff was was processed",
+          "location": 344
+        }
+      ]
+    },
+    {
+      "id": "dS2qkAQ33Xw",
+      "segments": [
+        {
+          "text": "know general *flynn* who is definitely one",
+          "location": 805
+        },
+        {
+          "text": "general *flynn* and it's obviously with",
+          "location": 850
+        }
+      ]
+    },
+    {
+      "id": "ek_MgNKuQKg",
+      "segments": [
+        {
+          "text": "that big problem that general *flynn* was",
+          "location": 162
+        },
+        {
+          "text": "people's attention well general *flynn*",
+          "location": 166
+        },
+        {
+          "text": "shared by general *flynn* when it comes to",
+          "location": 190
+        },
+        {
+          "text": "just screams that general *flynn* was a",
+          "location": 196
+        },
+        {
+          "text": "michael *flynn* was the you know director",
+          "location": 505
+        },
+        {
+          "text": "general *flynn* was asking questions about",
+          "location": 516
+        },
+        {
+          "text": "says *flynn* was pushed out by obama and",
+          "location": 545
+        },
+        {
+          "text": "papadopolis but with *flynn* *flynn* was",
+          "location": 559
+        },
+        {
+          "text": "likova and *flynn* at the february 2014",
+          "location": 591
+        },
+        {
+          "text": "seminar dinner but *flynn* in and them",
+          "location": 594
+        },
+        {
+          "text": "start spying on *flynn* to start spying on",
+          "location": 607
+        },
+        {
+          "text": "think *flynn* 30 exactly 30 q okay so that",
+          "location": 742
+        },
+        {
+          "text": "*flynn* and 30 and exactly 30 well you",
+          "location": 1110
+        },
+        {
+          "text": "talking about general *flynn* and how",
+          "location": 1136
+        },
+        {
+          "text": "with *flynn* before this is a previous",
+          "location": 1143
+        },
+        {
+          "text": "why would *flynn* plead guilty to",
+          "location": 1151
+        },
+        {
+          "text": "bodies were buried *flynn* is safe expand",
+          "location": 1157
+        },
+        {
+          "text": "you know *flynn* in his 30 turn a 30 day",
+          "location": 1177
+        },
+        {
+          "text": "*flynn* exactly 30 so that's definitely",
+          "location": 1237
+        },
+        {
+          "text": "of course general michael *flynn* twitter",
+          "location": 1757
+        }
+      ]
+    },
+    {
+      "id": "ex1IEZ3gULY",
+      "segments": [
+        {
+          "text": "ezra is like this like *flynn* is like is",
+          "location": 916
+        }
+      ]
+    },
+    {
+      "id": "fbpZlOeQiAM",
+      "segments": [
+        {
+          "text": "picture of general *flynn* who is the man",
+          "location": 1408
+        },
+        {
+          "text": "says *flynn* exonerated soon and then it",
+          "location": 1417
+        },
+        {
+          "text": "patriots protect patriots cue so *flynn*",
+          "location": 1422
+        },
+        {
+          "text": "*flynn* is gonna be exonerated soon and or",
+          "location": 1444
+        }
+      ]
+    },
+    {
+      "id": "Ff4fEQVTpSs",
+      "segments": [
+        {
+          "text": "jeff sessions and michael *flynn* and rex",
+          "location": 885
+        }
+      ]
+    },
+    {
+      "id": "fhyBcxyxbVI",
+      "segments": [
+        {
+          "text": "*flynn* news coming cue that's the next",
+          "location": 472
+        },
+        {
+          "text": "general *flynn* from serie a car tackle a",
+          "location": 485
+        },
+        {
+          "text": "save that one but yes *flynn* news is",
+          "location": 492
+        },
+        {
+          "text": "lieutenant general michael *flynn* was so",
+          "location": 677
+        },
+        {
+          "text": "sarah carter talking about general *flynn*",
+          "location": 1717
+        },
+        {
+          "text": "she's saying that michael *flynn* was",
+          "location": 1718
+        },
+        {
+          "text": "general *flynn* for his farah a violation",
+          "location": 1735
+        },
+        {
+          "text": "in order to defend general *flynn* he's",
+          "location": 1747
+        },
+        {
+          "text": "general *flynn* he was the one who went",
+          "location": 1755
+        },
+        {
+          "text": "talking about general *flynn* saying that",
+          "location": 1882
+        },
+        {
+          "text": "michael *flynn* changes a story putting",
+          "location": 1883
+        },
+        {
+          "text": "basically michael *flynn* backed off his",
+          "location": 1924
+        },
+        {
+          "text": "just thought you know so much *flynn* news",
+          "location": 1963
+        }
+      ]
+    },
+    {
+      "id": "FLYTjpU15No",
+      "segments": [
+        {
+          "text": "*flynn* page papadopoulos and mana for how",
+          "location": 568
+        },
+        {
+          "text": "*flynn* papadopoulos mana for and page and",
+          "location": 767
+        },
+        {
+          "text": "*flynn* and then it's gifts q gives us",
+          "location": 897
+        },
+        {
+          "text": "important *flynn* the early investigative",
+          "location": 990
+        }
+      ]
+    },
+    {
+      "id": "ft2oJSlNPtQ",
+      "segments": [
+        {
+          "text": "james comey then go to michael *flynn* if",
+          "location": 745
+        }
+      ]
+    },
+    {
+      "id": "g-KHTYSFJXA",
+      "segments": [
+        {
+          "text": "*flynn* it was paul may afford it was",
+          "location": 859
+        },
+        {
+          "text": "*flynn* page papadopoulos mana for and",
+          "location": 1222
+        },
+        {
+          "text": "they use paige to leapfrog to *flynn* and",
+          "location": 1328
+        },
+        {
+          "text": "everything was predicated off of *flynn*",
+          "location": 1336
+        },
+        {
+          "text": "manafort michael *flynn* being",
+          "location": 1383
+        }
+      ]
+    },
+    {
+      "id": "G2aQUZYgTL4",
+      "segments": [
+        {
+          "text": "general *flynn* his twitter background has",
+          "location": 1306
+        },
+        {
+          "text": "actions and thank you general *flynn* for",
+          "location": 1328
+        }
+      ]
+    },
+    {
+      "id": "GjQpoYm971o",
+      "segments": [
+        {
+          "text": "general *flynn* and this is pretty",
+          "location": 1034
+        },
+        {
+          "text": "show how general michael *flynn*",
+          "location": 1038
+        },
+        {
+          "text": "lieutenant general michael *flynn* was set",
+          "location": 1040
+        },
+        {
+          "text": "government but *flynn* replaced his",
+          "location": 1124
+        },
+        {
+          "text": "after all *flynn* said he knew federal",
+          "location": 1187
+        },
+        {
+          "text": "general flame lieutenant general *flynn*",
+          "location": 1253
+        },
+        {
+          "text": "it gave the general *flynn* case again a",
+          "location": 1759
+        },
+        {
+          "text": "link to that saying why would *flynn*",
+          "location": 1762
+        },
+        {
+          "text": "knows where the bodies are buried *flynn*",
+          "location": 1769
+        }
+      ]
+    },
+    {
+      "id": "GU2lVhxS9vY",
+      "segments": [
+        {
+          "text": "general *flynn* which we will watch right",
+          "location": 300
+        },
+        {
+          "text": "general *flynn* just outlined in that",
+          "location": 465
+        }
+      ]
+    },
+    {
+      "id": "HF1kNM1SZWw",
+      "segments": [
+        {
+          "text": "about general *flynn* and staff meetings",
+          "location": 928
+        },
+        {
+          "text": "papadopoulos paige *flynn* all the main",
+          "location": 1185
+        },
+        {
+          "text": "*flynn* had thises on them and that's the",
+          "location": 1276
+        }
+      ]
+    },
+    {
+      "id": "hfX559mxFQo",
+      "segments": [
+        {
+          "text": "general *flynn* and how this whole thing",
+          "location": 1435
+        }
+      ]
+    },
+    {
+      "id": "hIG3MjKRzBE",
+      "segments": [
+        {
+          "text": "and general *flynn* plus we talk about",
+          "location": 5
+        },
+        {
+          "text": "michael *flynn* now we're gonna start",
+          "location": 47
+        },
+        {
+          "text": "*flynn* and basically he's giving this a",
+          "location": 262
+        },
+        {
+          "text": "guaranteed rights and like general *flynn*",
+          "location": 981
+        }
+      ]
+    },
+    {
+      "id": "HkJj6tZtzKg",
+      "segments": [
+        {
+          "text": "*flynn* admiral rogers others involved who",
+          "location": 1981
+        }
+      ]
+    },
+    {
+      "id": "hKSHNiPdaQU",
+      "segments": [
+        {
+          "text": "army general michael *flynn* latest",
+          "location": 1730
+        }
+      ]
+    },
+    {
+      "id": "HTETmsKXnkE",
+      "segments": [
+        {
+          "text": "*flynn* it was to set up all these key",
+          "location": 845
+        }
+      ]
+    },
+    {
+      "id": "If2rCEuFeNY",
+      "segments": [
+        {
+          "text": "the wife of general michael *flynn*",
+          "location": 115
+        },
+        {
+          "text": "lieutenant general michael *flynn* and it",
+          "location": 117
+        },
+        {
+          "text": "god bless general mike *flynn* hashtag",
+          "location": 130
+        },
+        {
+          "text": "support patriots like general *flynn*",
+          "location": 158
+        },
+        {
+          "text": "look at general *flynn* through a",
+          "location": 175
+        },
+        {
+          "text": "to do with general michael *flynn* and",
+          "location": 234
+        }
+      ]
+    },
+    {
+      "id": "ijaW9oSwCw8",
+      "segments": [
+        {
+          "text": "thinking of general *flynn* and then",
+          "location": 533
+        },
+        {
+          "text": "general *flynn* changed his background",
+          "location": 535
+        },
+        {
+          "text": "of the right way or mike general *flynn*",
+          "location": 871
+        }
+      ]
+    },
+    {
+      "id": "J7b6SPEd0FA",
+      "segments": [
+        {
+          "text": "michael *flynn* so the same people who",
+          "location": 1589
+        },
+        {
+          "text": "out the doj admitted that michael *flynn*",
+          "location": 1621
+        }
+      ]
+    },
+    {
+      "id": "J8tQL-J1p-4",
+      "segments": [
+        {
+          "text": "we knew *flynn* would be challenged part",
+          "location": 1091
+        },
+        {
+          "text": "of plan *flynn* jr. recent did not lie to",
+          "location": 1093
+        },
+        {
+          "text": "they knew *flynn* would be challenged",
+          "location": 1152
+        },
+        {
+          "text": "*flynn* i think was a sacrificial pawn",
+          "location": 1155
+        },
+        {
+          "text": "talking about here is how *flynn* has been",
+          "location": 1192
+        },
+        {
+          "text": "flynn's son right michael *flynn* jr. who",
+          "location": 1198
+        },
+        {
+          "text": "general *flynn* did not lie depends or",
+          "location": 1206
+        },
+        {
+          "text": "basically from general *flynn* which they",
+          "location": 1244
+        },
+        {
+          "text": "problem for *flynn* where trump's talked",
+          "location": 1261
+        },
+        {
+          "text": "roughly or so and talking about *flynn*",
+          "location": 1272
+        },
+        {
+          "text": "two we're gonna see michael *flynn* get",
+          "location": 1280
+        },
+        {
+          "text": "for general *flynn* is going to help",
+          "location": 1380
+        }
+      ]
+    },
+    {
+      "id": "k2pfkR9ey1o",
+      "segments": [
+        {
+          "text": "issue who told us about *flynn* it would",
+          "location": 2453
+        }
+      ]
+    },
+    {
+      "id": "K68zHw0_xp8",
+      "segments": [
+        {
+          "text": "*flynn* when *flynn* was there and he was",
+          "location": 1040
+        }
+      ]
+    },
+    {
+      "id": "K6D4AseiyvA",
+      "segments": [
+        {
+          "text": "general *flynn* and his case being",
+          "location": 125
+        },
+        {
+          "text": "general *flynn* but will implicate other",
+          "location": 138
+        },
+        {
+          "text": "status from general michael *flynn*",
+          "location": 272
+        },
+        {
+          "text": "lieutenant general michael *flynn* where",
+          "location": 274
+        },
+        {
+          "text": "what they've delayed the general *flynn*",
+          "location": 415
+        },
+        {
+          "text": "that not only was general *flynn* set up",
+          "location": 434
+        },
+        {
+          "text": "*flynn* and or is it just going to show a",
+          "location": 507
+        },
+        {
+          "text": "against *flynn* and others associated with",
+          "location": 517
+        }
+      ]
+    },
+    {
+      "id": "k7HZG6YnFww",
+      "segments": [
+        {
+          "text": "general *flynn* and the prosecutor who",
+          "location": 68
+        },
+        {
+          "text": "general *flynn* who are now fighting for",
+          "location": 1365
+        },
+        {
+          "text": "who set up *flynn* the same investigators",
+          "location": 1374
+        },
+        {
+          "text": "who set up *flynn* and and went to the",
+          "location": 1377
+        },
+        {
+          "text": "people who took over the *flynn* case the",
+          "location": 1396
+        },
+        {
+          "text": "general *flynn* was called out in a story",
+          "location": 1466
+        },
+        {
+          "text": "general *flynn* has win on twitter on the",
+          "location": 1488
+        },
+        {
+          "text": "general *flynn* curtis suddenly over the",
+          "location": 1531
+        },
+        {
+          "text": "administration against *flynn* and others",
+          "location": 1577
+        },
+        {
+          "text": "general *flynn* who have to step down over",
+          "location": 1596
+        }
+      ]
+    },
+    {
+      "id": "kmxEhecyMN8",
+      "segments": [
+        {
+          "text": "lieutenant general michael *flynn* and it",
+          "location": 118
+        },
+        {
+          "text": "lieutenant general michael *flynn*",
+          "location": 137
+        },
+        {
+          "text": "said that no i guess that *flynn* that key",
+          "location": 212
+        },
+        {
+          "text": "saying like if if michael *flynn* goes and",
+          "location": 229
+        },
+        {
+          "text": "now *flynn* is telling us about this whole",
+          "location": 273
+        },
+        {
+          "text": "after *flynn* but the plan is very complex",
+          "location": 295
+        },
+        {
+          "text": "about general *flynn* but that's not the",
+          "location": 342
+        }
+      ]
+    },
+    {
+      "id": "kZSTJv4Hxk0",
+      "segments": [
+        {
+          "text": "bias right he's writing the 302 on *flynn*",
+          "location": 959
+        },
+        {
+          "text": "complete sham against *flynn* obviously",
+          "location": 967
+        },
+        {
+          "text": "*flynn* and yeah you should probably go",
+          "location": 986
+        }
+      ]
+    },
+    {
+      "id": "LniEKTpx8Qo",
+      "segments": [
+        {
+          "text": "*flynn* so i think there's some good",
+          "location": 462
+        }
+      ]
+    },
+    {
+      "id": "mBU8ggNgS8s",
+      "segments": [
+        {
+          "text": "wife fbi 302s fisa spy *flynn* will newly",
+          "location": 1181
+        },
+        {
+          "text": "*flynn* q so this is an interesting story",
+          "location": 1191
+        },
+        {
+          "text": "*flynn* why did flint have to leave the",
+          "location": 1376
+        },
+        {
+          "text": "*flynn* well this was the game from the",
+          "location": 1422
+        },
+        {
+          "text": "ago there's a reason why *flynn* pled",
+          "location": 1427
+        }
+      ]
+    },
+    {
+      "id": "mDGN4mIrYTs",
+      "segments": [
+        {
+          "text": "hillary clinton and general *flynn* so",
+          "location": 463
+        }
+      ]
+    },
+    {
+      "id": "NcQDwCqQeO0",
+      "segments": [
+        {
+          "text": "rush general *flynn* and how you know it's",
+          "location": 156
+        },
+        {
+          "text": "*flynn* but look at general *flynn* he lied",
+          "location": 203
+        },
+        {
+          "text": "something between general *flynn* and the",
+          "location": 240
+        },
+        {
+          "text": "in the meantime we wish general *flynn*",
+          "location": 246
+        },
+        {
+          "text": "the bat about russia general *flynn* and",
+          "location": 271
+        },
+        {
+          "text": "*flynn* and in the way that they",
+          "location": 340
+        },
+        {
+          "text": "general michael *flynn* was supposed to be",
+          "location": 378
+        },
+        {
+          "text": "reason why michael *flynn* got like go",
+          "location": 408
+        },
+        {
+          "text": "point for general *flynn* and not to be",
+          "location": 427
+        },
+        {
+          "text": "whole point for general *flynn*",
+          "location": 431
+        },
+        {
+          "text": "general *flynn* it was all set up so that",
+          "location": 459
+        },
+        {
+          "text": "michael *flynn* i'm sure it's gonna be",
+          "location": 674
+        },
+        {
+          "text": "russia and *flynn* and three questions",
+          "location": 761
+        },
+        {
+          "text": "the clarification on michael *flynn* has",
+          "location": 912
+        },
+        {
+          "text": "general *flynn*",
+          "location": 1039
+        },
+        {
+          "text": "russia *flynn* 15 questions and other",
+          "location": 1551
+        }
+      ]
+    },
+    {
+      "id": "O_aacfmu4kk",
+      "segments": [
+        {
+          "text": "*flynn* targeted why who knows where the",
+          "location": 703
+        },
+        {
+          "text": "*flynn* knew about everything they were",
+          "location": 710
+        },
+        {
+          "text": "stand out doing things but it's *flynn*",
+          "location": 733
+        }
+      ]
+    },
+    {
+      "id": "oC62RUXGAeo",
+      "segments": [
+        {
+          "text": "together that's what *flynn* tried to blow",
+          "location": 903
+        }
+      ]
+    },
+    {
+      "id": "oGgzXrlF0m4",
+      "segments": [
+        {
+          "text": "*flynn* is safe everyone needs to know",
+          "location": 444
+        },
+        {
+          "text": "that *flynn* is safe we need to pardon him",
+          "location": 446
+        },
+        {
+          "text": "weeks i think we're gonna see *flynn* get",
+          "location": 452
+        }
+      ]
+    },
+    {
+      "id": "OLDsP1BrbDU",
+      "segments": [
+        {
+          "text": "general *flynn* and the rest they knew",
+          "location": 789
+        }
+      ]
+    },
+    {
+      "id": "oXoEIlNO77U",
+      "segments": [
+        {
+          "text": "into what's happening with general *flynn*",
+          "location": 137
+        },
+        {
+          "text": "one p *flynn* interview if fisa warrant",
+          "location": 278
+        },
+        {
+          "text": "what happened today with general *flynn*",
+          "location": 298
+        },
+        {
+          "text": "*flynn* is actually on trial now because",
+          "location": 302
+        },
+        {
+          "text": "general *flynn* and catch him in this sort",
+          "location": 316
+        },
+        {
+          "text": "happened to general *flynn* this is really",
+          "location": 421
+        },
+        {
+          "text": "well *flynn* was basically given an ambush",
+          "location": 424
+        },
+        {
+          "text": "reasonable cause for *flynn* to be forced",
+          "location": 452
+        },
+        {
+          "text": "happened when *flynn* pleaded guilty it",
+          "location": 457
+        },
+        {
+          "text": "*flynn* agreed to waive certain rights",
+          "location": 513
+        },
+        {
+          "text": "that *flynn* pleading guilty was a way to",
+          "location": 667
+        }
+      ]
+    },
+    {
+      "id": "P2YYC5MMzFc",
+      "segments": [
+        {
+          "text": "q post talking about *flynn* and what was",
+          "location": 902
+        }
+      ]
+    },
+    {
+      "id": "pRriJNgzrcs",
+      "segments": [
+        {
+          "text": "*flynn* and the 3:02 and the falsifying of",
+          "location": 1031
+        }
+      ]
+    },
+    {
+      "id": "Q8C-i61AH9Q",
+      "segments": [
+        {
+          "text": "*flynn* here retweeting that story that",
+          "location": 915
+        },
+        {
+          "text": "general *flynn* knew where all the bodies",
+          "location": 936
+        },
+        {
+          "text": "silence general *flynn* but general *flynn*",
+          "location": 962
+        }
+      ]
+    },
+    {
+      "id": "Qi1p1ciC6ig",
+      "segments": [
+        {
+          "text": "think that's going on with like *flynn*",
+          "location": 720
+        }
+      ]
+    },
+    {
+      "id": "R0kUC-zTi_w",
+      "segments": [
+        {
+          "text": "person not michael *flynn* not roger stone",
+          "location": 287
+        }
+      ]
+    },
+    {
+      "id": "R1LjmP8-04A",
+      "segments": [
+        {
+          "text": "after general *flynn* for violating and",
+          "location": 359
+        }
+      ]
+    },
+    {
+      "id": "RU7GoALMyfc",
+      "segments": [
+        {
+          "text": "michael *flynn* said why he got in trouble",
+          "location": 431
+        },
+        {
+          "text": "here that you have *flynn* was targeted",
+          "location": 854
+        }
+      ]
+    },
+    {
+      "id": "RWwMA7NgHPw",
+      "segments": [
+        {
+          "text": "they've argued general *flynn* and his",
+          "location": 1148
+        },
+        {
+          "text": "that general *flynn* was set up so they're",
+          "location": 1173
+        },
+        {
+          "text": "exoneration for general *flynn*",
+          "location": 1188
+        }
+      ]
+    },
+    {
+      "id": "STeFcjPilJQ",
+      "segments": [
+        {
+          "text": "michael *flynn* the the the findings of",
+          "location": 787
+        }
+      ]
+    },
+    {
+      "id": "tHP9ltlAus8",
+      "segments": [
+        {
+          "text": "*flynn* now why would they do that they're",
+          "location": 279
+        },
+        {
+          "text": "*flynn* and his attorney sidney powell",
+          "location": 301
+        },
+        {
+          "text": "against general *flynn* is withholding",
+          "location": 307
+        },
+        {
+          "text": "*flynn* with the hammer now i'm gonna stop",
+          "location": 438
+        },
+        {
+          "text": "the doj hid from general *flynn* and from",
+          "location": 475
+        },
+        {
+          "text": "*flynn* and his defense team that brennan",
+          "location": 488
+        },
+        {
+          "text": "to wiretap *flynn* as well as donald trump",
+          "location": 492
+        },
+        {
+          "text": "general *flynn* donald trump rudy giuliani",
+          "location": 504
+        },
+        {
+          "text": "general *flynn* is",
+          "location": 536
+        },
+        {
+          "text": "basically everyone from general *flynn* to",
+          "location": 580
+        },
+        {
+          "text": "lieutenant general michael *flynn* so",
+          "location": 617
+        }
+      ]
+    },
+    {
+      "id": "Tnrn3L8FY0I",
+      "segments": [
+        {
+          "text": "security adviser mike *flynn* because he",
+          "location": 862
+        },
+        {
+          "text": "then that's okay but if general *flynn*",
+          "location": 912
+        }
+      ]
+    },
+    {
+      "id": "tvC2gQ4AczY",
+      "segments": [
+        {
+          "text": "charge of the interviewing general *flynn*",
+          "location": 470
+        }
+      ]
+    },
+    {
+      "id": "uNbF9eE8iQo",
+      "segments": [
+        {
+          "text": "relevant *flynn* what is flint's",
+          "location": 170
+        }
+      ]
+    },
+    {
+      "id": "V5UBaiLKTJ8",
+      "segments": [
+        {
+          "text": "to general *flynn* what they've done to",
+          "location": 53
+        }
+      ]
+    },
+    {
+      "id": "VAb-q4zZZ84",
+      "segments": [
+        {
+          "text": "michael *flynn* and this was their their",
+          "location": 825
+        }
+      ]
+    },
+    {
+      "id": "VDegR-PmnPY",
+      "segments": [
+        {
+          "text": "general *flynn* and his latest change of",
+          "location": 7
+        },
+        {
+          "text": "we're gonna talk about general *flynn*",
+          "location": 34
+        },
+        {
+          "text": "talk about general *flynn* now where are",
+          "location": 52
+        },
+        {
+          "text": "a general *flynn* subsequently",
+          "location": 131
+        }
+      ]
+    },
+    {
+      "id": "VDNvoDprdXw",
+      "segments": [
+        {
+          "text": "*flynn* says you talked early about",
+          "location": 1576
+        },
+        {
+          "text": "michael *flynn* his phone call with the",
+          "location": 1577
+        }
+      ]
+    },
+    {
+      "id": "wLKBFYSG524",
+      "segments": [
+        {
+          "text": "with regard to general *flynn* and then",
+          "location": 527
+        }
+      ]
+    },
+    {
+      "id": "wwoXSecjUy0",
+      "segments": [
+        {
+          "text": "is is determine who leaked the *flynn*",
+          "location": 519
+        }
+      ]
+    },
+    {
+      "id": "X6DgdzLcbTc",
+      "segments": [
+        {
+          "text": "*flynn* probe the nfl anthem people have",
+          "location": 1295
+        }
+      ]
+    },
+    {
+      "id": "x8rM1oZB8U8",
+      "segments": [
+        {
+          "text": "*flynn* and the drummed up controversy",
+          "location": 995
+        },
+        {
+          "text": "kids lyac *flynn* connection and pushed",
+          "location": 1004
+        },
+        {
+          "text": "interviewing general *flynn* the guy who",
+          "location": 1242
+        }
+      ]
+    },
+    {
+      "id": "xot9iXQ-zBA",
+      "segments": [
+        {
+          "text": "obviously and michael *flynn* is still",
+          "location": 716
+        },
+        {
+          "text": "carter page general michael *flynn* all",
+          "location": 726
+        },
+        {
+          "text": "carter paige then paige talks to *flynn*",
+          "location": 1069
+        }
+      ]
+    },
+    {
+      "id": "xTJgKGF--OQ",
+      "segments": [
+        {
+          "text": "*flynn* is pretty incredible we're going",
+          "location": 443
+        },
+        {
+          "text": "frame general *flynn* for things he didn't",
+          "location": 462
+        },
+        {
+          "text": "kill shot on *flynn* literally it says",
+          "location": 688
+        },
+        {
+          "text": "illegally right *flynn* as an example",
+          "location": 756
+        }
+      ]
+    },
+    {
+      "id": "ygVJlwArt0A",
+      "segments": [
+        {
+          "text": "talks about michael *flynn* is to be the",
+          "location": 444
+        },
+        {
+          "text": "whole case about *flynn* really has to do",
+          "location": 486
+        },
+        {
+          "text": "down on *flynn* but this shows that he's",
+          "location": 513
+        },
+        {
+          "text": "there's three there's *flynn* was with",
+          "location": 524
+        },
+        {
+          "text": "broadly and *flynn* like everyone has said",
+          "location": 596
+        },
+        {
+          "text": "michael *flynn* and what's going to be",
+          "location": 647
+        }
+      ]
+    },
+    {
+      "id": "YkrFx8fhafI",
+      "segments": [
+        {
+          "text": "the president and general *flynn* and",
+          "location": 519
+        }
+      ]
+    },
+    {
+      "id": "zJoO_HiEUno",
+      "segments": [
+        {
+          "text": "says *flynn* should be happy and then it",
+          "location": 1021
+        }
+      ]
+    }
+  ]
+}

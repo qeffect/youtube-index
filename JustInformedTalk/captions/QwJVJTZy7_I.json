@@ -1,0 +1,1757 @@
+[
+  {
+    "start": 2.41,
+    "duraction": 3.239,
+    "value": "[Music]"
+  },
+  {
+    "start": 5.67,
+    "duraction": 4.799,
+    "value": "second area fake news this is a hard"
+  },
+  {
+    "start": 7.89,
+    "duraction": 4.079,
+    "value": "area you know a year ago we didn't have"
+  },
+  {
+    "start": 10.469,
+    "duraction": 2.941,
+    "value": "the term fake news now everything you"
+  },
+  {
+    "start": 11.969,
+    "duraction": 3.441,
+    "value": "spit about fake newts we hear about it"
+  },
+  {
+    "start": 13.41,
+    "duraction": 4.53,
+    "value": "every single day it's had a lot of"
+  },
+  {
+    "start": 15.41,
+    "duraction": 5.41,
+    "value": "concerns about effective election how"
+  },
+  {
+    "start": 17.94,
+    "duraction": 4.71,
+    "value": "affects politics news is important to us"
+  },
+  {
+    "start": 20.82,
+    "duraction": 3.78,
+    "value": "we are a platform with global"
+  },
+  {
+    "start": 22.65,
+    "duraction": 3.9,
+    "value": "distribution and we talked about the"
+  },
+  {
+    "start": 24.6,
+    "duraction": 4.14,
+    "value": "number of users are coming to us we have"
+  },
+  {
+    "start": 26.55,
+    "duraction": 3.54,
+    "value": "self responsibility to make sure that we"
+  },
+  {
+    "start": 28.74,
+    "duraction": 2.73,
+    "value": "are delivering the news when something"
+  },
+  {
+    "start": 30.09,
+    "duraction": 3.27,
+    "value": "important happens from the world when"
+  },
+  {
+    "start": 31.47,
+    "duraction": 3.66,
+    "value": "there's a crisis we think people could"
+  },
+  {
+    "start": 33.36,
+    "duraction": 3.33,
+    "value": "benefit from this news so it's news"
+  },
+  {
+    "start": 35.13,
+    "duraction": 4.019,
+    "value": "that's always been important in YouTube"
+  },
+  {
+    "start": 36.69,
+    "duraction": 4.049,
+    "value": "we also see people in locations like"
+  },
+  {
+    "start": 39.149,
+    "duraction": 3.781,
+    "value": "Syria where their traditional news"
+  },
+  {
+    "start": 40.739,
+    "duraction": 4.371,
+    "value": "organizations can't get to and people"
+  },
+  {
+    "start": 42.93,
+    "duraction": 5.809,
+    "value": "are talking about citizen journalism"
+  },
+  {
+    "start": 45.11,
+    "duraction": 7.359,
+    "value": "coming out of Syria so what are we doing"
+  },
+  {
+    "start": 48.739,
+    "duraction": 5.5,
+    "value": "basically this sounds easy but it's"
+  },
+  {
+    "start": 52.469,
+    "duraction": 4.261,
+    "value": "really hard to do we're pushing down the"
+  },
+  {
+    "start": 54.239,
+    "duraction": 4.291,
+    "value": "take news we're demoting it and we are"
+  },
+  {
+    "start": 56.73,
+    "duraction": 4.8,
+    "value": "increasing the authoritative news and"
+  },
+  {
+    "start": 58.53,
+    "duraction": 4.59,
+    "value": "promoting it how do we do that we have a"
+  },
+  {
+    "start": 61.53,
+    "duraction": 3.599,
+    "value": "whole system we came up with trashy news"
+  },
+  {
+    "start": 63.12,
+    "duraction": 4.289,
+    "value": "where we have build classifiers we"
+  },
+  {
+    "start": 65.129,
+    "duraction": 5.131,
+    "value": "identify it we look for salacious for"
+  },
+  {
+    "start": 67.409,
+    "duraction": 4.951,
+    "value": "clickbait content that isn't that we"
+  },
+  {
+    "start": 70.26,
+    "duraction": 3.899,
+    "value": "don't think is you know the"
+  },
+  {
+    "start": 72.36,
+    "duraction": 3.42,
+    "value": "authoritative news it's just kind of"
+  },
+  {
+    "start": 74.159,
+    "duraction": 3.871,
+    "value": "encouraging people to look at but it's"
+  },
+  {
+    "start": 75.78,
+    "duraction": 5.159,
+    "value": "not true with trainee we added these"
+  },
+  {
+    "start": 78.03,
+    "duraction": 5.64,
+    "value": "instructions to our readers and we've"
+  },
+  {
+    "start": 80.939,
+    "duraction": 4.951,
+    "value": "updated our classifiers and we are"
+  },
+  {
+    "start": 83.67,
+    "duraction": 3.72,
+    "value": "working to understand identify that with"
+  },
+  {
+    "start": 85.89,
+    "duraction": 3.36,
+    "value": "machine learning and then to push that"
+  },
+  {
+    "start": 87.39,
+    "duraction": 3.57,
+    "value": "down and then we're increasing our"
+  },
+  {
+    "start": 89.25,
+    "duraction": 3.479,
+    "value": "authoritative news we're doing that with"
+  },
+  {
+    "start": 90.96,
+    "duraction": 3.6,
+    "value": "things like I'm a breaking news shelf"
+  },
+  {
+    "start": 92.729,
+    "duraction": 3.631,
+    "value": "and we're treating it in the US and"
+  },
+  {
+    "start": 94.56,
+    "duraction": 3.57,
+    "value": "France in the UK and more countries"
+  },
+  {
+    "start": 96.36,
+    "duraction": 3.48,
+    "value": "coming soon well we have sources that"
+  },
+  {
+    "start": 98.13,
+    "duraction": 3.72,
+    "value": "come from reputable sources we work with"
+  },
+  {
+    "start": 99.84,
+    "duraction": 4.26,
+    "value": "Google News on that I'm to define what"
+  },
+  {
+    "start": 101.85,
+    "duraction": 3.51,
+    "value": "those reputable sources are it triggered"
+  },
+  {
+    "start": 104.1,
+    "duraction": 3.42,
+    "value": "last week in the London"
+  },
+  {
+    "start": 105.36,
+    "duraction": 3.72,
+    "value": "two taps it's also gonna trigger on"
+  },
+  {
+    "start": 107.52,
+    "duraction": 2.67,
+    "value": "search when you type in something you're"
+  },
+  {
+    "start": 109.08,
+    "duraction": 4.56,
+    "value": "looking for a news event you're gonna"
+  },
+  {
+    "start": 110.19,
+    "duraction": 4.98,
+    "value": "see news there we're also working with a"
+  },
+  {
+    "start": 113.64,
+    "duraction": 2.61,
+    "value": "lot more news publishers these"
+  },
+  {
+    "start": 115.17,
+    "duraction": 2.28,
+    "value": "publishers don't want to be in the"
+  },
+  {
+    "start": 116.25,
+    "duraction": 3.78,
+    "value": "technical business of running their own"
+  },
+  {
+    "start": 117.45,
+    "duraction": 3.84,
+    "value": "player we can do that for them and we"
+  },
+  {
+    "start": 120.03,
+    "duraction": 2.49,
+    "value": "also want to get more news players on"
+  },
+  {
+    "start": 121.29,
+    "duraction": 3.93,
+    "value": "the platform we have the goal of getting"
+  },
+  {
+    "start": 122.52,
+    "duraction": 6.36,
+    "value": "over 100 new news providers on our"
+  },
+  {
+    "start": 125.22,
+    "duraction": 5.37,
+    "value": "platform this year now the look on this"
+  },
+  {
+    "start": 128.88,
+    "duraction": 4.86,
+    "value": "of sort of just informed talk they've"
+  },
+  {
+    "start": 130.59,
+    "duraction": 5.21,
+    "value": "finally succeeded in turning YouTube"
+  },
+  {
+    "start": 133.74,
+    "duraction": 5.1,
+    "value": "into the Orwellian thought police"
+  },
+  {
+    "start": 135.8,
+    "duraction": 5.5,
+    "value": "Central Command we're gonna take a look"
+  },
+  {
+    "start": 138.84,
+    "duraction": 5.61,
+    "value": "at the latest push by YouTube to"
+  },
+  {
+    "start": 141.3,
+    "duraction": 7.29,
+    "value": "literally go in and take out entire"
+  },
+  {
+    "start": 144.45,
+    "duraction": 6.45,
+    "value": "swathes entire videos just because two"
+  },
+  {
+    "start": 148.59,
+    "duraction": 4.17,
+    "value": "words were said you guys have to stick"
+  },
+  {
+    "start": 150.9,
+    "duraction": 4.44,
+    "value": "around to check this out this is very"
+  },
+  {
+    "start": 152.76,
+    "duraction": 4.199,
+    "value": "disturbing and I just want to feel you"
+  },
+  {
+    "start": 155.34,
+    "duraction": 2.54,
+    "value": "get in on what's going on so check this"
+  },
+  {
+    "start": 156.959,
+    "duraction": 4.201,
+    "value": "out"
+  },
+  {
+    "start": 157.88,
+    "duraction": 5.77,
+    "value": "hey guys it's Craig from just informed"
+  },
+  {
+    "start": 161.16,
+    "duraction": 5.13,
+    "value": "talk here wanna bring you a really quick"
+  },
+  {
+    "start": 163.65,
+    "duraction": 5.7,
+    "value": "update I know this isn't the normal"
+  },
+  {
+    "start": 166.29,
+    "duraction": 5.78,
+    "value": "format for my videos and I know this may"
+  },
+  {
+    "start": 169.35,
+    "duraction": 5.31,
+    "value": "seem a little odd but I'll explain"
+  },
+  {
+    "start": 172.07,
+    "duraction": 5.35,
+    "value": "something really incredible happen now"
+  },
+  {
+    "start": 174.66,
+    "duraction": 4.799,
+    "value": "up until this point YouTube has been"
+  },
+  {
+    "start": 177.42,
+    "duraction": 4.11,
+    "value": "pushing the limit they keep pushing the"
+  },
+  {
+    "start": 179.459,
+    "duraction": 3.78,
+    "value": "envelope as far as censorship and how"
+  },
+  {
+    "start": 181.53,
+    "duraction": 5.16,
+    "value": "they're going to continue to suppress"
+  },
+  {
+    "start": 183.239,
+    "duraction": 7.53,
+    "value": "content and they've finally in my"
+  },
+  {
+    "start": 186.69,
+    "duraction": 6.21,
+    "value": "opinion just cross the line and this is"
+  },
+  {
+    "start": 190.769,
+    "duraction": 6.53,
+    "value": "an actual plea to the president United"
+  },
+  {
+    "start": 192.9,
+    "duraction": 6.69,
+    "value": "States to Senators representatives"
+  },
+  {
+    "start": 197.299,
+    "duraction": 5.231,
+    "value": "anyone out there who actually has a"
+  },
+  {
+    "start": 199.59,
+    "duraction": 6.48,
+    "value": "voice and even just you as the American"
+  },
+  {
+    "start": 202.53,
+    "duraction": 6.36,
+    "value": "people who can actually talk YouTube's"
+  },
+  {
+    "start": 206.07,
+    "duraction": 4.83,
+    "value": "crossed the line they have come in and"
+  },
+  {
+    "start": 208.89,
+    "duraction": 5.01,
+    "value": "they've literally gone on the back end"
+  },
+  {
+    "start": 210.9,
+    "duraction": 5.19,
+    "value": "of this channel and they've actually"
+  },
+  {
+    "start": 213.9,
+    "duraction": 4.77,
+    "value": "taken videos down now they haven't even"
+  },
+  {
+    "start": 216.09,
+    "duraction": 5.28,
+    "value": "taken them down they've done what I'm"
+  },
+  {
+    "start": 218.67,
+    "duraction": 4.53,
+    "value": "gonna call a soft takedown that's what"
+  },
+  {
+    "start": 221.37,
+    "duraction": 4.5,
+    "value": "I'm gonna call it where they've gone in"
+  },
+  {
+    "start": 223.2,
+    "duraction": 6.99,
+    "value": "they've taken my videos off of public"
+  },
+  {
+    "start": 225.87,
+    "duraction": 7.56,
+    "value": "and made them private and from what I'm"
+  },
+  {
+    "start": 230.19,
+    "duraction": 6.89,
+    "value": "hearing on social media it's because I"
+  },
+  {
+    "start": 233.43,
+    "duraction": 5.87,
+    "value": "said the name of the whistleblower on"
+  },
+  {
+    "start": 237.08,
+    "duraction": 5.67,
+    "value": "two of my videos a public"
+  },
+  {
+    "start": 239.3,
+    "duraction": 6.21,
+    "value": "we available fact that's written about"
+  },
+  {
+    "start": 242.75,
+    "duraction": 6.6,
+    "value": "across the internet as a matter of fact"
+  },
+  {
+    "start": 245.51,
+    "duraction": 6.57,
+    "value": "you could actually go on google type in"
+  },
+  {
+    "start": 249.35,
+    "duraction": 4.65,
+    "value": "the whistleblower and I'm sure you'll"
+  },
+  {
+    "start": 252.08,
+    "duraction": 7.23,
+    "value": "pull up a bunch of articles that show"
+  },
+  {
+    "start": 254.0,
+    "duraction": 7.11,
+    "value": "you him and his name so what's happened"
+  },
+  {
+    "start": 259.31,
+    "duraction": 4.5,
+    "value": "here well let me explain this to you"
+  },
+  {
+    "start": 261.11,
+    "duraction": 4.5,
+    "value": "first here's the back end you can see"
+  },
+  {
+    "start": 263.81,
+    "duraction": 3.99,
+    "value": "you know they already demonetised"
+  },
+  {
+    "start": 265.61,
+    "duraction": 4.32,
+    "value": "everything I do no matter what so there"
+  },
+  {
+    "start": 267.8,
+    "duraction": 3.21,
+    "value": "is no ads running on any of this so"
+  },
+  {
+    "start": 269.93,
+    "duraction": 4.35,
+    "value": "they've already put me in that category"
+  },
+  {
+    "start": 271.01,
+    "duraction": 6.81,
+    "value": "and they're actually looking to update"
+  },
+  {
+    "start": 274.28,
+    "duraction": 5.46,
+    "value": "their Terms of Service in December in"
+  },
+  {
+    "start": 277.82,
+    "duraction": 3.72,
+    "value": "about a month so you know this is going"
+  },
+  {
+    "start": 279.74,
+    "duraction": 5.07,
+    "value": "to get worse trust me this is gonna get"
+  },
+  {
+    "start": 281.54,
+    "duraction": 4.95,
+    "value": "much worse but this is the beginning now"
+  },
+  {
+    "start": 284.81,
+    "duraction": 3.6,
+    "value": "let me show you what they did as I've"
+  },
+  {
+    "start": 286.49,
+    "duraction": 3.36,
+    "value": "explained to you before let me kind of"
+  },
+  {
+    "start": 288.41,
+    "duraction": 7.1,
+    "value": "explain how this all works"
+  },
+  {
+    "start": 289.85,
+    "duraction": 7.83,
+    "value": "so you have this system right here where"
+  },
+  {
+    "start": 295.51,
+    "duraction": 4.78,
+    "value": "YouTube when you upload a video it"
+  },
+  {
+    "start": 297.68,
+    "duraction": 5.28,
+    "value": "processes your video so it takes your"
+  },
+  {
+    "start": 300.29,
+    "duraction": 3.93,
+    "value": "video and then uploads the raw video and"
+  },
+  {
+    "start": 302.96,
+    "duraction": 3.06,
+    "value": "then it does this thing called"
+  },
+  {
+    "start": 304.22,
+    "duraction": 4.35,
+    "value": "processing and what's it doing during"
+  },
+  {
+    "start": 306.02,
+    "duraction": 4.77,
+    "value": "that processing well it's using all"
+  },
+  {
+    "start": 308.57,
+    "duraction": 6.27,
+    "value": "these different complex algorithms to"
+  },
+  {
+    "start": 310.79,
+    "duraction": 8.01,
+    "value": "take all of the the cues from your video"
+  },
+  {
+    "start": 314.84,
+    "duraction": 5.85,
+    "value": "ie the speech or pictures and you know"
+  },
+  {
+    "start": 318.8,
+    "duraction": 4.14,
+    "value": "as far as like copyrighted content runs"
+  },
+  {
+    "start": 320.69,
+    "duraction": 3.9,
+    "value": "it through all these filters right to"
+  },
+  {
+    "start": 322.94,
+    "duraction": 4.05,
+    "value": "make sure that you're not you know"
+  },
+  {
+    "start": 324.59,
+    "duraction": 4.92,
+    "value": "putting putting up a full version of the"
+  },
+  {
+    "start": 326.99,
+    "duraction": 5.01,
+    "value": "Titanic or you know ripping off somebody"
+  },
+  {
+    "start": 329.51,
+    "duraction": 6.09,
+    "value": "songs or just ripping off other people's"
+  },
+  {
+    "start": 332.0,
+    "duraction": 5.37,
+    "value": "videos or in this case they've decided"
+  },
+  {
+    "start": 335.6,
+    "duraction": 3.21,
+    "value": "to start gaming this algorithm now we"
+  },
+  {
+    "start": 337.37,
+    "duraction": 2.88,
+    "value": "talked about this before this has been a"
+  },
+  {
+    "start": 338.81,
+    "duraction": 3.48,
+    "value": "creeping thing and I've already told you"
+  },
+  {
+    "start": 340.25,
+    "duraction": 6.84,
+    "value": "guys it's death by a thousand cuts here"
+  },
+  {
+    "start": 342.29,
+    "duraction": 8.15,
+    "value": "right their plan is to slowly take more"
+  },
+  {
+    "start": 347.09,
+    "duraction": 7.5,
+    "value": "and more and more and incrementally"
+  },
+  {
+    "start": 350.44,
+    "duraction": 6.25,
+    "value": "destroy any dissent right and they're"
+  },
+  {
+    "start": 354.59,
+    "duraction": 4.68,
+    "value": "doing this right now and now this is"
+  },
+  {
+    "start": 356.69,
+    "duraction": 5.94,
+    "value": "their next subtle push right please"
+  },
+  {
+    "start": 359.27,
+    "duraction": 5.61,
+    "value": "President Trump Donald jr. anybody who's"
+  },
+  {
+    "start": 362.63,
+    "duraction": 3.87,
+    "value": "watching this channel anybody share this"
+  },
+  {
+    "start": 364.88,
+    "duraction": 4.2,
+    "value": "video get this out there because look"
+  },
+  {
+    "start": 366.5,
+    "duraction": 4.41,
+    "value": "this is what they're doing now when they"
+  },
+  {
+    "start": 369.08,
+    "duraction": 3.209,
+    "value": "ran these videos these two videos I"
+  },
+  {
+    "start": 370.91,
+    "duraction": 4.229,
+    "value": "guess that I did"
+  },
+  {
+    "start": 372.289,
+    "duraction": 7.38,
+    "value": "through the smart learning at Google"
+  },
+  {
+    "start": 375.139,
+    "duraction": 5.851,
+    "value": "they must have heard I guess me"
+  },
+  {
+    "start": 379.669,
+    "duraction": 5.52,
+    "value": "mentioned the name of the the"
+  },
+  {
+    "start": 380.99,
+    "duraction": 5.009,
+    "value": "whistleblower so and I guess I can't I"
+  },
+  {
+    "start": 385.189,
+    "duraction": 2.641,
+    "value": "don't even want to say the"
+  },
+  {
+    "start": 385.999,
+    "duraction": 4.2,
+    "value": "whistleblowers name now because this"
+  },
+  {
+    "start": 387.83,
+    "duraction": 5.85,
+    "value": "video will be taken down and made"
+  },
+  {
+    "start": 390.199,
+    "duraction": 5.19,
+    "value": "private right this is insanity"
+  },
+  {
+    "start": 393.68,
+    "duraction": 4.199,
+    "value": "because there's a lot of content I mean"
+  },
+  {
+    "start": 395.389,
+    "duraction": 4.89,
+    "value": "I said the whistleblowers name like once"
+  },
+  {
+    "start": 397.879,
+    "duraction": 6.78,
+    "value": "or twice in both these videos and you"
+  },
+  {
+    "start": 400.279,
+    "duraction": 7.95,
+    "value": "have a lot of content gone hundreds if"
+  },
+  {
+    "start": 404.659,
+    "duraction": 6.26,
+    "value": "not thousands of comments gone over a"
+  },
+  {
+    "start": 408.229,
+    "duraction": 5.28,
+    "value": "hundred and twenty thousand views gone"
+  },
+  {
+    "start": 410.919,
+    "duraction": 5.23,
+    "value": "right and I can't do anything to take it"
+  },
+  {
+    "start": 413.509,
+    "duraction": 5.25,
+    "value": "back watch you know you can click and"
+  },
+  {
+    "start": 416.149,
+    "duraction": 6.89,
+    "value": "hit public and then hit save and it just"
+  },
+  {
+    "start": 418.759,
+    "duraction": 8.791,
+    "value": "says sorry we're not able to do that so"
+  },
+  {
+    "start": 423.039,
+    "duraction": 6.22,
+    "value": "this is insanity this is or well times a"
+  },
+  {
+    "start": 427.55,
+    "duraction": 4.619,
+    "value": "hundred this is cop gas this is getting"
+  },
+  {
+    "start": 429.259,
+    "duraction": 5.34,
+    "value": "into the the realm of just a violation"
+  },
+  {
+    "start": 432.169,
+    "duraction": 4.86,
+    "value": "of free speech because you know it's one"
+  },
+  {
+    "start": 434.599,
+    "duraction": 4.261,
+    "value": "thing oh I get it you know you guys all"
+  },
+  {
+    "start": 437.029,
+    "duraction": 3.99,
+    "value": "ovals you're just complaining because"
+  },
+  {
+    "start": 438.86,
+    "duraction": 3.75,
+    "value": "they took away your monetization yeah a"
+  },
+  {
+    "start": 441.019,
+    "duraction": 4.02,
+    "value": "lot of it had to do with the fact that I"
+  },
+  {
+    "start": 442.61,
+    "duraction": 5.19,
+    "value": "knew it wasn't just the monetization it"
+  },
+  {
+    "start": 445.039,
+    "duraction": 5.28,
+    "value": "was suppressing this content suppressing"
+  },
+  {
+    "start": 447.8,
+    "duraction": 4.949,
+    "value": "the views taking it out of the suggested"
+  },
+  {
+    "start": 450.319,
+    "duraction": 5.07,
+    "value": "videos it's all a part of a broader"
+  },
+  {
+    "start": 452.749,
+    "duraction": 5.01,
+    "value": "scheme to try to keep information from"
+  },
+  {
+    "start": 455.389,
+    "duraction": 5.911,
+    "value": "you the American people these are"
+  },
+  {
+    "start": 457.759,
+    "duraction": 5.22,
+    "value": "criminals that we're talking about here"
+  },
+  {
+    "start": 461.3,
+    "duraction": 4.169,
+    "value": "and the fact that we're having that"
+  },
+  {
+    "start": 462.979,
+    "duraction": 5.97,
+    "value": "conversation scares those who are in"
+  },
+  {
+    "start": 465.469,
+    "duraction": 5.16,
+    "value": "control because they're not we're not"
+  },
+  {
+    "start": 468.949,
+    "duraction": 4.411,
+    "value": "the gatekeepers they are the gatekeepers"
+  },
+  {
+    "start": 470.629,
+    "duraction": 4.951,
+    "value": "so here they are shutting a gate they"
+  },
+  {
+    "start": 473.36,
+    "duraction": 3.839,
+    "value": "are taking videos down they've taken the"
+  },
+  {
+    "start": 475.58,
+    "duraction": 3.66,
+    "value": "speech-to-text they must have caught"
+  },
+  {
+    "start": 477.199,
+    "duraction": 3.661,
+    "value": "where I said this person's name a couple"
+  },
+  {
+    "start": 479.24,
+    "duraction": 4.259,
+    "value": "times and now these videos are"
+  },
+  {
+    "start": 480.86,
+    "duraction": 5.099,
+    "value": "automatically put in private mode where"
+  },
+  {
+    "start": 483.499,
+    "duraction": 4.861,
+    "value": "you can't you can't see them you can't"
+  },
+  {
+    "start": 485.959,
+    "duraction": 4.41,
+    "value": "watch them you can't comment on them all"
+  },
+  {
+    "start": 488.36,
+    "duraction": 5.669,
+    "value": "the comments are gone I can't even go"
+  },
+  {
+    "start": 490.369,
+    "duraction": 5.34,
+    "value": "back and see what people said so is this"
+  },
+  {
+    "start": 494.029,
+    "duraction": 3.48,
+    "value": "the new world that YouTube wants us to"
+  },
+  {
+    "start": 495.709,
+    "duraction": 5.341,
+    "value": "live in where they're going to be the"
+  },
+  {
+    "start": 497.509,
+    "duraction": 5.45,
+    "value": "arbiters of thought because this is"
+  },
+  {
+    "start": 501.05,
+    "duraction": 4.69,
+    "value": "thought policing right"
+  },
+  {
+    "start": 502.959,
+    "duraction": 7.131,
+    "value": "this is literally"
+  },
+  {
+    "start": 505.74,
+    "duraction": 6.359,
+    "value": "Orwell 1984 memory hold down gone"
+  },
+  {
+    "start": 510.09,
+    "duraction": 3.749,
+    "value": "forever never to be seen again and all"
+  },
+  {
+    "start": 512.099,
+    "duraction": 4.44,
+    "value": "the there's so much information in these"
+  },
+  {
+    "start": 513.839,
+    "duraction": 5.07,
+    "value": "videos that's so important that hundred"
+  },
+  {
+    "start": 516.539,
+    "duraction": 5.341,
+    "value": "over a hundred thousand people watched"
+  },
+  {
+    "start": 518.909,
+    "duraction": 5.07,
+    "value": "right that's why they're shutting it"
+  },
+  {
+    "start": 521.88,
+    "duraction": 4.44,
+    "value": "down and you can tell by latest video if"
+  },
+  {
+    "start": 523.979,
+    "duraction": 6.091,
+    "value": "they've just completely suppressed that"
+  },
+  {
+    "start": 526.32,
+    "duraction": 6.54,
+    "value": "and you know look I don't know where"
+  },
+  {
+    "start": 530.07,
+    "duraction": 4.56,
+    "value": "this goes next I'm gonna talk to some"
+  },
+  {
+    "start": 532.86,
+    "duraction": 3.93,
+    "value": "people and we're gonna get together and"
+  },
+  {
+    "start": 534.63,
+    "duraction": 5.34,
+    "value": "and this has to be a free speech issue"
+  },
+  {
+    "start": 536.79,
+    "duraction": 5.52,
+    "value": "because this is this is insanity I don't"
+  },
+  {
+    "start": 539.97,
+    "duraction": 4.8,
+    "value": "even know how did how to address this"
+  },
+  {
+    "start": 542.31,
+    "duraction": 5.19,
+    "value": "properly yet because I was trying to"
+  },
+  {
+    "start": 544.77,
+    "duraction": 4.47,
+    "value": "have an evening with my family and I"
+  },
+  {
+    "start": 547.5,
+    "duraction": 3.99,
+    "value": "just post the video and I come back and"
+  },
+  {
+    "start": 549.24,
+    "duraction": 4.38,
+    "value": "I find two of my videos have been put to"
+  },
+  {
+    "start": 551.49,
+    "duraction": 5.22,
+    "value": "private and he can go to these videos"
+  },
+  {
+    "start": 553.62,
+    "duraction": 3.6,
+    "value": "and and look all the that the comments"
+  },
+  {
+    "start": 556.71,
+    "duraction": 2.58,
+    "value": "are gone"
+  },
+  {
+    "start": 557.22,
+    "duraction": 5.04,
+    "value": "can't see those can't talk to the people"
+  },
+  {
+    "start": 559.29,
+    "duraction": 7.95,
+    "value": "who were having a conversation here so I"
+  },
+  {
+    "start": 562.26,
+    "duraction": 9.99,
+    "value": "mean what do you guys think I am I have"
+  },
+  {
+    "start": 567.24,
+    "duraction": 7.89,
+    "value": "to ask because this is beyond anything"
+  },
+  {
+    "start": 572.25,
+    "duraction": 4.589,
+    "value": "I've ever thought was gonna happen but I"
+  },
+  {
+    "start": 575.13,
+    "duraction": 5.25,
+    "value": "guess I shouldn't be surprised right"
+  },
+  {
+    "start": 576.839,
+    "duraction": 6.12,
+    "value": "because they are so desperate they can't"
+  },
+  {
+    "start": 580.38,
+    "duraction": 5.04,
+    "value": "fight your ideas with better ideas so"
+  },
+  {
+    "start": 582.959,
+    "duraction": 6.031,
+    "value": "what do they do they shut you down right"
+  },
+  {
+    "start": 585.42,
+    "duraction": 6.06,
+    "value": "and you go back to a cute old us cue"
+  },
+  {
+    "start": 588.99,
+    "duraction": 4.32,
+    "value": "laid this out back in March of 2018 that"
+  },
+  {
+    "start": 591.48,
+    "duraction": 3.479,
+    "value": "they were gonna set all these"
+  },
+  {
+    "start": 593.31,
+    "duraction": 4.399,
+    "value": "whistleblower traps and when that didn't"
+  },
+  {
+    "start": 594.959,
+    "duraction": 4.711,
+    "value": "work they're gonna go to censorship"
+  },
+  {
+    "start": 597.709,
+    "duraction": 4.541,
+    "value": "that's where we're at ladies and"
+  },
+  {
+    "start": 599.67,
+    "duraction": 4.77,
+    "value": "gentlemen this is the final push for"
+  },
+  {
+    "start": 602.25,
+    "duraction": 4.23,
+    "value": "censorship because they can't defeat us"
+  },
+  {
+    "start": 604.44,
+    "duraction": 4.14,
+    "value": "with fax they can't defeat us with"
+  },
+  {
+    "start": 606.48,
+    "duraction": 3.93,
+    "value": "better arguments so the like the"
+  },
+  {
+    "start": 608.58,
+    "duraction": 3.93,
+    "value": "fascists they are like the"
+  },
+  {
+    "start": 610.41,
+    "duraction": 7.94,
+    "value": "authoritarians they are they have to"
+  },
+  {
+    "start": 612.51,
+    "duraction": 11.91,
+    "value": "literally silence your speech so"
+  },
+  {
+    "start": 618.35,
+    "duraction": 9.3,
+    "value": "president Trump Don Jr you know anyone"
+  },
+  {
+    "start": 624.42,
+    "duraction": 5.94,
+    "value": "else out there watching maybe listening"
+  },
+  {
+    "start": 627.65,
+    "duraction": 2.95,
+    "value": "you know we are the canary in the coal"
+  },
+  {
+    "start": 630.36,
+    "duraction": 1.979,
+    "value": "mine"
+  },
+  {
+    "start": 630.6,
+    "duraction": 3.63,
+    "value": "and this is what's coming for the"
+  },
+  {
+    "start": 632.339,
+    "duraction": 6.991,
+    "value": "election and this is how they're going"
+  },
+  {
+    "start": 634.23,
+    "duraction": 6.78,
+    "value": "to try to shut us all down and look"
+  },
+  {
+    "start": 639.33,
+    "duraction": 2.94,
+    "value": "I told you guys there changing the terms"
+  },
+  {
+    "start": 641.01,
+    "duraction": 3.81,
+    "value": "of service we're gonna do a video on"
+  },
+  {
+    "start": 642.27,
+    "duraction": 5.13,
+    "value": "that and in a bit I might even have"
+  },
+  {
+    "start": 644.82,
+    "duraction": 5.82,
+    "value": "somebody on talk about all this but or a"
+  },
+  {
+    "start": 647.4,
+    "duraction": 5.37,
+    "value": "few people but this is their new push"
+  },
+  {
+    "start": 650.64,
+    "duraction": 4.95,
+    "value": "and it's only gonna get worse from here"
+  },
+  {
+    "start": 652.77,
+    "duraction": 5.91,
+    "value": "so you know thank you guys for all of"
+  },
+  {
+    "start": 655.59,
+    "duraction": 5.31,
+    "value": "your support you know anyway you support"
+  },
+  {
+    "start": 658.68,
+    "duraction": 3.78,
+    "value": "channels big and when I say I need your"
+  },
+  {
+    "start": 660.9,
+    "duraction": 2.91,
+    "value": "support it's it's you know it's"
+  },
+  {
+    "start": 662.46,
+    "duraction": 3.33,
+    "value": "definitely not just monetary it's"
+  },
+  {
+    "start": 663.81,
+    "duraction": 3.9,
+    "value": "everything it's the comments it's the"
+  },
+  {
+    "start": 665.79,
+    "duraction": 4.02,
+    "value": "subscribing it's the likes it's the"
+  },
+  {
+    "start": 667.71,
+    "duraction": 3.96,
+    "value": "sharing it's because they're"
+  },
+  {
+    "start": 669.81,
+    "duraction": 3.84,
+    "value": "incrementally trying to take it all away"
+  },
+  {
+    "start": 671.67,
+    "duraction": 4.17,
+    "value": "they're trying to silence it suppress it"
+  },
+  {
+    "start": 673.65,
+    "duraction": 6.87,
+    "value": "and it's so obvious like I mean it's"
+  },
+  {
+    "start": 675.84,
+    "duraction": 8.4,
+    "value": "prima facia obviously there and you guys"
+  },
+  {
+    "start": 680.52,
+    "duraction": 5.37,
+    "value": "see it i I know that it's it's sometimes"
+  },
+  {
+    "start": 684.24,
+    "duraction": 4.38,
+    "value": "I get on a rant about this stuff but"
+  },
+  {
+    "start": 685.89,
+    "duraction": 4.56,
+    "value": "look this is important and they've"
+  },
+  {
+    "start": 688.62,
+    "duraction": 4.86,
+    "value": "literally just memory hold two of my"
+  },
+  {
+    "start": 690.45,
+    "duraction": 5.67,
+    "value": "videos because I said a person's name"
+  },
+  {
+    "start": 693.48,
+    "duraction": 7.43,
+    "value": "that's publicly available all over the"
+  },
+  {
+    "start": 696.12,
+    "duraction": 7.32,
+    "value": "internet so what is YouTube now is"
+  },
+  {
+    "start": 700.91,
+    "duraction": 3.91,
+    "value": "YouTube the thought police because that"
+  },
+  {
+    "start": 703.44,
+    "duraction": 2.76,
+    "value": "seems like where we're at I mean it's"
+  },
+  {
+    "start": 704.82,
+    "duraction": 2.64,
+    "value": "it's been that way they're already"
+  },
+  {
+    "start": 706.2,
+    "duraction": 3.3,
+    "value": "getting rid of people they don't like"
+  },
+  {
+    "start": 707.46,
+    "duraction": 4.49,
+    "value": "and now it just gets worse and worse and"
+  },
+  {
+    "start": 709.5,
+    "duraction": 4.41,
+    "value": "worse there's gonna come a point though"
+  },
+  {
+    "start": 711.95,
+    "duraction": 5.7,
+    "value": "where the American people are going to"
+  },
+  {
+    "start": 713.91,
+    "duraction": 7.14,
+    "value": "wake up to the fact that YouTube is the"
+  },
+  {
+    "start": 717.65,
+    "duraction": 4.03,
+    "value": "new media that everyone's trying to run"
+  },
+  {
+    "start": 721.05,
+    "duraction": 3.87,
+    "value": "away from"
+  },
+  {
+    "start": 721.68,
+    "duraction": 6.65,
+    "value": "they are the corporate lying fake news"
+  },
+  {
+    "start": 724.92,
+    "duraction": 6.42,
+    "value": "they are one in the same they have"
+  },
+  {
+    "start": 728.33,
+    "duraction": 5.47,
+    "value": "created this environment where they're"
+  },
+  {
+    "start": 731.34,
+    "duraction": 4.08,
+    "value": "pushing out the real creators the"
+  },
+  {
+    "start": 733.8,
+    "duraction": 3.95,
+    "value": "creators that made the platform what it"
+  },
+  {
+    "start": 735.42,
+    "duraction": 5.1,
+    "value": "is right they're pushing out those who"
+  },
+  {
+    "start": 737.75,
+    "duraction": 5.64,
+    "value": "organically can get views who when when"
+  },
+  {
+    "start": 740.52,
+    "duraction": 6.57,
+    "value": "the algorithms are set to fair and level"
+  },
+  {
+    "start": 743.39,
+    "duraction": 6.88,
+    "value": "we win right we beat Fox News we beat"
+  },
+  {
+    "start": 747.09,
+    "duraction": 5.22,
+    "value": "all these big fake news companies and"
+  },
+  {
+    "start": 750.27,
+    "duraction": 4.32,
+    "value": "all these other terrible news"
+  },
+  {
+    "start": 752.31,
+    "duraction": 4.38,
+    "value": "organizations that don't even know how"
+  },
+  {
+    "start": 754.59,
+    "duraction": 4.89,
+    "value": "to make a story that that anybody wants"
+  },
+  {
+    "start": 756.69,
+    "duraction": 4.44,
+    "value": "to read or even talk about because they"
+  },
+  {
+    "start": 759.48,
+    "duraction": 4.59,
+    "value": "don't they don't even touch on the truth"
+  },
+  {
+    "start": 761.13,
+    "duraction": 4.77,
+    "value": "and or they live in fantasy land but the"
+  },
+  {
+    "start": 764.07,
+    "duraction": 5.31,
+    "value": "fantasy land that those people live in"
+  },
+  {
+    "start": 765.9,
+    "duraction": 6.53,
+    "value": "is the fantasy land that big tech is"
+  },
+  {
+    "start": 769.38,
+    "duraction": 8.18,
+    "value": "trying to force you to can"
+  },
+  {
+    "start": 772.43,
+    "duraction": 7.2,
+    "value": "soon and to become a part of so it's"
+  },
+  {
+    "start": 777.56,
+    "duraction": 5.12,
+    "value": "your choice ladies and gentlemen it's"
+  },
+  {
+    "start": 779.63,
+    "duraction": 5.49,
+    "value": "your choice we're either gonna let them"
+  },
+  {
+    "start": 782.68,
+    "duraction": 5.71,
+    "value": "continually take us down one by one"
+  },
+  {
+    "start": 785.12,
+    "duraction": 5.79,
+    "value": "until there's nobody left or we're gonna"
+  },
+  {
+    "start": 788.39,
+    "duraction": 4.38,
+    "value": "do something we're gonna stand up and I"
+  },
+  {
+    "start": 790.91,
+    "duraction": 3.51,
+    "value": "hope that we can come together and do"
+  },
+  {
+    "start": 792.77,
+    "duraction": 4.41,
+    "value": "something that's what I'm gonna try to"
+  },
+  {
+    "start": 794.42,
+    "duraction": 5.01,
+    "value": "do is to stand up against this injustice"
+  },
+  {
+    "start": 797.18,
+    "duraction": 6.21,
+    "value": "and I'll figure out a way legally"
+  },
+  {
+    "start": 799.43,
+    "duraction": 7.86,
+    "value": "lawfully of course but this is just this"
+  },
+  {
+    "start": 803.39,
+    "duraction": 6.66,
+    "value": "is gotta stop there has to be some point"
+  },
+  {
+    "start": 807.29,
+    "duraction": 4.41,
+    "value": "at which we say no more and this is the"
+  },
+  {
+    "start": 810.05,
+    "duraction": 4.67,
+    "value": "line line the same for me"
+  },
+  {
+    "start": 811.7,
+    "duraction": 6.75,
+    "value": "so this is this is gonna be a very"
+  },
+  {
+    "start": 814.72,
+    "duraction": 5.02,
+    "value": "important point I think and we'll have"
+  },
+  {
+    "start": 818.45,
+    "duraction": 4.079,
+    "value": "to see where it goes from here but thank"
+  },
+  {
+    "start": 819.74,
+    "duraction": 4.409,
+    "value": "you guys for watching and I always like"
+  },
+  {
+    "start": 822.529,
+    "duraction": 4.201,
+    "value": "to leave you guys with a little bit of"
+  },
+  {
+    "start": 824.149,
+    "duraction": 4.741,
+    "value": "inspiration so here are some words out"
+  },
+  {
+    "start": 826.73,
+    "duraction": 3.87,
+    "value": "of the book of proverbs chapter 3 verse"
+  },
+  {
+    "start": 828.89,
+    "duraction": 4.65,
+    "value": "5 through 7 and I hope that they"
+  },
+  {
+    "start": 830.6,
+    "duraction": 5.07,
+    "value": "resonate with everyone out there trust"
+  },
+  {
+    "start": 833.54,
+    "duraction": 4.62,
+    "value": "in the Lord with all your heart and do"
+  },
+  {
+    "start": 835.67,
+    "duraction": 4.74,
+    "value": "not rely on your own understanding think"
+  },
+  {
+    "start": 838.16,
+    "duraction": 4.47,
+    "value": "about him in all your ways and he will"
+  },
+  {
+    "start": 840.41,
+    "duraction": 4.59,
+    "value": "guide you on the right path don't"
+  },
+  {
+    "start": 842.63,
+    "duraction": 4.29,
+    "value": "consider yourself to be wise fear the"
+  },
+  {
+    "start": 845.0,
+    "duraction": 5.279,
+    "value": "Lord and turn away from evil"
+  },
+  {
+    "start": 846.92,
+    "duraction": 4.919,
+    "value": "I hope those world in the word speak to"
+  },
+  {
+    "start": 850.279,
+    "duraction": 3.841,
+    "value": "your heart just as they do mine and"
+  },
+  {
+    "start": 851.839,
+    "duraction": 4.201,
+    "value": "we're gonna fight this and we're gonna"
+  },
+  {
+    "start": 854.12,
+    "duraction": 3.839,
+    "value": "fight this injustice and we're gonna do"
+  },
+  {
+    "start": 856.04,
+    "duraction": 4.71,
+    "value": "it with God because that's the only way"
+  },
+  {
+    "start": 857.959,
+    "duraction": 4.051,
+    "value": "we win this battle so I thank you guys"
+  },
+  {
+    "start": 860.75,
+    "duraction": 3.51,
+    "value": "for coming here and checking this out"
+  },
+  {
+    "start": 862.01,
+    "duraction": 4.829,
+    "value": "and I'll keep you updated on what"
+  },
+  {
+    "start": 864.26,
+    "duraction": 4.019,
+    "value": "happens next but for now I want to say"
+  },
+  {
+    "start": 866.839,
+    "duraction": 4.171,
+    "value": "thank you guys for watching this episode"
+  },
+  {
+    "start": 868.279,
+    "duraction": 5.81,
+    "value": "and Godspeed and God bless each and"
+  },
+  {
+    "start": 871.01,
+    "duraction": 3.079,
+    "value": "every one of you Patriots"
+  }
+]

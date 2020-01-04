@@ -1,0 +1,64 @@
+name: update-data
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron:  '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      
+    - uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: '3.1.201'
+
+    - name: Install YouTubeArchiver
+      run: dotnet tool install -g YouTubeArchiver
+
+    - name: Install YouTube auth secrets
+      env:
+        YOUTUBE_ARCHIVE_TOKEN: ${{ secrets.YOUTUBE_ARCHIVE_TOKEN }}
+        YOUTUBE_ARCHIVE_SCRAPE: ${{ secrets.YOUTUBE_ARCHIVE_SCRAPE }}
+      run: |
+        echo "$YOUTUBE_ARCHIVE_TOKEN" >> ~/.youtube-archiver-auth.json
+        echo "$YOUTUBE_ARCHIVE_SCRAPE" >> ~/.youtube-archiver-scrapping.json
+
+    - name: Update index
+      run: |
+        ./update-db.sh
+        ./update-captions.sh
+        ./update-topics.sh
+
+    - name: Commit files
+      id: commit_step
+      run: |
+        git add .
+        if git diff-index --quiet HEAD --; then
+            echo "##[set-output name=has_commits;]false"
+        else
+            echo "##[set-output name=has_commits;]true"
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git commit -m "Index updates." -a
+        fi
+
+    - name: Push changes
+      if: steps.commit_step.outputs.has_commits == 'true'
+      env:
+        SECRET_ACCESS_TOKEN: ${{ secrets.SECRET_ACCESS_TOKEN }}
+      run: |
+        remote_repo="https://discobingolingo:${SECRET_ACCESS_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+        git push "${remote_repo}" master
+
+    - name: Trigger web build
+      if: steps.commit_step.outputs.has_commits == 'true'
+      uses: peter-evans/repository-dispatch@v1
+      with:
+        token: ${{ secrets.SECRET_ACCESS_TOKEN }}
+        repository: qeffect/qeffect.github.io
+        event-type: regen-web

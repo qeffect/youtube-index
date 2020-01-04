@@ -1,0 +1,44 @@
+{
+  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI",
+  "topic": "Mexico",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "hO2yFcDbiso",
+      "segments": [
+        {
+          "text": "*mexico* and the united states he was also",
+          "location": 828
+        }
+      ]
+    },
+    {
+      "id": "OMmPMT6VIAI",
+      "segments": [
+        {
+          "text": "and new *mexico* and south korea i've",
+          "location": 8
+        }
+      ]
+    },
+    {
+      "id": "poOFqR-UEAc",
+      "segments": [
+        {
+          "text": "was murdered in *mexico* and mormon family",
+          "location": 367
+        }
+      ]
+    },
+    {
+      "id": "zN04caIexBI",
+      "segments": [
+        {
+          "text": "and new *mexico* and south korea i've",
+          "location": 8
+        }
+      ]
+    }
+  ]
+}

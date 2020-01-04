@@ -1,0 +1,3570 @@
+{
+  "indexed": "_-tnEOuY44w,_0wPPTxMjjo,_2Fk8FU1xbk,_4RwHZb9_PA,_G_hcKUWhf4,_hQM9Ddf6Ho,_ldIMw-SPw0,_OAMEAuRc0E,_OshCG9SNpU,_Qn-Y81PD0I,_qo0lW53uNc,_W3h-RuNK1c,_y08t0-Kul8,_yEtqIDVuLg,-2iyGGoLxEs,-6O-Uw_C7SM,-9sQzYO6uO8,-BJ2TOmqBNM,-C6AID7hb6g,-CQjD6FjO14,-EB6aP-QKME,-ewUXSK6_1M,-fZrlftujAQ,-jzE8UnmpJg,-lY_U-haiG4,-LzcwUA1fWQ,-t4etiU5sgk,-tNvowSC3V8,-uo4_SzSMoI,-WO8P0r86HE,-XALeLZm2MI,-XeQxtgwwl4,-Z2g2yhP7kA,0-XI67-YZpc,06_KHnpD7G8,0CCewULy8GA,0Dv_ps_4dHw,0LPBblPTXHk,0s9V0iQmJ_M,0vbtmE6Lef0,0wCDGLhtROs,135fiJ3kuq8,13RlARBS1VU,18GHu3BC0cY,1CRk10IKzbA,1ej-XIDp0kY,1iK_oT2Qw8E,1kTNLU3Jiz4,1L2dyq17mA0,1lvuw_IJ-qc,1MZAvXjciLg,1NjJwaKIup0,1UCPjVCqRPA,1Xe4qxL0ZK4,1z8NEmTk3xM,25DiuvxURwI,28Ec4Fgp_08,2abaVibjrBU,2BJBfTIaULs,2Kr3Dye0nqw,2McXsEA5S88,2P4jZNAi4p0,2sXd9lKGjF0,2tmmhGN0G7c,2u_0oOHn3cc,2Uskig4HZ54,2vDAKqjbt9k,2YJOWqy25xU,3-4nPSO-BxM,3-5xzopjz7Q,323zMbxMQWQ,34L9V7Gc9_I,3E5xPRJ6doY,3FSxcPxdxzc,3gu5UliwPJ0,3huZuddL6zQ,3LWJQCE0NY8,3O29kMXvRKc,3q6JtBAvjHk,3qh_BUO5oy4,3SCH1DeLwv4,3WQRlcS37VE,3XJOOD7sOMc,4d5S6uzT7ks,4fPYYyoPxLA,4LqGCb0nh-Y,4qUGwQAO7ic,4qZfqvdYehg,4WM32_p5NZI,4zVdTluDrD8,51iINaAkefs,57oztiaMydA,5aYW1IN7vi0,5Ck-fsB8Q_U,5gPcHDIwkyA,5kQBp7OM6dg,5NBJ12AkJns,5nV3vp4B_ow,5NyzM2zIPes,5pMOgATYg-c,5vPhgtoigFs,5xYb6J66_LU,6_2izcUsyrQ,6-pY3oARgQk,6CSmW0EJSgY,6dKqBAta0x4,6HePdAjoYQQ,6mQIxm00H8M,6MRqq5U_VS8,6sj8lf8pJO8,6uFBMOwZKGo,6uKolDWoCBE,6WOv1O2Z_9U,6yrkVT-dM-Q,7-GGvpafPTc,70dDv2y0glc,7CK6T90Mgy8,7ckUpCzidOA,7hGuJjouBto,7MrP2pNvhsI,7P4bVQlGURM,7qWN-KY9CbI,7Rnp47Qi8l8,827Sd1G0HPo,84O62FZOdrI,86n0EMbRr3M,8At1sYv76gM,8D9QWIy7Nyk,8HGBJmVNfRU,8jdzDntzOjo,8rUGX4_84ek,8SLd0KJoiKg,8TxM-MAPhe8,8u0N4Ih1nBA,8UnzsP-6LyU,8YFY8Or8m7c,965rRK4RWHk,9ln9zFZvXs4,9lr00PpSxXE,9mfW16YxL3U,9othBV0EKh8,9OvOOHdNr-w,9YEBZGETgDI,A_q9loFp_yE,a-CAZE9SbiU,A-eNCnX290A,a4QNEfYYmOQ,a5IzBF25Tj0,a8-7B3NdLT8,A8rW-Jm59zA,AamTwoNyBuw,acI59qHys3k,AHAriy9a5qk,Ahp1ZWfmJzw,AhzHP5aEUHo,aL95wyL2Nno,alB7IdYFoBM,AMxJAFsBR8Y,aolzsrFMuXo,aQX9OR9uJtA,AreJ43v82jM,aTgdbr0RZnU,aVDs9iQ0Jm4,AvitG7krXmI,AvJNKjbB5Gk,AWlDjsuvegI,awxXcSm8kOM,axHwWgdMBDM,AxZQ1B58Mhs,ay2sBCw3H1c,aZ6ftibSF6M,b5IGFGNCz7k,ba_itdPbtfY,BbCgNTo63ig,bHgnXTF3F-Q,Bng4OrgNzSw,BnjNJpdrhvg,BpACk9-P94M,BqVOJIE8f3M,BvBYBxwRNU8,BVosPouGqYw,bwsT5IsAGVE,bX18mBXJBMA,bxMEFbSDYD8,BXPH_yc4SIw,c_qd3M0g1mI,C3LnwjLf43M,c3zKX-0J_Xw,C9Q2lpYkchM,CfISqraufaE,CGHH33l1s2g,cmj-73z3RoQ,cogyNOVuTf4,CPwsC1JSknk,CRKu4oKBjLE,ct8Lnf3AvAw,ctaiPYR6ttk,ctWPdhQ40q8,CU8XyMTvAyQ,cXh0mwM2f28,CYXzhK5NCm0,cZ0p8JfpMa0,CzhfhzlcR5E,d_mnryTta64,D3wKX57FniM,D6N4IAv0PtA,d853bKYShMY,daO3qCnHZwE,DdWglthG9o0,dEnpchD0nl8,DfRLhVYQ54o,DH_4-LejBsY,Dkl4cq28gAw,DKPKj1sseNo,dM7iVM7D3Zc,dNHBSVXukH8,Dq4lP7VOOdA,ds-la4lNg-I,Ds0QpX6SUyU,dS3ubI47nZ4,DWDL5lHxI3U,Dwj7Lu58Zhc,dxcsoemOuJc,DYcjeYgkXOY,DZk4Ryo-hZA,dZkRBsyl2Do,E-_VAE0DGl4,e4aVHRbw4F4,EDHOCwVFMsI,EdXZTbHTCOg,EFCrLOl1JOs,EfpRJf5_h-s,eg32_J6VcY4,Ej0d9QRlGbs,ek3hyvqmmVE,EK8UqyjddIQ,EMLuLIE6rd4,eqtoBrJvIs8,eqv3b3fryLM,ETwGW9WSg4s,EV5DgL5JW2k,EVlvp7NT7Z8,EvO7Dkp8pjM,EWd3dvmJ9Qg,F_SsV7hLmRk,F57JWrkZS1I,F9eRvDnk8UU,faMcO2QNeoo,FDymSJmMgAo,fE_SHtfWPPc,FFiBOIoE4RQ,fhbydy18DwA,Fjm284ukOdU,fjRRhcyM20Y,fjsyJDEWRrE,fjUDFb5W-oE,fk2ppQfB_7o,fSKqUHvxB2s,FSOYILVQ9Uo,fuDgdt7tolU,fvsqg6OhqdA,fwTMg5XRc7M,FxovRRLjYIo,fyR3g4UvvtE,G9vIpCbj9J0,gazd0GNSADg,gbz5P5cQhXI,GbzkeijF6jI,gfIp6kBozG8,GgWd74zCSSc,gHlzxRULGMk,gI51l6Wh3Yk,gIt9yrUSDao,GJceEhZ4pJY,GMVz0QyQYxM,GNoMu2tYzu4,GppWaKxBy6s,gqjbHxz-aao,gQyJoGmPKB0,GswLPG3Y-Ok,GVj_wOEPhkc,GvVNIZPpagc,gw7NTDLYZBM,Gwt2xFm0loo,GXkfdi8tJd0,GY-HVyhkwVY,gyu-KR6lN_g,gzUS_FdDBeY,h-UucfDaVkk,H37RxhQm_vA,H46XPd29Bv0,h65eCjixBGk,haLSsJsM7Pw,HAm-X1FyxBg,hcpXvsbEWbE,hCzo3d1lWwE,hEU1mQ2qefM,hgOkTMxqW6s,hJNxGkvhTcQ,Hlnd0h3mV3M,Huo4wOCK2dg,hVo5YhmSvxg,HwfkXQF0S78,Hy6_6-GcpcY,hYFmksb07d0,i_kG99qtXzk,i-_tMOZDkYc,I0dQf0jNtcI,I0OTSHBfcaM,i2OVR_i8MCw,i3J_ofuCq0M,I3rhKJiPcV0,i4cyrrt39MU,IBiyU8RfKkI,iF59Z6IAiUU,IgeUGYmKHnI,iGXfBR_jrAc,im5Dv2nNqj8,iMax5qGzpdA,IpPRL2hv_hk,Irdqtfi1cJk,iRHLnm3z5ok,irKzl9ixCOk,IRReQnEzKJo,iwYcG1yKrrA,j4hiKMfATkg,j55fin9F39A,J6MXY_WIEik,j8tLiy9F3NQ,jAEjyK8R2xk,Jawv5OeHcNE,jCJD4OtVxT0,JdVBAPt7DE4,JH5M8aBGbDY,jJOZODo8iQE,jkFbm5g-CM8,JKp-gk5rcfg,JLFlESy1tGI,jM20EJcS0Ck,jMts3I4Dm0Y,jmzTFedjsRc,JoHtkvjcU6g,JqJT-9QnDX4,jReoknnvXUk,jUY45J7zfzQ,Jvb90xAWgk8,jVl0qH2y-RM,jW96-WGef_A,JXHk43Ug2DA,k_4kW5f71iA,KbneA0K0N24,KcpCRNFTRI8,kEcJKTb5XVs,KEDZQ5XW-qM,KFYT9lZ9bpk,KogmxzL09S4,KpJi0Rv_d1s,kT8he7l3-jg,kue6Nh4SQQ8,KuRzooUC74k,kvBYHiktgrU,Kve5L6tt_YA,KVM6KUrOVvQ,kWwNGy2rC9o,kysCfEmY3co,kZnsG1Lh-_U,l13jZtmN9Ws,L4hhYlRmT7E,L99bHnNivtk,L9iHVWO-gUs,lDJaUL7J8OE,LH21GUrCFlU,lHRqbIp5r80,LkmcI2NRIMs,lKMKTF21Izc,Ll66PRHokQo,LMdBTiuCAmQ,lnISt1u_xfw,LPwKlPNJybM,lREbK2wmUtw,Lt4ZWuQXOMU,lUXxLRmbMZM,lVPANbwla1Q,LwNvdC73xvM,LxmrwJLc9-U,lyVm8IL9agw,M-BcoSZwlxw,m0Q0wjturig,m1rNjyjIvwY,m6DdCQ0YZPs,m7znvs_j8_k,M9z_2C08vO0,MdXPWY7KLdo,MEJjCT8OD1I,mELNZujblCw,MFPvdpl9HYY,mJLK3mS_PUg,mKnIFxEz9j8,MmXG8tasvp8,mqHdtTAJqZ4,MUDnPOu7OQU,Mvu_Tfn3mVA,MWEBNGiL7lo,mxDKhJURX5c,MXOwJVJKF9I,mzD0WsRspB0,n__2EsOFs8s,n_-myZ6nkf0,n734Bpyl2c0,N7dmOThRoCg,N9M7HdiUIKg,NAGmEcfq2U0,nbChzBjreJQ,NbrnyPtVF1A,NBVVn2POPfU,neDSIJscdS8,NhA9zMOZV_8,nhVE68wUjmY,nn9GfBgPdlA,nRJljCpC1zU,O63eWMktkkY,ob2pqqwGzJc,oByMihQhXo8,oEr26PgUaz0,oF5MtUaBlpU,OknuCuFb27Q,OL4lCwtlpns,omVzgMDSzMA,OnAwEzhtW_s,oOmcvPdqGcY,op8EcWf_QnI,oqWCfr0jN3Q,orW_ZHHtF-c,OvgvEHoD_v0,OXGsPf0HW0w,OZA3EvkBHLk,P-AP48CeZcA,p4up4xd6rxM,P9hR-iNR2eE,pbrJ1XxupEg,PbWOmJQtciI,PcWhowZbiX4,Pd42k6l0BOY,peVgkp1gMSA,pGl8QQUXoiM,PgWXixHr8i0,pgZ_c02-7XY,pGz1JhWd-hw,piclzeZJadE,pjCREYAxFCU,PkxlJCoPxtw,pMhedqnnY-I,pn7XxxfmrJk,POOYNiwCiPg,pVncvL_Ns3U,PwmbkeKu7Mc,px1bN6l_Gv4,pyAT8bKb7XU,q_LY8VPchs0,Q4BzmR9UHIQ,Q4ImyzwBy9g,QaaeRCWBqIk,qb3w1OboNvo,qdRYf3N08UY,qe4v8LGob4Y,qkfsoUw_wcw,qmdFYiXPY18,QPN3h2F9EbE,qr_3BOeVgKg,QrBVmjRpJwI,QS98lwr2p2U,Qse6ME4Tfec,QThFVV4NNqg,QwpDTbUsF3E,R12uPqdkkPI,R41Sfh4kBMg,RBHQL96deP4,RblERU2ASro,RBtIMZCG-Oo,RC38ZjyfhkA,Rdq0Hi-_XRo,RDVZSWXkyrU,rJdqcsQ0QP0,rMQCT25EfEs,RrQPki8bI4A,rsavFC1lrtw,RtMZg04mJ2Y,rvNVbjFQH-o,rWW48Wpg5HA,RXfO2VclQGI,rzaDPTTIbhg,rZtPca6s96Y,S1uA3--3ExQ,s3KjT-k31UU,s4qifyO_Ho4,S4ylVMsxOcc,s61iV9hbSRI,sa0om_BBv3A,SbMv9mrXatk,sbtKWPTkyTQ,Sfanj7kgy4g,sIG-J8EARa0,Sk7HnqvW520,smTJcjfSIuo,SpiT4GrgTLs,SS7s22Fnxms,STHwpjP2Uag,SvhpCXCxUfU,SVogkaAV66s,swCSjVRE2bo,sZEDu22LOic,t_9SNDOoHWg,t_iV35zfQI0,T-TtciIe0QA,T6QgUHTZumg,t8lUnjRzmEA,TBKDVUQpVM4,td4eN2xb4Tk,TF52s3GOJFE,Tfk9yg39u9w,TFu3NGQdatM,tIk2zHxCpNA,tk6dQdgVDr0,tKMjx-IaKCU,TmYttL1Y62w,TOeFXMgVkRM,ToxI_8MSPMc,tqILea18Ki8,tsqysbA1Sqo,TTAKyQXMQaM,tUv6KIiNY0A,TVjx2ooENfg,TwH-91D_4cA,tXKoS9V8ydU,Ty2mFF1LB_Q,U_GsF_n_WbQ,U2g7WcwIHHE,U3dsdiae1Bg,u3FYvlb2EiI,U3pocCVZuxM,UBqFWGxhZ20,UcLKjCZhKNg,uIDDTBfsA7Q,ulfINyPBJkk,UOUMoG1AXro,uRKKG5LoYbQ,Us-WzO9pR7Q,utpftrDE2js,uUCkBUzuNio,uVpLuuIxjSw,uwC-LYqe1RA,uXYxNzkUuIw,Uyc7XcOLvSc,uykGoyVB8pM,v_5EKGmNPW4,V-fa3I5dJFQ,V3KIFqANBfU,V6h6opS8FMY,VBIJVUzcqgs,VbUvS3OE47o,vcCJ0CDPkzk,vcHz3dGt-1M,vd39QLgNNH4,vf4cXnF_noc,VFWWzYpJ3vw,VgBeVe-cudA,VKk8ZZmxM68,Vn-bbVdmmDY,Vn6ucpVEWLg,VnBar3klKuM,vO0Voa_Lisw,Vp3fIO4fK8c,vPN_ECcJEho,VQGp5UP7QUk,VrWJhVsCI3E,VstfqsB3kWA,VyhODMtOPjE,W1FejBQxNzQ,W4W0lYqJc68,w85LBpbDyU8,wAdcvMuRPgE,WaG1AHl_-g8,WajmcB3KCbY,WBn0nakKr4I,wbr999AMWgk,wcIWIgRUTy0,wdjECnQZREM,WE2d5fJ_1BM,Wf1KgiaTz9o,WJoq6-kEdxU,wm_ZuIwfmzA,WmocY8qNi1U,WQzdkZp967w,WSkWQskVZIg,wYDsgBWrQIc,WyY8v0ELRPs,WZLyuv5egbw,X-104lYPfPI,x2OGExAn9vw,x4YswNQcnek,X6NEeXNQJzg,x9wG6ZuqJRE,x9zA1a9MS64,Xb08NOyakJQ,XbLNBGWOiy8,xC7cGGC1gLE,xCIWCSaCdmA,XeyZumUcfw4,XG03yPfdf00,XGjq_LrJlJ0,xH_FtMZau6U,XHsPNYQXy1g,XI_3ot9AVRc,XJr7Q4tbrT8,xjtbxj2hGEk,XKffl6CAS9I,XMedk-SpjJU,XNnr9LQN_LI,XO2nK03NahQ,XRyBWFOS1QE,XV9y1gDUVgw,XXhLOXdWdxA,xY_lPkCsAPQ,XZ2Z9CdGc50,Xzbvod8pzjI,XZeIqNQ3kkM,Y_RMMbc6TNo,Y-46yEmK9FQ,Y0BXDzU6kHM,y37qBYWD6Hw,Y3iYk00cX4o,y3SRsQQm9_w,Y4c202or2dc,Y8ABhUh5_Pg,yA5kzWWMyJc,YDYKFLJcXjs,YFR517RuObA,yIYsfr3g_po,YjdAs47casg,ylSWzt4ml3I,yMrbI1KLFx4,YNm2DzdbJ-E,YOnx_oNDwic,YOr_YXfwH8M,yoYvunNGK0E,YRDZYN8n2gE,yuiv2YbQAtQ,yw5DzVosHrI,YwKXFQ6XQXE,ywqkVBuDLww,YxizdmOvN1c,yzH3A2WACUA,Z1r05ISz5Hs,z3hpssm5_1g,Z7G8j3aZvbE,zG5D6Uk3Chg,ZHhi5bP6j30,ZkoOAhaFt-Q,zLZiddgP5tc,znYs-6J5rR4,Zpozrhe5xWk,zpw7Bc07h9Y,ZQK30bEDDpU,ZSOLaD-kbZY,zVdQ0QBwFkE,zw69mTcI9U8,zZ3lGqFFaYI,bUst18PCsRk,JTK8lrosaDI,lcBNIvAc_fE",
+  "topic": "William Barr",
+  "aliases": [
+    "bar",
+    "barr"
+  ],
+  "hash": null,
+  "results": [
+    {
+      "id": "_0wPPTxMjjo",
+      "segments": [
+        {
+          "text": "horizon *bar* nomination should be this",
+          "location": 2097
+        }
+      ]
+    },
+    {
+      "id": "_2Fk8FU1xbk",
+      "segments": [
+        {
+          "text": "out of touch the *bar* is this *bar* is that",
+          "location": 1696
+        }
+      ]
+    },
+    {
+      "id": "_hQM9Ddf6Ho",
+      "segments": [
+        {
+          "text": "at jian love three california state *bar*",
+          "location": 680
+        },
+        {
+          "text": "consumer alert the state *bar* of",
+          "location": 688
+        },
+        {
+          "text": "read the petition filed by the state *bar*",
+          "location": 715
+        },
+        {
+          "text": "filed by the license on the state *bar*",
+          "location": 722
+        }
+      ]
+    },
+    {
+      "id": "_Qn-Y81PD0I",
+      "segments": [
+        {
+          "text": "the carmello candy *bar* guy that we ran",
+          "location": 986
+        },
+        {
+          "text": "*barr* her appointed durham is conducting",
+          "location": 2251
+        }
+      ]
+    },
+    {
+      "id": "_yEtqIDVuLg",
+      "segments": [
+        {
+          "text": "in the search *bar* to show you just a few",
+          "location": 184
+        },
+        {
+          "text": "go up here next to the address *bar* the",
+          "location": 374
+        }
+      ]
+    },
+    {
+      "id": "-2iyGGoLxEs",
+      "segments": [
+        {
+          "text": "prior to *barr* durham hueber release or",
+          "location": 462
+        },
+        {
+          "text": "general bill *barr* and us attorney john",
+          "location": 809
+        }
+      ]
+    },
+    {
+      "id": "-C6AID7hb6g",
+      "segments": [
+        {
+          "text": "highlighted was *bar* install on the left",
+          "location": 141
+        },
+        {
+          "text": "of *bar* and whittaker regarding d-class",
+          "location": 181
+        },
+        {
+          "text": "alerts when is william *bar* going to give",
+          "location": 415
+        },
+        {
+          "text": "chucky boy schumer telling william *bar*",
+          "location": 502
+        },
+        {
+          "text": "telling william *bar* what he needs to do",
+          "location": 507
+        },
+        {
+          "text": "or something telling william *barr* he",
+          "location": 526
+        },
+        {
+          "text": "it's imperative for mr. *barr* to make the",
+          "location": 544
+        },
+        {
+          "text": "congress attorney general *bar* must not",
+          "location": 554
+        },
+        {
+          "text": "air as if william *bar* is covering for",
+          "location": 607
+        },
+        {
+          "text": "*bar* and then in turn he's gonna have to",
+          "location": 637
+        },
+        {
+          "text": "accept what william *bar* has received",
+          "location": 649
+        },
+        {
+          "text": "*bar* cannot wait all right guys",
+          "location": 821
+        }
+      ]
+    },
+    {
+      "id": "-CQjD6FjO14",
+      "segments": [
+        {
+          "text": "listen to mr. william *barr* play them",
+          "location": 1668
+        }
+      ]
+    },
+    {
+      "id": "-EB6aP-QKME",
+      "segments": [
+        {
+          "text": "attorney general william *bar* deputy",
+          "location": 771
+        },
+        {
+          "text": "attorney general william *barr* to",
+          "location": 1313
+        },
+        {
+          "text": "remember *barr* certain things don't jive",
+          "location": 1461
+        }
+      ]
+    },
+    {
+      "id": "-fZrlftujAQ",
+      "segments": [
+        {
+          "text": "and unusual punishment *bar* the executive",
+          "location": 596
+        }
+      ]
+    },
+    {
+      "id": "-WO8P0r86HE",
+      "segments": [
+        {
+          "text": "*barr* talking about huber you know he's",
+          "location": 1929
+        },
+        {
+          "text": "community to provide information *bar* in",
+          "location": 2261
+        },
+        {
+          "text": "general *bar* in there and durham and his",
+          "location": 2361
+        },
+        {
+          "text": "about that *bar* interviewed that saying",
+          "location": 2478
+        },
+        {
+          "text": "that yeah *bar* is a step there sorry",
+          "location": 2480
+        }
+      ]
+    },
+    {
+      "id": "-XALeLZm2MI",
+      "segments": [
+        {
+          "text": "turkish in an attack on a hookah *bar* and",
+          "location": 691
+        },
+        {
+          "text": "attacked a hookah *bar* in a neighboring",
+          "location": 705
+        },
+        {
+          "text": "on a car than a sports *bar* claiming more",
+          "location": 714
+        }
+      ]
+    },
+    {
+      "id": "-Z2g2yhP7kA",
+      "segments": [
+        {
+          "text": "attorney general that v william *bar* and",
+          "location": 115
+        }
+      ]
+    },
+    {
+      "id": "0CCewULy8GA",
+      "segments": [
+        {
+          "text": "general for anyone anyone william p *bar*",
+          "location": 363
+        }
+      ]
+    },
+    {
+      "id": "0s9V0iQmJ_M",
+      "segments": [
+        {
+          "text": "william *bar* his administration they are",
+          "location": 1138
+        },
+        {
+          "text": "general bill *bar*",
+          "location": 1401
+        }
+      ]
+    },
+    {
+      "id": "0wCDGLhtROs",
+      "segments": [
+        {
+          "text": "that william *barr* had sent in saying",
+          "location": 41
+        },
+        {
+          "text": "word along with bill *barr* says nope nope",
+          "location": 919
+        },
+        {
+          "text": "to you sincerely william p *bar*",
+          "location": 1200
+        },
+        {
+          "text": "recap guys on the *bar* report or should i",
+          "location": 2683
+        }
+      ]
+    },
+    {
+      "id": "13RlARBS1VU",
+      "segments": [
+        {
+          "text": "whay pundit link it says *bar* gave",
+          "location": 535
+        },
+        {
+          "text": "alright report attorney general *bar* gave",
+          "location": 541
+        },
+        {
+          "text": "general bob *barr* and the two agreed that",
+          "location": 552
+        },
+        {
+          "text": "trump to be indicted but that *bar* pushed",
+          "location": 562
+        },
+        {
+          "text": "the attorney general william *barr* said",
+          "location": 662
+        },
+        {
+          "text": "*bar* is said to oppose this the two men",
+          "location": 671
+        },
+        {
+          "text": "*barr* and their two staffs and none of",
+          "location": 714
+        },
+        {
+          "text": "assumption power of *bar* question mark",
+          "location": 789
+        },
+        {
+          "text": "based on false pretences *bar* senate vote",
+          "location": 801
+        },
+        {
+          "text": "expose *bar* you know because he's got all",
+          "location": 848
+        }
+      ]
+    },
+    {
+      "id": "18GHu3BC0cY",
+      "segments": [
+        {
+          "text": "you want to do your *bar* stuff first or",
+          "location": 2678
+        },
+        {
+          "text": "a week we can talk *bar* really quick i",
+          "location": 2686
+        },
+        {
+          "text": "saw about *bar* and you had talked about",
+          "location": 2695
+        },
+        {
+          "text": "they be using *bar* as the attorney",
+          "location": 2716
+        },
+        {
+          "text": "how the game is played and *bar* being an",
+          "location": 2740
+        },
+        {
+          "text": "mr. bill *barr* has something to do with",
+          "location": 2842
+        }
+      ]
+    },
+    {
+      "id": "1iK_oT2Qw8E",
+      "segments": [
+        {
+          "text": "it seems like fair game for william *bar*",
+          "location": 908
+        }
+      ]
+    },
+    {
+      "id": "1kTNLU3Jiz4",
+      "segments": [
+        {
+          "text": "bill *barr*",
+          "location": 708
+        },
+        {
+          "text": "*barr* said in the in the next four to six",
+          "location": 849
+        },
+        {
+          "text": "come out and defend william *bar* if you",
+          "location": 1022
+        },
+        {
+          "text": "attorney general william *bar* is quote",
+          "location": 1037
+        },
+        {
+          "text": "james comey helped *bar* review the final",
+          "location": 1081
+        },
+        {
+          "text": "*bar* and rosenstein then decided they",
+          "location": 1097
+        },
+        {
+          "text": "backing up *bar* *bar* has faced intense",
+          "location": 1147
+        },
+        {
+          "text": "conclusions *bar* quoted a few snippets",
+          "location": 1156
+        },
+        {
+          "text": "questions unanswered *barr* has told",
+          "location": 1164
+        },
+        {
+          "text": "have said *bar* has insisted that he was",
+          "location": 1238
+        },
+        {
+          "text": "quote tremendous confidence in *bar* rosa",
+          "location": 1258
+        },
+        {
+          "text": "william *bar* and he's still there right",
+          "location": 1284
+        }
+      ]
+    },
+    {
+      "id": "1NjJwaKIup0",
+      "segments": [
+        {
+          "text": "but then we find out that *barr* declined",
+          "location": 1274
+        },
+        {
+          "text": "the idea of you know *bar* looking fair",
+          "location": 1824
+        },
+        {
+          "text": "to get comey to do and *barr* came in who",
+          "location": 1898
+        },
+        {
+          "text": "horowitz lower *bar* saying that hey we're",
+          "location": 2141
+        },
+        {
+          "text": "*barr*",
+          "location": 2576
+        },
+        {
+          "text": "*bar* information that he's going to",
+          "location": 2849
+        }
+      ]
+    },
+    {
+      "id": "2McXsEA5S88",
+      "segments": [
+        {
+          "text": "solid silver united we stand bullion *bar*",
+          "location": 152
+        },
+        {
+          "text": "william *bar* to his right during his sign",
+          "location": 1556
+        },
+        {
+          "text": "twitter attorney general william p *bar*",
+          "location": 1572
+        },
+        {
+          "text": "were asking attorney general william *bar*",
+          "location": 1670
+        },
+        {
+          "text": "against attorney general *bar* when",
+          "location": 1706
+        },
+        {
+          "text": "attorney general william *bar* in contempt",
+          "location": 1718
+        },
+        {
+          "text": "*bar* do is illegal namely disclose grand",
+          "location": 1897
+        },
+        {
+          "text": "mckeever versus *bar* oh you guys are",
+          "location": 1929
+        },
+        {
+          "text": "this mckeever vs *bar* case in the",
+          "location": 1952
+        }
+      ]
+    },
+    {
+      "id": "2P4jZNAi4p0",
+      "segments": [
+        {
+          "text": "a mini martini *bar* or something so i",
+          "location": 1230
+        }
+      ]
+    },
+    {
+      "id": "2tmmhGN0G7c",
+      "segments": [
+        {
+          "text": "maybe attorney general *bar* will have",
+          "location": 1349
+        }
+      ]
+    },
+    {
+      "id": "3-5xzopjz7Q",
+      "segments": [
+        {
+          "text": "bill *bar* and i think the senate clip",
+          "location": 56
+        },
+        {
+          "text": "stuff i told him i overheard in a *bar*",
+          "location": 287
+        },
+        {
+          "text": "*bar* discussing that point and other a",
+          "location": 326
+        },
+        {
+          "text": "*bar* and another couple issues that he",
+          "location": 432
+        },
+        {
+          "text": "attorney general bill *bar* right and a",
+          "location": 502
+        },
+        {
+          "text": "anything right to discredit bill *bar* and",
+          "location": 521
+        }
+      ]
+    },
+    {
+      "id": "3E5xPRJ6doY",
+      "segments": [
+        {
+          "text": "discovered evidence ag *bar* southern",
+          "location": 927
+        },
+        {
+          "text": "william *bar* to conduct a broad",
+          "location": 1031
+        }
+      ]
+    },
+    {
+      "id": "4qUGwQAO7ic",
+      "segments": [
+        {
+          "text": "so attorney general bill *barr* has",
+          "location": 38
+        },
+        {
+          "text": "right *bar* install check *bar* with",
+          "location": 301
+        },
+        {
+          "text": "*bar* with whitaker pull d class review",
+          "location": 309
+        },
+        {
+          "text": "assignment from oh i g *bar* execute order",
+          "location": 312
+        },
+        {
+          "text": "whitaker remain doj senior staff *bar*",
+          "location": 322
+        },
+        {
+          "text": "of *barr* and whitaker",
+          "location": 334
+        },
+        {
+          "text": "know that attorney general william *bar*",
+          "location": 1015
+        },
+        {
+          "text": "of it william *bar* will let us all see",
+          "location": 1168
+        }
+      ]
+    },
+    {
+      "id": "4qZfqvdYehg",
+      "segments": [
+        {
+          "text": "*barr* was hired by the democratic",
+          "location": 1216
+        },
+        {
+          "text": "chairman so william *bar* is a no-nonsense",
+          "location": 1277
+        },
+        {
+          "text": "to william *barr* in his testimony and",
+          "location": 1396
+        },
+        {
+          "text": "just about to cut off the *bar* there the",
+          "location": 1488
+        }
+      ]
+    },
+    {
+      "id": "4WM32_p5NZI",
+      "segments": [
+        {
+          "text": "stand bullion *bar* the craftsmanship on",
+          "location": 107
+        },
+        {
+          "text": "but william *barr* had hired a familiar",
+          "location": 160
+        },
+        {
+          "text": "attorney general bill *barr* in his review",
+          "location": 174
+        },
+        {
+          "text": "john durham has been tapped to help *bar*",
+          "location": 184
+        },
+        {
+          "text": "corruption and while *barr* has said",
+          "location": 235
+        },
+        {
+          "text": "attorney general bill *barr* in his review",
+          "location": 515
+        },
+        {
+          "text": "attorney general *barr* look into these",
+          "location": 892
+        }
+      ]
+    },
+    {
+      "id": "4zVdTluDrD8",
+      "segments": [
+        {
+          "text": "enjoyed our time with the ag *bar* this",
+          "location": 149
+        }
+      ]
+    },
+    {
+      "id": "51iINaAkefs",
+      "segments": [
+        {
+          "text": "and he was also talking about how *bar* is",
+          "location": 92
+        },
+        {
+          "text": "terney general bill *barr* is a preparing",
+          "location": 699
+        },
+        {
+          "text": "plans for *barr* to submit to congress",
+          "location": 708
+        },
+        {
+          "text": "after *bar* installed what a coincidence",
+          "location": 724
+        },
+        {
+          "text": "but my *bar* is in there and now mueller's",
+          "location": 820
+        }
+      ]
+    },
+    {
+      "id": "5Ck-fsB8Q_U",
+      "segments": [
+        {
+          "text": "us this link to bright *bar* and what it",
+          "location": 1220
+        }
+      ]
+    },
+    {
+      "id": "5NBJ12AkJns",
+      "segments": [
+        {
+          "text": "say trump horowitz huber *barr* is",
+          "location": 1231
+        },
+        {
+          "text": "omg *barr* can't accept these criminal",
+          "location": 1245
+        },
+        {
+          "text": "action by trump or *bar* or huber or",
+          "location": 1260
+        }
+      ]
+    },
+    {
+      "id": "7ckUpCzidOA",
+      "segments": [
+        {
+          "text": "attorney general william *bar* selected",
+          "location": 804
+        },
+        {
+          "text": "*bar* is criticized by democrats as a",
+          "location": 867
+        }
+      ]
+    },
+    {
+      "id": "7hGuJjouBto",
+      "segments": [
+        {
+          "text": "right off the bat remember when *barr* had",
+          "location": 58
+        },
+        {
+          "text": "well *barr* had said in that testimony",
+          "location": 69
+        },
+        {
+          "text": "*bar* had a different memory of their",
+          "location": 200
+        },
+        {
+          "text": "william *barr* the attorney general not",
+          "location": 229
+        }
+      ]
+    },
+    {
+      "id": "7P4bVQlGURM",
+      "segments": [
+        {
+          "text": "100% illegal for *bar* whoever to hand",
+          "location": 1585
+        },
+        {
+          "text": "end of this year but *bar* doesn't want to",
+          "location": 1626
+        }
+      ]
+    },
+    {
+      "id": "8jdzDntzOjo",
+      "segments": [
+        {
+          "text": "that *bar* on the bottom of the picture is",
+          "location": 684
+        },
+        {
+          "text": "attorney general dustin mcdaniel *bar*",
+          "location": 1284
+        },
+        {
+          "text": "and *bar* r up these guys keister so far",
+          "location": 1408
+        }
+      ]
+    },
+    {
+      "id": "8rUGX4_84ek",
+      "segments": [
+        {
+          "text": "*bar* how the hell did anybody else know",
+          "location": 947
+        }
+      ]
+    },
+    {
+      "id": "8u0N4Ih1nBA",
+      "segments": [
+        {
+          "text": "*bar* bad girl コントロール border eas",
+          "location": 601
+        }
+      ]
+    },
+    {
+      "id": "8YFY8Or8m7c",
+      "segments": [
+        {
+          "text": "it's gonna show the address *bar* to go to",
+          "location": 172
+        }
+      ]
+    },
+    {
+      "id": "9YEBZGETgDI",
+      "segments": [
+        {
+          "text": "*bar* in place and the deep state has",
+          "location": 591
+        },
+        {
+          "text": "*barr* is going to probably announce that",
+          "location": 650
+        }
+      ]
+    },
+    {
+      "id": "A_q9loFp_yE",
+      "segments": [
+        {
+          "text": "solid silver united we stand bullion *bar*",
+          "location": 155
+        },
+        {
+          "text": "pay the *bar* bill the *bar* bill is coming",
+          "location": 211
+        },
+        {
+          "text": "public safety spokesman *barr* graves told",
+          "location": 1266
+        }
+      ]
+    },
+    {
+      "id": "AamTwoNyBuw",
+      "segments": [
+        {
+          "text": "william *bar*",
+          "location": 86
+        }
+      ]
+    },
+    {
+      "id": "aL95wyL2Nno",
+      "segments": [
+        {
+          "text": "william *barr* got sworn in and it just",
+          "location": 68
+        }
+      ]
+    },
+    {
+      "id": "aolzsrFMuXo",
+      "segments": [
+        {
+          "text": "general nominee william *bar* for a",
+          "location": 126
+        },
+        {
+          "text": "answered *bar* said during his testimony",
+          "location": 135
+        },
+        {
+          "text": "*barr* has yet to be confirmed but",
+          "location": 138
+        },
+        {
+          "text": "questioning of *barr* referenced the miami",
+          "location": 259
+        },
+        {
+          "text": "within the department when testing *bar*",
+          "location": 641
+        }
+      ]
+    },
+    {
+      "id": "axHwWgdMBDM",
+      "segments": [
+        {
+          "text": "it so that when *bar* or durham comes",
+          "location": 1746
+        },
+        {
+          "text": "to discredit *barr* and saying he is a",
+          "location": 1753
+        },
+        {
+          "text": "and so when *barr* and durham comes back",
+          "location": 1770
+        },
+        {
+          "text": "that mr. *barr* has given over the last",
+          "location": 1826
+        },
+        {
+          "text": "from *barr* so the key players have been",
+          "location": 1856
+        },
+        {
+          "text": "during california state *bar* hearing you",
+          "location": 2313
+        },
+        {
+          "text": "better guy right and add a *bar* hearing i",
+          "location": 2381
+        }
+      ]
+    },
+    {
+      "id": "bHgnXTF3F-Q",
+      "segments": [
+        {
+          "text": "is *bar* being handpicked senator jeff",
+          "location": 145
+        },
+        {
+          "text": "william *bar* to just be like okay take it",
+          "location": 192
+        },
+        {
+          "text": "william *bar* on the daily beast saying i",
+          "location": 367
+        },
+        {
+          "text": "*bar* yesterday",
+          "location": 399
+        },
+        {
+          "text": "whittaker and *barr* retain rod rosen",
+          "location": 449
+        },
+        {
+          "text": "mueller summary report submitted by *bar*",
+          "location": 455
+        },
+        {
+          "text": "there so he could back up what *barr* said",
+          "location": 466
+        },
+        {
+          "text": "because remember *barr* is quote president",
+          "location": 468
+        },
+        {
+          "text": "*bar* hand-picked president's hand-picked",
+          "location": 987
+        },
+        {
+          "text": "that report came out and *bar* had",
+          "location": 1975
+        }
+      ]
+    },
+    {
+      "id": "BXPH_yc4SIw",
+      "segments": [
+        {
+          "text": "you know attorney general *bar* but i feel",
+          "location": 787
+        },
+        {
+          "text": "*bar* was doing the legal work back over",
+          "location": 816
+        },
+        {
+          "text": "then it was laundered where did *bar* and",
+          "location": 3080
+        }
+      ]
+    },
+    {
+      "id": "c_qd3M0g1mI",
+      "segments": [
+        {
+          "text": "attorney general william *bar* and made",
+          "location": 87
+        }
+      ]
+    },
+    {
+      "id": "C3LnwjLf43M",
+      "segments": [
+        {
+          "text": "スタッフ *bar* to do mi プリン fill me go 4",
+          "location": 383
+        }
+      ]
+    },
+    {
+      "id": "c3zKX-0J_Xw",
+      "segments": [
+        {
+          "text": "general william *bar* and a us attorney",
+          "location": 1187
+        },
+        {
+          "text": "man bill *barr* bern said and we see the",
+          "location": 1755
+        },
+        {
+          "text": "*bar* crept up on him is about to take",
+          "location": 1815
+        }
+      ]
+    },
+    {
+      "id": "C9Q2lpYkchM",
+      "segments": [
+        {
+          "text": "attorney general william *barr* stressed",
+          "location": 161
+        },
+        {
+          "text": "those actions violated the law *barr* said",
+          "location": 180
+        },
+        {
+          "text": "lists as *barr* noted 10 possible",
+          "location": 573
+        },
+        {
+          "text": "obstruction by the doj *barr* said trump",
+          "location": 580
+        },
+        {
+          "text": "constituted breaking the law as *barr*",
+          "location": 635
+        },
+        {
+          "text": "it was *bar* giving mueller's conclusions",
+          "location": 845
+        }
+      ]
+    },
+    {
+      "id": "cmj-73z3RoQ",
+      "segments": [
+        {
+          "text": "if he is working with *bar* into these",
+          "location": 2412
+        }
+      ]
+    },
+    {
+      "id": "cogyNOVuTf4",
+      "segments": [
+        {
+          "text": "we have that now that we have *bar* in the",
+          "location": 1721
+        },
+        {
+          "text": "through 4 removal *bar* install that's",
+          "location": 1729
+        },
+        {
+          "text": "been done *bar* with whittaker review",
+          "location": 1732
+        },
+        {
+          "text": "*bar* with whitaker pull d-class review",
+          "location": 1742
+        },
+        {
+          "text": "the conversation between *bar* and mueller",
+          "location": 1782
+        },
+        {
+          "text": "and *bar* and rosenstein all right and",
+          "location": 1785
+        }
+      ]
+    },
+    {
+      "id": "ctaiPYR6ttk",
+      "segments": [
+        {
+          "text": "attorney general *bar* could go in there",
+          "location": 1162
+        },
+        {
+          "text": "what would the media do oh *barr* he's",
+          "location": 1323
+        }
+      ]
+    },
+    {
+      "id": "CYXzhK5NCm0",
+      "segments": [
+        {
+          "text": "talk to the people in ukraine bill *barr*",
+          "location": 1562
+        }
+      ]
+    },
+    {
+      "id": "cZ0p8JfpMa0",
+      "segments": [
+        {
+          "text": "*barr* came out from hm last night they",
+          "location": 410
+        },
+        {
+          "text": "last name of *bar* which i don't think",
+          "location": 679
+        },
+        {
+          "text": "four digits of the phone number from *bar*",
+          "location": 817
+        },
+        {
+          "text": "as attorney *barr* has worked for right",
+          "location": 864
+        },
+        {
+          "text": "*bar* have stated that they have no",
+          "location": 1039
+        }
+      ]
+    },
+    {
+      "id": "d_mnryTta64",
+      "segments": [
+        {
+          "text": "co-op do j *bar* durham class 1 through 4",
+          "location": 302
+        },
+        {
+          "text": "kingdom coop the doj *bar* durham",
+          "location": 310
+        },
+        {
+          "text": "talking about john durham and *bar*",
+          "location": 318
+        }
+      ]
+    },
+    {
+      "id": "D6N4IAv0PtA",
+      "segments": [
+        {
+          "text": "owns a local like market deli *bar* place",
+          "location": 1450
+        }
+      ]
+    },
+    {
+      "id": "d853bKYShMY",
+      "segments": [
+        {
+          "text": "*barr* met with rupert murdoch as trump",
+          "location": 610
+        },
+        {
+          "text": "new york so *barr* met with him inside his",
+          "location": 637
+        },
+        {
+          "text": "so yeah william *bar* you know goes to",
+          "location": 677
+        },
+        {
+          "text": "with *bar* meeting with rupert the night",
+          "location": 808
+        }
+      ]
+    },
+    {
+      "id": "daO3qCnHZwE",
+      "segments": [
+        {
+          "text": "are both of bill *bar* with martha as we",
+          "location": 56
+        },
+        {
+          "text": "general horowitz and *bar* and durham all",
+          "location": 696
+        }
+      ]
+    },
+    {
+      "id": "Dq4lP7VOOdA",
+      "segments": [
+        {
+          "text": "*bar* study immigration to redistribute",
+          "location": 93
+        },
+        {
+          "text": "soros from q bill *barr* was off by",
+          "location": 888
+        },
+        {
+          "text": "and bill *barr* is mentioning him recently",
+          "location": 922
+        }
+      ]
+    },
+    {
+      "id": "e4aVHRbw4F4",
+      "segments": [
+        {
+          "text": "dj *bar* signal",
+          "location": 7
+        },
+        {
+          "text": "usb そう noora das beste アーレフ a *bar* レバー by",
+          "location": 599
+        }
+      ]
+    },
+    {
+      "id": "EK8UqyjddIQ",
+      "segments": [
+        {
+          "text": "congress today trying to hold mr. *barr*",
+          "location": 30
+        },
+        {
+          "text": "requested was that william *bar* give them",
+          "location": 159
+        },
+        {
+          "text": "trying to destroy bill *bar* because",
+          "location": 345
+        },
+        {
+          "text": "never forget what bill *barr* said a few",
+          "location": 353
+        },
+        {
+          "text": "and what i know his bill *barr* has said",
+          "location": 431
+        },
+        {
+          "text": "yes bill *barr* said he's gonna get to the",
+          "location": 435
+        },
+        {
+          "text": "robert muller had given william *bar* when",
+          "location": 619
+        },
+        {
+          "text": "criticism for sandbagging bill *barr*",
+          "location": 647
+        },
+        {
+          "text": "*barr* that summer",
+          "location": 667
+        },
+        {
+          "text": "call bill *barr* was obliged under",
+          "location": 672
+        },
+        {
+          "text": "letter i think bill *barr* was honestly",
+          "location": 701
+        },
+        {
+          "text": "*barr* had set ace parameters that the",
+          "location": 755
+        }
+      ]
+    },
+    {
+      "id": "EV5DgL5JW2k",
+      "segments": [
+        {
+          "text": "dj *bar* signal",
+          "location": 7
+        }
+      ]
+    },
+    {
+      "id": "Fjm284ukOdU",
+      "segments": [
+        {
+          "text": "as an article about roseanne *barr*",
+          "location": 1781
+        }
+      ]
+    },
+    {
+      "id": "FSOYILVQ9Uo",
+      "segments": [
+        {
+          "text": "attorney general bill *barr* is being",
+          "location": 147
+        },
+        {
+          "text": "attorney general william *barr* publicly",
+          "location": 500
+        }
+      ]
+    },
+    {
+      "id": "fuDgdt7tolU",
+      "segments": [
+        {
+          "text": "but *bar* had a meeting with mr. murdoch",
+          "location": 2557
+        },
+        {
+          "text": "know a *bar* just came back from the world",
+          "location": 2582
+        },
+        {
+          "text": "their respective countries and *bar* could",
+          "location": 2597
+        }
+      ]
+    },
+    {
+      "id": "fwTMg5XRc7M",
+      "segments": [
+        {
+          "text": "*bar* was going to assemble a red flag",
+          "location": 1524
+        }
+      ]
+    },
+    {
+      "id": "G9vIpCbj9J0",
+      "segments": [
+        {
+          "text": "bill *barr*",
+          "location": 526
+        },
+        {
+          "text": "attorney general bill *barr* is in italy",
+          "location": 1143
+        },
+        {
+          "text": "general bill *barr* is currently on",
+          "location": 1155
+        },
+        {
+          "text": "*bar* is looking into it and i'm loved",
+          "location": 1199
+        }
+      ]
+    },
+    {
+      "id": "gfIp6kBozG8",
+      "segments": [
+        {
+          "text": "conversation at a london *bar* in",
+          "location": 774
+        },
+        {
+          "text": "june attorney general william p *bar* has",
+          "location": 948
+        },
+        {
+          "text": "mr. *barr* reignited the controversy last",
+          "location": 990
+        },
+        {
+          "text": "do this whatsoever mr. *barr* again",
+          "location": 1031
+        },
+        {
+          "text": "the warrant to surveil mr. page mr. *barr*",
+          "location": 1092
+        }
+      ]
+    },
+    {
+      "id": "gIt9yrUSDao",
+      "segments": [
+        {
+          "text": "*bar* this week in washington who so you",
+          "location": 649
+        },
+        {
+          "text": "are gonna happen *bar* meeting hubert and",
+          "location": 660
+        },
+        {
+          "text": "attorney general *barr* from lindsey",
+          "location": 744
+        },
+        {
+          "text": "the request anyway let's see if *bar*",
+          "location": 1031
+        }
+      ]
+    },
+    {
+      "id": "gQyJoGmPKB0",
+      "segments": [
+        {
+          "text": "*bar* boom there we are president trump on",
+          "location": 653
+        },
+        {
+          "text": "today mueller reports to *bar* one of his",
+          "location": 686
+        },
+        {
+          "text": "that possible on same day as *bar*",
+          "location": 766
+        }
+      ]
+    },
+    {
+      "id": "GVj_wOEPhkc",
+      "segments": [
+        {
+          "text": "*bar* must bring muller letter to senate",
+          "location": 26
+        },
+        {
+          "text": "william *bar* bring a letter from special",
+          "location": 38
+        },
+        {
+          "text": "glaring *barr* must bring the letter with",
+          "location": 55
+        },
+        {
+          "text": "2016 election *barr* is scheduled to",
+          "location": 242
+        },
+        {
+          "text": "told cnn on tuesday that he believed *bar*",
+          "location": 269
+        },
+        {
+          "text": "general *barr* has always been the chief",
+          "location": 321
+        },
+        {
+          "text": "and it says mr. *barr* and senior justice",
+          "location": 428
+        },
+        {
+          "text": "left mr. *barr* to clear mr. trump without",
+          "location": 445
+        },
+        {
+          "text": "know of course bill *barr* is testifying",
+          "location": 945
+        }
+      ]
+    },
+    {
+      "id": "GvVNIZPpagc",
+      "segments": [
+        {
+          "text": "do not expect mr. *barr* to testify in",
+          "location": 741
+        }
+      ]
+    },
+    {
+      "id": "gw7NTDLYZBM",
+      "segments": [
+        {
+          "text": "durham *bar* and horowitz should all drop",
+          "location": 569
+        }
+      ]
+    },
+    {
+      "id": "gyu-KR6lN_g",
+      "segments": [
+        {
+          "text": "forget about *bar* and muellers probe",
+          "location": 1383
+        }
+      ]
+    },
+    {
+      "id": "gzUS_FdDBeY",
+      "segments": [
+        {
+          "text": "filed our charges unethical *bar* charges",
+          "location": 2267
+        },
+        {
+          "text": "unless i withdrew the *bar* charges he",
+          "location": 2272
+        }
+      ]
+    },
+    {
+      "id": "h-UucfDaVkk",
+      "segments": [
+        {
+          "text": "that q says if attorney general *bar* has",
+          "location": 112
+        },
+        {
+          "text": "attorney general *bar* be forced to d",
+          "location": 127
+        },
+        {
+          "text": "hearing well attorney general *bar* be",
+          "location": 152
+        },
+        {
+          "text": "seen *bar* none and what became a very",
+          "location": 1007
+        }
+      ]
+    },
+    {
+      "id": "haLSsJsM7Pw",
+      "segments": [
+        {
+          "text": "to *barr* to let him handle you know huber",
+          "location": 98
+        }
+      ]
+    },
+    {
+      "id": "hgOkTMxqW6s",
+      "segments": [
+        {
+          "text": "day with three booms *bar* durham horowitz",
+          "location": 991
+        },
+        {
+          "text": "*bar* from the video last night what was",
+          "location": 1047
+        },
+        {
+          "text": "report durham rebuttal *bar* rebuttal we",
+          "location": 1081
+        },
+        {
+          "text": "things one horowitz durham and *bar* are",
+          "location": 1089
+        },
+        {
+          "text": "horowitz durham and *bar* were",
+          "location": 1101
+        },
+        {
+          "text": "we have the *bar* statement we have the",
+          "location": 1286
+        }
+      ]
+    },
+    {
+      "id": "hJNxGkvhTcQ",
+      "segments": [
+        {
+          "text": "hair since *bar* in july and i remember",
+          "location": 2041
+        }
+      ]
+    },
+    {
+      "id": "i_kG99qtXzk",
+      "segments": [
+        {
+          "text": "attorney general bill *barr* and durham",
+          "location": 1249
+        },
+        {
+          "text": "talking trash about *barr* i would love to",
+          "location": 1281
+        },
+        {
+          "text": "to help *bar* to quote ensure that",
+          "location": 1342
+        }
+      ]
+    },
+    {
+      "id": "i3J_ofuCq0M",
+      "segments": [
+        {
+          "text": "well *barr* got his new job our funding",
+          "location": 63
+        },
+        {
+          "text": "very interesting about *bar* yep he's in",
+          "location": 208
+        },
+        {
+          "text": "guess the *bar* *bar* is now on board and we",
+          "location": 530
+        },
+        {
+          "text": "what happens in the *bar* we get judiciary",
+          "location": 611
+        },
+        {
+          "text": "basically paused on that and then *bar*",
+          "location": 939
+        },
+        {
+          "text": "so i'm very interested to see what *bar*",
+          "location": 1015
+        },
+        {
+          "text": "removal bought install *bar* so that's",
+          "location": 1179
+        },
+        {
+          "text": "where we're at right there *bar* whitaker",
+          "location": 1182
+        },
+        {
+          "text": "meeting what *bar* whittaker polls d class",
+          "location": 1200
+        },
+        {
+          "text": "excetera *bar*",
+          "location": 1221
+        },
+        {
+          "text": "what did what did *barr* get passed",
+          "location": 1327
+        },
+        {
+          "text": "*bar* really is the key for this you know",
+          "location": 1431
+        },
+        {
+          "text": "yes no yes show mr. *barr* you know for",
+          "location": 1491
+        }
+      ]
+    },
+    {
+      "id": "I3rhKJiPcV0",
+      "segments": [
+        {
+          "text": "general william *bar* give them an update",
+          "location": 572
+        },
+        {
+          "text": "appointing *bar* etc etc cargill *bar* gold",
+          "location": 675
+        }
+      ]
+    },
+    {
+      "id": "i4cyrrt39MU",
+      "segments": [
+        {
+          "text": "now *bar* and the oig to proceed with the",
+          "location": 1106
+        },
+        {
+          "text": "command bill *bar* what stage experience",
+          "location": 1526
+        },
+        {
+          "text": "provide *bar* quote this is not simply",
+          "location": 1553
+        },
+        {
+          "text": "we have this guy *barr* who actually",
+          "location": 1590
+        }
+      ]
+    },
+    {
+      "id": "iGXfBR_jrAc",
+      "segments": [
+        {
+          "text": "but you know we got the durham *bar* type",
+          "location": 586
+        },
+        {
+          "text": "yeah we got a stein *bar* so guys here's",
+          "location": 1203
+        }
+      ]
+    },
+    {
+      "id": "iRHLnm3z5ok",
+      "segments": [
+        {
+          "text": "and on this article it says *bar* said",
+          "location": 658
+        },
+        {
+          "text": "as *barr* said quote he has not been",
+          "location": 670
+        },
+        {
+          "text": "*barr* said durham would now be taking",
+          "location": 675
+        }
+      ]
+    },
+    {
+      "id": "irKzl9ixCOk",
+      "segments": [
+        {
+          "text": "talking with roseanne *barr* just before",
+          "location": 150
+        },
+        {
+          "text": "and bill *bar* both i guess respond at",
+          "location": 1472
+        }
+      ]
+    },
+    {
+      "id": "j4hiKMfATkg",
+      "segments": [
+        {
+          "text": "absolutely honored and miss *barr* if you",
+          "location": 1025
+        },
+        {
+          "text": "*bar* hammered for stating spying did",
+          "location": 1042
+        },
+        {
+          "text": "doesn't trust *bar* but she trusts special",
+          "location": 1110
+        },
+        {
+          "text": "leader chuck schumer later accused *barr*",
+          "location": 1120
+        },
+        {
+          "text": "accused *barr* of peddling conspiracy",
+          "location": 1152
+        },
+        {
+          "text": "said *barr* quote should not casually",
+          "location": 1195
+        }
+      ]
+    },
+    {
+      "id": "j8tLiy9F3NQ",
+      "segments": [
+        {
+          "text": "agents during california state *bar*",
+          "location": 81
+        },
+        {
+          "text": "*barr* has not came in and just white",
+          "location": 516
+        },
+        {
+          "text": "*bar* none and i think we are definitely",
+          "location": 1744
+        }
+      ]
+    },
+    {
+      "id": "Jawv5OeHcNE",
+      "segments": [
+        {
+          "text": "talk about her here just second bill *bar*",
+          "location": 908
+        },
+        {
+          "text": "for *bar* pompeyo durham and horowitz who",
+          "location": 1055
+        },
+        {
+          "text": "so mr. *barr* i've got as investigator",
+          "location": 1063
+        }
+      ]
+    },
+    {
+      "id": "JH5M8aBGbDY",
+      "segments": [
+        {
+          "text": "like a draft highlight to william *bar*",
+          "location": 932
+        },
+        {
+          "text": "you know bill *barr* was doing op eds",
+          "location": 953
+        },
+        {
+          "text": "*barr* got it and then he you know did his",
+          "location": 1017
+        }
+      ]
+    },
+    {
+      "id": "jM20EJcS0Ck",
+      "segments": [
+        {
+          "text": "durham *bar* and pompeyo across the pond",
+          "location": 437
+        },
+        {
+          "text": "*barr* attorney general bill *barr* would",
+          "location": 642
+        },
+        {
+          "text": "these other countries we've seen *bar*",
+          "location": 755
+        },
+        {
+          "text": "when *barr* had said that he was going",
+          "location": 809
+        },
+        {
+          "text": "attorney general *bar* along with",
+          "location": 1193
+        }
+      ]
+    },
+    {
+      "id": "JqJT-9QnDX4",
+      "segments": [
+        {
+          "text": "here on the daily beast *barr* went to",
+          "location": 677
+        },
+        {
+          "text": "attorney general bill *barr* traveled to",
+          "location": 687
+        },
+        {
+          "text": "one attorney general william *barr* showed",
+          "location": 697
+        },
+        {
+          "text": "quote argh i like *bar* right",
+          "location": 1180
+        }
+      ]
+    },
+    {
+      "id": "jUY45J7zfzQ",
+      "segments": [
+        {
+          "text": "information or william *bar* is expected",
+          "location": 219
+        },
+        {
+          "text": "from attorney general william *bar* while",
+          "location": 702
+        },
+        {
+          "text": "to william *bar* in the next two weeks so",
+          "location": 739
+        }
+      ]
+    },
+    {
+      "id": "KcpCRNFTRI8",
+      "segments": [
+        {
+          "text": "response from durham and *bar* all at the",
+          "location": 300
+        },
+        {
+          "text": "hand-picked *bar* attorney have basically",
+          "location": 2620
+        }
+      ]
+    },
+    {
+      "id": "KogmxzL09S4",
+      "segments": [
+        {
+          "text": "good news is william *bar* and john durham",
+          "location": 376
+        }
+      ]
+    },
+    {
+      "id": "KpJi0Rv_d1s",
+      "segments": [
+        {
+          "text": "edit it didn't say *bar* it didn't say",
+          "location": 1381
+        }
+      ]
+    },
+    {
+      "id": "kZnsG1Lh-_U",
+      "segments": [
+        {
+          "text": "フォース earo りーるー s *bar*",
+          "location": 77
+        }
+      ]
+    },
+    {
+      "id": "L9iHVWO-gUs",
+      "segments": [
+        {
+          "text": "employee kurt *bar* della which said i",
+          "location": 682
+        }
+      ]
+    },
+    {
+      "id": "LkmcI2NRIMs",
+      "segments": [
+        {
+          "text": "the doj replacement william *bar* i",
+          "location": 444
+        }
+      ]
+    },
+    {
+      "id": "lKMKTF21Izc",
+      "segments": [
+        {
+          "text": "i hope bill *barr* will do it but remember",
+          "location": 437
+        }
+      ]
+    },
+    {
+      "id": "lREbK2wmUtw",
+      "segments": [
+        {
+          "text": "ag *bar* a liar without any proof how's",
+          "location": 333
+        },
+        {
+          "text": "bill *bar* on cbs offers no facts and ag",
+          "location": 355
+        },
+        {
+          "text": "general *barr* has full authority to d",
+          "location": 642
+        },
+        {
+          "text": "general william p *bar* in support of his",
+          "location": 719
+        },
+        {
+          "text": "exercising that authority *bar* is",
+          "location": 847
+        },
+        {
+          "text": "to the extent *bar* deemed such",
+          "location": 857
+        },
+        {
+          "text": "attorney general *bar* or their associates",
+          "location": 1002
+        },
+        {
+          "text": "information from attorney general *bar*",
+          "location": 1127
+        },
+        {
+          "text": "you about anyways attorney general *barr*",
+          "location": 1162
+        },
+        {
+          "text": "to look at this william *bar* says right",
+          "location": 1179
+        },
+        {
+          "text": "william *bar* right jan crawford and now",
+          "location": 1224
+        },
+        {
+          "text": "forth between attorney general *bar* and",
+          "location": 1246
+        }
+      ]
+    },
+    {
+      "id": "lyVm8IL9agw",
+      "segments": [
+        {
+          "text": "general bill *bar* and he's talking about",
+          "location": 1026
+        }
+      ]
+    },
+    {
+      "id": "m0Q0wjturig",
+      "segments": [
+        {
+          "text": "assumption power of *bar* can a sealed",
+          "location": 458
+        },
+        {
+          "text": "in the kill box report over to *bar*",
+          "location": 469
+        }
+      ]
+    },
+    {
+      "id": "m1rNjyjIvwY",
+      "segments": [
+        {
+          "text": "address *bar* typing something in so",
+          "location": 883
+        },
+        {
+          "text": "*barr* reportedly have decided to decline",
+          "location": 1159
+        },
+        {
+          "text": "prose by the r ig and *barr* appointed",
+          "location": 1253
+        }
+      ]
+    },
+    {
+      "id": "MdXPWY7KLdo",
+      "segments": [
+        {
+          "text": "graham sent a letter to aeg *bar*",
+          "location": 280
+        },
+        {
+          "text": "gonna notice mr. william *barr* is a busy",
+          "location": 298
+        },
+        {
+          "text": "the heir attorney general *bar* as you are",
+          "location": 304
+        },
+        {
+          "text": "william *bar* in the oval office at 3:42",
+          "location": 864
+        },
+        {
+          "text": "*bar* watch proof any veto dot png",
+          "location": 969
+        },
+        {
+          "text": "william *bar* attorney general at law oh",
+          "location": 1403
+        }
+      ]
+    },
+    {
+      "id": "MEJjCT8OD1I",
+      "segments": [
+        {
+          "text": "along we're waiting for *bar* to testify",
+          "location": 803
+        }
+      ]
+    },
+    {
+      "id": "mELNZujblCw",
+      "segments": [
+        {
+          "text": "william *bar* now remember last year",
+          "location": 1410
+        },
+        {
+          "text": "authority directly to ag *bar* q hmm i",
+          "location": 1499
+        }
+      ]
+    },
+    {
+      "id": "MUDnPOu7OQU",
+      "segments": [
+        {
+          "text": "think of really that's a low *bar* to have",
+          "location": 1003
+        }
+      ]
+    },
+    {
+      "id": "mzD0WsRspB0",
+      "segments": [
+        {
+          "text": "*barr* had put a investigator i think he",
+          "location": 63
+        }
+      ]
+    },
+    {
+      "id": "n__2EsOFs8s",
+      "segments": [
+        {
+          "text": "seeing what mr. *bar* can do through all",
+          "location": 930
+        }
+      ]
+    },
+    {
+      "id": "n734Bpyl2c0",
+      "segments": [
+        {
+          "text": "*bar* is said to doubt inspector general's",
+          "location": 976
+        },
+        {
+          "text": "getting *bar* and inspector general watch",
+          "location": 984
+        },
+        {
+          "text": "william *bar* disputes key inspector",
+          "location": 989
+        },
+        {
+          "text": "rusha investigation *bar* still sides with",
+          "location": 992
+        },
+        {
+          "text": "bill *bar* disputes key inspector find",
+          "location": 1000
+        },
+        {
+          "text": "*bar* said to doubt inspector general's",
+          "location": 1005
+        },
+        {
+          "text": "*bar* investigation not the ig report that",
+          "location": 1029
+        },
+        {
+          "text": "attorney general william *bar* still sides",
+          "location": 1039
+        },
+        {
+          "text": "disputes *bar* saying inspector general",
+          "location": 1067
+        },
+        {
+          "text": "claims *bar* misquoted russia story here's",
+          "location": 1074
+        },
+        {
+          "text": "a new one *bar* doesn't accept key",
+          "location": 1077
+        }
+      ]
+    },
+    {
+      "id": "N9M7HdiUIKg",
+      "segments": [
+        {
+          "text": "roseanne *barr* who tweeted several",
+          "location": 151
+        }
+      ]
+    },
+    {
+      "id": "NAGmEcfq2U0",
+      "segments": [
+        {
+          "text": "*bar* and ratcliffe are the perfect team",
+          "location": 1436
+        }
+      ]
+    },
+    {
+      "id": "neDSIJscdS8",
+      "segments": [
+        {
+          "text": "all right over here on fox news *bar*",
+          "location": 53
+        },
+        {
+          "text": "mr. *barr* there took absolutely no guff",
+          "location": 68
+        },
+        {
+          "text": "attorney general bill *barr* testified",
+          "location": 76
+        },
+        {
+          "text": "campaign is a big deal oh it is *barr*",
+          "location": 121
+        },
+        {
+          "text": "wink wink *bar* reveals he is reviewing",
+          "location": 286
+        },
+        {
+          "text": "hearing at capitol hill on tuesday *barr*",
+          "location": 503
+        },
+        {
+          "text": "report in the matter of days *barr* also",
+          "location": 539
+        },
+        {
+          "text": "was conducted in the summer of 2016 *barr*",
+          "location": 566
+        },
+        {
+          "text": "sir *barr* assembles team to look into",
+          "location": 584
+        },
+        {
+          "text": "source said *barr* had assembled quote a",
+          "location": 594
+        },
+        {
+          "text": "wednesday *barr* testified that he hasn't",
+          "location": 603
+        },
+        {
+          "text": "russia investigation and called on *barr*",
+          "location": 882
+        },
+        {
+          "text": "referrals *barr* said he hasn't seen them",
+          "location": 927
+        },
+        {
+          "text": "remarks by attorney general bill *barr*",
+          "location": 1013
+        },
+        {
+          "text": "*barr* told the senate judiciary committee",
+          "location": 1020
+        },
+        {
+          "text": "of the *bar* testimony today on wednesday",
+          "location": 1440
+        }
+      ]
+    },
+    {
+      "id": "nn9GfBgPdlA",
+      "segments": [
+        {
+          "text": "he says but *bar* will have a large",
+          "location": 1306
+        },
+        {
+          "text": "charges against comey *barr* says now now",
+          "location": 2789
+        }
+      ]
+    },
+    {
+      "id": "O63eWMktkkY",
+      "segments": [
+        {
+          "text": "alright link on bright *bar* exclusive",
+          "location": 514
+        },
+        {
+          "text": "said he believes *barr* will have to act",
+          "location": 638
+        },
+        {
+          "text": "*barr* watches you and other youtube",
+          "location": 1114
+        },
+        {
+          "text": "roseanne *barr* video i have a lot of",
+          "location": 1187
+        },
+        {
+          "text": "general william *bar* in the oval office",
+          "location": 1405
+        }
+      ]
+    },
+    {
+      "id": "ob2pqqwGzJc",
+      "segments": [
+        {
+          "text": "bill *barr* and i will hold offenders",
+          "location": 1041
+        },
+        {
+          "text": "bill *barr* has the metal to pursue",
+          "location": 1054
+        },
+        {
+          "text": "general bill *bar* this week well so a few",
+          "location": 1071
+        }
+      ]
+    },
+    {
+      "id": "oqWCfr0jN3Q",
+      "segments": [
+        {
+          "text": "prominent followers roseanne *barr* who",
+          "location": 863
+        }
+      ]
+    },
+    {
+      "id": "OvgvEHoD_v0",
+      "segments": [
+        {
+          "text": "it's just flam *bar* all righty then",
+          "location": 814
+        },
+        {
+          "text": "also possibly talk about *bar* also",
+          "location": 2457
+        },
+        {
+          "text": "for *bar* some of the stuff that our doc",
+          "location": 2699
+        },
+        {
+          "text": "that *bar* is shutting down muller trump's",
+          "location": 2862
+        }
+      ]
+    },
+    {
+      "id": "P9hR-iNR2eE",
+      "segments": [
+        {
+          "text": "q so as he debriefed *bar* on all the",
+          "location": 260
+        },
+        {
+          "text": "general *bar* quote disgusted by what he's",
+          "location": 275
+        },
+        {
+          "text": "attorney general *bar* is disgusted by",
+          "location": 323
+        },
+        {
+          "text": "power of *bar* question mark can a sealed",
+          "location": 343
+        },
+        {
+          "text": "the new attorney general bill *bar* and i",
+          "location": 1475
+        }
+      ]
+    },
+    {
+      "id": "pbrJ1XxupEg",
+      "segments": [
+        {
+          "text": "confirms william *bar* as attorney general",
+          "location": 576
+        },
+        {
+          "text": "period *bar* none",
+          "location": 1308
+        }
+      ]
+    },
+    {
+      "id": "Pd42k6l0BOY",
+      "segments": [
+        {
+          "text": "record ag *bar* created a new commission",
+          "location": 370
+        },
+        {
+          "text": "potus over to *bar* *bar* over to durham",
+          "location": 928
+        },
+        {
+          "text": "with ooh what's the *bar* administration",
+          "location": 983
+        },
+        {
+          "text": "general william *bar* who hasn't done",
+          "location": 1461
+        },
+        {
+          "text": "on the desk of william *barr* who hasn't",
+          "location": 1498
+        }
+      ]
+    },
+    {
+      "id": "pgZ_c02-7XY",
+      "segments": [
+        {
+          "text": "horowitz recommends charges but *bar*",
+          "location": 673
+        },
+        {
+          "text": "because *bar* has declined and we're",
+          "location": 1590
+        },
+        {
+          "text": "still missing is a *bar* has not testified",
+          "location": 2646
+        },
+        {
+          "text": "huber itself we've heard *bar* communicate",
+          "location": 2882
+        }
+      ]
+    },
+    {
+      "id": "pMhedqnnY-I",
+      "segments": [
+        {
+          "text": "would be illegal for a g *bar* to disclose",
+          "location": 519
+        },
+        {
+          "text": "*bar* must redact grand jury material from",
+          "location": 543
+        },
+        {
+          "text": "*bar* can be reasonably faulted for",
+          "location": 553
+        }
+      ]
+    },
+    {
+      "id": "pn7XxxfmrJk",
+      "segments": [
+        {
+          "text": "so spying as bill *barr* said under oath",
+          "location": 847
+        },
+        {
+          "text": "have william *barr* in there and the all",
+          "location": 887
+        }
+      ]
+    },
+    {
+      "id": "q_LY8VPchs0",
+      "segments": [
+        {
+          "text": "and that's the reason why bill *barr* was",
+          "location": 282
+        },
+        {
+          "text": "ratcliffe attorney general william *barr*",
+          "location": 419
+        },
+        {
+          "text": "trusts attorney general william *bar* in",
+          "location": 447
+        },
+        {
+          "text": "rackleff explained this is white *bar* who",
+          "location": 537
+        },
+        {
+          "text": "that would be fair for bill *barr* and",
+          "location": 555
+        },
+        {
+          "text": "has confidence in bill *barr* in john",
+          "location": 617
+        }
+      ]
+    },
+    {
+      "id": "qmdFYiXPY18",
+      "segments": [
+        {
+          "text": "about eight o'clock muller and *bar* team",
+          "location": 48
+        },
+        {
+          "text": "whole deal about william *bar* stating",
+          "location": 59
+        },
+        {
+          "text": "william *bar* didn't like too much about",
+          "location": 100
+        },
+        {
+          "text": "general william *bar* on the",
+          "location": 119
+        },
+        {
+          "text": "from what *bar* has said former governor",
+          "location": 214
+        },
+        {
+          "text": "of *barr* so they're basically saying in",
+          "location": 242
+        },
+        {
+          "text": "deal and *barr* was off in alaska and all",
+          "location": 379
+        },
+        {
+          "text": "over collins writes *bar* and horowitz",
+          "location": 476
+        },
+        {
+          "text": "general william *barr* from doug collins i",
+          "location": 544
+        }
+      ]
+    },
+    {
+      "id": "QPN3h2F9EbE",
+      "segments": [
+        {
+          "text": "a g *bar* to disclose right we have a",
+          "location": 520
+        },
+        {
+          "text": "*bar* must redact grand jury material from",
+          "location": 543
+        },
+        {
+          "text": "*bar* can be reasonably faulted for",
+          "location": 553
+        }
+      ]
+    },
+    {
+      "id": "QS98lwr2p2U",
+      "segments": [
+        {
+          "text": "out *bar* to release releasing low-level",
+          "location": 1234
+        }
+      ]
+    },
+    {
+      "id": "rWW48Wpg5HA",
+      "segments": [
+        {
+          "text": "*bar* video you have two different sets of",
+          "location": 123
+        },
+        {
+          "text": "likes and comments the nunez to *bar*",
+          "location": 126
+        },
+        {
+          "text": "is two days ago well i did upload *bar* or",
+          "location": 170
+        },
+        {
+          "text": "excuse me nunez to *bar* this morning",
+          "location": 175
+        },
+        {
+          "text": "25-minute video nunez to *bar* criminal",
+          "location": 210
+        },
+        {
+          "text": "april 9th at 7:06 p.m. *bar* forms team to",
+          "location": 333
+        },
+        {
+          "text": "*bar* has assembled a team to review",
+          "location": 366
+        },
+        {
+          "text": "this indicates that *barr* is looking into",
+          "location": 381
+        },
+        {
+          "text": "the fbi declined to comment *barr* said he",
+          "location": 428
+        },
+        {
+          "text": "issue came up as *barr* testified before a",
+          "location": 450
+        },
+        {
+          "text": "concerned demands for *barr* to give",
+          "location": 457
+        },
+        {
+          "text": "more attention when *bar* appears",
+          "location": 467
+        },
+        {
+          "text": "mueller report to bed once *bar* comes to",
+          "location": 506
+        },
+        {
+          "text": "the russia investigation until *bar*",
+          "location": 528
+        },
+        {
+          "text": "*bar* at the aforementioned",
+          "location": 591
+        },
+        {
+          "text": "*barr* attorney general general *bar* talk",
+          "location": 608
+        },
+        {
+          "text": "week by devon nunez attorney general *bar*",
+          "location": 1077
+        }
+      ]
+    },
+    {
+      "id": "s3KjT-k31UU",
+      "segments": [
+        {
+          "text": "district of new york report to a g *bar*",
+          "location": 212
+        },
+        {
+          "text": "himself but now we got *barr* in there",
+          "location": 220
+        }
+      ]
+    },
+    {
+      "id": "Sk7HnqvW520",
+      "segments": [
+        {
+          "text": "to do in green *bar* えんどぅアイディファームウェア",
+          "location": 378
+        }
+      ]
+    },
+    {
+      "id": "SVogkaAV66s",
+      "segments": [
+        {
+          "text": "a special package from *barr* question",
+          "location": 1273
+        },
+        {
+          "text": "attorney general william *barr* directs",
+          "location": 1358
+        },
+        {
+          "text": "william *bar* has directed the federal",
+          "location": 1390
+        },
+        {
+          "text": "the president attorney general *barr* said",
+          "location": 1431
+        }
+      ]
+    },
+    {
+      "id": "sZEDu22LOic",
+      "segments": [
+        {
+          "text": "says *barr* not recused from e pending",
+          "location": 99
+        },
+        {
+          "text": "and remember *barr* kept his promise",
+          "location": 129
+        }
+      ]
+    },
+    {
+      "id": "t_9SNDOoHWg",
+      "segments": [
+        {
+          "text": "the *bar* i'm i'm my wife's with her",
+          "location": 652
+        },
+        {
+          "text": "friend at the at a seat next to the *bar*",
+          "location": 654
+        }
+      ]
+    },
+    {
+      "id": "T6QgUHTZumg",
+      "segments": [
+        {
+          "text": "had interviewed william *bar* today he",
+          "location": 68
+        },
+        {
+          "text": "we stand bullion *bar* the craftsmanship",
+          "location": 133
+        },
+        {
+          "text": "*bar* had comment to that fact is what",
+          "location": 500
+        },
+        {
+          "text": "general *bar* has to say well i thought",
+          "location": 593
+        }
+      ]
+    },
+    {
+      "id": "t8lUnjRzmEA",
+      "segments": [
+        {
+          "text": "investigators is heating up ag bill *bar*",
+          "location": 1169
+        },
+        {
+          "text": "investigation given that that *bar* is now",
+          "location": 1196
+        },
+        {
+          "text": "are desperate and why because bill *barr*",
+          "location": 1546
+        }
+      ]
+    },
+    {
+      "id": "TBKDVUQpVM4",
+      "segments": [
+        {
+          "text": "*barr* appoints john durham the us",
+          "location": 1399
+        }
+      ]
+    },
+    {
+      "id": "Tfk9yg39u9w",
+      "segments": [
+        {
+          "text": "londyn in an upscale london *bar* in may",
+          "location": 1202
+        }
+      ]
+    },
+    {
+      "id": "TFu3NGQdatM",
+      "segments": [
+        {
+          "text": "attorney general william *barr* in 2019 to",
+          "location": 88
+        },
+        {
+          "text": "a *bar* the nsa wanted more details about",
+          "location": 180
+        },
+        {
+          "text": "first place before *barr* explains his",
+          "location": 319
+        },
+        {
+          "text": "sources confirm that ag *bar* is focused",
+          "location": 686
+        },
+        {
+          "text": "that the attorney general bill *barr* is",
+          "location": 743
+        },
+        {
+          "text": "because as we speak the dorm *bar*",
+          "location": 765
+        },
+        {
+          "text": "rollback sanctuary cities ag *bar*",
+          "location": 904
+        },
+        {
+          "text": "american citizens ag *bar* trump fires",
+          "location": 982
+        },
+        {
+          "text": "letter to attorney general *bar* on friday",
+          "location": 1001
+        },
+        {
+          "text": "russian interference in 2016 ag *bar*",
+          "location": 1013
+        }
+      ]
+    },
+    {
+      "id": "tIk2zHxCpNA",
+      "segments": [
+        {
+          "text": "*bar* change his story went on crime watch",
+          "location": 2062
+        },
+        {
+          "text": "the *bar* that night offered seth the",
+          "location": 2066
+        },
+        {
+          "text": "wasn't even at the *bar* and he was in",
+          "location": 2075
+        }
+      ]
+    },
+    {
+      "id": "tk6dQdgVDr0",
+      "segments": [
+        {
+          "text": "bill *barr* saying you know what the hell",
+          "location": 60
+        },
+        {
+          "text": "herself may get drawn into the *bar*",
+          "location": 348
+        },
+        {
+          "text": "*barr* is younger daughter big shout-out",
+          "location": 382
+        },
+        {
+          "text": "roseanne *barr* was removed because of her",
+          "location": 397
+        }
+      ]
+    },
+    {
+      "id": "tKMjx-IaKCU",
+      "segments": [
+        {
+          "text": "general william *bar* of the completion of",
+          "location": 746
+        },
+        {
+          "text": "awaiting a draft to be sent over to *bar*",
+          "location": 1074
+        },
+        {
+          "text": "on alleged fisa abuses to *bar* you've",
+          "location": 1087
+        },
+        {
+          "text": "attorney general bill *bar* and are",
+          "location": 1102
+        },
+        {
+          "text": "gave william *barr* the attorney general a",
+          "location": 1133
+        }
+      ]
+    },
+    {
+      "id": "TmYttL1Y62w",
+      "segments": [
+        {
+          "text": "remembered the doj had *bar* was up on",
+          "location": 1289
+        },
+        {
+          "text": "stage was that this morning *bar* was",
+          "location": 1293
+        }
+      ]
+    },
+    {
+      "id": "ToxI_8MSPMc",
+      "segments": [
+        {
+          "text": "conducting an investigation *barr* said he",
+          "location": 983
+        }
+      ]
+    },
+    {
+      "id": "tsqysbA1Sqo",
+      "segments": [
+        {
+          "text": "says there's a disagreement between *bar*",
+          "location": 927
+        },
+        {
+          "text": "question is is is does william *barr* have",
+          "location": 972
+        },
+        {
+          "text": "*bar* still has to testify in front of",
+          "location": 1006
+        },
+        {
+          "text": "particular post is there something *bar*",
+          "location": 1025
+        },
+        {
+          "text": "provide the materials directly to ag *bar*",
+          "location": 1146
+        },
+        {
+          "text": "ag *bar* as the attorney general would",
+          "location": 1151
+        },
+        {
+          "text": "material so *barr* has delegated to him to",
+          "location": 1189
+        },
+        {
+          "text": "reporting's about *bar* *bar* said this *bar*",
+          "location": 2555
+        }
+      ]
+    },
+    {
+      "id": "TVjx2ooENfg",
+      "segments": [
+        {
+          "text": "*bar* a grown-up is smiling in the room i",
+          "location": 77
+        },
+        {
+          "text": "william *barr* is the attorney general now",
+          "location": 85
+        },
+        {
+          "text": "*barr* if you guys notice in the header",
+          "location": 126
+        },
+        {
+          "text": "william *bar* attorney general william *bar*",
+          "location": 133
+        },
+        {
+          "text": "*barr* said i don't really agree with what",
+          "location": 401
+        },
+        {
+          "text": "*barr* said but who hasn't said a damn",
+          "location": 402
+        },
+        {
+          "text": "got what nbc news watch live a g *bar*",
+          "location": 1121
+        },
+        {
+          "text": "*bar* coming in tomorrow and i know it's",
+          "location": 1451
+        },
+        {
+          "text": "ask mueller to come in and i think *bar*",
+          "location": 1469
+        }
+      ]
+    },
+    {
+      "id": "TwH-91D_4cA",
+      "segments": [
+        {
+          "text": "forced to cross the *bar* and enter into",
+          "location": 965
+        }
+      ]
+    },
+    {
+      "id": "u3FYvlb2EiI",
+      "segments": [
+        {
+          "text": "william *bar* revealing new texts from",
+          "location": 213
+        },
+        {
+          "text": "a expert on fisa attorney general *barr*",
+          "location": 711
+        }
+      ]
+    },
+    {
+      "id": "ulfINyPBJkk",
+      "segments": [
+        {
+          "text": "*bar* case 117 isn't that interesting",
+          "location": 428
+        }
+      ]
+    },
+    {
+      "id": "uUCkBUzuNio",
+      "segments": [
+        {
+          "text": "command bright *bar* says it comes up with",
+          "location": 530
+        }
+      ]
+    },
+    {
+      "id": "uykGoyVB8pM",
+      "segments": [
+        {
+          "text": "got to remember *barr* subpoenaed twenty",
+          "location": 942
+        }
+      ]
+    },
+    {
+      "id": "v_5EKGmNPW4",
+      "segments": [
+        {
+          "text": "the gm of lou's city *bar* joe capone",
+          "location": 1509
+        }
+      ]
+    },
+    {
+      "id": "V-fa3I5dJFQ",
+      "segments": [
+        {
+          "text": "william *bar* was confirmed as a new",
+          "location": 786
+        },
+        {
+          "text": "*bar* is just the man to get to the bottom",
+          "location": 790
+        },
+        {
+          "text": "*bar* who was ag under the first president",
+          "location": 800
+        },
+        {
+          "text": "all right so it continues and says *bar*",
+          "location": 811
+        },
+        {
+          "text": "see what *bar* does and how he handles it",
+          "location": 1542
+        }
+      ]
+    },
+    {
+      "id": "V3KIFqANBfU",
+      "segments": [
+        {
+          "text": "not appointed by a g *bar* durham served",
+          "location": 806
+        },
+        {
+          "text": "bark is member handed abdi class *bar*",
+          "location": 1048
+        }
+      ]
+    },
+    {
+      "id": "vcCJ0CDPkzk",
+      "segments": [
+        {
+          "text": "nominate william *barr* to be the next",
+          "location": 736
+        },
+        {
+          "text": "attorney general *barr* served as attorney",
+          "location": 738
+        },
+        {
+          "text": "he doesn't no *bar* but *bar* commands",
+          "location": 747
+        }
+      ]
+    },
+    {
+      "id": "vd39QLgNNH4",
+      "segments": [
+        {
+          "text": "regulatory steps to *bar* the migrants who",
+          "location": 1370
+        },
+        {
+          "text": "and *bar* none and that's that so them",
+          "location": 2605
+        }
+      ]
+    },
+    {
+      "id": "VgBeVe-cudA",
+      "segments": [
+        {
+          "text": "going to give the final approval for *bar*",
+          "location": 728
+        },
+        {
+          "text": "summer of 2018 we fared *bar* talk about",
+          "location": 910
+        },
+        {
+          "text": "confirms ag *bar* in durham gathered new",
+          "location": 1212
+        }
+      ]
+    },
+    {
+      "id": "VKk8ZZmxM68",
+      "segments": [
+        {
+          "text": "going excuse me right *bar* we'll be going",
+          "location": 1160
+        },
+        {
+          "text": "i needed to mention well that in *bar* 2",
+          "location": 2272
+        },
+        {
+          "text": "press conference with *bar* or how did he",
+          "location": 2366
+        }
+      ]
+    },
+    {
+      "id": "Vp3fIO4fK8c",
+      "segments": [
+        {
+          "text": "general because i don't see william *bar*",
+          "location": 946
+        }
+      ]
+    },
+    {
+      "id": "VrWJhVsCI3E",
+      "segments": [
+        {
+          "text": "like he was trying to show up bill *bar* a",
+          "location": 561
+        },
+        {
+          "text": "*bar*",
+          "location": 665
+        },
+        {
+          "text": "*bar* and fbi director christopher rea",
+          "location": 684
+        },
+        {
+          "text": "committee on finance wrote to *barr* and",
+          "location": 706
+        }
+      ]
+    },
+    {
+      "id": "VyhODMtOPjE",
+      "segments": [
+        {
+          "text": "kill box and as *bar* going to be the man",
+          "location": 156
+        },
+        {
+          "text": "the hand-picked ag william *bar*",
+          "location": 170
+        },
+        {
+          "text": "come out and *bar* has also come out and",
+          "location": 196
+        },
+        {
+          "text": "evidence he didn't and left it up to *bar*",
+          "location": 221
+        },
+        {
+          "text": "it we saw what *bar* come in and basically",
+          "location": 223
+        },
+        {
+          "text": "we got note that *bar* came out and it",
+          "location": 249
+        },
+        {
+          "text": "said you all dead you said that *bar* made",
+          "location": 336
+        },
+        {
+          "text": "mr. *barr* said uh-uh-uh",
+          "location": 454
+        },
+        {
+          "text": "like as soon as that *bar* memo had come",
+          "location": 1652
+        }
+      ]
+    },
+    {
+      "id": "WaG1AHl_-g8",
+      "segments": [
+        {
+          "text": "the video so you know aj *bar* is a career",
+          "location": 1588
+        },
+        {
+          "text": "little earlier today labeled a *bar*",
+          "location": 1647
+        },
+        {
+          "text": "during one of these trips william *barr*",
+          "location": 1697
+        }
+      ]
+    },
+    {
+      "id": "WE2d5fJ_1BM",
+      "segments": [
+        {
+          "text": "*bar* advice from insiders all right so it",
+          "location": 201
+        },
+        {
+          "text": "*bar* has watched people such as former",
+          "location": 216
+        },
+        {
+          "text": "general *bar* in person what they think",
+          "location": 273
+        }
+      ]
+    },
+    {
+      "id": "Wf1KgiaTz9o",
+      "segments": [
+        {
+          "text": "at the top it says peppa choo keck *bar*",
+          "location": 376
+        },
+        {
+          "text": "pepe pepe who check *bar* that's funny",
+          "location": 381
+        }
+      ]
+    },
+    {
+      "id": "WJoq6-kEdxU",
+      "segments": [
+        {
+          "text": "*bar* installed *bar* with whitaker review",
+          "location": 1190
+        },
+        {
+          "text": "executing order *bar* with whitaker pull",
+          "location": 1202
+        },
+        {
+          "text": "methods etc *bar* execute order - d class",
+          "location": 1218
+        },
+        {
+          "text": "post in itself *bar* to mueller music",
+          "location": 1835
+        },
+        {
+          "text": "*bar* to mueller bob show me the evidence",
+          "location": 1848
+        },
+        {
+          "text": "*bar* bart yes so that's the misspelled",
+          "location": 1857
+        },
+        {
+          "text": "on conclusions presented *bar* - mueller",
+          "location": 1911
+        },
+        {
+          "text": "*bar* - mueller why were efforts made to",
+          "location": 1932
+        },
+        {
+          "text": "one the conversation between *barr* muller",
+          "location": 2041
+        },
+        {
+          "text": "donald trump status william *bar* is",
+          "location": 2053
+        }
+      ]
+    },
+    {
+      "id": "wm_ZuIwfmzA",
+      "segments": [
+        {
+          "text": "so last week roseanne *barr* who with the",
+          "location": 612
+        }
+      ]
+    },
+    {
+      "id": "WSkWQskVZIg",
+      "segments": [
+        {
+          "text": "favorite candy *bar* with the guy's name",
+          "location": 723
+        }
+      ]
+    },
+    {
+      "id": "x9zA1a9MS64",
+      "segments": [
+        {
+          "text": "let out so *barr* had the decision to go",
+          "location": 620
+        },
+        {
+          "text": "*bar* gets this information out and it",
+          "location": 1291
+        }
+      ]
+    },
+    {
+      "id": "XbLNBGWOiy8",
+      "segments": [
+        {
+          "text": "week from *barr* perhaps now that one i",
+          "location": 1717
+        }
+      ]
+    },
+    {
+      "id": "XI_3ot9AVRc",
+      "segments": [
+        {
+          "text": "followers roseanne *barr* who tweeted",
+          "location": 1373
+        }
+      ]
+    },
+    {
+      "id": "XJr7Q4tbrT8",
+      "segments": [
+        {
+          "text": "know rudy through bill *bar* yeah the",
+          "location": 2669
+        },
+        {
+          "text": "*bar*",
+          "location": 2747
+        }
+      ]
+    },
+    {
+      "id": "XO2nK03NahQ",
+      "segments": [
+        {
+          "text": "mark meadows says bill *bar* looking at",
+          "location": 489
+        }
+      ]
+    },
+    {
+      "id": "Xzbvod8pzjI",
+      "segments": [
+        {
+          "text": "appointed by a g *bar* i was talking to my",
+          "location": 581
+        },
+        {
+          "text": "us attorney general *bar* is going to be",
+          "location": 880
+        },
+        {
+          "text": "on so he's even hearing about what *bar*",
+          "location": 928
+        }
+      ]
+    },
+    {
+      "id": "ylSWzt4ml3I",
+      "segments": [
+        {
+          "text": "appointed by *bar* to start inquiring he",
+          "location": 563
+        },
+        {
+          "text": "you know why is *bar* and why is durham",
+          "location": 1751
+        },
+        {
+          "text": "comes *bar* in durham and october 15th and",
+          "location": 1855
+        },
+        {
+          "text": "and that's why part that's why *barr* says",
+          "location": 2076
+        }
+      ]
+    },
+    {
+      "id": "yMrbI1KLFx4",
+      "segments": [
+        {
+          "text": "come out from *bar* talking about we need",
+          "location": 643
+        },
+        {
+          "text": "now *barr* is kind of pushing himself away",
+          "location": 665
+        },
+        {
+          "text": "is he you said *bar* and and bars pushing",
+          "location": 678
+        },
+        {
+          "text": "*bar* is thinking of resigning now and the",
+          "location": 695
+        },
+        {
+          "text": "brought up *bar* i'm sure we'll get into",
+          "location": 742
+        },
+        {
+          "text": "i remember *bar* picking another outside",
+          "location": 924
+        }
+      ]
+    },
+    {
+      "id": "YNm2DzdbJ-E",
+      "segments": [
+        {
+          "text": "it just hit the gray *bar* on top i need",
+          "location": 1325
+        }
+      ]
+    },
+    {
+      "id": "YRDZYN8n2gE",
+      "segments": [
+        {
+          "text": "dj *bar* signal",
+          "location": 7
+        },
+        {
+          "text": "spain *bar* her the voodoo いうクレーム",
+          "location": 89
+        },
+        {
+          "text": "4妻 *bar* ad free なぁミラ d 9 fareast usage",
+          "location": 358
+        }
+      ]
+    },
+    {
+      "id": "yuiv2YbQAtQ",
+      "segments": [
+        {
+          "text": "dj *bar* signal",
+          "location": 7
+        }
+      ]
+    },
+    {
+      "id": "yzH3A2WACUA",
+      "segments": [
+        {
+          "text": "stein *barr* stated he received his orders",
+          "location": 1227
+        }
+      ]
+    },
+    {
+      "id": "ZHhi5bP6j30",
+      "segments": [
+        {
+          "text": "discovered evidence attorney general *bar*",
+          "location": 866
+        }
+      ]
+    },
+    {
+      "id": "ZkoOAhaFt-Q",
+      "segments": [
+        {
+          "text": "bill *barr* let's take a listen to what he",
+          "location": 809
+        }
+      ]
+    },
+    {
+      "id": "ZQK30bEDDpU",
+      "segments": [
+        {
+          "text": "william *bar* they are guessing about next",
+          "location": 90
+        },
+        {
+          "text": "this next week we're having *bar* it's",
+          "location": 366
+        },
+        {
+          "text": "william *barr* in 2017 doj abdicating its",
+          "location": 841
+        },
+        {
+          "text": "mr.william *bar* their nomination imminent",
+          "location": 855
+        },
+        {
+          "text": "william *barr* said in 2017 that he",
+          "location": 862
+        },
+        {
+          "text": "the second one saying that william *barr*",
+          "location": 1096
+        },
+        {
+          "text": "*bar* install *bar* with whitaker review rod",
+          "location": 1179
+        },
+        {
+          "text": "so we have *bar* is gonna review with",
+          "location": 1201
+        },
+        {
+          "text": "right *bar* with whitaker pull d-class",
+          "location": 1225
+        },
+        {
+          "text": "integrity *bar* execute order 2d class and",
+          "location": 1254
+        },
+        {
+          "text": "*bar* meeting huber and oh i g oh ig",
+          "location": 1278
+        },
+        {
+          "text": "subpoena of *bar* whitaker regarding",
+          "location": 1286
+        },
+        {
+          "text": "approve *bar* very very interesting times",
+          "location": 1428
+        }
+      ]
+    },
+    {
+      "id": "ZSOLaD-kbZY",
+      "segments": [
+        {
+          "text": "attorney general william p *bar* on the",
+          "location": 1113
+        },
+        {
+          "text": "put bill *bar* in the basket comey led",
+          "location": 1616
+        },
+        {
+          "text": "to put bill *bar* right he was right there",
+          "location": 1686
+        }
+      ]
+    },
+    {
+      "id": "zw69mTcI9U8",
+      "segments": [
+        {
+          "text": "warns been reassigned *bar* got in there",
+          "location": 511
+        },
+        {
+          "text": "yeah because *bar* did come out and he",
+          "location": 1220
+        }
+      ]
+    },
+    {
+      "id": "bUst18PCsRk",
+      "segments": [
+        {
+          "text": "this foxnews link about ag *bar*",
+          "location": 768
+        },
+        {
+          "text": "*bar* me to talk about durham and some of",
+          "location": 905
+        },
+        {
+          "text": "jihad to discredit the drugs *barr* said",
+          "location": 1001
+        },
+        {
+          "text": "out there because we've had *bar* talking",
+          "location": 2633
+        },
+        {
+          "text": "durham rebuttal *bar* rebuttal no",
+          "location": 2788
+        },
+        {
+          "text": "horowitz durham and *bar* all made that",
+          "location": 2809
+        }
+      ]
+    },
+    {
+      "id": "JTK8lrosaDI",
+      "segments": [
+        {
+          "text": "general william *bar* talking about the",
+          "location": 226
+        },
+        {
+          "text": "*bar* interview with ingram quote what",
+          "location": 494
+        },
+        {
+          "text": "general *bar* tomorrow night 10:00 p.m.",
+          "location": 553
+        }
+      ]
+    },
+    {
+      "id": "lcBNIvAc_fE",
+      "segments": [
+        {
+          "text": "at a *bar* just kind of chatting away",
+          "location": 1201
+        },
+        {
+          "text": "push for *bar* removal which they pretty",
+          "location": 1241
+        },
+        {
+          "text": "*bar* in durham lack of confidence in the",
+          "location": 1251
+        }
+      ]
+    }
+  ]
+}

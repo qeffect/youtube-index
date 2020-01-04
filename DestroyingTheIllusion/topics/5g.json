@@ -1,0 +1,955 @@
+{
+  "indexed": "__lGfKxA0WI,_-_MVJecq5I,_5WkbucPT4g,_ec7XMfirg4,_EqneJRgSe8,_idzf18MYXs,_Ne214s756k,_Ob8jo-qOCU,_q5-lvNqF8Y,_TPUfVabVHU,_tRUka84Q10,_UMxGoem_cE,_YS92pFld0Y,-_4Za6eoYwY,-0DjA_r32uQ,-3F6SZZIT-E,-5M7Y-zFyZ0,-9msE7-ydts,-Avsxw6BrhI,-b8zWS3tty4,-e5ABbWTn8M,-i-6mNaKI3I,-icWyKwjrY8,-kDAK81lyaY,-kYE2w6y-GA,-MYXqXNhcnc,-P8dkAqUKZY,-tSHN-cRXo0,-VRexocuLyU,-zsJy_pc_gQ,0-8SzdsEPn0,047r18PmzXg,06ZhNoUqwA4,0C27jD9e-j0,0ICCjllfcD0,0jspiMXND2A,0kkMEbbFd9M,0NUQEdAWVkQ,0q_eYZ-zjys,0SJGTnXKJLk,0th1OKXNQXY,0thRJXOyyOs,0VW3c_f1WOI,0Ytkx1pvnL8,1-v18VEV4Rg,18k-mw0lGZ0,1atlaAzWtj4,1FoSp-tBfp4,1Qa_cX1DPn8,1s9fsICUfOw,1WmbX3JQa0c,1ya6QF21RjE,1ZoQGfCIQP4,22knD94PYNw,23GkaHyU2R4,23Zi93zyS6U,24o5bLbjYh0,29VWyFZAo98,2J-isPoaOe8,2MEzlpSs3hI,2qRm-XvaYGk,2vQA-V9OnxY,2XVtrBvxoNQ,3_9MzitOhpg,3-sR3LmB0N0,305W5z9yzW0,32HzhZpqqHs,32nTGjvWF9c,34kHft924rA,3cgcmRKlIhU,3ciusVGxdno,3E_KWnG6gO8,3fi1bx4oWOE,3GvhthG2rXo,3iT9_AqKX2M,3mCWwiYSQsM,3n_fTHOHmP4,3VJvZsz9VQk,3Vpaplt92is,3WDtVeSSyrU,3WzJtUe634M,3XT99f5rZkY,3YdbQS2xw0E,40cx-g-mfDk,41qO6bukotY,4aR7zbZf3pE,4ATvSzS-TLU,4dX3v4Z4aec,4fS6egD9cSc,4mNbB0RTuoI,4MXimasATsA,4nk3rY194h8,4oXIn88QFbc,4qQd8Qu7aPM,4VCgU1v0c3I,56hnR-UeVbI,59IbF_o4Xxc,5flC3-UkdyU,5PhM32xlVEs,5RLxQOvZxXs,5St08kicLiU,5uzjLst8w68,5VFOltHRXbM,6_wyHLXHqx4,60xrsFvDYYk,6Ezxw-UNmQI,6foOgmaZN-s,6kESQU65fUA,6KttPC8JV3s,6o54Y7dhOus,6PsL7aVI12U,6sbgm3s49BM,6sC4YqrrbsQ,73cggmTCclY,7a8EAuTwhdU,7d3A9Wi1xu0,7drP1GmKuhA,7HQEEo9pTxI,7kzKO982UIQ,7OUm208GUDs,7UT-kOjOka4,80z15a0xsUQ,81p3jRVXGk4,8gkGfhtpurY,8pa8Er939dg,8QiuuwivwsM,8z6EDkIocXI,91aT7JIOIbY,9gYGBZ6wUIE,9hqxfV040oQ,9K-4Jc2l-7U,9lbn3bkROBc,9lgC6A9CGqY,9LwjAgU_2hc,9w_UO-KJccs,9xhpctWntoI,9YBPFZ6r5nY,9yIsVlJ2qAY,9zB7TNiGuDw,A4-cSwxHsV4,a4jwV9NnySU,A52PfmoHm8I,a67Ukzg63u8,A7HbMpBAg8c,A82praOPfpo,AaP-PP8-KGk,aAzQwARAo28,ABM5Oj2s6eI,aC12-gepI3U,aCfOGluhEKI,aDPMNOgOz4E,aDUDC92PxcU,AJ_U54u6gbE,ajiBcgtAY-w,aJWZ_APGg6A,AKPMK0xaRN0,AmbKxQ51VWc,aN9TllOemSA,ANDq9-ttO-w,Ao2abBxOiLY,AOParRtlvFQ,ApHsdbvYgFA,aqGYpuYdbOM,Ar3JvKPGr40,ARwagwGekv0,AuJjdL3A0Wc,AvcEuGghWQk,aWGr7i2-IYA,AwzaAL1pDXQ,aXwILTOVL0M,AyLUG-qQcCA,B5_naGkaBDg,B5MFHmezpn8,B5mo-Rnwm4s,bbAaX9B5ncY,bbpmtRc18WQ,BC_VRjt8gvw,BcZjAF2oFEE,Bd0NHLMVTAQ,BFuaMj35qAo,bG3PLtnHSuc,BGt8AVBwAQc,BLJVjp0lq4g,bmipWlYsyEM,bMWIDBnA6Z4,Bn2OlX_4C4Q,bNHR5T64ooQ,bNMvlOzCsZk,Bozlwr1uHco,BpeOtb7CWeE,bPVLncDuirE,BR9EIDuUBJQ,bTFNebYIotU,bYRSIwwnCFU,bzAYF7yEn7Y,bzCEAKmxlVs,C_h2RLZEGEk,c1C7epr44bw,c7Yfc_JZAaU,CCLJZ-bM01Q,CDZhS3BfdB0,CeXQ15A9BSA,CIkVvgIT6qs,cKGw_Hrtajc,cKObBT3BQ4A,CksmGxdCvPQ,cLcHOtY9fgk,coYoIINOWcQ,cpAeoTwKHlc,cpPgoi7zUjo,cu1homOW9CE,CunzrKChTpI,CX6apttsGjs,CxaPpbC3pgA,CXbRscylFsY,CYE1-7NSG2g,cyjt9Vm0imo,D-va4Jpkt38,D-y5ALLiCZ4,D3zc2JmlHK0,D4AkLrH0WtI,D8mzSBBfnNQ,D8RUia2q5wA,daON-Y2Ph5w,DCkhkkb2nqM,DdiM5lA-05c,ddZfJCoq65o,DeEBJcmrjAU,dh_NJhuVafY,dHHqYCCujKY,DiRI7rhc4qE,DJJw71TSho4,dJspwk8huY4,dKaqjJzl0vg,DksI8ZPmBNE,dlZUFvOqJeY,dNI6tUGGJNM,dONKuAjf26Q,dos0E9blpHw,DsDBNF7mhqk,DSqcbzBojYk,Du5Cit3oe6w,duZHG7VDNm4,DxGp_peYB_A,e6gS2_fX0oY,e6mIdK0LLWk,e8AyslO62b8,e8xXVMiChuQ,E9n2iFMyXjQ,EcbwKNO6TBI,eERaZvdF6Ms,ees6El-Jay0,ejBAqhxqAkQ,EK0R7sdxAFQ,ekJ4hKREY8U,eLy1XqX9IcU,En-VTreZMTs,F3oAIzyo0HQ,F4IPqNACpvI,FAhsY5AIWWY,FDEmEvwZtrM,fHohiZp5hGc,FJGnynqfiCQ,Fo9T0LNhNqQ,fOQPFgF5Etg,FPUae6qsjdw,FS65Eef4z7o,fSwdVMLq8zI,FuBVeoPBd0U,fWjIv0WgyqA,fWk2XKmiQOI,fXA4SlMx-Mg,Fz5fZ_7pia4,G2ZwwI5fN0E,g57p8aQQSbY,G5RiRuFIh8Y,g90iVaKS8Mc,gCaHEfyXkA0,gdEzIz7ievE,gDlgmkVKpy0,GDx66bXgYq4,GFEth1i97yY,gG4fzaWuo9w,GhikRA2no60,gJ7o1StrKv8,Gk2tr29fY6Q,gKGT2jlVrgI,gkMB1_gooM0,gkO-A-sYsH0,GmuQx9AiYD4,GN4nmRCU0AY,gojwzzPJQrg,GrWwOG5yFFM,GThX5ssVBn0,GUip6dZpKEs,gUkB5Kk4WAA,H1FABkrnIaE,h6koxkXAJLU,h6y5TxpDvbs,h9dW3QCrYso,hA31PrCznjw,Hb187lnYh0o,HgE2EqazY68,hhPRDd4gOEI,hIrbIOaAUxg,hKdsv2EbSSo,hl-FK4t_9lA,HLRFTyNBlFY,hLumnOkZynU,hLWMbjtpLn0,Hm1iTIa7rFk,hMhDNxC-EB4,HMpv5DpVVUY,hMQTN9L1dBE,Huj55Cm9qH8,hUouIgbrNZY,HWjAwmGq654,HxhtJ-1kd5k,hy9Uo864i5g,hZGSNKUFjQk,I2-S22FiEvg,I2t1cPgCvJo,I2zRq3kdLbk,I3pn7Xex-Ks,i3rp0Uim-0o,i4AnsQlVTvQ,I5h76-o1Kjw,i8VDK89xXzg,I8VIDULc_jQ,iAIDKPNVjzU,ifJ_GtRJ5qM,Ig7fshISKmk,igDMQaECoSw,IifnpOcm0b4,ik-J2hrNaWo,IKpl4TeHwPg,iOLlT7CbqKs,iPX6pJ1dD1s,IS-CvxLX47Y,IsG3gQIRxno,IsjWF9k7TZE,iTFkB2iXkgI,iTFXxHtlImY,iu9vMZwMqgI,IUcqrB04ZpE,IuIhXyjMG28,iUolMe2Bu-M,IuVzHVFtFIE,iwCYGrXqmqw,iwIfxOwYNOE,IwvvrAh-JyA,ixHuaqf211Y,iXPDVq2lGsc,j6boJmmzNcg,j9gG0WZWO2M,jaInrf7dB30,jal0jAoFV70,Jcekm05d-so,JD4r7qP0OLw,jEgmVdV6HBE,JeGwCPRojJo,jgHK6JZonJM,JLPKO3AKA14,JMN2uWdknac,jN-MkK8djcY,JNaC6eDgjAk,jnUZD1wnBn8,jR_FxV3DYyU,jS-yK_ueKZw,jSZnoRobYTE,JT-aith5f5E,JvaI4JCd5ig,jZ_tr0NnNjE,k2bZBA1A82U,k2MXyXKRlN0,K2TOaYHNhDs,K3kiPpMhKkQ,k3m1P3Vie6s,k55kWdrN8hw,k9LVltxQF2Y,kan3dn8Q8nA,KbWsgGeTrb0,KDVsepSqmys,KgYgMWFqbEc,kHxWvaMOwhM,Kl3MyuzCdRs,KM6DTC_i-8s,kNNz1UEwF-E,KpFP8X1JTiI,KPj--UF1T0k,kRGV4cIdWwM,KSP24qYeWgs,ku6qyUwUgWo,KVb-rUXG6h0,KW1hgV9CBqk,KXHpsXQV82g,KXW0hS3aOjA,L-4ADrZak_4,l0PDi1KDi1w,L1mLdTih8gg,L4Sa4dArQUE,L61XF64Ls8E,l9qBVI4SVP0,lb46GsmPTsI,ldX0CQ2UUfI,LFlKG-VVzMc,LInNbS1JErM,LiU5TfehWW8,lj8AH-4ajRw,LjzWwM9Y9zg,llnr6CG6lHM,Llr69yow55Y,llsND2qpTjM,lNKXqkyE2NQ,lOGKAbcAVzE,LQ4NioOxuGM,lUOYOF9DuSs,LwTvS9v15LE,LXCTMl_Jp9M,LygxI2VGhDU,m_PowDSDjEE,m1HAZ0ESYD0,M1ODHcuO0V0,m2kffLdykTs,m30mwu-9WW0,m3193w4W8Po,m5p9p9LBEpM,MATnFsqiC7Y,Mc5wHbV6irw,mCy59eLFjZg,McZuVVn7fEw,miQPk7qxSvs,Ml1Ys-sDe4o,mlmAUPNPev0,mLZkwKOueVI,mMVX1iGgRac,MO8yy324jyk,MpiqVbdFnlo,mPovmVmAgXs,MsBWU2CFf-U,MUyBpTbvDmw,N-BsO-mirZQ,N-Nsni2kalY,N0l4oFEKoCY,N37LrIj7a8E,N4MwW69zjdk,NbUtbE4Zpoc,Nett68JXMUk,NFBFDRSsaU0,nfDm-SuYSrQ,nhR65A2Cz1U,nJ5B8GnH3mE,NJf-Tr3BrqI,njWcrYwundg,NObMClb6nMY,noiATviQJ3Y,NoLKqBPGGLQ,nPRGWjUYGow,nPtPHMYmnsk,Nqbj_4nIAiA,NqL7EeYTd9s,NS200QxWq7g,nsUd370-n9Q,Nt4ug94a134,NVIEhqdvMCo,NVRVSzP0rFU,NVUbej8exEk,NY7B_THWsM8,Nzx4XSf_fAI,O_R4bM7ONJk,obm0AKIypPI,OCzJwGE7RTY,OdS-XmHla-U,OdXjpK_tLRg,OE_u4IbopVo,OGL_5cu0F-M,OgrLw9IX-Ns,ojYZBeCwYis,oK2ZWHTdbpA,ooHxX3whFXA,OOxgnEI8_NI,oReGR3Bjjmw,oSZzclsh00Y,otE6dhCgsJc,Oun53CRXyeI,OwECoLGRl68,oX7b3YzRNXk,ox9yzjeHt3s,ozbHMNhYe0A,oZz9CJ9K8MA,P0cawbGyBxM,p0Qy24DXfdY,P12Gc4WmCak,P3jy8S0P-2w,p6_gLv5qy8E,p6GmDJEkOQk,p6wFKOTyR60,P8xmUD4Gmrw,PA9MTquQya0,pAK-a8Op8KI,pauS_rhaYO0,PBiBq_DiHmo,pbjkl0DwxHs,Pg21pJPDzEU,phbygYipE-g,Pi8_BZtYNzQ,PkeO8SN0cN4,plJqp67-iX4,PNsZI-uZH7I,PsQlxu6iOzI,pt17lUpcskk,PtAxf8A1Zco,ptvgcLZ3HOw,PvWDJd2UYT8,pwM9WH8pqaY,PWMXacQWEjs,pyMrzxZBZZQ,pZ5q5wUI1-Y,pZhHd9KT2lk,q0IR8IqKZ18,Q1nmx353lDo,q2ItOTBF1ys,Q4MG607MDz4,q6hnQoB_BlI,q78RNxcI38U,q7I8sj_3rlM,q7prMUoyMEo,Q84zuHjjuww,Qa2bfVP6ChQ,qB9zc5VAanc,QC7qRbcWsN0,qcEDt4YOkS8,qCmySBiZXVA,qdwN5mt9V2c,qFumeKZX_MA,QJaNPlhmdSM,QK6Y2tnFIAw,qlFnlzOoFgo,qNurdjNB-rw,Qo2GL5T8T_E,Qq339b2xOrY,qRKU3XXIwlI,qSFeOuQEXXw,QSMC7VnqOnQ,QtYci9jXct4,QuVpIqeSRnU,qwbX5au3Iuw,qWhpDyoLyR8,qX2Z7mLBM1k,qZMy5wog24o,qZZGyHrnsQM,R_iWc7_vQ14,r-vKLD9F61M,R1g3eyyM590,r1IYwxp0NNs,r1pXJkMaAmc,RCPgq96ku4k,rdE4NEIZACI,REcAj2PLMu4,RenafscRgUY,RgdXwexLI_Y,RGFh5qOWU3U,RLczNzWBbpE,RmZj7uATNFM,rqks6sKCmDc,Rt85IKjQ9hs,rUpElK5Qw3E,rVrthFN9dnI,rX0dkfDOO1s,rxMOShu0yQk,RZf9IVaRgdo,S2U7ncJQ000,S4mKQajGJl4,s6H86oQEC2I,SaR5pCeCjao,SAwrlpHFmOc,sBy_LmO3b7k,SePTbZOh8iE,sHUgXraPhAc,siBW29AUMrw,skkII0awwFM,sKMZRv9JY_A,sLv3F7kLpB4,SovJjIjmI6M,sR5B-vb3Fi0,svK1ajIeprU,svwSKZ926yY,SvyN0PlWwkM,swc_HIr-8WA,Sx3ElJlX7wQ,SxPNu1XMYKA,sxWWB5aKNk8,T_mJ1awyakY,T3TRP5tX3T0,T5IM3P9Md-4,t6dwa21eo_M,TCtPeZP1H0g,td8PwMAtpQI,TdNo4qfgAb4,TeFw8eqcLco,tfW6YjVSx0U,Tg0_AZbm71E,TgzkblYi9pg,THy-FwvnIqQ,tJjx9eVGzSY,tK7YaJnYETw,TKK1o-pPPkQ,tkLyxIo8Cqo,tkm-n8lbhLg,TKOI_wF6Rn0,Tr5IR4SqKcA,TsjX9SPfvSA,Tus8Yc2qNXc,TX1rZO2bLJ8,u_apd9SGqLc,U1GOoEoYLy8,u1gZGn0l8y4,u3TgwapRzSA,u9zCkZgwoik,UA8VNiOraJI,uaXp0CBucos,uJn58OP3GEI,uJYAdCT7xFA,uKCq7HfZh9A,UKfHVu47LXo,Up-MRtsG4Tw,UpaXSxM07to,urRt-Yju_SU,UrzdhfUMR6k,UsuA0HSRXzo,UuJpA7lXi7g,uUsLnKlWMkU,UVea--jSv1A,uvYdZu80X9Y,uWFJruvCPhc,UwVr2kwMjI0,uxDmAVpZ91Q,V-8xYjEosOY,V4OPmN3e8F8,V59pKIXUQuM,v5G6fZkyhXg,v6JLwp0aFpc,Vafm-ZaLAyI,vafXYoDY5dw,vcqHF8DDsNk,VfelKh4yN9g,vInE2aOTFdw,ViODeAbI2IQ,vK3bX5D1ysc,VKhRSDIFJK0,vL7VfteARhQ,vLnzuy_aeGQ,VLxlCXAuo08,VtMhFvMTyHQ,VVsAZ0AGHeo,vZDynmvvgWg,w_A3W-OJyNw,W0APO4axfn4,w0OSb7FbXas,W7UmZWUWBMQ,WB_PkYN9MFI,wCcjEszzrTI,wdwWgzAq48E,wdXHxEEAvps,wg5sukd6E6Q,WHSd5tVWq1I,wjeEg2yoJbM,WKfsgQLVsHk,WlZQhQXwYTI,WmhFYQnlKB4,wNgdMwL7isA,WOmDWYRAtiA,WsnaqvLhEUk,wu0Utsff6Jo,WvCBdE6rolk,WwBj0YnLtX0,x1EXDDlmrVU,x1UII7bCsvQ,x27EZLRmoAU,x4XfpmZxDq0,Xe8yEypTfNA,XfNnvWPlprc,Xg7s8fovfh8,xKxi0Bbl_Fs,Xl5iO-2wzq0,xLDnc1Vm99w,XMo_G2k5Wso,XobWx6C6lJs,xQVu3ywd2RU,XRABi40G2T4,xS-hT1sfvfs,Xtk7ntK7k14,xU1ilgRmqsk,xUDwyRTojUM,xXRUfka1XFM,Y31yR524zWU,y3LgzaKBw2w,y3OVColWu-g,Y8DPHUnnvXU,YaMWl4cmqkw,yb_kKBcdsRc,ybgD2ibYB0o,YDS7nKcT3rk,yEf7XF-JNy4,yf8ObyPk568,yFQEK_KaTMA,yIh9oqXg4JU,YiLWFF__qiM,YIPBQ3O8Wr0,yK2UAmF7gYA,ym22gqkQmUA,ymm3YfCfVUs,yOGL3BrXZlA,YpPXlDhdkOg,YSc4GkdMm-E,ysHQziNaMOo,ySHvJqNfN7I,ySSnEYdnsEM,ytA3-R4Fi4M,yu7cOa_9gN0,yVjAH8Wg-hk,ywKQGnLaYdk,Z_nveKGRnsI,Z5o33xspXi4,z5obz0z7rdo,z7s8UaWeshs,Z8oojkEH6Eo,z9GTRwjpZLo,zBBzw6WImlY,zCKlkgpTrXo,zdehlx8vy4U,zffLUSbaqlw,zGk_J9B9MDw,zgK4F6NW32s,ZgOL1h0-8Ok,ZGsWdjqtO-w,zgU0j8HGfX4,zIU-AuvMwqU,zjqEsdevnaU,zKar6awuy2Q,zoQmiHuW8nc,ZpqZoQBWXVo,ZpXeRJcgZlU,ZqMTDLT6akA,ZRISi-Y-X3s,ZseKL2q2S-E,zUxgy98UTp4,zw8yzCjmYcI,zziC-o5xumc,ZZTz8nYZ6vA,hj7ubtDDtik",
+  "topic": "5G",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_-_MVJecq5I",
+      "segments": [
+        {
+          "text": "this time magazine on *5g* they wrote this",
+          "location": 1345
+        },
+        {
+          "text": "everything you need to know about *5g* i",
+          "location": 1350
+        },
+        {
+          "text": "about *5g* networks have no basis in",
+          "location": 1378
+        },
+        {
+          "text": "of them are knowingly lying *5g* networks",
+          "location": 1396
+        },
+        {
+          "text": "to *5g* a lot of these mainstream media",
+          "location": 1412
+        },
+        {
+          "text": "about *5g* networks so it's a it's a big",
+          "location": 1424
+        },
+        {
+          "text": "research do your own research on *5g*",
+          "location": 1431
+        }
+      ]
+    },
+    {
+      "id": "_ec7XMfirg4",
+      "segments": [
+        {
+          "text": "at society we have things like *5g* trying",
+          "location": 874
+        }
+      ]
+    },
+    {
+      "id": "0ICCjllfcD0",
+      "segments": [
+        {
+          "text": "what else big ag big pharma *5g* vaccines",
+          "location": 70
+        },
+        {
+          "text": "nexium moving on into discussing *5g* then",
+          "location": 1325
+        },
+        {
+          "text": "times put this out the other day your *5g*",
+          "location": 1333
+        },
+        {
+          "text": "and your microwave oven and 4g *5g* etc",
+          "location": 1512
+        }
+      ]
+    },
+    {
+      "id": "0Ytkx1pvnL8",
+      "segments": [
+        {
+          "text": "vaccines as well some good news on *5g*",
+          "location": 30
+        },
+        {
+          "text": "about *5g* i found this in local news",
+          "location": 536
+        },
+        {
+          "text": "some good news on *5g* i know a lot of",
+          "location": 542
+        },
+        {
+          "text": "push back against super fast *5g* wireless",
+          "location": 551
+        },
+        {
+          "text": "talks saying right here check it out *5g*",
+          "location": 569
+        },
+        {
+          "text": "against *5g* good news",
+          "location": 604
+        }
+      ]
+    },
+    {
+      "id": "3cgcmRKlIhU",
+      "segments": [
+        {
+          "text": "know we can talk about *5g* if you guys",
+          "location": 1220
+        }
+      ]
+    },
+    {
+      "id": "41qO6bukotY",
+      "segments": [
+        {
+          "text": "their electromagnetic you know *5g*",
+          "location": 2319
+        }
+      ]
+    },
+    {
+      "id": "7drP1GmKuhA",
+      "segments": [
+        {
+          "text": "supporting for lack of a better term *5g*",
+          "location": 1497
+        },
+        {
+          "text": "fight against big pharma and *5g* and",
+          "location": 1519
+        }
+      ]
+    },
+    {
+      "id": "9gYGBZ6wUIE",
+      "segments": [
+        {
+          "text": "someone says so this new *5g* networks",
+          "location": 1117
+        },
+        {
+          "text": "electricity electromagnetic energy *5g* is",
+          "location": 1126
+        }
+      ]
+    },
+    {
+      "id": "9yIsVlJ2qAY",
+      "segments": [
+        {
+          "text": "how can we stop *5g* you know a lot of",
+          "location": 344
+        },
+        {
+          "text": "to *5g* at least get away get away from",
+          "location": 356
+        }
+      ]
+    },
+    {
+      "id": "aN9TllOemSA",
+      "segments": [
+        {
+          "text": "a question where do i stand on *5g* i try",
+          "location": 2642
+        },
+        {
+          "text": "that's my answer to that i don't do *5g*",
+          "location": 2648
+        },
+        {
+          "text": "between *5g* & coronavirus in china i've",
+          "location": 2727
+        }
+      ]
+    },
+    {
+      "id": "ANDq9-ttO-w",
+      "segments": [
+        {
+          "text": "and then i got some news on *5g* that",
+          "location": 33
+        },
+        {
+          "text": "very last thing let's talk about *5g* so",
+          "location": 602
+        },
+        {
+          "text": "is rolling out there *5g* home internet",
+          "location": 614
+        },
+        {
+          "text": "convenience guys *5g* is not something we",
+          "location": 630
+        },
+        {
+          "text": "want *5g* those particular band widths",
+          "location": 634
+        },
+        {
+          "text": "sorts of problems right with *5g* that's",
+          "location": 655
+        },
+        {
+          "text": "that way so that's why *5g* is something",
+          "location": 706
+        },
+        {
+          "text": "trump's fcc bets big on *5g* here's how it",
+          "location": 718
+        },
+        {
+          "text": "fan of trumps fcc betting big on *5g* now",
+          "location": 744
+        },
+        {
+          "text": "wave i mean 3g 4g *5g* wi-fi etc etc",
+          "location": 817
+        }
+      ]
+    },
+    {
+      "id": "AOParRtlvFQ",
+      "segments": [
+        {
+          "text": "somebody said *5g* is the danger totally",
+          "location": 1143
+        }
+      ]
+    },
+    {
+      "id": "c1C7epr44bw",
+      "segments": [
+        {
+          "text": "coming out later tonight or tomorrow *5g*",
+          "location": 2056
+        }
+      ]
+    },
+    {
+      "id": "cKGw_Hrtajc",
+      "segments": [
+        {
+          "text": "on into talking *5g* so verizon naming",
+          "location": 916
+        },
+        {
+          "text": "will get the *5g* ultra wideband network",
+          "location": 921
+        },
+        {
+          "text": "the samsung galaxy *5g* phone some sales",
+          "location": 930
+        },
+        {
+          "text": "to try to get people onto this *5g*",
+          "location": 933
+        },
+        {
+          "text": "get out of that *5g* nonsense it's harmful",
+          "location": 945
+        },
+        {
+          "text": "control over *5g* so he can shut that",
+          "location": 955
+        }
+      ]
+    },
+    {
+      "id": "cu1homOW9CE",
+      "segments": [
+        {
+          "text": "do i think *5g* is stopped i think there's",
+          "location": 2693
+        },
+        {
+          "text": "doubt that a lot of people saying *5g* is",
+          "location": 2720
+        },
+        {
+          "text": "the 4g *5g* twin towers all of that",
+          "location": 2745
+        },
+        {
+          "text": "don't we *5g* geoengineering big pharma",
+          "location": 2761
+        }
+      ]
+    },
+    {
+      "id": "D4AkLrH0WtI",
+      "segments": [
+        {
+          "text": "to mention on gmos vaccines *5g* all those",
+          "location": 45
+        },
+        {
+          "text": "gmos *5g*",
+          "location": 667
+        },
+        {
+          "text": "*5g* so a little bit of news on *5g* and",
+          "location": 824
+        },
+        {
+          "text": "t over fake *5g* because what's",
+          "location": 832
+        },
+        {
+          "text": "at&t is calling a new marketing term *5g*",
+          "location": 843
+        },
+        {
+          "text": "and they're calling a new service *5g* but",
+          "location": 850
+        },
+        {
+          "text": "it's not really *5g* it doesn't use *5g*",
+          "location": 854
+        },
+        {
+          "text": "bandwidths they're just calling it *5g*",
+          "location": 857
+        },
+        {
+          "text": "have *5g* on the market yet i believe",
+          "location": 883
+        },
+        {
+          "text": "centers that's prototyping *5g* right now",
+          "location": 893
+        },
+        {
+          "text": "lot of fear porn out there about *5g* that",
+          "location": 900
+        },
+        {
+          "text": "implement *5g* and trying to bring it out",
+          "location": 907
+        },
+        {
+          "text": "disagree with and don't want but *5g* is",
+          "location": 912
+        }
+      ]
+    },
+    {
+      "id": "dh_NJhuVafY",
+      "segments": [
+        {
+          "text": "about *5g* so i found a couple of",
+          "location": 612
+        },
+        {
+          "text": "interesting articles about *5g* that i",
+          "location": 614
+        },
+        {
+          "text": "lot of people are more scared about *5g*",
+          "location": 617
+        },
+        {
+          "text": "saying *5g* is good right it's very bad",
+          "location": 622
+        },
+        {
+          "text": "*5g* halting it so new zealand here",
+          "location": 634
+        },
+        {
+          "text": "halting a chinese company from *5g*",
+          "location": 638
+        },
+        {
+          "text": "is one of those countries halting *5g*",
+          "location": 644
+        },
+        {
+          "text": "australia's *5g* network as also being",
+          "location": 646
+        },
+        {
+          "text": "*5g* in america so that same chinese",
+          "location": 657
+        },
+        {
+          "text": "might not win the *5g* race if it doesn't",
+          "location": 667
+        },
+        {
+          "text": "systems of *5g* in america since 2012 so",
+          "location": 677
+        },
+        {
+          "text": "information being shared around about *5g*",
+          "location": 689
+        },
+        {
+          "text": "control and trying to get *5g* out to the",
+          "location": 707
+        },
+        {
+          "text": "stifling occurring with that *5g* which is",
+          "location": 711
+        }
+      ]
+    },
+    {
+      "id": "gojwzzPJQrg",
+      "segments": [
+        {
+          "text": "so *5g* somebody mentioned absolutely",
+          "location": 1243
+        },
+        {
+          "text": "*5g* and all that jazz is the transverse",
+          "location": 1336
+        },
+        {
+          "text": "systems in *5g* that literally harm our",
+          "location": 1386
+        }
+      ]
+    },
+    {
+      "id": "I2-S22FiEvg",
+      "segments": [
+        {
+          "text": "was signed and *5g* as well a lot to",
+          "location": 94
+        },
+        {
+          "text": "discuss by way of *5g* i'll be doing a lot",
+          "location": 98
+        },
+        {
+          "text": "how in fact *5g* is definitely not good",
+          "location": 108
+        },
+        {
+          "text": "for us and how we can avoid it avoid *5g*",
+          "location": 112
+        },
+        {
+          "text": "very long conversation one on *5g* to i",
+          "location": 1543
+        },
+        {
+          "text": "want to get to *5g* right now if you guys",
+          "location": 1546
+        },
+        {
+          "text": "terms of *5g* trump tweeting in support of",
+          "location": 1558
+        },
+        {
+          "text": "*5g* really made a lot of people question",
+          "location": 1561
+        },
+        {
+          "text": "support of *5g* 5 g's something where we",
+          "location": 1576
+        },
+        {
+          "text": "*5g* pulsed millimeter wave frequencies in",
+          "location": 1586
+        },
+        {
+          "text": "at the same time he's getting *5g* into",
+          "location": 1659
+        },
+        {
+          "text": "tweeting about *5g* it's again it's",
+          "location": 1663
+        },
+        {
+          "text": "they have some sort of way of making *5g*",
+          "location": 1672
+        },
+        {
+          "text": "has control of *5g* it's going to be",
+          "location": 1683
+        },
+        {
+          "text": "we are talking about *5g* same thing as 4g",
+          "location": 1695
+        },
+        {
+          "text": "with *5g*",
+          "location": 1733
+        },
+        {
+          "text": "control over *5g* because china is doing",
+          "location": 1741
+        },
+        {
+          "text": "control *5g* so they can have control of",
+          "location": 1750
+        },
+        {
+          "text": "say okay great we have control over *5g*",
+          "location": 1758
+        },
+        {
+          "text": "communication that don't utilize *5g* what",
+          "location": 1767
+        },
+        {
+          "text": "*5g* in some way that doesn't harm us it's",
+          "location": 1785
+        },
+        {
+          "text": "let's gain control of *5g* so we can turn",
+          "location": 1787
+        },
+        {
+          "text": "for jean *5g* harma 6g is just gonna like",
+          "location": 1806
+        },
+        {
+          "text": "have now with 4g or with what *5g* would",
+          "location": 1957
+        },
+        {
+          "text": "stuff but anyway *5g* i don't think *5g* has",
+          "location": 2043
+        }
+      ]
+    },
+    {
+      "id": "j9gG0WZWO2M",
+      "segments": [
+        {
+          "text": "and i want to talk about vaccines *5g*",
+          "location": 22
+        },
+        {
+          "text": "things let's talk *5g* vaccines than",
+          "location": 583
+        },
+        {
+          "text": "glyphosate so first *5g* trump talking",
+          "location": 585
+        },
+        {
+          "text": "about *5g* today saying it's a must-win",
+          "location": 588
+        },
+        {
+          "text": "people out there saying that somehow *5g*",
+          "location": 608
+        },
+        {
+          "text": "got to understand the *5g* that we're",
+          "location": 618
+        },
+        {
+          "text": "okay but because of the particular *5g*",
+          "location": 641
+        },
+        {
+          "text": "*5g* like that what would he be doing he",
+          "location": 660
+        },
+        {
+          "text": "must-win race to develop the *5g*",
+          "location": 671
+        },
+        {
+          "text": "think might be going on with this *5g*",
+          "location": 699
+        },
+        {
+          "text": "wi-fi 4g *5g* stuff that can begin to come",
+          "location": 733
+        },
+        {
+          "text": "we went through *5g* vaccines cute",
+          "location": 1056
+        }
+      ]
+    },
+    {
+      "id": "jgHK6JZonJM",
+      "segments": [
+        {
+          "text": "word *5g* hotties and then the first",
+          "location": 422
+        }
+      ]
+    },
+    {
+      "id": "LiU5TfehWW8",
+      "segments": [
+        {
+          "text": "nonsense and microwaves and *5g* and",
+          "location": 894
+        }
+      ]
+    },
+    {
+      "id": "McZuVVn7fEw",
+      "segments": [
+        {
+          "text": "talk about *5g* what do you want me to say",
+          "location": 1952
+        },
+        {
+          "text": "*5g* yeah man",
+          "location": 1956
+        },
+        {
+          "text": "about *5g* lately good news is that a very",
+          "location": 1964
+        },
+        {
+          "text": "have been stifled from implementing *5g*",
+          "location": 1977
+        },
+        {
+          "text": "implementing *5g* but at the same time",
+          "location": 1984
+        },
+        {
+          "text": "trying to test run prototype *5g* in",
+          "location": 1989
+        },
+        {
+          "text": "ever implement *5g* i believe right now",
+          "location": 2008
+        },
+        {
+          "text": "lot of people believe those are *5g*",
+          "location": 2031
+        },
+        {
+          "text": "towers they're not *5g* towers they are",
+          "location": 2033
+        },
+        {
+          "text": "between gwen towers and *5g* towers",
+          "location": 2037
+        },
+        {
+          "text": "*5g* wind towers or lf they're extremely",
+          "location": 2047
+        },
+        {
+          "text": "scale of *5g* not quite so there's that",
+          "location": 2055
+        }
+      ]
+    },
+    {
+      "id": "mPovmVmAgXs",
+      "segments": [
+        {
+          "text": "then you got *5g* i don't know if that's",
+          "location": 1971
+        }
+      ]
+    },
+    {
+      "id": "MsBWU2CFf-U",
+      "segments": [
+        {
+          "text": "know the 4g *5g* wi-fi getting back into",
+          "location": 777
+        }
+      ]
+    },
+    {
+      "id": "NS200QxWq7g",
+      "segments": [
+        {
+          "text": "oh some stuff on *5g* what's happened in",
+          "location": 2138
+        }
+      ]
+    },
+    {
+      "id": "ox9yzjeHt3s",
+      "segments": [
+        {
+          "text": "he says there's nothing wrong with *5g*",
+          "location": 1509
+        },
+        {
+          "text": "the problem with *5g* is the freaking",
+          "location": 1513
+        },
+        {
+          "text": "how *5g* is wrong he said that they're",
+          "location": 1519
+        },
+        {
+          "text": "frequency onto *5g* technologies and",
+          "location": 1523
+        },
+        {
+          "text": "that's why they're trying to roll *5g* out",
+          "location": 1526
+        },
+        {
+          "text": "says nothing about *5g* inherently being",
+          "location": 1532
+        }
+      ]
+    },
+    {
+      "id": "p0Qy24DXfdY",
+      "segments": [
+        {
+          "text": "story to conveniently roll out *5g* which",
+          "location": 616
+        }
+      ]
+    },
+    {
+      "id": "Qa2bfVP6ChQ",
+      "segments": [
+        {
+          "text": "nationalize the *5g* network and i do not",
+          "location": 775
+        },
+        {
+          "text": "administration *5g* is something that is",
+          "location": 786
+        },
+        {
+          "text": "wi-fi and especially *5g* *5g* is going to",
+          "location": 795
+        },
+        {
+          "text": "as this small graphic here shows *5g* is",
+          "location": 800
+        },
+        {
+          "text": "a nationwide *5g* network within three",
+          "location": 822
+        },
+        {
+          "text": "the wi-fi 4g *5g* and we can we can bring",
+          "location": 836
+        },
+        {
+          "text": "wants to nationalize *5g* which is all for",
+          "location": 906
+        }
+      ]
+    },
+    {
+      "id": "qZMy5wog24o",
+      "segments": [
+        {
+          "text": "company is a major player in *5g* networks",
+          "location": 779
+        },
+        {
+          "text": "i'm all for *5g* getting stopped right and",
+          "location": 786
+        },
+        {
+          "text": "excuse me implementing *5g* in their",
+          "location": 797
+        },
+        {
+          "text": "good news at that *5g* company couple last",
+          "location": 853
+        },
+        {
+          "text": "on that *5g* company cfo arrested 9/11",
+          "location": 1003
+        }
+      ]
+    },
+    {
+      "id": "RgdXwexLI_Y",
+      "segments": [
+        {
+          "text": "frequencies all of the 3g 4g *5g*",
+          "location": 322
+        }
+      ]
+    },
+    {
+      "id": "tkLyxIo8Cqo",
+      "segments": [
+        {
+          "text": "about them possibly being compromised *5g*",
+          "location": 38
+        },
+        {
+          "text": "couple of last things *5g* wow",
+          "location": 1432
+        },
+        {
+          "text": "*5g* being talked about in the mainstream",
+          "location": 1435
+        },
+        {
+          "text": "killer *5g* warning expert warned",
+          "location": 1442
+        },
+        {
+          "text": "below in the description *5g* is scary",
+          "location": 1468
+        },
+        {
+          "text": "away from the wi-fi the 4g *5g* the guinta",
+          "location": 1476
+        }
+      ]
+    },
+    {
+      "id": "TKOI_wF6Rn0",
+      "segments": [
+        {
+          "text": "talking about things like *5g* i heard him",
+          "location": 488
+        },
+        {
+          "text": "supports vaccines and *5g* and things like",
+          "location": 505
+        },
+        {
+          "text": "like he's supporting *5g* or vaccines or",
+          "location": 514
+        }
+      ]
+    },
+    {
+      "id": "TsjX9SPfvSA",
+      "segments": [
+        {
+          "text": "sprayed *5g* and and whatnot",
+          "location": 1917
+        }
+      ]
+    },
+    {
+      "id": "V-8xYjEosOY",
+      "segments": [
+        {
+          "text": "force on *5g* i'm gonna be doing some more",
+          "location": 40
+        }
+      ]
+    },
+    {
+      "id": "V4OPmN3e8F8",
+      "segments": [
+        {
+          "text": "into you know *5g* and the too deep into",
+          "location": 1355
+        }
+      ]
+    },
+    {
+      "id": "wjeEg2yoJbM",
+      "segments": [
+        {
+          "text": "ether and not through wi-fi 4g *5g* all",
+          "location": 1504
+        },
+        {
+          "text": "things like *5g* is under control by trump",
+          "location": 1899
+        },
+        {
+          "text": "i'm just not vibing with it like the *5g*",
+          "location": 2037
+        }
+      ]
+    },
+    {
+      "id": "yVjAH8Wg-hk",
+      "segments": [
+        {
+          "text": "emf 4g *5g* wi-fi all that not-so-good",
+          "location": 98
+        }
+      ]
+    },
+    {
+      "id": "ZgOL1h0-8Ok",
+      "segments": [
+        {
+          "text": "talking about vaccines *5g* climate change",
+          "location": 28
+        },
+        {
+          "text": "want to talk about here is *5g* so forbes",
+          "location": 1792
+        },
+        {
+          "text": "running this yesterday how will *5g*",
+          "location": 1795
+        },
+        {
+          "text": "and she writes this piece touting *5g* as",
+          "location": 1809
+        },
+        {
+          "text": "potential of *5g* networks it's gonna make",
+          "location": 1820
+        },
+        {
+          "text": "mention of health aspects of *5g* in this",
+          "location": 1841
+        },
+        {
+          "text": "article now one quick point on *5g* here",
+          "location": 1844
+        },
+        {
+          "text": "say that *5g* has been turned good by the",
+          "location": 1853
+        },
+        {
+          "text": "don't vibe with it because *5g* no matter",
+          "location": 1864
+        },
+        {
+          "text": "whose hands and *5g* technology is in it's",
+          "location": 1868
+        },
+        {
+          "text": "or the cia turns it on over here *5g* is",
+          "location": 1877
+        },
+        {
+          "text": "your ear that's harmful *5g* ten times the",
+          "location": 1886
+        },
+        {
+          "text": "trump is touting *5g* for and supporting",
+          "location": 1908
+        },
+        {
+          "text": "groups they're all bringing *5g* networks",
+          "location": 1919
+        },
+        {
+          "text": "so *5g* in my eyes hasn't been turned good",
+          "location": 1941
+        },
+        {
+          "text": "utilize 4g *5g* wi-fi things like that",
+          "location": 1955
+        },
+        {
+          "text": "vaccines climate change *5g* pta and good",
+          "location": 1986
+        }
+      ]
+    }
+  ]
+}

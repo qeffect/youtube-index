@@ -1,0 +1,3052 @@
+{
+  "indexed": "_0GMW9eop3Q,_0k8gf2hqT8,_3Rl1KrDzlc,_9rpHbIpjdc,_c3-w-w0hd8,_gjH2umHAGw,_RmutDWSGgw,_xRwk1GDCtc,_xXAzbpQxCk,_Y32fnAp_mE,-_D0oq02HRY,-2V-Fidbe4Q,-fBcMRleHJs,-lj5lbMIt9w,-uo9Q6D8210,-WTkkUEgMpA,-wX2rOP6ktI,-x009HbyeMM,0DszWULPnJA,0kSVAa_BmU4,0Rg0lwnxdYA,0RnrwLJ2YB8,0UsEdqoi-uo,0v_9_7NQe7o,0ZQpgASg94o,12UHF03bxqg,12UIMLvh03M,14DEr87tKSc,14goSb7_h8k,188yfjWBsKM,1feiLSIDxzA,1G4XAByqwdc,1IBdXdpMtSQ,1KbA5wwl5iA,1mxwUYRqCLc,1qxksXmFHOw,1Sh9FkZ0Z_M,1WLIn7en9pQ,1ztx8JOWikU,21_5KACaBAA,246yVwb5diI,29I9Zl0qTFQ,2B6uuN4h5To,2B8vstdpb9Y,2hwzvqyTWk0,2kcXiFrNxu8,2KlWnWIW9es,2KpDBlqtvh4,2MJZ9NDs3EY,2nHvxV92Fo8,2NXqxp8mQmI,2Q3ooMM1qAA,2rguDK_EFjs,2VvxKYycSTA,2z1u4f9qxSk,3__6oQQBx4U,366ELkY8w8c,3anaRM4cxWc,3cNC-TuFKTM,3DT04vReamc,3hTjnoctYb8,3in8rDn_GiU,3iNDtYv3ogU,3inrKG1TPqA,3JpE_sVAXtI,3mBJwCIqEp4,3mZH_LNF6QM,3QHT8IoCibY,3QPQ-gJQDio,43l56zl36nA,46EzIkcqsf8,4aeInV5RoBU,4IELe4HKwW8,4krKjHMPsg4,4l3InNocQok,4L5tYESX97M,4pRyUnOoG4k,4QBY4MC9H4A,4reDYsbFjIA,4SVOSBqdzh4,4V_km03gzkc,4Vg0iy8-V8U,4wnZSd3XIrs,5A6dZwdwTxA,5aclmTHqG3Y,5dLvEB_CqP0,5FndfbwFaR4,5GkDWQBxE_Y,5i-ZMBE5r80,5LnqJOG082k,5msn1xthpVw,5OD8QdsbiDU,5teFvGwE9Ec,5tLVsNwlo4E,5ZV3UJmN3j4,5zwSaKW2qzA,6__xoin6aw8,639Gc3bX0Hs,68Bl7RbXS2A,6dPlpdME9bA,6gP2Zh2J4lU,6T7oPFcotQ8,6VOzbo_Xzcs,6vu4aiDJlLI,6ZRbp3qcQWw,77KCplrOQIs,77xVpKuEWnc,79lRgwEbfHQ,7BjNpnHLRlg,7dUatd4L2_I,7HkSIcIUJEI,7KyRGYh74yM,7nBOtseGsvM,7PPE5IfAS8Q,7uKOdZECGKo,84FDa13e5-g,85-ahemlFUU,85y3X4rQxA4,8BvPh2JcG1I,8fechd5G8bQ,8HN_fDiyxps,8Hn9sRON8JU,8IEQfBwVCnI,8pfDKYOa2YQ,8SIxFBeXF3A,8SJ8Si8dOik,8VlLxBGFQbo,9_UKSBXn7ko,9-Ct8QNd5l8,93Ilpb7IySY,94-23EfqkIo,96qHwT4UG7A,9aC20cRhA6A,9bmI1uHhg2Y,9CRaVe_WoRA,9DCeANHAmJk,9E6bhpqXb4Q,9GURyE2qHg0,9iLcGsHVzpM,9IoPnmjsOQg,9IYh49I9vLI,9kWhckKtLyw,9lRA4hj5-zs,9O8VPOd3Dsw,9ObMFi6ReKE,9PqmG_y1mEA,9Rsj2RvPQQY,9v8K97nYOmc,9YpbXzuAYao,A3CcapXxDBc,A3UCbl5D6xw,A4K1C-k9Soo,AaEkl-of76c,aAjl5E-9Xwc,aauT5183_Y0,ABKGKVoSAZs,Ae8VPPrDP3I,aeg4hpZ9Ozw,afbpVahE8m0,AGcXhMgEl-g,AGvin09PnlY,Ai_hTzDSyO0,aiSN2yWRXMk,AJPTbrTUYxI,AKx3yG4zhNQ,altHQp6NMoA,aMjfmqYp1k0,aMU1r-XXIe0,ANNU2PD-HFo,ApxADBQ8v3A,AQn0A4aVW6E,aRH_VcgxE-M,aRk2tCY5P6A,AT7BqWZWWag,ATycYftkD9M,avWKx_cmjpk,aww13Cq9r7Q,ayRMg-VLpmE,aZ_1pPcUgFk,aZ9ow4ZlnfI,AzTWh1-xt14,b-LpBCpFIU0,b0pHnjCKYzI,b1BuM4rDtj4,b2o6RTKxh4I,BBOhxkAxLis,bBQITwVQ2c4,BcVYQ8Qb8WE,bcxBqQ7PMew,BEnGqcIKQBI,BFqiftOTLL8,BFxZRHPz1QI,BgKgV7LyEIo,bJpGmwu9-k4,BjZ3EmeaX5k,bKA-qsz0fsU,BKrYqZUyOIQ,BLbmipYjHR4,BMvOvzcBOq0,BnmAkjBYrZ8,BoMEoJRDgcU,BRRHTfNJMg4,bTO8-X3R_0g,BufAWX9OL9M,bWCu3V4E0Cw,BX0vhcv_pRQ,BYme9spNF9A,BZ6g4cgOQIo,c2JtJ3aEJI4,c3uk_PM4FTU,C52GieN9zdM,c8x6_3FTcmk,Ce_6croEF8c,CeUgCB6lb8Q,cfD7Ifh578E,CFDn-VKYsC0,cjcQ6t4JMXs,CLxo7YDcLzk,Coqn8CHu1cM,CpCLI8mo6T8,cppd4rNaGCY,cQbGXIlAVTM,cRLq7aAC-XI,Ct4sQbD2Dj0,CUobzPBIPYs,CVPDq78OM50,CxlcQbMPATY,CYMHBldnHH4,cZWsTRVduts,d_GwGYmK26Y,d1MKZw4vHEw,d352Nhkd02g,d8l0y2XLq3Q,d9HpahnSk3g,ddO9VroAjuU,DeiOBs9WCFY,dfzrdTb1zZE,dgJVXPaHqP8,dI75N0o_5DI,DJhwFGJhk5k,dLlF7sxrUCQ,DOO7fNIwpYY,dPmQytHJFIs,dS2qkAQ33Xw,Dt0bn771sGA,dTiW7GUvpiE,DTJrCcpKAsE,DWyqBff8MD0,dxXweiDpFuI,dzvqryS1tvM,DZyPZzqwvsA,E0C2qvYK31I,E0IZHA3G3Ig,e4MakjQr6wQ,e5nUedXajQI,E930zZVMjyY,EEnVvVzaBCo,ehplL8V_3rs,ehRpPBA6HgM,ejJhYz7wFwo,ek_MgNKuQKg,EKeXTDJ61eQ,EL6vqvpcreQ,Erfp78sCx3E,etzYB5Acisw,ex1IEZ3gULY,EXbJ0oQART8,eYGFc99WbHU,EyLK_rCRmPI,EzqNatWuS6Y,f4qBTki5iH4,F5FobXrvY3E,f7YHUbjdCzM,FB4dExVms7s,fB7BASL5g54,fbpZlOeQiAM,fbY83L61Kd0,fchREWrn0vY,FDbXuhcLWtU,Ff4fEQVTpSs,FHBsONoVnq0,fhyBcxyxbVI,Fk16jEhiBrQ,fLuLK72GwyA,FLYTjpU15No,ft2oJSlNPtQ,fU5hFfGsdjM,FWZHVOZ4ggQ,g_-JsMSaCdA,g_4yojz2mAs,g-KHTYSFJXA,G0xwAccaQ0A,G2aQUZYgTL4,G5Xu8M-uc60,G6rtL2LbzqA,g8XCMFkFyjY,gAHVZF__So4,GcJnkA-FE1M,Gd0BSKLLqsc,Gf0trv-9tvc,gHZMOupPYsg,GHzp1M24Fsw,gJcJ38T8oNM,GjQpoYm971o,gMSJoVkQZWw,gnDVjDTXE0k,GNedUPBOSqs,Gnmbc4G0dmg,GRBDH_i0FB4,GU2lVhxS9vY,gya_mSZwAl0,GYcdeNuBthM,GYRgczPNxJI,h17tF0Xii1c,h1BC7XmZr8I,h7CqHL04D-Y,HCCtVyqBoRE,HF1kNM1SZWw,hfX559mxFQo,HGHg7Nt2WVo,HiDyMOUhdZY,hIG3MjKRzBE,HjH_ZCvf3_g,hKbE7MG3OIA,HkJj6tZtzKg,hKSHNiPdaQU,hNazips7-k8,HoHfevtIV2w,hQcYnde_RDA,HTETmsKXnkE,hxMqBVB9oIU,i7CsAm6pTpE,i7hxZGH9fCY,iaA6l7wVsGE,IC9FN_fY2go,If2rCEuFeNY,ijaW9oSwCw8,im06ZuqowDk,Ima-kdh9Zo0,IMvbHX-XxMs,iQHR1-6RKGY,iry3kHF_jvI,is45doBHO4k,IubAKIW7LW8,IuGCv6BE808,ivzGKZFp8M8,IyRWVFXn45A,IZLsNynu6Ns,j0aA2J_kFkc,J296P7VE5p8,J2spK-T9ev0,j4__e_WelW0,j598EAg5zdI,J6zapuerlJk,J7b6SPEd0FA,j8A3-iLoEOI,J8tQL-J1p-4,jCLp7eJwIrE,JEKeMGgqEFA,jIf63gDirvc,JkdHKdiTXAM,jnUP8mEuPqc,jO3DSz6VU10,JP_9kWACn3U,jPdBNzia1bQ,JqB96gXQCHs,Jqmk-9gfMoc,jr_aTXakEwk,jSkzvaEVGyw,Jw000N2NVzY,JXObjjcM37E,k1e3a3x0VHE,k2pfkR9ey1o,k3a7JrqCGxM,k5J7_AWQvec,K68zHw0_xp8,K6D4AseiyvA,K6X_A5nDkn8,k7HZG6YnFww,Ka58QhPEBs0,kbsHKl1F3PI,kGrIdTasjN0,KhBpRt0R9-8,kMvmpeySbAk,kmwVSMKdhaU,kmxEhecyMN8,Ko4YrWusYB0,kPNmP4e9jfA,KQYQ6-hMOjY,KsFcbtIB9IQ,kv41joeMcM4,KVAsKc8v5t8,KVvB35XeEig,kZgInLvnTxE,kZSTJv4Hxk0,L_xCuCDisLM,L1AVZd4DsQc,L2Az5A7kcP8,L3Ij2cvGFkY,l6iCUxTXOBw,L6uSGv164Xw,L8KfIdZMszk,l8r-U_GKKPw,l8TEy3DabHA,LBYjX-YKi3A,LcYUTlXa9LA,LDbkkYUWvpA,Lioi0r8CebQ,LIwSMMqCTfU,ljBQV9kO_48,LniEKTpx8Qo,LPcjU1iEMa8,LrIY2UK10UA,lRMkZVPheVA,LTZqQj0xixg,lxUADz6sO24,M-MA0geeqcs,m-ODejCbNWA,m2iCTKjwGZY,M2SBwEaGWjA,m5TtiXCF06Y,m9zakT_UDY4,MbhDYscAAN8,MBmjx6pEVyM,mBU8ggNgS8s,mCG61ZXjwgM,mDGN4mIrYTs,mdj-e3WW1Bo,mDVvkqXidds,mh_UlTxOQQ8,MHhA6kW_K1g,mi6oOSOcu8U,mIMeh-79eFQ,mJWjRqEjk1U,MKMicgqhopw,mkzUXQCz7g0,Mm6WkdjRwXE,Mm8has8rJ6Q,MMiesWjJy3k,ModN7UGbEc4,mOIXtYBUHzE,mpo_IhTE430,mqjohU4wchw,MQkqD0MhKnY,mQmoOcT31Ro,msr6oM0RLew,Mt8NfLhd-bQ,MU2Rcx_7eK0,mU9euZ7sEes,MUy19aL4UNs,MvFElFTEyAo,N_LPPAZ6a5k,n2RdX0ydluc,n5D-l-3F7ik,N5YALJhloAc,nb48sfxaBzA,Nb9AndSj88I,NC02quLtRsA,NC8ofbJYmgQ,NcQDwCqQeO0,nDIenS-L7Qc,NgbBiTBNx_E,NjWZnzfy4Bk,No3ER-UeVEw,no6rrhl9HP4,NPnxrTpCpnw,NQNDDUtnzYk,nRaCGIerr6g,nspGMcDjCKM,ntdGh-KbrDw,NV7heJFREsE,NVweq5WqxQs,Nw0SUu18OzY,NwWi8UclL4k,Nyz8AZ4IvdA,Nz6lrDmtUxk,O_aacfmu4kk,O52v4nUvluw,O5EtoXjZNus,o6KJkaLISn8,o6YcBl2u0n0,o8Akan5GihI,oC62RUXGAeo,ocx0eQ3IYGc,ofmaPjLqKpY,oGgzXrlF0m4,OhcEdpoDPxQ,OipmgYEOOj8,OJj7uOy38hI,OjodkECxTFE,oJslPIbYry4,ojSvumv3RDc,OKRqb03TEUs,okuxViVbyTs,OLDsP1BrbDU,Olfa4vMMDEk,OQCgaoqYPDQ,ornHtBUFohc,OsoQu546x8g,oStMB-W5ovI,Ou8IoZrbRFY,OVGfiwkKdqY,OWfrBrQlhkk,oXoEIlNO77U,oXoo6eYsZ3o,OY0Jqc3-hV0,P2YYC5MMzFc,p4Wc6Zs3qQM,p5s61jAYDzE,PbcQo398070,pbi5dRCB2cA,pDkUn-isAGk,pdW4LVkaiYA,peHd3IOjylg,Pepkc8bM3uo,PfDbmwtawNg,PfZh-XLbE_I,Pi-FHomqwtE,PIHmedWFDBI,piPPWEVM7BI,Pk6jznEcP4U,PMt56AI7XrI,PN8oDcxVDKU,pOgq_axpn1k,PRGJZtCTLVA,pRriJNgzrcs,pUZDbK0a1R4,PwfwMH9cRP0,q0d0OkpV5gs,q1LXh9jQU38,Q23RnpfTgiE,q2tI5JrJKzE,q40i492ZGUU,Q5xDDuhudtU,Q8C-i61AH9Q,q8N3XgSDddU,qaB9Xgr-K-U,qaeEK1ydKHQ,qb8eND6_eH8,qbNEx7wfmRw,qCVOU264zOY,qeyblMlgmf4,QFxy7aHGQAk,QgdmFUaMaTg,QHMQrxZEG0A,Qi1p1ciC6ig,QJ87Y3IHM0E,qJZUzPJM_8o,QlB-DTGsxA4,qnSzR1wZFJw,qQCLQxxZ-JQ,qSIbJjKcNfg,QuIScPQ4-HI,QwJVJTZy7_I,QWt5r7p1prc,R0kUC-zTi_w,R1LjmP8-04A,r509r1pO2R0,r6wUIvkTfA0,RaMEtW-jj3Y,RBg7ln8YvZs,rCig3kho2SM,RDi6epw_6q8,RhIjc2y2tAk,rhU9LM5NMjw,rKsfEM1BgDc,RQ0Vxa8t2lE,RqvIfoLVDOk,RU7GoALMyfc,rvKeEwBBpVI,rWFJYGKR8Q0,rwgpNw7-Z2o,RWoC617ICiE,rWUwM3PSctc,RWwMA7NgHPw,rygv-W2nBMQ,S6nzPrp1znE,s7WQRQMZHpg,sbQRdt546xk,sCpKR0JfQYg,SCrkA-IU-MA,SCYQEWuPQ5k,shbkSBhJ2I0,SIa7IJeIZTs,sj2d6MMMHe8,Smgbk6_u95o,SMJH9hOBoHs,sNJWA5xXzJ4,SnZ6S3mRxL4,Sp4RLy_qYKg,sqjMUSm7P7g,Sr-bsrd1__k,sRO9eUbKbHk,STeFcjPilJQ,stXbBirLOa4,SuFrbJ6SU-o,svsHMcqSxo0,t1tZokS2EvY,t5_FT2IuuU4,t6E_0ndD_uc,t6Lt13vIedE,ta_w9snGNto,tA5qx4py3vk,Tcnt9LQ9ghs,TcTxPlJydUY,tHP9ltlAus8,TiTXAXiDfUc,tIWPr_DcdIo,tjMfQ3p3laE,Tnrn3L8FY0I,tPO2SMpryYw,TQscIaCFOkI,TQZvMICk0VY,tsbPU6Db2kY,TsPRXxIwYko,tvC2gQ4AczY,TvVR9BnYdcM,TwLUyzhOLOg,tYyiFa4vM6U,tyzocNwNQKM,u_GGjeSvYec,U008Q4Nl6Pw,u4vS2DaqFLc,U7kcy4JVL-A,u87rX2092og,UAHuVEBXel4,ubHkJ2JOyYc,udBq5d5QJu4,UDz1OZ08WdM,ufbriRv6ttg,ujGzJFLXyyU,ulqxOJMqlbE,uM3wMO8soPk,UnaCSOYEHJY,uNbF9eE8iQo,uPZH86T-gbU,UqoqSIhUkis,uUHrITp2OII,Uv9kdzginz4,UYZK6SLUDac,uznBzdoryQE,v__k4yoGtr0,v1EVuUPy0TM,V5UBaiLKTJ8,v7n8XMG6_lU,VAb-q4zZZ84,vdBH5hXgTx0,VDegR-PmnPY,VDiIHvrYiP4,VDNvoDprdXw,VdW3BTCrFyk,VEPn4Jpriag,vH2LP87XOhM,vhEhHA1_lYc,VifwNccVoaI,VIVQ8DSeXA0,vK8vS2FLi_8,VkklwV-XWV8,vLkThiVu-7w,VLODkOCKOTQ,Vm1M-wrzD30,vNBvyX0c2GU,VncJ0_vEoR0,VNKopA1AWqc,vNoLVvWSsyo,vo2k76mYB48,VOiG-bND5gw,vOxfriLzg30,vPi9nxUXeXY,vpPs1VYeYq4,VqfhBji9KRg,VSa_TIkV6lE,VU5aarfEf-k,vvIB5CzHtRk,W2YIfMkkfwk,w3TsReVTDJg,w7usO3iDt_o,W9zaoEqRVZA,WAHJQb4hEOc,wENuaVviKSo,wGKkvAU6BXM,wgltyCeZ9pk,WGM4fqCVAQg,wgx-dnhKrBU,WhXBxkP9xE4,WJ_m4kinM7w,wLKBFYSG524,wp-A4Xc_aLU,WQ505PlHjnA,ws0Sia6taoM,Ws3y42YOuCI,wwoXSecjUy0,WxIbdhY0A54,X1Ei27wYEkk,X28tURO5Cq0,X3Sqj3g_n6c,X4jATK5wBgU,X6DgdzLcbTc,x8rM1oZB8U8,XBbVIwgeD2g,xBjg0GydtgY,XD8UWjkcE1s,xDMceMQCI_I,xe9N5iVspPY,Xfgb4YaqMT0,xfoQHcU3MyI,XfSHGaDZbBk,XISLjXeWUwk,XLzGCZkYvIc,Xna5SsHOcUo,xot9iXQ-zBA,XpBu8gmssPY,XqmwL0TTfo0,xsFay-hybec,xsO-xNEhoBI,xSQvQDtzB6U,xTJgKGF--OQ,xwOcpq9TqpE,XXd8q4BfcYQ,xYBSsLGzMlc,Y0exfyEXpfI,Y88ecV_X87E,YACpICjPygE,YAHylAzN21o,YAZ0b3JyML8,yc4umVzljCM,YDbwkcXJXRo,ygVJlwArt0A,YiKnAv4Iw2I,YJiMBvqbCwc,ykP7QXaZp9M,YkrFx8fhafI,YLlsruYA4pk,YlYxp4VTDgw,YnYkBcT-rnY,yQrUOHG8e2k,YSoJN2dPoZw,YSq6X6aQhd0,yuNxrYT4t58,ywlM82gfvbk,yWZgvfLs_ss,yzJ3vadEb_0,YZniSg3z3Iw,z1mRlnZbCF0,Z3cDEAKbMyA,Z5r4RVFd2a8,z5T_1jyN5f8,z7iJ5zZ0cLY,Za2u9FkqiaU,zB8nIspKlco,Zdnvu5QIjXE,ZEn6pbfoNlo,Zfa1UNNaPxc,ZGLLyMlvoUY,zJoO_HiEUno,ZkwW4xznOmQ,zlajBZP3nH0,ZnPojroUsrU,ZOUO80Q44B4,zozvEuKPdKs,ZTV18-GhqyU,Zu2ITGywrmU,zu3muQumFyI,zUQ1UARkl24,ZZJ6BNKXcTw,q_QmpI9cyRY,zy611VHFFwU",
+  "topic": "Brennan",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_0GMW9eop3Q",
+      "segments": [
+        {
+          "text": "*brennan* this raisin face turned muffin",
+          "location": 2005
+        },
+        {
+          "text": "*brennan* is panicking he has disgraced",
+          "location": 2048
+        },
+        {
+          "text": "people at the top of the fbi *brennan*",
+          "location": 2060
+        },
+        {
+          "text": "know that *brennan* had detailed knowledge",
+          "location": 2068
+        },
+        {
+          "text": "intelligence investigation *brennan* has",
+          "location": 2088
+        }
+      ]
+    },
+    {
+      "id": "_3Rl1KrDzlc",
+      "segments": [
+        {
+          "text": "*brennan* and his access to the classified",
+          "location": 1305
+        },
+        {
+          "text": "*brennan* was at the top having the",
+          "location": 1345
+        },
+        {
+          "text": "*brennan* and james clapper and they were",
+          "location": 1552
+        },
+        {
+          "text": "john *brennan* they never thought she",
+          "location": 1665
+        }
+      ]
+    },
+    {
+      "id": "_c3-w-w0hd8",
+      "segments": [
+        {
+          "text": "link he talks about john *brennan* of",
+          "location": 1550
+        }
+      ]
+    },
+    {
+      "id": "_xXAzbpQxCk",
+      "segments": [
+        {
+          "text": "and comey and *brennan* why are they on",
+          "location": 243
+        }
+      ]
+    },
+    {
+      "id": "_Y32fnAp_mE",
+      "segments": [
+        {
+          "text": "*brennan* and how q's pointed out to us",
+          "location": 79
+        },
+        {
+          "text": "*brennan* geez america voters must not",
+          "location": 152
+        },
+        {
+          "text": "face turn muffin himself john *brennan*",
+          "location": 446
+        },
+        {
+          "text": "*brennan* right you guys let me know when",
+          "location": 455
+        },
+        {
+          "text": "these people john *brennan* james clapper",
+          "location": 645
+        }
+      ]
+    },
+    {
+      "id": "0DszWULPnJA",
+      "segments": [
+        {
+          "text": "*brennan* maxine waters elizabeth warren",
+          "location": 891
+        }
+      ]
+    },
+    {
+      "id": "0ZQpgASg94o",
+      "segments": [
+        {
+          "text": "jim clapper john *brennan* you name it",
+          "location": 635
+        },
+        {
+          "text": "*brennan* and james clapper and others",
+          "location": 1800
+        },
+        {
+          "text": "day of course you have john *brennan*",
+          "location": 2344
+        },
+        {
+          "text": "that the america that john *brennan* is",
+          "location": 2365
+        },
+        {
+          "text": "right and then john *brennan* the next one",
+          "location": 2438
+        },
+        {
+          "text": "post we just looked at from john *brennan*",
+          "location": 2443
+        }
+      ]
+    },
+    {
+      "id": "14goSb7_h8k",
+      "segments": [
+        {
+          "text": "talks about how john *brennan* and james",
+          "location": 856
+        },
+        {
+          "text": "*brennan* being interviewed with the most",
+          "location": 988
+        },
+        {
+          "text": "the purview of john *brennan* and others",
+          "location": 1308
+        }
+      ]
+    },
+    {
+      "id": "1Sh9FkZ0Z_M",
+      "segments": [
+        {
+          "text": "you guys know my my john *brennan*",
+          "location": 2619
+        }
+      ]
+    },
+    {
+      "id": "2B6uuN4h5To",
+      "segments": [
+        {
+          "text": "clapper and *brennan* and all those guys",
+          "location": 248
+        },
+        {
+          "text": "*brennan* and others lying and saying that",
+          "location": 324
+        }
+      ]
+    },
+    {
+      "id": "2KlWnWIW9es",
+      "segments": [
+        {
+          "text": "one john *brennan* uses to it was just a",
+          "location": 512
+        }
+      ]
+    },
+    {
+      "id": "2KpDBlqtvh4",
+      "segments": [
+        {
+          "text": "*brennan* and we're gonna get into that in",
+          "location": 70
+        },
+        {
+          "text": "political people there's john *brennan*",
+          "location": 834
+        },
+        {
+          "text": "nonetheless you have john *brennan* oh my",
+          "location": 937
+        },
+        {
+          "text": "gosh john *brennan* he is getting on tv",
+          "location": 942
+        }
+      ]
+    },
+    {
+      "id": "2nHvxV92Fo8",
+      "segments": [
+        {
+          "text": "connection between comey and *brennan* at",
+          "location": 322
+        },
+        {
+          "text": "*brennan* working with comey and peter",
+          "location": 366
+        }
+      ]
+    },
+    {
+      "id": "2z1u4f9qxSk",
+      "segments": [
+        {
+          "text": "hussein should be very nervous *brennan*",
+          "location": 284
+        }
+      ]
+    },
+    {
+      "id": "3JpE_sVAXtI",
+      "segments": [
+        {
+          "text": "here no-name media john *brennan* james",
+          "location": 295
+        },
+        {
+          "text": "these people like john *brennan* and james",
+          "location": 312
+        }
+      ]
+    },
+    {
+      "id": "4l3InNocQok",
+      "segments": [
+        {
+          "text": "talked about a bomb and *brennan* and what",
+          "location": 1547
+        }
+      ]
+    },
+    {
+      "id": "4SVOSBqdzh4",
+      "segments": [
+        {
+          "text": "biden john *brennan* one of those two but",
+          "location": 174
+        }
+      ]
+    },
+    {
+      "id": "5dLvEB_CqP0",
+      "segments": [
+        {
+          "text": "*brennan* so we were talking about this",
+          "location": 718
+        },
+        {
+          "text": "actually have you know who john *brennan*",
+          "location": 733
+        },
+        {
+          "text": "be quite frank here what john *brennan* is",
+          "location": 775
+        }
+      ]
+    },
+    {
+      "id": "5teFvGwE9Ec",
+      "segments": [
+        {
+          "text": "who john *brennan* our old favorite raiden",
+          "location": 1335
+        },
+        {
+          "text": "*brennan* to bring you home you never",
+          "location": 1402
+        },
+        {
+          "text": "they figured that *brennan* would still be",
+          "location": 1466
+        }
+      ]
+    },
+    {
+      "id": "6__xoin6aw8",
+      "segments": [
+        {
+          "text": "director of the cia john *brennan* to go",
+          "location": 1007
+        },
+        {
+          "text": "you have the ex-cia chief john *brennan*",
+          "location": 1152
+        },
+        {
+          "text": "*brennan* and others i believe of",
+          "location": 1174
+        },
+        {
+          "text": "director of the cia john *brennan* have",
+          "location": 1211
+        },
+        {
+          "text": "lie to you every time john *brennan* is",
+          "location": 1238
+        }
+      ]
+    },
+    {
+      "id": "639Gc3bX0Hs",
+      "segments": [
+        {
+          "text": "former cia director john *brennan* was his",
+          "location": 1398
+        },
+        {
+          "text": "cannot stand john *brennan* if you guys",
+          "location": 1425
+        },
+        {
+          "text": "john *brennan* and talking about how his",
+          "location": 1440
+        },
+        {
+          "text": "feel really bad for *brennan* because he's",
+          "location": 1450
+        }
+      ]
+    },
+    {
+      "id": "6gP2Zh2J4lU",
+      "segments": [
+        {
+          "text": "obama administration set up with *brennan*",
+          "location": 649
+        },
+        {
+          "text": "clapper and john *brennan* now who was the",
+          "location": 693
+        },
+        {
+          "text": "snow revealed that *brennan* and clapper",
+          "location": 839
+        },
+        {
+          "text": "excuse me *brennan* and *brennan* was",
+          "location": 864
+        },
+        {
+          "text": "story *brennan* approached and they were",
+          "location": 886
+        },
+        {
+          "text": "working out of dc right and *brennan*",
+          "location": 890
+        },
+        {
+          "text": "afford to hire *brennan* and his cohorts",
+          "location": 912
+        },
+        {
+          "text": "and i think *brennan* and clapper are",
+          "location": 917
+        },
+        {
+          "text": "short of it is that *brennan* then gets an",
+          "location": 929
+        },
+        {
+          "text": "along with *brennan* are along with",
+          "location": 946
+        },
+        {
+          "text": "that talk about *brennan* and what he was",
+          "location": 1113
+        },
+        {
+          "text": "what about wmds why did *brennan* others",
+          "location": 1140
+        },
+        {
+          "text": "you know and then *brennan* that's why it",
+          "location": 1243
+        },
+        {
+          "text": "hearing you know about *brennan* should be",
+          "location": 1251
+        },
+        {
+          "text": "raisin phase turd muffin *brennan* it's",
+          "location": 1299
+        },
+        {
+          "text": "were talking about *brennan* who was with",
+          "location": 1461
+        }
+      ]
+    },
+    {
+      "id": "6VOzbo_Xzcs",
+      "segments": [
+        {
+          "text": "bill cia director *brennan* and deputy",
+          "location": 1137
+        },
+        {
+          "text": "the cia director *brennan* secretly in",
+          "location": 1333
+        }
+      ]
+    },
+    {
+      "id": "7uKOdZECGKo",
+      "segments": [
+        {
+          "text": "susan rice or john *brennan* they don't",
+          "location": 344
+        }
+      ]
+    },
+    {
+      "id": "8BvPh2JcG1I",
+      "segments": [
+        {
+          "text": "*brennan* and clapper you guys want to",
+          "location": 31
+        },
+        {
+          "text": "swamp drain the swamp comey *brennan*",
+          "location": 501
+        }
+      ]
+    },
+    {
+      "id": "94-23EfqkIo",
+      "segments": [
+        {
+          "text": "john *brennan* and they used that dni to",
+          "location": 290
+        }
+      ]
+    },
+    {
+      "id": "9bmI1uHhg2Y",
+      "segments": [
+        {
+          "text": "clapper promoted *brennan* as the cia",
+          "location": 1379
+        }
+      ]
+    },
+    {
+      "id": "9CRaVe_WoRA",
+      "segments": [
+        {
+          "text": "president trump with john *brennan* james",
+          "location": 766
+        },
+        {
+          "text": "*brennan* and obama and hillary there are",
+          "location": 907
+        }
+      ]
+    },
+    {
+      "id": "9kWhckKtLyw",
+      "segments": [
+        {
+          "text": "liaison to you guessed it john *brennan*",
+          "location": 242
+        },
+        {
+          "text": "clapper *brennan* rice hussein it was all",
+          "location": 298
+        }
+      ]
+    },
+    {
+      "id": "9lRA4hj5-zs",
+      "segments": [
+        {
+          "text": "*brennan* comes on there and says",
+          "location": 1201
+        }
+      ]
+    },
+    {
+      "id": "9Rsj2RvPQQY",
+      "segments": [
+        {
+          "text": "john *brennan* cotton another big one in",
+          "location": 593
+        },
+        {
+          "text": "john *brennan* on like msnbc to basically",
+          "location": 711
+        },
+        {
+          "text": "the hammer h a mr obama *brennan* does",
+          "location": 731
+        },
+        {
+          "text": "that obama and john *brennan* and others",
+          "location": 755
+        }
+      ]
+    },
+    {
+      "id": "A3UCbl5D6xw",
+      "segments": [
+        {
+          "text": "people like john *brennan* and james",
+          "location": 893
+        },
+        {
+          "text": "john *brennan* and under james clapper",
+          "location": 1062
+        },
+        {
+          "text": "administration with john *brennan* and",
+          "location": 1177
+        }
+      ]
+    },
+    {
+      "id": "AGvin09PnlY",
+      "segments": [
+        {
+          "text": "*brennan* had taken the super surveillance",
+          "location": 1556
+        },
+        {
+          "text": "were doing that that was *brennan* and",
+          "location": 1570
+        }
+      ]
+    },
+    {
+      "id": "ApxADBQ8v3A",
+      "segments": [
+        {
+          "text": "and are giving up *brennan* *brennan* was",
+          "location": 329
+        },
+        {
+          "text": "know about how *brennan* and and clapper",
+          "location": 350
+        },
+        {
+          "text": "this very clear john *brennan* james",
+          "location": 389
+        }
+      ]
+    },
+    {
+      "id": "ATycYftkD9M",
+      "segments": [
+        {
+          "text": "campaign on august 4th *brennan* braced",
+          "location": 1216
+        }
+      ]
+    },
+    {
+      "id": "aZ9ow4ZlnfI",
+      "segments": [
+        {
+          "text": "of john *brennan* well there's no doubt",
+          "location": 214
+        },
+        {
+          "text": "created knowingly by john *brennan* as",
+          "location": 237
+        },
+        {
+          "text": "for *brennan* and clapper and comey and",
+          "location": 245
+        },
+        {
+          "text": "*brennan* isn't going to need one lawyer",
+          "location": 278
+        },
+        {
+          "text": "*brennan* the reason phase third muffin",
+          "location": 285
+        },
+        {
+          "text": "*brennan* clapper obama clinton they've",
+          "location": 461
+        }
+      ]
+    },
+    {
+      "id": "b2o6RTKxh4I",
+      "segments": [
+        {
+          "text": "barack obama john *brennan* and the muslim",
+          "location": 7
+        },
+        {
+          "text": "revoking x cia director *brennan* security",
+          "location": 842
+        },
+        {
+          "text": "*brennan* and brock hussain they all",
+          "location": 1468
+        }
+      ]
+    },
+    {
+      "id": "BcVYQ8Qb8WE",
+      "segments": [
+        {
+          "text": "montgomery ids obama's *brennan* clapper",
+          "location": 321
+        },
+        {
+          "text": "*brennan* and former director of national",
+          "location": 383
+        },
+        {
+          "text": "evidence where you have john *brennan* i",
+          "location": 674
+        }
+      ]
+    },
+    {
+      "id": "BRRHTfNJMg4",
+      "segments": [
+        {
+          "text": "of traitors like here's john *brennan* my",
+          "location": 652
+        },
+        {
+          "text": "you *brennan* and your your boss obama was",
+          "location": 695
+        },
+        {
+          "text": "you john *brennan* so this is sick this is",
+          "location": 725
+        },
+        {
+          "text": "*brennan* muller and people say it all the",
+          "location": 1759
+        }
+      ]
+    },
+    {
+      "id": "BufAWX9OL9M",
+      "segments": [
+        {
+          "text": "john *brennan* director of national",
+          "location": 512
+        }
+      ]
+    },
+    {
+      "id": "c3uk_PM4FTU",
+      "segments": [
+        {
+          "text": "report will contradict / *brennan* tweet",
+          "location": 1002
+        }
+      ]
+    },
+    {
+      "id": "CpCLI8mo6T8",
+      "segments": [
+        {
+          "text": "administration *brennan* clapper comey",
+          "location": 1074
+        },
+        {
+          "text": "*brennan* clapper mccabe can be paid to",
+          "location": 1097
+        },
+        {
+          "text": "you know don't forget what john *brennan*",
+          "location": 1115
+        },
+        {
+          "text": "comey from john *brennan* from msnbc cnn",
+          "location": 1805
+        }
+      ]
+    },
+    {
+      "id": "cRLq7aAC-XI",
+      "segments": [
+        {
+          "text": "a reasonable doubt that obama *brennan*",
+          "location": 741
+        }
+      ]
+    },
+    {
+      "id": "CVPDq78OM50",
+      "segments": [
+        {
+          "text": "contradict / *brennan* tweet today now",
+          "location": 1701
+        },
+        {
+          "text": "the grass oh i cannot stand john *brennan*",
+          "location": 1705
+        },
+        {
+          "text": "*brennan* the raisin faced heard that he",
+          "location": 1745
+        },
+        {
+          "text": "tuned mr. *brennan* you got some big i'm",
+          "location": 1769
+        },
+        {
+          "text": "*brennan* one iota one fraction of an iota",
+          "location": 1819
+        }
+      ]
+    },
+    {
+      "id": "CxlcQbMPATY",
+      "segments": [
+        {
+          "text": "saying get job *brennan* on the phone and",
+          "location": 557
+        }
+      ]
+    },
+    {
+      "id": "d1MKZw4vHEw",
+      "segments": [
+        {
+          "text": "*brennan* and clapper they're all lashing",
+          "location": 957
+        },
+        {
+          "text": "*brennan* on with chris maddow i mean",
+          "location": 996
+        },
+        {
+          "text": "the cia john *brennan* let's hear what he",
+          "location": 1129
+        }
+      ]
+    },
+    {
+      "id": "dgJVXPaHqP8",
+      "segments": [
+        {
+          "text": "to come former cia director john *brennan*",
+          "location": 274
+        }
+      ]
+    },
+    {
+      "id": "dPmQytHJFIs",
+      "segments": [
+        {
+          "text": "you have john *brennan* that's all",
+          "location": 181
+        },
+        {
+          "text": "in john *brennan* so this actually wraps",
+          "location": 273
+        }
+      ]
+    },
+    {
+      "id": "dS2qkAQ33Xw",
+      "segments": [
+        {
+          "text": "john *brennan* you got you know all the",
+          "location": 192
+        }
+      ]
+    },
+    {
+      "id": "dTiW7GUvpiE",
+      "segments": [
+        {
+          "text": "*brennan* and other top officials hi i'm",
+          "location": 8
+        },
+        {
+          "text": "started telling us about john *brennan*",
+          "location": 40
+        },
+        {
+          "text": "now we all know john *brennan* has been",
+          "location": 42
+        },
+        {
+          "text": "*brennan* and the implications they have",
+          "location": 60
+        },
+        {
+          "text": "*brennan* and this is the response sarah",
+          "location": 80
+        },
+        {
+          "text": "former director *brennan* security not",
+          "location": 116
+        },
+        {
+          "text": "i mean look at what john *brennan* is",
+          "location": 217
+        },
+        {
+          "text": "john *brennan* donald trump's press",
+          "location": 222
+        },
+        {
+          "text": "right here mr. *brennan* and we'd like to",
+          "location": 239
+        },
+        {
+          "text": "*brennan* it's everyone you have here a",
+          "location": 265
+        },
+        {
+          "text": "what about wmds why did *brennan* others",
+          "location": 615
+        },
+        {
+          "text": "allegedly by *brennan* clapper comey you",
+          "location": 738
+        },
+        {
+          "text": "but definitely *brennan* a clapper were",
+          "location": 746
+        },
+        {
+          "text": "interesting talking about *brennan* here",
+          "location": 910
+        },
+        {
+          "text": "*brennan* q and it gives this picture",
+          "location": 918
+        },
+        {
+          "text": "hussein hrc ll *brennan* clapper national",
+          "location": 1068
+        },
+        {
+          "text": "who's saying hrc and retta lynch *brennan*",
+          "location": 1270
+        }
+      ]
+    },
+    {
+      "id": "EEnVvVzaBCo",
+      "segments": [
+        {
+          "text": "that jon clapper james *brennan* excuse me",
+          "location": 902
+        },
+        {
+          "text": "james clapper john *brennan* james comey",
+          "location": 906
+        }
+      ]
+    },
+    {
+      "id": "F5FobXrvY3E",
+      "segments": [
+        {
+          "text": "and john *brennan* and james clapper",
+          "location": 1854
+        }
+      ]
+    },
+    {
+      "id": "f7YHUbjdCzM",
+      "segments": [
+        {
+          "text": "first of all we have john *brennan* coming",
+          "location": 1459
+        }
+      ]
+    },
+    {
+      "id": "fB7BASL5g54",
+      "segments": [
+        {
+          "text": "*brennan*",
+          "location": 132
+        }
+      ]
+    },
+    {
+      "id": "Ff4fEQVTpSs",
+      "segments": [
+        {
+          "text": "race and face turd muffin john o *brennan*",
+          "location": 354
+        },
+        {
+          "text": "tweet this at john *brennan* get him and i",
+          "location": 575
+        },
+        {
+          "text": "better than people like john *brennan* and",
+          "location": 701
+        }
+      ]
+    },
+    {
+      "id": "Fk16jEhiBrQ",
+      "segments": [
+        {
+          "text": "sympathizer john *brennan* has come out in",
+          "location": 9
+        },
+        {
+          "text": "talk about john *brennan* and his complete",
+          "location": 56
+        },
+        {
+          "text": "john *brennan*",
+          "location": 492
+        },
+        {
+          "text": "talking about john *brennan* now he's not",
+          "location": 1563
+        },
+        {
+          "text": "face turn muffin john *brennan* here and",
+          "location": 1592
+        },
+        {
+          "text": "cia john *brennan* actually voted for the",
+          "location": 1633
+        }
+      ]
+    },
+    {
+      "id": "ft2oJSlNPtQ",
+      "segments": [
+        {
+          "text": "and eric schmidt and john *brennan* and",
+          "location": 354
+        }
+      ]
+    },
+    {
+      "id": "g_4yojz2mAs",
+      "segments": [
+        {
+          "text": "you know *brennan* and clapper led",
+          "location": 833
+        }
+      ]
+    },
+    {
+      "id": "g8XCMFkFyjY",
+      "segments": [
+        {
+          "text": "says think cia *brennan* authority spy",
+          "location": 697
+        }
+      ]
+    },
+    {
+      "id": "gMSJoVkQZWw",
+      "segments": [
+        {
+          "text": "john *brennan* what was mole of the",
+          "location": 801
+        },
+        {
+          "text": "name clapper *brennan* rice loretta lynch",
+          "location": 1411
+        }
+      ]
+    },
+    {
+      "id": "gnDVjDTXE0k",
+      "segments": [
+        {
+          "text": "against clapper and *brennan* in a closed",
+          "location": 7
+        },
+        {
+          "text": "interviewing clapper *brennan* and admiral",
+          "location": 1183
+        },
+        {
+          "text": "clapper and *brennan* the clowns and you",
+          "location": 1241
+        },
+        {
+          "text": "yesterday and it's saying that *brennan*",
+          "location": 1476
+        },
+        {
+          "text": "between comey and *brennan* and *brennan*",
+          "location": 1495
+        },
+        {
+          "text": "john *brennan* i can't i hate to you know",
+          "location": 1542
+        },
+        {
+          "text": "clapper *brennan* and comey",
+          "location": 1800
+        },
+        {
+          "text": "their connection to *brennan* and what",
+          "location": 1898
+        },
+        {
+          "text": "behalf of probably john *brennan* and",
+          "location": 2442
+        }
+      ]
+    },
+    {
+      "id": "gya_mSZwAl0",
+      "segments": [
+        {
+          "text": "general john *brennan* aka resin raisin",
+          "location": 1110
+        }
+      ]
+    },
+    {
+      "id": "GYRgczPNxJI",
+      "segments": [
+        {
+          "text": "more and more that now john *brennan* say",
+          "location": 1598
+        },
+        {
+          "text": "*brennan* could spy domestically using the",
+          "location": 1608
+        },
+        {
+          "text": "montgomery helped *brennan* and clapper",
+          "location": 1635
+        }
+      ]
+    },
+    {
+      "id": "HCCtVyqBoRE",
+      "segments": [
+        {
+          "text": "carey *brennan* and hussein should be very",
+          "location": 1128
+        },
+        {
+          "text": "and then you have john *brennan* who gets",
+          "location": 1168
+        },
+        {
+          "text": "that everything that *brennan* did was",
+          "location": 1177
+        }
+      ]
+    },
+    {
+      "id": "HF1kNM1SZWw",
+      "segments": [
+        {
+          "text": "classified clearances says think *brennan*",
+          "location": 620
+        }
+      ]
+    },
+    {
+      "id": "hfX559mxFQo",
+      "segments": [
+        {
+          "text": "it's going to be clapper and *brennan* you",
+          "location": 1011
+        },
+        {
+          "text": "way that john *brennan* has tried to",
+          "location": 1089
+        },
+        {
+          "text": "john *brennan* was a national security and",
+          "location": 1248
+        },
+        {
+          "text": "going further *brennan* stayed we put",
+          "location": 1262
+        },
+        {
+          "text": "2009 *brennan* and clapper commandeered",
+          "location": 1287
+        },
+        {
+          "text": "blackmail and leverage *brennan* clapper",
+          "location": 1294
+        },
+        {
+          "text": "surveillance *brennan* and clapper",
+          "location": 1348
+        }
+      ]
+    },
+    {
+      "id": "HkJj6tZtzKg",
+      "segments": [
+        {
+          "text": "head of john *brennan* said",
+          "location": 2524
+        },
+        {
+          "text": "besides it's my best john *brennan* a",
+          "location": 2544
+        }
+      ]
+    },
+    {
+      "id": "hKSHNiPdaQU",
+      "segments": [
+        {
+          "text": "direction of her under director *brennan*",
+          "location": 423
+        },
+        {
+          "text": "direction of john *brennan* at the",
+          "location": 536
+        }
+      ]
+    },
+    {
+      "id": "HTETmsKXnkE",
+      "segments": [
+        {
+          "text": "probably john *brennan* rahm emanuel john",
+          "location": 710
+        },
+        {
+          "text": "about how the cia with john *brennan* was",
+          "location": 726
+        },
+        {
+          "text": "domestically that would be john *brennan*",
+          "location": 789
+        },
+        {
+          "text": "and also the truth about *brennan* and",
+          "location": 929
+        }
+      ]
+    },
+    {
+      "id": "hxMqBVB9oIU",
+      "segments": [
+        {
+          "text": "obviously of john *brennan* and and james",
+          "location": 1891
+        }
+      ]
+    },
+    {
+      "id": "i7CsAm6pTpE",
+      "segments": [
+        {
+          "text": "administration with *brennan* and *brennan*",
+          "location": 713
+        },
+        {
+          "text": "would basically be like the john *brennan*",
+          "location": 1055
+        },
+        {
+          "text": "john *brennan* and james clapper and we're",
+          "location": 1348
+        },
+        {
+          "text": "obama with *brennan* and clapper were",
+          "location": 1550
+        }
+      ]
+    },
+    {
+      "id": "iaA6l7wVsGE",
+      "segments": [
+        {
+          "text": "*brennan* the raisin face turd muffin",
+          "location": 1429
+        },
+        {
+          "text": "it gets and *brennan* is deep sea as it",
+          "location": 1472
+        }
+      ]
+    },
+    {
+      "id": "IC9FN_fY2go",
+      "segments": [
+        {
+          "text": "should be very nervous *brennan* should be",
+          "location": 444
+        },
+        {
+          "text": "john *brennan* and john kerry and",
+          "location": 724
+        }
+      ]
+    },
+    {
+      "id": "iQHR1-6RKGY",
+      "segments": [
+        {
+          "text": "and all of the things that john *brennan*",
+          "location": 37
+        },
+        {
+          "text": "start here chuck wolseley john *brennan*",
+          "location": 189
+        },
+        {
+          "text": "*brennan* what they did was they brought",
+          "location": 236
+        }
+      ]
+    },
+    {
+      "id": "ivzGKZFp8M8",
+      "segments": [
+        {
+          "text": "under director *brennan* and director",
+          "location": 273
+        },
+        {
+          "text": "telling us that john *brennan* and james",
+          "location": 462
+        },
+        {
+          "text": "hussein hrc loretta lynch *brennan*",
+          "location": 1053
+        },
+        {
+          "text": "and *brennan* to go around the official",
+          "location": 1104
+        },
+        {
+          "text": "saying hrc loretta lynch *brennan* clapper",
+          "location": 1154
+        }
+      ]
+    },
+    {
+      "id": "IyRWVFXn45A",
+      "segments": [
+        {
+          "text": "*brennan* listed the names of other people",
+          "location": 1182
+        },
+        {
+          "text": "*brennan* now what is the connection",
+          "location": 1197
+        },
+        {
+          "text": "between bruce or and john *brennan* well",
+          "location": 1199
+        },
+        {
+          "text": "tandem with john *brennan* being that she",
+          "location": 1215
+        },
+        {
+          "text": "*brennan* that then was branched out to",
+          "location": 1237
+        },
+        {
+          "text": "connection to john *brennan* right and",
+          "location": 1262
+        },
+        {
+          "text": "christopher steele john *brennan* barack",
+          "location": 1274
+        }
+      ]
+    },
+    {
+      "id": "J2spK-T9ev0",
+      "segments": [
+        {
+          "text": "and *brennan* talk on cnn and soos espouse",
+          "location": 356
+        }
+      ]
+    },
+    {
+      "id": "j4__e_WelW0",
+      "segments": [
+        {
+          "text": "i want to go in john *brennan* right what",
+          "location": 840
+        },
+        {
+          "text": "did john *brennan* know and win did he",
+          "location": 842
+        }
+      ]
+    },
+    {
+      "id": "J6zapuerlJk",
+      "segments": [
+        {
+          "text": "john *brennan* and james clapper all knew",
+          "location": 112
+        },
+        {
+          "text": "clapper angie and john *brennan* were both",
+          "location": 208
+        }
+      ]
+    },
+    {
+      "id": "J7b6SPEd0FA",
+      "segments": [
+        {
+          "text": "*brennan* and clapper *brennan* at the dni",
+          "location": 565
+        },
+        {
+          "text": "and clap *brennan* at the clown agency and",
+          "location": 567
+        },
+        {
+          "text": "with *brennan* and the hammer out of fort",
+          "location": 869
+        },
+        {
+          "text": "like john *brennan* and james clapper and",
+          "location": 1179
+        },
+        {
+          "text": "*brennan* on msnbc's rachel maddow show",
+          "location": 1527
+        }
+      ]
+    },
+    {
+      "id": "jnUP8mEuPqc",
+      "segments": [
+        {
+          "text": "worked for *brennan* and clapper those are",
+          "location": 328
+        },
+        {
+          "text": "into all of america for *brennan* and",
+          "location": 370
+        },
+        {
+          "text": "were hacked in by *brennan* and gladly",
+          "location": 430
+        },
+        {
+          "text": "string back with claude *brennan* *brennan*",
+          "location": 438
+        },
+        {
+          "text": "*brennan* at the cia that came over to",
+          "location": 500
+        },
+        {
+          "text": "*brennan* did an analysis group and they",
+          "location": 519
+        },
+        {
+          "text": "i mean that obama gets elected *brennan*",
+          "location": 532
+        },
+        {
+          "text": "*brennan* three-door mm white house",
+          "location": 547
+        }
+      ]
+    },
+    {
+      "id": "jO3DSz6VU10",
+      "segments": [
+        {
+          "text": "*brennan* and this story is never ever to",
+          "location": 955
+        },
+        {
+          "text": "players *brennan* clapper john carlin",
+          "location": 1581
+        }
+      ]
+    },
+    {
+      "id": "JP_9kWACn3U",
+      "segments": [
+        {
+          "text": "*brennan* of course is still nervous and",
+          "location": 1596
+        }
+      ]
+    },
+    {
+      "id": "jPdBNzia1bQ",
+      "segments": [
+        {
+          "text": "barack obama and john *brennan* and ask",
+          "location": 743
+        },
+        {
+          "text": "john *brennan* out of that position of the",
+          "location": 1108
+        },
+        {
+          "text": "used by obama and john *brennan* through",
+          "location": 1183
+        },
+        {
+          "text": "briefing cia director john *brennan*",
+          "location": 1198
+        },
+        {
+          "text": "*brennan* claimed was a critical informant",
+          "location": 1204
+        },
+        {
+          "text": "between *brennan* and fbi director james",
+          "location": 1217
+        },
+        {
+          "text": "coming in which *brennan* is said to have",
+          "location": 1218
+        }
+      ]
+    },
+    {
+      "id": "JXObjjcM37E",
+      "segments": [
+        {
+          "text": "fall in lockstep john *brennan* of course",
+          "location": 668
+        }
+      ]
+    },
+    {
+      "id": "K6D4AseiyvA",
+      "segments": [
+        {
+          "text": "were set up under obama by *brennan* and",
+          "location": 540
+        }
+      ]
+    },
+    {
+      "id": "k7HZG6YnFww",
+      "segments": [
+        {
+          "text": "pointing out john *brennan* and doesn't",
+          "location": 1302
+        },
+        {
+          "text": "saying here is that what john *brennan*",
+          "location": 1320
+        },
+        {
+          "text": "support of *brennan* and are now on",
+          "location": 1330
+        },
+        {
+          "text": "about *brennan* clapper obama's illegal",
+          "location": 1429
+        }
+      ]
+    },
+    {
+      "id": "kPNmP4e9jfA",
+      "segments": [
+        {
+          "text": "using the cia and john *brennan* and the",
+          "location": 823
+        },
+        {
+          "text": "media john *brennan* james clapper leaks",
+          "location": 922
+        }
+      ]
+    },
+    {
+      "id": "KQYQ6-hMOjY",
+      "segments": [
+        {
+          "text": "have the ex-cia chief john *brennan*",
+          "location": 187
+        },
+        {
+          "text": "need to look at this where john *brennan*",
+          "location": 222
+        },
+        {
+          "text": "*brennan* james clapper james comey they",
+          "location": 350
+        },
+        {
+          "text": "because john *brennan* knows that his time",
+          "location": 394
+        },
+        {
+          "text": "because him and comey were and *brennan*",
+          "location": 401
+        },
+        {
+          "text": "or *brennan* or clapper or her saying or",
+          "location": 515
+        },
+        {
+          "text": "actions of *brennan* and i want you guys",
+          "location": 552
+        },
+        {
+          "text": "hope *brennan* is smart enough to know",
+          "location": 679
+        }
+      ]
+    },
+    {
+      "id": "kv41joeMcM4",
+      "segments": [
+        {
+          "text": "like the cia *brennan* and clapper and you",
+          "location": 336
+        },
+        {
+          "text": "john *brennan* just went off on you know",
+          "location": 735
+        },
+        {
+          "text": "john *brennan* of course you have this",
+          "location": 932
+        },
+        {
+          "text": "*brennan* or bill maher and that's gonna",
+          "location": 967
+        },
+        {
+          "text": "*brennan* should be very nervous kerry",
+          "location": 1706
+        },
+        {
+          "text": "*brennan* carry merkel and 29 others",
+          "location": 1735
+        }
+      ]
+    },
+    {
+      "id": "kZSTJv4Hxk0",
+      "segments": [
+        {
+          "text": "bore frederic *brennan* and then the new",
+          "location": 202
+        },
+        {
+          "text": "seems that this person frederic *brennan*",
+          "location": 216
+        },
+        {
+          "text": "*brennan* and that's where i'm gonna go",
+          "location": 244
+        },
+        {
+          "text": "this person *brennan* i don't know but",
+          "location": 260
+        },
+        {
+          "text": "the hammer *brennan* and the set up of",
+          "location": 983
+        }
+      ]
+    },
+    {
+      "id": "L2Az5A7kcP8",
+      "segments": [
+        {
+          "text": "*brennan* former gchq director hannigan",
+          "location": 224
+        },
+        {
+          "text": "columns between *brennan* and the british",
+          "location": 230
+        },
+        {
+          "text": "eastern john *brennan* gives mike",
+          "location": 264
+        },
+        {
+          "text": "fifty 4:00 a.m. eastern john *brennan*",
+          "location": 300
+        },
+        {
+          "text": "*brennan* this is 19 deep state public",
+          "location": 487
+        },
+        {
+          "text": "pelosi *brennan* deeps a plan was averted",
+          "location": 510
+        },
+        {
+          "text": "john *brennan* now we're all the",
+          "location": 550
+        },
+        {
+          "text": "talks about pelosi *brennan* deeps a plan",
+          "location": 592
+        }
+      ]
+    },
+    {
+      "id": "L3Ij2cvGFkY",
+      "segments": [
+        {
+          "text": "*brennan* clapper national security white",
+          "location": 753
+        },
+        {
+          "text": "activated under director *brennan*",
+          "location": 1006
+        },
+        {
+          "text": "punishment *brennan* by hussein",
+          "location": 1781
+        }
+      ]
+    },
+    {
+      "id": "l6iCUxTXOBw",
+      "segments": [
+        {
+          "text": "paige the whole gang john *brennan* susan",
+          "location": 1109
+        }
+      ]
+    },
+    {
+      "id": "L6uSGv164Xw",
+      "segments": [
+        {
+          "text": "talking about john *brennan* james clapper",
+          "location": 956
+        },
+        {
+          "text": "rod rosenstein susan rice john *brennan*",
+          "location": 2251
+        }
+      ]
+    },
+    {
+      "id": "L8KfIdZMszk",
+      "segments": [
+        {
+          "text": "he's talking about john *brennan* and i'm",
+          "location": 1043
+        },
+        {
+          "text": "the criminal that john *brennan* is along",
+          "location": 1052
+        },
+        {
+          "text": "john *brennan* accused them of acting out",
+          "location": 1078
+        },
+        {
+          "text": "what they are john *brennan* traitors of",
+          "location": 1115
+        },
+        {
+          "text": "what john *brennan* has to say about the",
+          "location": 1165
+        },
+        {
+          "text": "videos have talked about john *brennan*",
+          "location": 1175
+        },
+        {
+          "text": "*brennan* the former competent communists",
+          "location": 1910
+        }
+      ]
+    },
+    {
+      "id": "LDbkkYUWvpA",
+      "segments": [
+        {
+          "text": "correspondents like john *brennan* and",
+          "location": 1296
+        }
+      ]
+    },
+    {
+      "id": "ljBQV9kO_48",
+      "segments": [
+        {
+          "text": "*brennan* the raising face turd muffin",
+          "location": 552
+        }
+      ]
+    },
+    {
+      "id": "LniEKTpx8Qo",
+      "segments": [
+        {
+          "text": "report revealing that john *brennan* james",
+          "location": 183
+        }
+      ]
+    },
+    {
+      "id": "LTZqQj0xixg",
+      "segments": [
+        {
+          "text": "about john *brennan* who basically had to",
+          "location": 136
+        },
+        {
+          "text": "*brennan* so and yet they all are people",
+          "location": 288
+        },
+        {
+          "text": "this one john *brennan* that is quoting",
+          "location": 994
+        },
+        {
+          "text": "dan bonjean oh here it says john *brennan*",
+          "location": 997
+        }
+      ]
+    },
+    {
+      "id": "m2iCTKjwGZY",
+      "segments": [
+        {
+          "text": "john *brennan* james clapper all of the",
+          "location": 1158
+        }
+      ]
+    },
+    {
+      "id": "M2SBwEaGWjA",
+      "segments": [
+        {
+          "text": "former director of the cia john *brennan*",
+          "location": 241
+        },
+        {
+          "text": "muffin john *brennan* himself is making a",
+          "location": 252
+        },
+        {
+          "text": "their tip line and reported john *brennan*",
+          "location": 261
+        },
+        {
+          "text": "visit to john *brennan* and tell him he",
+          "location": 272
+        },
+        {
+          "text": "brother *brennan* has actually jumped in",
+          "location": 1095
+        },
+        {
+          "text": "my best john *brennan* voice jim comey is",
+          "location": 1107
+        }
+      ]
+    },
+    {
+      "id": "mBU8ggNgS8s",
+      "segments": [
+        {
+          "text": "like john *brennan* was and you were",
+          "location": 498
+        }
+      ]
+    },
+    {
+      "id": "mdj-e3WW1Bo",
+      "segments": [
+        {
+          "text": "cohorts *brennan* and the rest who were",
+          "location": 1692
+        }
+      ]
+    },
+    {
+      "id": "mJWjRqEjk1U",
+      "segments": [
+        {
+          "text": "post and calling out *brennan* and clapper",
+          "location": 1230
+        }
+      ]
+    },
+    {
+      "id": "mOIXtYBUHzE",
+      "segments": [
+        {
+          "text": "*brennan* but you know it could be anyone",
+          "location": 810
+        }
+      ]
+    },
+    {
+      "id": "mpo_IhTE430",
+      "segments": [
+        {
+          "text": "is john *brennan* speaking to president",
+          "location": 2002
+        },
+        {
+          "text": "at john *brennan* we know you are",
+          "location": 2014
+        }
+      ]
+    },
+    {
+      "id": "mqjohU4wchw",
+      "segments": [
+        {
+          "text": "look at tweets from john *brennan* and",
+          "location": 17
+        },
+        {
+          "text": "individual john *brennan* who is the",
+          "location": 1742
+        },
+        {
+          "text": "john *brennan* he's definitely included in",
+          "location": 1804
+        }
+      ]
+    },
+    {
+      "id": "MU2Rcx_7eK0",
+      "segments": [
+        {
+          "text": "john *brennan* and others i mean in what",
+          "location": 656
+        }
+      ]
+    },
+    {
+      "id": "MUy19aL4UNs",
+      "segments": [
+        {
+          "text": "*brennan* and clapper and even up to the",
+          "location": 402
+        }
+      ]
+    },
+    {
+      "id": "n5D-l-3F7ik",
+      "segments": [
+        {
+          "text": "certain mr. oh *brennan* on twitter and",
+          "location": 2089
+        }
+      ]
+    },
+    {
+      "id": "Nb9AndSj88I",
+      "segments": [
+        {
+          "text": "criminals like *brennan* and clapper and",
+          "location": 484
+        },
+        {
+          "text": "of john *brennan* for the obama",
+          "location": 690
+        },
+        {
+          "text": "john *brennan* and now this is making",
+          "location": 1250
+        }
+      ]
+    },
+    {
+      "id": "nspGMcDjCKM",
+      "segments": [
+        {
+          "text": "founded by john *brennan* and we all know",
+          "location": 294
+        },
+        {
+          "text": "john *brennan* very well i'll give you a",
+          "location": 298
+        },
+        {
+          "text": "john *brennan* was saying before this is",
+          "location": 309
+        },
+        {
+          "text": "is disgraceful says john *brennan* former",
+          "location": 362
+        },
+        {
+          "text": "you mr. *brennan* are the the least",
+          "location": 387
+        },
+        {
+          "text": "founded by *brennan* and he gives a link",
+          "location": 573
+        }
+      ]
+    },
+    {
+      "id": "NwWi8UclL4k",
+      "segments": [
+        {
+          "text": "it's just mccabe comey *brennan* hayden",
+          "location": 1236
+        }
+      ]
+    },
+    {
+      "id": "Nz6lrDmtUxk",
+      "segments": [
+        {
+          "text": "which on *brennan* now we know that raisin",
+          "location": 44
+        },
+        {
+          "text": "i like *brennan* i should say i don't know",
+          "location": 1031
+        },
+        {
+          "text": "pokes at mr. john *brennan* who i really",
+          "location": 1647
+        }
+      ]
+    },
+    {
+      "id": "oJslPIbYry4",
+      "segments": [
+        {
+          "text": "john *brennan* i believe okay so at what",
+          "location": 1475
+        }
+      ]
+    },
+    {
+      "id": "OKRqb03TEUs",
+      "segments": [
+        {
+          "text": "him and *brennan* to meet up with sis or",
+          "location": 695
+        }
+      ]
+    },
+    {
+      "id": "OQCgaoqYPDQ",
+      "segments": [
+        {
+          "text": "john *brennan* but then it was elon musk",
+          "location": 442
+        }
+      ]
+    },
+    {
+      "id": "ornHtBUFohc",
+      "segments": [
+        {
+          "text": "between no name hussein *brennan* clapper",
+          "location": 479
+        },
+        {
+          "text": "*brennan* tapped directly for support",
+          "location": 704
+        },
+        {
+          "text": "*brennan* classified security divisions",
+          "location": 706
+        }
+      ]
+    },
+    {
+      "id": "Ou8IoZrbRFY",
+      "segments": [
+        {
+          "text": "john *brennan* came forward and and it's",
+          "location": 1333
+        },
+        {
+          "text": "raisin face turd muffin john *brennan*",
+          "location": 1367
+        }
+      ]
+    },
+    {
+      "id": "oXoEIlNO77U",
+      "segments": [
+        {
+          "text": "that obama john *brennan* peter struck",
+          "location": 384
+        }
+      ]
+    },
+    {
+      "id": "PbcQo398070",
+      "segments": [
+        {
+          "text": "out why *brennan* went to harry reid in",
+          "location": 877
+        },
+        {
+          "text": "and *brennan* all obama's henchmen",
+          "location": 1213
+        }
+      ]
+    },
+    {
+      "id": "peHd3IOjylg",
+      "segments": [
+        {
+          "text": "james clapper john *brennan* lisa page and",
+          "location": 1590
+        }
+      ]
+    },
+    {
+      "id": "PMt56AI7XrI",
+      "segments": [
+        {
+          "text": "there with comey warner *brennan* and",
+          "location": 93
+        }
+      ]
+    },
+    {
+      "id": "PN8oDcxVDKU",
+      "segments": [
+        {
+          "text": "*brennan* to authenticate source is",
+          "location": 1427
+        }
+      ]
+    },
+    {
+      "id": "pOgq_axpn1k",
+      "segments": [
+        {
+          "text": "raisin face turd muffin john *brennan* is",
+          "location": 2
+        },
+        {
+          "text": "page and it says quote john *brennan* no",
+          "location": 80
+        },
+        {
+          "text": "on with john *brennan*",
+          "location": 115
+        },
+        {
+          "text": "well here's john *brennan* the raisin face",
+          "location": 116
+        },
+        {
+          "text": "that's called a john *brennan* i will",
+          "location": 125
+        },
+        {
+          "text": "people like you mr. *brennan* who allowed",
+          "location": 720
+        },
+        {
+          "text": "problem mr. *brennan* mr. clapper mr.",
+          "location": 753
+        },
+        {
+          "text": "*brennan* and and clapper and hillary and",
+          "location": 904
+        },
+        {
+          "text": "clap or two according to *brennan* we have",
+          "location": 928
+        },
+        {
+          "text": "mr. *brennan* and i know this because look",
+          "location": 967
+        },
+        {
+          "text": "himself john *brennan* former director of",
+          "location": 1044
+        },
+        {
+          "text": "lynch *brennan* clapper national security",
+          "location": 1219
+        },
+        {
+          "text": "john *brennan* where you're like okay that",
+          "location": 1258
+        },
+        {
+          "text": "*brennan* and all the things that he's",
+          "location": 1868
+        },
+        {
+          "text": "because i'm not angry at john *brennan* i",
+          "location": 1880
+        }
+      ]
+    },
+    {
+      "id": "q0d0OkpV5gs",
+      "segments": [
+        {
+          "text": "we have *brennan* and clapper and all of",
+          "location": 175
+        },
+        {
+          "text": "director john *brennan* and obama's",
+          "location": 615
+        },
+        {
+          "text": "chiefs *brennan* and clapper turned the",
+          "location": 635
+        },
+        {
+          "text": "montgomery asserts that obama *brennan*",
+          "location": 639
+        },
+        {
+          "text": "*brennan* and clapper used the super",
+          "location": 686
+        },
+        {
+          "text": "that sink in obama *brennan* and clapper",
+          "location": 788
+        },
+        {
+          "text": "*brennan* admitting that he voted for the",
+          "location": 876
+        },
+        {
+          "text": "the hammer and proved that *brennan* and",
+          "location": 926
+        },
+        {
+          "text": "montgomery's claim that obama *brennan*",
+          "location": 966
+        },
+        {
+          "text": "obama *brennan* and clapper via the hammer",
+          "location": 980
+        },
+        {
+          "text": "communist john *brennan* feared trump as",
+          "location": 1036
+        },
+        {
+          "text": "john *brennan* admitted during his initial",
+          "location": 1050
+        },
+        {
+          "text": "with a hammer *brennan* clapper and obama",
+          "location": 1139
+        },
+        {
+          "text": "*brennan* clapper and obama illegally used",
+          "location": 1153
+        },
+        {
+          "text": "a cia contractor both under john *brennan*",
+          "location": 1196
+        },
+        {
+          "text": "including john *brennan* james clapper and",
+          "location": 1381
+        }
+      ]
+    },
+    {
+      "id": "q2tI5JrJKzE",
+      "segments": [
+        {
+          "text": "both *brennan* and struck tells us that",
+          "location": 611
+        }
+      ]
+    },
+    {
+      "id": "Q8C-i61AH9Q",
+      "segments": [
+        {
+          "text": "*brennan* oversaw a secret super computer",
+          "location": 1319
+        },
+        {
+          "text": "montgomery clapeyron *brennan* were using",
+          "location": 1330
+        },
+        {
+          "text": "whistleblower revelations about *brennan*",
+          "location": 1357
+        },
+        {
+          "text": "revealed that *brennan* clapper",
+          "location": 1391
+        }
+      ]
+    },
+    {
+      "id": "qaB9Xgr-K-U",
+      "segments": [
+        {
+          "text": "and a liner we know john *brennan* is a",
+          "location": 1215
+        }
+      ]
+    },
+    {
+      "id": "qCVOU264zOY",
+      "segments": [
+        {
+          "text": "john *brennan* james clapper and others",
+          "location": 287
+        }
+      ]
+    },
+    {
+      "id": "QFxy7aHGQAk",
+      "segments": [
+        {
+          "text": "press conference that john *brennan* is so",
+          "location": 927
+        }
+      ]
+    },
+    {
+      "id": "QgdmFUaMaTg",
+      "segments": [
+        {
+          "text": "*brennan* rice yates you name them obama",
+          "location": 338
+        }
+      ]
+    },
+    {
+      "id": "QHMQrxZEG0A",
+      "segments": [
+        {
+          "text": "john *brennan* and james clapper gave the",
+          "location": 28
+        },
+        {
+          "text": "and it also ties *brennan* and clapper and",
+          "location": 232
+        },
+        {
+          "text": "or john *brennan* and james clapper were",
+          "location": 260
+        },
+        {
+          "text": "*brennan* and clappers elicit super",
+          "location": 332
+        },
+        {
+          "text": "*brennan* a director of national",
+          "location": 491
+        },
+        {
+          "text": "documentation from mr. *brennan* are from",
+          "location": 622
+        }
+      ]
+    },
+    {
+      "id": "qQCLQxxZ-JQ",
+      "segments": [
+        {
+          "text": "it's got obama clapper *brennan* mccabe",
+          "location": 853
+        }
+      ]
+    },
+    {
+      "id": "qSIbJjKcNfg",
+      "segments": [
+        {
+          "text": "system you know you got *brennan* and you",
+          "location": 687
+        }
+      ]
+    },
+    {
+      "id": "r509r1pO2R0",
+      "segments": [
+        {
+          "text": "john *brennan* who is had purported ties",
+          "location": 432
+        },
+        {
+          "text": "*brennan* comey obama white house and the",
+          "location": 544
+        },
+        {
+          "text": "against that well as john *brennan*",
+          "location": 822
+        }
+      ]
+    },
+    {
+      "id": "rCig3kho2SM",
+      "segments": [
+        {
+          "text": "comey clapper and *brennan* requires",
+          "location": 638
+        },
+        {
+          "text": "*brennan* requires accountability that can",
+          "location": 703
+        },
+        {
+          "text": "guy is named sir marie f *brennan* now i'm",
+          "location": 1789
+        },
+        {
+          "text": "*brennan* although they both look kind of",
+          "location": 1792
+        },
+        {
+          "text": "life this guy dr. marie *brennan* it's",
+          "location": 1860
+        }
+      ]
+    },
+    {
+      "id": "rWFJYGKR8Q0",
+      "segments": [
+        {
+          "text": "you have *brennan* working with comey with",
+          "location": 328
+        },
+        {
+          "text": "*brennan* through stroke through comey in",
+          "location": 1296
+        },
+        {
+          "text": "so john *brennan* the raisin face turd",
+          "location": 2143
+        },
+        {
+          "text": "*brennan* believes in his little fantasy",
+          "location": 2214
+        },
+        {
+          "text": "*brennan* is the one who you know it's the",
+          "location": 2280
+        },
+        {
+          "text": "go-between between *brennan* and comey and",
+          "location": 2292
+        },
+        {
+          "text": "people like john *brennan*",
+          "location": 2366
+        }
+      ]
+    },
+    {
+      "id": "rwgpNw7-Z2o",
+      "segments": [
+        {
+          "text": "*brennan* and others for their legal",
+          "location": 271
+        }
+      ]
+    },
+    {
+      "id": "s7WQRQMZHpg",
+      "segments": [
+        {
+          "text": "talked about john *brennan* and what",
+          "location": 57
+        }
+      ]
+    },
+    {
+      "id": "SCrkA-IU-MA",
+      "segments": [
+        {
+          "text": "administration cia from john *brennan*",
+          "location": 1538
+        }
+      ]
+    },
+    {
+      "id": "sRO9eUbKbHk",
+      "segments": [
+        {
+          "text": "anthony scalia 187 clown black *brennan* q",
+          "location": 1375
+        },
+        {
+          "text": "operation by mr. *brennan* himself the",
+          "location": 1395
+        },
+        {
+          "text": "you're the clown black right *brennan*",
+          "location": 1445
+        },
+        {
+          "text": "*brennan* clapper national security white",
+          "location": 1912
+        },
+        {
+          "text": "clapper james clapper and john *brennan*",
+          "location": 2055
+        }
+      ]
+    },
+    {
+      "id": "STeFcjPilJQ",
+      "segments": [
+        {
+          "text": "*brennan* to weaponize a super",
+          "location": 970
+        }
+      ]
+    },
+    {
+      "id": "t1tZokS2EvY",
+      "segments": [
+        {
+          "text": "*brennan* by hussein administration",
+          "location": 219
+        },
+        {
+          "text": "what role did *brennan* play in the at",
+          "location": 321
+        },
+        {
+          "text": "dirty cops like comey and like *brennan*",
+          "location": 545
+        },
+        {
+          "text": "their sources are great like *brennan* he",
+          "location": 639
+        },
+        {
+          "text": "*brennan* and james clapper said he's a",
+          "location": 1036
+        }
+      ]
+    },
+    {
+      "id": "ta_w9snGNto",
+      "segments": [
+        {
+          "text": "truth revealed *brennan* no name",
+          "location": 900
+        },
+        {
+          "text": "*brennan* and john mccain working together",
+          "location": 906
+        }
+      ]
+    },
+    {
+      "id": "Tcnt9LQ9ghs",
+      "segments": [
+        {
+          "text": "is tying back to john *brennan* and james",
+          "location": 40
+        },
+        {
+          "text": "john *brennan* and nellie ore and what",
+          "location": 115
+        }
+      ]
+    },
+    {
+      "id": "tHP9ltlAus8",
+      "segments": [
+        {
+          "text": "clapper james comey and john *brennan* and",
+          "location": 324
+        },
+        {
+          "text": "ordered john *brennan* to illegally steal",
+          "location": 386
+        },
+        {
+          "text": "deborah curse that proved john *brennan*",
+          "location": 431
+        },
+        {
+          "text": "montgomery *brennan* and clapper illegally",
+          "location": 469
+        },
+        {
+          "text": "flynn and his defense team that *brennan*",
+          "location": 488
+        },
+        {
+          "text": "according to montgomery *brennan* and",
+          "location": 495
+        },
+        {
+          "text": "*brennan* clapper illegally harvested the",
+          "location": 528
+        }
+      ]
+    },
+    {
+      "id": "TQZvMICk0VY",
+      "segments": [
+        {
+          "text": "*brennan* kind of in his involvement and",
+          "location": 502
+        },
+        {
+          "text": "we hear the name john *brennan* or *brennan*",
+          "location": 894
+        },
+        {
+          "text": "john *brennan* to understand everything",
+          "location": 899
+        },
+        {
+          "text": "directly back to the uk and john *brennan*",
+          "location": 1198
+        },
+        {
+          "text": "here's a john *brennan* the raisin face",
+          "location": 1334
+        },
+        {
+          "text": "uk and all roads lead to john *brennan*",
+          "location": 1350
+        },
+        {
+          "text": "*brennan* and clinton and the rest and how",
+          "location": 1388
+        }
+      ]
+    },
+    {
+      "id": "u4vS2DaqFLc",
+      "segments": [
+        {
+          "text": "eric holder john *brennan* maxine waters",
+          "location": 67
+        }
+      ]
+    },
+    {
+      "id": "ubHkJ2JOyYc",
+      "segments": [
+        {
+          "text": "while john *brennan* was direct cia",
+          "location": 1886
+        }
+      ]
+    },
+    {
+      "id": "uM3wMO8soPk",
+      "segments": [
+        {
+          "text": "look at *brennan* and you look at clapper",
+          "location": 188
+        }
+      ]
+    },
+    {
+      "id": "Uv9kdzginz4",
+      "segments": [
+        {
+          "text": "*brennan* james clapper james comey rod",
+          "location": 719
+        }
+      ]
+    },
+    {
+      "id": "uznBzdoryQE",
+      "segments": [
+        {
+          "text": "*brennan* especially *brennan* came in as",
+          "location": 442
+        }
+      ]
+    },
+    {
+      "id": "v__k4yoGtr0",
+      "segments": [
+        {
+          "text": "john *brennan* that raisin faced turd",
+          "location": 2398
+        }
+      ]
+    },
+    {
+      "id": "V5UBaiLKTJ8",
+      "segments": [
+        {
+          "text": "john *brennan* and james clapper all lied",
+          "location": 1628
+        }
+      ]
+    },
+    {
+      "id": "v7n8XMG6_lU",
+      "segments": [
+        {
+          "text": "*brennan* samantha power eric holder where",
+          "location": 484
+        }
+      ]
+    },
+    {
+      "id": "VAb-q4zZZ84",
+      "segments": [
+        {
+          "text": "funneling that information so *brennan*",
+          "location": 1127
+        },
+        {
+          "text": "clowns with john *brennan* and then the",
+          "location": 1368
+        }
+      ]
+    },
+    {
+      "id": "VDNvoDprdXw",
+      "segments": [
+        {
+          "text": "photoshop john *brennan* and afterwards",
+          "location": 679
+        }
+      ]
+    },
+    {
+      "id": "vK8vS2FLi_8",
+      "segments": [
+        {
+          "text": "clown director *brennan* classified one",
+          "location": 330
+        }
+      ]
+    },
+    {
+      "id": "VOiG-bND5gw",
+      "segments": [
+        {
+          "text": "rest former cia chief john *brennan* and",
+          "location": 287
+        },
+        {
+          "text": "and smart and level-headed john *brennan*",
+          "location": 309
+        },
+        {
+          "text": "*brennan* was known mostly for lying under",
+          "location": 317
+        },
+        {
+          "text": "meanwhile is smarter than john *brennan*",
+          "location": 346
+        }
+      ]
+    },
+    {
+      "id": "vpPs1VYeYq4",
+      "segments": [
+        {
+          "text": "is working with john *brennan* to use the",
+          "location": 640
+        }
+      ]
+    },
+    {
+      "id": "VSa_TIkV6lE",
+      "segments": [
+        {
+          "text": "need *brennan* we need all of them",
+          "location": 303
+        }
+      ]
+    },
+    {
+      "id": "vvIB5CzHtRk",
+      "segments": [
+        {
+          "text": "to john *brennan* coming in with dennis",
+          "location": 970
+        },
+        {
+          "text": "idea of what *brennan* brennan's involved",
+          "location": 1039
+        }
+      ]
+    },
+    {
+      "id": "wENuaVviKSo",
+      "segments": [
+        {
+          "text": "actors for the most part under *brennan*",
+          "location": 290
+        }
+      ]
+    },
+    {
+      "id": "wgltyCeZ9pk",
+      "segments": [
+        {
+          "text": "*brennan* was only going to be interviewed",
+          "location": 1006
+        }
+      ]
+    },
+    {
+      "id": "X1Ei27wYEkk",
+      "segments": [
+        {
+          "text": "*brennan* to go work with mi6 or sis as",
+          "location": 180
+        },
+        {
+          "text": "and it meant to say *brennan* who we know",
+          "location": 1025
+        },
+        {
+          "text": "have *brennan* being the raisin face",
+          "location": 1092
+        },
+        {
+          "text": "muffin that is john *brennan* but moving",
+          "location": 1111
+        }
+      ]
+    },
+    {
+      "id": "x8rM1oZB8U8",
+      "segments": [
+        {
+          "text": "administration john *brennan* and james",
+          "location": 1031
+        }
+      ]
+    },
+    {
+      "id": "XpBu8gmssPY",
+      "segments": [
+        {
+          "text": "robert muller john *brennan* john podesta",
+          "location": 586
+        }
+      ]
+    },
+    {
+      "id": "xTJgKGF--OQ",
+      "segments": [
+        {
+          "text": "to john *brennan* and our point you all to",
+          "location": 943
+        },
+        {
+          "text": "on how john *brennan* connects to all this",
+          "location": 950
+        }
+      ]
+    },
+    {
+      "id": "xwOcpq9TqpE",
+      "segments": [
+        {
+          "text": "*brennan* in envelopes that *brennan* kept",
+          "location": 579
+        }
+      ]
+    },
+    {
+      "id": "xYBSsLGzMlc",
+      "segments": [
+        {
+          "text": "down potus threats at john *brennan* you",
+          "location": 282
+        }
+      ]
+    },
+    {
+      "id": "YACpICjPygE",
+      "segments": [
+        {
+          "text": "*brennan* american voters must not shrug",
+          "location": 1175
+        }
+      ]
+    },
+    {
+      "id": "YAZ0b3JyML8",
+      "segments": [
+        {
+          "text": "robert or excuse me with john *brennan*",
+          "location": 1656
+        }
+      ]
+    },
+    {
+      "id": "yc4umVzljCM",
+      "segments": [
+        {
+          "text": "greta lynch susan rice john *brennan*",
+          "location": 1291
+        }
+      ]
+    },
+    {
+      "id": "YkrFx8fhafI",
+      "segments": [
+        {
+          "text": "*brennan* and obama order the",
+          "location": 775
+        },
+        {
+          "text": "*brennan* barack obama are also in on it",
+          "location": 792
+        },
+        {
+          "text": "because the cia director john *brennan*",
+          "location": 841
+        },
+        {
+          "text": "by the cia director john *brennan* *brennan*",
+          "location": 861
+        },
+        {
+          "text": "he was *brennan* cia point man in ukraine",
+          "location": 870
+        },
+        {
+          "text": "a *brennan* loyalist he has been many",
+          "location": 884
+        },
+        {
+          "text": "*brennan* to proceed with the massacre of",
+          "location": 934
+        }
+      ]
+    },
+    {
+      "id": "YLlsruYA4pk",
+      "segments": [
+        {
+          "text": "what role did *brennan* play in the at",
+          "location": 1706
+        },
+        {
+          "text": "john *brennan* the head of cia think about",
+          "location": 1801
+        },
+        {
+          "text": "about the connection between *brennan* and",
+          "location": 2300
+        }
+      ]
+    },
+    {
+      "id": "YlYxp4VTDgw",
+      "segments": [
+        {
+          "text": "into john *brennan* is the the leak that",
+          "location": 619
+        }
+      ]
+    },
+    {
+      "id": "YSq6X6aQhd0",
+      "segments": [
+        {
+          "text": "should be very nervous *brennan* should be",
+          "location": 792
+        }
+      ]
+    },
+    {
+      "id": "ywlM82gfvbk",
+      "segments": [
+        {
+          "text": "twitter think about john *brennan* him on",
+          "location": 503
+        },
+        {
+          "text": "clearances of john *brennan* james comey",
+          "location": 1512
+        }
+      ]
+    },
+    {
+      "id": "Z5r4RVFd2a8",
+      "segments": [
+        {
+          "text": "*brennan* rice loretta lynch",
+          "location": 659
+        },
+        {
+          "text": "mccain clapper *brennan* rice loretta",
+          "location": 728
+        }
+      ]
+    },
+    {
+      "id": "z5T_1jyN5f8",
+      "segments": [
+        {
+          "text": "talking about john *brennan* was the first",
+          "location": 98
+        },
+        {
+          "text": "eric holder john *brennan* george soros",
+          "location": 198
+        },
+        {
+          "text": "*brennan* okay",
+          "location": 1045
+        },
+        {
+          "text": "got a picture of john *brennan* right here",
+          "location": 1366
+        }
+      ]
+    },
+    {
+      "id": "ZEn6pbfoNlo",
+      "segments": [
+        {
+          "text": "in this frederick *brennan* not sure if",
+          "location": 298
+        },
+        {
+          "text": "he's related to john *brennan* and it",
+          "location": 300
+        },
+        {
+          "text": "in the globe little frederic *brennan* is",
+          "location": 445
+        }
+      ]
+    },
+    {
+      "id": "ZGLLyMlvoUY",
+      "segments": [
+        {
+          "text": "logs no name *brennan* hussein dates the",
+          "location": 163
+        },
+        {
+          "text": "white house visitor logs no name *brennan*",
+          "location": 166
+        },
+        {
+          "text": "logs no name *brennan* clapper rice",
+          "location": 171
+        },
+        {
+          "text": "spook working with who knows *brennan*",
+          "location": 854
+        }
+      ]
+    },
+    {
+      "id": "zJoO_HiEUno",
+      "segments": [
+        {
+          "text": "*brennan* and his role at the cia during",
+          "location": 319
+        },
+        {
+          "text": "that it talks about how john *brennan* did",
+          "location": 363
+        },
+        {
+          "text": "capitol hill sources say *brennan* a",
+          "location": 439
+        },
+        {
+          "text": "investigators say *brennan* saw to it that",
+          "location": 527
+        },
+        {
+          "text": "in public testimony however *brennan* said",
+          "location": 571
+        },
+        {
+          "text": "good friend with john *brennan* and",
+          "location": 1056
+        }
+      ]
+    },
+    {
+      "id": "Zu2ITGywrmU",
+      "segments": [
+        {
+          "text": "think *brennan* possibly",
+          "location": 128
+        }
+      ]
+    },
+    {
+      "id": "zu3muQumFyI",
+      "segments": [
+        {
+          "text": "cia john *brennan* and director of",
+          "location": 110
+        },
+        {
+          "text": "john *brennan* and director of national",
+          "location": 465
+        },
+        {
+          "text": "*brennan* voted for the communist party",
+          "location": 1015
+        }
+      ]
+    },
+    {
+      "id": "zUQ1UARkl24",
+      "segments": [
+        {
+          "text": "turned moth and john *brennan* has more",
+          "location": 7
+        },
+        {
+          "text": "clapper john *brennan* and all these",
+          "location": 1385
+        },
+        {
+          "text": "gonna get to john *brennan* don't worry i",
+          "location": 1390
+        },
+        {
+          "text": "turned muffin himself mr. john *brennan*",
+          "location": 1395
+        },
+        {
+          "text": "*brennan* side joke this guy was the forum",
+          "location": 1467
+        }
+      ]
+    }
+  ]
+}

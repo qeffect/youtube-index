@@ -1,0 +1,2512 @@
+[
+  {
+    "start": 1.429,
+    "duraction": 5.501,
+    "value": "here we go welcome back my friends this"
+  },
+  {
+    "start": 4.35,
+    "duraction": 5.4,
+    "value": "is destiny most of destiny most calm and"
+  },
+  {
+    "start": 6.93,
+    "duraction": 5.43,
+    "value": "I'm joined today by Alex Skolnick"
+  },
+  {
+    "start": 9.75,
+    "duraction": 5.49,
+    "value": "co-founder and CEO of liquid piston and"
+  },
+  {
+    "start": 12.36,
+    "duraction": 4.86,
+    "value": "this is an exciting new technology that"
+  },
+  {
+    "start": 15.24,
+    "duraction": 3.949,
+    "value": "I heard about because you know it has"
+  },
+  {
+    "start": 17.22,
+    "duraction": 4.83,
+    "value": "the ability to among other things"
+  },
+  {
+    "start": 19.189,
+    "duraction": 5.071,
+    "value": "greatly enhance the energy efficiency of"
+  },
+  {
+    "start": 22.05,
+    "duraction": 3.389,
+    "value": "small engines like you know cars and"
+  },
+  {
+    "start": 24.26,
+    "duraction": 4.3,
+    "value": "diesels"
+  },
+  {
+    "start": 25.439,
+    "duraction": 4.291,
+    "value": "so Alex I'm gonna kind of let you talk a"
+  },
+  {
+    "start": 28.56,
+    "duraction": 3.929,
+    "value": "little bit about yourself and how you"
+  },
+  {
+    "start": 29.73,
+    "duraction": 5.63,
+    "value": "came across this if you don't mind sure"
+  },
+  {
+    "start": 32.489,
+    "duraction": 5.011,
+    "value": "thanks a lot for having us here Justin"
+  },
+  {
+    "start": 35.36,
+    "duraction": 5.53,
+    "value": "so my father and I started the company"
+  },
+  {
+    "start": 37.5,
+    "duraction": 6.629,
+    "value": "almost 10 years ago and my father's a"
+  },
+  {
+    "start": 40.89,
+    "duraction": 6.93,
+    "value": "physicist at the time I was doing my"
+  },
+  {
+    "start": 44.129,
+    "duraction": 6.061,
+    "value": "graduate work at MIT studying artificial"
+  },
+  {
+    "start": 47.82,
+    "duraction": 5.489,
+    "value": "intelligence and I just kind of started"
+  },
+  {
+    "start": 50.19,
+    "duraction": 4.95,
+    "value": "out by helping him and you know he"
+  },
+  {
+    "start": 53.309,
+    "duraction": 5.43,
+    "value": "looked at the issues of thermodynamics"
+  },
+  {
+    "start": 55.14,
+    "duraction": 5.7,
+    "value": "and looking at your car engine for"
+  },
+  {
+    "start": 58.739,
+    "duraction": 5.611,
+    "value": "example you know you're a typical car"
+  },
+  {
+    "start": 60.84,
+    "duraction": 7.11,
+    "value": "converts about 15% of the energy in the"
+  },
+  {
+    "start": 64.35,
+    "duraction": 6.089,
+    "value": "fuel into useful work the rest of that"
+  },
+  {
+    "start": 67.95,
+    "duraction": 5.25,
+    "value": "energy is wasted as heat either out the"
+  },
+  {
+    "start": 70.439,
+    "duraction": 4.591,
+    "value": "exhaust or out the radiator as a"
+  },
+  {
+    "start": 73.2,
+    "duraction": 4.44,
+    "value": "physicist this always just really"
+  },
+  {
+    "start": 75.03,
+    "duraction": 5.61,
+    "value": "bothered him right why are we leaving so"
+  },
+  {
+    "start": 77.64,
+    "duraction": 5.82,
+    "value": "much energy on the table"
+  },
+  {
+    "start": 80.64,
+    "duraction": 4.71,
+    "value": "can't we do better than this so a lot of"
+  },
+  {
+    "start": 83.46,
+    "duraction": 4.979,
+    "value": "people have tried to make better engines"
+  },
+  {
+    "start": 85.35,
+    "duraction": 5.43,
+    "value": "over the years most people focused on"
+  },
+  {
+    "start": 88.439,
+    "duraction": 5.311,
+    "value": "you know mechanisms and kind of just"
+  },
+  {
+    "start": 90.78,
+    "duraction": 5.79,
+    "value": "little changes to how we how angels are"
+  },
+  {
+    "start": 93.75,
+    "duraction": 5.189,
+    "value": "done our approach was fundamentally"
+  },
+  {
+    "start": 96.57,
+    "duraction": 4.259,
+    "value": "different we really started you know"
+  },
+  {
+    "start": 98.939,
+    "duraction": 3.96,
+    "value": "back with the physics of how engines"
+  },
+  {
+    "start": 100.829,
+    "duraction": 4.771,
+    "value": "operate what an engine is really trying"
+  },
+  {
+    "start": 102.899,
+    "duraction": 6.301,
+    "value": "to do how it converts that energy from"
+  },
+  {
+    "start": 105.6,
+    "duraction": 5.339,
+    "value": "the fuel into mechanical work and when"
+  },
+  {
+    "start": 109.2,
+    "duraction": 3.959,
+    "value": "we when we started from the cycle from"
+  },
+  {
+    "start": 110.939,
+    "duraction": 6.091,
+    "value": "the thermodynamics we found a lot of"
+  },
+  {
+    "start": 113.159,
+    "duraction": 6.75,
+    "value": "room for improvement so almost 10 years"
+  },
+  {
+    "start": 117.03,
+    "duraction": 5.64,
+    "value": "ago we started the company we have a new"
+  },
+  {
+    "start": 119.909,
+    "duraction": 5.911,
+    "value": "optimized thermodynamic cycle that we"
+  },
+  {
+    "start": 122.67,
+    "duraction": 5.88,
+    "value": "call the high-efficiency hybrid cycle we"
+  },
+  {
+    "start": 125.82,
+    "duraction": 4.34,
+    "value": "call it that because in some sense what"
+  },
+  {
+    "start": 128.55,
+    "duraction": 4.769,
+    "value": "we're doing is kind of cherry-picking"
+  },
+  {
+    "start": 130.16,
+    "duraction": 3.71,
+    "value": "features from different cycles that"
+  },
+  {
+    "start": 133.319,
+    "duraction": 3.761,
+    "value": "already"
+  },
+  {
+    "start": 133.87,
+    "duraction": 5.82,
+    "value": "exist you know if somebody asks you"
+  },
+  {
+    "start": 137.08,
+    "duraction": 5.07,
+    "value": "what's more efficient a diesel engine or"
+  },
+  {
+    "start": 139.69,
+    "duraction": 3.57,
+    "value": "a gasoline engine it's kind of a trick"
+  },
+  {
+    "start": 142.15,
+    "duraction": 3.36,
+    "value": "question"
+  },
+  {
+    "start": 143.26,
+    "duraction": 4.83,
+    "value": "diesel engines in practice are more"
+  },
+  {
+    "start": 145.51,
+    "duraction": 4.53,
+    "value": "efficient for one reason only because"
+  },
+  {
+    "start": 148.09,
+    "duraction": 5.25,
+    "value": "they get a much higher compression ratio"
+  },
+  {
+    "start": 150.04,
+    "duraction": 5.22,
+    "value": "than gasoline engines but if you look at"
+  },
+  {
+    "start": 153.34,
+    "duraction": 3.569,
+    "value": "the combustion process of a diesel"
+  },
+  {
+    "start": 155.26,
+    "duraction": 4.5,
+    "value": "engine they're actually really"
+  },
+  {
+    "start": 156.909,
+    "duraction": 5.64,
+    "value": "inefficient and the reason for that is"
+  },
+  {
+    "start": 159.76,
+    "duraction": 6.839,
+    "value": "because it takes a long time to inject"
+  },
+  {
+    "start": 162.549,
+    "duraction": 7.201,
+    "value": "mix and burn all of that fuel and while"
+  },
+  {
+    "start": 166.599,
+    "duraction": 6.36,
+    "value": "you're doing all that your your your"
+  },
+  {
+    "start": 169.75,
+    "duraction": 5.849,
+    "value": "piston keeps moving right so your piston"
+  },
+  {
+    "start": 172.959,
+    "duraction": 4.801,
+    "value": "is expanding the volume is increasing"
+  },
+  {
+    "start": 175.599,
+    "duraction": 4.591,
+    "value": "the pressures are dropping due to the"
+  },
+  {
+    "start": 177.76,
+    "duraction": 4.649,
+    "value": "expansion while you're burning the fuel"
+  },
+  {
+    "start": 180.19,
+    "duraction": 5.85,
+    "value": "and those two things kind of fight each"
+  },
+  {
+    "start": 182.409,
+    "duraction": 5.521,
+    "value": "other what we really want to do is do"
+  },
+  {
+    "start": 186.04,
+    "duraction": 5.97,
+    "value": "our combustion under what's called"
+  },
+  {
+    "start": 187.93,
+    "duraction": 7.589,
+    "value": "constant volume conditions an Otto cycle"
+  },
+  {
+    "start": 192.01,
+    "duraction": 5.339,
+    "value": "does that naturally at least the ideal"
+  },
+  {
+    "start": 195.519,
+    "duraction": 3.391,
+    "value": "Otto cycle which is how gasoline engines"
+  },
+  {
+    "start": 197.349,
+    "duraction": 3.091,
+    "value": "are modeled the reason for that is"
+  },
+  {
+    "start": 198.91,
+    "duraction": 3.63,
+    "value": "gasoline engines have a faster"
+  },
+  {
+    "start": 200.44,
+    "duraction": 4.35,
+    "value": "combustion process so more of the"
+  },
+  {
+    "start": 202.54,
+    "duraction": 6.87,
+    "value": "combustion happens while the piston is"
+  },
+  {
+    "start": 204.79,
+    "duraction": 6.69,
+    "value": "near the top dead center position so the"
+  },
+  {
+    "start": 209.41,
+    "duraction": 4.5,
+    "value": "bottom line is we really want to kind of"
+  },
+  {
+    "start": 211.48,
+    "duraction": 4.89,
+    "value": "constrain the combustion process to be"
+  },
+  {
+    "start": 213.91,
+    "duraction": 4.68,
+    "value": "more complete and more thorough before"
+  },
+  {
+    "start": 216.37,
+    "duraction": 5.88,
+    "value": "the piston you know moves away during"
+  },
+  {
+    "start": 218.59,
+    "duraction": 5.489,
+    "value": "the expansion stroke so we can do things"
+  },
+  {
+    "start": 222.25,
+    "duraction": 3.359,
+    "value": "like this on the thermodynamic side and"
+  },
+  {
+    "start": 224.079,
+    "duraction": 5.25,
+    "value": "really improve the efficiency of an"
+  },
+  {
+    "start": 225.609,
+    "duraction": 6.69,
+    "value": "engine by up to two fold over where"
+  },
+  {
+    "start": 229.329,
+    "duraction": 5.22,
+    "value": "gasoline engines are today and the other"
+  },
+  {
+    "start": 232.299,
+    "duraction": 4.5,
+    "value": "thing that we did is when you rethink"
+  },
+  {
+    "start": 234.549,
+    "duraction": 4.65,
+    "value": "the thermodynamics of the engine we have"
+  },
+  {
+    "start": 236.799,
+    "duraction": 4.711,
+    "value": "to completely rethink the entire engine"
+  },
+  {
+    "start": 239.199,
+    "duraction": 5.22,
+    "value": "architecture because what we're trying"
+  },
+  {
+    "start": 241.51,
+    "duraction": 5.939,
+    "value": "to do is pretty much impossible to do"
+  },
+  {
+    "start": 244.419,
+    "duraction": 4.861,
+    "value": "with a piston but with the rotary type"
+  },
+  {
+    "start": 247.449,
+    "duraction": 4.68,
+    "value": "of engine we can play all sorts of"
+  },
+  {
+    "start": 249.28,
+    "duraction": 5.209,
+    "value": "geometric tricks with the engine so that"
+  },
+  {
+    "start": 252.129,
+    "duraction": 5.311,
+    "value": "we could do this new thermodynamic cycle"
+  },
+  {
+    "start": 254.489,
+    "duraction": 5.321,
+    "value": "so what we've developed and we're"
+  },
+  {
+    "start": 257.44,
+    "duraction": 5.49,
+    "value": "currently on our fourth generation of"
+  },
+  {
+    "start": 259.81,
+    "duraction": 5.609,
+    "value": "the engine the very first one by the way"
+  },
+  {
+    "start": 262.93,
+    "duraction": 4.47,
+    "value": "was a true liquid piston whether there"
+  },
+  {
+    "start": 265.419,
+    "duraction": 2.431,
+    "value": "were no metal Pistons moving in the"
+  },
+  {
+    "start": 267.4,
+    "duraction": 2.43,
+    "value": "engine"
+  },
+  {
+    "start": 267.85,
+    "duraction": 5.25,
+    "value": "and you know that that's why the name of"
+  },
+  {
+    "start": 269.83,
+    "duraction": 6.27,
+    "value": "the company but we never built that"
+  },
+  {
+    "start": 273.1,
+    "duraction": 5.91,
+    "value": "first one but today we're in the fourth"
+  },
+  {
+    "start": 276.1,
+    "duraction": 5.04,
+    "value": "and final generation of the of the"
+  },
+  {
+    "start": 279.01,
+    "duraction": 5.64,
+    "value": "architecture here we call it the X"
+  },
+  {
+    "start": 281.14,
+    "duraction": 5.94,
+    "value": "engine it's a very simple engine it has"
+  },
+  {
+    "start": 284.65,
+    "duraction": 5.1,
+    "value": "two moving parts just a rotor and a"
+  },
+  {
+    "start": 287.08,
+    "duraction": 5.73,
+    "value": "shaft but it behaves like a three"
+  },
+  {
+    "start": 289.75,
+    "duraction": 5.46,
+    "value": "cylinder four-stroke engine it's"
+  },
+  {
+    "start": 292.81,
+    "duraction": 6.18,
+    "value": "actually you know it runs really well on"
+  },
+  {
+    "start": 295.21,
+    "duraction": 6.48,
+    "value": "diesel which is a first for for rotary"
+  },
+  {
+    "start": 298.99,
+    "duraction": 8.49,
+    "value": "engines were funded currently by the"
+  },
+  {
+    "start": 301.69,
+    "duraction": 7.59,
+    "value": "army and by DARPA and not that we can"
+  },
+  {
+    "start": 307.48,
+    "duraction": 2.88,
+    "value": "talk more about the military aspect of"
+  },
+  {
+    "start": 309.28,
+    "duraction": 4.44,
+    "value": "it"
+  },
+  {
+    "start": 310.36,
+    "duraction": 5.34,
+    "value": "I'd like that's already linked I'm"
+  },
+  {
+    "start": 313.72,
+    "duraction": 3.93,
+    "value": "sitting here in my seat kind of excited"
+  },
+  {
+    "start": 315.7,
+    "duraction": 4.59,
+    "value": "about just the potential that I see"
+  },
+  {
+    "start": 317.65,
+    "duraction": 4.89,
+    "value": "associated with this like you know where"
+  },
+  {
+    "start": 320.29,
+    "duraction": 3.6,
+    "value": "were you when when Henry Ford was was"
+  },
+  {
+    "start": 322.54,
+    "duraction": 7.86,
+    "value": "struggling to come out with an 8"
+  },
+  {
+    "start": 323.89,
+    "duraction": 8.19,
+    "value": "cylinder yeah well you know it's it's"
+  },
+  {
+    "start": 330.4,
+    "duraction": 3.33,
+    "value": "it's great because you know what I do"
+  },
+  {
+    "start": 332.08,
+    "duraction": 3.87,
+    "value": "get let's me get to meet some of the"
+  },
+  {
+    "start": 333.73,
+    "duraction": 4.44,
+    "value": "most interesting people and and and"
+  },
+  {
+    "start": 335.95,
+    "duraction": 3.63,
+    "value": "that's very exciting so I was actually"
+  },
+  {
+    "start": 338.17,
+    "duraction": 3.6,
+    "value": "looking into maybe getting a diesel"
+  },
+  {
+    "start": 339.58,
+    "duraction": 4.47,
+    "value": "myself because of the efficiency so you"
+  },
+  {
+    "start": 341.77,
+    "duraction": 3.84,
+    "value": "know before we jump into the military"
+  },
+  {
+    "start": 344.05,
+    "duraction": 3.09,
+    "value": "stuff I have to ask like are you guys"
+  },
+  {
+    "start": 345.61,
+    "duraction": 2.97,
+    "value": "pretty close to getting this thing out"
+  },
+  {
+    "start": 347.14,
+    "duraction": 3.3,
+    "value": "on the market or is that something"
+  },
+  {
+    "start": 348.58,
+    "duraction": 6.18,
+    "value": "that's you know down the pipeline"
+  },
+  {
+    "start": 350.44,
+    "duraction": 6.78,
+    "value": "somewhere near so engines are pretty"
+  },
+  {
+    "start": 354.76,
+    "duraction": 5.67,
+    "value": "hard to develop even a simple-looking"
+  },
+  {
+    "start": 357.22,
+    "duraction": 7.11,
+    "value": "engines like ours takes you know a bit"
+  },
+  {
+    "start": 360.43,
+    "duraction": 6.84,
+    "value": "of time and and funding to push through"
+  },
+  {
+    "start": 364.33,
+    "duraction": 6.9,
+    "value": "to commercialization so we've had to"
+  },
+  {
+    "start": 367.27,
+    "duraction": 7.53,
+    "value": "very carefully craft a business plan to"
+  },
+  {
+    "start": 371.23,
+    "duraction": 5.61,
+    "value": "bring the technology to market a lot of"
+  },
+  {
+    "start": 374.8,
+    "duraction": 4.05,
+    "value": "folks out there that want to put a new"
+  },
+  {
+    "start": 376.84,
+    "duraction": 4.05,
+    "value": "engine out there they they just"
+  },
+  {
+    "start": 378.85,
+    "duraction": 4.65,
+    "value": "immediately jump to the automotive and"
+  },
+  {
+    "start": 380.89,
+    "duraction": 4.65,
+    "value": "truck markets those are by far the"
+  },
+  {
+    "start": 383.5,
+    "duraction": 5.52,
+    "value": "biggest markets for combustion engines"
+  },
+  {
+    "start": 385.54,
+    "duraction": 4.98,
+    "value": "but at the same time the barriers to"
+  },
+  {
+    "start": 389.02,
+    "duraction": 5.73,
+    "value": "entry and those markets are also very"
+  },
+  {
+    "start": 390.52,
+    "duraction": 7.29,
+    "value": "high if you look at the the period for"
+  },
+  {
+    "start": 394.75,
+    "duraction": 6.39,
+    "value": "for technology insertion even good"
+  },
+  {
+    "start": 397.81,
+    "duraction": 3.85,
+    "value": "proven technology takes about 15 to 20"
+  },
+  {
+    "start": 401.14,
+    "duraction": 2.44,
+    "value": "years"
+  },
+  {
+    "start": 401.66,
+    "duraction": 6.03,
+    "value": "to make its way into the automotive"
+  },
+  {
+    "start": 403.58,
+    "duraction": 5.61,
+    "value": "sector so for us that's kind of a kind"
+  },
+  {
+    "start": 407.69,
+    "duraction": 4.77,
+    "value": "of a death sentence if we try to do that"
+  },
+  {
+    "start": 409.19,
+    "duraction": 5.55,
+    "value": "as a start-up so we've had to identify"
+  },
+  {
+    "start": 412.46,
+    "duraction": 4.86,
+    "value": "other pathways to get into the market"
+  },
+  {
+    "start": 414.74,
+    "duraction": 4.92,
+    "value": "and that that's kind of why we're"
+  },
+  {
+    "start": 417.32,
+    "duraction": 6.84,
+    "value": "focusing on military and aerospace"
+  },
+  {
+    "start": 419.66,
+    "duraction": 7.56,
+    "value": "applications first in these areas you"
+  },
+  {
+    "start": 424.16,
+    "duraction": 6.84,
+    "value": "know these are much lower volume areas"
+  },
+  {
+    "start": 427.22,
+    "duraction": 5.97,
+    "value": "and in some sense they can be much more"
+  },
+  {
+    "start": 431.0,
+    "duraction": 3.99,
+    "value": "price insensitive that there are some"
+  },
+  {
+    "start": 433.19,
+    "duraction": 4.59,
+    "value": "applications where they typically will"
+  },
+  {
+    "start": 434.99,
+    "duraction": 4.89,
+    "value": "pay a lot more for engines because these"
+  },
+  {
+    "start": 437.78,
+    "duraction": 7.23,
+    "value": "are custom developed you know very low"
+  },
+  {
+    "start": 439.88,
+    "duraction": 8.1,
+    "value": "volume production engines so and and the"
+  },
+  {
+    "start": 445.01,
+    "duraction": 6.72,
+    "value": "military has a very painful need for"
+  },
+  {
+    "start": 447.98,
+    "duraction": 5.91,
+    "value": "what we do right now right you see the"
+  },
+  {
+    "start": 451.73,
+    "duraction": 5.37,
+    "value": "US military is a single largest consumer"
+  },
+  {
+    "start": 453.89,
+    "duraction": 5.72,
+    "value": "of oil in the entire planet"
+  },
+  {
+    "start": 457.1,
+    "duraction": 7.29,
+    "value": "you know single-handedly they burn more"
+  },
+  {
+    "start": 459.61,
+    "duraction": 7.24,
+    "value": "well more than anyone else and it can"
+  },
+  {
+    "start": 464.39,
+    "duraction": 5.42,
+    "value": "take up to a hundred gallons of fuel to"
+  },
+  {
+    "start": 466.85,
+    "duraction": 6.12,
+    "value": "push one gallon to the front line and"
+  },
+  {
+    "start": 469.81,
+    "duraction": 5.65,
+    "value": "not only is that really expensive and in"
+  },
+  {
+    "start": 472.97,
+    "duraction": 5.52,
+    "value": "consuming a lot but that fuel is"
+  },
+  {
+    "start": 475.46,
+    "duraction": 5.58,
+    "value": "protected in in convoys as it makes its"
+  },
+  {
+    "start": 478.49,
+    "duraction": 5.97,
+    "value": "journey so it's literally measured in"
+  },
+  {
+    "start": 481.04,
+    "duraction": 6.0,
+    "value": "soldiers lives so anything that we can"
+  },
+  {
+    "start": 484.46,
+    "duraction": 4.41,
+    "value": "do to reduce the fuel consumption at the"
+  },
+  {
+    "start": 487.04,
+    "duraction": 4.44,
+    "value": "front line and also to reduce the"
+  },
+  {
+    "start": 488.87,
+    "duraction": 5.61,
+    "value": "logistical burden you know right now the"
+  },
+  {
+    "start": 491.48,
+    "duraction": 6.39,
+    "value": "military runs everything or wants to run"
+  },
+  {
+    "start": 494.48,
+    "duraction": 6.86,
+    "value": "everything on heavy fuel similar to"
+  },
+  {
+    "start": 497.87,
+    "duraction": 5.85,
+    "value": "diesel or kerosene it's called the jp-8"
+  },
+  {
+    "start": 501.34,
+    "duraction": 5.8,
+    "value": "these engines that run that stuff is"
+  },
+  {
+    "start": 503.72,
+    "duraction": 5.88,
+    "value": "that they're really big and heavy just"
+  },
+  {
+    "start": 507.14,
+    "duraction": 4.529,
+    "value": "for example a 30 kilowatt diesel"
+  },
+  {
+    "start": 509.6,
+    "duraction": 5.58,
+    "value": "generator which is standard military"
+  },
+  {
+    "start": 511.669,
+    "duraction": 6.361,
+    "value": "issue and you know it's used kind of"
+  },
+  {
+    "start": 515.18,
+    "duraction": 5.549,
+    "value": "across the military and mobile command"
+  },
+  {
+    "start": 518.03,
+    "duraction": 6.12,
+    "value": "centers for example that system weighs"
+  },
+  {
+    "start": 520.729,
+    "duraction": 5.701,
+    "value": "about 2300 pounds today that's the state"
+  },
+  {
+    "start": 524.15,
+    "duraction": 5.13,
+    "value": "of the art Ford put for that type of"
+  },
+  {
+    "start": 526.43,
+    "duraction": 5.31,
+    "value": "generator it's so big and heavy that"
+  },
+  {
+    "start": 529.28,
+    "duraction": 5.25,
+    "value": "it's generally installed into a trailer"
+  },
+  {
+    "start": 531.74,
+    "duraction": 4.47,
+    "value": "so that it can be towed by a truck to"
+  },
+  {
+    "start": 534.53,
+    "duraction": 3.93,
+    "value": "wherever it's going"
+  },
+  {
+    "start": 536.21,
+    "duraction": 5.31,
+    "value": "with our technology they can reduce that"
+  },
+  {
+    "start": 538.46,
+    "duraction": 6.15,
+    "value": "from 2300 pounds to somewhere between"
+  },
+  {
+    "start": 541.52,
+    "duraction": 5.07,
+    "value": "150 and 200 pounds but just imagine that"
+  },
+  {
+    "start": 544.61,
+    "duraction": 3.9,
+    "value": "right instead of a truck moving a"
+  },
+  {
+    "start": 546.59,
+    "duraction": 3.99,
+    "value": "gentleman magenta around now you have a"
+  },
+  {
+    "start": 548.51,
+    "duraction": 4.32,
+    "value": "couple guys that can carry it around and"
+  },
+  {
+    "start": 550.58,
+    "duraction": 5.31,
+    "value": "that frees up a whole lot of space for"
+  },
+  {
+    "start": 552.83,
+    "duraction": 6.33,
+    "value": "other equipment and and other capability"
+  },
+  {
+    "start": 555.89,
+    "duraction": 5.34,
+    "value": "and you know coming back for one second"
+  },
+  {
+    "start": 559.16,
+    "duraction": 4.08,
+    "value": "to the commercial side I also just kind"
+  },
+  {
+    "start": 561.23,
+    "duraction": 5.37,
+    "value": "of wanted to mention one thing you don't"
+  },
+  {
+    "start": 563.24,
+    "duraction": 6.15,
+    "value": "see a lot of our hybrid diesel cars"
+  },
+  {
+    "start": 566.6,
+    "duraction": 7.38,
+    "value": "right everybody wants to kind of start"
+  },
+  {
+    "start": 569.39,
+    "duraction": 6.33,
+    "value": "moving towards electric and there's"
+  },
+  {
+    "start": 573.98,
+    "duraction": 5.16,
+    "value": "there there's some good reasons for that"
+  },
+  {
+    "start": 575.72,
+    "duraction": 5.58,
+    "value": "not ready yeah I think but but today's"
+  },
+  {
+    "start": 579.14,
+    "duraction": 3.0,
+    "value": "batteries that they're just not not"
+  },
+  {
+    "start": 581.3,
+    "duraction": 6.72,
+    "value": "there yet right"
+  },
+  {
+    "start": 582.14,
+    "duraction": 7.86,
+    "value": "I consider this 20 pounds of fuel can"
+  },
+  {
+    "start": 588.02,
+    "duraction": 5.52,
+    "value": "displace a thousand pounds of battery"
+  },
+  {
+    "start": 590.0,
+    "duraction": 6.42,
+    "value": "today and I'm talking about the the"
+  },
+  {
+    "start": 593.54,
+    "duraction": 5.19,
+    "value": "latest and greatest from Tesla okay"
+  },
+  {
+    "start": 596.42,
+    "duraction": 4.62,
+    "value": "that's huge let's say that batteries"
+  },
+  {
+    "start": 598.73,
+    "duraction": 5.58,
+    "value": "improve and get two times better it's"
+  },
+  {
+    "start": 601.04,
+    "duraction": 5.7,
+    "value": "still 40 pounds of fuel can displace a"
+  },
+  {
+    "start": 604.31,
+    "duraction": 4.29,
+    "value": "thousand pounds of battery so that's a"
+  },
+  {
+    "start": 606.74,
+    "duraction": 4.38,
+    "value": "really difficult trade-off you're"
+  },
+  {
+    "start": 608.6,
+    "duraction": 4.8,
+    "value": "carrying thousands of pounds of extra"
+  },
+  {
+    "start": 611.12,
+    "duraction": 5.19,
+    "value": "weight in order to you know if you want"
+  },
+  {
+    "start": 613.4,
+    "duraction": 7.07,
+    "value": "to have sufficient range in a car plus"
+  },
+  {
+    "start": 616.31,
+    "duraction": 6.98,
+    "value": "not to mention these are expensive and"
+  },
+  {
+    "start": 620.47,
+    "duraction": 6.7,
+    "value": "that they have their own environmental"
+  },
+  {
+    "start": 623.29,
+    "duraction": 6.58,
+    "value": "is set up right if you look at the"
+  },
+  {
+    "start": 627.17,
+    "duraction": 6.0,
+    "value": "lifecycle of a battery it's not exactly"
+  },
+  {
+    "start": 629.87,
+    "duraction": 4.86,
+    "value": "a hundred percent green right now they"
+  },
+  {
+    "start": 633.17,
+    "duraction": 3.21,
+    "value": "they still get most I mean unless"
+  },
+  {
+    "start": 634.73,
+    "duraction": 3.6,
+    "value": "they're on a full solar system they're"
+  },
+  {
+    "start": 636.38,
+    "duraction": 3.3,
+    "value": "still using you know regular power from"
+  },
+  {
+    "start": 638.33,
+    "duraction": 5.85,
+    "value": "the grid anyway which is probably"
+  },
+  {
+    "start": 639.68,
+    "duraction": 6.75,
+    "value": "nuclear or or something but well let's"
+  },
+  {
+    "start": 644.18,
+    "duraction": 7.44,
+    "value": "talk about that for for just a minute"
+  },
+  {
+    "start": 646.43,
+    "duraction": 7.29,
+    "value": "right the the EPA has developed the mile"
+  },
+  {
+    "start": 651.62,
+    "duraction": 4.409,
+    "value": "per gallon equivalent mpge"
+  },
+  {
+    "start": 653.72,
+    "duraction": 4.44,
+    "value": "when you go and you buy a electric"
+  },
+  {
+    "start": 656.029,
+    "duraction": 5.331,
+    "value": "vehicle you'll see a rated as an empty"
+  },
+  {
+    "start": 658.16,
+    "duraction": 7.14,
+    "value": "GE and that's supposed to be somehow"
+  },
+  {
+    "start": 661.36,
+    "duraction": 7.13,
+    "value": "relatable to miles per gallon right"
+  },
+  {
+    "start": 665.3,
+    "duraction": 7.24,
+    "value": "before for for fuel based cars"
+  },
+  {
+    "start": 668.49,
+    "duraction": 8.21,
+    "value": "if you look at how they define MPGe it's"
+  },
+  {
+    "start": 672.54,
+    "duraction": 7.02,
+    "value": "defined based on energy from the battery"
+  },
+  {
+    "start": 676.7,
+    "duraction": 5.65,
+    "value": "powering the wheels they completely"
+  },
+  {
+    "start": 679.56,
+    "duraction": 5.46,
+    "value": "neglect everything that happens before"
+  },
+  {
+    "start": 682.35,
+    "duraction": 4.77,
+    "value": "the electrons get into the battery so"
+  },
+  {
+    "start": 685.02,
+    "duraction": 6.03,
+    "value": "how you get those electrons into the"
+  },
+  {
+    "start": 687.12,
+    "duraction": 5.67,
+    "value": "battery is disregarded and what you just"
+  },
+  {
+    "start": 691.05,
+    "duraction": 3.45,
+    "value": "said is really important there right"
+  },
+  {
+    "start": 692.79,
+    "duraction": 3.99,
+    "value": "because most of the time when you're"
+  },
+  {
+    "start": 694.5,
+    "duraction": 4.44,
+    "value": "charging your your electric car you're"
+  },
+  {
+    "start": 696.78,
+    "duraction": 4.68,
+    "value": "not plugged into a solar grid you're"
+  },
+  {
+    "start": 698.94,
+    "duraction": 4.95,
+    "value": "plugged into the the u.s. power grid"
+  },
+  {
+    "start": 701.46,
+    "duraction": 7.41,
+    "value": "where most of our energy comes from"
+  },
+  {
+    "start": 703.89,
+    "duraction": 7.68,
+    "value": "burning coal and gas so if you look at"
+  },
+  {
+    "start": 708.87,
+    "duraction": 5.43,
+    "value": "putting something like our engine onto"
+  },
+  {
+    "start": 711.57,
+    "duraction": 5.64,
+    "value": "your vehicle and doing a range-extended"
+  },
+  {
+    "start": 714.3,
+    "duraction": 4.53,
+    "value": "electric vehicle where you're driving"
+  },
+  {
+    "start": 717.21,
+    "duraction": 3.66,
+    "value": "electrically but you're just kind of"
+  },
+  {
+    "start": 718.83,
+    "duraction": 4.49,
+    "value": "keeping a very small battery pack you're"
+  },
+  {
+    "start": 720.87,
+    "duraction": 5.37,
+    "value": "keeping it charged fully with our engine"
+  },
+  {
+    "start": 723.32,
+    "duraction": 5.47,
+    "value": "if you were to do that we could charge"
+  },
+  {
+    "start": 726.24,
+    "duraction": 5.25,
+    "value": "that battery more efficiently than"
+  },
+  {
+    "start": 728.79,
+    "duraction": 6.09,
+    "value": "today's u.s. power grid you would have a"
+  },
+  {
+    "start": 731.49,
+    "duraction": 5.19,
+    "value": "lower co2 footprint by doing you know a"
+  },
+  {
+    "start": 734.88,
+    "duraction": 3.9,
+    "value": "very efficient generator right on your"
+  },
+  {
+    "start": 736.68,
+    "duraction": 3.69,
+    "value": "vehicle as compared to the u.s. power"
+  },
+  {
+    "start": 738.78,
+    "duraction": 3.86,
+    "value": "grid does that make sense if you"
+  },
+  {
+    "start": 740.37,
+    "duraction": 8.13,
+    "value": "actually look at the the overall system"
+  },
+  {
+    "start": 742.64,
+    "duraction": 7.54,
+    "value": "so amazing yeah and and I know I want to"
+  },
+  {
+    "start": 748.5,
+    "duraction": 3.42,
+    "value": "mention this because I follow all the"
+  },
+  {
+    "start": 750.18,
+    "duraction": 4.86,
+    "value": "economic stuff as well on my channel and"
+  },
+  {
+    "start": 751.92,
+    "duraction": 5.01,
+    "value": "stuff that I hear out of Tesla I mean it"
+  },
+  {
+    "start": 755.04,
+    "duraction": 4.26,
+    "value": "seems like the company's falling apart"
+  },
+  {
+    "start": 756.93,
+    "duraction": 4.32,
+    "value": "and basically putting out like terrible"
+  },
+  {
+    "start": 759.3,
+    "duraction": 4.14,
+    "value": "terrible vehicles that need to be"
+  },
+  {
+    "start": 761.25,
+    "duraction": 4.11,
+    "value": "recalled I even heard that some of the"
+  },
+  {
+    "start": 763.44,
+    "duraction": 6.72,
+    "value": "they just issued like a recall for some"
+  },
+  {
+    "start": 765.36,
+    "duraction": 6.45,
+    "value": "of the batteries that were punctured so"
+  },
+  {
+    "start": 770.16,
+    "duraction": 3.0,
+    "value": "I don't I don't know what's going on"
+  },
+  {
+    "start": 771.81,
+    "duraction": 3.42,
+    "value": "there but the technology certainly is"
+  },
+  {
+    "start": 773.16,
+    "duraction": 4.47,
+    "value": "not quite there yet I'm hoping I'm"
+  },
+  {
+    "start": 775.23,
+    "duraction": 3.89,
+    "value": "holding out for you know Jetsons cars"
+  },
+  {
+    "start": 777.63,
+    "duraction": 5.7,
+    "value": "where I can kind of zoom or hunt you"
+  },
+  {
+    "start": 779.12,
+    "duraction": 6.19,
+    "value": "well what what scares me about Tesla you"
+  },
+  {
+    "start": 783.33,
+    "duraction": 6.21,
+    "value": "know the the vehicles really aren't"
+  },
+  {
+    "start": 785.31,
+    "duraction": 5.94,
+    "value": "aren't aged very much yet but I don't"
+  },
+  {
+    "start": 789.54,
+    "duraction": 4.95,
+    "value": "know about your experience with your"
+  },
+  {
+    "start": 791.25,
+    "duraction": 6.36,
+    "value": "cell phone I can tell you my last iPhone"
+  },
+  {
+    "start": 794.49,
+    "duraction": 5.07,
+    "value": "died in less than two years and it was"
+  },
+  {
+    "start": 797.61,
+    "duraction": 3.6,
+    "value": "the battery that went and I actually"
+  },
+  {
+    "start": 799.56,
+    "duraction": 3.63,
+    "value": "replaced the battery and then the new"
+  },
+  {
+    "start": 801.21,
+    "duraction": 4.62,
+    "value": "battery went"
+  },
+  {
+    "start": 803.19,
+    "duraction": 5.43,
+    "value": "so you know batteries have a certain"
+  },
+  {
+    "start": 805.83,
+    "duraction": 5.93,
+    "value": "lifecycle and then they they store less"
+  },
+  {
+    "start": 808.62,
+    "duraction": 7.17,
+    "value": "and less charge every single time you do"
+  },
+  {
+    "start": 811.76,
+    "duraction": 6.25,
+    "value": "charlie fine for the first year but what"
+  },
+  {
+    "start": 815.79,
+    "duraction": 5.79,
+    "value": "happens in your you know two and three"
+  },
+  {
+    "start": 818.01,
+    "duraction": 8.43,
+    "value": "and four that's a little bit scary and I"
+  },
+  {
+    "start": 821.58,
+    "duraction": 8.58,
+    "value": "know Tesla is sort of backing their cars"
+  },
+  {
+    "start": 826.44,
+    "duraction": 5.34,
+    "value": "with warranties but they're they're"
+  },
+  {
+    "start": 830.16,
+    "duraction": 4.41,
+    "value": "already losing money and when these"
+  },
+  {
+    "start": 831.78,
+    "duraction": 5.31,
+    "value": "batteries start to really go that's a"
+  },
+  {
+    "start": 834.57,
+    "duraction": 4.32,
+    "value": "little bit scary you know I I think"
+  },
+  {
+    "start": 837.09,
+    "duraction": 5.21,
+    "value": "personally I think that electric"
+  },
+  {
+    "start": 838.89,
+    "duraction": 6.33,
+    "value": "vehicles have a good opportunity but"
+  },
+  {
+    "start": 842.3,
+    "duraction": 6.28,
+    "value": "what we can do is we can hybridize and"
+  },
+  {
+    "start": 845.22,
+    "duraction": 6.66,
+    "value": "we can take true advantage of something"
+  },
+  {
+    "start": 848.58,
+    "duraction": 5.91,
+    "value": "like what we're offering a fuel burning"
+  },
+  {
+    "start": 851.88,
+    "duraction": 5.55,
+    "value": "solution which is extremely compact"
+  },
+  {
+    "start": 854.49,
+    "duraction": 7.59,
+    "value": "extremely efficient very low emissions"
+  },
+  {
+    "start": 857.43,
+    "duraction": 7.5,
+    "value": "and will will capture the density the"
+  },
+  {
+    "start": 862.08,
+    "duraction": 5.43,
+    "value": "energy density of fuel and combine that"
+  },
+  {
+    "start": 864.93,
+    "duraction": 4.38,
+    "value": "with an electrical propulsion system so"
+  },
+  {
+    "start": 867.51,
+    "duraction": 5.73,
+    "value": "you kind of get the best of all worlds"
+  },
+  {
+    "start": 869.31,
+    "duraction": 5.7,
+    "value": "there and if you want to you know you"
+  },
+  {
+    "start": 873.24,
+    "duraction": 2.88,
+    "value": "use it all electrically you could do"
+  },
+  {
+    "start": 875.01,
+    "duraction": 3.42,
+    "value": "that depending on the size of the"
+  },
+  {
+    "start": 876.12,
+    "duraction": 6.66,
+    "value": "battery pack but you get a lot of"
+  },
+  {
+    "start": 878.43,
+    "duraction": 6.81,
+    "value": "benefit from from charging that way yeah"
+  },
+  {
+    "start": 882.78,
+    "duraction": 4.83,
+    "value": "I mean it it sounds like you could do"
+  },
+  {
+    "start": 885.24,
+    "duraction": 5.88,
+    "value": "everything from from revolutionize"
+  },
+  {
+    "start": 887.61,
+    "duraction": 5.07,
+    "value": "lawnmowers to revolutionize planes and"
+  },
+  {
+    "start": 891.12,
+    "duraction": 5.58,
+    "value": "jets and everything it sounds very"
+  },
+  {
+    "start": 892.68,
+    "duraction": 5.78,
+    "value": "promising yeah we appreciate that we"
+  },
+  {
+    "start": 896.7,
+    "duraction": 4.53,
+    "value": "were actually recently recognized by"
+  },
+  {
+    "start": 898.46,
+    "duraction": 5.56,
+    "value": "Sikorsky which is a helicopter"
+  },
+  {
+    "start": 901.23,
+    "duraction": 5.94,
+    "value": "manufacturer so they gave us a an award"
+  },
+  {
+    "start": 904.02,
+    "duraction": 5.7,
+    "value": "for innovation well he showed a thousand"
+  },
+  {
+    "start": 907.17,
+    "duraction": 5.91,
+    "value": "horsepower concept so the the technology"
+  },
+  {
+    "start": 909.72,
+    "duraction": 6.09,
+    "value": "is truly scalable as you said from a"
+  },
+  {
+    "start": 913.08,
+    "duraction": 6.36,
+    "value": "couple horsepower up to a thousand or"
+  },
+  {
+    "start": 915.81,
+    "duraction": 5.55,
+    "value": "more horsepower Wow man you know if you"
+  },
+  {
+    "start": 919.44,
+    "duraction": 3.24,
+    "value": "guys keep this up you were about"
+  },
+  {
+    "start": 921.36,
+    "duraction": 2.58,
+    "value": "basically basically we're at the point"
+  },
+  {
+    "start": 922.68,
+    "duraction": 3.0,
+    "value": "where we're gonna start exploring space"
+  },
+  {
+    "start": 923.94,
+    "duraction": 3.72,
+    "value": "like commercially and stuff soon so you"
+  },
+  {
+    "start": 925.68,
+    "duraction": 5.79,
+    "value": "guys might be in some of the like space"
+  },
+  {
+    "start": 927.66,
+    "duraction": 7.68,
+    "value": "craft and who knows what you were"
+  },
+  {
+    "start": 931.47,
+    "duraction": 4.68,
+    "value": "telling me earlier before we when we"
+  },
+  {
+    "start": 935.34,
+    "duraction": 1.95,
+    "value": "spoke"
+  },
+  {
+    "start": 936.15,
+    "duraction": 3.45,
+    "value": "about doing the interview you told me"
+  },
+  {
+    "start": 937.29,
+    "duraction": 5.58,
+    "value": "about one of the like that big guns that"
+  },
+  {
+    "start": 939.6,
+    "duraction": 6.39,
+    "value": "they were using this for yes so that's"
+  },
+  {
+    "start": 942.87,
+    "duraction": 6.84,
+    "value": "our first application we received a"
+  },
+  {
+    "start": 945.99,
+    "duraction": 6.15,
+    "value": "contract from the army to develop a"
+  },
+  {
+    "start": 949.71,
+    "duraction": 5.76,
+    "value": "hybrid electric power supply for the M"
+  },
+  {
+    "start": 952.14,
+    "duraction": 5.49,
+    "value": "triple7 howitzer learning that the"
+  },
+  {
+    "start": 955.47,
+    "duraction": 6.33,
+    "value": "howitzer is kind of an old technology"
+  },
+  {
+    "start": 957.63,
+    "duraction": 6.03,
+    "value": "it's basically a big cannon but the the"
+  },
+  {
+    "start": 961.8,
+    "duraction": 4.34,
+    "value": "newest versions they have a very"
+  },
+  {
+    "start": 963.66,
+    "duraction": 5.49,
+    "value": "powerful computer system on board and"
+  },
+  {
+    "start": 966.14,
+    "duraction": 5.89,
+    "value": "right now in order to power the computer"
+  },
+  {
+    "start": 969.15,
+    "duraction": 5.72,
+    "value": "system they're faced with a choice of"
+  },
+  {
+    "start": 972.03,
+    "duraction": 5.19,
+    "value": "either lugging around a big heavy diesel"
+  },
+  {
+    "start": 974.87,
+    "duraction": 4.99,
+    "value": "generator which they really don't want"
+  },
+  {
+    "start": 977.22,
+    "duraction": 5.25,
+    "value": "to do so what they do today is they'll"
+  },
+  {
+    "start": 979.86,
+    "duraction": 5.73,
+    "value": "take their truck and just idle the truck"
+  },
+  {
+    "start": 982.47,
+    "duraction": 5.46,
+    "value": "and siphon a little bit of power for the"
+  },
+  {
+    "start": 985.59,
+    "duraction": 4.05,
+    "value": "computer on the gun now when you're"
+  },
+  {
+    "start": 987.93,
+    "duraction": 4.08,
+    "value": "doing that you're burning one or two"
+  },
+  {
+    "start": 989.64,
+    "duraction": 4.59,
+    "value": "gallons of fuel an hour to run this gun"
+  },
+  {
+    "start": 992.01,
+    "duraction": 5.79,
+    "value": "which you know that that's just an"
+  },
+  {
+    "start": 994.23,
+    "duraction": 6.6,
+    "value": "incredible waste and that's an example I"
+  },
+  {
+    "start": 997.8,
+    "duraction": 5.1,
+    "value": "think of why the US military is is the"
+  },
+  {
+    "start": 1000.83,
+    "duraction": 4.08,
+    "value": "biggest consumer of oil in the planet is"
+  },
+  {
+    "start": 1002.9,
+    "duraction": 5.4,
+    "value": "just because their force with these"
+  },
+  {
+    "start": 1004.91,
+    "duraction": 5.76,
+    "value": "trade-offs and then in the end you know"
+  },
+  {
+    "start": 1008.3,
+    "duraction": 6.27,
+    "value": "they'll just burn fuel because they have"
+  },
+  {
+    "start": 1010.67,
+    "duraction": 6.39,
+    "value": "to to get their mission done so we"
+  },
+  {
+    "start": 1014.57,
+    "duraction": 4.89,
+    "value": "received a contract and we're developing"
+  },
+  {
+    "start": 1017.06,
+    "duraction": 6.48,
+    "value": "a prototype unit which is going to start"
+  },
+  {
+    "start": 1019.46,
+    "duraction": 5.67,
+    "value": "field testing in March of 2019 so that"
+  },
+  {
+    "start": 1023.54,
+    "duraction": 3.75,
+    "value": "that's basically one of our little"
+  },
+  {
+    "start": 1025.13,
+    "duraction": 4.8,
+    "value": "engines if you go to our website you'll"
+  },
+  {
+    "start": 1027.29,
+    "duraction": 5.76,
+    "value": "see the our engine powering a little"
+  },
+  {
+    "start": 1029.93,
+    "duraction": 7.2,
+    "value": "go-kart so we we converted that go-kart"
+  },
+  {
+    "start": 1033.05,
+    "duraction": 7.05,
+    "value": "engine into something that will run jp-8"
+  },
+  {
+    "start": 1037.13,
+    "duraction": 5.73,
+    "value": "jet fuel so that the military can use it"
+  },
+  {
+    "start": 1040.1,
+    "duraction": 5.15,
+    "value": "then we integrated it with an alternator"
+  },
+  {
+    "start": 1042.86,
+    "duraction": 4.26,
+    "value": "so now it's basically a generator and"
+  },
+  {
+    "start": 1045.25,
+    "duraction": 5.85,
+    "value": "that's going to be charging a battery"
+  },
+  {
+    "start": 1047.12,
+    "duraction": 6.24,
+    "value": "and then the battery runs the computer"
+  },
+  {
+    "start": 1051.1,
+    "duraction": 4.84,
+    "value": "runs the power for the computer on the"
+  },
+  {
+    "start": 1053.36,
+    "duraction": 5.25,
+    "value": "gun okay Wow"
+  },
+  {
+    "start": 1055.94,
+    "duraction": 5.28,
+    "value": "so you know when can people start"
+  },
+  {
+    "start": 1058.61,
+    "duraction": 5.31,
+    "value": "expecting and hoping to see this change"
+  },
+  {
+    "start": 1061.22,
+    "duraction": 5.85,
+    "value": "their lives you know when can we hope"
+  },
+  {
+    "start": 1063.92,
+    "duraction": 4.99,
+    "value": "for at least that Odyssey that really"
+  },
+  {
+    "start": 1067.07,
+    "duraction": 5.0,
+    "value": "depends on"
+  },
+  {
+    "start": 1068.91,
+    "duraction": 5.5,
+    "value": "how how well we are funded through our"
+  },
+  {
+    "start": 1072.07,
+    "duraction": 5.31,
+    "value": "journey here so we're sort of starting"
+  },
+  {
+    "start": 1074.41,
+    "duraction": 4.41,
+    "value": "in these markets where which are maybe a"
+  },
+  {
+    "start": 1077.38,
+    "duraction": 4.5,
+    "value": "little bit more distant for for the"
+  },
+  {
+    "start": 1078.82,
+    "duraction": 6.33,
+    "value": "average person but maybe really critical"
+  },
+  {
+    "start": 1081.88,
+    "duraction": 7.04,
+    "value": "for for for people that are in defense"
+  },
+  {
+    "start": 1085.15,
+    "duraction": 6.69,
+    "value": "and and working for national security"
+  },
+  {
+    "start": 1088.92,
+    "duraction": 5.86,
+    "value": "you know we have pretty obvious impact"
+  },
+  {
+    "start": 1091.84,
+    "duraction": 3.45,
+    "value": "on things like drones they're ringing"
+  },
+  {
+    "start": 1094.78,
+    "duraction": 4.65,
+    "value": "yeah"
+  },
+  {
+    "start": 1095.29,
+    "duraction": 6.36,
+    "value": "that's big yep being quiet and energy"
+  },
+  {
+    "start": 1099.43,
+    "duraction": 7.38,
+    "value": "density and power density all of that is"
+  },
+  {
+    "start": 1101.65,
+    "duraction": 7.5,
+    "value": "critical for for for drone capability so"
+  },
+  {
+    "start": 1106.81,
+    "duraction": 6.2,
+    "value": "I think we're going to make a pretty"
+  },
+  {
+    "start": 1109.15,
+    "duraction": 6.2,
+    "value": "rapid impact in defense applications"
+  },
+  {
+    "start": 1113.01,
+    "duraction": 5.92,
+    "value": "we're also looking at aerospace"
+  },
+  {
+    "start": 1115.35,
+    "duraction": 6.07,
+    "value": "applications so basically anything that"
+  },
+  {
+    "start": 1118.93,
+    "duraction": 4.01,
+    "value": "flies and you look at what uber is"
+  },
+  {
+    "start": 1121.42,
+    "duraction": 4.38,
+    "value": "trying to do I don't know if you're"
+  },
+  {
+    "start": 1122.94,
+    "duraction": 5.08,
+    "value": "following this but that they basically"
+  },
+  {
+    "start": 1125.8,
+    "duraction": 7.95,
+    "value": "want to take you from you know rooftop"
+  },
+  {
+    "start": 1128.02,
+    "duraction": 8.04,
+    "value": "to rooftop in cities by by air okay so"
+  },
+  {
+    "start": 1133.75,
+    "duraction": 4.77,
+    "value": "check that out check out ooh BRR elevate"
+  },
+  {
+    "start": 1136.06,
+    "duraction": 5.94,
+    "value": "it's fascinating you can probably do an"
+  },
+  {
+    "start": 1138.52,
+    "duraction": 6.81,
+    "value": "entire show just on that yeah but"
+  },
+  {
+    "start": 1142.0,
+    "duraction": 6.63,
+    "value": "they're ruber is pushing companies to"
+  },
+  {
+    "start": 1145.33,
+    "duraction": 6.3,
+    "value": "develop vehicles that are capable of"
+  },
+  {
+    "start": 1148.63,
+    "duraction": 5.73,
+    "value": "doing that and you know we could really"
+  },
+  {
+    "start": 1151.63,
+    "duraction": 6.69,
+    "value": "help be an enabler for that type of"
+  },
+  {
+    "start": 1154.36,
+    "duraction": 6.54,
+    "value": "application Wow and that you know if you"
+  },
+  {
+    "start": 1158.32,
+    "duraction": 3.96,
+    "value": "can cut out all of all traffic you know"
+  },
+  {
+    "start": 1160.9,
+    "duraction": 4.23,
+    "value": "in the world if you just kind of bypass"
+  },
+  {
+    "start": 1162.28,
+    "duraction": 5.76,
+    "value": "it by cutting through the air that's"
+  },
+  {
+    "start": 1165.13,
+    "duraction": 4.56,
+    "value": "that's a pretty big deal that's a huge"
+  },
+  {
+    "start": 1168.04,
+    "duraction": 3.27,
+    "value": "deal and kind of the first thing that"
+  },
+  {
+    "start": 1169.69,
+    "duraction": 2.64,
+    "value": "comes to mind is people bouncing into"
+  },
+  {
+    "start": 1171.31,
+    "duraction": 5.64,
+    "value": "each other as they jump across"
+  },
+  {
+    "start": 1172.33,
+    "duraction": 7.92,
+    "value": "skyscrapers and is oh oh yeah it's gonna"
+  },
+  {
+    "start": 1176.95,
+    "duraction": 5.64,
+    "value": "be a they're gonna have their own"
+  },
+  {
+    "start": 1180.25,
+    "duraction": 3.54,
+    "value": "hurdles you know facing regulation and"
+  },
+  {
+    "start": 1182.59,
+    "duraction": 3.3,
+    "value": "they obviously safety is going to be"
+  },
+  {
+    "start": 1183.79,
+    "duraction": 4.2,
+    "value": "number one there so you definitely don't"
+  },
+  {
+    "start": 1185.89,
+    "duraction": 4.38,
+    "value": "want accidents and something has to"
+  },
+  {
+    "start": 1187.99,
+    "duraction": 4.5,
+    "value": "track all that but there's something"
+  },
+  {
+    "start": 1190.27,
+    "duraction": 4.74,
+    "value": "like 43 startups in the space and over a"
+  },
+  {
+    "start": 1192.49,
+    "duraction": 4.91,
+    "value": "billion dollars of venture capital was"
+  },
+  {
+    "start": 1195.01,
+    "duraction": 7.0,
+    "value": "poured into the space in the last year"
+  },
+  {
+    "start": 1197.4,
+    "duraction": 6.74,
+    "value": "so that that's up-and-coming so for us"
+  },
+  {
+    "start": 1202.01,
+    "duraction": 4.77,
+    "value": "you know in terms of range extending"
+  },
+  {
+    "start": 1204.14,
+    "duraction": 6.6,
+    "value": "electric vehicles and range extending"
+  },
+  {
+    "start": 1206.78,
+    "duraction": 5.55,
+    "value": "these types of flying machines I think"
+  },
+  {
+    "start": 1210.74,
+    "duraction": 5.52,
+    "value": "that's where we can make very"
+  },
+  {
+    "start": 1212.33,
+    "duraction": 6.21,
+    "value": "interesting impact it will be you know"
+  },
+  {
+    "start": 1216.26,
+    "duraction": 6.39,
+    "value": "some years before we really do that for"
+  },
+  {
+    "start": 1218.54,
+    "duraction": 6.69,
+    "value": "the average person but I think we'll"
+  },
+  {
+    "start": 1222.65,
+    "duraction": 4.71,
+    "value": "have a more immediate impact in defense"
+  },
+  {
+    "start": 1225.23,
+    "duraction": 4.31,
+    "value": "well yeah I mean either way even if it"
+  },
+  {
+    "start": 1227.36,
+    "duraction": 4.35,
+    "value": "takes a while to get out like you guys"
+  },
+  {
+    "start": 1229.54,
+    "duraction": 3.67,
+    "value": "it's an exciting time to be alive you"
+  },
+  {
+    "start": 1231.71,
+    "duraction": 4.56,
+    "value": "guys are on the forefront of something"
+  },
+  {
+    "start": 1233.21,
+    "duraction": 5.91,
+    "value": "there and you know just seeing the"
+  },
+  {
+    "start": 1236.27,
+    "duraction": 5.01,
+    "value": "changes and how fast mankind is evolving"
+  },
+  {
+    "start": 1239.12,
+    "duraction": 4.14,
+    "value": "and all the innovation that it's gonna"
+  },
+  {
+    "start": 1241.28,
+    "duraction": 4.79,
+    "value": "solve a lot of our problems right there"
+  },
+  {
+    "start": 1243.26,
+    "duraction": 5.52,
+    "value": "so this is a very exciting technology"
+  },
+  {
+    "start": 1246.07,
+    "duraction": 4.09,
+    "value": "brother have we covered the main points"
+  },
+  {
+    "start": 1248.78,
+    "duraction": 4.5,
+    "value": "is there anything that you you want to"
+  },
+  {
+    "start": 1250.16,
+    "duraction": 5.94,
+    "value": "get out there I think we covered most of"
+  },
+  {
+    "start": 1253.28,
+    "duraction": 4.8,
+    "value": "what I would have wanted to all right um"
+  },
+  {
+    "start": 1256.1,
+    "duraction": 3.63,
+    "value": "well let me ask this then where can"
+  },
+  {
+    "start": 1258.08,
+    "duraction": 4.8,
+    "value": "people you know read more about your"
+  },
+  {
+    "start": 1259.73,
+    "duraction": 6.89,
+    "value": "work is it liquid piston comm yeah look"
+  },
+  {
+    "start": 1262.88,
+    "duraction": 6.39,
+    "value": "with piston comm is where you can go"
+  },
+  {
+    "start": 1266.62,
+    "duraction": 4.81,
+    "value": "we're all so right now we're"
+  },
+  {
+    "start": 1269.27,
+    "duraction": 5.1,
+    "value": "crowdfunding on we funder so you can"
+  },
+  {
+    "start": 1271.43,
+    "duraction": 6.21,
+    "value": "also go to we funder comm slash liquid"
+  },
+  {
+    "start": 1274.37,
+    "duraction": 7.44,
+    "value": "piston and definitely appreciate people"
+  },
+  {
+    "start": 1277.64,
+    "duraction": 7.26,
+    "value": "support there yeah thank you so much"
+  },
+  {
+    "start": 1281.81,
+    "duraction": 4.56,
+    "value": "Alex for coming on and you know doing"
+  },
+  {
+    "start": 1284.9,
+    "duraction": 3.66,
+    "value": "the show with me and and I really"
+  },
+  {
+    "start": 1286.37,
+    "duraction": 3.75,
+    "value": "appreciate your time and and your"
+  },
+  {
+    "start": 1288.56,
+    "duraction": 3.54,
+    "value": "innovation and what you're doing for the"
+  },
+  {
+    "start": 1290.12,
+    "duraction": 3.66,
+    "value": "for the whole world I mean obviously"
+  },
+  {
+    "start": 1292.1,
+    "duraction": 3.93,
+    "value": "they're you know everyone gets something"
+  },
+  {
+    "start": 1293.78,
+    "duraction": 4.41,
+    "value": "out of it too it's win-win but you know"
+  },
+  {
+    "start": 1296.03,
+    "duraction": 5.13,
+    "value": "this is still a big change for mankind"
+  },
+  {
+    "start": 1298.19,
+    "duraction": 4.53,
+    "value": "you know I I see potential and you guys"
+  },
+  {
+    "start": 1301.16,
+    "duraction": 3.09,
+    "value": "don't often get the credit you know the"
+  },
+  {
+    "start": 1302.72,
+    "duraction": 3.36,
+    "value": "engineers don't often get the credit for"
+  },
+  {
+    "start": 1304.25,
+    "duraction": 5.34,
+    "value": "these things as far as you know changing"
+  },
+  {
+    "start": 1306.08,
+    "duraction": 5.25,
+    "value": "the world and stuff but um yeah I think"
+  },
+  {
+    "start": 1309.59,
+    "duraction": 4.53,
+    "value": "that you know we should celebrate those"
+  },
+  {
+    "start": 1311.33,
+    "duraction": 4.56,
+    "value": "kind of people more and and I'm big on"
+  },
+  {
+    "start": 1314.12,
+    "duraction": 3.09,
+    "value": "the brains rather than the bronze in"
+  },
+  {
+    "start": 1315.89,
+    "duraction": 4.02,
+    "value": "society like I don't watch football"
+  },
+  {
+    "start": 1317.21,
+    "duraction": 5.7,
+    "value": "things like that people that are really"
+  },
+  {
+    "start": 1319.91,
+    "duraction": 3.75,
+    "value": "doing change but thank you again so much"
+  },
+  {
+    "start": 1322.91,
+    "duraction": 2.7,
+    "value": "for your time"
+  },
+  {
+    "start": 1323.66,
+    "duraction": 4.05,
+    "value": "well definitely appreciate the"
+  },
+  {
+    "start": 1325.61,
+    "duraction": 3.12,
+    "value": "opportunity and yeah thanks for having"
+  },
+  {
+    "start": 1327.71,
+    "duraction": 2.94,
+    "value": "us yeah brother"
+  },
+  {
+    "start": 1328.73,
+    "duraction": 5.72,
+    "value": "and good luck with your your continuing"
+  },
+  {
+    "start": 1330.65,
+    "duraction": 3.8,
+    "value": "innovation thank you"
+  }
+]

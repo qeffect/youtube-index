@@ -1,0 +1,3808 @@
+{
+  "indexed": "_-tnEOuY44w,_0wPPTxMjjo,_2Fk8FU1xbk,_4RwHZb9_PA,_G_hcKUWhf4,_hQM9Ddf6Ho,_ldIMw-SPw0,_OAMEAuRc0E,_OshCG9SNpU,_Qn-Y81PD0I,_qo0lW53uNc,_W3h-RuNK1c,_y08t0-Kul8,_yEtqIDVuLg,-2iyGGoLxEs,-6O-Uw_C7SM,-9sQzYO6uO8,-BJ2TOmqBNM,-C6AID7hb6g,-CQjD6FjO14,-EB6aP-QKME,-ewUXSK6_1M,-fZrlftujAQ,-jzE8UnmpJg,-lY_U-haiG4,-LzcwUA1fWQ,-t4etiU5sgk,-tNvowSC3V8,-uo4_SzSMoI,-WO8P0r86HE,-XALeLZm2MI,-XeQxtgwwl4,-Z2g2yhP7kA,0-XI67-YZpc,06_KHnpD7G8,0CCewULy8GA,0Dv_ps_4dHw,0LPBblPTXHk,0s9V0iQmJ_M,0vbtmE6Lef0,0wCDGLhtROs,135fiJ3kuq8,13RlARBS1VU,18GHu3BC0cY,1CRk10IKzbA,1ej-XIDp0kY,1iK_oT2Qw8E,1kTNLU3Jiz4,1L2dyq17mA0,1lvuw_IJ-qc,1MZAvXjciLg,1NjJwaKIup0,1UCPjVCqRPA,1Xe4qxL0ZK4,1z8NEmTk3xM,25DiuvxURwI,28Ec4Fgp_08,2abaVibjrBU,2BJBfTIaULs,2Kr3Dye0nqw,2McXsEA5S88,2P4jZNAi4p0,2sXd9lKGjF0,2tmmhGN0G7c,2u_0oOHn3cc,2Uskig4HZ54,2vDAKqjbt9k,2YJOWqy25xU,3-4nPSO-BxM,3-5xzopjz7Q,323zMbxMQWQ,34L9V7Gc9_I,3E5xPRJ6doY,3FSxcPxdxzc,3gu5UliwPJ0,3huZuddL6zQ,3LWJQCE0NY8,3O29kMXvRKc,3q6JtBAvjHk,3qh_BUO5oy4,3SCH1DeLwv4,3WQRlcS37VE,3XJOOD7sOMc,4d5S6uzT7ks,4fPYYyoPxLA,4LqGCb0nh-Y,4qUGwQAO7ic,4qZfqvdYehg,4WM32_p5NZI,4zVdTluDrD8,51iINaAkefs,57oztiaMydA,5aYW1IN7vi0,5Ck-fsB8Q_U,5gPcHDIwkyA,5kQBp7OM6dg,5NBJ12AkJns,5nV3vp4B_ow,5NyzM2zIPes,5pMOgATYg-c,5vPhgtoigFs,5xYb6J66_LU,6_2izcUsyrQ,6-pY3oARgQk,6CSmW0EJSgY,6dKqBAta0x4,6HePdAjoYQQ,6mQIxm00H8M,6MRqq5U_VS8,6sj8lf8pJO8,6uFBMOwZKGo,6uKolDWoCBE,6WOv1O2Z_9U,6yrkVT-dM-Q,7-GGvpafPTc,70dDv2y0glc,7CK6T90Mgy8,7ckUpCzidOA,7hGuJjouBto,7MrP2pNvhsI,7P4bVQlGURM,7qWN-KY9CbI,7Rnp47Qi8l8,827Sd1G0HPo,84O62FZOdrI,86n0EMbRr3M,8At1sYv76gM,8D9QWIy7Nyk,8HGBJmVNfRU,8jdzDntzOjo,8rUGX4_84ek,8SLd0KJoiKg,8TxM-MAPhe8,8u0N4Ih1nBA,8UnzsP-6LyU,8YFY8Or8m7c,965rRK4RWHk,9ln9zFZvXs4,9lr00PpSxXE,9mfW16YxL3U,9othBV0EKh8,9OvOOHdNr-w,9YEBZGETgDI,A_q9loFp_yE,a-CAZE9SbiU,A-eNCnX290A,a4QNEfYYmOQ,a5IzBF25Tj0,a8-7B3NdLT8,A8rW-Jm59zA,AamTwoNyBuw,acI59qHys3k,AHAriy9a5qk,Ahp1ZWfmJzw,AhzHP5aEUHo,aL95wyL2Nno,alB7IdYFoBM,AMxJAFsBR8Y,aolzsrFMuXo,aQX9OR9uJtA,AreJ43v82jM,aTgdbr0RZnU,aVDs9iQ0Jm4,AvitG7krXmI,AvJNKjbB5Gk,AWlDjsuvegI,awxXcSm8kOM,axHwWgdMBDM,AxZQ1B58Mhs,ay2sBCw3H1c,aZ6ftibSF6M,b5IGFGNCz7k,ba_itdPbtfY,BbCgNTo63ig,bHgnXTF3F-Q,Bng4OrgNzSw,BnjNJpdrhvg,BpACk9-P94M,BqVOJIE8f3M,BvBYBxwRNU8,BVosPouGqYw,bwsT5IsAGVE,bX18mBXJBMA,bxMEFbSDYD8,BXPH_yc4SIw,c_qd3M0g1mI,C3LnwjLf43M,c3zKX-0J_Xw,C9Q2lpYkchM,CfISqraufaE,CGHH33l1s2g,cmj-73z3RoQ,cogyNOVuTf4,CPwsC1JSknk,CRKu4oKBjLE,ct8Lnf3AvAw,ctaiPYR6ttk,ctWPdhQ40q8,CU8XyMTvAyQ,cXh0mwM2f28,CYXzhK5NCm0,cZ0p8JfpMa0,CzhfhzlcR5E,d_mnryTta64,D3wKX57FniM,D6N4IAv0PtA,d853bKYShMY,daO3qCnHZwE,DdWglthG9o0,dEnpchD0nl8,DfRLhVYQ54o,DH_4-LejBsY,Dkl4cq28gAw,DKPKj1sseNo,dM7iVM7D3Zc,dNHBSVXukH8,Dq4lP7VOOdA,ds-la4lNg-I,Ds0QpX6SUyU,dS3ubI47nZ4,DWDL5lHxI3U,Dwj7Lu58Zhc,dxcsoemOuJc,DYcjeYgkXOY,DZk4Ryo-hZA,dZkRBsyl2Do,E-_VAE0DGl4,e4aVHRbw4F4,EDHOCwVFMsI,EdXZTbHTCOg,EFCrLOl1JOs,EfpRJf5_h-s,eg32_J6VcY4,Ej0d9QRlGbs,ek3hyvqmmVE,EK8UqyjddIQ,EMLuLIE6rd4,eqtoBrJvIs8,eqv3b3fryLM,ETwGW9WSg4s,EV5DgL5JW2k,EVlvp7NT7Z8,EvO7Dkp8pjM,EWd3dvmJ9Qg,F_SsV7hLmRk,F57JWrkZS1I,F9eRvDnk8UU,faMcO2QNeoo,FDymSJmMgAo,fE_SHtfWPPc,FFiBOIoE4RQ,fhbydy18DwA,Fjm284ukOdU,fjRRhcyM20Y,fjsyJDEWRrE,fjUDFb5W-oE,fk2ppQfB_7o,fSKqUHvxB2s,FSOYILVQ9Uo,fuDgdt7tolU,fvsqg6OhqdA,fwTMg5XRc7M,FxovRRLjYIo,fyR3g4UvvtE,G9vIpCbj9J0,gazd0GNSADg,gbz5P5cQhXI,GbzkeijF6jI,gfIp6kBozG8,GgWd74zCSSc,gHlzxRULGMk,gI51l6Wh3Yk,gIt9yrUSDao,GJceEhZ4pJY,GMVz0QyQYxM,GNoMu2tYzu4,GppWaKxBy6s,gqjbHxz-aao,gQyJoGmPKB0,GswLPG3Y-Ok,GVj_wOEPhkc,GvVNIZPpagc,gw7NTDLYZBM,Gwt2xFm0loo,GXkfdi8tJd0,GY-HVyhkwVY,gyu-KR6lN_g,gzUS_FdDBeY,h-UucfDaVkk,H37RxhQm_vA,H46XPd29Bv0,h65eCjixBGk,haLSsJsM7Pw,HAm-X1FyxBg,hcpXvsbEWbE,hCzo3d1lWwE,hEU1mQ2qefM,hgOkTMxqW6s,hJNxGkvhTcQ,Hlnd0h3mV3M,Huo4wOCK2dg,hVo5YhmSvxg,HwfkXQF0S78,Hy6_6-GcpcY,hYFmksb07d0,i_kG99qtXzk,i-_tMOZDkYc,I0dQf0jNtcI,I0OTSHBfcaM,i2OVR_i8MCw,i3J_ofuCq0M,I3rhKJiPcV0,i4cyrrt39MU,IBiyU8RfKkI,iF59Z6IAiUU,IgeUGYmKHnI,iGXfBR_jrAc,im5Dv2nNqj8,iMax5qGzpdA,IpPRL2hv_hk,Irdqtfi1cJk,iRHLnm3z5ok,irKzl9ixCOk,IRReQnEzKJo,iwYcG1yKrrA,j4hiKMfATkg,j55fin9F39A,J6MXY_WIEik,j8tLiy9F3NQ,jAEjyK8R2xk,Jawv5OeHcNE,jCJD4OtVxT0,JdVBAPt7DE4,JH5M8aBGbDY,jJOZODo8iQE,jkFbm5g-CM8,JKp-gk5rcfg,JLFlESy1tGI,jM20EJcS0Ck,jMts3I4Dm0Y,jmzTFedjsRc,JoHtkvjcU6g,JqJT-9QnDX4,jReoknnvXUk,jUY45J7zfzQ,Jvb90xAWgk8,jVl0qH2y-RM,jW96-WGef_A,JXHk43Ug2DA,k_4kW5f71iA,KbneA0K0N24,KcpCRNFTRI8,kEcJKTb5XVs,KEDZQ5XW-qM,KFYT9lZ9bpk,KogmxzL09S4,KpJi0Rv_d1s,kT8he7l3-jg,kue6Nh4SQQ8,KuRzooUC74k,kvBYHiktgrU,Kve5L6tt_YA,KVM6KUrOVvQ,kWwNGy2rC9o,kysCfEmY3co,kZnsG1Lh-_U,l13jZtmN9Ws,L4hhYlRmT7E,L99bHnNivtk,L9iHVWO-gUs,lDJaUL7J8OE,LH21GUrCFlU,lHRqbIp5r80,LkmcI2NRIMs,lKMKTF21Izc,Ll66PRHokQo,LMdBTiuCAmQ,lnISt1u_xfw,LPwKlPNJybM,lREbK2wmUtw,Lt4ZWuQXOMU,lUXxLRmbMZM,lVPANbwla1Q,LwNvdC73xvM,LxmrwJLc9-U,lyVm8IL9agw,M-BcoSZwlxw,m0Q0wjturig,m1rNjyjIvwY,m6DdCQ0YZPs,m7znvs_j8_k,M9z_2C08vO0,MdXPWY7KLdo,MEJjCT8OD1I,mELNZujblCw,MFPvdpl9HYY,mJLK3mS_PUg,mKnIFxEz9j8,MmXG8tasvp8,mqHdtTAJqZ4,MUDnPOu7OQU,Mvu_Tfn3mVA,MWEBNGiL7lo,mxDKhJURX5c,MXOwJVJKF9I,mzD0WsRspB0,n__2EsOFs8s,n_-myZ6nkf0,n734Bpyl2c0,N7dmOThRoCg,N9M7HdiUIKg,NAGmEcfq2U0,nbChzBjreJQ,NbrnyPtVF1A,NBVVn2POPfU,neDSIJscdS8,NhA9zMOZV_8,nhVE68wUjmY,nn9GfBgPdlA,nRJljCpC1zU,O63eWMktkkY,ob2pqqwGzJc,oByMihQhXo8,oEr26PgUaz0,oF5MtUaBlpU,OknuCuFb27Q,OL4lCwtlpns,omVzgMDSzMA,OnAwEzhtW_s,oOmcvPdqGcY,op8EcWf_QnI,oqWCfr0jN3Q,orW_ZHHtF-c,OvgvEHoD_v0,OXGsPf0HW0w,OZA3EvkBHLk,P-AP48CeZcA,p4up4xd6rxM,P9hR-iNR2eE,pbrJ1XxupEg,PbWOmJQtciI,PcWhowZbiX4,Pd42k6l0BOY,peVgkp1gMSA,pGl8QQUXoiM,PgWXixHr8i0,pgZ_c02-7XY,pGz1JhWd-hw,piclzeZJadE,pjCREYAxFCU,PkxlJCoPxtw,pMhedqnnY-I,pn7XxxfmrJk,POOYNiwCiPg,pVncvL_Ns3U,PwmbkeKu7Mc,px1bN6l_Gv4,pyAT8bKb7XU,q_LY8VPchs0,Q4BzmR9UHIQ,Q4ImyzwBy9g,QaaeRCWBqIk,qb3w1OboNvo,qdRYf3N08UY,qe4v8LGob4Y,qkfsoUw_wcw,qmdFYiXPY18,QPN3h2F9EbE,qr_3BOeVgKg,QrBVmjRpJwI,QS98lwr2p2U,Qse6ME4Tfec,QThFVV4NNqg,QwpDTbUsF3E,R12uPqdkkPI,R41Sfh4kBMg,RBHQL96deP4,RblERU2ASro,RBtIMZCG-Oo,RC38ZjyfhkA,Rdq0Hi-_XRo,RDVZSWXkyrU,rJdqcsQ0QP0,rMQCT25EfEs,RrQPki8bI4A,rsavFC1lrtw,RtMZg04mJ2Y,rvNVbjFQH-o,rWW48Wpg5HA,RXfO2VclQGI,rzaDPTTIbhg,rZtPca6s96Y,S1uA3--3ExQ,s3KjT-k31UU,s4qifyO_Ho4,S4ylVMsxOcc,s61iV9hbSRI,sa0om_BBv3A,SbMv9mrXatk,sbtKWPTkyTQ,Sfanj7kgy4g,sIG-J8EARa0,Sk7HnqvW520,smTJcjfSIuo,SpiT4GrgTLs,SS7s22Fnxms,STHwpjP2Uag,SvhpCXCxUfU,SVogkaAV66s,swCSjVRE2bo,sZEDu22LOic,t_9SNDOoHWg,t_iV35zfQI0,T-TtciIe0QA,T6QgUHTZumg,t8lUnjRzmEA,TBKDVUQpVM4,td4eN2xb4Tk,TF52s3GOJFE,Tfk9yg39u9w,TFu3NGQdatM,tIk2zHxCpNA,tk6dQdgVDr0,tKMjx-IaKCU,TmYttL1Y62w,TOeFXMgVkRM,ToxI_8MSPMc,tqILea18Ki8,tsqysbA1Sqo,TTAKyQXMQaM,tUv6KIiNY0A,TVjx2ooENfg,TwH-91D_4cA,tXKoS9V8ydU,Ty2mFF1LB_Q,U_GsF_n_WbQ,U2g7WcwIHHE,U3dsdiae1Bg,u3FYvlb2EiI,U3pocCVZuxM,UBqFWGxhZ20,UcLKjCZhKNg,uIDDTBfsA7Q,ulfINyPBJkk,UOUMoG1AXro,uRKKG5LoYbQ,Us-WzO9pR7Q,utpftrDE2js,uUCkBUzuNio,uVpLuuIxjSw,uwC-LYqe1RA,uXYxNzkUuIw,Uyc7XcOLvSc,uykGoyVB8pM,v_5EKGmNPW4,V-fa3I5dJFQ,V3KIFqANBfU,V6h6opS8FMY,VBIJVUzcqgs,VbUvS3OE47o,vcCJ0CDPkzk,vcHz3dGt-1M,vd39QLgNNH4,vf4cXnF_noc,VFWWzYpJ3vw,VgBeVe-cudA,VKk8ZZmxM68,Vn-bbVdmmDY,Vn6ucpVEWLg,VnBar3klKuM,vO0Voa_Lisw,Vp3fIO4fK8c,vPN_ECcJEho,VQGp5UP7QUk,VrWJhVsCI3E,VstfqsB3kWA,VyhODMtOPjE,W1FejBQxNzQ,W4W0lYqJc68,w85LBpbDyU8,wAdcvMuRPgE,WaG1AHl_-g8,WajmcB3KCbY,WBn0nakKr4I,wbr999AMWgk,wcIWIgRUTy0,wdjECnQZREM,WE2d5fJ_1BM,Wf1KgiaTz9o,WJoq6-kEdxU,wm_ZuIwfmzA,WmocY8qNi1U,WQzdkZp967w,WSkWQskVZIg,wYDsgBWrQIc,WyY8v0ELRPs,WZLyuv5egbw,X-104lYPfPI,x2OGExAn9vw,x4YswNQcnek,X6NEeXNQJzg,x9wG6ZuqJRE,x9zA1a9MS64,Xb08NOyakJQ,XbLNBGWOiy8,xC7cGGC1gLE,xCIWCSaCdmA,XeyZumUcfw4,XG03yPfdf00,XGjq_LrJlJ0,xH_FtMZau6U,XHsPNYQXy1g,XI_3ot9AVRc,XJr7Q4tbrT8,xjtbxj2hGEk,XKffl6CAS9I,XMedk-SpjJU,XNnr9LQN_LI,XO2nK03NahQ,XRyBWFOS1QE,XV9y1gDUVgw,XXhLOXdWdxA,xY_lPkCsAPQ,XZ2Z9CdGc50,Xzbvod8pzjI,XZeIqNQ3kkM,Y_RMMbc6TNo,Y-46yEmK9FQ,Y0BXDzU6kHM,y37qBYWD6Hw,Y3iYk00cX4o,y3SRsQQm9_w,Y4c202or2dc,Y8ABhUh5_Pg,yA5kzWWMyJc,YDYKFLJcXjs,YFR517RuObA,yIYsfr3g_po,YjdAs47casg,ylSWzt4ml3I,yMrbI1KLFx4,YNm2DzdbJ-E,YOnx_oNDwic,YOr_YXfwH8M,yoYvunNGK0E,YRDZYN8n2gE,yuiv2YbQAtQ,yw5DzVosHrI,YwKXFQ6XQXE,ywqkVBuDLww,YxizdmOvN1c,yzH3A2WACUA,Z1r05ISz5Hs,z3hpssm5_1g,Z7G8j3aZvbE,zG5D6Uk3Chg,ZHhi5bP6j30,ZkoOAhaFt-Q,zLZiddgP5tc,znYs-6J5rR4,Zpozrhe5xWk,zpw7Bc07h9Y,ZQK30bEDDpU,ZSOLaD-kbZY,zVdQ0QBwFkE,zw69mTcI9U8,zZ3lGqFFaYI,bUst18PCsRk,JTK8lrosaDI,lcBNIvAc_fE",
+  "topic": "Sessions",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_ldIMw-SPw0",
+      "segments": [
+        {
+          "text": "*sessions* doj they would not answer the",
+          "location": 1369
+        },
+        {
+          "text": "only time that *sessions* made a comment",
+          "location": 1372
+        },
+        {
+          "text": "beat up on *sessions* you have beat up on",
+          "location": 2244
+        }
+      ]
+    },
+    {
+      "id": "-t4etiU5sgk",
+      "segments": [
+        {
+          "text": "direct oversight of mueller *sessions*",
+          "location": 337
+        },
+        {
+          "text": "*sessions* these people are stupid d 5q",
+          "location": 414
+        },
+        {
+          "text": "out of the way even though *sessions* is",
+          "location": 462
+        }
+      ]
+    },
+    {
+      "id": "-WO8P0r86HE",
+      "segments": [
+        {
+          "text": "with was *sessions* and i want to kind of",
+          "location": 1248
+        },
+        {
+          "text": "guys's opinion of mr. *sessions* because",
+          "location": 1777
+        },
+        {
+          "text": "*sessions* and trump wasn't very happy and",
+          "location": 1782
+        },
+        {
+          "text": "the good guy you know protects *sessions*",
+          "location": 1802
+        },
+        {
+          "text": "particular thorns with *sessions* i'll",
+          "location": 1841
+        },
+        {
+          "text": "*sessions* the whole way trust *sessions*",
+          "location": 1891
+        },
+        {
+          "text": "*sessions* he's not doing anything but",
+          "location": 1897
+        },
+        {
+          "text": "and as far as *sessions* you know we're",
+          "location": 1941
+        },
+        {
+          "text": "talking about the *sessions* has appointed",
+          "location": 2049
+        },
+        {
+          "text": "and *sessions* meshing the huber's been",
+          "location": 2069
+        },
+        {
+          "text": "so what did huber do *sessions* was",
+          "location": 2074
+        },
+        {
+          "text": "*sessions* wasn't recused from other",
+          "location": 2091
+        },
+        {
+          "text": "*sessions* was there for a purpose i don't",
+          "location": 2322
+        },
+        {
+          "text": "know they wanted *sessions* the left",
+          "location": 2333
+        },
+        {
+          "text": "wanted *sessions* in",
+          "location": 2335
+        },
+        {
+          "text": "exactly what the president in *sessions*",
+          "location": 2347
+        },
+        {
+          "text": "in arkansas so i think that *sessions* was",
+          "location": 2383
+        },
+        {
+          "text": "think that that trump and *sessions* have",
+          "location": 2421
+        },
+        {
+          "text": "and i definitely trust *sessions* yeah",
+          "location": 2425
+        },
+        {
+          "text": "congressional testimony the *sessions* had",
+          "location": 2431
+        },
+        {
+          "text": "were talking about *sessions* and all the",
+          "location": 2591
+        },
+        {
+          "text": "basically telling *sessions* like hey we",
+          "location": 2623
+        },
+        {
+          "text": "role of goudy role of *sessions* and this",
+          "location": 2843
+        },
+        {
+          "text": "gaudí *sessions* all resigned good luck",
+          "location": 2849
+        },
+        {
+          "text": "gowdy *sessions* all resigned",
+          "location": 2852
+        },
+        {
+          "text": "who'da *sessions* appoint in november 2017",
+          "location": 2854
+        },
+        {
+          "text": "tried to horowitz who was *sessions* chief",
+          "location": 2879
+        }
+      ]
+    },
+    {
+      "id": "0CCewULy8GA",
+      "segments": [
+        {
+          "text": "president trump or *sessions* whoever and",
+          "location": 305
+        }
+      ]
+    },
+    {
+      "id": "13RlARBS1VU",
+      "segments": [
+        {
+          "text": "installed post *sessions* departure in",
+          "location": 774
+        },
+        {
+          "text": "*sessions* departure question mark sealed",
+          "location": 784
+        }
+      ]
+    },
+    {
+      "id": "18GHu3BC0cY",
+      "segments": [
+        {
+          "text": "under *sessions* doj they reinstituted",
+          "location": 1180
+        },
+        {
+          "text": "to trump or *sessions* was one working on",
+          "location": 2801
+        }
+      ]
+    },
+    {
+      "id": "1ej-XIDp0kY",
+      "segments": [
+        {
+          "text": "who doubted *sessions* and huber you will",
+          "location": 128
+        },
+        {
+          "text": "experts but *sessions* should appoint a",
+          "location": 308
+        },
+        {
+          "text": "corrupt swamp but *sessions* should",
+          "location": 314
+        },
+        {
+          "text": "take a gamble but *sessions* should",
+          "location": 323
+        },
+        {
+          "text": "*sessions* and therefore the ig is not",
+          "location": 350
+        },
+        {
+          "text": "absolutely do but *sessions* in humor are",
+          "location": 378
+        },
+        {
+          "text": "fire *sessions* but but humor ability to",
+          "location": 391
+        },
+        {
+          "text": "*sessions* via twitter so therefore he is",
+          "location": 425
+        },
+        {
+          "text": "*sessions* but interestingly if nothing is",
+          "location": 434
+        },
+        {
+          "text": "firing of fbi doj officials *sessions* at",
+          "location": 805
+        },
+        {
+          "text": "*sessions* out what was the session senate",
+          "location": 811
+        }
+      ]
+    },
+    {
+      "id": "1iK_oT2Qw8E",
+      "segments": [
+        {
+          "text": "that hugh says *sessions* began the",
+          "location": 1182
+        },
+        {
+          "text": "i love this one trust *sessions* hell yeah",
+          "location": 1255
+        },
+        {
+          "text": "trust *sessions* how do i know i could",
+          "location": 1257
+        },
+        {
+          "text": "trust *sessions* the very time where i saw",
+          "location": 1260
+        },
+        {
+          "text": "biden looked over saw *sessions* playing",
+          "location": 1268
+        },
+        {
+          "text": "trust *sessions* and that was quite a long",
+          "location": 1284
+        },
+        {
+          "text": "*sessions* kaboom trust *sessions* hell yeah",
+          "location": 1326
+        },
+        {
+          "text": "*sessions* is gone see he wasn't doing",
+          "location": 1347
+        },
+        {
+          "text": "think we can trust *sessions* everybody",
+          "location": 1368
+        },
+        {
+          "text": "with we all knew we could trust *sessions*",
+          "location": 1375
+        }
+      ]
+    },
+    {
+      "id": "1L2dyq17mA0",
+      "segments": [
+        {
+          "text": "of mueller *sessions* unruh cues or number",
+          "location": 98
+        }
+      ]
+    },
+    {
+      "id": "1NjJwaKIup0",
+      "segments": [
+        {
+          "text": "*sessions* enjoy the show but then eleven",
+          "location": 1444
+        }
+      ]
+    },
+    {
+      "id": "1UCPjVCqRPA",
+      "segments": [
+        {
+          "text": "assigned by *sessions* with the same",
+          "location": 902
+        }
+      ]
+    },
+    {
+      "id": "2McXsEA5S88",
+      "segments": [
+        {
+          "text": "rosenstein jeff *sessions* to his left",
+          "location": 1552
+        }
+      ]
+    },
+    {
+      "id": "2sXd9lKGjF0",
+      "segments": [
+        {
+          "text": "of fbi and doj officials mr. *sessions*",
+          "location": 1032
+        },
+        {
+          "text": "why did mccabe try to take *sessions* out",
+          "location": 1035
+        },
+        {
+          "text": "investigation against *sessions* that",
+          "location": 1049
+        },
+        {
+          "text": "would be mccabe what was the *sessions*",
+          "location": 1052
+        },
+        {
+          "text": "*sessions* should appoint a second special",
+          "location": 1081
+        },
+        {
+          "text": "four years take a gamble but *sessions*",
+          "location": 1091
+        },
+        {
+          "text": "huber buy *sessions* is not genuine",
+          "location": 1107
+        },
+        {
+          "text": "but *sessions* in huber are following",
+          "location": 1109
+        },
+        {
+          "text": "fire *sessions* in the kill box so there's",
+          "location": 1120
+        },
+        {
+          "text": "to earlier today saying *sessions* is",
+          "location": 1125
+        },
+        {
+          "text": "26th regarding *sessions* interesting",
+          "location": 1140
+        },
+        {
+          "text": "why *sessions* might be playing for dhs",
+          "location": 1153
+        }
+      ]
+    },
+    {
+      "id": "2u_0oOHn3cc",
+      "segments": [
+        {
+          "text": "to all attorney general jeff *sessions*",
+          "location": 1891
+        }
+      ]
+    },
+    {
+      "id": "3FSxcPxdxzc",
+      "segments": [
+        {
+          "text": "rosenstein *sessions* like all of them",
+          "location": 683
+        },
+        {
+          "text": "like *sessions* has huber prosecuting some",
+          "location": 691
+        }
+      ]
+    },
+    {
+      "id": "3q6JtBAvjHk",
+      "segments": [
+        {
+          "text": "right kind of like *sessions* out of the",
+          "location": 459
+        },
+        {
+          "text": "post 2196 activate *sessions* in the",
+          "location": 1010
+        },
+        {
+          "text": "would mean *sessions* is about to drop the",
+          "location": 1029
+        },
+        {
+          "text": "if *sessions* are still recused that",
+          "location": 1072
+        },
+        {
+          "text": "*sessions* and hueber weekend meeting",
+          "location": 1487
+        },
+        {
+          "text": "panic in dc part 5 *sessions* classified",
+          "location": 1530
+        }
+      ]
+    },
+    {
+      "id": "3SCH1DeLwv4",
+      "segments": [
+        {
+          "text": "issues that occur during court *sessions*",
+          "location": 762
+        }
+      ]
+    },
+    {
+      "id": "4qZfqvdYehg",
+      "segments": [
+        {
+          "text": "and then jeff *sessions* blurted out his",
+          "location": 2060
+        }
+      ]
+    },
+    {
+      "id": "4WM32_p5NZI",
+      "segments": [
+        {
+          "text": "assigned by *sessions* with the same",
+          "location": 965
+        },
+        {
+          "text": "assigned by *sessions* with the same",
+          "location": 984
+        },
+        {
+          "text": "*sessions* right mr. durham has served in",
+          "location": 1058
+        },
+        {
+          "text": "general jeff *sessions* signed an order",
+          "location": 1072
+        }
+      ]
+    },
+    {
+      "id": "4zVdTluDrD8",
+      "segments": [
+        {
+          "text": "not just trump but *sessions* to or during",
+          "location": 51
+        },
+        {
+          "text": "the *sessions* probe was quote another",
+          "location": 55
+        },
+        {
+          "text": "so he was checking out *sessions* as well",
+          "location": 68
+        },
+        {
+          "text": "right *sessions* senate vote question mark",
+          "location": 74
+        },
+        {
+          "text": "why was *sessions* targeted because he was",
+          "location": 99
+        },
+        {
+          "text": "obviously who appointed huber *sessions*",
+          "location": 106
+        },
+        {
+          "text": "*sessions* daj deputy attorney general",
+          "location": 113
+        },
+        {
+          "text": "*sessions* no leaks none who fired or",
+          "location": 122
+        },
+        {
+          "text": "doj *sessions* remember he said he's gonna",
+          "location": 130
+        },
+        {
+          "text": "22nd 2017 letter from *sessions* to huber",
+          "location": 241
+        },
+        {
+          "text": "signed by jeff *sessions* he added the",
+          "location": 1317
+        },
+        {
+          "text": "deliberate attempt to conceal *sessions*",
+          "location": 1329
+        }
+      ]
+    },
+    {
+      "id": "5kQBp7OM6dg",
+      "segments": [
+        {
+          "text": "*sessions* boo-boo-boo-boo jfk jr. bababa",
+          "location": 1156
+        }
+      ]
+    },
+    {
+      "id": "5nV3vp4B_ow",
+      "segments": [
+        {
+          "text": "fired by attorney general jeff *sessions*",
+          "location": 811
+        },
+        {
+          "text": "huber was selected by *sessions* to",
+          "location": 867
+        }
+      ]
+    },
+    {
+      "id": "5vPhgtoigFs",
+      "segments": [
+        {
+          "text": "cohen's office trump's attorney *sessions*",
+          "location": 659
+        },
+        {
+          "text": "consensus all right *sessions* isn't doing",
+          "location": 903
+        },
+        {
+          "text": "why did *sessions* recuse i think so he",
+          "location": 969
+        },
+        {
+          "text": "*sessions* using utah federal prosecutor",
+          "location": 1005
+        }
+      ]
+    },
+    {
+      "id": "6uFBMOwZKGo",
+      "segments": [
+        {
+          "text": "*sessions* oh i thought q so atrocious who",
+          "location": 765
+        },
+        {
+          "text": "general jeff *sessions* finished well",
+          "location": 791
+        },
+        {
+          "text": "*sessions* right down the bottom shadow",
+          "location": 817
+        },
+        {
+          "text": "two *sessions* by design we're talking",
+          "location": 819
+        },
+        {
+          "text": "about *sessions* on march 4th of both 2019",
+          "location": 822
+        },
+        {
+          "text": "about a situation when jeff *sessions* was",
+          "location": 839
+        },
+        {
+          "text": "jeff *sessions* it was given back almost",
+          "location": 856
+        },
+        {
+          "text": "think that mr. *sessions* was actually",
+          "location": 867
+        },
+        {
+          "text": "trump still bashing on mr. *sessions* of",
+          "location": 887
+        },
+        {
+          "text": "individual was jeff *sessions* that fact",
+          "location": 931
+        },
+        {
+          "text": "why donald trump selected *sessions* for",
+          "location": 936
+        },
+        {
+          "text": "*sessions* has followed the course he has",
+          "location": 939
+        },
+        {
+          "text": "effort *sessions* is the quintessential",
+          "location": 943
+        },
+        {
+          "text": "of arsenic hmm *sessions* waited until the",
+          "location": 963
+        },
+        {
+          "text": "with *sessions* who has been routinely",
+          "location": 1020
+        },
+        {
+          "text": "was jeff *sessions* part of the plan or",
+          "location": 1031
+        },
+        {
+          "text": "*sessions* sometimes you need to take one",
+          "location": 1039
+        }
+      ]
+    },
+    {
+      "id": "7CK6T90Mgy8",
+      "segments": [
+        {
+          "text": "*sessions* buh buh and anonymous person",
+          "location": 794
+        }
+      ]
+    },
+    {
+      "id": "7ckUpCzidOA",
+      "segments": [
+        {
+          "text": "october 28th of 2017 when jeff *sessions*",
+          "location": 826
+        }
+      ]
+    },
+    {
+      "id": "8TxM-MAPhe8",
+      "segments": [
+        {
+          "text": "*sessions* with scott but obviously that's",
+          "location": 83
+        },
+        {
+          "text": "*sessions* with epa chief scott through it",
+          "location": 119
+        },
+        {
+          "text": "*sessions* investigating slush fund used",
+          "location": 149
+        },
+        {
+          "text": "jeff *sessions* is investigating up to 6",
+          "location": 157
+        }
+      ]
+    },
+    {
+      "id": "9lr00PpSxXE",
+      "segments": [
+        {
+          "text": "reports directly to *sessions* important",
+          "location": 237
+        }
+      ]
+    },
+    {
+      "id": "9mfW16YxL3U",
+      "segments": [
+        {
+          "text": "and jeff *sessions* quote that's an",
+          "location": 636
+        },
+        {
+          "text": "example i can see jeff *sessions* using",
+          "location": 779
+        }
+      ]
+    },
+    {
+      "id": "9othBV0EKh8",
+      "segments": [
+        {
+          "text": "had jeff *sessions* was recused so at that",
+          "location": 1205
+        },
+        {
+          "text": "*sessions* had that anything that *sessions*",
+          "location": 1270
+        },
+        {
+          "text": "investigation *sessions* could not touch",
+          "location": 1283
+        },
+        {
+          "text": "thought they were doing with *sessions*",
+          "location": 1619
+        },
+        {
+          "text": "with president trump and *sessions* you",
+          "location": 1627
+        },
+        {
+          "text": "the support for *sessions* so when it came",
+          "location": 1634
+        },
+        {
+          "text": "to only just a few people jeff *sessions*",
+          "location": 2037
+        }
+      ]
+    },
+    {
+      "id": "9OvOOHdNr-w",
+      "segments": [
+        {
+          "text": "attorney general jeff *sessions* to",
+          "location": 715
+        }
+      ]
+    },
+    {
+      "id": "9YEBZGETgDI",
+      "segments": [
+        {
+          "text": "fact that jeff *sessions* had appointed",
+          "location": 605
+        },
+        {
+          "text": "jeff *sessions* he added of course this is",
+          "location": 1344
+        },
+        {
+          "text": "that mr. *sessions* and mr. whitaker has",
+          "location": 1365
+        },
+        {
+          "text": "trump before *sessions* the fbi opened",
+          "location": 1408
+        },
+        {
+          "text": "*sessions* ever got into the office so",
+          "location": 1423
+        },
+        {
+          "text": "letter from attorney general *sessions* to",
+          "location": 1533
+        },
+        {
+          "text": "what we have is *sessions*",
+          "location": 1635
+        },
+        {
+          "text": "in 2017 as he was kept on by *sessions*",
+          "location": 1667
+        },
+        {
+          "text": "trump vic's not *sessions* fix they were",
+          "location": 1682
+        },
+        {
+          "text": "meet with the dni coats and *sessions* and",
+          "location": 1949
+        },
+        {
+          "text": "administration now jeff *sessions* i",
+          "location": 2138
+        },
+        {
+          "text": "*sessions* knew exactly what the crimes",
+          "location": 2206
+        },
+        {
+          "text": "*sessions* said he was supposed to have",
+          "location": 2720
+        },
+        {
+          "text": "been recused and the jeff *sessions*",
+          "location": 2722
+        },
+        {
+          "text": "*sessions* was recused but not as we know",
+          "location": 2765
+        },
+        {
+          "text": "related to *sessions* on the twenty second",
+          "location": 2869
+        },
+        {
+          "text": "*sessions* secretary or whatever you want",
+          "location": 2904
+        },
+        {
+          "text": "there weren't leaks *sessions* himself",
+          "location": 2920
+        }
+      ]
+    },
+    {
+      "id": "A_q9loFp_yE",
+      "segments": [
+        {
+          "text": "jeff *sessions* was nothing more than a",
+          "location": 113
+        }
+      ]
+    },
+    {
+      "id": "a4QNEfYYmOQ",
+      "segments": [
+        {
+          "text": "*sessions* trust huber thank you for your",
+          "location": 685
+        },
+        {
+          "text": "service to our country mr. jeff *sessions*",
+          "location": 688
+        },
+        {
+          "text": "jess *sessions* quietly appointed",
+          "location": 690
+        }
+      ]
+    },
+    {
+      "id": "A8rW-Jm59zA",
+      "segments": [
+        {
+          "text": "jeff *sessions*",
+          "location": 87
+        },
+        {
+          "text": "i saw this i knew i liked jeff *sessions*",
+          "location": 91
+        },
+        {
+          "text": "sees jeff *sessions* granddaughter he's",
+          "location": 107
+        },
+        {
+          "text": "him get smacked away by *sessions* love it",
+          "location": 112
+        },
+        {
+          "text": "*sessions* right here guys",
+          "location": 121
+        }
+      ]
+    },
+    {
+      "id": "aL95wyL2Nno",
+      "segments": [
+        {
+          "text": "design shadow to *sessions* by design",
+          "location": 187
+        }
+      ]
+    },
+    {
+      "id": "AreJ43v82jM",
+      "segments": [
+        {
+          "text": "we found him standing next to *sessions*",
+          "location": 1706
+        },
+        {
+          "text": "stand he next bonus and *sessions* at the",
+          "location": 1741
+        },
+        {
+          "text": "*sessions* as well",
+          "location": 1759
+        },
+        {
+          "text": "*sessions* back in november through our",
+          "location": 1776
+        },
+        {
+          "text": "and other things *sessions* comes out",
+          "location": 1819
+        },
+        {
+          "text": "prior meetings with *sessions* to remove",
+          "location": 1950
+        },
+        {
+          "text": "complicit they wanted *sessions* out they",
+          "location": 1995
+        },
+        {
+          "text": "*sessions* had already been recused or he",
+          "location": 2029
+        },
+        {
+          "text": "out *sessions* for a long time but",
+          "location": 2171
+        },
+        {
+          "text": "*sessions* also appointed humor humor over",
+          "location": 2205
+        },
+        {
+          "text": "the president and *sessions* at odds",
+          "location": 2249
+        }
+      ]
+    },
+    {
+      "id": "AvJNKjbB5Gk",
+      "segments": [
+        {
+          "text": "attorney jeff *sessions* at the justice",
+          "location": 129
+        },
+        {
+          "text": "we have jeff *sessions* there's that guy",
+          "location": 142
+        },
+        {
+          "text": "*sessions* is in utah speaking with mr.",
+          "location": 161
+        },
+        {
+          "text": "post 23 20 *sessions* meeting huber the",
+          "location": 186
+        },
+        {
+          "text": "same day as potus alert *sessions* meeting",
+          "location": 191
+        },
+        {
+          "text": "honorable jeff *sessions* attorney general",
+          "location": 211
+        },
+        {
+          "text": "*sessions* dropping off all the all three",
+          "location": 422
+        },
+        {
+          "text": "regarding *sessions* subpoena tomorrow",
+          "location": 766
+        },
+        {
+          "text": "if *sessions* is recused from russia probe",
+          "location": 773
+        },
+        {
+          "text": "info etc how can *sessions* learn rod",
+          "location": 781
+        },
+        {
+          "text": "probe per subpoena two *sessions*",
+          "location": 788
+        },
+        {
+          "text": "carefully *sessions* tomorrow docks dock",
+          "location": 1246
+        },
+        {
+          "text": "remember *sessions* has to bring it",
+          "location": 1265
+        },
+        {
+          "text": "the d-class but apparently *sessions* is",
+          "location": 1363
+        },
+        {
+          "text": "and keep my ear out for that *sessions*",
+          "location": 1456
+        }
+      ]
+    },
+    {
+      "id": "AWlDjsuvegI",
+      "segments": [
+        {
+          "text": "grouped into the anti *sessions* remove",
+          "location": 1109
+        },
+        {
+          "text": "did not hubert in uh *sessions* that",
+          "location": 1127
+        },
+        {
+          "text": "*sessions* did not when will *sessions* when",
+          "location": 1131
+        },
+        {
+          "text": "will *sessions* who does huber work with",
+          "location": 1133
+        }
+      ]
+    },
+    {
+      "id": "axHwWgdMBDM",
+      "segments": [
+        {
+          "text": "by *sessions* we found out a testimony",
+          "location": 1215
+        },
+        {
+          "text": "*sessions* had been put out that doj",
+          "location": 1260
+        },
+        {
+          "text": "*sessions* saying hey we should take a",
+          "location": 1277
+        },
+        {
+          "text": "*sessions* did not appoint a special",
+          "location": 1565
+        },
+        {
+          "text": "*sessions* points this out in the article",
+          "location": 1592
+        },
+        {
+          "text": "limited scope but when *sessions* created",
+          "location": 1601
+        },
+        {
+          "text": "so what *sessions* did is he had huber",
+          "location": 1615
+        },
+        {
+          "text": "reported up through *sessions* and as a",
+          "location": 1631
+        },
+        {
+          "text": "that *sessions* did do is you know no",
+          "location": 1811
+        },
+        {
+          "text": "*sessions* through the doj put an end to",
+          "location": 2102
+        }
+      ]
+    },
+    {
+      "id": "ay2sBCw3H1c",
+      "segments": [
+        {
+          "text": "report *sessions* public attack rod",
+          "location": 852
+        }
+      ]
+    },
+    {
+      "id": "bHgnXTF3F-Q",
+      "segments": [
+        {
+          "text": "former attorney general jeff *sessions* to",
+          "location": 1249
+        }
+      ]
+    },
+    {
+      "id": "BpACk9-P94M",
+      "segments": [
+        {
+          "text": "*sessions* to protect the lives of our",
+          "location": 487
+        },
+        {
+          "text": "mark reconcile would *sessions* be",
+          "location": 496
+        },
+        {
+          "text": "told trust *sessions* is the solution yes",
+          "location": 666
+        },
+        {
+          "text": "do trust *sessions*",
+          "location": 677
+        },
+        {
+          "text": "rocker says what does *sessions* have a",
+          "location": 1125
+        },
+        {
+          "text": "trust the plan trust *sessions* you know",
+          "location": 1128
+        }
+      ]
+    },
+    {
+      "id": "BVosPouGqYw",
+      "segments": [
+        {
+          "text": "*sessions* on leakers fire or prosecutor",
+          "location": 778
+        },
+        {
+          "text": "remember attorney general *sessions*",
+          "location": 1270
+        }
+      ]
+    },
+    {
+      "id": "CfISqraufaE",
+      "segments": [
+        {
+          "text": "issuing a subpoena role of *sessions* to",
+          "location": 1310
+        },
+        {
+          "text": "watt nic goodlett gowdy and *sessions* all",
+          "location": 1329
+        },
+        {
+          "text": "subpoenas to *sessions* chief of staff",
+          "location": 1446
+        }
+      ]
+    },
+    {
+      "id": "ct8Lnf3AvAw",
+      "segments": [
+        {
+          "text": "attorney jeff *sessions* who remains",
+          "location": 271
+        },
+        {
+          "text": "friday *sessions* suggested that justice",
+          "location": 283
+        },
+        {
+          "text": "so trust *sessions* maybe this is from a",
+          "location": 288
+        },
+        {
+          "text": "defensiveness is not acceptable *sessions*",
+          "location": 311
+        },
+        {
+          "text": "concluded upon hearing *sessions* speech a",
+          "location": 314
+        },
+        {
+          "text": "trust *sessions* but it doesn't look like",
+          "location": 325
+        },
+        {
+          "text": "it says it is not clear if *sessions*",
+          "location": 348
+        }
+      ]
+    },
+    {
+      "id": "ctaiPYR6ttk",
+      "segments": [
+        {
+          "text": "march said jeff *sessions* testified in",
+          "location": 405
+        },
+        {
+          "text": "*sessions* sealed the leaks nothing out of",
+          "location": 479
+        }
+      ]
+    },
+    {
+      "id": "ctWPdhQ40q8",
+      "segments": [
+        {
+          "text": "listen closed *sessions* hints to trusting",
+          "location": 73
+        },
+        {
+          "text": "*sessions* may be playing for dhs right",
+          "location": 220
+        },
+        {
+          "text": "that's a *sessions* deal now remember",
+          "location": 240
+        },
+        {
+          "text": "remember ag *sessions* cannot look like an",
+          "location": 378
+        },
+        {
+          "text": "to garner support for *sessions* from the",
+          "location": 758
+        },
+        {
+          "text": "needs to not get rid of *sessions* this is",
+          "location": 771
+        },
+        {
+          "text": "really quick dare attorney *sessions*",
+          "location": 980
+        }
+      ]
+    },
+    {
+      "id": "CzhfhzlcR5E",
+      "segments": [
+        {
+          "text": "simply a picture of jeff *sessions* looks",
+          "location": 1038
+        }
+      ]
+    },
+    {
+      "id": "D3wKX57FniM",
+      "segments": [
+        {
+          "text": "remember ag *sessions* cannot look like an",
+          "location": 931
+        }
+      ]
+    },
+    {
+      "id": "DH_4-LejBsY",
+      "segments": [
+        {
+          "text": "attorney general jeff *sessions* and fbi",
+          "location": 986
+        }
+      ]
+    },
+    {
+      "id": "DKPKj1sseNo",
+      "segments": [
+        {
+          "text": "when pete *sessions* from texas",
+          "location": 1575
+        },
+        {
+          "text": "really pete *sessions* buddies these",
+          "location": 1596
+        },
+        {
+          "text": "*sessions* were letter to pompeo saying",
+          "location": 1598
+        }
+      ]
+    },
+    {
+      "id": "dxcsoemOuJc",
+      "segments": [
+        {
+          "text": "*sessions* notated as undefined past",
+          "location": 673
+        },
+        {
+          "text": "power next day on thursday *sessions*",
+          "location": 973
+        }
+      ]
+    },
+    {
+      "id": "DYcjeYgkXOY",
+      "segments": [
+        {
+          "text": "the day after the election that *sessions*",
+          "location": 612
+        },
+        {
+          "text": "rid of *sessions* and rosenstein and",
+          "location": 725
+        },
+        {
+          "text": "you jeff *sessions* thank you for your",
+          "location": 751
+        },
+        {
+          "text": "service to our country mr. jeff *sessions*",
+          "location": 754
+        },
+        {
+          "text": "*sessions* it's reasonable that he would",
+          "location": 780
+        },
+        {
+          "text": "to our country mr. *sessions* as you are",
+          "location": 784
+        },
+        {
+          "text": "your service mr. *sessions* thank you for",
+          "location": 810
+        },
+        {
+          "text": "attorney general jeff *sessions* for his",
+          "location": 856
+        },
+        {
+          "text": "hour prior to potus regarding *sessions*",
+          "location": 892
+        },
+        {
+          "text": "was trust *sessions* trust the plan what",
+          "location": 926
+        },
+        {
+          "text": "what *sessions* is gone all right so will",
+          "location": 929
+        },
+        {
+          "text": "jeff *sessions* he fired resigned fired",
+          "location": 1097
+        },
+        {
+          "text": "mr. *sessions* i still trust you",
+          "location": 1235
+        },
+        {
+          "text": "general said jeff *sessions* national",
+          "location": 1253
+        },
+        {
+          "text": "*sessions* now i don't know why everybody",
+          "location": 1669
+        },
+        {
+          "text": "saying hugh said trust *sessions* alright",
+          "location": 1670
+        },
+        {
+          "text": "what's *sessions* been doing really",
+          "location": 1684
+        }
+      ]
+    },
+    {
+      "id": "F57JWrkZS1I",
+      "segments": [
+        {
+          "text": "valuable information ag *sessions* on",
+          "location": 2218
+        }
+      ]
+    },
+    {
+      "id": "fk2ppQfB_7o",
+      "segments": [
+        {
+          "text": "alert inactive told to support *sessions*",
+          "location": 378
+        }
+      ]
+    },
+    {
+      "id": "fuDgdt7tolU",
+      "segments": [
+        {
+          "text": "nunez goudy *sessions* good lat all could",
+          "location": 406
+        },
+        {
+          "text": "role of *sessions* good luck",
+          "location": 450
+        },
+        {
+          "text": "gaudi and *sessions* all resigned good",
+          "location": 453
+        },
+        {
+          "text": "gaudi and *sessions* all resigned do you",
+          "location": 457
+        },
+        {
+          "text": "who did *sessions* appoint on november",
+          "location": 461
+        },
+        {
+          "text": "well that was *sessions* the importance of",
+          "location": 471
+        },
+        {
+          "text": "*sessions* chief of staff",
+          "location": 488
+        }
+      ]
+    },
+    {
+      "id": "fwTMg5XRc7M",
+      "segments": [
+        {
+          "text": "*sessions* trust rae 2018 will be glorious",
+          "location": 2206
+        },
+        {
+          "text": "trust *sessions* raid kansas horowitz or",
+          "location": 2217
+        },
+        {
+          "text": "that up just like we had *sessions* for a",
+          "location": 2224
+        },
+        {
+          "text": "trust *sessions* trust ray trusts kansas",
+          "location": 2368
+        }
+      ]
+    },
+    {
+      "id": "gHlzxRULGMk",
+      "segments": [
+        {
+          "text": "seth rich why why is *sessions* acting",
+          "location": 756
+        },
+        {
+          "text": "narrative ig appointed by *sessions* for",
+          "location": 771
+        },
+        {
+          "text": "all right so why is *sessions* acting weak",
+          "location": 786
+        },
+        {
+          "text": "*sessions* he said trust *sessions* a few",
+          "location": 1216
+        }
+      ]
+    },
+    {
+      "id": "GMVz0QyQYxM",
+      "segments": [
+        {
+          "text": "departure intel *sessions* departure law",
+          "location": 976
+        }
+      ]
+    },
+    {
+      "id": "GXkfdi8tJd0",
+      "segments": [
+        {
+          "text": "time his *sessions* gonna drop the hammer",
+          "location": 1155
+        }
+      ]
+    },
+    {
+      "id": "hcpXvsbEWbE",
+      "segments": [
+        {
+          "text": "cozy after that link it says *sessions*",
+          "location": 330
+        },
+        {
+          "text": "recusal question mark *sessions* senate",
+          "location": 337
+        },
+        {
+          "text": "*sessions* wasn't a threat why was he the",
+          "location": 360
+        },
+        {
+          "text": "*sessions* question mark e",
+          "location": 398
+        },
+        {
+          "text": "defending *sessions* question mark yep",
+          "location": 402
+        },
+        {
+          "text": "bloomberg *sessions* open to probe of",
+          "location": 1029
+        },
+        {
+          "text": "*sessions* is exploring a potential",
+          "location": 1035
+        },
+        {
+          "text": "hoora is intended to help *sessions*",
+          "location": 1055
+        },
+        {
+          "text": "*sessions* hasn't made up his mind about",
+          "location": 1075
+        }
+      ]
+    },
+    {
+      "id": "hCzo3d1lWwE",
+      "segments": [
+        {
+          "text": "for answers he should have had *sessions*",
+          "location": 647
+        },
+        {
+          "text": "trust *sessions* in the solution question",
+          "location": 1033
+        }
+      ]
+    },
+    {
+      "id": "Hlnd0h3mV3M",
+      "segments": [
+        {
+          "text": "and then we have *sessions* in the killer",
+          "location": 322
+        }
+      ]
+    },
+    {
+      "id": "hYFmksb07d0",
+      "segments": [
+        {
+          "text": "appointed huber *sessions* what happens if",
+          "location": 91
+        },
+        {
+          "text": "history but for trump in *sessions* to",
+          "location": 184
+        },
+        {
+          "text": "*sessions* only could secure 52 to 47 so",
+          "location": 247
+        },
+        {
+          "text": "out trumping *sessions* have to make sure",
+          "location": 277
+        },
+        {
+          "text": "secession process trump and *sessions*",
+          "location": 399
+        },
+        {
+          "text": "filled by *sessions* according to his plan",
+          "location": 514
+        }
+      ]
+    },
+    {
+      "id": "I0OTSHBfcaM",
+      "segments": [
+        {
+          "text": "out and said jeff *sessions* exposed q is",
+          "location": 1264
+        },
+        {
+          "text": "*sessions* agent of the clowns of america",
+          "location": 1269
+        },
+        {
+          "text": "habla jeff *sessions* mueller call me ray",
+          "location": 1294
+        },
+        {
+          "text": "scumbag *sessions* and fake hugh or just",
+          "location": 1318
+        }
+      ]
+    },
+    {
+      "id": "i3J_ofuCq0M",
+      "segments": [
+        {
+          "text": "*sessions* because it was originator",
+          "location": 2238
+        }
+      ]
+    },
+    {
+      "id": "I3rhKJiPcV0",
+      "segments": [
+        {
+          "text": "remember that now thank the *sessions* and",
+          "location": 884
+        }
+      ]
+    },
+    {
+      "id": "i4cyrrt39MU",
+      "segments": [
+        {
+          "text": "who appointed and tasked huber *sessions*",
+          "location": 1483
+        },
+        {
+          "text": "who appointed in task the oig *sessions*",
+          "location": 1485
+        },
+        {
+          "text": "who was the ag *sessions* zero leaks none",
+          "location": 1488
+        },
+        {
+          "text": "had *sessions* in there he was on",
+          "location": 1572
+        },
+        {
+          "text": "then that way later on if *sessions* came",
+          "location": 1579
+        }
+      ]
+    },
+    {
+      "id": "iF59Z6IAiUU",
+      "segments": [
+        {
+          "text": "*sessions* let me see if i can blast",
+          "location": 646
+        },
+        {
+          "text": "over four months before *sessions*",
+          "location": 734
+        },
+        {
+          "text": "*sessions* enjoy the show as the",
+          "location": 754
+        },
+        {
+          "text": "letter to ag *sessions* and deputy",
+          "location": 766
+        },
+        {
+          "text": "march *sessions* responded revealing that",
+          "location": 825
+        },
+        {
+          "text": "barack hussein obama fired by *sessions*",
+          "location": 857
+        },
+        {
+          "text": "*sessions* bypassing rosenstein 24 cue",
+          "location": 978
+        },
+        {
+          "text": "remember bubba huber bubba *sessions* 27",
+          "location": 1012
+        },
+        {
+          "text": "worried *sessions* resigned right i guess",
+          "location": 1052
+        },
+        {
+          "text": "*sessions* with the same mandate and",
+          "location": 1176
+        },
+        {
+          "text": "will bring severe pain to dc *sessions*",
+          "location": 1214
+        }
+      ]
+    },
+    {
+      "id": "im5Dv2nNqj8",
+      "segments": [
+        {
+          "text": "25th i believe something in *sessions*",
+          "location": 251
+        },
+        {
+          "text": "appointed huber *sessions* right well",
+          "location": 787
+        },
+        {
+          "text": "there it is *sessions* what departments",
+          "location": 789
+        }
+      ]
+    },
+    {
+      "id": "iRHLnm3z5ok",
+      "segments": [
+        {
+          "text": "we're doing here remember jeff *sessions*",
+          "location": 529
+        },
+        {
+          "text": "to be damning way trust *sessions* way i",
+          "location": 582
+        },
+        {
+          "text": "trust *sessions* anymore right because he",
+          "location": 589
+        }
+      ]
+    },
+    {
+      "id": "j4hiKMfATkg",
+      "segments": [
+        {
+          "text": "kill box ig report *sessions* public",
+          "location": 751
+        }
+      ]
+    },
+    {
+      "id": "jAEjyK8R2xk",
+      "segments": [
+        {
+          "text": "general jeff *sessions* national security",
+          "location": 887
+        },
+        {
+          "text": "general jeff *sessions* has also said us",
+          "location": 1926
+        },
+        {
+          "text": "*sessions* has also said us attorney",
+          "location": 2013
+        },
+        {
+          "text": "public opinion right *sessions* in four",
+          "location": 2131
+        },
+        {
+          "text": "*sessions* feels the charges should have",
+          "location": 2197
+        }
+      ]
+    },
+    {
+      "id": "JLFlESy1tGI",
+      "segments": [
+        {
+          "text": "written by *sessions* and when he's",
+          "location": 839
+        },
+        {
+          "text": "the letter you know jeff *sessions* wrote",
+          "location": 855
+        },
+        {
+          "text": "who was *sessions* chief of staff at the",
+          "location": 868
+        }
+      ]
+    },
+    {
+      "id": "JqJT-9QnDX4",
+      "segments": [
+        {
+          "text": "goodlet gowdy *sessions*",
+          "location": 901
+        },
+        {
+          "text": "goodlet gowdy and *sessions* all resigned",
+          "location": 903
+        },
+        {
+          "text": "*sessions* the point in november of 2017",
+          "location": 906
+        },
+        {
+          "text": "mandate resources who was *sessions* chief",
+          "location": 920
+        },
+        {
+          "text": "*sessions* by potus mandate charged to",
+          "location": 935
+        },
+        {
+          "text": "adviser to *sessions*",
+          "location": 944
+        },
+        {
+          "text": "general *sessions* on counterterrorism and",
+          "location": 1065
+        }
+      ]
+    },
+    {
+      "id": "Jvb90xAWgk8",
+      "segments": [
+        {
+          "text": "*sessions* all part of the plan didn't i",
+          "location": 116
+        },
+        {
+          "text": "the left to jeff *sessions* and then we",
+          "location": 123
+        },
+        {
+          "text": "jeff *sessions* must love him now",
+          "location": 139
+        },
+        {
+          "text": "*sessions* should appoint a second special",
+          "location": 559
+        },
+        {
+          "text": "but sec *sessions* should appoint a second",
+          "location": 564
+        },
+        {
+          "text": "huber by *sessions* and therefore the ig",
+          "location": 598
+        },
+        {
+          "text": "is not genuine but *sessions* in huber are",
+          "location": 601
+        },
+        {
+          "text": "*sessions* in the kill box but huber",
+          "location": 614
+        },
+        {
+          "text": "potus is attacking *sessions* via twitter",
+          "location": 644
+        },
+        {
+          "text": "trust *sessions* but interestingly if",
+          "location": 655
+        },
+        {
+          "text": "i'd want jeff *sessions* to stay on as",
+          "location": 763
+        },
+        {
+          "text": "blasts *sessions* in quotes all of these",
+          "location": 777
+        },
+        {
+          "text": "*sessions* david alexander trump blast",
+          "location": 819
+        },
+        {
+          "text": "*sessions* so they were putting up all",
+          "location": 823
+        },
+        {
+          "text": "*sessions* washington examiner",
+          "location": 832
+        },
+        {
+          "text": "sheffield cnn trump blasts *sessions*",
+          "location": 859
+        },
+        {
+          "text": "tell everybody how you want *sessions* in",
+          "location": 869
+        }
+      ]
+    },
+    {
+      "id": "jW96-WGef_A",
+      "segments": [
+        {
+          "text": "hired by *sessions*",
+          "location": 1678
+        },
+        {
+          "text": "why isn't *sessions* doing anything why",
+          "location": 1707
+        }
+      ]
+    },
+    {
+      "id": "KbneA0K0N24",
+      "segments": [
+        {
+          "text": "covert link think *sessions* open",
+          "location": 1188
+        }
+      ]
+    },
+    {
+      "id": "kEcJKTb5XVs",
+      "segments": [
+        {
+          "text": "miss court *sessions* she also has broken",
+          "location": 833
+        }
+      ]
+    },
+    {
+      "id": "KEDZQ5XW-qM",
+      "segments": [
+        {
+          "text": "here says trust *sessions* trust ray",
+          "location": 317
+        },
+        {
+          "text": "*sessions* appointed a us attorney from",
+          "location": 697
+        },
+        {
+          "text": "during the 2016 election *sessions* an fbi",
+          "location": 713
+        }
+      ]
+    },
+    {
+      "id": "KVM6KUrOVvQ",
+      "segments": [
+        {
+          "text": "leakers guys the trust *sessions* deal",
+          "location": 673
+        },
+        {
+          "text": "right his *sessions* a good guy is he a",
+          "location": 676
+        },
+        {
+          "text": "*sessions* and what he's doing has no",
+          "location": 701
+        },
+        {
+          "text": "would entertain the fact that *sessions*",
+          "location": 714
+        }
+      ]
+    },
+    {
+      "id": "kWwNGy2rC9o",
+      "segments": [
+        {
+          "text": "jeff *sessions* to probe alleged",
+          "location": 103
+        },
+        {
+          "text": "right up their sleeve *sessions* appointed",
+          "location": 190
+        },
+        {
+          "text": "*sessions* last week whitaker who has",
+          "location": 521
+        }
+      ]
+    },
+    {
+      "id": "L99bHnNivtk",
+      "segments": [
+        {
+          "text": "there's evidence to that jeff *sessions*",
+          "location": 34
+        },
+        {
+          "text": "been missed *sessions* said wednesday he",
+          "location": 41
+        },
+        {
+          "text": "employees write *sessions* said sat sunday",
+          "location": 47
+        },
+        {
+          "text": "capped stopped by *sessions* now also",
+          "location": 61
+        },
+        {
+          "text": "breitbart turley says *sessions* using",
+          "location": 448
+        },
+        {
+          "text": "about attorney general jeff *sessions*",
+          "location": 469
+        },
+        {
+          "text": "now remember *sessions* sent a letter and",
+          "location": 495
+        },
+        {
+          "text": "queue posts so *sessions* sent a letter to",
+          "location": 512
+        },
+        {
+          "text": "gonna talk about *sessions* a little bit",
+          "location": 580
+        },
+        {
+          "text": "this now what is *sessions* specifically",
+          "location": 619
+        },
+        {
+          "text": "for jeff *sessions* recusal violations",
+          "location": 689
+        },
+        {
+          "text": "cover everything up once *sessions*",
+          "location": 717
+        },
+        {
+          "text": "coming out *sessions* public attack rod",
+          "location": 741
+        }
+      ]
+    },
+    {
+      "id": "L9iHVWO-gUs",
+      "segments": [
+        {
+          "text": "instruct attorney general jeff *sessions*",
+          "location": 1394
+        },
+        {
+          "text": "general jeff *sessions* to immediately",
+          "location": 1646
+        },
+        {
+          "text": "guys if trust *sessions* has been a",
+          "location": 1654
+        },
+        {
+          "text": "*sessions* if we put all the queue posts",
+          "location": 1665
+        },
+        {
+          "text": "time jeff *sessions* was there and he was",
+          "location": 1691
+        },
+        {
+          "text": "bow fix the bow because jeff *sessions*",
+          "location": 1705
+        },
+        {
+          "text": "*sessions* one because people have hate",
+          "location": 1727
+        },
+        {
+          "text": "why did *sessions* recuse what are the",
+          "location": 1860
+        }
+      ]
+    },
+    {
+      "id": "lKMKTF21Izc",
+      "segments": [
+        {
+          "text": "recess according to law joint *sessions*",
+          "location": 756
+        },
+        {
+          "text": "and senate these *sessions* include the",
+          "location": 766
+        }
+      ]
+    },
+    {
+      "id": "Ll66PRHokQo",
+      "segments": [
+        {
+          "text": "were told to trust *sessions* rae kansas",
+          "location": 715
+        },
+        {
+          "text": "turley *sessions* using charlie's writing",
+          "location": 760
+        },
+        {
+          "text": "assessment *sessions* *sessions* using utah",
+          "location": 763
+        },
+        {
+          "text": "horowitz or *sessions* if he was in the",
+          "location": 795
+        }
+      ]
+    },
+    {
+      "id": "lREbK2wmUtw",
+      "segments": [
+        {
+          "text": "punda they're assuming that *sessions* is",
+          "location": 1154
+        },
+        {
+          "text": "attorney general *sessions* had asked him",
+          "location": 1177
+        },
+        {
+          "text": "*sessions* did nothing for two years under",
+          "location": 1234
+        }
+      ]
+    },
+    {
+      "id": "Lt4ZWuQXOMU",
+      "segments": [
+        {
+          "text": "ag *sessions* who must approve the firing",
+          "location": 130
+        },
+        {
+          "text": "dismissal of doj officials *sessions*",
+          "location": 133
+        },
+        {
+          "text": "more on pipe if *sessions* in ray rdc",
+          "location": 150
+        },
+        {
+          "text": "what was *sessions* senate confirmation",
+          "location": 211
+        },
+        {
+          "text": "common denominator why did *sessions* pick",
+          "location": 234
+        },
+        {
+          "text": "why did *sessions* reveal huber timing is",
+          "location": 314
+        },
+        {
+          "text": "not say *sessions* is outright defiant of",
+          "location": 495
+        },
+        {
+          "text": "ray of light wra why trust *sessions* it",
+          "location": 773
+        }
+      ]
+    },
+    {
+      "id": "lyVm8IL9agw",
+      "segments": [
+        {
+          "text": "messages he alerted the ag jeff *sessions*",
+          "location": 344
+        },
+        {
+          "text": "attorney general jeff *sessions* and rod",
+          "location": 395
+        },
+        {
+          "text": "2017 horowitz *sessions* in rosenstein",
+          "location": 410
+        },
+        {
+          "text": "had no idea horowitz *sessions* and",
+          "location": 439
+        },
+        {
+          "text": "horowitz *sessions* in rosenstein four",
+          "location": 976
+        }
+      ]
+    },
+    {
+      "id": "m0Q0wjturig",
+      "segments": [
+        {
+          "text": "installed post *sessions* departure and",
+          "location": 437
+        },
+        {
+          "text": "*sessions* departure about forty fifty",
+          "location": 448
+        },
+        {
+          "text": "about yet right like *sessions* it kind of",
+          "location": 2025
+        }
+      ]
+    },
+    {
+      "id": "M9z_2C08vO0",
+      "segments": [
+        {
+          "text": "week right with *sessions* and all these",
+          "location": 403
+        }
+      ]
+    },
+    {
+      "id": "mELNZujblCw",
+      "segments": [
+        {
+          "text": "attorney general member we had *sessions*",
+          "location": 1420
+        },
+        {
+          "text": "*sessions* was actually doing other things",
+          "location": 1427
+        }
+      ]
+    },
+    {
+      "id": "Mvu_Tfn3mVA",
+      "segments": [
+        {
+          "text": "unfortunately why did *sessions* and then",
+          "location": 229
+        },
+        {
+          "text": "all right so why does *sessions*",
+          "location": 261
+        },
+        {
+          "text": "believe *sessions* in the long run is",
+          "location": 276
+        }
+      ]
+    },
+    {
+      "id": "NAGmEcfq2U0",
+      "segments": [
+        {
+          "text": "hired by *sessions* to look into all this",
+          "location": 1457
+        }
+      ]
+    },
+    {
+      "id": "NbrnyPtVF1A",
+      "segments": [
+        {
+          "text": "direction and oversight of ag *sessions*",
+          "location": 72
+        },
+        {
+          "text": "direction of jeff *sessions* well he was",
+          "location": 83
+        }
+      ]
+    },
+    {
+      "id": "neDSIJscdS8",
+      "segments": [
+        {
+          "text": "*sessions* appointed hubert to review not",
+          "location": 858
+        }
+      ]
+    },
+    {
+      "id": "nn9GfBgPdlA",
+      "segments": [
+        {
+          "text": "couldn't do that with *sessions* before",
+          "location": 801
+        },
+        {
+          "text": "and i'm like what ref *sessions* and all",
+          "location": 803
+        },
+        {
+          "text": "to come forward with *sessions* being in",
+          "location": 807
+        }
+      ]
+    },
+    {
+      "id": "nRJljCpC1zU",
+      "segments": [
+        {
+          "text": "do you trust *sessions* boom hmm do you",
+          "location": 39
+        }
+      ]
+    },
+    {
+      "id": "ob2pqqwGzJc",
+      "segments": [
+        {
+          "text": "*sessions* to investigate fisa abuses by",
+          "location": 1064
+        }
+      ]
+    },
+    {
+      "id": "oOmcvPdqGcY",
+      "segments": [
+        {
+          "text": "new one it says trust *sessions*",
+          "location": 35
+        },
+        {
+          "text": "alright so trust *sessions* again he says",
+          "location": 114
+        }
+      ]
+    },
+    {
+      "id": "oqWCfr0jN3Q",
+      "segments": [
+        {
+          "text": "*sessions* potus prioritizing the removal",
+          "location": 1386
+        }
+      ]
+    },
+    {
+      "id": "P9hR-iNR2eE",
+      "segments": [
+        {
+          "text": "*sessions* and pre whittaker assumption",
+          "location": 340
+        }
+      ]
+    },
+    {
+      "id": "Pd42k6l0BOY",
+      "segments": [
+        {
+          "text": "training *sessions* session fbi agents say",
+          "location": 1171
+        }
+      ]
+    },
+    {
+      "id": "PgWXixHr8i0",
+      "segments": [
+        {
+          "text": "*sessions* publicly announce regarding",
+          "location": 504
+        },
+        {
+          "text": "fullest of his ability why did *sessions*",
+          "location": 509
+        }
+      ]
+    },
+    {
+      "id": "pgZ_c02-7XY",
+      "segments": [
+        {
+          "text": "rosenstein *sessions* the possibility of",
+          "location": 808
+        },
+        {
+          "text": "rosenstein and *sessions* and talked to",
+          "location": 1240
+        },
+        {
+          "text": "referred that wrote *sessions* said huber",
+          "location": 2694
+        },
+        {
+          "text": "*sessions* told us about huber and huber",
+          "location": 2859
+        }
+      ]
+    },
+    {
+      "id": "piclzeZJadE",
+      "segments": [
+        {
+          "text": "*sessions* being out of it witek taker has",
+          "location": 153
+        },
+        {
+          "text": "and he has been very close to *sessions*",
+          "location": 670
+        },
+        {
+          "text": "with *sessions* and his involvement with",
+          "location": 678
+        }
+      ]
+    },
+    {
+      "id": "Q4BzmR9UHIQ",
+      "segments": [
+        {
+          "text": "*sessions* once condemned russia's rising",
+          "location": 154
+        },
+        {
+          "text": "today mr. *sessions* is a lawyer for one",
+          "location": 161
+        }
+      ]
+    },
+    {
+      "id": "Q4ImyzwBy9g",
+      "segments": [
+        {
+          "text": "*sessions* public announcement regarding",
+          "location": 113
+        }
+      ]
+    },
+    {
+      "id": "qdRYf3N08UY",
+      "segments": [
+        {
+          "text": "turley *sessions* using utah federal",
+          "location": 290
+        },
+        {
+          "text": "they have how *sessions* had hired huber",
+          "location": 297
+        },
+        {
+          "text": "ig to huber who appointed huber *sessions*",
+          "location": 445
+        },
+        {
+          "text": "*sessions* hired huber and he's you know",
+          "location": 463
+        }
+      ]
+    },
+    {
+      "id": "qe4v8LGob4Y",
+      "segments": [
+        {
+          "text": "outside of dc assigned by *sessions* with",
+          "location": 945
+        }
+      ]
+    },
+    {
+      "id": "qmdFYiXPY18",
+      "segments": [
+        {
+          "text": "your predecessor jeff *sessions*",
+          "location": 629
+        },
+        {
+          "text": "leaks under *sessions* tenure the",
+          "location": 652
+        }
+      ]
+    },
+    {
+      "id": "QrBVmjRpJwI",
+      "segments": [
+        {
+          "text": "rosenstein is gonna be gone *sessions* are",
+          "location": 665
+        }
+      ]
+    },
+    {
+      "id": "Qse6ME4Tfec",
+      "segments": [
+        {
+          "text": "government secrets mr. *sessions* is",
+          "location": 409
+        }
+      ]
+    },
+    {
+      "id": "RBHQL96deP4",
+      "segments": [
+        {
+          "text": "*sessions* appointed us attorney john",
+          "location": 97
+        }
+      ]
+    },
+    {
+      "id": "rJdqcsQ0QP0",
+      "segments": [
+        {
+          "text": "big-league politics here's jeff *sessions*",
+          "location": 47
+        },
+        {
+          "text": "here's why jeff *sessions* might be",
+          "location": 111
+        },
+        {
+          "text": "jeff *sessions* elegant counter-coup in",
+          "location": 119
+        },
+        {
+          "text": "off that *sessions* deal",
+          "location": 134
+        },
+        {
+          "text": "*sessions* recused himself on any existing",
+          "location": 140
+        },
+        {
+          "text": "surprise in fact *sessions* inherited an",
+          "location": 191
+        },
+        {
+          "text": "the very moment *sessions* uttered those",
+          "location": 208
+        },
+        {
+          "text": "the administration jeff *sessions* knew",
+          "location": 235
+        },
+        {
+          "text": "exactly when the plan came to *sessions*",
+          "location": 240
+        },
+        {
+          "text": "both trump and *sessions* after the",
+          "location": 244
+        },
+        {
+          "text": "constituted american election *sessions*",
+          "location": 251
+        },
+        {
+          "text": "misspelled here *sessions* personally",
+          "location": 262
+        },
+        {
+          "text": "quickly if it took *sessions* any longer",
+          "location": 288
+        },
+        {
+          "text": "department of justice *sessions* could not",
+          "location": 324
+        },
+        {
+          "text": "in short *sessions* could not personally",
+          "location": 339
+        },
+        {
+          "text": "isn't that nice throughout 2017 *sessions*",
+          "location": 401
+        },
+        {
+          "text": "of *sessions* counter-coup began to leak",
+          "location": 440
+        },
+        {
+          "text": "out often from *sessions* himself in the",
+          "location": 442
+        },
+        {
+          "text": "next in january *sessions* announced that",
+          "location": 454
+        },
+        {
+          "text": "*sessions* that there not only was a",
+          "location": 493
+        },
+        {
+          "text": "uncovering which obviously *sessions* knew",
+          "location": 499
+        },
+        {
+          "text": "about but that *sessions* named the",
+          "location": 501
+        },
+        {
+          "text": "but the most obtuse that *sessions* had",
+          "location": 514
+        },
+        {
+          "text": "*sessions* presented image of being out of",
+          "location": 563
+        },
+        {
+          "text": "the way *sessions* would add here you go",
+          "location": 594
+        },
+        {
+          "text": "from early 2017 jeff *sessions* realized",
+          "location": 601
+        },
+        {
+          "text": "*sessions* cannot be perceived as leading",
+          "location": 719
+        },
+        {
+          "text": "out better than *sessions* could have",
+          "location": 723
+        },
+        {
+          "text": "after a public standoff *sessions*",
+          "location": 745
+        },
+        {
+          "text": "stipulated slowly but surely *sessions*",
+          "location": 794
+        },
+        {
+          "text": "jeff trust *sessions* guys i've been",
+          "location": 818
+        },
+        {
+          "text": "trusting *sessions* i do have my questions",
+          "location": 821
+        },
+        {
+          "text": "today that *sessions* is saying all right",
+          "location": 1000
+        }
+      ]
+    },
+    {
+      "id": "rMQCT25EfEs",
+      "segments": [
+        {
+          "text": "trust *sessions* trust ray trust kansas",
+          "location": 448
+        },
+        {
+          "text": "*sessions* been underway oh yeah",
+          "location": 522
+        },
+        {
+          "text": "*sessions* is reporting to congress the",
+          "location": 1194
+        }
+      ]
+    },
+    {
+      "id": "rvNVbjFQH-o",
+      "segments": [
+        {
+          "text": "so i'm congress is too jeff *sessions*",
+          "location": 151
+        }
+      ]
+    },
+    {
+      "id": "rWW48Wpg5HA",
+      "segments": [
+        {
+          "text": "*sessions* probed some justice department",
+          "location": 535
+        },
+        {
+          "text": "former attorney general jeff *sessions* in",
+          "location": 547
+        },
+        {
+          "text": "case against *sessions* was eventually",
+          "location": 558
+        }
+      ]
+    },
+    {
+      "id": "RXfO2VclQGI",
+      "segments": [
+        {
+          "text": "once we found out that jeff *sessions*",
+          "location": 770
+        }
+      ]
+    },
+    {
+      "id": "rZtPca6s96Y",
+      "segments": [
+        {
+          "text": "through the whole process of *sessions*",
+          "location": 653
+        }
+      ]
+    },
+    {
+      "id": "s4qifyO_Ho4",
+      "segments": [
+        {
+          "text": "*sessions* got dropped so many people and",
+          "location": 117
+        },
+        {
+          "text": "*sessions* goodlet gowdy and *sessions* all",
+          "location": 262
+        },
+        {
+          "text": "good let gaudi in *sessions* all resigned",
+          "location": 267
+        },
+        {
+          "text": "who did *sessions* appointed in november",
+          "location": 271
+        },
+        {
+          "text": "question mark who was *sessions* chief of",
+          "location": 339
+        },
+        {
+          "text": "*sessions* by potus you guys remember the",
+          "location": 447
+        },
+        {
+          "text": "*sessions*",
+          "location": 463
+        },
+        {
+          "text": "to go with *sessions* and what i would add",
+          "location": 495
+        },
+        {
+          "text": "*sessions* the 2018 midterms and the",
+          "location": 683
+        },
+        {
+          "text": "after *sessions* left it's hilarious but",
+          "location": 746
+        },
+        {
+          "text": "what happened *sessions* is out of the way",
+          "location": 951
+        }
+      ]
+    },
+    {
+      "id": "s61iV9hbSRI",
+      "segments": [
+        {
+          "text": "you jeff *sessions* and it's behind a",
+          "location": 701
+        },
+        {
+          "text": "*sessions* props for hiring huber rather",
+          "location": 707
+        }
+      ]
+    },
+    {
+      "id": "sa0om_BBv3A",
+      "segments": [
+        {
+          "text": "january 14th of this year trust *sessions*",
+          "location": 36
+        }
+      ]
+    },
+    {
+      "id": "SbMv9mrXatk",
+      "segments": [
+        {
+          "text": "says attorney general jeff *sessions*",
+          "location": 611
+        },
+        {
+          "text": "general jeff *sessions* appoints utah us",
+          "location": 627
+        },
+        {
+          "text": "generals advisory committee *sessions*",
+          "location": 634
+        },
+        {
+          "text": "but *sessions* should appoint a second",
+          "location": 667
+        },
+        {
+          "text": "huber bye *sessions* and therefore the ig",
+          "location": 702
+        },
+        {
+          "text": "but *sessions* in huber are following",
+          "location": 706
+        },
+        {
+          "text": "fire *sessions* in the kill box but huber",
+          "location": 719
+        },
+        {
+          "text": "but potus is attacking *sessions* via",
+          "location": 751
+        },
+        {
+          "text": "love trust *sessions* remember like i said",
+          "location": 762
+        },
+        {
+          "text": "to back *sessions* before he pulls out the",
+          "location": 768
+        },
+        {
+          "text": "*sessions* card right but interestingly if",
+          "location": 771
+        },
+        {
+          "text": "that's right *sessions* is and *sessions* is",
+          "location": 791
+        },
+        {
+          "text": "because president trump and *sessions*",
+          "location": 866
+        },
+        {
+          "text": "time trust *sessions* we know what they",
+          "location": 877
+        },
+        {
+          "text": "ago regarding *sessions* you know and his",
+          "location": 882
+        }
+      ]
+    },
+    {
+      "id": "sbtKWPTkyTQ",
+      "segments": [
+        {
+          "text": "they have people above them *sessions* has",
+          "location": 110
+        }
+      ]
+    },
+    {
+      "id": "sIG-J8EARa0",
+      "segments": [
+        {
+          "text": "we had ms-13 *sessions* were tied to",
+          "location": 2985
+        }
+      ]
+    },
+    {
+      "id": "SS7s22Fnxms",
+      "segments": [
+        {
+          "text": "revealed by *sessions* in parentheses",
+          "location": 1716
+        }
+      ]
+    },
+    {
+      "id": "sZEDu22LOic",
+      "segments": [
+        {
+          "text": "*sessions* expect a lot more to become",
+          "location": 62
+        },
+        {
+          "text": "months ago did you *sessions* did it",
+          "location": 91
+        }
+      ]
+    },
+    {
+      "id": "TF52s3GOJFE",
+      "segments": [
+        {
+          "text": "attorney general jeff *sessions* to curb",
+          "location": 240
+        },
+        {
+          "text": "goodlett role of gowdy role of *sessions*",
+          "location": 1217
+        },
+        {
+          "text": "goodlett gowdy and *sessions* all resigned",
+          "location": 1220
+        },
+        {
+          "text": "goodlett gowdy and *sessions* all resigned",
+          "location": 1224
+        },
+        {
+          "text": "who did *sessions* a point in november of",
+          "location": 1227
+        },
+        {
+          "text": "horowitz who was *sessions* chief of staff",
+          "location": 1257
+        },
+        {
+          "text": "*sessions* chief of staff what is the role",
+          "location": 1265
+        },
+        {
+          "text": "assigned directly to *sessions* by potus",
+          "location": 1295
+        },
+        {
+          "text": "*sessions*",
+          "location": 1307
+        },
+        {
+          "text": "*sessions* on counterintelligence and",
+          "location": 1384
+        },
+        {
+          "text": "advising mr. *sessions* on",
+          "location": 1415
+        },
+        {
+          "text": "government secrets mr. *sessions* is",
+          "location": 1432
+        }
+      ]
+    },
+    {
+      "id": "tKMjx-IaKCU",
+      "segments": [
+        {
+          "text": "jeff *sessions* he would quote examine the",
+          "location": 991
+        }
+      ]
+    },
+    {
+      "id": "tsqysbA1Sqo",
+      "segments": [
+        {
+          "text": "stuff that was coming out from *sessions*",
+          "location": 267
+        },
+        {
+          "text": "then i got another one from *sessions* he",
+          "location": 2436
+        },
+        {
+          "text": "that is the jeff *sessions* came out and",
+          "location": 2461
+        }
+      ]
+    },
+    {
+      "id": "tUv6KIiNY0A",
+      "segments": [
+        {
+          "text": "*sessions* subpoena over to mccabe memos",
+          "location": 540
+        },
+        {
+          "text": "release it but remember *sessions* last",
+          "location": 1554
+        }
+      ]
+    },
+    {
+      "id": "TVjx2ooENfg",
+      "segments": [
+        {
+          "text": "got to give it to jeff *sessions* he put",
+          "location": 93
+        }
+      ]
+    },
+    {
+      "id": "TwH-91D_4cA",
+      "segments": [
+        {
+          "text": "to jeff *sessions* contacting you",
+          "location": 1362
+        }
+      ]
+    },
+    {
+      "id": "tXKoS9V8ydU",
+      "segments": [
+        {
+          "text": "a few comments *sessions* back and forth",
+          "location": 829
+        }
+      ]
+    },
+    {
+      "id": "U_GsF_n_WbQ",
+      "segments": [
+        {
+          "text": "we got china and *sessions* gonna come up",
+          "location": 28
+        }
+      ]
+    },
+    {
+      "id": "u3FYvlb2EiI",
+      "segments": [
+        {
+          "text": "hosting a series of listening *sessions*",
+          "location": 1423
+        }
+      ]
+    },
+    {
+      "id": "ulfINyPBJkk",
+      "segments": [
+        {
+          "text": "planning session in debriefing *sessions*",
+          "location": 1559
+        },
+        {
+          "text": "briefing *sessions* following the",
+          "location": 1602
+        }
+      ]
+    },
+    {
+      "id": "UOUMoG1AXro",
+      "segments": [
+        {
+          "text": "evidence trump in *sessions* warned of",
+          "location": 695
+        },
+        {
+          "text": "maximum criminal penalties *sessions* said",
+          "location": 714
+        },
+        {
+          "text": "18 trust *sessions* haha tgd trey gowdy",
+          "location": 1066
+        },
+        {
+          "text": "anticipating that *sessions* would be",
+          "location": 1234
+        },
+        {
+          "text": "*sessions* successor with the president at",
+          "location": 1253
+        }
+      ]
+    },
+    {
+      "id": "uVpLuuIxjSw",
+      "segments": [
+        {
+          "text": "*sessions* gonna be coming back he's",
+          "location": 617
+        },
+        {
+          "text": "to resign or be fired by mr. *sessions*",
+          "location": 653
+        }
+      ]
+    },
+    {
+      "id": "Uyc7XcOLvSc",
+      "segments": [
+        {
+          "text": "right trust who *sessions*",
+          "location": 267
+        }
+      ]
+    },
+    {
+      "id": "v_5EKGmNPW4",
+      "segments": [
+        {
+          "text": "*sessions* using utah federal prosecutor",
+          "location": 828
+        },
+        {
+          "text": "closed *sessions* hints to trust the plan",
+          "location": 1954
+        },
+        {
+          "text": "from the attorney general jeff *sessions*",
+          "location": 1970
+        },
+        {
+          "text": "just trust *sessions* he's really doing",
+          "location": 2091
+        }
+      ]
+    },
+    {
+      "id": "V-fa3I5dJFQ",
+      "segments": [
+        {
+          "text": "former boss jeff *sessions* recused",
+          "location": 830
+        }
+      ]
+    },
+    {
+      "id": "V3KIFqANBfU",
+      "segments": [
+        {
+          "text": "28th 2017 after *sessions* our stealth",
+          "location": 811
+        },
+        {
+          "text": "*sessions* still trust *sessions* you know",
+          "location": 839
+        },
+        {
+          "text": "that *sessions* can carry enough weight to",
+          "location": 874
+        },
+        {
+          "text": "trying to work with *sessions* thinking",
+          "location": 920
+        }
+      ]
+    },
+    {
+      "id": "vcCJ0CDPkzk",
+      "segments": [
+        {
+          "text": "activated by *sessions* believe it was 23",
+          "location": 676
+        },
+        {
+          "text": "horowitz was whittaker who was *sessions*",
+          "location": 701
+        }
+      ]
+    },
+    {
+      "id": "vd39QLgNNH4",
+      "segments": [
+        {
+          "text": "just like they said trust *sessions* i",
+          "location": 944
+        },
+        {
+          "text": "the left attached to jeff *sessions* and",
+          "location": 950
+        },
+        {
+          "text": "jeff *sessions* resigned on wednesday i",
+          "location": 956
+        },
+        {
+          "text": "jeff *sessions* thomas paine with true",
+          "location": 980
+        },
+        {
+          "text": "talking about *sessions* resigning so i",
+          "location": 995
+        },
+        {
+          "text": "gonna get into the *sessions* thing and",
+          "location": 1006
+        },
+        {
+          "text": "*sessions* need to go *sessions* need to go",
+          "location": 1036
+        },
+        {
+          "text": "and now *sessions* need to stay *sessions*",
+          "location": 1038
+        },
+        {
+          "text": "support *sessions* and want him to stay in",
+          "location": 1050
+        },
+        {
+          "text": "of *sessions* you know you guys seen of",
+          "location": 1093
+        },
+        {
+          "text": "woke up after *sessions* had been let go",
+          "location": 1103
+        },
+        {
+          "text": "since *sessions* has gone and you guys are",
+          "location": 1137
+        },
+        {
+          "text": "to embrace *sessions* you know and get the",
+          "location": 1160
+        },
+        {
+          "text": "moved into the *sessions* because if we're",
+          "location": 1200
+        },
+        {
+          "text": "so as chief of staff to jeff *sessions* he",
+          "location": 1416
+        },
+        {
+          "text": "than jeff *sessions* is a much more vocal",
+          "location": 1442
+        },
+        {
+          "text": "*sessions* to be his chief of staff i did",
+          "location": 1824
+        },
+        {
+          "text": "*sessions* no social contact all right sir",
+          "location": 1833
+        },
+        {
+          "text": "that the day after the election *sessions*",
+          "location": 1922
+        },
+        {
+          "text": "comment itself well why would *sessions*",
+          "location": 1933
+        },
+        {
+          "text": "post trust *sessions* and we kind of",
+          "location": 1943
+        },
+        {
+          "text": "narrative with trust *sessions* and",
+          "location": 1952
+        },
+        {
+          "text": "said that so think *sessions* was",
+          "location": 2018
+        },
+        {
+          "text": "stealth *sessions* it was very important",
+          "location": 2025
+        },
+        {
+          "text": "were planning to do and *sessions* was",
+          "location": 2040
+        },
+        {
+          "text": "needed *sessions* to do other things",
+          "location": 2049
+        },
+        {
+          "text": "*sessions* got going on other things and",
+          "location": 2051
+        },
+        {
+          "text": "reported directly to *sessions* we have",
+          "location": 2058
+        },
+        {
+          "text": "for *sessions* as the national security",
+          "location": 2066
+        },
+        {
+          "text": "with *sessions*",
+          "location": 2077
+        },
+        {
+          "text": "jeff *sessions* sometimes in business",
+          "location": 2095
+        },
+        {
+          "text": "organization so *sessions* can step down",
+          "location": 2121
+        },
+        {
+          "text": "you know he *sessions* was part of trumps",
+          "location": 2174
+        },
+        {
+          "text": "same message to jeff *sessions*",
+          "location": 2271
+        },
+        {
+          "text": "somewhere that jeff *sessions* is former",
+          "location": 2297
+        },
+        {
+          "text": "*sessions* can also be reactivated and",
+          "location": 2303
+        },
+        {
+          "text": "fully agree with *sessions* having to do",
+          "location": 2314
+        },
+        {
+          "text": "this all right we have *sessions* out of",
+          "location": 2493
+        }
+      ]
+    },
+    {
+      "id": "VFWWzYpJ3vw",
+      "segments": [
+        {
+          "text": "interviewed *sessions* and a doj",
+          "location": 255
+        },
+        {
+          "text": "began emphasizing this when ag *sessions*",
+          "location": 459
+        }
+      ]
+    },
+    {
+      "id": "VgBeVe-cudA",
+      "segments": [
+        {
+          "text": "out from *sessions* in the middle of",
+          "location": 907
+        }
+      ]
+    },
+    {
+      "id": "VKk8ZZmxM68",
+      "segments": [
+        {
+          "text": "telling how he referenced *sessions* he",
+          "location": 2375
+        }
+      ]
+    },
+    {
+      "id": "VnBar3klKuM",
+      "segments": [
+        {
+          "text": "have *sessions* bringing those three sets",
+          "location": 1076
+        }
+      ]
+    },
+    {
+      "id": "vO0Voa_Lisw",
+      "segments": [
+        {
+          "text": "rosenstein and jeff *sessions* and it's",
+          "location": 2923
+        },
+        {
+          "text": "this the response *sessions* writing back",
+          "location": 2937
+        },
+        {
+          "text": "for jeff *sessions* behind the scenes and",
+          "location": 2991
+        },
+        {
+          "text": "article turley *sessions* using utah",
+          "location": 3009
+        }
+      ]
+    },
+    {
+      "id": "VQGp5UP7QUk",
+      "segments": [
+        {
+          "text": "letter to *sessions* from grassley he says",
+          "location": 26
+        }
+      ]
+    },
+    {
+      "id": "W1FejBQxNzQ",
+      "segments": [
+        {
+          "text": "*sessions* because he is actually acting",
+          "location": 1093
+        }
+      ]
+    },
+    {
+      "id": "W4W0lYqJc68",
+      "segments": [
+        {
+          "text": "majorities back mueller in *sessions* okay",
+          "location": 149
+        },
+        {
+          "text": "alert inactive told to support *sessions*",
+          "location": 232
+        },
+        {
+          "text": "told to support *sessions* not really",
+          "location": 251
+        },
+        {
+          "text": "and as like listen *sessions* is you know",
+          "location": 263
+        },
+        {
+          "text": "really build up the support for *sessions*",
+          "location": 266
+        },
+        {
+          "text": "*sessions* did not blah blah blah blah",
+          "location": 493
+        },
+        {
+          "text": "people are saying oh *sessions* isn't",
+          "location": 1026
+        },
+        {
+          "text": "look at the *sessions* in the middle there",
+          "location": 1283
+        }
+      ]
+    },
+    {
+      "id": "wAdcvMuRPgE",
+      "segments": [
+        {
+          "text": "all together talking about the *sessions*",
+          "location": 458
+        }
+      ]
+    },
+    {
+      "id": "WajmcB3KCbY",
+      "segments": [
+        {
+          "text": "*sessions* appointing utah federal",
+          "location": 245
+        },
+        {
+          "text": "second special counsel mr. *sessions*",
+          "location": 251
+        },
+        {
+          "text": "about attorney jeff *sessions* decision to",
+          "location": 268
+        },
+        {
+          "text": "how *sessions* isn't doing anything and",
+          "location": 335
+        },
+        {
+          "text": "and *sessions* is recused so he can't do",
+          "location": 340
+        },
+        {
+          "text": "*sessions* sent a letter to the house",
+          "location": 454
+        },
+        {
+          "text": "why *sessions* isn't doing anything why",
+          "location": 487
+        },
+        {
+          "text": "*sessions* will not appoint a second",
+          "location": 529
+        },
+        {
+          "text": "turley explained that *sessions* has",
+          "location": 540
+        },
+        {
+          "text": "*sessions* informed congress in his letter",
+          "location": 550
+        },
+        {
+          "text": "as *sessions* march 29 letter explains the",
+          "location": 586
+        },
+        {
+          "text": "*sessions* added in his letter which means",
+          "location": 641
+        },
+        {
+          "text": "says i think *sessions* did the right",
+          "location": 652
+        },
+        {
+          "text": "listen to general *sessions* on this one",
+          "location": 656
+        },
+        {
+          "text": "*sessions* quote can always appoint a",
+          "location": 658
+        },
+        {
+          "text": "move by *sessions* what did he what he did",
+          "location": 682
+        },
+        {
+          "text": "be running the doj now that *sessions* is",
+          "location": 1420
+        }
+      ]
+    },
+    {
+      "id": "WJoq6-kEdxU",
+      "segments": [
+        {
+          "text": "jeff *sessions* until president donald",
+          "location": 1261
+        },
+        {
+          "text": "*sessions* that he should recuse why",
+          "location": 1989
+        }
+      ]
+    },
+    {
+      "id": "WSkWQskVZIg",
+      "segments": [
+        {
+          "text": "*sessions* on october 28th 2017 as interim",
+          "location": 661
+        }
+      ]
+    },
+    {
+      "id": "wYDsgBWrQIc",
+      "segments": [
+        {
+          "text": "either admiral rogers *sessions* of flynn",
+          "location": 2362
+        },
+        {
+          "text": "attorney general jeff *sessions* will",
+          "location": 2826
+        }
+      ]
+    },
+    {
+      "id": "x2OGExAn9vw",
+      "segments": [
+        {
+          "text": "from the jeff *sessions* quote justice",
+          "location": 202
+        },
+        {
+          "text": "*sessions* and rod rosenstein the deputy",
+          "location": 455
+        }
+      ]
+    },
+    {
+      "id": "x9wG6ZuqJRE",
+      "segments": [
+        {
+          "text": "happened well we find out jeff *sessions*",
+          "location": 248
+        },
+        {
+          "text": "*sessions* you know so do we have more",
+          "location": 382
+        }
+      ]
+    },
+    {
+      "id": "Xb08NOyakJQ",
+      "segments": [
+        {
+          "text": "so what was *sessions* and rosenstein",
+          "location": 69
+        },
+        {
+          "text": "one's for *sessions* 52 to 47 that's",
+          "location": 75
+        },
+        {
+          "text": "state in that *sessions* is not and it",
+          "location": 100
+        },
+        {
+          "text": "mentioned the fact that *sessions* has a",
+          "location": 1053
+        },
+        {
+          "text": "effect of oh so *sessions* has a and he",
+          "location": 1102
+        }
+      ]
+    },
+    {
+      "id": "xCIWCSaCdmA",
+      "segments": [
+        {
+          "text": "happen with *sessions* tomorrow as far as",
+          "location": 177
+        },
+        {
+          "text": "here do you trust *sessions* boom so",
+          "location": 188
+        },
+        {
+          "text": "trust *sessions* boom can't be 100% sure",
+          "location": 198
+        },
+        {
+          "text": "trust *sessions* if something big happens",
+          "location": 219
+        },
+        {
+          "text": "with *sessions* tomorrow that will know",
+          "location": 221
+        },
+        {
+          "text": "eyes open for something from *sessions*",
+          "location": 870
+        }
+      ]
+    },
+    {
+      "id": "XI_3ot9AVRc",
+      "segments": [
+        {
+          "text": "covert link think *sessions* open",
+          "location": 909
+        }
+      ]
+    },
+    {
+      "id": "XNnr9LQN_LI",
+      "segments": [
+        {
+          "text": "former attorney general jeff *sessions* to",
+          "location": 578
+        }
+      ]
+    },
+    {
+      "id": "XXhLOXdWdxA",
+      "segments": [
+        {
+          "text": "general *sessions* with huber and this day",
+          "location": 789
+        }
+      ]
+    },
+    {
+      "id": "Xzbvod8pzjI",
+      "segments": [
+        {
+          "text": "october 28th 2017 after *sessions*",
+          "location": 611
+        }
+      ]
+    },
+    {
+      "id": "Y-46yEmK9FQ",
+      "segments": [
+        {
+          "text": "*sessions* drop the hammer one of 22 i can",
+          "location": 192
+        },
+        {
+          "text": "memo reinstates *sessions* authority",
+          "location": 204
+        },
+        {
+          "text": "*sessions* slash nunez russian ops repub",
+          "location": 631
+        }
+      ]
+    },
+    {
+      "id": "YFR517RuObA",
+      "segments": [
+        {
+          "text": "6 and *sessions* had barely just passed",
+          "location": 245
+        },
+        {
+          "text": "right *sessions* ray huber think utah",
+          "location": 287
+        },
+        {
+          "text": "*sessions* either unruh cuse himself or",
+          "location": 319
+        },
+        {
+          "text": "trust named *sessions*",
+          "location": 507
+        },
+        {
+          "text": "was saying yeah damn that *sessions* i",
+          "location": 975
+        }
+      ]
+    },
+    {
+      "id": "yIYsfr3g_po",
+      "segments": [
+        {
+          "text": "of the doj *sessions* and roses rosenstein",
+          "location": 514
+        }
+      ]
+    },
+    {
+      "id": "ylSWzt4ml3I",
+      "segments": [
+        {
+          "text": "*sessions* announcement you burst been",
+          "location": 386
+        },
+        {
+          "text": "on this since *sessions* durham was not",
+          "location": 560
+        }
+      ]
+    },
+    {
+      "id": "yMrbI1KLFx4",
+      "segments": [
+        {
+          "text": "like they did with *sessions* gotta have",
+          "location": 661
+        }
+      ]
+    },
+    {
+      "id": "YOnx_oNDwic",
+      "segments": [
+        {
+          "text": "*sessions* as *sessions* did hire him and",
+          "location": 99
+        },
+        {
+          "text": "*sessions* appointed prosecutors in 2017",
+          "location": 123
+        },
+        {
+          "text": "report directly back to *sessions* who",
+          "location": 137
+        },
+        {
+          "text": "would say q trump puber *sessions*",
+          "location": 163
+        },
+        {
+          "text": "honorable jeff *sessions* honorable",
+          "location": 351
+        },
+        {
+          "text": "attorney general *sessions* director ray",
+          "location": 368
+        },
+        {
+          "text": "attorney general jeff *sessions* had said",
+          "location": 904
+        },
+        {
+          "text": "is a fireable offense and mr. *sessions*",
+          "location": 917
+        },
+        {
+          "text": "*sessions* hiring huber to work with the",
+          "location": 1699
+        },
+        {
+          "text": "point is critical because as *sessions*",
+          "location": 1735
+        },
+        {
+          "text": "special mandate from *sessions* right so",
+          "location": 1837
+        }
+      ]
+    },
+    {
+      "id": "YOr_YXfwH8M",
+      "segments": [
+        {
+          "text": "count *sessions* reconcile",
+          "location": 72
+        }
+      ]
+    },
+    {
+      "id": "yw5DzVosHrI",
+      "segments": [
+        {
+          "text": "sighting *sessions* recuse a letter and",
+          "location": 1033
+        },
+        {
+          "text": "original jurisdiction is what *sessions*",
+          "location": 1043
+        }
+      ]
+    },
+    {
+      "id": "Zpozrhe5xWk",
+      "segments": [
+        {
+          "text": "the next one trust *sessions* trust rey",
+          "location": 310
+        },
+        {
+          "text": "i don't know about rey guys but *sessions*",
+          "location": 318
+        },
+        {
+          "text": "this is about jeff *sessions* i find it",
+          "location": 326
+        },
+        {
+          "text": "know what *sessions* is or isn't doing",
+          "location": 330
+        }
+      ]
+    },
+    {
+      "id": "ZQK30bEDDpU",
+      "segments": [
+        {
+          "text": "attorney general jeff *sessions* is",
+          "location": 883
+        }
+      ]
+    },
+    {
+      "id": "ZSOLaD-kbZY",
+      "segments": [
+        {
+          "text": "trust ray trust *sessions* ray kansas",
+          "location": 1598
+        }
+      ]
+    },
+    {
+      "id": "zw69mTcI9U8",
+      "segments": [
+        {
+          "text": "going on under *sessions* this whole",
+          "location": 1114
+        },
+        {
+          "text": "going under jeff *sessions* right and he",
+          "location": 1138
+        },
+        {
+          "text": "actually started under *sessions* so you",
+          "location": 2861
+        },
+        {
+          "text": "*sessions* starting an investigation on",
+          "location": 2872
+        },
+        {
+          "text": "that's up and nasa for *sessions* i think",
+          "location": 2891
+        },
+        {
+          "text": "into it i think *sessions* probably",
+          "location": 2904
+        },
+        {
+          "text": "out now and *sessions* played the whipping",
+          "location": 2910
+        },
+        {
+          "text": "finger at that thinking that *sessions*",
+          "location": 2921
+        },
+        {
+          "text": "more i think *sessions* was the silent",
+          "location": 2932
+        }
+      ]
+    }
+  ]
+}

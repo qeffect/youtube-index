@@ -1,0 +1,38 @@
+{
+  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI",
+  "topic": "Saudi Arabia",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "poOFqR-UEAc",
+      "segments": [
+        {
+          "text": "*saudi* *arabia* terrorized us so let's go",
+          "location": 1032
+        }
+      ]
+    },
+    {
+      "id": "QM97mA2sX60",
+      "segments": [
+        {
+          "text": "came into office he went to *saudi* *arabia*",
+          "location": 1122
+        },
+        {
+          "text": "former prince of *saudi* *arabia* who may",
+          "location": 1135
+        },
+        {
+          "text": "trump came into office he went to *saudi*",
+          "location": 1166
+        },
+        {
+          "text": "*arabia* and was given a sword dance and",
+          "location": 1167
+        }
+      ]
+    }
+  ]
+}

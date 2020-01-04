@@ -1,0 +1,2094 @@
+{
+  "indexed": "_0GMW9eop3Q,_0k8gf2hqT8,_3Rl1KrDzlc,_9rpHbIpjdc,_c3-w-w0hd8,_gjH2umHAGw,_RmutDWSGgw,_xRwk1GDCtc,_xXAzbpQxCk,_Y32fnAp_mE,-_D0oq02HRY,-2V-Fidbe4Q,-fBcMRleHJs,-lj5lbMIt9w,-uo9Q6D8210,-WTkkUEgMpA,-wX2rOP6ktI,-x009HbyeMM,0DszWULPnJA,0kSVAa_BmU4,0Rg0lwnxdYA,0RnrwLJ2YB8,0UsEdqoi-uo,0v_9_7NQe7o,0ZQpgASg94o,12UHF03bxqg,12UIMLvh03M,14DEr87tKSc,14goSb7_h8k,188yfjWBsKM,1feiLSIDxzA,1G4XAByqwdc,1IBdXdpMtSQ,1KbA5wwl5iA,1mxwUYRqCLc,1qxksXmFHOw,1Sh9FkZ0Z_M,1WLIn7en9pQ,1ztx8JOWikU,21_5KACaBAA,246yVwb5diI,29I9Zl0qTFQ,2B6uuN4h5To,2B8vstdpb9Y,2hwzvqyTWk0,2kcXiFrNxu8,2KlWnWIW9es,2KpDBlqtvh4,2MJZ9NDs3EY,2nHvxV92Fo8,2NXqxp8mQmI,2Q3ooMM1qAA,2rguDK_EFjs,2VvxKYycSTA,2z1u4f9qxSk,3__6oQQBx4U,366ELkY8w8c,3anaRM4cxWc,3cNC-TuFKTM,3DT04vReamc,3hTjnoctYb8,3in8rDn_GiU,3iNDtYv3ogU,3inrKG1TPqA,3JpE_sVAXtI,3mBJwCIqEp4,3mZH_LNF6QM,3QHT8IoCibY,3QPQ-gJQDio,43l56zl36nA,46EzIkcqsf8,4aeInV5RoBU,4IELe4HKwW8,4krKjHMPsg4,4l3InNocQok,4L5tYESX97M,4pRyUnOoG4k,4QBY4MC9H4A,4reDYsbFjIA,4SVOSBqdzh4,4V_km03gzkc,4Vg0iy8-V8U,4wnZSd3XIrs,5A6dZwdwTxA,5aclmTHqG3Y,5dLvEB_CqP0,5FndfbwFaR4,5GkDWQBxE_Y,5i-ZMBE5r80,5LnqJOG082k,5msn1xthpVw,5OD8QdsbiDU,5teFvGwE9Ec,5tLVsNwlo4E,5ZV3UJmN3j4,5zwSaKW2qzA,6__xoin6aw8,639Gc3bX0Hs,68Bl7RbXS2A,6dPlpdME9bA,6gP2Zh2J4lU,6T7oPFcotQ8,6VOzbo_Xzcs,6vu4aiDJlLI,6ZRbp3qcQWw,77KCplrOQIs,77xVpKuEWnc,79lRgwEbfHQ,7BjNpnHLRlg,7dUatd4L2_I,7HkSIcIUJEI,7KyRGYh74yM,7nBOtseGsvM,7PPE5IfAS8Q,7uKOdZECGKo,84FDa13e5-g,85-ahemlFUU,85y3X4rQxA4,8BvPh2JcG1I,8fechd5G8bQ,8HN_fDiyxps,8Hn9sRON8JU,8IEQfBwVCnI,8pfDKYOa2YQ,8SIxFBeXF3A,8SJ8Si8dOik,8VlLxBGFQbo,9_UKSBXn7ko,9-Ct8QNd5l8,93Ilpb7IySY,94-23EfqkIo,96qHwT4UG7A,9aC20cRhA6A,9bmI1uHhg2Y,9CRaVe_WoRA,9DCeANHAmJk,9E6bhpqXb4Q,9GURyE2qHg0,9iLcGsHVzpM,9IoPnmjsOQg,9IYh49I9vLI,9kWhckKtLyw,9lRA4hj5-zs,9O8VPOd3Dsw,9ObMFi6ReKE,9PqmG_y1mEA,9Rsj2RvPQQY,9v8K97nYOmc,9YpbXzuAYao,A3CcapXxDBc,A3UCbl5D6xw,A4K1C-k9Soo,AaEkl-of76c,aAjl5E-9Xwc,aauT5183_Y0,ABKGKVoSAZs,Ae8VPPrDP3I,aeg4hpZ9Ozw,afbpVahE8m0,AGcXhMgEl-g,AGvin09PnlY,Ai_hTzDSyO0,aiSN2yWRXMk,AJPTbrTUYxI,AKx3yG4zhNQ,altHQp6NMoA,aMjfmqYp1k0,aMU1r-XXIe0,ANNU2PD-HFo,ApxADBQ8v3A,AQn0A4aVW6E,aRH_VcgxE-M,aRk2tCY5P6A,AT7BqWZWWag,ATycYftkD9M,avWKx_cmjpk,aww13Cq9r7Q,ayRMg-VLpmE,aZ_1pPcUgFk,aZ9ow4ZlnfI,AzTWh1-xt14,b-LpBCpFIU0,b0pHnjCKYzI,b1BuM4rDtj4,b2o6RTKxh4I,BBOhxkAxLis,bBQITwVQ2c4,BcVYQ8Qb8WE,bcxBqQ7PMew,BEnGqcIKQBI,BFqiftOTLL8,BFxZRHPz1QI,BgKgV7LyEIo,bJpGmwu9-k4,BjZ3EmeaX5k,bKA-qsz0fsU,BKrYqZUyOIQ,BLbmipYjHR4,BMvOvzcBOq0,BnmAkjBYrZ8,BoMEoJRDgcU,BRRHTfNJMg4,bTO8-X3R_0g,BufAWX9OL9M,bWCu3V4E0Cw,BX0vhcv_pRQ,BYme9spNF9A,BZ6g4cgOQIo,c2JtJ3aEJI4,c3uk_PM4FTU,C52GieN9zdM,c8x6_3FTcmk,Ce_6croEF8c,CeUgCB6lb8Q,cfD7Ifh578E,CFDn-VKYsC0,cjcQ6t4JMXs,CLxo7YDcLzk,Coqn8CHu1cM,CpCLI8mo6T8,cppd4rNaGCY,cQbGXIlAVTM,cRLq7aAC-XI,Ct4sQbD2Dj0,CUobzPBIPYs,CVPDq78OM50,CxlcQbMPATY,CYMHBldnHH4,cZWsTRVduts,d_GwGYmK26Y,d1MKZw4vHEw,d352Nhkd02g,d8l0y2XLq3Q,d9HpahnSk3g,ddO9VroAjuU,DeiOBs9WCFY,dfzrdTb1zZE,dgJVXPaHqP8,dI75N0o_5DI,DJhwFGJhk5k,dLlF7sxrUCQ,DOO7fNIwpYY,dPmQytHJFIs,dS2qkAQ33Xw,Dt0bn771sGA,dTiW7GUvpiE,DTJrCcpKAsE,DWyqBff8MD0,dxXweiDpFuI,dzvqryS1tvM,DZyPZzqwvsA,E0C2qvYK31I,E0IZHA3G3Ig,e4MakjQr6wQ,e5nUedXajQI,E930zZVMjyY,EEnVvVzaBCo,ehplL8V_3rs,ehRpPBA6HgM,ejJhYz7wFwo,ek_MgNKuQKg,EKeXTDJ61eQ,EL6vqvpcreQ,Erfp78sCx3E,etzYB5Acisw,ex1IEZ3gULY,EXbJ0oQART8,eYGFc99WbHU,EyLK_rCRmPI,EzqNatWuS6Y,f4qBTki5iH4,F5FobXrvY3E,f7YHUbjdCzM,FB4dExVms7s,fB7BASL5g54,fbpZlOeQiAM,fbY83L61Kd0,fchREWrn0vY,FDbXuhcLWtU,Ff4fEQVTpSs,FHBsONoVnq0,fhyBcxyxbVI,Fk16jEhiBrQ,fLuLK72GwyA,FLYTjpU15No,ft2oJSlNPtQ,fU5hFfGsdjM,FWZHVOZ4ggQ,g_-JsMSaCdA,g_4yojz2mAs,g-KHTYSFJXA,G0xwAccaQ0A,G2aQUZYgTL4,G5Xu8M-uc60,G6rtL2LbzqA,g8XCMFkFyjY,gAHVZF__So4,GcJnkA-FE1M,Gd0BSKLLqsc,Gf0trv-9tvc,gHZMOupPYsg,GHzp1M24Fsw,gJcJ38T8oNM,GjQpoYm971o,gMSJoVkQZWw,gnDVjDTXE0k,GNedUPBOSqs,Gnmbc4G0dmg,GRBDH_i0FB4,GU2lVhxS9vY,gya_mSZwAl0,GYcdeNuBthM,GYRgczPNxJI,h17tF0Xii1c,h1BC7XmZr8I,h7CqHL04D-Y,HCCtVyqBoRE,HF1kNM1SZWw,hfX559mxFQo,HGHg7Nt2WVo,HiDyMOUhdZY,hIG3MjKRzBE,HjH_ZCvf3_g,hKbE7MG3OIA,HkJj6tZtzKg,hKSHNiPdaQU,hNazips7-k8,HoHfevtIV2w,hQcYnde_RDA,HTETmsKXnkE,hxMqBVB9oIU,i7CsAm6pTpE,i7hxZGH9fCY,iaA6l7wVsGE,IC9FN_fY2go,If2rCEuFeNY,ijaW9oSwCw8,im06ZuqowDk,Ima-kdh9Zo0,IMvbHX-XxMs,iQHR1-6RKGY,iry3kHF_jvI,is45doBHO4k,IubAKIW7LW8,IuGCv6BE808,ivzGKZFp8M8,IyRWVFXn45A,IZLsNynu6Ns,j0aA2J_kFkc,J296P7VE5p8,J2spK-T9ev0,j4__e_WelW0,j598EAg5zdI,J6zapuerlJk,J7b6SPEd0FA,j8A3-iLoEOI,J8tQL-J1p-4,jCLp7eJwIrE,JEKeMGgqEFA,jIf63gDirvc,JkdHKdiTXAM,jnUP8mEuPqc,jO3DSz6VU10,JP_9kWACn3U,jPdBNzia1bQ,JqB96gXQCHs,Jqmk-9gfMoc,jr_aTXakEwk,jSkzvaEVGyw,Jw000N2NVzY,JXObjjcM37E,k1e3a3x0VHE,k2pfkR9ey1o,k3a7JrqCGxM,k5J7_AWQvec,K68zHw0_xp8,K6D4AseiyvA,K6X_A5nDkn8,k7HZG6YnFww,Ka58QhPEBs0,kbsHKl1F3PI,kGrIdTasjN0,KhBpRt0R9-8,kMvmpeySbAk,kmwVSMKdhaU,kmxEhecyMN8,Ko4YrWusYB0,kPNmP4e9jfA,KQYQ6-hMOjY,KsFcbtIB9IQ,kv41joeMcM4,KVAsKc8v5t8,KVvB35XeEig,kZgInLvnTxE,kZSTJv4Hxk0,L_xCuCDisLM,L1AVZd4DsQc,L2Az5A7kcP8,L3Ij2cvGFkY,l6iCUxTXOBw,L6uSGv164Xw,L8KfIdZMszk,l8r-U_GKKPw,l8TEy3DabHA,LBYjX-YKi3A,LcYUTlXa9LA,LDbkkYUWvpA,Lioi0r8CebQ,LIwSMMqCTfU,ljBQV9kO_48,LniEKTpx8Qo,LPcjU1iEMa8,LrIY2UK10UA,lRMkZVPheVA,LTZqQj0xixg,lxUADz6sO24,M-MA0geeqcs,m-ODejCbNWA,m2iCTKjwGZY,M2SBwEaGWjA,m5TtiXCF06Y,m9zakT_UDY4,MbhDYscAAN8,MBmjx6pEVyM,mBU8ggNgS8s,mCG61ZXjwgM,mDGN4mIrYTs,mdj-e3WW1Bo,mDVvkqXidds,mh_UlTxOQQ8,MHhA6kW_K1g,mi6oOSOcu8U,mIMeh-79eFQ,mJWjRqEjk1U,MKMicgqhopw,mkzUXQCz7g0,Mm6WkdjRwXE,Mm8has8rJ6Q,MMiesWjJy3k,ModN7UGbEc4,mOIXtYBUHzE,mpo_IhTE430,mqjohU4wchw,MQkqD0MhKnY,mQmoOcT31Ro,msr6oM0RLew,Mt8NfLhd-bQ,MU2Rcx_7eK0,mU9euZ7sEes,MUy19aL4UNs,MvFElFTEyAo,N_LPPAZ6a5k,n2RdX0ydluc,n5D-l-3F7ik,N5YALJhloAc,nb48sfxaBzA,Nb9AndSj88I,NC02quLtRsA,NC8ofbJYmgQ,NcQDwCqQeO0,nDIenS-L7Qc,NgbBiTBNx_E,NjWZnzfy4Bk,No3ER-UeVEw,no6rrhl9HP4,NPnxrTpCpnw,NQNDDUtnzYk,nRaCGIerr6g,nspGMcDjCKM,ntdGh-KbrDw,NV7heJFREsE,NVweq5WqxQs,Nw0SUu18OzY,NwWi8UclL4k,Nyz8AZ4IvdA,Nz6lrDmtUxk,O_aacfmu4kk,O52v4nUvluw,O5EtoXjZNus,o6KJkaLISn8,o6YcBl2u0n0,o8Akan5GihI,oC62RUXGAeo,ocx0eQ3IYGc,ofmaPjLqKpY,oGgzXrlF0m4,OhcEdpoDPxQ,OipmgYEOOj8,OJj7uOy38hI,OjodkECxTFE,oJslPIbYry4,ojSvumv3RDc,OKRqb03TEUs,okuxViVbyTs,OLDsP1BrbDU,Olfa4vMMDEk,OQCgaoqYPDQ,ornHtBUFohc,OsoQu546x8g,oStMB-W5ovI,Ou8IoZrbRFY,OVGfiwkKdqY,OWfrBrQlhkk,oXoEIlNO77U,oXoo6eYsZ3o,OY0Jqc3-hV0,P2YYC5MMzFc,p4Wc6Zs3qQM,p5s61jAYDzE,PbcQo398070,pbi5dRCB2cA,pDkUn-isAGk,pdW4LVkaiYA,peHd3IOjylg,Pepkc8bM3uo,PfDbmwtawNg,PfZh-XLbE_I,Pi-FHomqwtE,PIHmedWFDBI,piPPWEVM7BI,Pk6jznEcP4U,PMt56AI7XrI,PN8oDcxVDKU,pOgq_axpn1k,PRGJZtCTLVA,pRriJNgzrcs,pUZDbK0a1R4,PwfwMH9cRP0,q0d0OkpV5gs,q1LXh9jQU38,Q23RnpfTgiE,q2tI5JrJKzE,q40i492ZGUU,Q5xDDuhudtU,Q8C-i61AH9Q,q8N3XgSDddU,qaB9Xgr-K-U,qaeEK1ydKHQ,qb8eND6_eH8,qbNEx7wfmRw,qCVOU264zOY,qeyblMlgmf4,QFxy7aHGQAk,QgdmFUaMaTg,QHMQrxZEG0A,Qi1p1ciC6ig,QJ87Y3IHM0E,qJZUzPJM_8o,QlB-DTGsxA4,qnSzR1wZFJw,qQCLQxxZ-JQ,qSIbJjKcNfg,QuIScPQ4-HI,QwJVJTZy7_I,QWt5r7p1prc,R0kUC-zTi_w,R1LjmP8-04A,r509r1pO2R0,r6wUIvkTfA0,RaMEtW-jj3Y,RBg7ln8YvZs,rCig3kho2SM,RDi6epw_6q8,RhIjc2y2tAk,rhU9LM5NMjw,rKsfEM1BgDc,RQ0Vxa8t2lE,RqvIfoLVDOk,RU7GoALMyfc,rvKeEwBBpVI,rWFJYGKR8Q0,rwgpNw7-Z2o,RWoC617ICiE,rWUwM3PSctc,RWwMA7NgHPw,rygv-W2nBMQ,S6nzPrp1znE,s7WQRQMZHpg,sbQRdt546xk,sCpKR0JfQYg,SCrkA-IU-MA,SCYQEWuPQ5k,shbkSBhJ2I0,SIa7IJeIZTs,sj2d6MMMHe8,Smgbk6_u95o,SMJH9hOBoHs,sNJWA5xXzJ4,SnZ6S3mRxL4,Sp4RLy_qYKg,sqjMUSm7P7g,Sr-bsrd1__k,sRO9eUbKbHk,STeFcjPilJQ,stXbBirLOa4,SuFrbJ6SU-o,svsHMcqSxo0,t1tZokS2EvY,t5_FT2IuuU4,t6E_0ndD_uc,t6Lt13vIedE,ta_w9snGNto,tA5qx4py3vk,Tcnt9LQ9ghs,TcTxPlJydUY,tHP9ltlAus8,TiTXAXiDfUc,tIWPr_DcdIo,tjMfQ3p3laE,Tnrn3L8FY0I,tPO2SMpryYw,TQscIaCFOkI,TQZvMICk0VY,tsbPU6Db2kY,TsPRXxIwYko,tvC2gQ4AczY,TvVR9BnYdcM,TwLUyzhOLOg,tYyiFa4vM6U,tyzocNwNQKM,u_GGjeSvYec,U008Q4Nl6Pw,u4vS2DaqFLc,U7kcy4JVL-A,u87rX2092og,UAHuVEBXel4,ubHkJ2JOyYc,udBq5d5QJu4,UDz1OZ08WdM,ufbriRv6ttg,ujGzJFLXyyU,ulqxOJMqlbE,uM3wMO8soPk,UnaCSOYEHJY,uNbF9eE8iQo,uPZH86T-gbU,UqoqSIhUkis,uUHrITp2OII,Uv9kdzginz4,UYZK6SLUDac,uznBzdoryQE,v__k4yoGtr0,v1EVuUPy0TM,V5UBaiLKTJ8,v7n8XMG6_lU,VAb-q4zZZ84,vdBH5hXgTx0,VDegR-PmnPY,VDiIHvrYiP4,VDNvoDprdXw,VdW3BTCrFyk,VEPn4Jpriag,vH2LP87XOhM,vhEhHA1_lYc,VifwNccVoaI,VIVQ8DSeXA0,vK8vS2FLi_8,VkklwV-XWV8,vLkThiVu-7w,VLODkOCKOTQ,Vm1M-wrzD30,vNBvyX0c2GU,VncJ0_vEoR0,VNKopA1AWqc,vNoLVvWSsyo,vo2k76mYB48,VOiG-bND5gw,vOxfriLzg30,vPi9nxUXeXY,vpPs1VYeYq4,VqfhBji9KRg,VSa_TIkV6lE,VU5aarfEf-k,vvIB5CzHtRk,W2YIfMkkfwk,w3TsReVTDJg,w7usO3iDt_o,W9zaoEqRVZA,WAHJQb4hEOc,wENuaVviKSo,wGKkvAU6BXM,wgltyCeZ9pk,WGM4fqCVAQg,wgx-dnhKrBU,WhXBxkP9xE4,WJ_m4kinM7w,wLKBFYSG524,wp-A4Xc_aLU,WQ505PlHjnA,ws0Sia6taoM,Ws3y42YOuCI,wwoXSecjUy0,WxIbdhY0A54,X1Ei27wYEkk,X28tURO5Cq0,X3Sqj3g_n6c,X4jATK5wBgU,X6DgdzLcbTc,x8rM1oZB8U8,XBbVIwgeD2g,xBjg0GydtgY,XD8UWjkcE1s,xDMceMQCI_I,xe9N5iVspPY,Xfgb4YaqMT0,xfoQHcU3MyI,XfSHGaDZbBk,XISLjXeWUwk,XLzGCZkYvIc,Xna5SsHOcUo,xot9iXQ-zBA,XpBu8gmssPY,XqmwL0TTfo0,xsFay-hybec,xsO-xNEhoBI,xSQvQDtzB6U,xTJgKGF--OQ,xwOcpq9TqpE,XXd8q4BfcYQ,xYBSsLGzMlc,Y0exfyEXpfI,Y88ecV_X87E,YACpICjPygE,YAHylAzN21o,YAZ0b3JyML8,yc4umVzljCM,YDbwkcXJXRo,ygVJlwArt0A,YiKnAv4Iw2I,YJiMBvqbCwc,ykP7QXaZp9M,YkrFx8fhafI,YLlsruYA4pk,YlYxp4VTDgw,YnYkBcT-rnY,yQrUOHG8e2k,YSoJN2dPoZw,YSq6X6aQhd0,yuNxrYT4t58,ywlM82gfvbk,yWZgvfLs_ss,yzJ3vadEb_0,YZniSg3z3Iw,z1mRlnZbCF0,Z3cDEAKbMyA,Z5r4RVFd2a8,z5T_1jyN5f8,z7iJ5zZ0cLY,Za2u9FkqiaU,zB8nIspKlco,Zdnvu5QIjXE,ZEn6pbfoNlo,Zfa1UNNaPxc,ZGLLyMlvoUY,zJoO_HiEUno,ZkwW4xznOmQ,zlajBZP3nH0,ZnPojroUsrU,ZOUO80Q44B4,zozvEuKPdKs,ZTV18-GhqyU,Zu2ITGywrmU,zu3muQumFyI,zUQ1UARkl24,ZZJ6BNKXcTw,q_QmpI9cyRY,zy611VHFFwU",
+  "topic": "Huber",
+  "aliases": [
+    "huber",
+    "hubert"
+  ],
+  "hash": null,
+  "results": [
+    {
+      "id": "_0GMW9eop3Q",
+      "segments": [
+        {
+          "text": "prosecutor from utah john *huber* right",
+          "location": 1410
+        },
+        {
+          "text": "what is important about john *huber* well",
+          "location": 1413
+        },
+        {
+          "text": "where he talks specifically about *huber*",
+          "location": 1465
+        }
+      ]
+    },
+    {
+      "id": "-lj5lbMIt9w",
+      "segments": [
+        {
+          "text": "over or *huber* made public why now",
+          "location": 84
+        }
+      ]
+    },
+    {
+      "id": "0ZQpgASg94o",
+      "segments": [
+        {
+          "text": "review *huber* something big is about to",
+          "location": 113
+        }
+      ]
+    },
+    {
+      "id": "29I9Zl0qTFQ",
+      "segments": [
+        {
+          "text": "john *huber* and michael horowitz this is",
+          "location": 1734
+        }
+      ]
+    },
+    {
+      "id": "4l3InNocQok",
+      "segments": [
+        {
+          "text": "fbi cleanse vital as primary *hubert*",
+          "location": 1427
+        }
+      ]
+    },
+    {
+      "id": "4QBY4MC9H4A",
+      "segments": [
+        {
+          "text": "us attorney john *huber* can use",
+          "location": 397
+        }
+      ]
+    },
+    {
+      "id": "5GkDWQBxE_Y",
+      "segments": [
+        {
+          "text": "horowitz and john *huber* the us attorney",
+          "location": 807
+        }
+      ]
+    },
+    {
+      "id": "5msn1xthpVw",
+      "segments": [
+        {
+          "text": "*huber* and how that didn't that wasn't",
+          "location": 1426
+        },
+        {
+          "text": "*huber* being discussed now what if the",
+          "location": 1435
+        },
+        {
+          "text": "drop that name why is *huber* being",
+          "location": 1440
+        },
+        {
+          "text": "discussed now why is *hubert* all the",
+          "location": 1442
+        },
+        {
+          "text": "discussed by right or left *hubert* did",
+          "location": 1449
+        },
+        {
+          "text": "*hubert* did not blank he were did not",
+          "location": 1454
+        },
+        {
+          "text": "sessions playing who does *huber* work",
+          "location": 1460
+        },
+        {
+          "text": "transcripts be released *huber* + ig + 470",
+          "location": 1469
+        },
+        {
+          "text": "*huber* they're saying he did an interview",
+          "location": 1618
+        },
+        {
+          "text": "going to be *hubert* michael horowitz and",
+          "location": 1636
+        }
+      ]
+    },
+    {
+      "id": "8pfDKYOa2YQ",
+      "segments": [
+        {
+          "text": "who disbelieve that john *huber* is",
+          "location": 1193
+        },
+        {
+          "text": "*huber* hasn't interviewed everyone and",
+          "location": 1230
+        },
+        {
+          "text": "you know but sessions in *huber* a",
+          "location": 1233
+        },
+        {
+          "text": "right this is but *huber* has not directly",
+          "location": 1287
+        },
+        {
+          "text": "the appointment of *huber* by sessions and",
+          "location": 1291
+        },
+        {
+          "text": "says but sessions in *huber* are following",
+          "location": 1295
+        },
+        {
+          "text": "*hubert* ability to prosecute in impanel",
+          "location": 1308
+        },
+        {
+          "text": "verse x coincidence verse *huber* start",
+          "location": 1370
+        },
+        {
+          "text": "not as good as having john *huber* with",
+          "location": 1409
+        },
+        {
+          "text": "that they're saying well *huber* didn't or",
+          "location": 1453
+        },
+        {
+          "text": "it says *huber* is not directly",
+          "location": 1457
+        }
+      ]
+    },
+    {
+      "id": "8VlLxBGFQbo",
+      "segments": [
+        {
+          "text": "were supposed to have john *huber*",
+          "location": 148
+        },
+        {
+          "text": "actually was able to work with *huber* and",
+          "location": 1575
+        }
+      ]
+    },
+    {
+      "id": "9-Ct8QNd5l8",
+      "segments": [
+        {
+          "text": "inspector general works with *huber*",
+          "location": 496
+        },
+        {
+          "text": "office with *huber* are going over all",
+          "location": 669
+        }
+      ]
+    },
+    {
+      "id": "9aC20cRhA6A",
+      "segments": [
+        {
+          "text": "cooperating with john *huber* and michael",
+          "location": 533
+        },
+        {
+          "text": "john *huber* hasn't either even though",
+          "location": 610
+        },
+        {
+          "text": "*huber* was tapped by sessions to",
+          "location": 611
+        },
+        {
+          "text": "attorney john *huber* will be the top",
+          "location": 666
+        },
+        {
+          "text": "into john *huber* spice abuse",
+          "location": 677
+        },
+        {
+          "text": "interviewed by *huber* or moeller bruce or",
+          "location": 686
+        },
+        {
+          "text": "how effective a us attorney john *huber*",
+          "location": 703
+        },
+        {
+          "text": "muller and *huber* doing if they are not",
+          "location": 751
+        },
+        {
+          "text": "that he wants *huber* to contact his",
+          "location": 810
+        },
+        {
+          "text": "interviewed by *huber* and it was based on",
+          "location": 822
+        },
+        {
+          "text": "know if *huber* has already interviewed",
+          "location": 830
+        },
+        {
+          "text": "or been interviewed by john *huber* and",
+          "location": 855
+        },
+        {
+          "text": "or hasn't been interviewed by john *huber*",
+          "location": 863
+        },
+        {
+          "text": "*huber* so the next one here is gives us",
+          "location": 955
+        },
+        {
+          "text": "interviewed by you know john *huber* well",
+          "location": 1078
+        },
+        {
+          "text": "if john *huber* is working with four",
+          "location": 1080
+        }
+      ]
+    },
+    {
+      "id": "9E6bhpqXb4Q",
+      "segments": [
+        {
+          "text": "also talk about john *huber* and his",
+          "location": 841
+        }
+      ]
+    },
+    {
+      "id": "9kWhckKtLyw",
+      "segments": [
+        {
+          "text": "foundation built *huber* no spelling",
+          "location": 503
+        }
+      ]
+    },
+    {
+      "id": "9v8K97nYOmc",
+      "segments": [
+        {
+          "text": "sean he's a us attorney named john *huber*",
+          "location": 694
+        },
+        {
+          "text": "bring in a guy like john *huber* and what",
+          "location": 754
+        },
+        {
+          "text": "can john *huber* do well john *huber* can",
+          "location": 758
+        },
+        {
+          "text": "us attorney *huber* has full authority to",
+          "location": 873
+        },
+        {
+          "text": "made public john *huber* appointed by",
+          "location": 907
+        },
+        {
+          "text": "john *huber* he was appointed by jeff",
+          "location": 932
+        },
+        {
+          "text": "why was *huber* made public why now",
+          "location": 1265
+        }
+      ]
+    },
+    {
+      "id": "ABKGKVoSAZs",
+      "segments": [
+        {
+          "text": "it gives us these three guys john *huber*",
+          "location": 485
+        },
+        {
+          "text": "it's john *huber* the us attorney",
+          "location": 544
+        }
+      ]
+    },
+    {
+      "id": "aMjfmqYp1k0",
+      "segments": [
+        {
+          "text": "john *huber* and michael horowitz and that",
+          "location": 1066
+        }
+      ]
+    },
+    {
+      "id": "AT7BqWZWWag",
+      "segments": [
+        {
+          "text": "for a long time and that *huber* and all",
+          "location": 1177
+        }
+      ]
+    },
+    {
+      "id": "b1BuM4rDtj4",
+      "segments": [
+        {
+          "text": "occur who appointed and tasked *huber* who",
+          "location": 463
+        },
+        {
+          "text": "able to get john *huber* and the office of",
+          "location": 689
+        },
+        {
+          "text": "*huber* in utah so let's go ahead and",
+          "location": 1057
+        },
+        {
+          "text": "utah's us attorney john *huber* says every",
+          "location": 1146
+        },
+        {
+          "text": "*huber* says every one of the prosecutors",
+          "location": 1248
+        },
+        {
+          "text": "attorney office with john *huber* but like",
+          "location": 1269
+        }
+      ]
+    },
+    {
+      "id": "BLbmipYjHR4",
+      "segments": [
+        {
+          "text": "john *huber* and has been tasked by jeff",
+          "location": 663
+        }
+      ]
+    },
+    {
+      "id": "BoMEoJRDgcU",
+      "segments": [
+        {
+          "text": "out when *huber* starts basically levying",
+          "location": 2004
+        }
+      ]
+    },
+    {
+      "id": "BZ6g4cgOQIo",
+      "segments": [
+        {
+          "text": "also oversee *huber* plus office of",
+          "location": 740
+        },
+        {
+          "text": "inspector general what cases is *huber*",
+          "location": 743
+        },
+        {
+          "text": "content and dates *huber* drops first",
+          "location": 1491
+        },
+        {
+          "text": "*huber* as portrayed by cue what are the",
+          "location": 1498
+        },
+        {
+          "text": "odds mathematical probability that *huber*",
+          "location": 1500
+        },
+        {
+          "text": "time about john *huber* john *huber* and d5",
+          "location": 1551
+        },
+        {
+          "text": "are obviously connected john *huber*",
+          "location": 1556
+        },
+        {
+          "text": "*huber* has been investigating hillary",
+          "location": 1617
+        },
+        {
+          "text": "and says one of the odds the *huber* would",
+          "location": 1704
+        }
+      ]
+    },
+    {
+      "id": "c2JtJ3aEJI4",
+      "segments": [
+        {
+          "text": "back to *huber* then we're gonna talk",
+          "location": 35
+        },
+        {
+          "text": "*huber* and what's been going on with his",
+          "location": 197
+        }
+      ]
+    },
+    {
+      "id": "cfD7Ifh578E",
+      "segments": [
+        {
+          "text": "been working with john *huber* as in john",
+          "location": 162
+        },
+        {
+          "text": "*huber* who's been working with 400",
+          "location": 164
+        },
+        {
+          "text": "there was a clip of john *huber* giving",
+          "location": 588
+        },
+        {
+          "text": "interview of john *huber* and his staff",
+          "location": 605
+        },
+        {
+          "text": "gotta understand john *huber* and his team",
+          "location": 689
+        }
+      ]
+    },
+    {
+      "id": "cRLq7aAC-XI",
+      "segments": [
+        {
+          "text": "think *hubert* think doj fbi",
+          "location": 1615
+        }
+      ]
+    },
+    {
+      "id": "CVPDq78OM50",
+      "segments": [
+        {
+          "text": "are the powers of john *huber* and",
+          "location": 1533
+        },
+        {
+          "text": "prosecutor the toria that john *huber* the",
+          "location": 1567
+        }
+      ]
+    },
+    {
+      "id": "ddO9VroAjuU",
+      "segments": [
+        {
+          "text": "behind the scenes john *huber* with",
+          "location": 1518
+        }
+      ]
+    },
+    {
+      "id": "dgJVXPaHqP8",
+      "segments": [
+        {
+          "text": "just john *huber* and remember you know",
+          "location": 771
+        }
+      ]
+    },
+    {
+      "id": "dTiW7GUvpiE",
+      "segments": [
+        {
+          "text": "seals broken arrests why was *huber* made",
+          "location": 947
+        }
+      ]
+    },
+    {
+      "id": "DTJrCcpKAsE",
+      "segments": [
+        {
+          "text": "*huber* i guess he's still helping",
+          "location": 829
+        }
+      ]
+    },
+    {
+      "id": "e5nUedXajQI",
+      "segments": [
+        {
+          "text": "what we talked about with *huber* and",
+          "location": 339
+        }
+      ]
+    },
+    {
+      "id": "eYGFc99WbHU",
+      "segments": [
+        {
+          "text": "horowitz trust *huber* q so i even asked",
+          "location": 485
+        },
+        {
+          "text": "pompeo trust horowitz and trust *huber*",
+          "location": 543
+        }
+      ]
+    },
+    {
+      "id": "EzqNatWuS6Y",
+      "segments": [
+        {
+          "text": "john *huber* is actually working on that",
+          "location": 1188
+        },
+        {
+          "text": "*huber* or q and that's exactly what they",
+          "location": 1865
+        },
+        {
+          "text": "explain what john *huber* is doing behind",
+          "location": 1880
+        },
+        {
+          "text": "john *huber* who's been he's the us",
+          "location": 1945
+        },
+        {
+          "text": "*huber* would be would be for him to",
+          "location": 1956
+        },
+        {
+          "text": "washington that john *huber* is working on",
+          "location": 1974
+        },
+        {
+          "text": "*hubert* has everything q so this one i",
+          "location": 2077
+        },
+        {
+          "text": "*huber* has everything q so what i have to",
+          "location": 2187
+        },
+        {
+          "text": "wait and see what *hubert* comes out with",
+          "location": 2189
+        }
+      ]
+    },
+    {
+      "id": "F5FobXrvY3E",
+      "segments": [
+        {
+          "text": "are the powers of *huber* inspector",
+          "location": 560
+        },
+        {
+          "text": "about how *huber* was named as a",
+          "location": 567
+        },
+        {
+          "text": "sessions and *huber* is and with the",
+          "location": 728
+        }
+      ]
+    },
+    {
+      "id": "fbpZlOeQiAM",
+      "segments": [
+        {
+          "text": "intra federal agencies *huber* horowitz",
+          "location": 310
+        },
+        {
+          "text": "attorney john *huber* to leadership",
+          "location": 335
+        },
+        {
+          "text": "sessions and john *huber* started working",
+          "location": 346
+        },
+        {
+          "text": "of course but *huber* has not directly",
+          "location": 390
+        },
+        {
+          "text": "sessions and *huber* are following",
+          "location": 400
+        },
+        {
+          "text": "fire sessions but *huber* ability to",
+          "location": 409
+        },
+        {
+          "text": "coincidence verse *huber* start but",
+          "location": 464
+        },
+        {
+          "text": "horowitz and *huber* and why is that",
+          "location": 527
+        },
+        {
+          "text": "to helping john *huber* and michael",
+          "location": 659
+        },
+        {
+          "text": "so *huber* horowitz torch it's saying that",
+          "location": 693
+        },
+        {
+          "text": "*huber* the us attorney's a prosecutor",
+          "location": 701
+        },
+        {
+          "text": "that are working with *hubert* horowitz",
+          "location": 769
+        }
+      ]
+    },
+    {
+      "id": "FLYTjpU15No",
+      "segments": [
+        {
+          "text": "told us about the fact that *huber* was",
+          "location": 1204
+        },
+        {
+          "text": "knew about *huber* for as far as the cubit",
+          "location": 1230
+        },
+        {
+          "text": "what is *huber* doing cuber john *huber* the",
+          "location": 1233
+        },
+        {
+          "text": "was the chain of command followed *hubert*",
+          "location": 1361
+        },
+        {
+          "text": "*huber* you know going after the clinton",
+          "location": 1370
+        }
+      ]
+    },
+    {
+      "id": "GU2lVhxS9vY",
+      "segments": [
+        {
+          "text": "sessions and *huber* and horowitz you know",
+          "location": 812
+        }
+      ]
+    },
+    {
+      "id": "GYRgczPNxJI",
+      "segments": [
+        {
+          "text": "about leaks about *huber* and clinton",
+          "location": 670
+        }
+      ]
+    },
+    {
+      "id": "HF1kNM1SZWw",
+      "segments": [
+        {
+          "text": "appointed *huber* who had direct oversight",
+          "location": 224
+        },
+        {
+          "text": "over *huber* the deputy attorney general",
+          "location": 227
+        },
+        {
+          "text": "direct oversight over *huber*",
+          "location": 232
+        },
+        {
+          "text": "us attorney john *huber* and this tweet",
+          "location": 244
+        },
+        {
+          "text": "*huber* talking about as we discussed and",
+          "location": 314
+        },
+        {
+          "text": "whitaker to us attorney john *huber*",
+          "location": 330
+        },
+        {
+          "text": "sessions directing *huber* to look into",
+          "location": 337
+        },
+        {
+          "text": "that go between two *huber* who was",
+          "location": 424
+        },
+        {
+          "text": "sessions down to *huber* and and",
+          "location": 428
+        },
+        {
+          "text": "contact john *huber* at the us attorney's",
+          "location": 1120
+        }
+      ]
+    },
+    {
+      "id": "hKbE7MG3OIA",
+      "segments": [
+        {
+          "text": "john *huber* all right so that's one thing",
+          "location": 469
+        },
+        {
+          "text": "to note is that john *huber* was obviously",
+          "location": 477
+        },
+        {
+          "text": "the scenes *huber* has been conducting",
+          "location": 490
+        },
+        {
+          "text": "to place somebody like john *huber*",
+          "location": 510
+        },
+        {
+          "text": "counsel because somebody like john *huber*",
+          "location": 514
+        },
+        {
+          "text": "saying who is *huber* who reconfirmed",
+          "location": 544
+        },
+        {
+          "text": "*huber* who originally appointed *huber*",
+          "location": 546
+        },
+        {
+          "text": "charge to *hubert* resources provided to",
+          "location": 551
+        },
+        {
+          "text": "*huber* who is horowitz mandate charge to",
+          "location": 553
+        },
+        {
+          "text": "you know *huber* is definitely the guy",
+          "location": 915
+        },
+        {
+          "text": "reconfirmed *hubert* hoover *huber*",
+          "location": 928
+        },
+        {
+          "text": "partisan optics it's because john *huber*",
+          "location": 935
+        },
+        {
+          "text": "the mandate charge to *huber* the",
+          "location": 987
+        },
+        {
+          "text": "resources provided to *huber* yeah the",
+          "location": 989
+        },
+        {
+          "text": "mandate i think was given to *huber*",
+          "location": 991
+        },
+        {
+          "text": "michael horowitz and john *huber* with",
+          "location": 1051
+        },
+        {
+          "text": "*huber* possibly says the world is",
+          "location": 1436
+        }
+      ]
+    },
+    {
+      "id": "If2rCEuFeNY",
+      "segments": [
+        {
+          "text": "this as well but in john *huber* as well",
+          "location": 64
+        },
+        {
+          "text": "one was with john *huber* who's gonna be",
+          "location": 272
+        },
+        {
+          "text": "whitaker horowitz *huber* and rey long",
+          "location": 1107
+        },
+        {
+          "text": "planned q guys whitaker horowitz *huber*",
+          "location": 1116
+        },
+        {
+          "text": "john *huber* an fbi director christopher r",
+          "location": 1156
+        }
+      ]
+    },
+    {
+      "id": "ijaW9oSwCw8",
+      "segments": [
+        {
+          "text": "improper activities quote mr. *huber* with",
+          "location": 127
+        },
+        {
+          "text": "sessions appointed *huber* last year to",
+          "location": 173
+        },
+        {
+          "text": "committee thinks it's time *huber* gives",
+          "location": 206
+        },
+        {
+          "text": "this hearing to go over what john *huber*",
+          "location": 339
+        },
+        {
+          "text": "are banking on the fact that john *huber*",
+          "location": 395
+        },
+        {
+          "text": "general and the us attorney john *huber*",
+          "location": 399
+        },
+        {
+          "text": "request why inspector general *huber* can",
+          "location": 1143
+        },
+        {
+          "text": "committee by john *huber* on december 5th",
+          "location": 1171
+        }
+      ]
+    },
+    {
+      "id": "j4__e_WelW0",
+      "segments": [
+        {
+          "text": "take down a president then john *huber*",
+          "location": 503
+        }
+      ]
+    },
+    {
+      "id": "JEKeMGgqEFA",
+      "segments": [
+        {
+          "text": "talking about *huber* talking about the",
+          "location": 938
+        }
+      ]
+    },
+    {
+      "id": "K6X_A5nDkn8",
+      "segments": [
+        {
+          "text": "though it's mr. *huber* who's coming to",
+          "location": 510
+        },
+        {
+          "text": "mr. *hubert* it's a us attorney john *huber*",
+          "location": 517
+        }
+      ]
+    },
+    {
+      "id": "L3Ij2cvGFkY",
+      "segments": [
+        {
+          "text": "prepare public for *huber* says physis",
+          "location": 1267
+        },
+        {
+          "text": "*huber* no spelling errors intended mobile",
+          "location": 1362
+        },
+        {
+          "text": "that's where *hubert* comes from that's",
+          "location": 1376
+        },
+        {
+          "text": "why he was doing what he's doing *huber*",
+          "location": 1377
+        }
+      ]
+    },
+    {
+      "id": "L6uSGv164Xw",
+      "segments": [
+        {
+          "text": "when did *huber* start november john",
+          "location": 2786
+        },
+        {
+          "text": "*hubert* can inspector general disclosed",
+          "location": 2803
+        },
+        {
+          "text": "they were the bridge when did *huber*",
+          "location": 2864
+        },
+        {
+          "text": "*hubert*",
+          "location": 2905
+        }
+      ]
+    },
+    {
+      "id": "LniEKTpx8Qo",
+      "segments": [
+        {
+          "text": "*huber* with or on behind the scenes for",
+          "location": 924
+        },
+        {
+          "text": "about *huber* and the doj don't forget",
+          "location": 1099
+        },
+        {
+          "text": "*huber* was investigating the clinton",
+          "location": 1102
+        }
+      ]
+    },
+    {
+      "id": "m2iCTKjwGZY",
+      "segments": [
+        {
+          "text": "*huber* no spelling errors intended mobile",
+          "location": 874
+        }
+      ]
+    },
+    {
+      "id": "mh_UlTxOQQ8",
+      "segments": [
+        {
+          "text": "coaching the sealed indictments *huber*",
+          "location": 744
+        }
+      ]
+    },
+    {
+      "id": "MMiesWjJy3k",
+      "segments": [
+        {
+          "text": "designated john *huber* to look into this",
+          "location": 6
+        },
+        {
+          "text": "that point that john *huber* was running",
+          "location": 375
+        },
+        {
+          "text": "john *huber* i think's been working on",
+          "location": 1791
+        }
+      ]
+    },
+    {
+      "id": "ModN7UGbEc4",
+      "segments": [
+        {
+          "text": "scandal using people like john *huber* and",
+          "location": 194
+        }
+      ]
+    },
+    {
+      "id": "mpo_IhTE430",
+      "segments": [
+        {
+          "text": "unquote when was *huber* activated by",
+          "location": 446
+        },
+        {
+          "text": "sessions who was is assigned to *huber*",
+          "location": 448
+        },
+        {
+          "text": "this and going forward it says *huber* to",
+          "location": 482
+        },
+        {
+          "text": "*huber* to reveal active probe actively",
+          "location": 485
+        },
+        {
+          "text": "the simple way to put it is *huber* was",
+          "location": 513
+        },
+        {
+          "text": "speaks to the same thing that john *huber*",
+          "location": 667
+        },
+        {
+          "text": "*huber* is because he's almost politically",
+          "location": 671
+        },
+        {
+          "text": "see it but it talks about john *huber* and",
+          "location": 818
+        },
+        {
+          "text": "basically john *huber* is gonna allude to",
+          "location": 871
+        },
+        {
+          "text": "*huber* and and they're going to sit down",
+          "location": 1847
+        }
+      ]
+    },
+    {
+      "id": "mqjohU4wchw",
+      "segments": [
+        {
+          "text": "that inspector or us attorney john *huber*",
+          "location": 887
+        }
+      ]
+    },
+    {
+      "id": "nDIenS-L7Qc",
+      "segments": [
+        {
+          "text": "talk about john *hubert* meeting with jeff",
+          "location": 116
+        },
+        {
+          "text": "*huber* and jeff sessions are where",
+          "location": 130
+        },
+        {
+          "text": "meet with you guests at john *huber* to",
+          "location": 188
+        },
+        {
+          "text": "know that john *huber* michael horowitz",
+          "location": 195
+        },
+        {
+          "text": "you have john *huber* who's the us",
+          "location": 197
+        },
+        {
+          "text": "says sessions meeting *huber* the same day",
+          "location": 235
+        },
+        {
+          "text": "*huber* the day prior to and then it gives",
+          "location": 239
+        },
+        {
+          "text": "working with *huber* and horowitz to put",
+          "location": 361
+        },
+        {
+          "text": "sessions *huber* and horowitz so you guys",
+          "location": 1031
+        }
+      ]
+    },
+    {
+      "id": "o8Akan5GihI",
+      "segments": [
+        {
+          "text": "fully recuse from who does *hubert*",
+          "location": 279
+        },
+        {
+          "text": "cena sidestepped regarding *hubert* chain",
+          "location": 284
+        },
+        {
+          "text": "directly report to so *hubert* directly",
+          "location": 492
+        },
+        {
+          "text": "suppose it would be normal for a *huber*",
+          "location": 497
+        },
+        {
+          "text": "investigation *huber* is conducting or one",
+          "location": 502
+        },
+        {
+          "text": "obviously we call that *hubert* go to",
+          "location": 508
+        },
+        {
+          "text": "the scenes with *huber* being one of the",
+          "location": 585
+        },
+        {
+          "text": "ahead but it just talks about john *huber*",
+          "location": 1199
+        },
+        {
+          "text": "*huber* to oversee some other",
+          "location": 1209
+        },
+        {
+          "text": "about *huber* and jeff sessions working",
+          "location": 1269
+        }
+      ]
+    },
+    {
+      "id": "ofmaPjLqKpY",
+      "segments": [
+        {
+          "text": "reference to *huber* non-public clinton",
+          "location": 151
+        },
+        {
+          "text": "connected reference to *huber* f+ fbi",
+          "location": 155
+        },
+        {
+          "text": "reference to *huber* what about doj text",
+          "location": 161
+        },
+        {
+          "text": "house tarmac reference to *huber* rod",
+          "location": 174
+        },
+        {
+          "text": "push to of *huber* regarding above scope",
+          "location": 479
+        },
+        {
+          "text": "attorney shawn *huber* is investigating",
+          "location": 635
+        },
+        {
+          "text": "to these in actions noting that *huber*",
+          "location": 640
+        },
+        {
+          "text": "united states attorney john *huber*",
+          "location": 659
+        },
+        {
+          "text": "charlie says the use of john *huber* gives",
+          "location": 718
+        },
+        {
+          "text": "rosenstein which is critical *huber* is",
+          "location": 726
+        },
+        {
+          "text": "investigate *huber* has been investigating",
+          "location": 735
+        },
+        {
+          "text": "working with *huber* has a staff of 470",
+          "location": 768
+        },
+        {
+          "text": "investigators giving *huber* access to",
+          "location": 770
+        },
+        {
+          "text": "on quote then *huber* can act on any of",
+          "location": 791
+        },
+        {
+          "text": "judges as possible *huber* and horowitz",
+          "location": 808
+        },
+        {
+          "text": "*huber* is a lawyer from deep red utah not",
+          "location": 819
+        },
+        {
+          "text": "team of *huber* and horowitz who are",
+          "location": 830
+        },
+        {
+          "text": "*huber* and horowitz both were both",
+          "location": 849
+        },
+        {
+          "text": "john *huber* to work with michael horowitz",
+          "location": 874
+        },
+        {
+          "text": "*huber* and horowitz first of all have",
+          "location": 897
+        },
+        {
+          "text": "that that *huber* and horowitz have four",
+          "location": 986
+        }
+      ]
+    },
+    {
+      "id": "OjodkECxTFE",
+      "segments": [
+        {
+          "text": "ongoing *huber* dormice is awake in jeff",
+          "location": 1626
+        }
+      ]
+    },
+    {
+      "id": "OKRqb03TEUs",
+      "segments": [
+        {
+          "text": "trust horowitz trust *huber* q now q told",
+          "location": 448
+        },
+        {
+          "text": "and trump *huber* and we're gonna go over",
+          "location": 473
+        },
+        {
+          "text": "*huber* in more detail here coming up so",
+          "location": 476
+        },
+        {
+          "text": "that's telling us to look at john *huber*",
+          "location": 498
+        },
+        {
+          "text": "*huber* appointed by remove by reappointed",
+          "location": 503
+        },
+        {
+          "text": "history books q so *huber* as i know it he",
+          "location": 508
+        },
+        {
+          "text": "reform act and *huber* was rinat nated",
+          "location": 537
+        },
+        {
+          "text": "necessarily why *huber* out of the",
+          "location": 575
+        },
+        {
+          "text": "*huber* really quickly that *huber* was",
+          "location": 602
+        },
+        {
+          "text": "one more time just to be clear *huber* was",
+          "location": 607
+        },
+        {
+          "text": "will by reappointing john *huber* and then",
+          "location": 640
+        },
+        {
+          "text": "wanted to talk about *huber* in more",
+          "location": 662
+        },
+        {
+          "text": "we were going to talk about *huber* again",
+          "location": 1132
+        },
+        {
+          "text": "potential criminal misconduct to *huber*",
+          "location": 1158
+        },
+        {
+          "text": "what we were talking about is *huber* who",
+          "location": 1162
+        },
+        {
+          "text": "know asking john *huber* us attorney to",
+          "location": 1273
+        }
+      ]
+    },
+    {
+      "id": "Olfa4vMMDEk",
+      "segments": [
+        {
+          "text": "*huber* inspector general michael horowitz",
+          "location": 784
+        },
+        {
+          "text": "happening with *huber* and horowitz so i",
+          "location": 833
+        },
+        {
+          "text": "our comps *huber* faces two-way street q",
+          "location": 852
+        },
+        {
+          "text": "*huber* spices and it's a two-way street",
+          "location": 876
+        },
+        {
+          "text": "*huber* john *huber* has been doing behind",
+          "location": 893
+        },
+        {
+          "text": "panic regarding *huber* why has the fisa",
+          "location": 921
+        },
+        {
+          "text": "panicking about *huber* and the reason the",
+          "location": 1022
+        }
+      ]
+    },
+    {
+      "id": "oStMB-W5ovI",
+      "segments": [
+        {
+          "text": "dc sessions in *huber* weekend meetings",
+          "location": 1911
+        },
+        {
+          "text": "now you guys remember john *huber* he's",
+          "location": 1913
+        }
+      ]
+    },
+    {
+      "id": "oXoEIlNO77U",
+      "segments": [
+        {
+          "text": "investigation see because *huber* is going",
+          "location": 1142
+        }
+      ]
+    },
+    {
+      "id": "peHd3IOjylg",
+      "segments": [
+        {
+          "text": "but who is john *huber*",
+          "location": 834
+        }
+      ]
+    },
+    {
+      "id": "Pk6jznEcP4U",
+      "segments": [
+        {
+          "text": "person who leaked *huber* clinton",
+          "location": 111
+        },
+        {
+          "text": "and humor *huber* you will pay all pay the",
+          "location": 243
+        },
+        {
+          "text": "doubting sessions in *huber* what's been",
+          "location": 255
+        },
+        {
+          "text": "we've talked about how john *huber* was",
+          "location": 259
+        },
+        {
+          "text": "*huber* activities no further details",
+          "location": 289
+        },
+        {
+          "text": "but *huber* has not directly interviewed",
+          "location": 373
+        },
+        {
+          "text": "appointment of *huber* by sessions and",
+          "location": 378
+        },
+        {
+          "text": "sessions in *huber* are following standard",
+          "location": 382
+        },
+        {
+          "text": "sessions but *hubert* ability to prosecute",
+          "location": 391
+        },
+        {
+          "text": "sessions shouldn't be trusted why *huber*",
+          "location": 428
+        },
+        {
+          "text": "ex coincidence verse *huber* start but",
+          "location": 481
+        },
+        {
+          "text": "he's insinuating that *huber* is helping",
+          "location": 511
+        },
+        {
+          "text": "*huber* to whistleblower monday cue hops",
+          "location": 582
+        },
+        {
+          "text": "*huber* thing and that's why i think he",
+          "location": 1320
+        },
+        {
+          "text": "assigned to john *huber* the utah us",
+          "location": 1377
+        }
+      ]
+    },
+    {
+      "id": "PN8oDcxVDKU",
+      "segments": [
+        {
+          "text": "november 2017 when you've had john *huber*",
+          "location": 254
+        }
+      ]
+    },
+    {
+      "id": "pRriJNgzrcs",
+      "segments": [
+        {
+          "text": "is *huber* define inspector general when",
+          "location": 270
+        },
+        {
+          "text": "did sessions secretly engage *huber* why",
+          "location": 279
+        },
+        {
+          "text": "did sessions reveal *huber* timing is",
+          "location": 282
+        },
+        {
+          "text": "*huber* and kind of staying out of it but",
+          "location": 1107
+        },
+        {
+          "text": "general and john *huber* are actually one",
+          "location": 1372
+        },
+        {
+          "text": "define single shooter now *huber* is",
+          "location": 2123
+        },
+        {
+          "text": "name of john *huber* now who is john *huber*",
+          "location": 2132
+        },
+        {
+          "text": "right now so john *huber* is the one who's",
+          "location": 2144
+        },
+        {
+          "text": "media so my hope is that *huber* is one of",
+          "location": 2195
+        },
+        {
+          "text": "sessions is working with *huber* behind",
+          "location": 2221
+        },
+        {
+          "text": "why did sessions secretly engage *huber*",
+          "location": 2234
+        },
+        {
+          "text": "why did sessions reveal *huber* timing is",
+          "location": 2237
+        },
+        {
+          "text": "timing of revealing *huber* but i know",
+          "location": 2243
+        }
+      ]
+    },
+    {
+      "id": "qbNEx7wfmRw",
+      "segments": [
+        {
+          "text": "ones that have been run by john *huber*",
+          "location": 1433
+        }
+      ]
+    },
+    {
+      "id": "rCig3kho2SM",
+      "segments": [
+        {
+          "text": "investigation headed by john w *huber* the",
+          "location": 644
+        },
+        {
+          "text": "investigation headed by john w *huber* the",
+          "location": 707
+        },
+        {
+          "text": "us that john *huber* and his office from",
+          "location": 720
+        }
+      ]
+    },
+    {
+      "id": "RQ0Vxa8t2lE",
+      "segments": [
+        {
+          "text": "attorney john *huber* from utah who as we",
+          "location": 578
+        },
+        {
+          "text": "meeting the *huber* and office of",
+          "location": 619
+        }
+      ]
+    },
+    {
+      "id": "stXbBirLOa4",
+      "segments": [
+        {
+          "text": "report *huber* etc house dems used",
+          "location": 242
+        }
+      ]
+    },
+    {
+      "id": "SuFrbJ6SU-o",
+      "segments": [
+        {
+          "text": "maybe that makes sense why mr. *huber* was",
+          "location": 739
+        },
+        {
+          "text": "*huber* waited until november the 30th to",
+          "location": 1285
+        },
+        {
+          "text": "that that mr. *huber* and his team",
+          "location": 1391
+        },
+        {
+          "text": "mr. *huber* that they wanted you to send",
+          "location": 1406
+        },
+        {
+          "text": "the department of justice mr. *huber*",
+          "location": 1442
+        }
+      ]
+    },
+    {
+      "id": "TQZvMICk0VY",
+      "segments": [
+        {
+          "text": "on it barr and *huber* and dunham are",
+          "location": 221
+        }
+      ]
+    },
+    {
+      "id": "tvC2gQ4AczY",
+      "segments": [
+        {
+          "text": "*huber* truly called it brilliant quote",
+          "location": 633
+        },
+        {
+          "text": "that *huber* is conducting a full-fledged",
+          "location": 684
+        },
+        {
+          "text": "counsel to investigate *huber* has been",
+          "location": 691
+        },
+        {
+          "text": "has ordered *huber* to team to quote team",
+          "location": 808
+        },
+        {
+          "text": "with *huber* has a staff of 470",
+          "location": 833
+        },
+        {
+          "text": "investigators giving *huber* access to",
+          "location": 835
+        },
+        {
+          "text": "then *huber* can act on any of those",
+          "location": 896
+        },
+        {
+          "text": "matters as a us attorney *huber* has a",
+          "location": 899
+        },
+        {
+          "text": "*huber* has full authority and we're",
+          "location": 1121
+        },
+        {
+          "text": "necessary because *huber* quote",
+          "location": 1191
+        },
+        {
+          "text": "but *huber* for some reason does not bring",
+          "location": 1251
+        },
+        {
+          "text": "asked if *hubert* horowitz status as obama",
+          "location": 1265
+        },
+        {
+          "text": "that *huber* and horowitz make a great",
+          "location": 1328
+        },
+        {
+          "text": "to have *huber* a person who can impanel",
+          "location": 1342
+        },
+        {
+          "text": "and likely both support john *huber* *huber*",
+          "location": 1612
+        },
+        {
+          "text": "really explain because *huber* is not part",
+          "location": 1624
+        },
+        {
+          "text": "appointing *huber* who was the power who",
+          "location": 1638
+        },
+        {
+          "text": "*huber* and horowitz who are already five",
+          "location": 1657
+        }
+      ]
+    },
+    {
+      "id": "U008Q4Nl6Pw",
+      "segments": [
+        {
+          "text": "working for john *huber* and inspector",
+          "location": 56
+        }
+      ]
+    },
+    {
+      "id": "ulqxOJMqlbE",
+      "segments": [
+        {
+          "text": "regarding *huber* zero do not mistake",
+          "location": 183
+        },
+        {
+          "text": "not been one leak out of *huber* yet and",
+          "location": 216
+        },
+        {
+          "text": "connected directly to john *huber* and the",
+          "location": 1067
+        },
+        {
+          "text": "report *hubert* cetera house dems use",
+          "location": 1588
+        }
+      ]
+    },
+    {
+      "id": "UnaCSOYEHJY",
+      "segments": [
+        {
+          "text": "*huber* and inspector general michael",
+          "location": 520
+        },
+        {
+          "text": "started his investigation and john *huber*",
+          "location": 715
+        },
+        {
+          "text": "*huber* and inspector general michael",
+          "location": 945
+        }
+      ]
+    },
+    {
+      "id": "UYZK6SLUDac",
+      "segments": [
+        {
+          "text": "arrests why was *huber* made public why",
+          "location": 1633
+        }
+      ]
+    },
+    {
+      "id": "v__k4yoGtr0",
+      "segments": [
+        {
+          "text": "regarding inspector general and *huber*",
+          "location": 267
+        },
+        {
+          "text": "says who appointed *huber* sessions what",
+          "location": 269
+        },
+        {
+          "text": "read what the inspector general *huber*",
+          "location": 517
+        },
+        {
+          "text": "john *huber* appointed by removed by",
+          "location": 529
+        },
+        {
+          "text": "and the next *huber* post is talking about",
+          "location": 537
+        },
+        {
+          "text": "attack but it's saying why was *huber*",
+          "location": 546
+        },
+        {
+          "text": "references *huber* another time",
+          "location": 556
+        },
+        {
+          "text": "trust *huber* q so humor is gonna be in",
+          "location": 565
+        },
+        {
+          "text": "my opinion *huber* is gonna have some of",
+          "location": 570
+        },
+        {
+          "text": "have to look back at *huber* who appointed",
+          "location": 597
+        },
+        {
+          "text": "hoover it was set *hubert* sessions what",
+          "location": 599
+        }
+      ]
+    },
+    {
+      "id": "vdBH5hXgTx0",
+      "segments": [
+        {
+          "text": "about how john *huber* kind of came into",
+          "location": 1767
+        },
+        {
+          "text": "ends up with john *huber* today it goes",
+          "location": 1772
+        },
+        {
+          "text": "appointed *huber* how he appointed him",
+          "location": 1789
+        },
+        {
+          "text": "thought john *huber* was supposed to",
+          "location": 1909
+        },
+        {
+          "text": "about that but even though john *huber* is",
+          "location": 1912
+        },
+        {
+          "text": "schedule for tomorrow where is *hubert*",
+          "location": 1929
+        },
+        {
+          "text": "john *huber* in them and it's asking his",
+          "location": 1977
+        },
+        {
+          "text": "all referring back to john *huber* and",
+          "location": 2050
+        },
+        {
+          "text": "is basically worth saying where is *huber*",
+          "location": 2055
+        },
+        {
+          "text": "it's saying that you know *hubert* john",
+          "location": 2057
+        },
+        {
+          "text": "*huber* is the guy to go to there are that",
+          "location": 2059
+        },
+        {
+          "text": "you know basically so john *huber* was a",
+          "location": 2077
+        },
+        {
+          "text": "right meaning john *huber* is supposed to",
+          "location": 2079
+        },
+        {
+          "text": "*huber* will bring severe pain to dc",
+          "location": 2088
+        },
+        {
+          "text": "*hubert*",
+          "location": 2093
+        }
+      ]
+    },
+    {
+      "id": "vK8vS2FLi_8",
+      "segments": [
+        {
+          "text": "*huber* who was appointed to look at the",
+          "location": 1292
+        }
+      ]
+    },
+    {
+      "id": "VkklwV-XWV8",
+      "segments": [
+        {
+          "text": "about what's going on with *huber* he's",
+          "location": 2400
+        }
+      ]
+    },
+    {
+      "id": "wgltyCeZ9pk",
+      "segments": [
+        {
+          "text": "when did *huber* start november john",
+          "location": 248
+        },
+        {
+          "text": "*huber* can ig disclose evidence and",
+          "location": 259
+        }
+      ]
+    },
+    {
+      "id": "X1Ei27wYEkk",
+      "segments": [
+        {
+          "text": "*huber* who is going to be filing charges",
+          "location": 1050
+        }
+      ]
+    },
+    {
+      "id": "x8rM1oZB8U8",
+      "segments": [
+        {
+          "text": "report from john *huber* which apparently",
+          "location": 1463
+        },
+        {
+          "text": "the investigation from john *huber* turned",
+          "location": 1472
+        },
+        {
+          "text": "john *huber* involved in some of these",
+          "location": 1481
+        }
+      ]
+    },
+    {
+      "id": "XISLjXeWUwk",
+      "segments": [
+        {
+          "text": "*huber* what is the the significance of",
+          "location": 495
+        },
+        {
+          "text": "so apparently john *huber* i got this",
+          "location": 534
+        }
+      ]
+    },
+    {
+      "id": "xot9iXQ-zBA",
+      "segments": [
+        {
+          "text": "ag appointed us attorney *huber* nine",
+          "location": 162
+        },
+        {
+          "text": "vice a false application *huber* has not",
+          "location": 166
+        },
+        {
+          "text": "interviewed ors *huber* has not",
+          "location": 169
+        },
+        {
+          "text": "to proof that *huber* has been",
+          "location": 197
+        },
+        {
+          "text": "bruce or with john *huber* so that being",
+          "location": 215
+        }
+      ]
+    },
+    {
+      "id": "XpBu8gmssPY",
+      "segments": [
+        {
+          "text": "*huber* and oh i am sure that's already",
+          "location": 264
+        }
+      ]
+    },
+    {
+      "id": "YiKnAv4Iw2I",
+      "segments": [
+        {
+          "text": "john *huber* to empower to investigate the",
+          "location": 294
+        },
+        {
+          "text": "foundation mr. *huber* was joined doj has",
+          "location": 299
+        },
+        {
+          "text": "appointed mr. *huber* was supposed to take",
+          "location": 314
+        }
+      ]
+    },
+    {
+      "id": "YSq6X6aQhd0",
+      "segments": [
+        {
+          "text": "john *huber* michael horowitz and 470",
+          "location": 480
+        }
+      ]
+    },
+    {
+      "id": "ywlM82gfvbk",
+      "segments": [
+        {
+          "text": "with *huber* and the investigation into",
+          "location": 57
+        },
+        {
+          "text": "we say who does *huber* report to directly",
+          "location": 121
+        },
+        {
+          "text": "*huber* responds and direct is directed by",
+          "location": 149
+        },
+        {
+          "text": "with *huber* has a staff of 470",
+          "location": 170
+        },
+        {
+          "text": "investigators giving *huber* access to",
+          "location": 172
+        },
+        {
+          "text": "christopher rain john *huber* so you have",
+          "location": 671
+        },
+        {
+          "text": "fbi and the us attorney mr. *huber* and",
+          "location": 675
+        },
+        {
+          "text": "this is what jeff or john *huber* has been",
+          "location": 784
+        },
+        {
+          "text": "napolitano kind of explains why *huber*",
+          "location": 793
+        },
+        {
+          "text": "then redacted and now *huber* is",
+          "location": 1493
+        }
+      ]
+    },
+    {
+      "id": "Za2u9FkqiaU",
+      "segments": [
+        {
+          "text": "justice john *huber* and michael horowitz",
+          "location": 1087
+        },
+        {
+          "text": "access to what john *huber* is putting",
+          "location": 1124
+        },
+        {
+          "text": "who are at the disposal of john *huber*",
+          "location": 2499
+        }
+      ]
+    },
+    {
+      "id": "zB8nIspKlco",
+      "segments": [
+        {
+          "text": "diligently with *huber* how do you think",
+          "location": 1222
+        },
+        {
+          "text": "special counsel investigation *huber* and",
+          "location": 1270
+        }
+      ]
+    },
+    {
+      "id": "zJoO_HiEUno",
+      "segments": [
+        {
+          "text": "*huber* have had several interviews",
+          "location": 860
+        },
+        {
+          "text": "john *huber* and michael horowitz have had",
+          "location": 1271
+        }
+      ]
+    },
+    {
+      "id": "zu3muQumFyI",
+      "segments": [
+        {
+          "text": "general is involved and it says *huber*",
+          "location": 416
+        }
+      ]
+    },
+    {
+      "id": "q_QmpI9cyRY",
+      "segments": [
+        {
+          "text": "don't know john *huber* and john durham",
+          "location": 1063
+        }
+      ]
+    }
+  ]
+}

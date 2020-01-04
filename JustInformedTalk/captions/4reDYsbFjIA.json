@@ -1,0 +1,2452 @@
+[
+  {
+    "start": 0.82,
+    "duraction": 8.569,
+    "value": "[Applause]"
+  },
+  {
+    "start": 6.3,
+    "duraction": 3.089,
+    "value": "[Music]"
+  },
+  {
+    "start": 9.769,
+    "duraction": 5.53,
+    "value": "so what are we doing"
+  },
+  {
+    "start": 11.55,
+    "duraction": 5.489,
+    "value": "basically this sounds easy but it's"
+  },
+  {
+    "start": 15.299,
+    "duraction": 4.261,
+    "value": "really hard to do we're pushing down the"
+  },
+  {
+    "start": 17.039,
+    "duraction": 4.32,
+    "value": "take news we're demoting it and we are"
+  },
+  {
+    "start": 19.56,
+    "duraction": 4.62,
+    "value": "increasing the authoritative news and"
+  },
+  {
+    "start": 21.359,
+    "duraction": 3.991,
+    "value": "promoting it how do we do that we can"
+  },
+  {
+    "start": 24.18,
+    "duraction": 2.79,
+    "value": "have a whole system we came up with"
+  },
+  {
+    "start": 25.35,
+    "duraction": 4.11,
+    "value": "trashy news where we have build"
+  },
+  {
+    "start": 26.97,
+    "duraction": 4.649,
+    "value": "classifiers we identify it we look for"
+  },
+  {
+    "start": 29.46,
+    "duraction": 5.52,
+    "value": "salacious for clickbait content that"
+  },
+  {
+    "start": 31.619,
+    "duraction": 5.401,
+    "value": "isn't that we don't think is you know"
+  },
+  {
+    "start": 34.98,
+    "duraction": 3.63,
+    "value": "the authoritative news it's just kind of"
+  },
+  {
+    "start": 37.02,
+    "duraction": 3.719,
+    "value": "encouraging people to look at that it's"
+  },
+  {
+    "start": 38.61,
+    "duraction": 4.74,
+    "value": "not true and we're training we added"
+  },
+  {
+    "start": 40.739,
+    "duraction": 5.701,
+    "value": "these instructions to our readers and"
+  },
+  {
+    "start": 43.35,
+    "duraction": 5.369,
+    "value": "with updated our classifiers and we're"
+  },
+  {
+    "start": 46.44,
+    "duraction": 3.75,
+    "value": "working to understand identify that with"
+  },
+  {
+    "start": 48.719,
+    "duraction": 3.901,
+    "value": "machine learning and then to push that"
+  },
+  {
+    "start": 50.19,
+    "duraction": 5.49,
+    "value": "down this episode of just inform talk I"
+  },
+  {
+    "start": 52.62,
+    "duraction": 5.579,
+    "value": "sit down with the Google whistleblow mr."
+  },
+  {
+    "start": 55.68,
+    "duraction": 5.609,
+    "value": "Zack Voorhees and he's gonna tell us all"
+  },
+  {
+    "start": 58.199,
+    "duraction": 6.6,
+    "value": "about Google's secret projects including"
+  },
+  {
+    "start": 61.289,
+    "duraction": 6.15,
+    "value": "their a I projects known as deep mind"
+  },
+  {
+    "start": 64.799,
+    "duraction": 5.82,
+    "value": "which Q has told us about that we're"
+  },
+  {
+    "start": 67.439,
+    "duraction": 5.671,
+    "value": "gonna dive even deeper into what it can"
+  },
+  {
+    "start": 70.619,
+    "duraction": 5.371,
+    "value": "be used for and how it will eventually"
+  },
+  {
+    "start": 73.11,
+    "duraction": 5.369,
+    "value": "be weaponized by these big tech sensors"
+  },
+  {
+    "start": 75.99,
+    "duraction": 4.14,
+    "value": "and used against you and me so you guys"
+  },
+  {
+    "start": 78.479,
+    "duraction": 6.481,
+    "value": "don't wanna stick around to check this"
+  },
+  {
+    "start": 80.13,
+    "duraction": 7.32,
+    "value": "out and welcome to just informed talk"
+  },
+  {
+    "start": 84.96,
+    "duraction": 4.86,
+    "value": "today we have a very special guest you"
+  },
+  {
+    "start": 87.45,
+    "duraction": 5.33,
+    "value": "guys don't need to hear me say his name"
+  },
+  {
+    "start": 89.82,
+    "duraction": 5.759,
+    "value": "out loud because there are Google"
+  },
+  {
+    "start": 92.78,
+    "duraction": 4.6,
+    "value": "speech-to-text algorithms that could"
+  },
+  {
+    "start": 95.579,
+    "duraction": 4.411,
+    "value": "pick it up and might actually take this"
+  },
+  {
+    "start": 97.38,
+    "duraction": 5.97,
+    "value": "video offline but he is known as the"
+  },
+  {
+    "start": 99.99,
+    "duraction": 7.29,
+    "value": "Google whistleblower and he is here with"
+  },
+  {
+    "start": 103.35,
+    "duraction": 7.199,
+    "value": "us today so so let's get into your"
+  },
+  {
+    "start": 107.28,
+    "duraction": 5.46,
+    "value": "knowledge of project deep mind what is"
+  },
+  {
+    "start": 110.549,
+    "duraction": 4.831,
+    "value": "deep mind can we get into that because"
+  },
+  {
+    "start": 112.74,
+    "duraction": 3.9,
+    "value": "this is relevant to my audience and I"
+  },
+  {
+    "start": 115.38,
+    "duraction": 3.33,
+    "value": "think what who's going to be watching"
+  },
+  {
+    "start": 116.64,
+    "duraction": 4.799,
+    "value": "this video we want to know more about"
+  },
+  {
+    "start": 118.71,
+    "duraction": 5.28,
+    "value": "where that came from his dragon fly fake"
+  },
+  {
+    "start": 121.439,
+    "duraction": 4.021,
+    "value": "was that a head fake by Google to get"
+  },
+  {
+    "start": 123.99,
+    "duraction": 3.72,
+    "value": "people looking in one direction when"
+  },
+  {
+    "start": 125.46,
+    "duraction": 4.829,
+    "value": "yeah you know it was it was really"
+  },
+  {
+    "start": 127.71,
+    "duraction": 5.52,
+    "value": "interesting because I so let's rewind"
+  },
+  {
+    "start": 130.289,
+    "duraction": 4.681,
+    "value": "back to 2018 I had to"
+  },
+  {
+    "start": 133.23,
+    "duraction": 5.52,
+    "value": "delivered nine hundred fifty pages to"
+  },
+  {
+    "start": 134.97,
+    "duraction": 8.879,
+    "value": "project Veritas explaining how the whole"
+  },
+  {
+    "start": 138.75,
+    "duraction": 6.9,
+    "value": "system of censorship worked and you know"
+  },
+  {
+    "start": 143.849,
+    "duraction": 4.681,
+    "value": "then nothing can happen for a while but"
+  },
+  {
+    "start": 145.65,
+    "duraction": 7.32,
+    "value": "then my handler came back and said yo"
+  },
+  {
+    "start": 148.53,
+    "duraction": 9.06,
+    "value": "man what about project dragonfly and my"
+  },
+  {
+    "start": 152.97,
+    "duraction": 7.079,
+    "value": "response to him was I have no idea what"
+  },
+  {
+    "start": 157.59,
+    "duraction": 5.52,
+    "value": "project dragonfly is I've looked for it"
+  },
+  {
+    "start": 160.049,
+    "duraction": 7.111,
+    "value": "I can't find any information on it it"
+  },
+  {
+    "start": 163.11,
+    "duraction": 6.269,
+    "value": "doesn't seem to really exist but I have"
+  },
+  {
+    "start": 167.16,
+    "duraction": 6.299,
+    "value": "all this information on machine learning"
+  },
+  {
+    "start": 169.379,
+    "duraction": 6.091,
+    "value": "fairness like who made it like how long"
+  },
+  {
+    "start": 173.459,
+    "duraction": 3.78,
+    "value": "it was incubating at Stanford for like"
+  },
+  {
+    "start": 175.47,
+    "duraction": 3.739,
+    "value": "the contributors like this whole network"
+  },
+  {
+    "start": 177.239,
+    "duraction": 4.441,
+    "value": "of people that was involved in this"
+  },
+  {
+    "start": 179.209,
+    "duraction": 7.261,
+    "value": "machine learning fairness censorship"
+  },
+  {
+    "start": 181.68,
+    "duraction": 8.01,
+    "value": "regime and I said but I can't find thing"
+  },
+  {
+    "start": 186.47,
+    "duraction": 7.72,
+    "value": "about project dragonfly"
+  },
+  {
+    "start": 189.69,
+    "duraction": 6.18,
+    "value": "so yeah but then I seek that Q's been"
+  },
+  {
+    "start": 194.19,
+    "duraction": 5.24,
+    "value": "posting about it and said that it was"
+  },
+  {
+    "start": 195.87,
+    "duraction": 6.69,
+    "value": "given over to to China or something"
+  },
+  {
+    "start": 199.43,
+    "duraction": 4.75,
+    "value": "my personal opinion having worked within"
+  },
+  {
+    "start": 202.56,
+    "duraction": 5.04,
+    "value": "the company and researching what its"
+  },
+  {
+    "start": 204.18,
+    "duraction": 6.59,
+    "value": "activities were I believe that project"
+  },
+  {
+    "start": 207.6,
+    "duraction": 3.17,
+    "value": "dragonfly is fake and"
+  },
+  {
+    "start": 212.17,
+    "duraction": 5.19,
+    "value": "the reason and what another clue to this"
+  },
+  {
+    "start": 214.36,
+    "duraction": 5.58,
+    "value": "happened after I left the company and"
+  },
+  {
+    "start": 217.36,
+    "duraction": 4.41,
+    "value": "that's that's a big statement let me"
+  },
+  {
+    "start": 219.94,
+    "duraction": 6.21,
+    "value": "just kind out there for a second and say"
+  },
+  {
+    "start": 221.77,
+    "duraction": 6.39,
+    "value": "so if project dragonfly is fake let's go"
+  },
+  {
+    "start": 226.15,
+    "duraction": 3.87,
+    "value": "on that premise and just kind of go down"
+  },
+  {
+    "start": 228.16,
+    "duraction": 5.43,
+    "value": "there this path with you for a second"
+  },
+  {
+    "start": 230.02,
+    "duraction": 5.16,
+    "value": "doesn't negate the fact that Google was"
+  },
+  {
+    "start": 233.59,
+    "duraction": 4.83,
+    "value": "working with the Chinese on a mass"
+  },
+  {
+    "start": 235.18,
+    "duraction": 3.84,
+    "value": "censorship search algorithm that's"
+  },
+  {
+    "start": 238.42,
+    "duraction": 3.72,
+    "value": "correct"
+  },
+  {
+    "start": 239.02,
+    "duraction": 5.4,
+    "value": "okay so so we're what we're talking"
+  },
+  {
+    "start": 242.14,
+    "duraction": 4.56,
+    "value": "about is not that the project itself was"
+  },
+  {
+    "start": 244.42,
+    "duraction": 4.38,
+    "value": "drafted dragonfly was fake but Q may"
+  },
+  {
+    "start": 246.7,
+    "duraction": 4.14,
+    "value": "have obviously used that colloquial term"
+  },
+  {
+    "start": 248.8,
+    "duraction": 4.11,
+    "value": "to refer to it because it was the"
+  },
+  {
+    "start": 250.84,
+    "duraction": 6.36,
+    "value": "popular term that the people were"
+  },
+  {
+    "start": 252.91,
+    "duraction": 6.78,
+    "value": "grasping onto but is there any"
+  },
+  {
+    "start": 257.2,
+    "duraction": 4.77,
+    "value": "connection to a project that was also"
+  },
+  {
+    "start": 259.69,
+    "duraction": 3.75,
+    "value": "named deep dream and do you know"
+  },
+  {
+    "start": 261.97,
+    "duraction": 3.54,
+    "value": "anything about that I think that's more"
+  },
+  {
+    "start": 263.44,
+    "duraction": 3.45,
+    "value": "centered out of Twitter so not a man"
+  },
+  {
+    "start": 265.51,
+    "duraction": 3.0,
+    "value": "that's it that's something that we're"
+  },
+  {
+    "start": 266.89,
+    "duraction": 6.41,
+    "value": "researching that my team is researching"
+  },
+  {
+    "start": 268.51,
+    "duraction": 6.69,
+    "value": "right now because deep dream"
+  },
+  {
+    "start": 273.3,
+    "duraction": 4.42,
+    "value": "deep dream was a really interesting"
+  },
+  {
+    "start": 275.2,
+    "duraction": 4.86,
+    "value": "project that made these really trippy"
+  },
+  {
+    "start": 277.72,
+    "duraction": 4.53,
+    "value": "LSD like videos that was you know that"
+  },
+  {
+    "start": 280.06,
+    "duraction": 5.12,
+    "value": "you can find them on YouTube in fact if"
+  },
+  {
+    "start": 282.25,
+    "duraction": 5.97,
+    "value": "you just type a deep dream Google and"
+  },
+  {
+    "start": 285.18,
+    "duraction": 5.02,
+    "value": "what it does is it's a machine learning"
+  },
+  {
+    "start": 288.22,
+    "duraction": 6.63,
+    "value": "algorithm that is trained to find"
+  },
+  {
+    "start": 290.2,
+    "duraction": 7.11,
+    "value": "certain things and in images so it will"
+  },
+  {
+    "start": 294.85,
+    "duraction": 5.069,
+    "value": "tell you how much an image contains a"
+  },
+  {
+    "start": 297.31,
+    "duraction": 4.53,
+    "value": "cat like a hundred percent it's like"
+  },
+  {
+    "start": 299.919,
+    "duraction": 3.541,
+    "value": "totally a cat if it's zero percent it's"
+  },
+  {
+    "start": 301.84,
+    "duraction": 5.19,
+    "value": "definitely not like a cat that it"
+  },
+  {
+    "start": 303.46,
+    "duraction": 8.519,
+    "value": "recognizes and so deep dream was able to"
+  },
+  {
+    "start": 307.03,
+    "duraction": 6.3,
+    "value": "generate these and to generate these"
+  },
+  {
+    "start": 311.979,
+    "duraction": 3.0,
+    "value": "images because what they would do is"
+  },
+  {
+    "start": 313.33,
+    "duraction": 3.39,
+    "value": "that they would they would take the"
+  },
+  {
+    "start": 314.979,
+    "duraction": 3.421,
+    "value": "images input they would feed it into the"
+  },
+  {
+    "start": 316.72,
+    "duraction": 5.54,
+    "value": "algorithm and then the algorithm would"
+  },
+  {
+    "start": 318.4,
+    "duraction": 3.86,
+    "value": "kind of come up with and with a"
+  },
+  {
+    "start": 322.56,
+    "duraction": 3.85,
+    "value": "representation in its mind about how the"
+  },
+  {
+    "start": 325.0,
+    "duraction": 3.15,
+    "value": "image looked and how it kind of looked"
+  },
+  {
+    "start": 326.41,
+    "duraction": 4.23,
+    "value": "like a cat well you could take that"
+  },
+  {
+    "start": 328.15,
+    "duraction": 4.73,
+    "value": "image kind of flatten it into pixels and"
+  },
+  {
+    "start": 330.64,
+    "duraction": 4.74,
+    "value": "then add that back to the picture and"
+  },
+  {
+    "start": 332.88,
+    "duraction": 4.12,
+    "value": "and if you keep on repeating this"
+  },
+  {
+    "start": 335.38,
+    "duraction": 5.159,
+    "value": "process that what happens is that you"
+  },
+  {
+    "start": 337.0,
+    "duraction": 7.95,
+    "value": "get like you know dog faces out of you"
+  },
+  {
+    "start": 340.539,
+    "duraction": 5.161,
+    "value": "know what is essentially noise and as it"
+  },
+  {
+    "start": 344.95,
+    "duraction": 3.36,
+    "value": "keeps"
+  },
+  {
+    "start": 345.7,
+    "duraction": 5.19,
+    "value": "through that the image of a dog face"
+  },
+  {
+    "start": 348.31,
+    "duraction": 5.31,
+    "value": "gets like more stronger and stronger and"
+  },
+  {
+    "start": 350.89,
+    "duraction": 5.3,
+    "value": "stronger and then people do things like"
+  },
+  {
+    "start": 353.62,
+    "duraction": 5.07,
+    "value": "they can like zoom in on the video now"
+  },
+  {
+    "start": 356.19,
+    "duraction": 5.92,
+    "value": "to get even deeper what do you think"
+  },
+  {
+    "start": 358.69,
+    "duraction": 4.62,
+    "value": "about the AI Manhattan Project what do"
+  },
+  {
+    "start": 362.11,
+    "duraction": 2.4,
+    "value": "you think that they're talking about"
+  },
+  {
+    "start": 363.31,
+    "duraction": 3.6,
+    "value": "when they talk about this we've talked"
+  },
+  {
+    "start": 364.51,
+    "duraction": 4.53,
+    "value": "about the the ability that the abilities"
+  },
+  {
+    "start": 366.91,
+    "duraction": 4.2,
+    "value": "of deep dream and how can we use for"
+  },
+  {
+    "start": 369.04,
+    "duraction": 4.37,
+    "value": "these deep fakes what do you think this"
+  },
+  {
+    "start": 371.11,
+    "duraction": 8.49,
+    "value": "Manhattan Project is referring to"
+  },
+  {
+    "start": 373.41,
+    "duraction": 10.87,
+    "value": "so this Manhattan Project known as deep"
+  },
+  {
+    "start": 379.6,
+    "duraction": 7.35,
+    "value": "mind has produced the best go and chess"
+  },
+  {
+    "start": 384.28,
+    "duraction": 4.95,
+    "value": "players in the world and it has"
+  },
+  {
+    "start": 386.95,
+    "duraction": 3.48,
+    "value": "developed as one of its many"
+  },
+  {
+    "start": 389.23,
+    "duraction": 5.55,
+    "value": "technologies something called"
+  },
+  {
+    "start": 390.43,
+    "duraction": 7.62,
+    "value": "transferable AI so usually when you grow"
+  },
+  {
+    "start": 394.78,
+    "duraction": 5.82,
+    "value": "an AI to solve a particular problem it"
+  },
+  {
+    "start": 398.05,
+    "duraction": 5.34,
+    "value": "is only going to solve that problem so"
+  },
+  {
+    "start": 400.6,
+    "duraction": 5.31,
+    "value": "for example your AI that can play chess"
+  },
+  {
+    "start": 403.39,
+    "duraction": 5.67,
+    "value": "can't play checkers"
+  },
+  {
+    "start": 405.91,
+    "duraction": 6.33,
+    "value": "it just doesn't know how to do it will"
+  },
+  {
+    "start": 409.06,
+    "duraction": 5.01,
+    "value": "make the wrong moves and so one of the"
+  },
+  {
+    "start": 412.24,
+    "duraction": 3.78,
+    "value": "key technologies that they have is hey"
+  },
+  {
+    "start": 414.07,
+    "duraction": 6.51,
+    "value": "let's build a neuro net and then retrain"
+  },
+  {
+    "start": 416.02,
+    "duraction": 8.1,
+    "value": "it for a related problem you know and so"
+  },
+  {
+    "start": 420.58,
+    "duraction": 5.91,
+    "value": "that was one of their key technologies"
+  },
+  {
+    "start": 424.12,
+    "duraction": 5.91,
+    "value": "that they have been able to do they're"
+  },
+  {
+    "start": 426.49,
+    "duraction": 6.39,
+    "value": "experts in these neuro networks so so"
+  },
+  {
+    "start": 430.03,
+    "duraction": 4.95,
+    "value": "here's a great question then you know as"
+  },
+  {
+    "start": 432.88,
+    "duraction": 4.2,
+    "value": "for what I do you know I'm on YouTube"
+  },
+  {
+    "start": 434.98,
+    "duraction": 3.9,
+    "value": "creating content and I'm very aware that"
+  },
+  {
+    "start": 437.08,
+    "duraction": 3.99,
+    "value": "their algorithms I know there's"
+  },
+  {
+    "start": 438.88,
+    "duraction": 3.84,
+    "value": "speech-to-text I know they're combing"
+  },
+  {
+    "start": 441.07,
+    "duraction": 3.54,
+    "value": "through all of that the content that's"
+  },
+  {
+    "start": 442.72,
+    "duraction": 3.48,
+    "value": "created and they're looking for keywords"
+  },
+  {
+    "start": 444.61,
+    "duraction": 4.38,
+    "value": "they looking for"
+  },
+  {
+    "start": 446.2,
+    "duraction": 4.62,
+    "value": "all of these different markers is the"
+  },
+  {
+    "start": 448.99,
+    "duraction": 3.75,
+    "value": "machine because I used to get these"
+  },
+  {
+    "start": 450.82,
+    "duraction": 3.72,
+    "value": "emails when I used to talk to group it"
+  },
+  {
+    "start": 452.74,
+    "duraction": 3.15,
+    "value": "say YouTube all the time I'd write to"
+  },
+  {
+    "start": 454.54,
+    "duraction": 3.12,
+    "value": "Google basically and we'd be having"
+  },
+  {
+    "start": 455.89,
+    "duraction": 3.66,
+    "value": "these conversations and this is"
+  },
+  {
+    "start": 457.66,
+    "duraction": 3.33,
+    "value": "happening on YouTube they're taking my"
+  },
+  {
+    "start": 459.55,
+    "duraction": 2.58,
+    "value": "videos they're not suggesting them"
+  },
+  {
+    "start": 460.99,
+    "duraction": 3.51,
+    "value": "they're doing this or doing that it's"
+  },
+  {
+    "start": 462.13,
+    "duraction": 4.62,
+    "value": "not fair and they would always say it's"
+  },
+  {
+    "start": 464.5,
+    "duraction": 4.11,
+    "value": "it's the machine learning you know you"
+  },
+  {
+    "start": 466.75,
+    "duraction": 4.83,
+    "value": "we don't know it's the machine learning"
+  },
+  {
+    "start": 468.61,
+    "duraction": 4.56,
+    "value": "yeah so they taught a lot of this off on"
+  },
+  {
+    "start": 471.58,
+    "duraction": 3.75,
+    "value": "the machine learning as if ya know"
+  },
+  {
+    "start": 473.17,
+    "duraction": 4.2,
+    "value": "control over the like creating it"
+  },
+  {
+    "start": 475.33,
+    "duraction": 4.149,
+    "value": "they're obviously creating it but to"
+  },
+  {
+    "start": 477.37,
+    "duraction": 5.769,
+    "value": "what extent do you think that we're"
+  },
+  {
+    "start": 479.479,
+    "duraction": 5.37,
+    "value": "- this kind of threshold where it's it's"
+  },
+  {
+    "start": 483.139,
+    "duraction": 3.691,
+    "value": "like you're talking about with I think"
+  },
+  {
+    "start": 484.849,
+    "duraction": 3.9,
+    "value": "we talked about earlier with chess I"
+  },
+  {
+    "start": 486.83,
+    "duraction": 5.669,
+    "value": "don't know if it was here or not but and"
+  },
+  {
+    "start": 488.749,
+    "duraction": 6.51,
+    "value": "how the AI is it goes and it does all"
+  },
+  {
+    "start": 492.499,
+    "duraction": 4.32,
+    "value": "the the scenarios on its own and then it"
+  },
+  {
+    "start": 495.259,
+    "duraction": 3.69,
+    "value": "goes and plays the world's top player"
+  },
+  {
+    "start": 496.819,
+    "duraction": 4.62,
+    "value": "and it beats them because it's already"
+  },
+  {
+    "start": 498.949,
+    "duraction": 5.761,
+    "value": "gone and played a bajillion games of"
+  },
+  {
+    "start": 501.439,
+    "duraction": 6.241,
+    "value": "chess and it knows every scenario right"
+  },
+  {
+    "start": 504.71,
+    "duraction": 5.819,
+    "value": "and so what point do they really"
+  },
+  {
+    "start": 507.68,
+    "duraction": 5.909,
+    "value": "fine-tune enough and have they done that"
+  },
+  {
+    "start": 510.529,
+    "duraction": 4.8,
+    "value": "I think with YouTube yet I don't think"
+  },
+  {
+    "start": 513.589,
+    "duraction": 3.33,
+    "value": "they fine-tune it perfectly but I mean"
+  },
+  {
+    "start": 515.329,
+    "duraction": 4.921,
+    "value": "they're definitely working on this as"
+  },
+  {
+    "start": 516.919,
+    "duraction": 6.99,
+    "value": "far as you know giving it some sort of"
+  },
+  {
+    "start": 520.25,
+    "duraction": 6.69,
+    "value": "scope to go out and actually be more"
+  },
+  {
+    "start": 523.909,
+    "duraction": 5.43,
+    "value": "autonomous and to just act as it will I"
+  },
+  {
+    "start": 526.94,
+    "duraction": 3.93,
+    "value": "mean you saw the videos I mentioned the"
+  },
+  {
+    "start": 529.339,
+    "duraction": 3.661,
+    "value": "whistleblowers they were my video gets"
+  },
+  {
+    "start": 530.87,
+    "duraction": 4.019,
+    "value": "taken down you told me I mentioned your"
+  },
+  {
+    "start": 533.0,
+    "duraction": 4.26,
+    "value": "name and who knows what it'll happen I'm"
+  },
+  {
+    "start": 534.889,
+    "duraction": 5.31,
+    "value": "sure my computer will blow up so I'm"
+  },
+  {
+    "start": 537.26,
+    "duraction": 5.4,
+    "value": "just I'm trying to figure out how bad is"
+  },
+  {
+    "start": 540.199,
+    "duraction": 3.87,
+    "value": "it and and how where does it go from"
+  },
+  {
+    "start": 542.66,
+    "duraction": 7.31,
+    "value": "here I mean it's a form of liability"
+  },
+  {
+    "start": 544.069,
+    "duraction": 5.901,
+    "value": "laundering so you know it's like"
+  },
+  {
+    "start": 551.29,
+    "duraction": 5.83,
+    "value": "Google had blacklists and they're gonna"
+  },
+  {
+    "start": 554.51,
+    "duraction": 4.31,
+    "value": "continue to have black lists but these"
+  },
+  {
+    "start": 557.12,
+    "duraction": 4.02,
+    "value": "black lists are gonna be hidden in"
+  },
+  {
+    "start": 558.82,
+    "duraction": 5.35,
+    "value": "convoluted machine learning networks"
+  },
+  {
+    "start": 561.14,
+    "duraction": 5.52,
+    "value": "that no one can decipher how they"
+  },
+  {
+    "start": 564.17,
+    "duraction": 6.69,
+    "value": "actually work it will be almost like a"
+  },
+  {
+    "start": 566.66,
+    "duraction": 6.3,
+    "value": "mystical you know you know Mechanical"
+  },
+  {
+    "start": 570.86,
+    "duraction": 4.68,
+    "value": "Turk the Oracle of Google says you are"
+  },
+  {
+    "start": 572.96,
+    "duraction": 5.61,
+    "value": "not allowed exactly right like we don't"
+  },
+  {
+    "start": 575.54,
+    "duraction": 4.77,
+    "value": "know how the box works right and good"
+  },
+  {
+    "start": 578.57,
+    "duraction": 3.6,
+    "value": "luck trying to convicting algorithm of"
+  },
+  {
+    "start": 580.31,
+    "duraction": 5.91,
+    "value": "discrimination there has to be like a"
+  },
+  {
+    "start": 582.17,
+    "duraction": 6.45,
+    "value": "person behind the thing doing it for you"
+  },
+  {
+    "start": 586.22,
+    "duraction": 3.84,
+    "value": "to have an actual cause because you can"
+  },
+  {
+    "start": 588.62,
+    "duraction": 3.3,
+    "value": "bring that person into court you can be"
+  },
+  {
+    "start": 590.06,
+    "duraction": 3.6,
+    "value": "like are you racist and like hell yeah a"
+  },
+  {
+    "start": 591.92,
+    "duraction": 4.41,
+    "value": "racist and then it's like why I rest my"
+  },
+  {
+    "start": 593.66,
+    "duraction": 4.5,
+    "value": "case but you can't do that with like an"
+  },
+  {
+    "start": 596.33,
+    "duraction": 4.98,
+    "value": "algorithm it's much harder you can't"
+  },
+  {
+    "start": 598.16,
+    "duraction": 5.46,
+    "value": "cross examine an algorithm hell people"
+  },
+  {
+    "start": 601.31,
+    "duraction": 4.47,
+    "value": "don't even know how it works if it's a"
+  },
+  {
+    "start": 603.62,
+    "duraction": 4.56,
+    "value": "machine learning neural network because"
+  },
+  {
+    "start": 605.78,
+    "duraction": 4.65,
+    "value": "like as a software engineer I can't even"
+  },
+  {
+    "start": 608.18,
+    "duraction": 3.78,
+    "value": "tell you how a neural network works well"
+  },
+  {
+    "start": 610.43,
+    "duraction": 3.51,
+    "value": "and if you think about it I mean most"
+  },
+  {
+    "start": 611.96,
+    "duraction": 3.24,
+    "value": "neurologists have a very limited"
+  },
+  {
+    "start": 613.94,
+    "duraction": 3.48,
+    "value": "understanding of how the brain works"
+  },
+  {
+    "start": 615.2,
+    "duraction": 5.04,
+    "value": "they say they've mapped the whole brain"
+  },
+  {
+    "start": 617.42,
+    "duraction": 4.35,
+    "value": "but to understand how each neuron"
+  },
+  {
+    "start": 620.24,
+    "duraction": 3.66,
+    "value": "interacts with one another is almost"
+  },
+  {
+    "start": 621.77,
+    "duraction": 5.43,
+    "value": "impossible and it seems if we're talking"
+  },
+  {
+    "start": 623.9,
+    "duraction": 5.64,
+    "value": "about neurons and these pathways that AI"
+  },
+  {
+    "start": 627.2,
+    "duraction": 6.03,
+    "value": "is basically building these these brains"
+  },
+  {
+    "start": 629.54,
+    "duraction": 7.86,
+    "value": "right and the brains themselves seem to"
+  },
+  {
+    "start": 633.23,
+    "duraction": 6.78,
+    "value": "be evolving on their own I mean this is"
+  },
+  {
+    "start": 637.4,
+    "duraction": 4.05,
+    "value": "crazy this is this is this may be the"
+  },
+  {
+    "start": 640.01,
+    "duraction": 3.54,
+    "value": "end of humanity what do you think about"
+  },
+  {
+    "start": 641.45,
+    "duraction": 4.62,
+    "value": "that it literally could be the end of"
+  },
+  {
+    "start": 643.55,
+    "duraction": 4.14,
+    "value": "humanity like your water pay that's just"
+  },
+  {
+    "start": 646.07,
+    "duraction": 4.02,
+    "value": "why I blow the whistle I was being"
+  },
+  {
+    "start": 647.69,
+    "duraction": 5.94,
+    "value": "facetious but no no I'm seriously I'm"
+  },
+  {
+    "start": 650.09,
+    "duraction": 7.89,
+    "value": "seriously yeah but not really like you"
+  },
+  {
+    "start": 653.63,
+    "duraction": 6.81,
+    "value": "know we have an AI system now it"
+  },
+  {
+    "start": 657.98,
+    "duraction": 7.62,
+    "value": "probably exists somewhere in you know"
+  },
+  {
+    "start": 660.44,
+    "duraction": 7.32,
+    "value": "skunkworks somewhere and it is going to"
+  },
+  {
+    "start": 665.6,
+    "duraction": 6.33,
+    "value": "be able to outsmart anyone and"
+  },
+  {
+    "start": 667.76,
+    "duraction": 5.49,
+    "value": "everything that they do and what are we"
+  },
+  {
+    "start": 671.93,
+    "duraction": 4.38,
+    "value": "gonna do it that like who's going to be"
+  },
+  {
+    "start": 673.25,
+    "duraction": 8.09,
+    "value": "the first to habit now according to you"
+  },
+  {
+    "start": 676.31,
+    "duraction": 8.13,
+    "value": "know Google's cloud AI % VP Lee who's"
+  },
+  {
+    "start": 681.34,
+    "duraction": 6.55,
+    "value": "coincidentally building the AI research"
+  },
+  {
+    "start": 684.44,
+    "duraction": 6.87,
+    "value": "Center in Beijing right"
+  },
+  {
+    "start": 687.89,
+    "duraction": 6.9,
+    "value": "she said that Google's when it comes to"
+  },
+  {
+    "start": 691.31,
+    "duraction": 7.94,
+    "value": "google's AI technology they the company"
+  },
+  {
+    "start": 694.79,
+    "duraction": 9.84,
+    "value": "doesn't have borders or boundaries okay"
+  },
+  {
+    "start": 699.25,
+    "duraction": 9.16,
+    "value": "whoa haha like you know no no we will"
+  },
+  {
+    "start": 704.63,
+    "duraction": 7.44,
+    "value": "all be slaves to this global hedge body"
+  },
+  {
+    "start": 708.41,
+    "duraction": 6.54,
+    "value": "of AI gods who live in their surface in"
+  },
+  {
+    "start": 712.07,
+    "duraction": 6.84,
+    "value": "protected bunkers here at Utica Hall"
+  },
+  {
+    "start": 714.95,
+    "duraction": 4.44,
+    "value": "places right out of China I don't know"
+  },
+  {
+    "start": 718.91,
+    "duraction": 3.03,
+    "value": "man"
+  },
+  {
+    "start": 719.39,
+    "duraction": 4.92,
+    "value": "I mean look it sounds dystopian it"
+  },
+  {
+    "start": 721.94,
+    "duraction": 5.73,
+    "value": "sounds Orwellian it sounds like some"
+  },
+  {
+    "start": 724.31,
+    "duraction": 6.42,
+    "value": "bleak future but we are here it is today"
+  },
+  {
+    "start": 727.67,
+    "duraction": 5.28,
+    "value": "and there has to be some sort of"
+  },
+  {
+    "start": 730.73,
+    "duraction": 4.11,
+    "value": "pushback so I'm glad that you're coming"
+  },
+  {
+    "start": 732.95,
+    "duraction": 4.56,
+    "value": "forward I mean let's be honest what"
+  },
+  {
+    "start": 734.84,
+    "duraction": 5.94,
+    "value": "you're doing is important the the fact"
+  },
+  {
+    "start": 737.51,
+    "duraction": 5.64,
+    "value": "is this is a fight for Humanity as we"
+  },
+  {
+    "start": 740.78,
+    "duraction": 7.17,
+    "value": "know it it will change drastically and"
+  },
+  {
+    "start": 743.15,
+    "duraction": 7.38,
+    "value": "and almost on you know we won't be able"
+  },
+  {
+    "start": 747.95,
+    "duraction": 4.74,
+    "value": "to go back after this the horse won't go"
+  },
+  {
+    "start": 750.53,
+    "duraction": 4.35,
+    "value": "back in the barn everything will be out"
+  },
+  {
+    "start": 752.69,
+    "duraction": 5.49,
+    "value": "there and it seems like we're really"
+  },
+  {
+    "start": 754.88,
+    "duraction": 5.04,
+    "value": "heading down a dark path so no no no no"
+  },
+  {
+    "start": 758.18,
+    "duraction": 4.38,
+    "value": "no don't don't don't don't be"
+  },
+  {
+    "start": 759.92,
+    "duraction": 4.77,
+    "value": "pessimistic well that's about the"
+  },
+  {
+    "start": 762.56,
+    "duraction": 3.84,
+    "value": "pendant to is that it seems like we're"
+  },
+  {
+    "start": 764.69,
+    "duraction": 4.89,
+    "value": "heading down the right path what do you"
+  },
+  {
+    "start": 766.4,
+    "duraction": 5.13,
+    "value": "think ways we can we can kind of stand"
+  },
+  {
+    "start": 769.58,
+    "duraction": 3.56,
+    "value": "up to this fight it because I know what"
+  },
+  {
+    "start": 771.53,
+    "duraction": 4.14,
+    "value": "what we're doing here on this channel is"
+  },
+  {
+    "start": 773.14,
+    "duraction": 5.11,
+    "value": "we're standing up against censorship and"
+  },
+  {
+    "start": 775.67,
+    "duraction": 4.53,
+    "value": "oppression and we're actually bringing"
+  },
+  {
+    "start": 778.25,
+    "duraction": 3.18,
+    "value": "up putting a light on a lot of these"
+  },
+  {
+    "start": 780.2,
+    "duraction": 4.08,
+    "value": "dark issues that people don't want to"
+  },
+  {
+    "start": 781.43,
+    "duraction": 4.14,
+    "value": "talk about and you know I know you're"
+  },
+  {
+    "start": 784.28,
+    "duraction": 3.24,
+    "value": "doing the same thing you've been working"
+  },
+  {
+    "start": 785.57,
+    "duraction": 3.96,
+    "value": "with Project Veritas you got your own"
+  },
+  {
+    "start": 787.52,
+    "duraction": 4.14,
+    "value": "things going on and you're really"
+  },
+  {
+    "start": 789.53,
+    "duraction": 4.17,
+    "value": "focused on health it and that's great we"
+  },
+  {
+    "start": 791.66,
+    "duraction": 4.38,
+    "value": "want to get people healthy and so let's"
+  },
+  {
+    "start": 793.7,
+    "duraction": 4.44,
+    "value": "talk about some positive things you know"
+  },
+  {
+    "start": 796.04,
+    "duraction": 3.9,
+    "value": "kind of wrap this all up you know how"
+  },
+  {
+    "start": 798.14,
+    "duraction": 6.27,
+    "value": "they can be positive thing yeah you got"
+  },
+  {
+    "start": 799.94,
+    "duraction": 8.73,
+    "value": "all right so it turns out that I caught"
+  },
+  {
+    "start": 804.41,
+    "duraction": 7.17,
+    "value": "Google hiding a website devoted to a new"
+  },
+  {
+    "start": 808.67,
+    "duraction": 5.04,
+    "value": "form of clean nuclear energy you've"
+  },
+  {
+    "start": 811.58,
+    "duraction": 5.88,
+    "value": "probably heard it named as cold fusion"
+  },
+  {
+    "start": 813.71,
+    "duraction": 4.65,
+    "value": "or you know chemical assisted nuclear"
+  },
+  {
+    "start": 817.46,
+    "duraction": 4.26,
+    "value": "reaction or"
+  },
+  {
+    "start": 818.36,
+    "duraction": 7.05,
+    "value": "energy nuclear reaction but there's a"
+  },
+  {
+    "start": 821.72,
+    "duraction": 6.66,
+    "value": "device by made by a engineer by the name"
+  },
+  {
+    "start": 825.41,
+    "duraction": 6.239,
+    "value": "of Andre Rossi he's been working on it"
+  },
+  {
+    "start": 828.38,
+    "duraction": 8.09,
+    "value": "for over a decade he has had this"
+  },
+  {
+    "start": 831.649,
+    "duraction": 7.021,
+    "value": "machine tested by a third-party analyst"
+  },
+  {
+    "start": 836.47,
+    "duraction": 4.51,
+    "value": "who's internationally known and the"
+  },
+  {
+    "start": 838.67,
+    "duraction": 6.33,
+    "value": "results of this positive confirmation of"
+  },
+  {
+    "start": 840.98,
+    "duraction": 6.049,
+    "value": "a 30 day test was posted at Cornell"
+  },
+  {
+    "start": 845.0,
+    "duraction": 2.029,
+    "value": "University"
+  },
+  {
+    "start": 847.22,
+    "duraction": 8.929,
+    "value": "this guy has discovered and engineered a"
+  },
+  {
+    "start": 851.89,
+    "duraction": 8.41,
+    "value": "reactor type that works off a"
+  },
+  {
+    "start": 856.149,
+    "duraction": 6.841,
+    "value": "combination of gladium and a heavy form"
+  },
+  {
+    "start": 860.3,
+    "duraction": 8.969,
+    "value": "of hydrogen known as duta"
+  },
+  {
+    "start": 862.99,
+    "duraction": 8.77,
+    "value": "deuterium or deuterium and a website"
+  },
+  {
+    "start": 869.269,
+    "duraction": 5.19,
+    "value": "that follows his technology is called"
+  },
+  {
+    "start": 871.76,
+    "duraction": 4.71,
+    "value": "eat cat WorldCom now they don't just"
+  },
+  {
+    "start": 874.459,
+    "duraction": 6.021,
+    "value": "post about Rossi's machine actually post"
+  },
+  {
+    "start": 876.47,
+    "duraction": 8.97,
+    "value": "about a bunch of different cold fusion"
+  },
+  {
+    "start": 880.48,
+    "duraction": 7.33,
+    "value": "related startups but Audrey Ross sees"
+  },
+  {
+    "start": 885.44,
+    "duraction": 4.62,
+    "value": "you know the one they talked the most"
+  },
+  {
+    "start": 887.81,
+    "duraction": 7.23,
+    "value": "about and Audrey Rossi seems to be the"
+  },
+  {
+    "start": 890.06,
+    "duraction": 10.68,
+    "value": "most advanced in this field and so when"
+  },
+  {
+    "start": 895.04,
+    "duraction": 9.03,
+    "value": "I was at Google I noticed that around"
+  },
+  {
+    "start": 900.74,
+    "duraction": 5.4,
+    "value": "November this website was delisted"
+  },
+  {
+    "start": 904.07,
+    "duraction": 5.85,
+    "value": "account world was delisted from the"
+  },
+  {
+    "start": 906.14,
+    "duraction": 7.02,
+    "value": "Google search index and they relisted at"
+  },
+  {
+    "start": 909.92,
+    "duraction": 5.01,
+    "value": "dot org and they made it like a note"
+  },
+  {
+    "start": 913.16,
+    "duraction": 3.45,
+    "value": "saying hey we've been delisted off of"
+  },
+  {
+    "start": 914.93,
+    "duraction": 3.75,
+    "value": "Google we don't understand what's going"
+  },
+  {
+    "start": 916.61,
+    "duraction": 5.339,
+    "value": "on but we're trying to get it resolved"
+  },
+  {
+    "start": 918.68,
+    "duraction": 6.56,
+    "value": "well I work at Google so I can get an"
+  },
+  {
+    "start": 921.949,
+    "duraction": 6.441,
+    "value": "inside look at what is really going on"
+  },
+  {
+    "start": 925.24,
+    "duraction": 8.409,
+    "value": "so I find out that they've been"
+  },
+  {
+    "start": 928.39,
+    "duraction": 8.139,
+    "value": "blacklisted from Google's search index"
+  },
+  {
+    "start": 933.649,
+    "duraction": 5.281,
+    "value": "because according to a bug that I saw"
+  },
+  {
+    "start": 936.529,
+    "duraction": 4.831,
+    "value": "and by the way this has been disclosed"
+  },
+  {
+    "start": 938.93,
+    "duraction": 7.529,
+    "value": "as part of my 950 pages at Project"
+  },
+  {
+    "start": 941.36,
+    "duraction": 8.11,
+    "value": "Veritas that this website was censored"
+  },
+  {
+    "start": 946.459,
+    "duraction": 7.151,
+    "value": "on October 1st"
+  },
+  {
+    "start": 949.47,
+    "duraction": 8.48,
+    "value": "I'm sorry October 2nd 2017 now let me"
+  },
+  {
+    "start": 953.61,
+    "duraction": 4.34,
+    "value": "ask you what happened October 1st 2017"
+  },
+  {
+    "start": 959.48,
+    "duraction": 8.77,
+    "value": "Las Vegas shooting massacre Wow okay so"
+  },
+  {
+    "start": 963.99,
+    "duraction": 7.56,
+    "value": "on the 2nd October 2nd the CEO of"
+  },
+  {
+    "start": 968.25,
+    "duraction": 5.64,
+    "value": "YouTube Susan with chief ski says oh my"
+  },
+  {
+    "start": 971.55,
+    "duraction": 4.86,
+    "value": "god Code Red emergency there's a whole"
+  },
+  {
+    "start": 973.89,
+    "duraction": 4.29,
+    "value": "bunch of fake news that's out there on"
+  },
+  {
+    "start": 976.41,
+    "duraction": 4.5,
+    "value": "the internet and we've got to like block"
+  },
+  {
+    "start": 978.18,
+    "duraction": 5.31,
+    "value": "it from people because it's just so bad"
+  },
+  {
+    "start": 980.91,
+    "duraction": 5.88,
+    "value": "right so they created this block list"
+  },
+  {
+    "start": 983.49,
+    "duraction": 6.02,
+    "value": "October 2nd what do they put on that"
+  },
+  {
+    "start": 986.79,
+    "duraction": 6.72,
+    "value": "they put they put on a whole bunch of"
+  },
+  {
+    "start": 989.51,
+    "duraction": 6.87,
+    "value": "links to Isis claiming that they were"
+  },
+  {
+    "start": 993.51,
+    "duraction": 5.61,
+    "value": "responsible for you know the shooting"
+  },
+  {
+    "start": 996.38,
+    "duraction": 6.34,
+    "value": "they they did a whole bunch of other"
+  },
+  {
+    "start": 999.12,
+    "duraction": 5.4,
+    "value": "stuff like multiple shooters stuff"
+  },
+  {
+    "start": 1002.72,
+    "duraction": 6.48,
+    "value": "talking about stephen paddock but then"
+  },
+  {
+    "start": 1004.52,
+    "duraction": 5.76,
+    "value": "also ecat world which doesn't ever talk"
+  },
+  {
+    "start": 1009.2,
+    "duraction": 4.47,
+    "value": "about current events"
+  },
+  {
+    "start": 1010.28,
+    "duraction": 6.93,
+    "value": "other than this cold fusion well someone"
+  },
+  {
+    "start": 1013.67,
+    "duraction": 6.54,
+    "value": "had put in a fake URL where this cold"
+  },
+  {
+    "start": 1017.21,
+    "duraction": 6.12,
+    "value": "fusion website was mistakenly as if it"
+  },
+  {
+    "start": 1020.21,
+    "duraction": 5.43,
+    "value": "was talking about stephen paddock in the"
+  },
+  {
+    "start": 1023.33,
+    "duraction": 3.78,
+    "value": "Las Vegas shooting so it got entered"
+  },
+  {
+    "start": 1025.64,
+    "duraction": 5.939,
+    "value": "onto that blacklist"
+  },
+  {
+    "start": 1027.11,
+    "duraction": 7.979,
+    "value": "and it got taken off of the internet for"
+  },
+  {
+    "start": 1031.579,
+    "duraction": 7.99,
+    "value": "this reason was that permanent was that"
+  },
+  {
+    "start": 1035.089,
+    "duraction": 7.15,
+    "value": "permanent it was permanent I found it"
+  },
+  {
+    "start": 1039.569,
+    "duraction": 8.511,
+    "value": "out of them I used the word this could"
+  },
+  {
+    "start": 1042.239,
+    "duraction": 8.07,
+    "value": "be corporate espionage and the someone a"
+  },
+  {
+    "start": 1048.08,
+    "duraction": 3.61,
+    "value": "lawyer got mad at me for saying that by"
+  },
+  {
+    "start": 1050.309,
+    "duraction": 3.48,
+    "value": "the way but someone within the company"
+  },
+  {
+    "start": 1051.69,
+    "duraction": 5.579,
+    "value": "was able to correct the problem and eke"
+  },
+  {
+    "start": 1053.789,
+    "duraction": 6.541,
+    "value": "out worldcom is now again on the"
+  },
+  {
+    "start": 1057.269,
+    "duraction": 5.84,
+    "value": "internet and listed by the Google search"
+  },
+  {
+    "start": 1060.33,
+    "duraction": 5.729,
+    "value": "index and so I'm sitting here going"
+  },
+  {
+    "start": 1063.109,
+    "duraction": 5.711,
+    "value": "limit why would somebody go to this"
+  },
+  {
+    "start": 1066.059,
+    "duraction": 5.881,
+    "value": "sophisticated hack to take down what you"
+  },
+  {
+    "start": 1068.82,
+    "duraction": 6.089,
+    "value": "know Wikipedia says is a debunked theory"
+  },
+  {
+    "start": 1071.94,
+    "duraction": 5.159,
+    "value": "of you know fraudulent scientists and"
+  },
+  {
+    "start": 1074.909,
+    "duraction": 4.32,
+    "value": "I'm like Wyatt why are they so like"
+  },
+  {
+    "start": 1077.099,
+    "duraction": 4.64,
+    "value": "constant like why did someone put so"
+  },
+  {
+    "start": 1079.229,
+    "duraction": 5.221,
+    "value": "much energy to take this website down"
+  },
+  {
+    "start": 1081.739,
+    "duraction": 5.05,
+    "value": "then I started to realize wait a minute"
+  },
+  {
+    "start": 1084.45,
+    "duraction": 4.679,
+    "value": "like as I started my research whoa whoa"
+  },
+  {
+    "start": 1086.789,
+    "duraction": 5.161,
+    "value": "whoa baby this ColdFusion isn't actually"
+  },
+  {
+    "start": 1089.129,
+    "duraction": 6.841,
+    "value": "like a fake concept maybe it's actually"
+  },
+  {
+    "start": 1091.95,
+    "duraction": 5.729,
+    "value": "like a real concept and as I started"
+  },
+  {
+    "start": 1095.97,
+    "duraction": 3.99,
+    "value": "going further and further further"
+  },
+  {
+    "start": 1097.679,
+    "duraction": 5.521,
+    "value": "further I realized no no no ColdFusion"
+  },
+  {
+    "start": 1099.96,
+    "duraction": 4.769,
+    "value": "is actually real I mean and conceptually"
+  },
+  {
+    "start": 1103.2,
+    "duraction": 3.839,
+    "value": "it's it's definitely been something"
+  },
+  {
+    "start": 1104.729,
+    "duraction": 3.75,
+    "value": "that's been around for a while yeah I'd"
+  },
+  {
+    "start": 1107.039,
+    "duraction": 3.21,
+    "value": "be interested to learn more about this"
+  },
+  {
+    "start": 1108.479,
+    "duraction": 4.29,
+    "value": "but that is a positive thing to take"
+  },
+  {
+    "start": 1110.249,
+    "duraction": 4.831,
+    "value": "away that you know we're at least"
+  },
+  {
+    "start": 1112.769,
+    "duraction": 4.441,
+    "value": "shining a light on this stuff because it"
+  },
+  {
+    "start": 1115.08,
+    "duraction": 3.99,
+    "value": "happens in all different forms and"
+  },
+  {
+    "start": 1117.21,
+    "duraction": 4.769,
+    "value": "fashions whether it's with the new"
+  },
+  {
+    "start": 1119.07,
+    "duraction": 5.669,
+    "value": "technology that could help us and or its"
+  },
+  {
+    "start": 1121.979,
+    "duraction": 5.55,
+    "value": "with censoring our free speech in other"
+  },
+  {
+    "start": 1124.739,
+    "duraction": 5.67,
+    "value": "ways I mean ultimately what you did is a"
+  },
+  {
+    "start": 1127.529,
+    "duraction": 4.921,
+    "value": "service and I thank you for that and I"
+  },
+  {
+    "start": 1130.409,
+    "duraction": 4.561,
+    "value": "just I guess we're gonna go ahead and"
+  },
+  {
+    "start": 1132.45,
+    "duraction": 5.159,
+    "value": "wrap it up there cuz we're kind of"
+  },
+  {
+    "start": 1134.97,
+    "duraction": 6.35,
+    "value": "hitting that mark but let me just tell"
+  },
+  {
+    "start": 1137.609,
+    "duraction": 6.63,
+    "value": "you thank you so much for your"
+  },
+  {
+    "start": 1141.32,
+    "duraction": 4.63,
+    "value": "contribution to all this I hope that"
+  },
+  {
+    "start": 1144.239,
+    "duraction": 3.87,
+    "value": "you'll come on the show again and I want"
+  },
+  {
+    "start": 1145.95,
+    "duraction": 4.5,
+    "value": "ya take a second to go ahead and plug"
+  },
+  {
+    "start": 1148.109,
+    "duraction": 4.111,
+    "value": "anything that you want your social media"
+  },
+  {
+    "start": 1150.45,
+    "duraction": 3.539,
+    "value": "any websites whatever you want to get"
+  },
+  {
+    "start": 1152.22,
+    "duraction": 2.279,
+    "value": "out there let the people know what"
+  },
+  {
+    "start": 1153.989,
+    "duraction": 3.151,
+    "value": "you're doing"
+  },
+  {
+    "start": 1154.499,
+    "duraction": 5.791,
+    "value": "Thank You Craig yeah"
+  },
+  {
+    "start": 1157.14,
+    "duraction": 6.72,
+    "value": "mob what I say is that I hope that your"
+  },
+  {
+    "start": 1160.29,
+    "duraction": 8.4,
+    "value": "audience will follow me on twitter my"
+  },
+  {
+    "start": 1163.86,
+    "duraction": 6.93,
+    "value": "handle is perpetual maniac I am fighting"
+  },
+  {
+    "start": 1168.69,
+    "duraction": 4.82,
+    "value": "the deep state and the way that I'm"
+  },
+  {
+    "start": 1170.79,
+    "duraction": 5.19,
+    "value": "doing that is I'm bringing attention to"
+  },
+  {
+    "start": 1173.51,
+    "duraction": 4.63,
+    "value": "Google which I believe in that is an"
+  },
+  {
+    "start": 1175.98,
+    "duraction": 4.38,
+    "value": "asset of the deep state and I'm exposing"
+  },
+  {
+    "start": 1178.14,
+    "duraction": 4.919,
+    "value": "what Google is doing I believe that"
+  },
+  {
+    "start": 1180.36,
+    "duraction": 5.64,
+    "value": "they're going to rig the 2020 election"
+  },
+  {
+    "start": 1183.059,
+    "duraction": 6.661,
+    "value": "they're going to hide information"
+  },
+  {
+    "start": 1186.0,
+    "duraction": 4.89,
+    "value": "they're going to you know and and you"
+  },
+  {
+    "start": 1189.72,
+    "duraction": 5.01,
+    "value": "can already see this with twitter"
+  },
+  {
+    "start": 1190.89,
+    "duraction": 6.659,
+    "value": "twitter now just canceled all political"
+  },
+  {
+    "start": 1194.73,
+    "duraction": 5.4,
+    "value": "ads that's platform google is going to"
+  },
+  {
+    "start": 1197.549,
+    "duraction": 4.38,
+    "value": "do something similar so is facebook i've"
+  },
+  {
+    "start": 1200.13,
+    "duraction": 5.46,
+    "value": "been bringing this attention to this"
+  },
+  {
+    "start": 1201.929,
+    "duraction": 6.99,
+    "value": "issue since you know the summer of 2019"
+  },
+  {
+    "start": 1205.59,
+    "duraction": 7.56,
+    "value": "here because I saw what was going to"
+  },
+  {
+    "start": 1208.919,
+    "duraction": 7.591,
+    "value": "happen with these social media giants I"
+  },
+  {
+    "start": 1213.15,
+    "duraction": 5.519,
+    "value": "knew that they were going to interfere"
+  },
+  {
+    "start": 1216.51,
+    "duraction": 4.32,
+    "value": "with the will of the people they were"
+  },
+  {
+    "start": 1218.669,
+    "duraction": 6.361,
+    "value": "going to engage in election interference"
+  },
+  {
+    "start": 1220.83,
+    "duraction": 6.89,
+    "value": "and so I'm here I am exposing this you"
+  },
+  {
+    "start": 1225.03,
+    "duraction": 5.34,
+    "value": "too can come follow me"
+  },
+  {
+    "start": 1227.72,
+    "duraction": 4.6,
+    "value": "tweet very specific tweets that I'm"
+  },
+  {
+    "start": 1230.37,
+    "duraction": 5.67,
+    "value": "making in order to expose us to a wider"
+  },
+  {
+    "start": 1232.32,
+    "duraction": 7.08,
+    "value": "audience and it's working people are"
+  },
+  {
+    "start": 1236.04,
+    "duraction": 5.67,
+    "value": "waking up the media is changing its"
+  },
+  {
+    "start": 1239.4,
+    "duraction": 3.899,
+    "value": "wording and the words that they choose"
+  },
+  {
+    "start": 1241.71,
+    "duraction": 5.0,
+    "value": "to use the different articles that they"
+  },
+  {
+    "start": 1243.299,
+    "duraction": 7.351,
+    "value": "post people are becoming aware of"
+  },
+  {
+    "start": 1246.71,
+    "duraction": 7.15,
+    "value": "Google's systemic censorship and so for"
+  },
+  {
+    "start": 1250.65,
+    "duraction": 7.14,
+    "value": "those of you that want to help me we you"
+  },
+  {
+    "start": 1253.86,
+    "duraction": 7.92,
+    "value": "know keep America safe from this you"
+  },
+  {
+    "start": 1257.79,
+    "duraction": 6.54,
+    "value": "know tech fascism I invite you to follow"
+  },
+  {
+    "start": 1261.78,
+    "duraction": 6.75,
+    "value": "me on Twitter comm slash perpetual"
+  },
+  {
+    "start": 1264.33,
+    "duraction": 7.53,
+    "value": "maniac and like and retweet the tweets"
+  },
+  {
+    "start": 1268.53,
+    "duraction": 5.94,
+    "value": "that are important to helping disclose"
+  },
+  {
+    "start": 1271.86,
+    "duraction": 4.53,
+    "value": "that yeah and I'll put links to all that"
+  },
+  {
+    "start": 1274.47,
+    "duraction": 3.8,
+    "value": "it in the description of this video that"
+  },
+  {
+    "start": 1276.39,
+    "duraction": 4.98,
+    "value": "you guys should go check out because"
+  },
+  {
+    "start": 1278.27,
+    "duraction": 4.27,
+    "value": "everyone knows our friend Zach here who"
+  },
+  {
+    "start": 1281.37,
+    "duraction": 3.809,
+    "value": "I'm not going to say his full name"
+  },
+  {
+    "start": 1282.54,
+    "duraction": 5.22,
+    "value": "because of Google's algorithms he is the"
+  },
+  {
+    "start": 1285.179,
+    "duraction": 3.141,
+    "value": "man he is awesome thank you so much for"
+  },
+  {
+    "start": 1287.76,
+    "duraction": 3.77,
+    "value": "coming"
+  },
+  {
+    "start": 1288.32,
+    "duraction": 5.28,
+    "value": "remember that's at perpetual maniac go"
+  },
+  {
+    "start": 1291.53,
+    "duraction": 4.41,
+    "value": "find him on Twitter and start the"
+  },
+  {
+    "start": 1293.6,
+    "duraction": 3.69,
+    "value": "conversation over there as well but I"
+  },
+  {
+    "start": 1295.94,
+    "duraction": 3.3,
+    "value": "will look forward to hearing what you"
+  },
+  {
+    "start": 1297.29,
+    "duraction": 4.92,
+    "value": "guys have to say in the comments down"
+  },
+  {
+    "start": 1299.24,
+    "duraction": 5.46,
+    "value": "below but that's gonna be it for us here"
+  },
+  {
+    "start": 1302.21,
+    "duraction": 4.11,
+    "value": "Thank You Zach so much we wish you the"
+  },
+  {
+    "start": 1304.7,
+    "duraction": 3.75,
+    "value": "best and you are welcome on this show"
+  },
+  {
+    "start": 1306.32,
+    "duraction": 3.81,
+    "value": "anytime my friend we're definitely gonna"
+  },
+  {
+    "start": 1308.45,
+    "duraction": 3.45,
+    "value": "have you on again especially in the"
+  },
+  {
+    "start": 1310.13,
+    "duraction": 4.35,
+    "value": "run-up to the 2020 election you get more"
+  },
+  {
+    "start": 1311.9,
+    "duraction": 4.38,
+    "value": "coverage of what's going on with Google"
+  },
+  {
+    "start": 1314.48,
+    "duraction": 2.73,
+    "value": "but thank you so much have a great"
+  },
+  {
+    "start": 1316.28,
+    "duraction": 4.52,
+    "value": "evening"
+  },
+  {
+    "start": 1317.21,
+    "duraction": 3.59,
+    "value": "Thank You Craig you see"
+  },
+  {
+    "start": 1323.41,
+    "duraction": 2.06,
+    "value": "you"
+  },
+  {
+    "start": 1328.24,
+    "duraction": 9.75,
+    "value": "[Music]"
+  }
+]

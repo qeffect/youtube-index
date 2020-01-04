@@ -1,0 +1,5103 @@
+{
+  "indexed": "__lGfKxA0WI,_-_MVJecq5I,_5WkbucPT4g,_ec7XMfirg4,_EqneJRgSe8,_idzf18MYXs,_Ne214s756k,_Ob8jo-qOCU,_q5-lvNqF8Y,_TPUfVabVHU,_tRUka84Q10,_UMxGoem_cE,_YS92pFld0Y,-_4Za6eoYwY,-0DjA_r32uQ,-3F6SZZIT-E,-5M7Y-zFyZ0,-9msE7-ydts,-Avsxw6BrhI,-b8zWS3tty4,-e5ABbWTn8M,-i-6mNaKI3I,-icWyKwjrY8,-kDAK81lyaY,-kYE2w6y-GA,-MYXqXNhcnc,-P8dkAqUKZY,-tSHN-cRXo0,-VRexocuLyU,-zsJy_pc_gQ,0-8SzdsEPn0,047r18PmzXg,06ZhNoUqwA4,0C27jD9e-j0,0ICCjllfcD0,0jspiMXND2A,0kkMEbbFd9M,0NUQEdAWVkQ,0q_eYZ-zjys,0SJGTnXKJLk,0th1OKXNQXY,0thRJXOyyOs,0VW3c_f1WOI,0Ytkx1pvnL8,1-v18VEV4Rg,18k-mw0lGZ0,1atlaAzWtj4,1FoSp-tBfp4,1Qa_cX1DPn8,1s9fsICUfOw,1WmbX3JQa0c,1ya6QF21RjE,1ZoQGfCIQP4,22knD94PYNw,23GkaHyU2R4,23Zi93zyS6U,24o5bLbjYh0,29VWyFZAo98,2J-isPoaOe8,2MEzlpSs3hI,2qRm-XvaYGk,2vQA-V9OnxY,2XVtrBvxoNQ,3_9MzitOhpg,3-sR3LmB0N0,305W5z9yzW0,32HzhZpqqHs,32nTGjvWF9c,34kHft924rA,3cgcmRKlIhU,3ciusVGxdno,3E_KWnG6gO8,3fi1bx4oWOE,3GvhthG2rXo,3iT9_AqKX2M,3mCWwiYSQsM,3n_fTHOHmP4,3VJvZsz9VQk,3Vpaplt92is,3WDtVeSSyrU,3WzJtUe634M,3XT99f5rZkY,3YdbQS2xw0E,40cx-g-mfDk,41qO6bukotY,4aR7zbZf3pE,4ATvSzS-TLU,4dX3v4Z4aec,4fS6egD9cSc,4mNbB0RTuoI,4MXimasATsA,4nk3rY194h8,4oXIn88QFbc,4qQd8Qu7aPM,4VCgU1v0c3I,56hnR-UeVbI,59IbF_o4Xxc,5flC3-UkdyU,5PhM32xlVEs,5RLxQOvZxXs,5St08kicLiU,5uzjLst8w68,5VFOltHRXbM,6_wyHLXHqx4,60xrsFvDYYk,6Ezxw-UNmQI,6foOgmaZN-s,6kESQU65fUA,6KttPC8JV3s,6o54Y7dhOus,6PsL7aVI12U,6sbgm3s49BM,6sC4YqrrbsQ,73cggmTCclY,7a8EAuTwhdU,7d3A9Wi1xu0,7drP1GmKuhA,7HQEEo9pTxI,7kzKO982UIQ,7OUm208GUDs,7UT-kOjOka4,80z15a0xsUQ,81p3jRVXGk4,8gkGfhtpurY,8pa8Er939dg,8QiuuwivwsM,8z6EDkIocXI,91aT7JIOIbY,9gYGBZ6wUIE,9hqxfV040oQ,9K-4Jc2l-7U,9lbn3bkROBc,9lgC6A9CGqY,9LwjAgU_2hc,9w_UO-KJccs,9xhpctWntoI,9YBPFZ6r5nY,9yIsVlJ2qAY,9zB7TNiGuDw,A4-cSwxHsV4,a4jwV9NnySU,A52PfmoHm8I,a67Ukzg63u8,A7HbMpBAg8c,A82praOPfpo,AaP-PP8-KGk,aAzQwARAo28,ABM5Oj2s6eI,aC12-gepI3U,aCfOGluhEKI,aDPMNOgOz4E,aDUDC92PxcU,AJ_U54u6gbE,ajiBcgtAY-w,aJWZ_APGg6A,AKPMK0xaRN0,AmbKxQ51VWc,aN9TllOemSA,ANDq9-ttO-w,Ao2abBxOiLY,AOParRtlvFQ,ApHsdbvYgFA,aqGYpuYdbOM,Ar3JvKPGr40,ARwagwGekv0,AuJjdL3A0Wc,AvcEuGghWQk,aWGr7i2-IYA,AwzaAL1pDXQ,aXwILTOVL0M,AyLUG-qQcCA,B5_naGkaBDg,B5MFHmezpn8,B5mo-Rnwm4s,bbAaX9B5ncY,bbpmtRc18WQ,BC_VRjt8gvw,BcZjAF2oFEE,Bd0NHLMVTAQ,BFuaMj35qAo,bG3PLtnHSuc,BGt8AVBwAQc,BLJVjp0lq4g,bmipWlYsyEM,bMWIDBnA6Z4,Bn2OlX_4C4Q,bNHR5T64ooQ,bNMvlOzCsZk,Bozlwr1uHco,BpeOtb7CWeE,bPVLncDuirE,BR9EIDuUBJQ,bTFNebYIotU,bYRSIwwnCFU,bzAYF7yEn7Y,bzCEAKmxlVs,C_h2RLZEGEk,c1C7epr44bw,c7Yfc_JZAaU,CCLJZ-bM01Q,CDZhS3BfdB0,CeXQ15A9BSA,CIkVvgIT6qs,cKGw_Hrtajc,cKObBT3BQ4A,CksmGxdCvPQ,cLcHOtY9fgk,coYoIINOWcQ,cpAeoTwKHlc,cpPgoi7zUjo,cu1homOW9CE,CunzrKChTpI,CX6apttsGjs,CxaPpbC3pgA,CXbRscylFsY,CYE1-7NSG2g,cyjt9Vm0imo,D-va4Jpkt38,D-y5ALLiCZ4,D3zc2JmlHK0,D4AkLrH0WtI,D8mzSBBfnNQ,D8RUia2q5wA,daON-Y2Ph5w,DCkhkkb2nqM,DdiM5lA-05c,ddZfJCoq65o,DeEBJcmrjAU,dh_NJhuVafY,dHHqYCCujKY,DiRI7rhc4qE,DJJw71TSho4,dJspwk8huY4,dKaqjJzl0vg,DksI8ZPmBNE,dlZUFvOqJeY,dNI6tUGGJNM,dONKuAjf26Q,dos0E9blpHw,DsDBNF7mhqk,DSqcbzBojYk,Du5Cit3oe6w,duZHG7VDNm4,DxGp_peYB_A,e6gS2_fX0oY,e6mIdK0LLWk,e8AyslO62b8,e8xXVMiChuQ,E9n2iFMyXjQ,EcbwKNO6TBI,eERaZvdF6Ms,ees6El-Jay0,ejBAqhxqAkQ,EK0R7sdxAFQ,ekJ4hKREY8U,eLy1XqX9IcU,En-VTreZMTs,F3oAIzyo0HQ,F4IPqNACpvI,FAhsY5AIWWY,FDEmEvwZtrM,fHohiZp5hGc,FJGnynqfiCQ,Fo9T0LNhNqQ,fOQPFgF5Etg,FPUae6qsjdw,FS65Eef4z7o,fSwdVMLq8zI,FuBVeoPBd0U,fWjIv0WgyqA,fWk2XKmiQOI,fXA4SlMx-Mg,Fz5fZ_7pia4,G2ZwwI5fN0E,g57p8aQQSbY,G5RiRuFIh8Y,g90iVaKS8Mc,gCaHEfyXkA0,gdEzIz7ievE,gDlgmkVKpy0,GDx66bXgYq4,GFEth1i97yY,gG4fzaWuo9w,GhikRA2no60,gJ7o1StrKv8,Gk2tr29fY6Q,gKGT2jlVrgI,gkMB1_gooM0,gkO-A-sYsH0,GmuQx9AiYD4,GN4nmRCU0AY,gojwzzPJQrg,GrWwOG5yFFM,GThX5ssVBn0,GUip6dZpKEs,gUkB5Kk4WAA,H1FABkrnIaE,h6koxkXAJLU,h6y5TxpDvbs,h9dW3QCrYso,hA31PrCznjw,Hb187lnYh0o,HgE2EqazY68,hhPRDd4gOEI,hIrbIOaAUxg,hj7ubtDDtik,hKdsv2EbSSo,hl-FK4t_9lA,HLRFTyNBlFY,hLumnOkZynU,hLWMbjtpLn0,Hm1iTIa7rFk,hMhDNxC-EB4,HMpv5DpVVUY,hMQTN9L1dBE,Huj55Cm9qH8,hUouIgbrNZY,HWjAwmGq654,HxhtJ-1kd5k,hy9Uo864i5g,hZGSNKUFjQk,I2-S22FiEvg,I2t1cPgCvJo,I2zRq3kdLbk,I3pn7Xex-Ks,i3rp0Uim-0o,i4AnsQlVTvQ,I5h76-o1Kjw,i8VDK89xXzg,I8VIDULc_jQ,iAIDKPNVjzU,ifJ_GtRJ5qM,Ig7fshISKmk,igDMQaECoSw,IifnpOcm0b4,ik-J2hrNaWo,IKpl4TeHwPg,iOLlT7CbqKs,iPX6pJ1dD1s,IS-CvxLX47Y,IsG3gQIRxno,IsjWF9k7TZE,iTFkB2iXkgI,iTFXxHtlImY,iu9vMZwMqgI,IUcqrB04ZpE,IuIhXyjMG28,iUolMe2Bu-M,IuVzHVFtFIE,iwCYGrXqmqw,iwIfxOwYNOE,IwvvrAh-JyA,ixHuaqf211Y,iXPDVq2lGsc,j6boJmmzNcg,j9gG0WZWO2M,jaInrf7dB30,jal0jAoFV70,Jcekm05d-so,JD4r7qP0OLw,jEgmVdV6HBE,JeGwCPRojJo,jgHK6JZonJM,JLPKO3AKA14,JMN2uWdknac,jN-MkK8djcY,JNaC6eDgjAk,jnUZD1wnBn8,jR_FxV3DYyU,jS-yK_ueKZw,jSZnoRobYTE,JT-aith5f5E,JvaI4JCd5ig,jZ_tr0NnNjE,k2bZBA1A82U,k2MXyXKRlN0,K2TOaYHNhDs,K3kiPpMhKkQ,k3m1P3Vie6s,k55kWdrN8hw,k9LVltxQF2Y,kan3dn8Q8nA,KbWsgGeTrb0,KDVsepSqmys,KgYgMWFqbEc,kHxWvaMOwhM,Kl3MyuzCdRs,KM6DTC_i-8s,kNNz1UEwF-E,KpFP8X1JTiI,KPj--UF1T0k,kRGV4cIdWwM,KSP24qYeWgs,ku6qyUwUgWo,KVb-rUXG6h0,KW1hgV9CBqk,KXHpsXQV82g,KXW0hS3aOjA,L-4ADrZak_4,l0PDi1KDi1w,L1mLdTih8gg,L4Sa4dArQUE,L61XF64Ls8E,l9qBVI4SVP0,lb46GsmPTsI,ldX0CQ2UUfI,LFlKG-VVzMc,LInNbS1JErM,LiU5TfehWW8,lj8AH-4ajRw,LjzWwM9Y9zg,llnr6CG6lHM,Llr69yow55Y,llsND2qpTjM,lNKXqkyE2NQ,lOGKAbcAVzE,LQ4NioOxuGM,lUOYOF9DuSs,LwTvS9v15LE,LXCTMl_Jp9M,LygxI2VGhDU,m_PowDSDjEE,m1HAZ0ESYD0,M1ODHcuO0V0,m2kffLdykTs,m30mwu-9WW0,m3193w4W8Po,m5p9p9LBEpM,MATnFsqiC7Y,Mc5wHbV6irw,mCy59eLFjZg,McZuVVn7fEw,miQPk7qxSvs,Ml1Ys-sDe4o,mlmAUPNPev0,mLZkwKOueVI,mMVX1iGgRac,MO8yy324jyk,MpiqVbdFnlo,mPovmVmAgXs,MsBWU2CFf-U,MUyBpTbvDmw,N-BsO-mirZQ,N-Nsni2kalY,N0l4oFEKoCY,N37LrIj7a8E,N4MwW69zjdk,NbUtbE4Zpoc,Nett68JXMUk,NFBFDRSsaU0,nfDm-SuYSrQ,nhR65A2Cz1U,nJ5B8GnH3mE,NJf-Tr3BrqI,njWcrYwundg,NObMClb6nMY,noiATviQJ3Y,NoLKqBPGGLQ,nPRGWjUYGow,nPtPHMYmnsk,Nqbj_4nIAiA,NqL7EeYTd9s,NS200QxWq7g,nsUd370-n9Q,Nt4ug94a134,NVIEhqdvMCo,NVRVSzP0rFU,NVUbej8exEk,NY7B_THWsM8,Nzx4XSf_fAI,O_R4bM7ONJk,obm0AKIypPI,OCzJwGE7RTY,OdS-XmHla-U,OdXjpK_tLRg,OE_u4IbopVo,OGL_5cu0F-M,OgrLw9IX-Ns,ojYZBeCwYis,oK2ZWHTdbpA,ooHxX3whFXA,OOxgnEI8_NI,oReGR3Bjjmw,oSZzclsh00Y,otE6dhCgsJc,Oun53CRXyeI,OwECoLGRl68,oX7b3YzRNXk,ox9yzjeHt3s,ozbHMNhYe0A,oZz9CJ9K8MA,P0cawbGyBxM,p0Qy24DXfdY,P12Gc4WmCak,P3jy8S0P-2w,p6_gLv5qy8E,p6GmDJEkOQk,p6wFKOTyR60,P8xmUD4Gmrw,PA9MTquQya0,pAK-a8Op8KI,pauS_rhaYO0,PBiBq_DiHmo,pbjkl0DwxHs,Pg21pJPDzEU,phbygYipE-g,Pi8_BZtYNzQ,PkeO8SN0cN4,plJqp67-iX4,PNsZI-uZH7I,PsQlxu6iOzI,pt17lUpcskk,PtAxf8A1Zco,ptvgcLZ3HOw,PvWDJd2UYT8,pwM9WH8pqaY,PWMXacQWEjs,pyMrzxZBZZQ,pZ5q5wUI1-Y,pZhHd9KT2lk,q0IR8IqKZ18,Q1nmx353lDo,q2ItOTBF1ys,Q4MG607MDz4,q6hnQoB_BlI,q78RNxcI38U,q7I8sj_3rlM,q7prMUoyMEo,Q84zuHjjuww,Qa2bfVP6ChQ,qB9zc5VAanc,QC7qRbcWsN0,qcEDt4YOkS8,qCmySBiZXVA,qdwN5mt9V2c,qFumeKZX_MA,QJaNPlhmdSM,QK6Y2tnFIAw,qlFnlzOoFgo,qNurdjNB-rw,Qo2GL5T8T_E,Qq339b2xOrY,qRKU3XXIwlI,qSFeOuQEXXw,QSMC7VnqOnQ,QtYci9jXct4,QuVpIqeSRnU,qwbX5au3Iuw,qWhpDyoLyR8,qX2Z7mLBM1k,qZMy5wog24o,qZZGyHrnsQM,R_iWc7_vQ14,r-vKLD9F61M,R1g3eyyM590,r1IYwxp0NNs,r1pXJkMaAmc,RCPgq96ku4k,rdE4NEIZACI,REcAj2PLMu4,RenafscRgUY,RgdXwexLI_Y,RGFh5qOWU3U,RLczNzWBbpE,RmZj7uATNFM,rqks6sKCmDc,Rt85IKjQ9hs,rUpElK5Qw3E,rVrthFN9dnI,rX0dkfDOO1s,rxMOShu0yQk,RZf9IVaRgdo,S2U7ncJQ000,S4mKQajGJl4,s6H86oQEC2I,SaR5pCeCjao,SAwrlpHFmOc,sBy_LmO3b7k,SePTbZOh8iE,sHUgXraPhAc,siBW29AUMrw,skkII0awwFM,sKMZRv9JY_A,sLv3F7kLpB4,SovJjIjmI6M,sR5B-vb3Fi0,svK1ajIeprU,svwSKZ926yY,SvyN0PlWwkM,swc_HIr-8WA,Sx3ElJlX7wQ,SxPNu1XMYKA,sxWWB5aKNk8,T_mJ1awyakY,T3TRP5tX3T0,T5IM3P9Md-4,t6dwa21eo_M,TCtPeZP1H0g,td8PwMAtpQI,TdNo4qfgAb4,TeFw8eqcLco,tfW6YjVSx0U,Tg0_AZbm71E,TgzkblYi9pg,THy-FwvnIqQ,tJjx9eVGzSY,tK7YaJnYETw,TKK1o-pPPkQ,tkLyxIo8Cqo,tkm-n8lbhLg,TKOI_wF6Rn0,Tr5IR4SqKcA,TsjX9SPfvSA,Tus8Yc2qNXc,TX1rZO2bLJ8,u_apd9SGqLc,U1GOoEoYLy8,u1gZGn0l8y4,u3TgwapRzSA,u9zCkZgwoik,UA8VNiOraJI,uaXp0CBucos,uJn58OP3GEI,uJYAdCT7xFA,uKCq7HfZh9A,UKfHVu47LXo,Up-MRtsG4Tw,UpaXSxM07to,urRt-Yju_SU,UrzdhfUMR6k,UsuA0HSRXzo,UuJpA7lXi7g,uUsLnKlWMkU,UVea--jSv1A,uvYdZu80X9Y,uWFJruvCPhc,UwVr2kwMjI0,uxDmAVpZ91Q,V-8xYjEosOY,V4OPmN3e8F8,V59pKIXUQuM,v5G6fZkyhXg,v6JLwp0aFpc,Vafm-ZaLAyI,vafXYoDY5dw,vcqHF8DDsNk,VfelKh4yN9g,vInE2aOTFdw,ViODeAbI2IQ,vK3bX5D1ysc,VKhRSDIFJK0,vL7VfteARhQ,vLnzuy_aeGQ,VLxlCXAuo08,VtMhFvMTyHQ,VVsAZ0AGHeo,vZDynmvvgWg,w_A3W-OJyNw,W0APO4axfn4,w0OSb7FbXas,W7UmZWUWBMQ,WB_PkYN9MFI,wCcjEszzrTI,wdwWgzAq48E,wdXHxEEAvps,wg5sukd6E6Q,WHSd5tVWq1I,wjeEg2yoJbM,WKfsgQLVsHk,WlZQhQXwYTI,WmhFYQnlKB4,wNgdMwL7isA,WOmDWYRAtiA,WsnaqvLhEUk,wu0Utsff6Jo,WvCBdE6rolk,WwBj0YnLtX0,x1EXDDlmrVU,x1UII7bCsvQ,x27EZLRmoAU,x4XfpmZxDq0,Xe8yEypTfNA,XfNnvWPlprc,Xg7s8fovfh8,xKxi0Bbl_Fs,Xl5iO-2wzq0,xLDnc1Vm99w,XMo_G2k5Wso,XobWx6C6lJs,xQVu3ywd2RU,XRABi40G2T4,xS-hT1sfvfs,Xtk7ntK7k14,xU1ilgRmqsk,xUDwyRTojUM,xXRUfka1XFM,Y31yR524zWU,y3LgzaKBw2w,y3OVColWu-g,Y8DPHUnnvXU,YaMWl4cmqkw,yb_kKBcdsRc,ybgD2ibYB0o,YDS7nKcT3rk,yEf7XF-JNy4,yf8ObyPk568,yFQEK_KaTMA,yIh9oqXg4JU,YiLWFF__qiM,YIPBQ3O8Wr0,yK2UAmF7gYA,ym22gqkQmUA,ymm3YfCfVUs,yOGL3BrXZlA,YpPXlDhdkOg,YSc4GkdMm-E,ysHQziNaMOo,ySHvJqNfN7I,ySSnEYdnsEM,ytA3-R4Fi4M,yu7cOa_9gN0,yVjAH8Wg-hk,ywKQGnLaYdk,Z_nveKGRnsI,Z5o33xspXi4,z5obz0z7rdo,z7s8UaWeshs,Z8oojkEH6Eo,z9GTRwjpZLo,zBBzw6WImlY,zCKlkgpTrXo,zdehlx8vy4U,zffLUSbaqlw,zGk_J9B9MDw,zgK4F6NW32s,ZgOL1h0-8Ok,ZGsWdjqtO-w,zgU0j8HGfX4,zIU-AuvMwqU,zjqEsdevnaU,zKar6awuy2Q,zoQmiHuW8nc,ZpqZoQBWXVo,ZpXeRJcgZlU,ZqMTDLT6akA,ZRISi-Y-X3s,ZseKL2q2S-E,zUxgy98UTp4,zw8yzCjmYcI,zziC-o5xumc,ZZTz8nYZ6vA",
+  "topic": "Vaccines",
+  "aliases": [
+    "anti-vaccine",
+    "anti-vaxxers",
+    "vaccines"
+  ],
+  "hash": null,
+  "results": [
+    {
+      "id": "_-_MVJecq5I",
+      "segments": [
+        {
+          "text": "about natural health and about *vaccines*",
+          "location": 24
+        },
+        {
+          "text": "out about *vaccines* so politico here",
+          "location": 1111
+        },
+        {
+          "text": "about health and *vaccines* reconcile that",
+          "location": 1134
+        },
+        {
+          "text": "about pseudoscience look at *vaccines* how",
+          "location": 1181
+        },
+        {
+          "text": "controlled study on *vaccines* prove me",
+          "location": 1195
+        },
+        {
+          "text": "they act like of course the *vaccines* got",
+          "location": 1263
+        },
+        {
+          "text": "*vaccines* and the mmr vaccine merck is",
+          "location": 1279
+        },
+        {
+          "text": "*vaccines* on this ufo subject",
+          "location": 1433
+        }
+      ]
+    },
+    {
+      "id": "_5WkbucPT4g",
+      "segments": [
+        {
+          "text": "*vaccines* and people eating genetically",
+          "location": 113
+        },
+        {
+          "text": "or *vaccines* being fraud or anything like",
+          "location": 323
+        }
+      ]
+    },
+    {
+      "id": "_tRUka84Q10",
+      "segments": [
+        {
+          "text": "not too aware about it yet *vaccines* i",
+          "location": 467
+        },
+        {
+          "text": "their free *vaccines* and their free",
+          "location": 1094
+        }
+      ]
+    },
+    {
+      "id": "-e5ABbWTn8M",
+      "segments": [
+        {
+          "text": "look at *vaccines* it doesn't take a",
+          "location": 12
+        },
+        {
+          "text": "these *vaccines* are failing not even",
+          "location": 93
+        },
+        {
+          "text": "before the *vaccines* were even introduced",
+          "location": 107
+        },
+        {
+          "text": "what *vaccines* are leading to is a huge",
+          "location": 126
+        },
+        {
+          "text": "nature intended what *vaccines* truly do",
+          "location": 135
+        },
+        {
+          "text": "effects of all these *vaccines* over all",
+          "location": 143
+        },
+        {
+          "text": "*vaccines* do and in the unfortunate state",
+          "location": 159
+        }
+      ]
+    },
+    {
+      "id": "0ICCjllfcD0",
+      "segments": [
+        {
+          "text": "what else big ag big pharma 5g *vaccines*",
+          "location": 70
+        },
+        {
+          "text": "and some stuff on *vaccines* so new york",
+          "location": 1330
+        },
+        {
+          "text": "*vaccines* cbs teaching anti-vaxxer",
+          "location": 1685
+        },
+        {
+          "text": "scientists know the truth about *vaccines*",
+          "location": 1728
+        },
+        {
+          "text": "show you here about *vaccines* they make",
+          "location": 1740
+        },
+        {
+          "text": "the claims about *vaccines* having to do",
+          "location": 1746
+        },
+        {
+          "text": "get a detox remedy for *vaccines* run if",
+          "location": 1771
+        },
+        {
+          "text": "after *vaccines*",
+          "location": 1776
+        },
+        {
+          "text": "says no *vaccines* are fine healthy for",
+          "location": 1783
+        },
+        {
+          "text": "claim injury by *vaccines* they put this",
+          "location": 1825
+        },
+        {
+          "text": "who research the truth about *vaccines*",
+          "location": 1837
+        },
+        {
+          "text": "who know the truth about *vaccines* who",
+          "location": 1874
+        },
+        {
+          "text": "about *vaccines* let's trust them it's the",
+          "location": 1897
+        },
+        {
+          "text": "just terrible stuff about *vaccines*",
+          "location": 1915
+        },
+        {
+          "text": "behind *vaccines* riether research the",
+          "location": 1931
+        }
+      ]
+    },
+    {
+      "id": "0jspiMXND2A",
+      "segments": [
+        {
+          "text": "flu *vaccines* are and luckily they didn't",
+          "location": 262
+        },
+        {
+          "text": "these flu *vaccines* being historically",
+          "location": 271
+        }
+      ]
+    },
+    {
+      "id": "0q_eYZ-zjys",
+      "segments": [
+        {
+          "text": "stuff going on with *vaccines* i've been",
+          "location": 975
+        },
+        {
+          "text": "meaning to do a video on *vaccines* i",
+          "location": 976
+        }
+      ]
+    },
+    {
+      "id": "0SJGTnXKJLk",
+      "segments": [
+        {
+          "text": "*vaccines* are bad for you but if you",
+          "location": 443
+        }
+      ]
+    },
+    {
+      "id": "0th1OKXNQXY",
+      "segments": [
+        {
+          "text": "and *vaccines* growing number of people",
+          "location": 1111
+        },
+        {
+          "text": "tell definitely sarcasm six *vaccines* in",
+          "location": 1295
+        },
+        {
+          "text": "and then *vaccines* and fluoride don't",
+          "location": 1380
+        }
+      ]
+    },
+    {
+      "id": "0Ytkx1pvnL8",
+      "segments": [
+        {
+          "text": "*vaccines* as well some good news on 5g",
+          "location": 30
+        },
+        {
+          "text": "here on *vaccines* 24 cases of the mumps",
+          "location": 618
+        },
+        {
+          "text": "doses of all the *vaccines* to make them",
+          "location": 719
+        },
+        {
+          "text": "that *vaccines* prevent disease there's",
+          "location": 727
+        }
+      ]
+    },
+    {
+      "id": "1Qa_cX1DPn8",
+      "segments": [
+        {
+          "text": "your *vaccines* are you gonna die eat your",
+          "location": 1531
+        },
+        {
+          "text": "*vaccines* that docu-series bite",
+          "location": 2903
+        }
+      ]
+    },
+    {
+      "id": "22knD94PYNw",
+      "segments": [
+        {
+          "text": "of things like gmos and *vaccines* in our",
+          "location": 22
+        },
+        {
+          "text": "us so many *vaccines* still have mercury",
+          "location": 200
+        }
+      ]
+    },
+    {
+      "id": "23GkaHyU2R4",
+      "segments": [
+        {
+          "text": "*vaccines* same thing here in regards to",
+          "location": 725
+        },
+        {
+          "text": "gosh we need *vaccines* we need you to",
+          "location": 769
+        },
+        {
+          "text": "here is the *vaccines* that the people are",
+          "location": 780
+        }
+      ]
+    },
+    {
+      "id": "29VWyFZAo98",
+      "segments": [
+        {
+          "text": "media you have will talk that *vaccines*",
+          "location": 17
+        },
+        {
+          "text": "*vaccines* blowing up this is why paul",
+          "location": 895
+        },
+        {
+          "text": "off of his *vaccines* and shilling for big",
+          "location": 906
+        },
+        {
+          "text": "of *vaccines* as well the daily caller",
+          "location": 933
+        },
+        {
+          "text": "just that but *vaccines* i mean shoot",
+          "location": 986
+        },
+        {
+          "text": "*vaccines* is that gonna make you healthy",
+          "location": 996
+        },
+        {
+          "text": "the way of *vaccines* i mean let's just",
+          "location": 1032
+        },
+        {
+          "text": "about *vaccines* here the past shoot day a",
+          "location": 1036
+        },
+        {
+          "text": "another culprit when *vaccines* fail at",
+          "location": 1045
+        },
+        {
+          "text": "least they're talking about *vaccines*",
+          "location": 1048
+        },
+        {
+          "text": "i'm gonna talk about *vaccines* and nearly",
+          "location": 1097
+        },
+        {
+          "text": "with *vaccines* and not let this sort of",
+          "location": 1117
+        }
+      ]
+    },
+    {
+      "id": "2J-isPoaOe8",
+      "segments": [
+        {
+          "text": "aluminum with *vaccines* and",
+          "location": 264
+        }
+      ]
+    },
+    {
+      "id": "3cgcmRKlIhU",
+      "segments": [
+        {
+          "text": "a whole bunch of *vaccines* in italy and",
+          "location": 1041
+        },
+        {
+          "text": "studied a couple animal *vaccines* and an",
+          "location": 1048
+        },
+        {
+          "text": "animal *vaccines* they were only in the",
+          "location": 1052
+        },
+        {
+          "text": "human *vaccines* so what's the agenda",
+          "location": 1054
+        },
+        {
+          "text": "*vaccines* and he studied michael plasma",
+          "location": 1095
+        },
+        {
+          "text": "he stout he found that *vaccines* were",
+          "location": 1097
+        },
+        {
+          "text": "these *vaccines* were contaminated with",
+          "location": 1109
+        },
+        {
+          "text": "*vaccines* i would say michael plasmas",
+          "location": 1146
+        },
+        {
+          "text": "you reject *vaccines* or you reject",
+          "location": 1167
+        },
+        {
+          "text": "*vaccines* for your little ones they'll",
+          "location": 1168
+        },
+        {
+          "text": "so we can bring back *vaccines* and for",
+          "location": 1287
+        },
+        {
+          "text": "*vaccines* lead to autism it's kind of a",
+          "location": 1293
+        },
+        {
+          "text": "*vaccines* how do i protect my kids",
+          "location": 1626
+        }
+      ]
+    },
+    {
+      "id": "3E_KWnG6gO8",
+      "segments": [
+        {
+          "text": "about *vaccines* will touch on",
+          "location": 23
+        },
+        {
+          "text": "move on and talk about *vaccines* so",
+          "location": 313
+        },
+        {
+          "text": "their *vaccines* especially their mmr",
+          "location": 486
+        }
+      ]
+    },
+    {
+      "id": "3WzJtUe634M",
+      "segments": [
+        {
+          "text": "gmos fluoride and *vaccines* we've got a",
+          "location": 12
+        },
+        {
+          "text": "the *vaccines* reject the poison let's get",
+          "location": 515
+        },
+        {
+          "text": "*vaccines* at all or shill for that topic",
+          "location": 675
+        },
+        {
+          "text": "*vaccines* load of fake news coming out",
+          "location": 774
+        },
+        {
+          "text": "*vaccines* go check out ty bowling jers",
+          "location": 794
+        },
+        {
+          "text": "the truth about *vaccines* docu-series",
+          "location": 797
+        },
+        {
+          "text": "what's really going on about *vaccines* ty",
+          "location": 812
+        },
+        {
+          "text": "also very good truth about *vaccines* is",
+          "location": 820
+        },
+        {
+          "text": "*vaccines* do not work as they say they do",
+          "location": 831
+        }
+      ]
+    },
+    {
+      "id": "40cx-g-mfDk",
+      "segments": [
+        {
+          "text": "*vaccines* so we're going to be discussing",
+          "location": 47
+        },
+        {
+          "text": "let's start off number one *vaccines* did",
+          "location": 55
+        },
+        {
+          "text": "*vaccines* eradicated and actually that is",
+          "location": 77
+        },
+        {
+          "text": "not true *vaccines* were not the cause of",
+          "location": 80
+        },
+        {
+          "text": "mid 1900s *vaccines* were conveniently",
+          "location": 155
+        },
+        {
+          "text": "90 and 95 percent before the *vaccines*",
+          "location": 168
+        },
+        {
+          "text": "textbooks that *vaccines* were the cause",
+          "location": 177
+        },
+        {
+          "text": "it look like that *vaccines* were the real",
+          "location": 199
+        },
+        {
+          "text": "number one point number two *vaccines* do",
+          "location": 268
+        },
+        {
+          "text": "*vaccines* and aluminum don't cause autism",
+          "location": 318
+        },
+        {
+          "text": "well because *vaccines* do not promote the",
+          "location": 349
+        },
+        {
+          "text": "many *vaccines* are made or preserved in",
+          "location": 371
+        },
+        {
+          "text": "in for *vaccines* so many *vaccines* you are",
+          "location": 381
+        },
+        {
+          "text": "well big reason is *vaccines* they do",
+          "location": 407
+        },
+        {
+          "text": "next point *vaccines* contain poises",
+          "location": 417
+        },
+        {
+          "text": "creating studying *vaccines* aren't even",
+          "location": 427
+        },
+        {
+          "text": "duped so this fact *vaccines* contain",
+          "location": 447
+        },
+        {
+          "text": "particulates in the *vaccines* themselves",
+          "location": 462
+        },
+        {
+          "text": "the nanoparticles and *vaccines* tested i",
+          "location": 476
+        },
+        {
+          "text": "think 40 some-odd *vaccines* and found",
+          "location": 478
+        },
+        {
+          "text": "tested a few animal *vaccines* as a",
+          "location": 487
+        },
+        {
+          "text": "*vaccines* there were only in the human",
+          "location": 493
+        },
+        {
+          "text": "tests on *vaccines* and found that most",
+          "location": 554
+        },
+        {
+          "text": "all *vaccines* he tested were infected",
+          "location": 557
+        },
+        {
+          "text": "*vaccines* that many people don't even",
+          "location": 610
+        },
+        {
+          "text": "with *vaccines* and shoot every other",
+          "location": 622
+        },
+        {
+          "text": "it comes to *vaccines* a lot of fear and",
+          "location": 629
+        },
+        {
+          "text": "last option your last chance is *vaccines*",
+          "location": 725
+        }
+      ]
+    },
+    {
+      "id": "4dX3v4Z4aec",
+      "segments": [
+        {
+          "text": "*vaccines* and things like that but it's",
+          "location": 52
+        }
+      ]
+    },
+    {
+      "id": "4fS6egD9cSc",
+      "segments": [
+        {
+          "text": "right he even says type *vaccines* in a",
+          "location": 602
+        }
+      ]
+    },
+    {
+      "id": "4nk3rY194h8",
+      "segments": [
+        {
+          "text": "do with health *vaccines* gmos always",
+          "location": 353
+        },
+        {
+          "text": "us lying to us telling us that *vaccines*",
+          "location": 423
+        },
+        {
+          "text": "before the *vaccines* were even introduced",
+          "location": 434
+        },
+        {
+          "text": "so *vaccines* don't really prevent disease",
+          "location": 438
+        },
+        {
+          "text": "contaminants in *vaccines* they're not",
+          "location": 455
+        },
+        {
+          "text": "could ever do because in fact *vaccines*",
+          "location": 466
+        }
+      ]
+    },
+    {
+      "id": "4oXIn88QFbc",
+      "segments": [
+        {
+          "text": "from *vaccines* fluoride chemtrails",
+          "location": 262
+        },
+        {
+          "text": "*vaccines* health gmos because that's",
+          "location": 1116
+        }
+      ]
+    },
+    {
+      "id": "56hnR-UeVbI",
+      "segments": [
+        {
+          "text": "let's see *vaccines* are definitely part",
+          "location": 386
+        }
+      ]
+    },
+    {
+      "id": "5PhM32xlVEs",
+      "segments": [
+        {
+          "text": "definitely am outspoken on *vaccines* and",
+          "location": 849
+        },
+        {
+          "text": "more questioning as *vaccines* man we",
+          "location": 1062
+        }
+      ]
+    },
+    {
+      "id": "5VFOltHRXbM",
+      "segments": [
+        {
+          "text": "and foremost his stance on *vaccines*",
+          "location": 120
+        },
+        {
+          "text": "we know *vaccines* are bs the vaccine",
+          "location": 132
+        },
+        {
+          "text": "humanity *vaccines* are never safe they",
+          "location": 140
+        }
+      ]
+    },
+    {
+      "id": "6_wyHLXHqx4",
+      "segments": [
+        {
+          "text": "*vaccines* to the market or maybe he's",
+          "location": 732
+        },
+        {
+          "text": "creating *vaccines* or some sort of like",
+          "location": 779
+        },
+        {
+          "text": "company that's creating *vaccines* i mean",
+          "location": 783
+        },
+        {
+          "text": "if those *vaccines* do get approved and do",
+          "location": 798
+        },
+        {
+          "text": "*vaccines* we heard about one that was",
+          "location": 804
+        },
+        {
+          "text": "companies are trying to rush *vaccines*",
+          "location": 1023
+        },
+        {
+          "text": "trying to bring forth the *vaccines* to",
+          "location": 1031
+        },
+        {
+          "text": "heck else you know *vaccines* they're a",
+          "location": 1036
+        },
+        {
+          "text": "profit margins on *vaccines* as well",
+          "location": 1043
+        }
+      ]
+    },
+    {
+      "id": "6Ezxw-UNmQI",
+      "segments": [
+        {
+          "text": "tomorrow i'll probably touch on *vaccines*",
+          "location": 115
+        },
+        {
+          "text": "a lot of stuff on *vaccines* i want to get",
+          "location": 118
+        }
+      ]
+    },
+    {
+      "id": "6o54Y7dhOus",
+      "segments": [
+        {
+          "text": "very into the *vaccines* and the gmos so",
+          "location": 692
+        },
+        {
+          "text": "programs of course like *vaccines* are",
+          "location": 747
+        },
+        {
+          "text": "bullshit on *vaccines* or cancer cures or",
+          "location": 949
+        }
+      ]
+    },
+    {
+      "id": "6sC4YqrrbsQ",
+      "segments": [
+        {
+          "text": "*vaccines* are one of the biggest medical",
+          "location": 260
+        }
+      ]
+    },
+    {
+      "id": "7a8EAuTwhdU",
+      "segments": [
+        {
+          "text": "*vaccines* i am seeing a huge wave of",
+          "location": 301
+        },
+        {
+          "text": "that's why you know things like *vaccines*",
+          "location": 329
+        },
+        {
+          "text": "for fluoride be bad for you for *vaccines*",
+          "location": 395
+        }
+      ]
+    },
+    {
+      "id": "7drP1GmKuhA",
+      "segments": [
+        {
+          "text": "speaking of *vaccines* yeah",
+          "location": 1322
+        },
+        {
+          "text": "though having to do with *vaccines* hope",
+          "location": 1342
+        },
+        {
+          "text": "gmos and *vaccines* i think all those",
+          "location": 1501
+        },
+        {
+          "text": "roll back all the gmos in *vaccines* and",
+          "location": 1533
+        }
+      ]
+    },
+    {
+      "id": "7UT-kOjOka4",
+      "segments": [
+        {
+          "text": "industrial complex *vaccines* are terrible",
+          "location": 849
+        },
+        {
+          "text": "they're putting in those *vaccines* shoot",
+          "location": 891
+        },
+        {
+          "text": "awesome he would do spots on *vaccines* he",
+          "location": 1010
+        }
+      ]
+    },
+    {
+      "id": "80z15a0xsUQ",
+      "segments": [
+        {
+          "text": "to promote our what malaria *vaccines* or",
+          "location": 2139
+        },
+        {
+          "text": "against *vaccines* in their current way",
+          "location": 2434
+        },
+        {
+          "text": "this sales of children's *vaccines* which",
+          "location": 2464
+        },
+        {
+          "text": "produce these *vaccines* like the mmr",
+          "location": 2582
+        }
+      ]
+    },
+    {
+      "id": "8gkGfhtpurY",
+      "segments": [
+        {
+          "text": "speaking of *vaccines* let's move on to",
+          "location": 702
+        },
+        {
+          "text": "gmos in *vaccines* for and yeah once you",
+          "location": 713
+        },
+        {
+          "text": "form so *vaccines* here we've got a new",
+          "location": 721
+        },
+        {
+          "text": "*vaccines* make mandatory vaccinations or",
+          "location": 739
+        },
+        {
+          "text": "here bill to require hpv *vaccines* for",
+          "location": 746
+        },
+        {
+          "text": "*vaccines* included so definitely",
+          "location": 818
+        }
+      ]
+    },
+    {
+      "id": "8pa8Er939dg",
+      "segments": [
+        {
+          "text": "let's move on now into talking *vaccines*",
+          "location": 1270
+        },
+        {
+          "text": "*vaccines* always a big topic we've got",
+          "location": 1272
+        },
+        {
+          "text": "about *vaccines* them attacking vaccine",
+          "location": 1297
+        },
+        {
+          "text": "in terms of *vaccines* and big",
+          "location": 1335
+        },
+        {
+          "text": "but the history of *vaccines* what we've",
+          "location": 1401
+        },
+        {
+          "text": "case they tell us *vaccines* wiped out",
+          "location": 1408
+        },
+        {
+          "text": "*vaccines* and rush them to the public and",
+          "location": 1457
+        },
+        {
+          "text": "books that it was actually the *vaccines*",
+          "location": 1462
+        }
+      ]
+    },
+    {
+      "id": "8z6EDkIocXI",
+      "segments": [
+        {
+          "text": "exemptions from *vaccines* for their",
+          "location": 1535
+        },
+        {
+          "text": "*vaccines* is just a fraction of what",
+          "location": 1589
+        }
+      ]
+    },
+    {
+      "id": "91aT7JIOIbY",
+      "segments": [
+        {
+          "text": "these *vaccines* or making the vaccine no",
+          "location": 549
+        },
+        {
+          "text": "evidence is that *vaccines* are not safe",
+          "location": 555
+        },
+        {
+          "text": "*vaccines* and no one was medicated and",
+          "location": 987
+        },
+        {
+          "text": "toothpaste the *vaccines* unfortunately",
+          "location": 1768
+        },
+        {
+          "text": "that's what the *vaccines* are for and",
+          "location": 1791
+        },
+        {
+          "text": "engineered foods and *vaccines* and",
+          "location": 1808
+        },
+        {
+          "text": "i know *vaccines* are stealth euthanasia",
+          "location": 2174
+        },
+        {
+          "text": "well aware what *vaccines* are for i know",
+          "location": 2180
+        }
+      ]
+    },
+    {
+      "id": "9gYGBZ6wUIE",
+      "segments": [
+        {
+          "text": "*vaccines* gmos aliens seeger space",
+          "location": 1620
+        },
+        {
+          "text": "about *vaccines* but i know enough to make",
+          "location": 1702
+        }
+      ]
+    },
+    {
+      "id": "9hqxfV040oQ",
+      "segments": [
+        {
+          "text": "all of the *vaccines* that big pharma the",
+          "location": 84
+        },
+        {
+          "text": "69 *vaccines* now in the first 18 years of",
+          "location": 93
+        },
+        {
+          "text": "vaccinating us when the *vaccines* were",
+          "location": 139
+        },
+        {
+          "text": "percent before these *vaccines* were in",
+          "location": 150
+        },
+        {
+          "text": "even introduced and then the *vaccines*",
+          "location": 152
+        },
+        {
+          "text": "since they introduced the *vaccines* that",
+          "location": 161
+        },
+        {
+          "text": "oh yeah the *vaccines* is what got rid of",
+          "location": 162
+        },
+        {
+          "text": "yeah as the *vaccines* lyster shots",
+          "location": 167
+        },
+        {
+          "text": "decline of *vaccines* okay so don't get",
+          "location": 194
+        },
+        {
+          "text": "caught up in the fear that *vaccines*",
+          "location": 196
+        },
+        {
+          "text": "*vaccines* you're gonna get these diseases",
+          "location": 200
+        },
+        {
+          "text": "to establish immunity not *vaccines* what",
+          "location": 214
+        },
+        {
+          "text": "*vaccines* do is establish more of an",
+          "location": 217
+        },
+        {
+          "text": "screwed-up body syndromes *vaccines* are a",
+          "location": 248
+        },
+        {
+          "text": "*vaccines* so all in all i could keep",
+          "location": 279
+        }
+      ]
+    },
+    {
+      "id": "9xhpctWntoI",
+      "segments": [
+        {
+          "text": "*vaccines* one of those just massive",
+          "location": 599
+        },
+        {
+          "text": "can swallow that red pill of *vaccines*",
+          "location": 607
+        },
+        {
+          "text": "no to flu *vaccines* again a lot of good",
+          "location": 622
+        },
+        {
+          "text": "and on that same topic of *vaccines* and",
+          "location": 653
+        }
+      ]
+    },
+    {
+      "id": "9YBPFZ6r5nY",
+      "segments": [
+        {
+          "text": "talking too much truth about *vaccines*",
+          "location": 133
+        }
+      ]
+    },
+    {
+      "id": "9yIsVlJ2qAY",
+      "segments": [
+        {
+          "text": "night about *vaccines* people around here",
+          "location": 446
+        },
+        {
+          "text": "*vaccines* in your body anyway it was it",
+          "location": 501
+        },
+        {
+          "text": "saying but *vaccines* and b pharma and",
+          "location": 514
+        }
+      ]
+    },
+    {
+      "id": "a4jwV9NnySU",
+      "segments": [
+        {
+          "text": "*vaccines* chemtrails you know secret",
+          "location": 254
+        },
+        {
+          "text": "use *vaccines* for instance because it's a",
+          "location": 258
+        },
+        {
+          "text": "you think *vaccines* are a miracle of",
+          "location": 272
+        }
+      ]
+    },
+    {
+      "id": "A52PfmoHm8I",
+      "segments": [
+        {
+          "text": "technologies but health *vaccines* all",
+          "location": 1412
+        }
+      ]
+    },
+    {
+      "id": "AaP-PP8-KGk",
+      "segments": [
+        {
+          "text": "now and *vaccines* and how they're trying",
+          "location": 490
+        },
+        {
+          "text": "to censor *vaccines* on the internet all",
+          "location": 493
+        },
+        {
+          "text": "and speaking of *vaccines* and his",
+          "location": 599
+        },
+        {
+          "text": "corona virus and the *vaccines* and all",
+          "location": 707
+        }
+      ]
+    },
+    {
+      "id": "aDPMNOgOz4E",
+      "segments": [
+        {
+          "text": "investigating *vaccines* and they've also",
+          "location": 164
+        }
+      ]
+    },
+    {
+      "id": "ajiBcgtAY-w",
+      "segments": [
+        {
+          "text": "brought up the v word *vaccines* the v a",
+          "location": 1890
+        },
+        {
+          "text": "*vaccines* because there is all sort of",
+          "location": 1902
+        },
+        {
+          "text": "*vaccines* sounds a little trollee little",
+          "location": 1958
+        }
+      ]
+    },
+    {
+      "id": "aJWZ_APGg6A",
+      "segments": [
+        {
+          "text": "you guys about *vaccines* so again this is",
+          "location": 897
+        },
+        {
+          "text": "article seven facts about *vaccines*",
+          "location": 915
+        },
+        {
+          "text": "let's see myth *vaccines* do not really",
+          "location": 926
+        },
+        {
+          "text": "myth all *vaccines* contained the live or",
+          "location": 935
+        },
+        {
+          "text": "*vaccines* truth your child is very",
+          "location": 947
+        },
+        {
+          "text": "right they don't eat *vaccines* myth",
+          "location": 953
+        },
+        {
+          "text": "*vaccines* are not safe truth they're not",
+          "location": 955
+        }
+      ]
+    },
+    {
+      "id": "AKPMK0xaRN0",
+      "segments": [
+        {
+          "text": "involved in exposing *vaccines* vaccine",
+          "location": 1732
+        },
+        {
+          "text": "that art is put into *vaccines* as many",
+          "location": 1743
+        },
+        {
+          "text": "is found in *vaccines* don't get them huge",
+          "location": 1749
+        },
+        {
+          "text": "to go catch you your *vaccines* reject it",
+          "location": 1754
+        }
+      ]
+    },
+    {
+      "id": "AmbKxQ51VWc",
+      "segments": [
+        {
+          "text": "pharma especially *vaccines* of course",
+          "location": 22
+        },
+        {
+          "text": "everything *vaccines* this drug that drug",
+          "location": 487
+        },
+        {
+          "text": "*vaccines* so hard right now but also the",
+          "location": 708
+        },
+        {
+          "text": "into *vaccines* there's like a million",
+          "location": 724
+        },
+        {
+          "text": "following their polio *vaccines* horrible",
+          "location": 737
+        },
+        {
+          "text": "horrible stuff those polio *vaccines*",
+          "location": 741
+        },
+        {
+          "text": "*vaccines* over in pakistan and this",
+          "location": 753
+        },
+        {
+          "text": "*vaccines* and this local media here is",
+          "location": 767
+        },
+        {
+          "text": "killing children with *vaccines* because",
+          "location": 827
+        },
+        {
+          "text": "and now still on *vaccines* the world's",
+          "location": 837
+        },
+        {
+          "text": "just *vaccines* but genetically engineered",
+          "location": 857
+        },
+        {
+          "text": "of *vaccines* it's probably a multi-dose",
+          "location": 935
+        },
+        {
+          "text": "fluoride *vaccines* gone through nexium q",
+          "location": 957
+        }
+      ]
+    },
+    {
+      "id": "aN9TllOemSA",
+      "segments": [
+        {
+          "text": "coronavirus *vaccines* we got a real weird",
+          "location": 210
+        },
+        {
+          "text": "benefit from this one and also *vaccines*",
+          "location": 2419
+        },
+        {
+          "text": "*vaccines* get the money from that",
+          "location": 2422
+        },
+        {
+          "text": "*vaccines* are incredibly profitable for",
+          "location": 2424
+        },
+        {
+          "text": "*vaccines* when we're talking certain",
+          "location": 2596
+        }
+      ]
+    },
+    {
+      "id": "AOParRtlvFQ",
+      "segments": [
+        {
+          "text": "experience was *vaccines* and cancer cures",
+          "location": 591
+        }
+      ]
+    },
+    {
+      "id": "ApHsdbvYgFA",
+      "segments": [
+        {
+          "text": "around we've got *vaccines* being pushed",
+          "location": 55
+        },
+        {
+          "text": "*vaccines* holy shit push for *vaccines*",
+          "location": 811
+        },
+        {
+          "text": "propaganda it just pushes up *vaccines* to",
+          "location": 847
+        },
+        {
+          "text": "in those *vaccines* a lot of them",
+          "location": 1072
+        },
+        {
+          "text": "*vaccines* so that's a no from me dog",
+          "location": 1077
+        },
+        {
+          "text": "nanoparticle *vaccines* and i've seen a",
+          "location": 1081
+        },
+        {
+          "text": "people's skin where *vaccines* are done to",
+          "location": 1115
+        },
+        {
+          "text": "show how many *vaccines* they've ever had",
+          "location": 1118
+        }
+      ]
+    },
+    {
+      "id": "AyLUG-qQcCA",
+      "segments": [
+        {
+          "text": "that that *vaccines* come on you guys know",
+          "location": 381
+        }
+      ]
+    },
+    {
+      "id": "bbAaX9B5ncY",
+      "segments": [
+        {
+          "text": "noticing about *vaccines* there's been a",
+          "location": 26
+        },
+        {
+          "text": "lately on *vaccines* you know it's that",
+          "location": 32
+        },
+        {
+          "text": "hpv *vaccines* as well and then in that",
+          "location": 79
+        },
+        {
+          "text": "a big one is *vaccines* speaking of",
+          "location": 1113
+        },
+        {
+          "text": "*vaccines* every single time i post about",
+          "location": 1115
+        },
+        {
+          "text": "*vaccines* whether it's a video on youtube",
+          "location": 1118
+        },
+        {
+          "text": "*vaccines* gmos boom we can talk for days",
+          "location": 2200
+        }
+      ]
+    },
+    {
+      "id": "BcZjAF2oFEE",
+      "segments": [
+        {
+          "text": "number two *vaccines* some things there",
+          "location": 14
+        },
+        {
+          "text": "energy when it comes to *vaccines* holy",
+          "location": 305
+        },
+        {
+          "text": "about it *vaccines* so a lot of things",
+          "location": 323
+        },
+        {
+          "text": "talk about regards to *vaccines* here",
+          "location": 325
+        },
+        {
+          "text": "and a little bit more on *vaccines* amid",
+          "location": 560
+        },
+        {
+          "text": "off about *vaccines* video showing arizona",
+          "location": 648
+        },
+        {
+          "text": "period these *vaccines* are not safe",
+          "location": 723
+        }
+      ]
+    },
+    {
+      "id": "bG3PLtnHSuc",
+      "segments": [
+        {
+          "text": "finding how various *vaccines* were",
+          "location": 165
+        }
+      ]
+    },
+    {
+      "id": "Bn2OlX_4C4Q",
+      "segments": [
+        {
+          "text": "that were made about that and *vaccines*",
+          "location": 175
+        }
+      ]
+    },
+    {
+      "id": "bNHR5T64ooQ",
+      "segments": [
+        {
+          "text": "shimmered on one of those as *vaccines*",
+          "location": 18
+        },
+        {
+          "text": "*vaccines* but today we have a local",
+          "location": 23
+        },
+        {
+          "text": "we'll move on into *vaccines* this is",
+          "location": 762
+        },
+        {
+          "text": "learn ok now on to *vaccines* a lot of",
+          "location": 847
+        },
+        {
+          "text": "little bit of good news on *vaccines* then",
+          "location": 852
+        },
+        {
+          "text": "about *vaccines* the truth about",
+          "location": 886
+        },
+        {
+          "text": "people *vaccines* at their homes and i",
+          "location": 935
+        },
+        {
+          "text": "they gonna try to what deliver *vaccines*",
+          "location": 944
+        },
+        {
+          "text": "about 9/11 truth *vaccines* things like",
+          "location": 1219
+        },
+        {
+          "text": "of stuff going on with *vaccines* and",
+          "location": 1258
+        }
+      ]
+    },
+    {
+      "id": "BpeOtb7CWeE",
+      "segments": [
+        {
+          "text": "*vaccines* anti vaccine groups take",
+          "location": 924
+        },
+        {
+          "text": "*vaccines* here against anti-vaxxers and",
+          "location": 989
+        },
+        {
+          "text": "truly q *vaccines* anything big pharma",
+          "location": 1017
+        },
+        {
+          "text": "doesn't like which includes the *vaccines*",
+          "location": 1021
+        }
+      ]
+    },
+    {
+      "id": "BR9EIDuUBJQ",
+      "segments": [
+        {
+          "text": "with *vaccines* cancer research etc that's",
+          "location": 1843
+        }
+      ]
+    },
+    {
+      "id": "bYRSIwwnCFU",
+      "segments": [
+        {
+          "text": "truth because let's be real *vaccines* are",
+          "location": 40
+        },
+        {
+          "text": "*vaccines* the truth about *vaccines*",
+          "location": 156
+        },
+        {
+          "text": "truth about *vaccines* it's gonna be",
+          "location": 208
+        }
+      ]
+    },
+    {
+      "id": "c1C7epr44bw",
+      "segments": [
+        {
+          "text": "about *vaccines* when q was talking about",
+          "location": 318
+        }
+      ]
+    },
+    {
+      "id": "cKGw_Hrtajc",
+      "segments": [
+        {
+          "text": "*vaccines* to finish this up so that",
+          "location": 971
+        },
+        {
+          "text": "selling their *vaccines* here that are",
+          "location": 1057
+        },
+        {
+          "text": "a few more things on *vaccines* so some",
+          "location": 1069
+        },
+        {
+          "text": "*vaccines* the doctors themselves don't",
+          "location": 1189
+        },
+        {
+          "text": "the videos i do that mentioned *vaccines*",
+          "location": 1275
+        }
+      ]
+    },
+    {
+      "id": "cKObBT3BQ4A",
+      "segments": [
+        {
+          "text": "*vaccines* we can speculate as to the",
+          "location": 578
+        }
+      ]
+    },
+    {
+      "id": "CXbRscylFsY",
+      "segments": [
+        {
+          "text": "know you start questioning *vaccines* and",
+          "location": 1089
+        },
+        {
+          "text": "they go no *vaccines* they need to be for",
+          "location": 1091
+        },
+        {
+          "text": "difference what it what if *vaccines*",
+          "location": 1259
+        }
+      ]
+    },
+    {
+      "id": "D-va4Jpkt38",
+      "segments": [
+        {
+          "text": "and now onto *vaccines* so the economists",
+          "location": 700
+        },
+        {
+          "text": "be able to create new *vaccines* in just",
+          "location": 717
+        },
+        {
+          "text": "*vaccines* that they're already telling",
+          "location": 763
+        },
+        {
+          "text": "do i not what *vaccines* but if you're",
+          "location": 768
+        },
+        {
+          "text": "new disease and we're making *vaccines*",
+          "location": 775
+        },
+        {
+          "text": "give it to us give us the *vaccines* and",
+          "location": 802
+        },
+        {
+          "text": "then they have the *vaccines* already",
+          "location": 804
+        },
+        {
+          "text": "what do *vaccines* actually do they lower",
+          "location": 883
+        },
+        {
+          "text": "*vaccines* and so much other things gmo",
+          "location": 900
+        },
+        {
+          "text": "and *vaccines* especially avoid it reject",
+          "location": 910
+        }
+      ]
+    },
+    {
+      "id": "D4AkLrH0WtI",
+      "segments": [
+        {
+          "text": "to mention on gmos *vaccines* 5g all those",
+          "location": 45
+        },
+        {
+          "text": "*vaccines* so with the trade wars",
+          "location": 668
+        },
+        {
+          "text": "about *vaccines* so i saw this article",
+          "location": 920
+        },
+        {
+          "text": "contaminants being found in *vaccines*",
+          "location": 993
+        },
+        {
+          "text": "your *vaccines* it's nonsense",
+          "location": 1023
+        },
+        {
+          "text": "gmos when it comes to *vaccines* when it",
+          "location": 1053
+        }
+      ]
+    },
+    {
+      "id": "daON-Y2Ph5w",
+      "segments": [
+        {
+          "text": "gmos *vaccines* two very important topics",
+          "location": 683
+        },
+        {
+          "text": "*vaccines* in regards to gmo gmos",
+          "location": 710
+        },
+        {
+          "text": "regards to *vaccines* italy made news last",
+          "location": 760
+        },
+        {
+          "text": "not as many of the *vaccines* are",
+          "location": 794
+        },
+        {
+          "text": "not enough we need *vaccines* done for and",
+          "location": 803
+        }
+      ]
+    },
+    {
+      "id": "DeEBJcmrjAU",
+      "segments": [
+        {
+          "text": "*vaccines* so we already know he's a",
+          "location": 901
+        },
+        {
+          "text": "now you know they lie about *vaccines*",
+          "location": 1368
+        }
+      ]
+    },
+    {
+      "id": "dh_NJhuVafY",
+      "segments": [
+        {
+          "text": "to talking about *vaccines* really quick",
+          "location": 719
+        },
+        {
+          "text": "and reporting on *vaccines* you can go",
+          "location": 742
+        },
+        {
+          "text": "explaining how *vaccines* actually make",
+          "location": 752
+        },
+        {
+          "text": "for immunity *vaccines* they just sell to",
+          "location": 765
+        }
+      ]
+    },
+    {
+      "id": "dHHqYCCujKY",
+      "segments": [
+        {
+          "text": "talking about *vaccines* and pondering why",
+          "location": 52
+        },
+        {
+          "text": "*vaccines* still a lot of important stuff",
+          "location": 78
+        },
+        {
+          "text": "*vaccines* microsoft excludes minecrafts",
+          "location": 424
+        },
+        {
+          "text": "*vaccines* so i saw this article at the",
+          "location": 490
+        },
+        {
+          "text": "and their episode about *vaccines* and",
+          "location": 503
+        },
+        {
+          "text": "label people that question *vaccines* and",
+          "location": 525
+        },
+        {
+          "text": "sell the information sell the *vaccines*",
+          "location": 571
+        },
+        {
+          "text": "to sell *vaccines* necessarily in this",
+          "location": 766
+        },
+        {
+          "text": "of *vaccines* also one last thing let's",
+          "location": 803
+        },
+        {
+          "text": "*vaccines* power profit beet color me",
+          "location": 813
+        },
+        {
+          "text": "tuesday on increased demand for *vaccines*",
+          "location": 826
+        },
+        {
+          "text": "of the most toxic and dangerous *vaccines*",
+          "location": 842
+        },
+        {
+          "text": "*vaccines* rose 27% to 500 million of",
+          "location": 851
+        },
+        {
+          "text": "*vaccines* they just want money and power",
+          "location": 937
+        },
+        {
+          "text": "*vaccines* they're very eye-opening",
+          "location": 953
+        },
+        {
+          "text": "*vaccines* we went through and the ufo",
+          "location": 1838
+        }
+      ]
+    },
+    {
+      "id": "dKaqjJzl0vg",
+      "segments": [
+        {
+          "text": "that we have *vaccines* for lately whether",
+          "location": 787
+        },
+        {
+          "text": "*vaccines* science is settled oh my god",
+          "location": 818
+        },
+        {
+          "text": "covering for *vaccines* here so can we",
+          "location": 844
+        }
+      ]
+    },
+    {
+      "id": "DksI8ZPmBNE",
+      "segments": [
+        {
+          "text": "and then lastly *vaccines* nbc news",
+          "location": 929
+        },
+        {
+          "text": "metals get into our bodies *vaccines* so",
+          "location": 1026
+        },
+        {
+          "text": "*vaccines* play a massive part in autism",
+          "location": 1035
+        }
+      ]
+    },
+    {
+      "id": "dos0E9blpHw",
+      "segments": [
+        {
+          "text": "full of *vaccines* and chemtrails and gmos",
+          "location": 211
+        }
+      ]
+    },
+    {
+      "id": "DsDBNF7mhqk",
+      "segments": [
+        {
+          "text": "lives you got your *vaccines* you've got",
+          "location": 1369
+        },
+        {
+          "text": "that's that moving on to *vaccines* we",
+          "location": 1414
+        }
+      ]
+    },
+    {
+      "id": "duZHG7VDNm4",
+      "segments": [
+        {
+          "text": "cancer *vaccines* jesus christ like i",
+          "location": 589
+        },
+        {
+          "text": "they're saying *vaccines* can help prevent",
+          "location": 596
+        },
+        {
+          "text": "personalized cancer vet *vaccines* big ol",
+          "location": 630
+        },
+        {
+          "text": "tell you that *vaccines* will prevent",
+          "location": 664
+        },
+        {
+          "text": "place right if we didn't have *vaccines*",
+          "location": 724
+        },
+        {
+          "text": "are about about *vaccines* and i mean if",
+          "location": 750
+        },
+        {
+          "text": "regards to *vaccines* look into dr.",
+          "location": 755
+        },
+        {
+          "text": "work on explaining how *vaccines* don't",
+          "location": 760
+        },
+        {
+          "text": "*vaccines* and all that so again lots of",
+          "location": 784
+        },
+        {
+          "text": "toxified through things like *vaccines*",
+          "location": 820
+        },
+        {
+          "text": "making you live longer and *vaccines*",
+          "location": 1123
+        }
+      ]
+    },
+    {
+      "id": "e8AyslO62b8",
+      "segments": [
+        {
+          "text": "the truth about *vaccines* and the truth",
+          "location": 1377
+        },
+        {
+          "text": "still trusts *vaccines* your only diet",
+          "location": 1387
+        }
+      ]
+    },
+    {
+      "id": "EcbwKNO6TBI",
+      "segments": [
+        {
+          "text": "that *vaccines* you know are even a",
+          "location": 1282
+        }
+      ]
+    },
+    {
+      "id": "eERaZvdF6Ms",
+      "segments": [
+        {
+          "text": "*vaccines* so number one huge vaccine push",
+          "location": 1144
+        },
+        {
+          "text": "germany even just made *vaccines*",
+          "location": 1159
+        },
+        {
+          "text": "against *vaccines* but let's say for",
+          "location": 1175
+        }
+      ]
+    },
+    {
+      "id": "ees6El-Jay0",
+      "segments": [
+        {
+          "text": "screw you up right here it says *vaccines*",
+          "location": 403
+        },
+        {
+          "text": "at least quite a few many many *vaccines*",
+          "location": 413
+        }
+      ]
+    },
+    {
+      "id": "FDEmEvwZtrM",
+      "segments": [
+        {
+          "text": "*vaccines* less stuff to discuss with the",
+          "location": 83
+        },
+        {
+          "text": "with the truth harm from *vaccines* hidden",
+          "location": 956
+        },
+        {
+          "text": "and then use *vaccines* so many people",
+          "location": 1016
+        },
+        {
+          "text": "waking up to *vaccines* now that that's a",
+          "location": 1019
+        },
+        {
+          "text": "more videos went on definitely *vaccines*",
+          "location": 1521
+        }
+      ]
+    },
+    {
+      "id": "FJGnynqfiCQ",
+      "segments": [
+        {
+          "text": "over *vaccines* we'll be touching on gmos",
+          "location": 14
+        },
+        {
+          "text": "especially so things like *vaccines*",
+          "location": 116
+        },
+        {
+          "text": "ism excuse me and you say *vaccines* cause",
+          "location": 165
+        },
+        {
+          "text": "vaccine for alzheimer's *vaccines* are one",
+          "location": 202
+        },
+        {
+          "text": "*vaccines* so in washington state here",
+          "location": 211
+        },
+        {
+          "text": "*vaccines* and into also giving the",
+          "location": 286
+        },
+        {
+          "text": "still on the topic of *vaccines* few more",
+          "location": 343
+        },
+        {
+          "text": "*vaccines* skeptics are getting attacked",
+          "location": 412
+        },
+        {
+          "text": "proponents of *vaccines* are getting put",
+          "location": 416
+        },
+        {
+          "text": "completely but then says *vaccines* are",
+          "location": 506
+        },
+        {
+          "text": "*vaccines* but every other topic out there",
+          "location": 541
+        },
+        {
+          "text": "and federal agencies who back *vaccines*",
+          "location": 557
+        },
+        {
+          "text": "alzheimer's *vaccines* gmos now on to",
+          "location": 852
+        }
+      ]
+    },
+    {
+      "id": "fOQPFgF5Etg",
+      "segments": [
+        {
+          "text": "*vaccines* and real health information all",
+          "location": 887
+        }
+      ]
+    },
+    {
+      "id": "fWjIv0WgyqA",
+      "segments": [
+        {
+          "text": "two of them being *vaccines* and gmos",
+          "location": 149
+        },
+        {
+          "text": "pro gmo and very pro *vaccines* in fact",
+          "location": 162
+        }
+      ]
+    },
+    {
+      "id": "g57p8aQQSbY",
+      "segments": [
+        {
+          "text": "just ridiculous and speaking of *vaccines*",
+          "location": 1305
+        }
+      ]
+    },
+    {
+      "id": "gCaHEfyXkA0",
+      "segments": [
+        {
+          "text": "solution would be some kind of *vaccines*",
+          "location": 723
+        }
+      ]
+    },
+    {
+      "id": "GN4nmRCU0AY",
+      "segments": [
+        {
+          "text": "couple topics one being *vaccines* and",
+          "location": 611
+        },
+        {
+          "text": "so the one on *vaccines* a couple of",
+          "location": 616
+        }
+      ]
+    },
+    {
+      "id": "gojwzzPJQrg",
+      "segments": [
+        {
+          "text": "*vaccines* to dumb us down and numb us and",
+          "location": 929
+        },
+        {
+          "text": "*vaccines* sprayed over our hand heads and",
+          "location": 1142
+        }
+      ]
+    },
+    {
+      "id": "GrWwOG5yFFM",
+      "segments": [
+        {
+          "text": "on *vaccines* a lot of stuff going on with",
+          "location": 29
+        },
+        {
+          "text": "*vaccines* everywhere and then of course",
+          "location": 31
+        },
+        {
+          "text": "in the *vaccines* or the fetal cells and",
+          "location": 861
+        },
+        {
+          "text": "*vaccines* but we don't listen to you five",
+          "location": 909
+        },
+        {
+          "text": "from *vaccines* the mmr vaccine",
+          "location": 978
+        },
+        {
+          "text": "because of the lack of *vaccines* that are",
+          "location": 1023
+        }
+      ]
+    },
+    {
+      "id": "H1FABkrnIaE",
+      "segments": [
+        {
+          "text": "so *vaccines* i've had to have that fight",
+          "location": 31
+        },
+        {
+          "text": "about gmos learned all about *vaccines*",
+          "location": 69
+        },
+        {
+          "text": "planet from there so *vaccines* is just",
+          "location": 82
+        },
+        {
+          "text": "reason why i think *vaccines* are going to",
+          "location": 113
+        },
+        {
+          "text": "about *vaccines* probably the most out of",
+          "location": 142
+        },
+        {
+          "text": "how vax how toxic *vaccines* are right",
+          "location": 148
+        },
+        {
+          "text": "one reason why *vaccines* are gonna be the",
+          "location": 185
+        },
+        {
+          "text": "showed a link but between *vaccines* and",
+          "location": 235
+        },
+        {
+          "text": "*vaccines* with a brand new electron",
+          "location": 329
+        },
+        {
+          "text": "*vaccines* before and they found that 43",
+          "location": 333
+        },
+        {
+          "text": "out of 44 *vaccines* they studied were all",
+          "location": 336
+        },
+        {
+          "text": "*vaccines* and i won't get on a rant about",
+          "location": 371
+        },
+        {
+          "text": "that but *vaccines* aren't they're not",
+          "location": 373
+        },
+        {
+          "text": "safety commission to study *vaccines* how",
+          "location": 410
+        },
+        {
+          "text": "states openly question *vaccines* so it's",
+          "location": 441
+        }
+      ]
+    },
+    {
+      "id": "hj7ubtDDtik",
+      "segments": [
+        {
+          "text": "they normally don't do on *vaccines* but",
+          "location": 1563
+        }
+      ]
+    },
+    {
+      "id": "HLRFTyNBlFY",
+      "segments": [
+        {
+          "text": "someone is made autistic by *vaccines* or",
+          "location": 338
+        }
+      ]
+    },
+    {
+      "id": "Hm1iTIa7rFk",
+      "segments": [
+        {
+          "text": "about *vaccines* or gmos or climate change",
+          "location": 279
+        }
+      ]
+    },
+    {
+      "id": "hMhDNxC-EB4",
+      "segments": [
+        {
+          "text": "will be on *vaccines* gmos cancer etc so",
+          "location": 47
+        }
+      ]
+    },
+    {
+      "id": "I2-S22FiEvg",
+      "segments": [
+        {
+          "text": "in hollywood we'll talk about *vaccines*",
+          "location": 65
+        },
+        {
+          "text": "propaganda out there about *vaccines* and",
+          "location": 70
+        },
+        {
+          "text": "the oscars now let's talk about *vaccines*",
+          "location": 1067
+        },
+        {
+          "text": "the reality behind *vaccines* and",
+          "location": 1075
+        },
+        {
+          "text": "fed about *vaccines* and the new",
+          "location": 1080
+        },
+        {
+          "text": "*vaccines* they are much more dangerous",
+          "location": 1125
+        },
+        {
+          "text": "trump has tweeted about *vaccines* before",
+          "location": 1271
+        },
+        {
+          "text": "between *vaccines* and neurodevelopmental",
+          "location": 1276
+        },
+        {
+          "text": "that *vaccines* are held to before i wish",
+          "location": 1284
+        },
+        {
+          "text": "tweet about *vaccines* and just",
+          "location": 1288
+        },
+        {
+          "text": "have to say about *vaccines* and the whole",
+          "location": 1346
+        }
+      ]
+    },
+    {
+      "id": "I2t1cPgCvJo",
+      "segments": [
+        {
+          "text": "making all the toxic *vaccines* being",
+          "location": 88
+        }
+      ]
+    },
+    {
+      "id": "i8VDK89xXzg",
+      "segments": [
+        {
+          "text": "minute pieces on *vaccines* that i loved",
+          "location": 60
+        }
+      ]
+    },
+    {
+      "id": "iOLlT7CbqKs",
+      "segments": [
+        {
+          "text": "gmos *vaccines* the space force would be",
+          "location": 26
+        },
+        {
+          "text": "*vaccines* so space let's get into that",
+          "location": 945
+        },
+        {
+          "text": "touch on gmos and the *vaccines* and",
+          "location": 1241
+        },
+        {
+          "text": "think their *vaccines* either italy",
+          "location": 1298
+        },
+        {
+          "text": "*vaccines* so gizmodo here saw some other",
+          "location": 1309
+        },
+        {
+          "text": "about *vaccines* the backs propaganda is",
+          "location": 1330
+        },
+        {
+          "text": "propaganda about *vaccines*",
+          "location": 1339
+        },
+        {
+          "text": "and not just that but *vaccines* do not",
+          "location": 1395
+        },
+        {
+          "text": "disease than *vaccines* do *vaccines* yes",
+          "location": 1402
+        },
+        {
+          "text": "have to do talking about *vaccines*",
+          "location": 1421
+        },
+        {
+          "text": "people out there shilling for *vaccines*",
+          "location": 1428
+        },
+        {
+          "text": "promoting *vaccines* a lot of mainstream",
+          "location": 1430
+        },
+        {
+          "text": "*vaccines* putting out lies literal lies",
+          "location": 1436
+        },
+        {
+          "text": "*vaccines* too doing a lot of work on",
+          "location": 1458
+        },
+        {
+          "text": "*vaccines* coming up very big topic that",
+          "location": 1460
+        }
+      ]
+    },
+    {
+      "id": "iPX6pJ1dD1s",
+      "segments": [
+        {
+          "text": "blogs on the truth about *vaccines* and",
+          "location": 1297
+        },
+        {
+          "text": "autism link to *vaccines* people not being",
+          "location": 1302
+        },
+        {
+          "text": "discuss i want to talk about *vaccines*",
+          "location": 1776
+        },
+        {
+          "text": "with *vaccines* and also a whole bunch of",
+          "location": 1780
+        }
+      ]
+    },
+    {
+      "id": "IS-CvxLX47Y",
+      "segments": [
+        {
+          "text": "your *vaccines* you need them no you don't",
+          "location": 1684
+        }
+      ]
+    },
+    {
+      "id": "iTFkB2iXkgI",
+      "segments": [
+        {
+          "text": "and *vaccines* and whatnot the analytics",
+          "location": 107
+        },
+        {
+          "text": "so they'll go on to *vaccines* and they'll",
+          "location": 300
+        },
+        {
+          "text": "the board i said gmos and *vaccines* it",
+          "location": 362
+        }
+      ]
+    },
+    {
+      "id": "IuIhXyjMG28",
+      "segments": [
+        {
+          "text": "get your *vaccines* guys don't inject",
+          "location": 1106
+        },
+        {
+          "text": "*vaccines* and gmos pharmaceutical",
+          "location": 1738
+        }
+      ]
+    },
+    {
+      "id": "ixHuaqf211Y",
+      "segments": [
+        {
+          "text": "whether they reporting on *vaccines* or",
+          "location": 1120
+        }
+      ]
+    },
+    {
+      "id": "j9gG0WZWO2M",
+      "segments": [
+        {
+          "text": "and i want to talk about *vaccines* 5g",
+          "location": 22
+        },
+        {
+          "text": "things let's talk 5g *vaccines* than",
+          "location": 583
+        },
+        {
+          "text": "with these situations *vaccines* saw this",
+          "location": 749
+        },
+        {
+          "text": "little more on *vaccines* because of",
+          "location": 1013
+        },
+        {
+          "text": "*vaccines* they might be able to be sued",
+          "location": 1021
+        },
+        {
+          "text": "for other products but not *vaccines* so i",
+          "location": 1024
+        },
+        {
+          "text": "people are waking up to *vaccines* no",
+          "location": 1031
+        },
+        {
+          "text": "we went through 5g *vaccines* cute",
+          "location": 1056
+        }
+      ]
+    },
+    {
+      "id": "Jcekm05d-so",
+      "segments": [
+        {
+          "text": "*vaccines* but especially the flu shot",
+          "location": 1573
+        },
+        {
+          "text": "not only are *vaccines* filled with",
+          "location": 1576
+        },
+        {
+          "text": "*vaccines* mycoplasma you can look into",
+          "location": 1603
+        },
+        {
+          "text": "a lot of *vaccines* not only this they",
+          "location": 1608
+        }
+      ]
+    },
+    {
+      "id": "jgHK6JZonJM",
+      "segments": [
+        {
+          "text": "*vaccines* and i want to talk oh",
+          "location": 59
+        },
+        {
+          "text": "let's move on to talk *vaccines* *vaccines*",
+          "location": 1134
+        },
+        {
+          "text": "first of all *vaccines* being called",
+          "location": 1141
+        },
+        {
+          "text": "have to do with *vaccines* had to do with",
+          "location": 1356
+        },
+        {
+          "text": "he's tragically wrong about *vaccines*",
+          "location": 1373
+        },
+        {
+          "text": "tragically wrong about *vaccines* so rfk",
+          "location": 1375
+        },
+        {
+          "text": "*vaccines* and the vaccine injury court",
+          "location": 1389
+        },
+        {
+          "text": "he's tragically wrong about *vaccines* so",
+          "location": 1410
+        },
+        {
+          "text": "*vaccines* shills they're going to write",
+          "location": 1418
+        }
+      ]
+    },
+    {
+      "id": "JNaC6eDgjAk",
+      "segments": [
+        {
+          "text": "possibly *vaccines* as well so i mean this",
+          "location": 361
+        }
+      ]
+    },
+    {
+      "id": "jnUZD1wnBn8",
+      "segments": [
+        {
+          "text": "just about *vaccines* but many other",
+          "location": 136
+        },
+        {
+          "text": "end of the video it said *vaccines* don't",
+          "location": 311
+        },
+        {
+          "text": "sort of on the fence about *vaccines*",
+          "location": 347
+        },
+        {
+          "text": "*vaccines* and then i was totally against",
+          "location": 352
+        },
+        {
+          "text": "*vaccines* being the major cause of it and",
+          "location": 477
+        },
+        {
+          "text": "points about *vaccines*",
+          "location": 543
+        },
+        {
+          "text": "should be dead from the *vaccines* or you",
+          "location": 637
+        },
+        {
+          "text": "*vaccines* right here and again they're",
+          "location": 696
+        },
+        {
+          "text": "*vaccines* but they're doing it with many",
+          "location": 721
+        },
+        {
+          "text": "*vaccines* but every other topic out there",
+          "location": 753
+        }
+      ]
+    },
+    {
+      "id": "KPj--UF1T0k",
+      "segments": [
+        {
+          "text": "*vaccines* i mean all of it and once i",
+          "location": 307
+        },
+        {
+          "text": "fluoride gmos *vaccines* suppress cancer",
+          "location": 325
+        }
+      ]
+    },
+    {
+      "id": "kRGV4cIdWwM",
+      "segments": [
+        {
+          "text": "*vaccines* in big pharma if you haven't",
+          "location": 934
+        },
+        {
+          "text": "seen my video last night on *vaccines* i",
+          "location": 935
+        },
+        {
+          "text": "tock doctor promoting *vaccines* probe",
+          "location": 960
+        }
+      ]
+    },
+    {
+      "id": "Llr69yow55Y",
+      "segments": [
+        {
+          "text": "*vaccines* so if we're gonna use the",
+          "location": 80
+        }
+      ]
+    },
+    {
+      "id": "llsND2qpTjM",
+      "segments": [
+        {
+          "text": "doesn't even *vaccines* but uh big thank",
+          "location": 82
+        },
+        {
+          "text": "*vaccines* somebody asked *vaccines* trump",
+          "location": 1348
+        },
+        {
+          "text": "do not no reason we don't need *vaccines*",
+          "location": 1368
+        },
+        {
+          "text": "reason we need these *vaccines* because we",
+          "location": 1389
+        }
+      ]
+    },
+    {
+      "id": "lOGKAbcAVzE",
+      "segments": [
+        {
+          "text": "*vaccines* they almost got ready for the",
+          "location": 1348
+        },
+        {
+          "text": "health they lie to us about *vaccines* and",
+          "location": 2027
+        }
+      ]
+    },
+    {
+      "id": "LygxI2VGhDU",
+      "segments": [
+        {
+          "text": "*vaccines* another one on science and",
+          "location": 9
+        }
+      ]
+    },
+    {
+      "id": "m_PowDSDjEE",
+      "segments": [
+        {
+          "text": "position on *vaccines* is very clear he",
+          "location": 444
+        },
+        {
+          "text": "investigative panel against *vaccines*",
+          "location": 449
+        },
+        {
+          "text": "*vaccines* or gmos that's really what blew",
+          "location": 505
+        }
+      ]
+    },
+    {
+      "id": "M1ODHcuO0V0",
+      "segments": [
+        {
+          "text": "something about it so health *vaccines*",
+          "location": 799
+        },
+        {
+          "text": "*vaccines* in the mainstream and not",
+          "location": 1016
+        },
+        {
+          "text": "farm of *vaccines* etc etc brochures you",
+          "location": 1553
+        }
+      ]
+    },
+    {
+      "id": "m30mwu-9WW0",
+      "segments": [
+        {
+          "text": "*vaccines* backstabbing turning that's",
+          "location": 306
+        }
+      ]
+    },
+    {
+      "id": "m5p9p9LBEpM",
+      "segments": [
+        {
+          "text": "wanted to make on *vaccines* and the",
+          "location": 62
+        },
+        {
+          "text": "reason that i want to do it on *vaccines*",
+          "location": 65
+        },
+        {
+          "text": "media about *vaccines* i'm just gonna make",
+          "location": 107
+        },
+        {
+          "text": "prevented by *vaccines* within the next",
+          "location": 232
+        },
+        {
+          "text": "vaccine *vaccines* climate change energy",
+          "location": 443
+        },
+        {
+          "text": "want to make a note on *vaccines* and the",
+          "location": 484
+        },
+        {
+          "text": "people know that *vaccines* used to",
+          "location": 491
+        },
+        {
+          "text": "well the case in some *vaccines* and it's",
+          "location": 503
+        },
+        {
+          "text": "besides uranium and in *vaccines*",
+          "location": 515
+        },
+        {
+          "text": "in many *vaccines* some *vaccines* still but",
+          "location": 538
+        },
+        {
+          "text": "the biggest influx is those *vaccines*",
+          "location": 659
+        },
+        {
+          "text": "talk about *vaccines* in the immune system",
+          "location": 675
+        },
+        {
+          "text": "*vaccines* do not stimulate the proper",
+          "location": 678
+        },
+        {
+          "text": "showing that *vaccines* themselves that",
+          "location": 757
+        },
+        {
+          "text": "*vaccines* but again they won't tell you",
+          "location": 767
+        },
+        {
+          "text": "that yes they don't want to so *vaccines*",
+          "location": 769
+        },
+        {
+          "text": "they think *vaccines* stimulate our immune",
+          "location": 789
+        },
+        {
+          "text": "then *vaccines* eradicating disease so i",
+          "location": 846
+        },
+        {
+          "text": "the propaganda because *vaccines* don't",
+          "location": 871
+        },
+        {
+          "text": "these *vaccines* up to make us think that",
+          "location": 879
+        },
+        {
+          "text": "almost 99% in many cases before *vaccines*",
+          "location": 897
+        },
+        {
+          "text": "before the *vaccines* were even introduced",
+          "location": 917
+        },
+        {
+          "text": "*vaccines* in they you know brought some",
+          "location": 971
+        },
+        {
+          "text": "population began to think that *vaccines*",
+          "location": 976
+        },
+        {
+          "text": "rid of mandatory *vaccines* even though of",
+          "location": 1085
+        },
+        {
+          "text": "that these mandatory *vaccines* will even",
+          "location": 1097
+        },
+        {
+          "text": "causing diseases which *vaccines* being",
+          "location": 1104
+        }
+      ]
+    },
+    {
+      "id": "McZuVVn7fEw",
+      "segments": [
+        {
+          "text": "sorts of ones they do it on *vaccines* and",
+          "location": 1420
+        },
+        {
+          "text": "of work exposing *vaccines* lately which",
+          "location": 2762
+        },
+        {
+          "text": "things like *vaccines* cause autism which",
+          "location": 2820
+        }
+      ]
+    },
+    {
+      "id": "mLZkwKOueVI",
+      "segments": [
+        {
+          "text": "discredit miss inform you about *vaccines*",
+          "location": 1837
+        }
+      ]
+    },
+    {
+      "id": "MO8yy324jyk",
+      "segments": [
+        {
+          "text": "*vaccines* and gmos this articles saying",
+          "location": 431
+        },
+        {
+          "text": "and what's not the hpv *vaccines* 93% of",
+          "location": 441
+        }
+      ]
+    },
+    {
+      "id": "MpiqVbdFnlo",
+      "segments": [
+        {
+          "text": "prince andrew monsanto *vaccines* space",
+          "location": 33
+        },
+        {
+          "text": "pills but all of their products *vaccines*",
+          "location": 1675
+        },
+        {
+          "text": "then speaking of *vaccines* in california",
+          "location": 1701
+        },
+        {
+          "text": "disgusting stuff because *vaccines* are",
+          "location": 1744
+        },
+        {
+          "text": "claim *vaccines* prevent disease but",
+          "location": 1751
+        }
+      ]
+    },
+    {
+      "id": "mPovmVmAgXs",
+      "segments": [
+        {
+          "text": "even researching *vaccines* or alternative",
+          "location": 1477
+        },
+        {
+          "text": "i thought *vaccines* were good for me i",
+          "location": 2319
+        }
+      ]
+    },
+    {
+      "id": "MsBWU2CFf-U",
+      "segments": [
+        {
+          "text": "*vaccines* are strengthening our immune",
+          "location": 46
+        },
+        {
+          "text": "personally say that *vaccines* are one of",
+          "location": 144
+        },
+        {
+          "text": "from *vaccines* we're talking peanut oil",
+          "location": 171
+        },
+        {
+          "text": "allergies our *vaccines* playing a major",
+          "location": 184
+        },
+        {
+          "text": "reason number two not just do *vaccines*",
+          "location": 190
+        },
+        {
+          "text": "been found in these *vaccines* mercury",
+          "location": 205
+        },
+        {
+          "text": "nanoparticles are in *vaccines* but there",
+          "location": 219
+        },
+        {
+          "text": "nanoparticles in *vaccines* so we have all",
+          "location": 222
+        },
+        {
+          "text": "by *vaccines* to sue the manufacturers",
+          "location": 297
+        },
+        {
+          "text": "been injured by *vaccines* and you also",
+          "location": 333
+        },
+        {
+          "text": "*vaccines* that don't realize they're",
+          "location": 337
+        },
+        {
+          "text": "getting injured by *vaccines* right it's",
+          "location": 340
+        },
+        {
+          "text": "who get integers by *vaccines* don't even",
+          "location": 354
+        },
+        {
+          "text": "by *vaccines* and try to do something",
+          "location": 357
+        },
+        {
+          "text": "*vaccines* if you think the news is fake",
+          "location": 393
+        },
+        {
+          "text": "discussing earlier do *vaccines* really",
+          "location": 400
+        },
+        {
+          "text": "about *vaccines* in school and from the",
+          "location": 407
+        },
+        {
+          "text": "media we're taught that *vaccines* were",
+          "location": 409
+        },
+        {
+          "text": "before the *vaccines* were even introduced",
+          "location": 432
+        },
+        {
+          "text": "whoo but then the *vaccines* introduced",
+          "location": 483
+        },
+        {
+          "text": "them think it was *vaccines* that reduce",
+          "location": 493
+        },
+        {
+          "text": "science that we're told about *vaccines*",
+          "location": 501
+        },
+        {
+          "text": "parents around the country of *vaccines*",
+          "location": 607
+        },
+        {
+          "text": "to people who say that *vaccines* harm",
+          "location": 646
+        },
+        {
+          "text": "them or they don't trust *vaccines*",
+          "location": 648
+        },
+        {
+          "text": "harmful things being done by *vaccines*",
+          "location": 666
+        },
+        {
+          "text": "after a lot of *vaccines* is your brain",
+          "location": 683
+        },
+        {
+          "text": "killed from *vaccines* so they are",
+          "location": 693
+        },
+        {
+          "text": "these *vaccines* and what we do know about",
+          "location": 727
+        },
+        {
+          "text": "*vaccines* is unfortunately from the",
+          "location": 729
+        },
+        {
+          "text": "causations we're seeing from *vaccines*",
+          "location": 741
+        }
+      ]
+    },
+    {
+      "id": "MUyBpTbvDmw",
+      "segments": [
+        {
+          "text": "knows about *vaccines* he wants to expose",
+          "location": 198
+        }
+      ]
+    },
+    {
+      "id": "Nett68JXMUk",
+      "segments": [
+        {
+          "text": "you can know that *vaccines* are bad for",
+          "location": 470
+        }
+      ]
+    },
+    {
+      "id": "NFBFDRSsaU0",
+      "segments": [
+        {
+          "text": "let's move on to *vaccines* and then",
+          "location": 932
+        },
+        {
+          "text": "avoid *vaccines* it has to be government",
+          "location": 960
+        },
+        {
+          "text": "people to know that *vaccines* can maim",
+          "location": 1047
+        },
+        {
+          "text": "seeing about *vaccines* among just all the",
+          "location": 1057
+        },
+        {
+          "text": "whether that's *vaccines* whether that's",
+          "location": 1071
+        },
+        {
+          "text": "defending *vaccines* gets ugly they posted",
+          "location": 1085
+        },
+        {
+          "text": "career to making *vaccines* more widely",
+          "location": 1094
+        },
+        {
+          "text": "you go get their *vaccines* so they're so",
+          "location": 1116
+        },
+        {
+          "text": "*vaccines* to stay healthy it's just",
+          "location": 1180
+        }
+      ]
+    },
+    {
+      "id": "NJf-Tr3BrqI",
+      "segments": [
+        {
+          "text": "*vaccines* earth's magnetic pole shift and",
+          "location": 29
+        },
+        {
+          "text": "next up *vaccines* so google billionaire",
+          "location": 1859
+        },
+        {
+          "text": "*vaccines* and then not just that but",
+          "location": 1888
+        },
+        {
+          "text": "do you know how much *vaccines* make the",
+          "location": 1904
+        },
+        {
+          "text": "even for *vaccines* but like saline bags",
+          "location": 1933
+        },
+        {
+          "text": "mandatory *vaccines* through especially in",
+          "location": 1950
+        },
+        {
+          "text": "samoa speaking of mandatory *vaccines* you",
+          "location": 1971
+        },
+        {
+          "text": "*vaccines* are pretty much causing the",
+          "location": 1995
+        }
+      ]
+    },
+    {
+      "id": "njWcrYwundg",
+      "segments": [
+        {
+          "text": "hey guys so quick video here on *vaccines*",
+          "location": 6
+        },
+        {
+          "text": "about *vaccines* gmos and they are",
+          "location": 19
+        },
+        {
+          "text": "first of all *vaccines* don't prevent",
+          "location": 117
+        },
+        {
+          "text": "they tell us about *vaccines* are wrong",
+          "location": 126
+        },
+        {
+          "text": "response so a it's not like *vaccines* the",
+          "location": 130
+        },
+        {
+          "text": "polio vaccine again *vaccines* don't get",
+          "location": 209
+        },
+        {
+          "text": "these *vaccines* what about this guy for",
+          "location": 249
+        },
+        {
+          "text": "rid of by *vaccines* this is a",
+          "location": 265
+        },
+        {
+          "text": "introduced because again *vaccines* don't",
+          "location": 298
+        },
+        {
+          "text": "*vaccines* were introduced conveniently",
+          "location": 314
+        },
+        {
+          "text": "*vaccines* again be very wary whenever",
+          "location": 321
+        },
+        {
+          "text": "*vaccines* are wrong we have to unlearn",
+          "location": 337
+        },
+        {
+          "text": "one more thing on *vaccines* this article",
+          "location": 345
+        },
+        {
+          "text": "myths about *vaccines* but they're anti",
+          "location": 426
+        },
+        {
+          "text": "about health truth about *vaccines* gmos",
+          "location": 625
+        },
+        {
+          "text": "*vaccines* gmos just reject the poison",
+          "location": 640
+        }
+      ]
+    },
+    {
+      "id": "nPtPHMYmnsk",
+      "segments": [
+        {
+          "text": "talking against *vaccines* which was",
+          "location": 57
+        },
+        {
+          "text": "discusses how *vaccines* do not actually",
+          "location": 66
+        },
+        {
+          "text": "*vaccines* induces such a fear response in",
+          "location": 94
+        },
+        {
+          "text": "because that's really what *vaccines* are",
+          "location": 134
+        },
+        {
+          "text": "boom *vaccines* are there is that that",
+          "location": 146
+        },
+        {
+          "text": "body these *vaccines* are full of heavy",
+          "location": 167
+        },
+        {
+          "text": "*vaccines* whether own unknowingly or",
+          "location": 189
+        },
+        {
+          "text": "on *vaccines* and their contamination with",
+          "location": 199
+        },
+        {
+          "text": "nanoparticles and other in *vaccines*",
+          "location": 204
+        },
+        {
+          "text": "*vaccines* down below because this is a",
+          "location": 232
+        },
+        {
+          "text": "about the *vaccines* and for my friends",
+          "location": 270
+        },
+        {
+          "text": "and family about *vaccines*",
+          "location": 272
+        }
+      ]
+    },
+    {
+      "id": "NY7B_THWsM8",
+      "segments": [
+        {
+          "text": "from *vaccines* causing autism to it being",
+          "location": 944
+        },
+        {
+          "text": "autism it's not the *vaccines* over here",
+          "location": 961
+        }
+      ]
+    },
+    {
+      "id": "obm0AKIypPI",
+      "segments": [
+        {
+          "text": "*vaccines* we'll have to cover that here",
+          "location": 58
+        },
+        {
+          "text": "*vaccines* how to inoculate against",
+          "location": 915
+        },
+        {
+          "text": "cancer and *vaccines* here ty bollinger",
+          "location": 1132
+        },
+        {
+          "text": "about *vaccines* again another like eight",
+          "location": 1136
+        },
+        {
+          "text": "*vaccines* truth about cancer docu-series",
+          "location": 1155
+        },
+        {
+          "text": "about *vaccines* everything so each video",
+          "location": 1165
+        },
+        {
+          "text": "they stuck with *vaccines* they suck with",
+          "location": 1224
+        },
+        {
+          "text": "bs when it comes to cancer and *vaccines*",
+          "location": 1680
+        }
+      ]
+    },
+    {
+      "id": "OCzJwGE7RTY",
+      "segments": [
+        {
+          "text": "talk about *vaccines* and autism you know",
+          "location": 269
+        }
+      ]
+    },
+    {
+      "id": "oSZzclsh00Y",
+      "segments": [
+        {
+          "text": "disclosure of *vaccines* cancer cures",
+          "location": 117
+        }
+      ]
+    },
+    {
+      "id": "ozbHMNhYe0A",
+      "segments": [
+        {
+          "text": "topics i talk about *vaccines* gmos",
+          "location": 349
+        }
+      ]
+    },
+    {
+      "id": "P3jy8S0P-2w",
+      "segments": [
+        {
+          "text": "world bank a lot of things on *vaccines*",
+          "location": 11
+        },
+        {
+          "text": "more guys with *vaccines* in a sec but",
+          "location": 244
+        },
+        {
+          "text": "definitely now getting on to *vaccines* so",
+          "location": 299
+        },
+        {
+          "text": "misinformation about *vaccines* whether",
+          "location": 329
+        },
+        {
+          "text": "about *vaccines* is problem reaction",
+          "location": 365
+        },
+        {
+          "text": "the truth about *vaccines* so getting",
+          "location": 463
+        },
+        {
+          "text": "fight mandatory *vaccines*",
+          "location": 503
+        },
+        {
+          "text": "that are trying to make *vaccines*",
+          "location": 515
+        },
+        {
+          "text": "will not be helped by more *vaccines* what",
+          "location": 527
+        },
+        {
+          "text": "healthier *vaccines* won't do it luckily",
+          "location": 534
+        }
+      ]
+    },
+    {
+      "id": "PBiBq_DiHmo",
+      "segments": [
+        {
+          "text": "talk *vaccines* especially we're gonna",
+          "location": 82
+        },
+        {
+          "text": "information on *vaccines* that's just the",
+          "location": 151
+        },
+        {
+          "text": "*vaccines* do not work as they tell us",
+          "location": 203
+        },
+        {
+          "text": "with *vaccines* especially because they",
+          "location": 212
+        },
+        {
+          "text": "into *vaccines* so i would highly suggest",
+          "location": 248
+        },
+        {
+          "text": "and still on the topic of *vaccines* but",
+          "location": 339
+        },
+        {
+          "text": "the truth out there about *vaccines* polio",
+          "location": 387
+        },
+        {
+          "text": "*vaccines* come out for them they actually",
+          "location": 408
+        },
+        {
+          "text": "the *vaccines* were even introduced the",
+          "location": 415
+        },
+        {
+          "text": "*vaccines* were then introduced in the",
+          "location": 417
+        },
+        {
+          "text": "people get *vaccines* they get these rare",
+          "location": 479
+        },
+        {
+          "text": "reject the poison reject the *vaccines*",
+          "location": 512
+        },
+        {
+          "text": "than *vaccines* and this is probably why i",
+          "location": 519
+        },
+        {
+          "text": "importance of *vaccines* ha ha ha no in",
+          "location": 568
+        },
+        {
+          "text": "rejecting the *vaccines* so of course",
+          "location": 577
+        },
+        {
+          "text": "*vaccines* are getting expanded and all",
+          "location": 582
+        },
+        {
+          "text": "*vaccines* whether it's with climate",
+          "location": 1070
+        },
+        {
+          "text": "with okay so we covered *vaccines* we",
+          "location": 1086
+        },
+        {
+          "text": "about ets and ufos but *vaccines* too",
+          "location": 1344
+        },
+        {
+          "text": "about *vaccines* on twitter there's some",
+          "location": 1350
+        }
+      ]
+    },
+    {
+      "id": "Pi8_BZtYNzQ",
+      "segments": [
+        {
+          "text": "*vaccines* towards the end so that's the",
+          "location": 94
+        },
+        {
+          "text": "and then end with *vaccines* so uh i just",
+          "location": 1884
+        },
+        {
+          "text": "times when we talk *vaccines* but uh the",
+          "location": 1980
+        }
+      ]
+    },
+    {
+      "id": "pt17lUpcskk",
+      "segments": [
+        {
+          "text": "on aluminum *vaccines* chemtrails fluoride",
+          "location": 525
+        }
+      ]
+    },
+    {
+      "id": "pwM9WH8pqaY",
+      "segments": [
+        {
+          "text": "futurism like they love their *vaccines*",
+          "location": 979
+        }
+      ]
+    },
+    {
+      "id": "pyMrzxZBZZQ",
+      "segments": [
+        {
+          "text": "truth about cancer or *vaccines* or",
+          "location": 2729
+        }
+      ]
+    },
+    {
+      "id": "q2ItOTBF1ys",
+      "segments": [
+        {
+          "text": "*vaccines* and you can absolutely see that",
+          "location": 296
+        },
+        {
+          "text": "like *vaccines* go back to his twitter",
+          "location": 323
+        }
+      ]
+    },
+    {
+      "id": "Qq339b2xOrY",
+      "segments": [
+        {
+          "text": "us about health *vaccines* or bad",
+          "location": 268
+        }
+      ]
+    },
+    {
+      "id": "qRKU3XXIwlI",
+      "segments": [
+        {
+          "text": "tyson big news coming out on *vaccines*",
+          "location": 24
+        },
+        {
+          "text": "it's *vaccines* gmos cosmology",
+          "location": 224
+        },
+        {
+          "text": "let's get into talking about *vaccines* so",
+          "location": 348
+        },
+        {
+          "text": "*vaccines* truly you really got to look",
+          "location": 394
+        },
+        {
+          "text": "into these *vaccines* they are just toxic",
+          "location": 397
+        },
+        {
+          "text": "that's not a conspiracy *vaccines*",
+          "location": 424
+        },
+        {
+          "text": "*vaccines* just a year ago a lot of people",
+          "location": 462
+        }
+      ]
+    },
+    {
+      "id": "qX2Z7mLBM1k",
+      "segments": [
+        {
+          "text": "it now moving on into *vaccines* another",
+          "location": 559
+        },
+        {
+          "text": "*vaccines* is just so incredibly garbage",
+          "location": 585
+        },
+        {
+          "text": "*vaccines* is a huge red i mean there's so",
+          "location": 599
+        },
+        {
+          "text": "*vaccines* against q as we know against",
+          "location": 614
+        }
+      ]
+    },
+    {
+      "id": "R_iWc7_vQ14",
+      "segments": [
+        {
+          "text": "piece on *vaccines* and another is of",
+          "location": 47
+        },
+        {
+          "text": "to share with you number one on *vaccines*",
+          "location": 768
+        },
+        {
+          "text": "these *vaccines* i don't care if it's made",
+          "location": 805
+        },
+        {
+          "text": "of nano particles actually many *vaccines*",
+          "location": 817
+        },
+        {
+          "text": "trying to sell *vaccines* in any way shape",
+          "location": 838
+        },
+        {
+          "text": "we're seeing *vaccines* so much propaganda",
+          "location": 845
+        },
+        {
+          "text": "*vaccines* and mms they wouldn't be doing",
+          "location": 983
+        }
+      ]
+    },
+    {
+      "id": "r-vKLD9F61M",
+      "segments": [
+        {
+          "text": "organic *vaccines* fluoride even physics",
+          "location": 899
+        }
+      ]
+    },
+    {
+      "id": "RCPgq96ku4k",
+      "segments": [
+        {
+          "text": "medicine got *vaccines* we have dental",
+          "location": 492
+        }
+      ]
+    },
+    {
+      "id": "rdE4NEIZACI",
+      "segments": [
+        {
+          "text": "a lot of people here *vaccines* and",
+          "location": 342
+        },
+        {
+          "text": "they'll connect *vaccines* to autism well",
+          "location": 345
+        },
+        {
+          "text": "metals injected to us from *vaccines* but",
+          "location": 348
+        },
+        {
+          "text": "*vaccines* but chemtrails too we could",
+          "location": 361
+        }
+      ]
+    },
+    {
+      "id": "REcAj2PLMu4",
+      "segments": [
+        {
+          "text": "vaccine will talk a lot about *vaccines*",
+          "location": 116
+        },
+        {
+          "text": "sweeteners fluoride *vaccines* talk more",
+          "location": 740
+        },
+        {
+          "text": "about *vaccines* and mit here i got a lot",
+          "location": 744
+        },
+        {
+          "text": "coming probably today just on *vaccines*",
+          "location": 748
+        },
+        {
+          "text": "as well you want *vaccines* in you they",
+          "location": 752
+        },
+        {
+          "text": "everything they tell you that *vaccines*",
+          "location": 1001
+        },
+        {
+          "text": "*vaccines* and this all would have been",
+          "location": 1006
+        },
+        {
+          "text": "they themselves produced so do *vaccines*",
+          "location": 1052
+        },
+        {
+          "text": "told about *vaccines* in the mainstream",
+          "location": 1059
+        },
+        {
+          "text": "terms of okay they say *vaccines* prevent",
+          "location": 1072
+        },
+        {
+          "text": "onto *vaccines* you know does novo genex",
+          "location": 1241
+        },
+        {
+          "text": "going around about all those *vaccines*",
+          "location": 1291
+        },
+        {
+          "text": "lot of people say this that *vaccines*",
+          "location": 1373
+        },
+        {
+          "text": "*vaccines* were safe in the beginning and",
+          "location": 1381
+        },
+        {
+          "text": "corruption occurred and *vaccines* to be",
+          "location": 1386
+        },
+        {
+          "text": "case in *vaccines* were actually never",
+          "location": 1404
+        },
+        {
+          "text": "*vaccines* decades ago this was like the",
+          "location": 1415
+        },
+        {
+          "text": "very first polio *vaccines* injected into",
+          "location": 1417
+        },
+        {
+          "text": "off that than the *vaccines* and these",
+          "location": 1464
+        },
+        {
+          "text": "*vaccines*",
+          "location": 1471
+        },
+        {
+          "text": "even introduced then the *vaccines* were",
+          "location": 1471
+        },
+        {
+          "text": "and tried to say oh as *vaccines* that",
+          "location": 1486
+        },
+        {
+          "text": "*vaccines* don't cause autism correlation",
+          "location": 1500
+        },
+        {
+          "text": "correlation between *vaccines* and the",
+          "location": 1510
+        },
+        {
+          "text": "with *vaccines* actually reducing disease",
+          "location": 1520
+        },
+        {
+          "text": "*vaccines* was that from the top was there",
+          "location": 1692
+        },
+        {
+          "text": "municipal water now so no *vaccines* when",
+          "location": 1727
+        },
+        {
+          "text": "discussing *vaccines* it said *vaccines* but",
+          "location": 1749
+        },
+        {
+          "text": "it said not all okay not all *vaccines*",
+          "location": 1751
+        },
+        {
+          "text": "that they say *vaccines* are for you see",
+          "location": 1812
+        },
+        {
+          "text": "the way they say *vaccines* are for is you",
+          "location": 1815
+        },
+        {
+          "text": "what they say *vaccines* are supposed to",
+          "location": 1856
+        },
+        {
+          "text": "system people who get these *vaccines*",
+          "location": 1868
+        },
+        {
+          "text": "diseases wow do *vaccines* really work",
+          "location": 1872
+        },
+        {
+          "text": "allergies a lot of these *vaccines* are",
+          "location": 2014
+        },
+        {
+          "text": "*vaccines* they use egg proteins to",
+          "location": 2044
+        },
+        {
+          "text": "lack of *vaccines* it's a fact that we are",
+          "location": 2087
+        },
+        {
+          "text": "lack of *vaccines* shoot look at the amish",
+          "location": 2217
+        },
+        {
+          "text": "they don't give *vaccines* rates of autism",
+          "location": 2227
+        },
+        {
+          "text": "*vaccines* should i get i think my mom is",
+          "location": 2261
+        },
+        {
+          "text": "on reddit because he wanted *vaccines* he",
+          "location": 2324
+        },
+        {
+          "text": "so example here with *vaccines*",
+          "location": 2707
+        },
+        {
+          "text": "from pharmaceutical *vaccines* to free",
+          "location": 2723
+        }
+      ]
+    },
+    {
+      "id": "RenafscRgUY",
+      "segments": [
+        {
+          "text": "on freaking be *vaccines* are you kidding",
+          "location": 1042
+        },
+        {
+          "text": "me could the world's first be *vaccines*",
+          "location": 1045
+        },
+        {
+          "text": "*vaccines* harm humans you really think a",
+          "location": 1074
+        }
+      ]
+    },
+    {
+      "id": "SAwrlpHFmOc",
+      "segments": [
+        {
+          "text": "going to be on *vaccines* one of the most",
+          "location": 51
+        },
+        {
+          "text": "*vaccines* out there who opposed this bill",
+          "location": 234
+        },
+        {
+          "text": "to say *vaccines* are necessary and",
+          "location": 563
+        },
+        {
+          "text": "actually happened after 120,000 *vaccines*",
+          "location": 581
+        },
+        {
+          "text": "*vaccines* prevent disease and i mean",
+          "location": 744
+        },
+        {
+          "text": "these sickos make on *vaccines* it's truly",
+          "location": 901
+        },
+        {
+          "text": "thing with these *vaccines* each one they",
+          "location": 918
+        },
+        {
+          "text": "years over these *vaccines* okay so does",
+          "location": 937
+        },
+        {
+          "text": "hard to make *vaccines* mandatory get",
+          "location": 945
+        },
+        {
+          "text": "across the world there's a lie *vaccines*",
+          "location": 1097
+        },
+        {
+          "text": "he's uh trying to make *vaccines*",
+          "location": 1160
+        },
+        {
+          "text": "propaganda around *vaccines* themselves",
+          "location": 1180
+        },
+        {
+          "text": "they always try to sell their *vaccines*",
+          "location": 1225
+        }
+      ]
+    },
+    {
+      "id": "sHUgXraPhAc",
+      "segments": [
+        {
+          "text": "energy *vaccines* antarctica all this",
+          "location": 295
+        },
+        {
+          "text": "*vaccines* justin trudeau saying *vaccines*",
+          "location": 2095
+        },
+        {
+          "text": "are safe *vaccines* save lives love this",
+          "location": 2099
+        },
+        {
+          "text": "shirt thanks jeanette *vaccines* cause",
+          "location": 2102
+        },
+        {
+          "text": "*vaccines* are safe and save lives no",
+          "location": 2125
+        },
+        {
+          "text": "*vaccines* are not safe and they're not",
+          "location": 2127
+        },
+        {
+          "text": "trump being open to questioning *vaccines*",
+          "location": 2198
+        },
+        {
+          "text": "*vaccines* but you know is the optics game",
+          "location": 2218
+        }
+      ]
+    },
+    {
+      "id": "sLv3F7kLpB4",
+      "segments": [
+        {
+          "text": "*vaccines* don't protect you no matter",
+          "location": 352
+        },
+        {
+          "text": "are literally found in *vaccines* these",
+          "location": 427
+        },
+        {
+          "text": "whatever else in those *vaccines* and haha",
+          "location": 469
+        },
+        {
+          "text": "said *vaccines* bullshit and we're getting",
+          "location": 494
+        },
+        {
+          "text": "of the *vaccines* in most of these",
+          "location": 548
+        },
+        {
+          "text": "outbreaks have had their *vaccines* so",
+          "location": 557
+        },
+        {
+          "text": "*vaccines* again don't help our immune",
+          "location": 561
+        },
+        {
+          "text": "than *vaccines* do because *vaccines* don't",
+          "location": 574
+        }
+      ]
+    },
+    {
+      "id": "SovJjIjmI6M",
+      "segments": [
+        {
+          "text": "and they basically just told me *vaccines*",
+          "location": 746
+        }
+      ]
+    },
+    {
+      "id": "svwSKZ926yY",
+      "segments": [
+        {
+          "text": "general flint's court case *vaccines* ufos",
+          "location": 38
+        },
+        {
+          "text": "*vaccines* finish up with area 51 yeah i",
+          "location": 704
+        },
+        {
+          "text": "it went out over the weekend so *vaccines*",
+          "location": 710
+        },
+        {
+          "text": "*vaccines* on kids trying to attend public",
+          "location": 728
+        },
+        {
+          "text": "*vaccines* are safe and effective that",
+          "location": 777
+        },
+        {
+          "text": "york times not just about *vaccines* but",
+          "location": 818
+        },
+        {
+          "text": "into crusaders against *vaccines* my would",
+          "location": 859
+        },
+        {
+          "text": "crusaders against *vaccines* terrible",
+          "location": 881
+        },
+        {
+          "text": "about *vaccines* before we move on into",
+          "location": 891
+        },
+        {
+          "text": "influenza *vaccines* in the united states",
+          "location": 909
+        },
+        {
+          "text": "say things like *vaccines* are bad okay",
+          "location": 1047
+        },
+        {
+          "text": "truth about *vaccines* you don't care who",
+          "location": 1092
+        }
+      ]
+    },
+    {
+      "id": "T_mJ1awyakY",
+      "segments": [
+        {
+          "text": "stuff on *vaccines* i want to share with",
+          "location": 2013
+        },
+        {
+          "text": "going from ufos okay *vaccines* so forbes",
+          "location": 2535
+        }
+      ]
+    },
+    {
+      "id": "TeFw8eqcLco",
+      "segments": [
+        {
+          "text": "because of *vaccines* they had vaccine",
+          "location": 501
+        }
+      ]
+    },
+    {
+      "id": "tJjx9eVGzSY",
+      "segments": [
+        {
+          "text": "sharing the truth about *vaccines* and in",
+          "location": 16
+        },
+        {
+          "text": "personal experience with *vaccines* how he",
+          "location": 21
+        },
+        {
+          "text": "them and how *vaccines* really changed the",
+          "location": 26
+        },
+        {
+          "text": "talk about *vaccines* because it's an",
+          "location": 49
+        },
+        {
+          "text": "haven't linked it to *vaccines* because i",
+          "location": 123
+        },
+        {
+          "text": "*vaccines* and problems with kids i didn't",
+          "location": 161
+        },
+        {
+          "text": "produce *vaccines* is completely unsafe we",
+          "location": 291
+        },
+        {
+          "text": "*vaccines* are unsafe and we shouldn't be",
+          "location": 315
+        },
+        {
+          "text": "*vaccines* is having the direct experience",
+          "location": 719
+        },
+        {
+          "text": "the dots with okay *vaccines* being a",
+          "location": 752
+        },
+        {
+          "text": "moratorium on childhood *vaccines* until",
+          "location": 910
+        },
+        {
+          "text": "group that gets no *vaccines* they had no",
+          "location": 1123
+        },
+        {
+          "text": "which moved all *vaccines* out of the",
+          "location": 1201
+        },
+        {
+          "text": "remotely like that happens with *vaccines*",
+          "location": 1248
+        },
+        {
+          "text": "within these *vaccines* such as",
+          "location": 1547
+        },
+        {
+          "text": "showing nanoparticles and human *vaccines*",
+          "location": 1557
+        },
+        {
+          "text": "michael plasma in *vaccines* yeah well you",
+          "location": 1580
+        },
+        {
+          "text": "regards to *vaccines* but glyphosate but",
+          "location": 1764
+        },
+        {
+          "text": "times fails on *vaccines* so you know",
+          "location": 1899
+        },
+        {
+          "text": "gonna talk about *vaccines* and i wrote a",
+          "location": 1922
+        },
+        {
+          "text": "the campaign about *vaccines* and autism",
+          "location": 2092
+        },
+        {
+          "text": "personally injured by *vaccines* or people",
+          "location": 2102
+        },
+        {
+          "text": "*vaccines*",
+          "location": 2173
+        },
+        {
+          "text": "*vaccines* that's kind of like saying well",
+          "location": 2195
+        },
+        {
+          "text": "on *vaccines* we've got the government's",
+          "location": 2226
+        },
+        {
+          "text": "percent of autism was caused by *vaccines*",
+          "location": 2236
+        },
+        {
+          "text": "with what i talk about *vaccines*",
+          "location": 2552
+        }
+      ]
+    },
+    {
+      "id": "tkLyxIo8Cqo",
+      "segments": [
+        {
+          "text": "*vaccines* and then some other things as",
+          "location": 41
+        },
+        {
+          "text": "about *vaccines* a lot of vaccine",
+          "location": 1501
+        },
+        {
+          "text": "outbreaks had the *vaccines* in the first",
+          "location": 1559
+        },
+        {
+          "text": "place that means that *vaccines* really",
+          "location": 1562
+        },
+        {
+          "text": "know *vaccines* do not prevent disease",
+          "location": 1567
+        },
+        {
+          "text": "topics out there *vaccines* being one of",
+          "location": 1574
+        },
+        {
+          "text": "about *vaccines* in this fortune.com",
+          "location": 1624
+        },
+        {
+          "text": "anti-vaxxers want more *vaccines* because",
+          "location": 1636
+        }
+      ]
+    },
+    {
+      "id": "TKOI_wF6Rn0",
+      "segments": [
+        {
+          "text": "promote *vaccines* claiming and they save",
+          "location": 491
+        },
+        {
+          "text": "supports *vaccines* and 5g and things like",
+          "location": 505
+        },
+        {
+          "text": "like he's supporting 5g or *vaccines* or",
+          "location": 514
+        },
+        {
+          "text": "want to talk a minute about *vaccines* and",
+          "location": 920
+        },
+        {
+          "text": "freakin *vaccines* for the last couple of",
+          "location": 1063
+        }
+      ]
+    },
+    {
+      "id": "TX1rZO2bLJ8",
+      "segments": [
+        {
+          "text": "the vaccine with *vaccines* scientists",
+          "location": 346
+        }
+      ]
+    },
+    {
+      "id": "u_apd9SGqLc",
+      "segments": [
+        {
+          "text": "space programs i'll talk about *vaccines*",
+          "location": 2327
+        }
+      ]
+    },
+    {
+      "id": "U1GOoEoYLy8",
+      "segments": [
+        {
+          "text": "*vaccines* are healthy do you think gmos",
+          "location": 1179
+        }
+      ]
+    },
+    {
+      "id": "u9zCkZgwoik",
+      "segments": [
+        {
+          "text": "*vaccines* climate change whatnot so these",
+          "location": 858
+        }
+      ]
+    },
+    {
+      "id": "UpaXSxM07to",
+      "segments": [
+        {
+          "text": "see here and also man *vaccines* that anti",
+          "location": 1096
+        }
+      ]
+    },
+    {
+      "id": "UuJpA7lXi7g",
+      "segments": [
+        {
+          "text": "science ufos propaganda on *vaccines*",
+          "location": 447
+        },
+        {
+          "text": "*vaccines* you know a lot of young",
+          "location": 473
+        },
+        {
+          "text": "changing with *vaccines* people are waking",
+          "location": 477
+        },
+        {
+          "text": "*vaccines* you think oh my god they're",
+          "location": 500
+        },
+        {
+          "text": "*vaccines* almost eradicated forbes says",
+          "location": 564
+        },
+        {
+          "text": "here *vaccines* almost eradicated polio",
+          "location": 567
+        },
+        {
+          "text": "*vaccines* eradicate polio not really",
+          "location": 606
+        },
+        {
+          "text": "wasn't the *vaccines* fault it was better",
+          "location": 610
+        },
+        {
+          "text": "in the mid 1900s that had *vaccines* come",
+          "location": 616
+        },
+        {
+          "text": "attribute the *vaccines* to destroying the",
+          "location": 632
+        },
+        {
+          "text": "propaganda coming out around *vaccines* so",
+          "location": 691
+        }
+      ]
+    },
+    {
+      "id": "uxDmAVpZ91Q",
+      "segments": [
+        {
+          "text": "if like *vaccines* or fluoride it'll come",
+          "location": 229
+        },
+        {
+          "text": "*vaccines* aren't really all that great",
+          "location": 241
+        },
+        {
+          "text": "and she said i don't like *vaccines*",
+          "location": 543
+        },
+        {
+          "text": "information on *vaccines* is gonna get new",
+          "location": 725
+        }
+      ]
+    },
+    {
+      "id": "V-8xYjEosOY",
+      "segments": [
+        {
+          "text": "outspoken about *vaccines* you know she's",
+          "location": 328
+        },
+        {
+          "text": "not afraid to question *vaccines* put some",
+          "location": 330
+        },
+        {
+          "text": "with all these *vaccines* and circumcise",
+          "location": 834
+        },
+        {
+          "text": "abortion *vaccines* circumcision bad food",
+          "location": 847
+        },
+        {
+          "text": "*vaccines* narrative about pharmaceuticals",
+          "location": 1183
+        }
+      ]
+    },
+    {
+      "id": "V4OPmN3e8F8",
+      "segments": [
+        {
+          "text": "diseases can be done *vaccines* are bad",
+          "location": 741
+        },
+        {
+          "text": "moment could be *vaccines* for a lot of",
+          "location": 1699
+        },
+        {
+          "text": "not only that but *vaccines* i've been",
+          "location": 1990
+        },
+        {
+          "text": "talking a little bit more about *vaccines*",
+          "location": 1993
+        },
+        {
+          "text": "about *vaccines* and then they must get",
+          "location": 2008
+        }
+      ]
+    },
+    {
+      "id": "v5G6fZkyhXg",
+      "segments": [
+        {
+          "text": "talking about *vaccines* in this article",
+          "location": 953
+        }
+      ]
+    },
+    {
+      "id": "VLxlCXAuo08",
+      "segments": [
+        {
+          "text": "few about *vaccines* and gmos big pharma",
+          "location": 727
+        }
+      ]
+    },
+    {
+      "id": "VtMhFvMTyHQ",
+      "segments": [
+        {
+          "text": "began by getting into *vaccines* and i was",
+          "location": 139
+        },
+        {
+          "text": "health they attack *vaccines* they attack",
+          "location": 1035
+        },
+        {
+          "text": "*vaccines* and when it comes to space you",
+          "location": 1086
+        }
+      ]
+    },
+    {
+      "id": "W0APO4axfn4",
+      "segments": [
+        {
+          "text": "*vaccines* now i've had this video cooking",
+          "location": 4
+        },
+        {
+          "text": "*vaccines* i went to watch this hearing",
+          "location": 18
+        },
+        {
+          "text": "*vaccines*",
+          "location": 46
+        },
+        {
+          "text": "they're trying to sell *vaccines* to you",
+          "location": 46
+        },
+        {
+          "text": "*vaccines* it's gonna be an information",
+          "location": 70
+        },
+        {
+          "text": "that *vaccines* are safe and effective and",
+          "location": 113
+        },
+        {
+          "text": "*vaccines* injured children and they're",
+          "location": 272
+        },
+        {
+          "text": "about vaccine injury and how *vaccines*",
+          "location": 316
+        },
+        {
+          "text": "have been injured by *vaccines* keep in",
+          "location": 330
+        },
+        {
+          "text": "who have been injured by *vaccines* truly",
+          "location": 337
+        },
+        {
+          "text": "our *vaccines* really safe like they say",
+          "location": 339
+        },
+        {
+          "text": "country now with *vaccines* of course with",
+          "location": 433
+        },
+        {
+          "text": "waking up and when it comes to *vaccines*",
+          "location": 550
+        },
+        {
+          "text": "*vaccines* is one of those most hardcore",
+          "location": 553
+        },
+        {
+          "text": "about *vaccines* so adam schiff calling",
+          "location": 565
+        },
+        {
+          "text": "*vaccines* are not safe nor effective",
+          "location": 797
+        },
+        {
+          "text": "i support *vaccines* i want to know what",
+          "location": 886
+        },
+        {
+          "text": "*vaccines* to get so reddit what do you",
+          "location": 889
+        },
+        {
+          "text": "think *vaccines* i should get and he went",
+          "location": 890
+        },
+        {
+          "text": "about *vaccines* truthful information",
+          "location": 1137
+        },
+        {
+          "text": "about *vaccines* i would highly doubt it",
+          "location": 1138
+        },
+        {
+          "text": "with *vaccines* how wow our modern",
+          "location": 1194
+        },
+        {
+          "text": "hole deep state in general and *vaccines*",
+          "location": 1209
+        },
+        {
+          "text": "*vaccines* less on the propaganda we're",
+          "location": 1230
+        },
+        {
+          "text": "*vaccines* so just for a tidbit now if you",
+          "location": 1240
+        },
+        {
+          "text": "into the truth about *vaccines* i'll link",
+          "location": 1247
+        },
+        {
+          "text": "*vaccines* great docu-series great youtube",
+          "location": 1261
+        },
+        {
+          "text": "and even a full episode about *vaccines*",
+          "location": 1264
+        },
+        {
+          "text": "science and the truth about *vaccines* how",
+          "location": 1290
+        }
+      ]
+    },
+    {
+      "id": "wjeEg2yoJbM",
+      "segments": [
+        {
+          "text": "quote overhaul flu *vaccines*",
+          "location": 114
+        },
+        {
+          "text": "moving on to *vaccines* so politico is",
+          "location": 2076
+        },
+        {
+          "text": "*vaccines* readying an executive order",
+          "location": 2083
+        },
+        {
+          "text": "the development of flu *vaccines* and",
+          "location": 2090
+        },
+        {
+          "text": "*vaccines* and encourage more americans to",
+          "location": 2151
+        },
+        {
+          "text": "development of flu *vaccines* i'm all for",
+          "location": 2162
+        },
+        {
+          "text": "chemtrails *vaccines* free energy and the",
+          "location": 2174
+        },
+        {
+          "text": "the development of flu *vaccines* i'm all",
+          "location": 2201
+        },
+        {
+          "text": "why would trump support *vaccines*",
+          "location": 2209
+        },
+        {
+          "text": "trump's got to support *vaccines* for the",
+          "location": 2222
+        },
+        {
+          "text": "*vaccines* or trump got into *vaccines* i've",
+          "location": 2237
+        },
+        {
+          "text": "*vaccines* right now they'll report on q",
+          "location": 2245
+        },
+        {
+          "text": "trafficking but even *vaccines* it's just",
+          "location": 2251
+        },
+        {
+          "text": "*vaccines* this will be for more americans",
+          "location": 2269
+        },
+        {
+          "text": "topics *vaccines* overhauling the federal",
+          "location": 2279
+        },
+        {
+          "text": "still on *vaccines* you know there might",
+          "location": 2312
+        },
+        {
+          "text": "to overhaul loop flu *vaccines* and quote",
+          "location": 2317
+        },
+        {
+          "text": "yeah get your *vaccines* people really",
+          "location": 2328
+        },
+        {
+          "text": "he quote supports *vaccines* before that",
+          "location": 2367
+        }
+      ]
+    },
+    {
+      "id": "WmhFYQnlKB4",
+      "segments": [
+        {
+          "text": "against *vaccines* the one that is for",
+          "location": 670
+        },
+        {
+          "text": "*vaccines* they're gone extinct so",
+          "location": 672
+        },
+        {
+          "text": "probably be for *vaccines* if they've grew",
+          "location": 673
+        }
+      ]
+    },
+    {
+      "id": "wNgdMwL7isA",
+      "segments": [
+        {
+          "text": "*vaccines* i've seen it listed on vaccine",
+          "location": 321
+        },
+        {
+          "text": "*vaccines* the mmr the dtap and i still",
+          "location": 329
+        },
+        {
+          "text": "the what 70 or so *vaccines* that a child",
+          "location": 383
+        },
+        {
+          "text": "of these *vaccines* they're cultured in",
+          "location": 468
+        },
+        {
+          "text": "*vaccines* are cultured in egg proteins a",
+          "location": 480
+        },
+        {
+          "text": "because some *vaccines* are cultured",
+          "location": 522
+        },
+        {
+          "text": "realize that *vaccines* are bad for them",
+          "location": 637
+        },
+        {
+          "text": "because actually *vaccines* are worse from",
+          "location": 657
+        },
+        {
+          "text": "response when they test *vaccines* they",
+          "location": 669
+        },
+        {
+          "text": "whole process *vaccines* and circumcision",
+          "location": 782
+        },
+        {
+          "text": "percent before *vaccines* were even",
+          "location": 890
+        },
+        {
+          "text": "disease decline not *vaccines* but these",
+          "location": 953
+        },
+        {
+          "text": "that's the lesson of the day on *vaccines*",
+          "location": 1650
+        }
+      ]
+    },
+    {
+      "id": "WOmDWYRAtiA",
+      "segments": [
+        {
+          "text": "video i posted this morning on *vaccines*",
+          "location": 43
+        },
+        {
+          "text": "cells for the *vaccines* to make them",
+          "location": 1059
+        }
+      ]
+    },
+    {
+      "id": "WsnaqvLhEUk",
+      "segments": [
+        {
+          "text": "malicious things going into the *vaccines*",
+          "location": 1145
+        }
+      ]
+    },
+    {
+      "id": "x1EXDDlmrVU",
+      "segments": [
+        {
+          "text": "cancer cures and *vaccines* and what's",
+          "location": 975
+        },
+        {
+          "text": "been put in *vaccines*",
+          "location": 979
+        }
+      ]
+    },
+    {
+      "id": "Xe8yEypTfNA",
+      "segments": [
+        {
+          "text": "contaminated a lot of *vaccines* one",
+          "location": 721
+        },
+        {
+          "text": "*vaccines* and some people you know so uh",
+          "location": 747
+        }
+      ]
+    },
+    {
+      "id": "xKxi0Bbl_Fs",
+      "segments": [
+        {
+          "text": "*vaccines* gmos fluoride the false flags",
+          "location": 497
+        },
+        {
+          "text": "know that topic well *vaccines* don't go",
+          "location": 629
+        },
+        {
+          "text": "*vaccines* fluoride gmos all stem from",
+          "location": 1484
+        }
+      ]
+    },
+    {
+      "id": "XobWx6C6lJs",
+      "segments": [
+        {
+          "text": "*vaccines* for instance maybe you're",
+          "location": 837
+        },
+        {
+          "text": "talking about *vaccines* but they happen",
+          "location": 839
+        },
+        {
+          "text": "*vaccines* so you're not gonna get them",
+          "location": 847
+        },
+        {
+          "text": "one time he talks about *vaccines* a lot",
+          "location": 1056
+        },
+        {
+          "text": "and *vaccines* is a very touchy topic one",
+          "location": 1059
+        },
+        {
+          "text": "*vaccines* and he put that in a list",
+          "location": 1073
+        }
+      ]
+    },
+    {
+      "id": "xUDwyRTojUM",
+      "segments": [
+        {
+          "text": "*vaccines*",
+          "location": 2132
+        }
+      ]
+    },
+    {
+      "id": "Y31yR524zWU",
+      "segments": [
+        {
+          "text": "mandatory *vaccines* have been approved in",
+          "location": 541
+        },
+        {
+          "text": "mandatory *vaccines* that new prime",
+          "location": 569
+        },
+        {
+          "text": "about the *vaccines* they just got",
+          "location": 598
+        }
+      ]
+    },
+    {
+      "id": "y3OVColWu-g",
+      "segments": [
+        {
+          "text": "thousand for *vaccines* a thousand for",
+          "location": 202
+        }
+      ]
+    },
+    {
+      "id": "ySSnEYdnsEM",
+      "segments": [
+        {
+          "text": "everybody know that *vaccines* are highly",
+          "location": 577
+        }
+      ]
+    },
+    {
+      "id": "yu7cOa_9gN0",
+      "segments": [
+        {
+          "text": "tackle is *vaccines* we have some huge",
+          "location": 72
+        },
+        {
+          "text": "religious exemptions for *vaccines* of",
+          "location": 84
+        },
+        {
+          "text": "regards to *vaccines* is a world health",
+          "location": 145
+        },
+        {
+          "text": "effectiveness and the safety of *vaccines*",
+          "location": 177
+        },
+        {
+          "text": "*vaccines* completely contradicting",
+          "location": 193
+        },
+        {
+          "text": "especially when it comes to *vaccines*",
+          "location": 202
+        },
+        {
+          "text": "*vaccines* is this the anti vaccine",
+          "location": 218
+        }
+      ]
+    },
+    {
+      "id": "yVjAH8Wg-hk",
+      "segments": [
+        {
+          "text": "about big pharma about *vaccines* and",
+          "location": 54
+        },
+        {
+          "text": "lot more than vaccine about *vaccines*",
+          "location": 362
+        },
+        {
+          "text": "it toxic food and *vaccines* there are out",
+          "location": 672
+        }
+      ]
+    },
+    {
+      "id": "ywKQGnLaYdk",
+      "segments": [
+        {
+          "text": "*vaccines* and we have increased",
+          "location": 66
+        },
+        {
+          "text": "monday about autism and *vaccines* so",
+          "location": 93
+        },
+        {
+          "text": "*vaccines* were more likely to be",
+          "location": 118
+        },
+        {
+          "text": "who get more *vaccines* get less autism",
+          "location": 136
+        },
+        {
+          "text": "people who get less *vaccines* get more to",
+          "location": 140
+        },
+        {
+          "text": "particular study and *vaccines* causing",
+          "location": 148
+        },
+        {
+          "text": "into *vaccines* urgent action is necessary",
+          "location": 273
+        },
+        {
+          "text": "easier to get exemptions for *vaccines*",
+          "location": 582
+        },
+        {
+          "text": "*vaccines* docu-series they have a youtube",
+          "location": 621
+        },
+        {
+          "text": "*vaccines* mercola",
+          "location": 634
+        },
+        {
+          "text": "for states to mandate *vaccines* he was",
+          "location": 685
+        },
+        {
+          "text": "*vaccines* and i actually see this as",
+          "location": 705
+        },
+        {
+          "text": "doing about big pharma about *vaccines*",
+          "location": 725
+        },
+        {
+          "text": "congressional hearings into *vaccines*",
+          "location": 771
+        },
+        {
+          "text": "that is *vaccines* it's probably why",
+          "location": 837
+        }
+      ]
+    },
+    {
+      "id": "z5obz0z7rdo",
+      "segments": [
+        {
+          "text": "poisoning us with *vaccines* and",
+          "location": 134
+        },
+        {
+          "text": "of gmo foods and *vaccines* and fluorides",
+          "location": 412
+        }
+      ]
+    },
+    {
+      "id": "z7s8UaWeshs",
+      "segments": [
+        {
+          "text": "toxins we have *vaccines* fluoride gmo",
+          "location": 400
+        }
+      ]
+    },
+    {
+      "id": "zffLUSbaqlw",
+      "segments": [
+        {
+          "text": "that *vaccines* are safe or learning that",
+          "location": 1216
+        }
+      ]
+    },
+    {
+      "id": "ZgOL1h0-8Ok",
+      "segments": [
+        {
+          "text": "talking about *vaccines* 5g climate change",
+          "location": 28
+        },
+        {
+          "text": "let's move on into *vaccines* so first",
+          "location": 633
+        },
+        {
+          "text": "make *vaccines* mandatory i mean so many",
+          "location": 682
+        },
+        {
+          "text": "money control greed *vaccines* are some of",
+          "location": 686
+        },
+        {
+          "text": "people in them are vaccinated *vaccines*",
+          "location": 757
+        },
+        {
+          "text": "in fact more *vaccines* will make you",
+          "location": 850
+        },
+        {
+          "text": "*vaccines* not so say if not so effective",
+          "location": 865
+        },
+        {
+          "text": "*vaccines* you get an anti-vaxxer that",
+          "location": 965
+        },
+        {
+          "text": "detailed information about *vaccines*",
+          "location": 1041
+        },
+        {
+          "text": "*vaccines* climate change 5g pta and good",
+          "location": 1986
+        }
+      ]
+    },
+    {
+      "id": "ZRISi-Y-X3s",
+      "segments": [
+        {
+          "text": "with you guys *vaccines* mm-hmm reggie",
+          "location": 804
+        },
+        {
+          "text": "disinformation about *vaccines* in twitter",
+          "location": 815
+        },
+        {
+          "text": "*vaccines* and other *vaccines* for kids and",
+          "location": 830
+        },
+        {
+          "text": "disinformation about *vaccines* trying to",
+          "location": 856
+        },
+        {
+          "text": "and speaking of *vaccines* news week here",
+          "location": 861
+        },
+        {
+          "text": "*vaccines* are one of the leading causes",
+          "location": 877
+        },
+        {
+          "text": "*vaccines* *vaccines* are a massive source",
+          "location": 896
+        },
+        {
+          "text": "*vaccines* actually cause alzheimer's the",
+          "location": 917
+        },
+        {
+          "text": "cabal trying to tell us that *vaccines*",
+          "location": 921
+        }
+      ]
+    },
+    {
+      "id": "ZseKL2q2S-E",
+      "segments": [
+        {
+          "text": "dogma and you know the *vaccines* the",
+          "location": 1003
+        },
+        {
+          "text": "that *vaccines* do not prevent disease",
+          "location": 2553
+        },
+        {
+          "text": "*vaccines* are a massive moneymaker for",
+          "location": 2565
+        }
+      ]
+    },
+    {
+      "id": "zw8yzCjmYcI",
+      "segments": [
+        {
+          "text": "*vaccines* into india a lot of people",
+          "location": 2147
+        },
+        {
+          "text": "*vaccines* today and somebody commented",
+          "location": 3003
+        },
+        {
+          "text": "gonna save us from the *vaccines* and i",
+          "location": 3008
+        },
+        {
+          "text": "trump's gonna save us from the *vaccines*",
+          "location": 3037
+        },
+        {
+          "text": "are gonna get rid of these *vaccines* and",
+          "location": 3047
+        }
+      ]
+    }
+  ]
+}

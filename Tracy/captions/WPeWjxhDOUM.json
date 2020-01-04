@@ -1,0 +1,657 @@
+[
+  {
+    "start": 0.03,
+    "duraction": 7.71,
+    "value": "good evening hey one more video for"
+  },
+  {
+    "start": 6.029,
+    "duraction": 3.03,
+    "value": "everybody tonight before I go this one"
+  },
+  {
+    "start": 7.74,
+    "duraction": 4.109,
+    "value": "just really struck me this is from"
+  },
+  {
+    "start": 9.059,
+    "duraction": 7.8,
+    "value": "WikiLeaks world 7 and some people wanted"
+  },
+  {
+    "start": 11.849,
+    "duraction": 11.911,
+    "value": "me to explain this here I shared a print"
+  },
+  {
+    "start": 16.859,
+    "duraction": 13.611,
+    "value": "screen of this today here we go are you"
+  },
+  {
+    "start": 23.76,
+    "duraction": 11.19,
+    "value": "ready this is CP 2.0 from Mac OS 10"
+  },
+  {
+    "start": 30.47,
+    "duraction": 9.339,
+    "value": "point four to ten point five and what"
+  },
+  {
+    "start": 34.95,
+    "duraction": 6.269,
+    "value": "really struck me here was this year and"
+  },
+  {
+    "start": 39.809,
+    "duraction": 6.301,
+    "value": "I'm just gonna explain this to everyone"
+  },
+  {
+    "start": 41.219,
+    "duraction": 6.66,
+    "value": "so that you guys understand it this"
+  },
+  {
+    "start": 46.11,
+    "duraction": 3.81,
+    "value": "install is ideal for supply chain"
+  },
+  {
+    "start": 47.879,
+    "duraction": 4.471,
+    "value": "because the first boot state is"
+  },
+  {
+    "start": 49.92,
+    "duraction": 4.529,
+    "value": "preserved and an unsuspecting user would"
+  },
+  {
+    "start": 52.35,
+    "duraction": 4.29,
+    "value": "think that the OS has never been used in"
+  },
+  {
+    "start": 54.449,
+    "duraction": 3.991,
+    "value": "other words the user will be welcomed by"
+  },
+  {
+    "start": 56.64,
+    "duraction": 3.93,
+    "value": "all the first time settings when first"
+  },
+  {
+    "start": 58.44,
+    "duraction": 4.02,
+    "value": "turning the computer on this can also be"
+  },
+  {
+    "start": 60.57,
+    "duraction": 3.989,
+    "value": "used if the root password is not known"
+  },
+  {
+    "start": 62.46,
+    "duraction": 3.6,
+    "value": "on the target to conduct this install"
+  },
+  {
+    "start": 64.559,
+    "duraction": 4.56,
+    "value": "the hard drive must be mounted without"
+  },
+  {
+    "start": 66.06,
+    "duraction": 5.28,
+    "value": "using the host OS thereby avoiding the"
+  },
+  {
+    "start": 69.119,
+    "duraction": 5.61,
+    "value": "initial startup sequence or the user"
+  },
+  {
+    "start": 71.34,
+    "duraction": 6.06,
+    "value": "login screen to do this boot the OS from"
+  },
+  {
+    "start": 74.729,
+    "duraction": 4.89,
+    "value": "the OS X install CD by holding option on"
+  },
+  {
+    "start": 77.4,
+    "duraction": 4.2,
+    "value": "startup once the CD boots go to"
+  },
+  {
+    "start": 79.619,
+    "duraction": 4.29,
+    "value": "utilities and select the terminal app"
+  },
+  {
+    "start": 81.6,
+    "duraction": 4.11,
+    "value": "from the drop down menu insert the USB"
+  },
+  {
+    "start": 83.909,
+    "duraction": 3.78,
+    "value": "thumb drive containing the installer"
+  },
+  {
+    "start": 85.71,
+    "duraction": 4.11,
+    "value": "copy the install it to the volumes"
+  },
+  {
+    "start": 87.689,
+    "duraction": 3.781,
+    "value": "directory run the installer with the"
+  },
+  {
+    "start": 89.82,
+    "duraction": 5.52,
+    "value": "parameter as the mount point of the"
+  },
+  {
+    "start": 91.47,
+    "duraction": 7.59,
+    "value": "target vs OS I'm sorry for example in"
+  },
+  {
+    "start": 95.34,
+    "duraction": 5.279,
+    "value": "the terminal type a command string note"
+  },
+  {
+    "start": 99.06,
+    "duraction": 3.629,
+    "value": "the installer script will delete itself"
+  },
+  {
+    "start": 100.619,
+    "duraction": 4.471,
+    "value": "upon execution at this time the only way"
+  },
+  {
+    "start": 102.689,
+    "duraction": 6.241,
+    "value": "to detect assists X a successful install"
+  },
+  {
+    "start": 105.09,
+    "duraction": 9.09,
+    "value": "is to ensure that the log file structure"
+  },
+  {
+    "start": 108.93,
+    "duraction": 6.479,
+    "value": "exists CP will remain on the system"
+  },
+  {
+    "start": 114.18,
+    "duraction": 4.369,
+    "value": "unless one of the following conditions"
+  },
+  {
+    "start": 115.409,
+    "duraction": 5.49,
+    "value": "are met the hard drive is reformatted an"
+  },
+  {
+    "start": 118.549,
+    "duraction": 4.96,
+    "value": "upgrade to upgrade to the next major"
+  },
+  {
+    "start": 120.899,
+    "duraction": 4.801,
+    "value": "version version G's tonight with my"
+  },
+  {
+    "start": 123.509,
+    "duraction": 6.36,
+    "value": "language an error is encountered at"
+  },
+  {
+    "start": 125.7,
+    "duraction": 5.55,
+    "value": "which point CP will remove itself CP has"
+  },
+  {
+    "start": 129.869,
+    "duraction": 3.961,
+    "value": "been designed to fail if it encounters"
+  },
+  {
+    "start": 131.25,
+    "duraction": 4.17,
+    "value": "problems if CP CP finds that a"
+  },
+  {
+    "start": 133.83,
+    "duraction": 3.63,
+    "value": "unable to hide files of directories"
+  },
+  {
+    "start": 135.42,
+    "duraction": 3.48,
+    "value": "socket connections or processes it will"
+  },
+  {
+    "start": 137.46,
+    "duraction": 3.48,
+    "value": "immediately unload itself and then"
+  },
+  {
+    "start": 138.9,
+    "duraction": 4.23,
+    "value": "securely delete itself and all tools"
+  },
+  {
+    "start": 140.94,
+    "duraction": 4.38,
+    "value": "from the file system as an option an"
+  },
+  {
+    "start": 143.13,
+    "duraction": 4.26,
+    "value": "operator can specify that a tool be left"
+  },
+  {
+    "start": 145.32,
+    "duraction": 4.23,
+    "value": "behind to execute in plain sight in"
+  },
+  {
+    "start": 147.39,
+    "duraction": 4.08,
+    "value": "order to maintain persistence this last"
+  },
+  {
+    "start": 149.55,
+    "duraction": 4.38,
+    "value": "option application will refer to as the"
+  },
+  {
+    "start": 151.47,
+    "duraction": 5.31,
+    "value": "failsafe app the failsafe app will"
+  },
+  {
+    "start": 153.93,
+    "duraction": 4.47,
+    "value": "persist through reboot and will act in"
+  },
+  {
+    "start": 156.78,
+    "duraction": 4.58,
+    "value": "much the same manner as any of the other"
+  },
+  {
+    "start": 158.4,
+    "duraction": 6.63,
+    "value": "tools that it will be launched from a"
+  },
+  {
+    "start": 161.36,
+    "duraction": 5.53,
+    "value": "pilas file by launch D the failsafe"
+  },
+  {
+    "start": 165.03,
+    "duraction": 7.38,
+    "value": "after however will not be able to"
+  },
+  {
+    "start": 166.89,
+    "duraction": 7.08,
+    "value": "utilize start over utilize the stealth"
+  },
+  {
+    "start": 172.41,
+    "duraction": 3.66,
+    "value": "capabilities provided by the rootkit"
+  },
+  {
+    "start": 173.97,
+    "duraction": 5.22,
+    "value": "since CPU will have removed itself from"
+  },
+  {
+    "start": 176.07,
+    "duraction": 4.5,
+    "value": "the system due to failure refer to how"
+  },
+  {
+    "start": 179.19,
+    "duraction": 2.91,
+    "value": "to create an installer section for more"
+  },
+  {
+    "start": 180.57,
+    "duraction": 4.8,
+    "value": "information on how to incorporate the"
+  },
+  {
+    "start": 182.1,
+    "duraction": 4.86,
+    "value": "fail sleep app into the Explorer now a"
+  },
+  {
+    "start": 185.37,
+    "duraction": 5.55,
+    "value": "couple things striking about this what"
+  },
+  {
+    "start": 186.96,
+    "duraction": 6.57,
+    "value": "they're basically saying up here when"
+  },
+  {
+    "start": 190.92,
+    "duraction": 3.93,
+    "value": "they say the first boot state it's"
+  },
+  {
+    "start": 193.53,
+    "duraction": 3.36,
+    "value": "basically when you bring home a new"
+  },
+  {
+    "start": 194.85,
+    "duraction": 4.26,
+    "value": "computer you turn it on for the first"
+  },
+  {
+    "start": 196.89,
+    "duraction": 4.14,
+    "value": "time and it runs through setup like"
+  },
+  {
+    "start": 199.11,
+    "duraction": 5.15,
+    "value": "insert your you know enter your user"
+  },
+  {
+    "start": 201.03,
+    "duraction": 7.08,
+    "value": "name choose a password set your timezone"
+  },
+  {
+    "start": 204.26,
+    "duraction": 5.92,
+    "value": "this stuff is already on there when you"
+  },
+  {
+    "start": 208.11,
+    "duraction": 4.89,
+    "value": "get your computer it's already there and"
+  },
+  {
+    "start": 210.18,
+    "duraction": 8.09,
+    "value": "there's a process to installing it and"
+  },
+  {
+    "start": 213.0,
+    "duraction": 6.959,
+    "value": "it seems to me by reading this that a"
+  },
+  {
+    "start": 218.27,
+    "duraction": 3.52,
+    "value": "manufacturer would have to be"
+  },
+  {
+    "start": 219.959,
+    "duraction": 4.381,
+    "value": "responsible for doing this or someone"
+  },
+  {
+    "start": 221.79,
+    "duraction": 4.8,
+    "value": "working at a manufacturer and as we know"
+  },
+  {
+    "start": 224.34,
+    "duraction": 6.68,
+    "value": "Geek Squad has been infiltrated by the"
+  },
+  {
+    "start": 226.59,
+    "duraction": 7.649,
+    "value": "FBI so why not Apple"
+  },
+  {
+    "start": 231.02,
+    "duraction": 4.83,
+    "value": "why not Apple so basically when you get"
+  },
+  {
+    "start": 234.239,
+    "duraction": 5.041,
+    "value": "your computer home"
+  },
+  {
+    "start": 235.85,
+    "duraction": 8.59,
+    "value": "this stuff's already there it's already"
+  },
+  {
+    "start": 239.28,
+    "duraction": 6.75,
+    "value": "there spying on your every move let's"
+  },
+  {
+    "start": 244.44,
+    "duraction": 10.5,
+    "value": "just take a second let's see if I can"
+  },
+  {
+    "start": 246.03,
+    "duraction": 12.799,
+    "value": "find any if I can find anything yeah ok"
+  },
+  {
+    "start": 254.94,
+    "duraction": 8.499,
+    "value": "fine WikiLeaks hired"
+  },
+  {
+    "start": 258.829,
+    "duraction": 10.8,
+    "value": "is excuse me if you go to documents here"
+  },
+  {
+    "start": 263.439,
+    "duraction": 11.921,
+    "value": "there's a lot of documents which one"
+  },
+  {
+    "start": 269.629,
+    "duraction": 8.551,
+    "value": "that I really like before this was the"
+  },
+  {
+    "start": 275.36,
+    "duraction": 6.269,
+    "value": "Broadcom this was the Broadcom ethernet"
+  },
+  {
+    "start": 278.18,
+    "duraction": 6.389,
+    "value": "adapter manual and it's interesting"
+  },
+  {
+    "start": 281.629,
+    "duraction": 5.431,
+    "value": "because there was an a non post on I"
+  },
+  {
+    "start": 284.569,
+    "duraction": 4.56,
+    "value": "believe it was for Chan who said he"
+  },
+  {
+    "start": 287.06,
+    "duraction": 3.75,
+    "value": "worked for Broadcom and he wanted to"
+  },
+  {
+    "start": 289.129,
+    "duraction": 2.91,
+    "value": "move up in the organization finally"
+  },
+  {
+    "start": 290.81,
+    "duraction": 3.659,
+    "value": "decided he was going to move up in the"
+  },
+  {
+    "start": 292.039,
+    "duraction": 4.141,
+    "value": "organization got a position and they're"
+  },
+  {
+    "start": 294.469,
+    "duraction": 4.5,
+    "value": "like ok well the last thing that you"
+  },
+  {
+    "start": 296.18,
+    "duraction": 6.209,
+    "value": "have to do is get a security clearance"
+  },
+  {
+    "start": 298.969,
+    "duraction": 5.13,
+    "value": "and he was like um why in the hell do I"
+  },
+  {
+    "start": 302.389,
+    "duraction": 8.671,
+    "value": "need a security clearance to work for"
+  },
+  {
+    "start": 304.099,
+    "duraction": 15.81,
+    "value": "Broadcom well it's because of this just"
+  },
+  {
+    "start": 311.06,
+    "duraction": 9.84,
+    "value": "I still come come back - why why you"
+  },
+  {
+    "start": 319.909,
+    "duraction": 3.331,
+    "value": "know I don't get it"
+  },
+  {
+    "start": 320.9,
+    "duraction": 4.199,
+    "value": "I still AM I'm having a hard time you"
+  },
+  {
+    "start": 323.24,
+    "duraction": 3.479,
+    "value": "know there's a gazillion reasons why"
+  },
+  {
+    "start": 325.099,
+    "duraction": 3.75,
+    "value": "they could be doing this why they want"
+  },
+  {
+    "start": 326.719,
+    "duraction": 3.901,
+    "value": "ordinary Americans information why they"
+  },
+  {
+    "start": 328.849,
+    "duraction": 4.921,
+    "value": "want to spy on ordinary people like me"
+  },
+  {
+    "start": 330.62,
+    "duraction": 10.38,
+    "value": "and you why I mean are they using it to"
+  },
+  {
+    "start": 333.77,
+    "duraction": 9.709,
+    "value": "you know profile to market to trigger to"
+  },
+  {
+    "start": 341.0,
+    "duraction": 6.419,
+    "value": "control I mean there's so many different"
+  },
+  {
+    "start": 343.479,
+    "duraction": 5.351,
+    "value": "things they could be doing but basically"
+  },
+  {
+    "start": 347.419,
+    "duraction": 9.87,
+    "value": "in that dock I was just going through"
+  },
+  {
+    "start": 348.83,
+    "duraction": 10.829,
+    "value": "with you they install this this software"
+  },
+  {
+    "start": 357.289,
+    "duraction": 4.68,
+    "value": "that'll spy on you on the hard drive"
+  },
+  {
+    "start": 359.659,
+    "duraction": 4.491,
+    "value": "before you get the computer and you have"
+  },
+  {
+    "start": 361.969,
+    "duraction": 10.311,
+    "value": "no idea it's there"
+  },
+  {
+    "start": 364.15,
+    "duraction": 8.85,
+    "value": "no idea it's sick Kim"
+  },
+  {
+    "start": 372.28,
+    "duraction": 2.52,
+    "value": "was going through all this stuff"
+  },
+  {
+    "start": 373.0,
+    "duraction": 3.63,
+    "value": "following him because this is"
+  },
+  {
+    "start": 374.8,
+    "duraction": 12.39,
+    "value": "implications for him too this is"
+  },
+  {
+    "start": 376.63,
+    "duraction": 13.039,
+    "value": "implications for everybody there'll be"
+  },
+  {
+    "start": 387.19,
+    "duraction": 2.479,
+    "value": "more guys"
+  }
+]

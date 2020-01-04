@@ -1,0 +1,2288 @@
+{
+  "indexed": "_4cUOL3WjoQ,_4Qz2wgXF-0,_8pSTgIxZYs,_Dbmz9RiNz8,_FzxnbyTxxQ,_oalbnteAOs,_OFjUWoWjWA,_oFMGK4Zh0A,_wl1SQ5vloE,-_jy9XWrtVk,--S8YcaR4e0,-p4aixMy9C4,-TnUgDxmhcM,-UfGgbKad1g,-YMqBPbzLf4,-zegrO4DwyY,-zp_jtLiWGk,0_wrqY4QP1E,0c2dd2MuBdw,0Hdas49YCcc,0p6fPfG6eEc,0qKt8Cx_ddw,18zfwUCc61M,1a-U_X08U6I,1d-2uv-xfmE,1DrHzWvI6KM,1jFANB5HfVw,1rSUgsXkMV0,1SgrMFFmtXk,1x_vXcUl-5U,2-KyGPW6w2o,2AsamkPRWkQ,2AZ6VHCqhUM,2CveVgGWJ1Q,2eBSc_bwnWU,2isbWX0zE40,2n51hzqIt0U,30V4Szn4Iuk,3FDNRfZmq40,3i07C4yqOJE,3Od71di7MIo,42B7PCn1Snk,4c4fWaJxAlI,4CljEa5NWyM,4NHl0qZswsM,4pjGWGmVlVo,4QaAgo9xq-I,4tIXYYEObRw,4wtx2cZ0Kbg,57ly_O6zk1A,5ez2srKespc,5fKoGtGai84,5g7ly1jWyh4,5l_hHwjMj84,5Vd-T0ytuDo,5ZAoB5_5Z9U,6_w68fyEHQc,69-YMBkQjMI,6fchAsMqtiI,6hqfPPhwYEc,6nJMwv18PhY,6ORf3NMddJw,6PlU0kJsMgg,7EeZJ3nqRi4,7gQa2DnB57E,7kFWz6d6QE0,7TxVMkmEflw,7Z1stYjs00o,8597QdaRrYg,8DPY5g6bmnI,8IC-EoVQ4Xw,8mQgCzVLJNQ,8NN2XuMbWvM,8tD41JIC-_s,8u9QT__UJw8,8W3YXImU6m0,9_Av3k1XGlI,99tcg2P0X00,9CjCqKVUaXU,9fg2HjtiQnw,9j5zzgc_ZW8,9njNU0ihgk4,9sbvu6QbGFQ,a1NA7RMfN2g,a4aHKKrnkIU,a59mWRqqJVc,AAAqCJKxkwY,aC2UGtWJMMw,AJZaQtuk-4U,ajzXU44c9l0,aKwDn2vzjnE,ANcWcVKyFEU,aUFEtFY36i4,AuV31bAKsW0,aV2xcCxaoTQ,AVGvXMl-ItU,aWDsJdeJWUY,b-byy2INS9E,BaLiAUykwk0,BeiNOvXEgeE,BhTX5laZ2dk,biSiJkBSrRU,bNkOryQKYhw,bQKYJG_NiuA,bWxE0JiEk5s,c0ng2LuHw3M,c6ngdj0aaBM,C8qMDMjmTyI,C9R-YD7lyhQ,CbNcUJ8HhXI,CbwoJvdo1BA,cFwd5UYWjxg,ClGKQvSylxk,clPhNj9RaOA,CPvD8HQ9Koc,csJU-a0MsZU,CwPvAUnU1Yg,CZvTFgzePlE,D0-lVCkgnIo,D183UhhCkdY,d76FqB5mBAw,DC6aYwKxQuw,dcQwuAxJb1I,DCTFYjIyqKA,dDxwcnUK53M,dgq3HSm2erQ,dgSTsrt-xX4,dHEMRwLEmlE,DiwdnJM3nAo,DJv8lb0mOqM,dkM8045LNbE,DlzLPVjHTeQ,DnTmhNoGyII,DQC5UiWzy-8,drFJG5-3RkA,Dro05nL_8Q8,dTF780QtN4E,dU0lvgrh6DQ,DVBzdQkRXWA,dXWAJLtJB6Y,E_lX3ZHA37U,e56SvLE_RGg,E60RhCVo0Nc,e6N1eCPGlBU,EhJieMpQXss,EKJBGDEHACI,emFk7vdarkA,eNUUqqwl0y4,eQFO3jslMHQ,ezw5g2S3888,f5J1g1S6goc,F6FfGbDGadc,f83TwcKnBp0,fDmxsQuEP90,Fef0ckAi630,fElxhk6SPu0,ffMAs2enoSo,FFTR2iEL2js,FJxIZeGscPc,FL5dULT3V94,fnBTbYAloFI,Fqv09KbOBTs,FRWbHgBA0d4,FsAGKSpgOVA,G8RApYO_n4c,gAunspUVzt8,GeoMB0WD9zU,GL_l7uGX8WY,GmFrEcyOCp0,gsudyktd4fc,GTFYwFVnXcQ,GUGdEdeZudM,Gv1ywPbHj-o,gxQe3UABhx4,GYcc_-8ADXw,GYzjtOTWk-M,h7lUMLj5xc8,h8fY2MYcoNI,HCV4jvriRkE,hF85EcXHdcI,HHSnx8HC97A,HJeWmOs9wws,hm7vb0wXijM,hM8sH1MZw_g,hmy7oxlLags,hn24hIKvZbE,hnoAixwDefg,hoZ1m8riCT0,hpnqURGkTvg,hrxVT4O_yXw,hT2dO3hM0RU,ht4idpfAARg,HtAF-S85w3o,hUkXVxPeP1U,hWCe5072mGg,I0zqCx1naaM,I3O-3gOOu7U,I5v4YoUjjhA,ibKILQFF3Hg,IBsxf0_Fiic,iBT6FhBCxp4,IHYV7n-1zGo,IiaKY5Ujz7o,IiVbtXtLoNk,IMLdY9Nid_M,imUQxYkMdMk,IR0YwQ0eWdk,iwb8_ldGl0Q,iZPnPKNZFyE,iZsEJ9Ll3DM,J7kMoeWHbAI,J8hdeaykViY,jJCU5JneN4U,JjZFIj6NXCc,JlKOJvTxmSw,JMLGr0t6WiE,joSVWRny9HY,JPE9wHKtcOE,jRYWKOVi9pc,jsibKmea0xs,JuSQ-NzDoxg,jVpWkmxdXZw,jwGExC1hK2w,jwgPeHMA0XQ,jXc0VnfROxk,JxhlF_Z7WBM,JxKmYtvPBgE,jXO0XeoKttw,Jz9V0uTiyX0,k088BHq7MwA,K0gos2mEDoM,k1d1W0FUIeI,K1GPxgU4GYc,k5zAPe3j-P8,kdxBP7B-Adg,kFOvXGMP19Y,kGmVWi6HGz8,ki5x7vPxw2k,kI9qKn5aUQo,kiOrZBcyc1Y,kNWM4qCBjFQ,KRGSqTF8gQs,krxOVnXMgaU,Ksvn8UI904Y,KuMFUPtKpWU,KWlDcvcMSP0,kx1_z42TIek,KyFXo23tZrY,L_AioX3MApk,l_eG95KK0ko,L6DFq19kCJE,lCv2RSt-JHw,ldS90gRrNJ8,LIlfhpscpJc,ll4IuzQmlvg,LNwU2glC7us,lOvRgFBALEE,Ls6pFKYsuRQ,Lud9cMxisCU,Lvf3UmSv7hQ,lwlUMKv6yKk,LYiNW4p6mTc,M-OAIeWVUDM,m78DMlWY5jU,mfnne9u9Cu4,mk2O0Qu5Ipw,mkyo0m45CBM,MmaN6V7_U3w,mqFZp6EQEoo,msftou8Vxk8,mWXhdPz1L9o,MXdC-izUy0M,Na2MqQzIAWU,NEadjTosApo,nhlRiZtgfsw,NMOEpMntZ3I,nQ-0S4_mZrY,nWNoUZTN608,nyh7YbsGMQc,nzY2NnJ1J-M,o__gS7JUijA,O08ze6jltco,O3cKYCEcCnQ,o4mGsJ23IA4,O4qUKaf9bD0,o5yAF9IIO4A,oaA15FYN6pc,ODM8N8bDjqc,oDskmmkin4c,OgGTcg1AihQ,om3LDAA8yVU,oQRZaJOlSks,OSBqv2i2UOk,OsOBa27SOnY,Ov3Pyqr1U7Y,ow-WxWBd10M,oWCdApAaLH0,OZE1KEtsqaM,ozT-lj5XpsE,p_8uD_4uX_0,P-_5KJ5EauM,P1q67rQAgdY,P2z0UhWg2gw,p5nZX-r7On4,pbPqTtqMTUQ,pfFRcVFhr_w,PHjE6wH3OB0,PInpDeOIhKA,PKobwTynNHA,pl0fwd-P78k,pLhgQLWQ-JY,pMWD6H6J6XE,POvz-gw3EOA,pp29EPi2Nwk,PS4IQx8T8ew,PVA8g-1ZALM,PZaRVcudtpA,pZMOu5AGars,q2BoeQDb5cw,Q4lYHA1-5NI,QcA3NVCYYWM,qeKqoJMDCM4,QfabmC75wZo,qfvttt2-pD4,QI-R7580Rsg,qlfMm_3mRUM,qPj6F9EIiJ0,QREPrbHU5hE,QT9GR13m5tU,qTxF4G8Pv6k,qx5yJKzKdDo,qyHeRsJaOZM,qYTw5XHHlTI,QYVw6lFa2Dw,QzRgzW-vIpY,r-xFCir8FpU,R6Bn5Eb7KFQ,RiGvVpKGkJg,rjmozTz_hlw,RnnD5KWqURk,RoXwhmL6yk8,Rs_aMycvbRY,rw3bpnmOaOE,rYLOgFQPEZE,ryS7Gvupg1Q,s1yQvbIWklg,S29kJPp3Ad8,S5PPhpbmt0k,SccFd5RrtlY,scnr8t3L4Wk,seROfjjMZiM,sK3cWjgBo50,SmoJQloPBHo,sqdpWV0fsEM,stNCvaIyjXA,Suful5k9TD0,SXo1cP5spks,szuPUju1yDQ,T_rt5tZWITc,t4GTAV3tf_k,t8qFpNI6yEM,tdiYCDXpk6I,TEiHLbWSCjg,TFB_WmGDb68,TJAryFVNobk,Tm8ZULL-zhk,to7v8Ndz5Dk,toSmM8-7XQY,TQha2IMjYBA,TqjbXClcNjs,Ts1U1iWq5w0,TTD7TgHI41Q,TVSkK_uZsdY,tX-MZm7lG9k,TXWLPzYNjgs,tYCL2clTy7k,U8-rksGOIKw,ubLtyQx4d2g,Uc1dgkXKgsI,uGmQeN7__6A,Uh397S0AxoM,UhgdWME2v0w,uHIrFFUWMkk,UJ7YySYLIPA,uoZG3XG7t0k,UqfKAvJ94Pg,urKkOdgMzIs,uwW6MeAvOQE,v036BBaxXe0,VaFOU9dVE7k,VCniIY1N4YE,vkp2CaEbhiU,VncyqSWVJ1A,vP8G3gztQWA,VtSXKVw20bo,vVfyUAbNzb8,vwEYKWtzgJE,Vz6_nf_Sav4,w0WYAvWrMI4,W4IXATAA-HI,W4vxQB8tpDI,W8856fu_UG0,w8XTiVE3ej8,WBPI6wqGjjI,WcGmPQLhS-g,WeQOS11pAuE,WGuSyYujJCg,WM3BdU7uig4,wo825dKxQJc,WTLpneg-TiE,wTV4wML2Syg,WVR_d33tydI,wyDr_3phD6A,WyFwfxjVmHU,x1GukexVR9w,X7XMlZzPn_g,x9YqAiZo7jE,xcjHb6BxTrY,XCwr86ol3Oo,XddDHRwCA6Q,XdfdQT3XSBg,XEDGXGXKsPk,xEqavcwFyLY,XEVieVy5tA0,XfuNLvrXCo4,xLY5r0jjR9Y,XNrwbfS6f1Q,XPbSQ67Hxe8,xU16fgjFWek,XWrKp_tL4VE,XyN4KiYqsqs,y-874vzHt4A,y-ZyS9x6JNk,y4AhWpuyomw,Y9B1jNym-K8,yAXz6lYNxHE,YDZxU7hSkE8,YHeh4p3hPIQ,YJbF_WyHOVg,yJCimzETdYQ,yOpkW6xCbo8,YPT-X7gTA4o,yqgU3coXHpY,YU1dT0inBgg,YVTrXMak0UU,yW2tYWuXafY,YW7MVkX9o_Q,yZPh6hYXIFI,z2yDHKVsLqg,Z4i2A6q_4Rk,Z4u2xZqZKn0,ZD_4uv4ef-k,ZdBQqomzssg,zEBIukow088,ZgM3WPC5LSw,zhGG_oIrsCw,Zjr-J3FOvek,zlTIq16o_Jo,ZmelaC42YqU,ZMjEM7D61oo,ZNaN4eVbOEQ,zQhjVOzzoBw,zsp80ZqtMzo,zUCswDyNLsk,zurUyF0byS0,zvCofZWMmuc,ZW_LiXGfSkA,zWP_ImZu2zg,zzJ-tlw_GvY,ZzpP6lcBjsY",
+  "topic": "North Korea",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_Dbmz9RiNz8",
+      "segments": [
+        {
+          "text": "it out as we can see from *north* *korea* to",
+          "location": 1113
+        }
+      ]
+    },
+    {
+      "id": "_FzxnbyTxxQ",
+      "segments": [
+        {
+          "text": "of *north* *korea* and russia are you",
+          "location": 92
+        },
+        {
+          "text": "more hello think *north* *korea* trump",
+          "location": 244
+        },
+        {
+          "text": "you with *north* *korea* oh you know what i",
+          "location": 289
+        }
+      ]
+    },
+    {
+      "id": "-p4aixMy9C4",
+      "segments": [
+        {
+          "text": "think *north* *korea* who controls the money",
+          "location": 1365
+        },
+        {
+          "text": "just like with *north* *korea* iran is clown",
+          "location": 1397
+        },
+        {
+          "text": "just like with *north* *korea* iran is clown",
+          "location": 1531
+        },
+        {
+          "text": "pelosi said *north* *korea* builds the",
+          "location": 1639
+        },
+        {
+          "text": "clowns ran *north* *korea* *north* *korea* sold",
+          "location": 1647
+        },
+        {
+          "text": "pelosi said *north* *korea* builds the",
+          "location": 1695
+        },
+        {
+          "text": "anyone clowns ran *north* *korea* and iran",
+          "location": 1704
+        },
+        {
+          "text": "my god *north* *korea* sold missiles to iran",
+          "location": 1710
+        },
+        {
+          "text": "realize what was going on in that *north*",
+          "location": 1918
+        },
+        {
+          "text": "*korea* iran all that stuff oh my lord",
+          "location": 1920
+        },
+        {
+          "text": "amazing cue he says cue says like *north*",
+          "location": 2103
+        },
+        {
+          "text": "*korea* they have been freed assets on the",
+          "location": 2106
+        },
+        {
+          "text": "with that love it just like with *north*",
+          "location": 2113
+        },
+        {
+          "text": "*korea* the clown chains have been broken",
+          "location": 2116
+        },
+        {
+          "text": "he says *north* *korea* just like *north*",
+          "location": 2188
+        },
+        {
+          "text": "*korea* they've been freed okay",
+          "location": 2190
+        },
+        {
+          "text": "to *north* *korea* *north* *korea* to armenia",
+          "location": 2200
+        },
+        {
+          "text": "countries *north* *korea* now armenian next",
+          "location": 2344
+        },
+        {
+          "text": "cross pakistan red cross *north* *korea* red",
+          "location": 2761
+        }
+      ]
+    },
+    {
+      "id": "-TnUgDxmhcM",
+      "segments": [
+        {
+          "text": "really doing with *north* *korea* we saw",
+          "location": 166
+        },
+        {
+          "text": "*north* korean leaders with bill clinton",
+          "location": 173
+        },
+        {
+          "text": "thing there with *north* *korea* and settled",
+          "location": 196
+        },
+        {
+          "text": "*north* *korea* we're starting to see it",
+          "location": 327
+        }
+      ]
+    },
+    {
+      "id": "-zegrO4DwyY",
+      "segments": [
+        {
+          "text": "tarmac iran *north* *korea* uranium one fbi",
+          "location": 1690
+        }
+      ]
+    },
+    {
+      "id": "0p6fPfG6eEc",
+      "segments": [
+        {
+          "text": "what is 123 point 47 and why did *north*",
+          "location": 867
+        },
+        {
+          "text": "*korea* launched a test of its first",
+          "location": 871
+        },
+        {
+          "text": "to be proven which i love *north* *korea*",
+          "location": 882
+        },
+        {
+          "text": "testing its icbm in *north* *korea* so watch",
+          "location": 1003
+        },
+        {
+          "text": "got to *north* *korea* we all know what",
+          "location": 1192
+        },
+        {
+          "text": "was being bringing *north* *korea* into the",
+          "location": 2439
+        },
+        {
+          "text": "the *north* korean icbm test that occurred",
+          "location": 2444
+        },
+        {
+          "text": "like a cherry on top *north* *korea* right",
+          "location": 2463
+        }
+      ]
+    },
+    {
+      "id": "1x_vXcUl-5U",
+      "segments": [
+        {
+          "text": "emails google *north* *korea* tesla google",
+          "location": 1987
+        },
+        {
+          "text": "*north* *korea*",
+          "location": 1991
+        }
+      ]
+    },
+    {
+      "id": "3i07C4yqOJE",
+      "segments": [
+        {
+          "text": "why is *north* *korea* out of the news cycle",
+          "location": 337
+        },
+        {
+          "text": "said what why has *north* *korea* and then",
+          "location": 474
+        },
+        {
+          "text": "over here why has *north* *korea* out of the",
+          "location": 479
+        },
+        {
+          "text": "showing you why has *north* *korea* dropped",
+          "location": 508
+        },
+        {
+          "text": "is *north* *korea* been out of the news",
+          "location": 576
+        },
+        {
+          "text": "implying he's in *north* *korea* i don't",
+          "location": 642
+        },
+        {
+          "text": "why has *north* *korea* been out of the news",
+          "location": 665
+        },
+        {
+          "text": "target on what *north* *korea* is all about",
+          "location": 675
+        },
+        {
+          "text": "uranium one *north* *korea*",
+          "location": 934
+        },
+        {
+          "text": "of usg government uranium one *north*",
+          "location": 992
+        },
+        {
+          "text": "*korea* why would russia tell the world",
+          "location": 996
+        },
+        {
+          "text": "one basically being given to *north* *korea*",
+          "location": 1395
+        }
+      ]
+    },
+    {
+      "id": "3Od71di7MIo",
+      "segments": [
+        {
+          "text": "the *north* *korea* talks obviously those",
+          "location": 3
+        },
+        {
+          "text": "when i went to in *north* *korea*",
+          "location": 52
+        },
+        {
+          "text": "admits travel to *north* *korea* in the past",
+          "location": 244
+        },
+        {
+          "text": "which oh they asked about *north* *korea*",
+          "location": 264
+        },
+        {
+          "text": "to see *north* *korea* this was in april",
+          "location": 270
+        },
+        {
+          "text": "admitting travel to *north* *korea* then he",
+          "location": 281
+        },
+        {
+          "text": "trip to *north* *korea* will make heads roll",
+          "location": 304
+        },
+        {
+          "text": "*north* *korea* since future proves the past",
+          "location": 310
+        },
+        {
+          "text": "*north* *korea* what she's saying that's",
+          "location": 453
+        }
+      ]
+    },
+    {
+      "id": "4c4fWaJxAlI",
+      "segments": [
+        {
+          "text": "up *north* *korea* and the sister being with",
+          "location": 1280
+        },
+        {
+          "text": "against at whatever russia iran *north*",
+          "location": 1339
+        },
+        {
+          "text": "*korea* china whatever hey now what would",
+          "location": 1343
+        }
+      ]
+    },
+    {
+      "id": "5ez2srKespc",
+      "segments": [
+        {
+          "text": "keywords in there *north* *korea* framework",
+          "location": 729
+        },
+        {
+          "text": "*north* *korea* now committing to complete",
+          "location": 2106
+        }
+      ]
+    },
+    {
+      "id": "6fchAsMqtiI",
+      "segments": [
+        {
+          "text": "dealing with the u.s. and south *korea*",
+          "location": 200
+        },
+        {
+          "text": "reuters reports the *north* korean leader",
+          "location": 203
+        },
+        {
+          "text": "2017 so a little over a year ago *north*",
+          "location": 258
+        },
+        {
+          "text": "*korea* accuses the u.s. of trying to",
+          "location": 260
+        },
+        {
+          "text": "here's eric schmidt over in *north* *korea*",
+          "location": 580
+        },
+        {
+          "text": "personal network for comms in *north*",
+          "location": 597
+        },
+        {
+          "text": "*korea* eric schmidt has no friends left",
+          "location": 600
+        },
+        {
+          "text": "in *north* *korea*",
+          "location": 602
+        },
+        {
+          "text": "to *north* *north* *korea* completely severed",
+          "location": 607
+        },
+        {
+          "text": "him right there in *north* *korea* so he's",
+          "location": 851
+        }
+      ]
+    },
+    {
+      "id": "7TxVMkmEflw",
+      "segments": [
+        {
+          "text": "downplay the deal with *north* *korea* 500",
+          "location": 2014
+        }
+      ]
+    },
+    {
+      "id": "8DPY5g6bmnI",
+      "segments": [
+        {
+          "text": "between *north* *korea* and south korea so",
+          "location": 650
+        },
+        {
+          "text": "is at the dmz between *north* and south",
+          "location": 700
+        },
+        {
+          "text": "*korea* and it says stay ready stay ready",
+          "location": 702
+        },
+        {
+          "text": "where he stepped into *north* *korea* while",
+          "location": 755
+        },
+        {
+          "text": "war economic decline promote *north* *korea*",
+          "location": 2402
+        }
+      ]
+    },
+    {
+      "id": "8mQgCzVLJNQ",
+      "segments": [
+        {
+          "text": "*north* *korea* and iran deal funding deals",
+          "location": 94
+        },
+        {
+          "text": "with iran and *north* *korea* t cells",
+          "location": 97
+        },
+        {
+          "text": "payoffs and then *north* *korea* mini and",
+          "location": 99
+        },
+        {
+          "text": "the tech to iran and *north* *korea* past",
+          "location": 244
+        },
+        {
+          "text": "from iran to *north* *korea* so the next",
+          "location": 247
+        },
+        {
+          "text": "nuclear weapons and pass on to *north*",
+          "location": 259
+        },
+        {
+          "text": "*korea* and this is a an old new york post",
+          "location": 261
+        },
+        {
+          "text": "on the iran *north* *korea* new clients and",
+          "location": 268
+        },
+        {
+          "text": "they provided provided *north* *korea* with",
+          "location": 273
+        },
+        {
+          "text": "*north* *korea* so read those two articles",
+          "location": 309
+        },
+        {
+          "text": "iran gives *north* *korea* funding *north*",
+          "location": 324
+        },
+        {
+          "text": "oil iran had cash *north* *korea* had",
+          "location": 331
+        },
+        {
+          "text": "an ideal match and then *north* *korea* iran",
+          "location": 336
+        },
+        {
+          "text": "our nuclear pals iran in *north* *korea*",
+          "location": 342
+        }
+      ]
+    },
+    {
+      "id": "8NN2XuMbWvM",
+      "segments": [
+        {
+          "text": "do that but they they were saying *north*",
+          "location": 159
+        },
+        {
+          "text": "*korea* is a cia black site mockingbird is",
+          "location": 162
+        },
+        {
+          "text": "that this is why he's saying like *north*",
+          "location": 231
+        },
+        {
+          "text": "*korea* is a black site cia black site",
+          "location": 236
+        },
+        {
+          "text": "*north* *korea* so let's play hunt the spook",
+          "location": 259
+        },
+        {
+          "text": "the *north* *korea* stuff starting to come",
+          "location": 265
+        },
+        {
+          "text": "*north* *korea* participating in the olympic",
+          "location": 288
+        },
+        {
+          "text": "why did *korea* come together as a country",
+          "location": 302
+        },
+        {
+          "text": "versus *north* and south why didn't they",
+          "location": 304
+        },
+        {
+          "text": "*north* *korea* because of right now this",
+          "location": 1828
+        },
+        {
+          "text": "*north* *korea* and then one of the atlantic",
+          "location": 1996
+        },
+        {
+          "text": "order who controls *north* *korea* who",
+          "location": 2232
+        },
+        {
+          "text": "really controls *north* *korea* we know it's",
+          "location": 2235
+        }
+      ]
+    },
+    {
+      "id": "8tD41JIC-_s",
+      "segments": [
+        {
+          "text": "huber a one tarmac iran *north* *korea*",
+          "location": 1247
+        },
+        {
+          "text": "*north* *korea* uranium one doj mueller",
+          "location": 1255
+        }
+      ]
+    },
+    {
+      "id": "8W3YXImU6m0",
+      "segments": [
+        {
+          "text": "travel to moscow *north* *korea* and *north*",
+          "location": 1588
+        }
+      ]
+    },
+    {
+      "id": "a1NA7RMfN2g",
+      "segments": [
+        {
+          "text": "kind of going through think *north* *korea*",
+          "location": 1055
+        }
+      ]
+    },
+    {
+      "id": "a59mWRqqJVc",
+      "segments": [
+        {
+          "text": "*north* *korea* is not advancing their",
+          "location": 2069
+        }
+      ]
+    },
+    {
+      "id": "aC2UGtWJMMw",
+      "segments": [
+        {
+          "text": "stage around *north* *korea* and the",
+          "location": 147
+        }
+      ]
+    },
+    {
+      "id": "AuV31bAKsW0",
+      "segments": [
+        {
+          "text": "of state *north* *korea* iran russia china",
+          "location": 955
+        }
+      ]
+    },
+    {
+      "id": "b-byy2INS9E",
+      "segments": [
+        {
+          "text": "war with *north* *korea* fake potus will",
+          "location": 236
+        },
+        {
+          "text": "*north* *korea* peace nigga",
+          "location": 265
+        }
+      ]
+    },
+    {
+      "id": "BaLiAUykwk0",
+      "segments": [
+        {
+          "text": "time was *north* *korea* recommit to",
+          "location": 573
+        },
+        {
+          "text": "that i'm gonna talk about the *north*",
+          "location": 583
+        },
+        {
+          "text": "korean think south *korea* because that's",
+          "location": 585
+        },
+        {
+          "text": "news it says trump's trump praises *north*",
+          "location": 591
+        },
+        {
+          "text": "capital of *north* *korea* and then it was a",
+          "location": 627
+        },
+        {
+          "text": "could get the u.s. and *north* *korea*",
+          "location": 641
+        },
+        {
+          "text": "the u.s. and *north* *korea* together again",
+          "location": 668
+        },
+        {
+          "text": "running was running *north* *korea* you know",
+          "location": 723
+        },
+        {
+          "text": "it was *north* *korea* was out there as the",
+          "location": 725
+        }
+      ]
+    },
+    {
+      "id": "CbwoJvdo1BA",
+      "segments": [
+        {
+          "text": "arabia and *north* *korea* okay just let's",
+          "location": 402
+        },
+        {
+          "text": "take *north* *korea* real quick when trump",
+          "location": 405
+        },
+        {
+          "text": "is *north* korea's testing nuclear",
+          "location": 410
+        },
+        {
+          "text": "missiles *north* *korea* is gonna bomb the",
+          "location": 413
+        },
+        {
+          "text": "what *north* *korea* was and i see it i get",
+          "location": 445
+        }
+      ]
+    },
+    {
+      "id": "CwPvAUnU1Yg",
+      "segments": [
+        {
+          "text": "policies and efforts in *north* *korea* are",
+          "location": 2717
+        }
+      ]
+    },
+    {
+      "id": "CZvTFgzePlE",
+      "segments": [
+        {
+          "text": "schmidt in *north* *korea*",
+          "location": 1159
+        },
+        {
+          "text": "why was eric schmidt in *north* *korea* now",
+          "location": 1161
+        },
+        {
+          "text": "was involved in *north* *korea* with eric",
+          "location": 1185
+        },
+        {
+          "text": "why was eric schmidt in *north* *korea*",
+          "location": 1190
+        },
+        {
+          "text": "probably why was edward snowden in *north*",
+          "location": 1191
+        },
+        {
+          "text": "*korea* what private network did eric",
+          "location": 1194
+        },
+        {
+          "text": "schmidt set up in *north* *korea* what",
+          "location": 1196
+        },
+        {
+          "text": "up in *north* *korea* see what i mean who",
+          "location": 1200
+        },
+        {
+          "text": "else was in *north* *korea* at this during",
+          "location": 1202
+        },
+        {
+          "text": "*north* *korea* at this time edward snowden",
+          "location": 1233
+        },
+        {
+          "text": "*north* *korea*",
+          "location": 1243
+        },
+        {
+          "text": "why would *north* *korea* allow access to",
+          "location": 1244
+        }
+      ]
+    },
+    {
+      "id": "dgSTsrt-xX4",
+      "segments": [
+        {
+          "text": "island haiti *north* *korea* china russia",
+          "location": 2407
+        }
+      ]
+    },
+    {
+      "id": "DQC5UiWzy-8",
+      "segments": [
+        {
+          "text": "an mp think about *north* *korea* that's",
+          "location": 2764
+        }
+      ]
+    },
+    {
+      "id": "dU0lvgrh6DQ",
+      "segments": [
+        {
+          "text": "and then at *north* *korea* generals",
+          "location": 596
+        },
+        {
+          "text": "*north* *korea* summit secrets from trump to",
+          "location": 875
+        }
+      ]
+    },
+    {
+      "id": "ezw5g2S3888",
+      "segments": [
+        {
+          "text": "entered *north* *korea* to establish comms",
+          "location": 464
+        },
+        {
+          "text": "visit *north* *korea* why would the former",
+          "location": 469
+        },
+        {
+          "text": "think cold war think kgb us china *north*",
+          "location": 523
+        },
+        {
+          "text": "*korea* 3 facebook data dump who made it",
+          "location": 528
+        }
+      ]
+    },
+    {
+      "id": "f5J1g1S6goc",
+      "segments": [
+        {
+          "text": "we've seen potentially with *north* *korea*",
+          "location": 1064
+        }
+      ]
+    },
+    {
+      "id": "f83TwcKnBp0",
+      "segments": [
+        {
+          "text": "iraq and *north* *korea* at the time that",
+          "location": 631
+        }
+      ]
+    },
+    {
+      "id": "GL_l7uGX8WY",
+      "segments": [
+        {
+          "text": "face 'iron to face *north* *korea* to",
+          "location": 970
+        },
+        {
+          "text": "*north* *korea* russia china they're looking",
+          "location": 1216
+        }
+      ]
+    },
+    {
+      "id": "GmFrEcyOCp0",
+      "segments": [
+        {
+          "text": "and here's *north* *korea* over here alright",
+          "location": 392
+        },
+        {
+          "text": "is why *north* *korea* can't straighten out",
+          "location": 1832
+        },
+        {
+          "text": "chatter going on once *north* *korea* once",
+          "location": 1835
+        },
+        {
+          "text": "iran is subdued then *north* *korea* will",
+          "location": 1838
+        },
+        {
+          "text": "actually from *north* *korea* because",
+          "location": 2213
+        },
+        {
+          "text": "here's *north* *korea* you know did *north*",
+          "location": 2231
+        },
+        {
+          "text": "*korea* send it and japan our troops in",
+          "location": 2234
+        }
+      ]
+    },
+    {
+      "id": "GUGdEdeZudM",
+      "segments": [
+        {
+          "text": "arrests a one tarmac iran newton *north*",
+          "location": 1430
+        },
+        {
+          "text": "*korea* uranium one fbi doj mueller",
+          "location": 1434
+        },
+        {
+          "text": "comes back and says *north* *korea* q like",
+          "location": 1679
+        },
+        {
+          "text": "of he's like you don't think *north* *korea*",
+          "location": 1688
+        },
+        {
+          "text": "thought this was cool in *north* *korea*",
+          "location": 1714
+        }
+      ]
+    },
+    {
+      "id": "hF85EcXHdcI",
+      "segments": [
+        {
+          "text": "was about *north* *korea* he's told us that",
+          "location": 2287
+        }
+      ]
+    },
+    {
+      "id": "HHSnx8HC97A",
+      "segments": [
+        {
+          "text": "been picked up by hackers from *north*",
+          "location": 2736
+        },
+        {
+          "text": "*korea* to russia and shot back at the",
+          "location": 2738
+        }
+      ]
+    },
+    {
+      "id": "I5v4YoUjjhA",
+      "segments": [
+        {
+          "text": "think eric schmidt departure think *north*",
+          "location": 1102
+        },
+        {
+          "text": "*korea* i mean it just goes on and and",
+          "location": 1105
+        }
+      ]
+    },
+    {
+      "id": "ibKILQFF3Hg",
+      "segments": [
+        {
+          "text": "with *north* *korea* he's done it with china",
+          "location": 946
+        }
+      ]
+    },
+    {
+      "id": "IBsxf0_Fiic",
+      "segments": [
+        {
+          "text": "*north* *korea* iran poop",
+          "location": 2058
+        }
+      ]
+    },
+    {
+      "id": "k1d1W0FUIeI",
+      "segments": [
+        {
+          "text": "*north* *korea* iran russia china mexico",
+          "location": 544
+        }
+      ]
+    },
+    {
+      "id": "K1GPxgU4GYc",
+      "segments": [
+        {
+          "text": "*north* *korea* regarding denuclearization",
+          "location": 1490
+        },
+        {
+          "text": "this all happen before he goes to *north*",
+          "location": 2028
+        },
+        {
+          "text": "*korea* d he says sky is falling pushed to",
+          "location": 2030
+        }
+      ]
+    },
+    {
+      "id": "kI9qKn5aUQo",
+      "segments": [
+        {
+          "text": "cause war with *north* *korea* he'll cause",
+          "location": 724
+        },
+        {
+          "text": "*north* *korea* fired missiles it's they're",
+          "location": 732
+        },
+        {
+          "text": "would rather see *north* *korea* peace",
+          "location": 743
+        },
+        {
+          "text": "iran and *north* *korea* and looking into",
+          "location": 854
+        },
+        {
+          "text": "your eyes on iran in *north* *korea* *north*",
+          "location": 1967
+        },
+        {
+          "text": "*korea* set off a couple of missiles the",
+          "location": 1969
+        }
+      ]
+    },
+    {
+      "id": "Ksvn8UI904Y",
+      "segments": [
+        {
+          "text": "*north* *korea* summit by leaking report to",
+          "location": 512
+        },
+        {
+          "text": "assessment in concluding that *north*",
+          "location": 524
+        },
+        {
+          "text": "*korea* does not intend to give up its",
+          "location": 527
+        },
+        {
+          "text": "*north* *korea* in the way that is now",
+          "location": 656
+        },
+        {
+          "text": "what noir *north* *korea* could become so",
+          "location": 675
+        },
+        {
+          "text": "iran urges *north* *korea* not to trust",
+          "location": 746
+        },
+        {
+          "text": "watches trump *north* *korea* talks so i",
+          "location": 753
+        }
+      ]
+    },
+    {
+      "id": "KuMFUPtKpWU",
+      "segments": [
+        {
+          "text": "*north* *korea* i mean he's gonna be nuclear",
+          "location": 557
+        },
+        {
+          "text": "have been *north* *korea* it's sort of",
+          "location": 632
+        }
+      ]
+    },
+    {
+      "id": "KWlDcvcMSP0",
+      "segments": [
+        {
+          "text": "be something to do with *north* *korea*",
+          "location": 1193
+        },
+        {
+          "text": "going on in *north* *korea* it's a huge big",
+          "location": 1514
+        }
+      ]
+    },
+    {
+      "id": "ldS90gRrNJ8",
+      "segments": [
+        {
+          "text": "force one canada to *north* *korea* and so",
+          "location": 381
+        },
+        {
+          "text": "and route 2 meeting to *north* *korea*",
+          "location": 401
+        },
+        {
+          "text": "*north* *korea* and the world it will",
+          "location": 911
+        },
+        {
+          "text": "blayne *north* *korea* probably or something",
+          "location": 1157
+        }
+      ]
+    },
+    {
+      "id": "ll4IuzQmlvg",
+      "segments": [
+        {
+          "text": "them that went straight to *north* *korea*",
+          "location": 155
+        },
+        {
+          "text": "jeong-hoon of *north* *korea* president z",
+          "location": 968
+        },
+        {
+          "text": "*north* *korea* will be denuclearize by then",
+          "location": 996
+        },
+        {
+          "text": "for the *north* korean people the people",
+          "location": 1002
+        },
+        {
+          "text": "of *north* *korea* maybe have a fighting",
+          "location": 1005
+        },
+        {
+          "text": "*north* *korea* has not conducted a missile",
+          "location": 1469
+        }
+      ]
+    },
+    {
+      "id": "MmaN6V7_U3w",
+      "segments": [
+        {
+          "text": "people from *north* *korea* couldn't leave",
+          "location": 115
+        },
+        {
+          "text": "previously entered *north* *korea* to",
+          "location": 148
+        },
+        {
+          "text": "logically why did google visit *north*",
+          "location": 179
+        },
+        {
+          "text": "*korea* we've we've been over this before",
+          "location": 182
+        },
+        {
+          "text": "remember eric schmidt went to *north*",
+          "location": 184
+        },
+        {
+          "text": "*korea* to set up secret coms and email",
+          "location": 186
+        },
+        {
+          "text": "were kgb he says us china *north* *korea*",
+          "location": 363
+        },
+        {
+          "text": "union russia iran *north* *korea* syria",
+          "location": 507
+        },
+        {
+          "text": "and then us china *north* *korea* facebook",
+          "location": 801
+        },
+        {
+          "text": "these people in *north* *korea*",
+          "location": 834
+        },
+        {
+          "text": "them in *north* *korea* eric schmidt's",
+          "location": 861
+        },
+        {
+          "text": "all the ones that i had from *north* *korea*",
+          "location": 925
+        },
+        {
+          "text": "what does *north* *korea* represent threat",
+          "location": 1085
+        },
+        {
+          "text": "us china *north* *korea* three he was kind",
+          "location": 1418
+        },
+        {
+          "text": "here he said it says us china and *north*",
+          "location": 1431
+        },
+        {
+          "text": "*korea*",
+          "location": 1433
+        }
+      ]
+    },
+    {
+      "id": "Na2MqQzIAWU",
+      "segments": [
+        {
+          "text": "*north* *korea* right so the next post says",
+          "location": 563
+        },
+        {
+          "text": "signify why is *north* *korea* out of the",
+          "location": 783
+        },
+        {
+          "text": "can't say that right so pyongyang *north*",
+          "location": 1009
+        },
+        {
+          "text": "*korea* korea's kim jong hoon hosted top",
+          "location": 1012
+        },
+        {
+          "text": "not ok *north* *korea* da-da-da-da-da south",
+          "location": 1036
+        },
+        {
+          "text": "the picture it's at the *north* and south",
+          "location": 1138
+        },
+        {
+          "text": "that *north* *korea* is considering",
+          "location": 1145
+        },
+        {
+          "text": "what it's pointing to is that *north*",
+          "location": 1162
+        },
+        {
+          "text": "*korea* is no longer controlled by you",
+          "location": 1164
+        }
+      ]
+    },
+    {
+      "id": "o5yAF9IIO4A",
+      "segments": [
+        {
+          "text": "*north* *korea* singapore summit video story",
+          "location": 184
+        },
+        {
+          "text": "resigned in *north* *korea* why would the",
+          "location": 1502
+        },
+        {
+          "text": "chairman of google trapped in *north*",
+          "location": 1505
+        },
+        {
+          "text": "*korea* okay who would a lap why would",
+          "location": 1507
+        },
+        {
+          "text": "*north* *korea*",
+          "location": 1511
+        },
+        {
+          "text": "going private emails google *north* *korea*",
+          "location": 1524
+        },
+        {
+          "text": "why did google visit *north* *korea* see",
+          "location": 1850
+        },
+        {
+          "text": "think eric schmidt departure think *north*",
+          "location": 1896
+        },
+        {
+          "text": "*korea* many draft many shared users for",
+          "location": 1898
+        }
+      ]
+    },
+    {
+      "id": "oDskmmkin4c",
+      "segments": [
+        {
+          "text": "them you know through *north* *korea* in",
+          "location": 571
+        },
+        {
+          "text": "aren't *north* *korea* developments",
+          "location": 605
+        }
+      ]
+    },
+    {
+      "id": "om3LDAA8yVU",
+      "segments": [
+        {
+          "text": "today *north* *korea* comes crawling back",
+          "location": 757
+        }
+      ]
+    },
+    {
+      "id": "pl0fwd-P78k",
+      "segments": [
+        {
+          "text": "but we can see the title *north* *korea*",
+          "location": 58
+        }
+      ]
+    },
+    {
+      "id": "PZaRVcudtpA",
+      "segments": [
+        {
+          "text": "admits travel to *north* *korea* past",
+          "location": 1384
+        },
+        {
+          "text": "*north* *korea*",
+          "location": 1475
+        },
+        {
+          "text": "*north* *korea*",
+          "location": 1565
+        },
+        {
+          "text": "as left undeterred *north* *korea* would",
+          "location": 1681
+        },
+        {
+          "text": "to *north* *korea* will make heads roll",
+          "location": 1743
+        },
+        {
+          "text": "*north* *korea* since future proofs past so",
+          "location": 1749
+        },
+        {
+          "text": "potus went to *north* *korea* to see kim",
+          "location": 1769
+        },
+        {
+          "text": "*north* *korea* so she's concerned about",
+          "location": 1867
+        },
+        {
+          "text": "got a link there *north* *korea* once",
+          "location": 1884
+        },
+        {
+          "text": "buying and selling arms for *north* *korea*",
+          "location": 1936
+        }
+      ]
+    },
+    {
+      "id": "q2BoeQDb5cw",
+      "segments": [
+        {
+          "text": "bites by *north* *korea* perhaps okay so",
+          "location": 758
+        },
+        {
+          "text": "flag against *north* *korea* to destroy the",
+          "location": 1116
+        }
+      ]
+    },
+    {
+      "id": "Q4lYHA1-5NI",
+      "segments": [
+        {
+          "text": "on *north* *korea* during his entire tenure",
+          "location": 43
+        }
+      ]
+    },
+    {
+      "id": "qeKqoJMDCM4",
+      "segments": [
+        {
+          "text": "this pakistan *north* *korea* turkey and",
+          "location": 1132
+        },
+        {
+          "text": "relatively normal visited *north* *korea*",
+          "location": 1158
+        },
+        {
+          "text": "*north* *korea* where he was photographed in",
+          "location": 1183
+        },
+        {
+          "text": "*north* *korea* was definitely meant to",
+          "location": 1492
+        },
+        {
+          "text": "and *north* *korea* the grass showmanship of",
+          "location": 1520
+        }
+      ]
+    },
+    {
+      "id": "qPj6F9EIiJ0",
+      "segments": [
+        {
+          "text": "russian or *north* *korea* comes down starts",
+          "location": 1003
+        },
+        {
+          "text": "european union russia iran *north* *korea*",
+          "location": 1018
+        },
+        {
+          "text": "it went from saudi arabia to *north* *korea*",
+          "location": 1044
+        },
+        {
+          "text": "from *north* *korea* to armenia from irini",
+          "location": 1046
+        },
+        {
+          "text": "post 237 november 30th what if *north*",
+          "location": 1789
+        },
+        {
+          "text": "*korea* had miniature nuke payload",
+          "location": 1792
+        },
+        {
+          "text": "delivery in 2004 what if *north* *korea* had",
+          "location": 1796
+        },
+        {
+          "text": "union asia *north* *korea* iran deal russian",
+          "location": 1813
+        },
+        {
+          "text": "*north* *korea* / iran why what does it mean",
+          "location": 1871
+        }
+      ]
+    },
+    {
+      "id": "Rs_aMycvbRY",
+      "segments": [
+        {
+          "text": "poor talks coming up from *north* *korea*",
+          "location": 2250
+        },
+        {
+          "text": "out of *north* *korea* and stuff i'm they're",
+          "location": 2277
+        }
+      ]
+    },
+    {
+      "id": "S29kJPp3Ad8",
+      "segments": [
+        {
+          "text": "schmidt departure think *north* *korea* many",
+          "location": 650
+        },
+        {
+          "text": "thank *north* *korea* *north* *korea* has been",
+          "location": 800
+        }
+      ]
+    },
+    {
+      "id": "S5PPhpbmt0k",
+      "segments": [
+        {
+          "text": "*north* *korea* i have today ordered the",
+          "location": 382
+        },
+        {
+          "text": "meeting with *north* *korea* let me live let",
+          "location": 397
+        },
+        {
+          "text": "things off the list meeting with *north*",
+          "location": 404
+        },
+        {
+          "text": "*korea* de nuke plan / process sanctions",
+          "location": 406
+        },
+        {
+          "text": "*north* *korea* the treasury department did",
+          "location": 420
+        },
+        {
+          "text": "sanctions against *north* *korea* that were",
+          "location": 478
+        },
+        {
+          "text": "existing sanctions in *north* *korea* i have",
+          "location": 494
+        },
+        {
+          "text": "of helping *north* *korea* evade existing",
+          "location": 507
+        },
+        {
+          "text": "companies accused of helping *north* *korea*",
+          "location": 547
+        },
+        {
+          "text": "meeting with *north* *korea* d nuclear plan",
+          "location": 661
+        }
+      ]
+    },
+    {
+      "id": "Suful5k9TD0",
+      "segments": [
+        {
+          "text": "tweets it *north* and south *korea* and",
+          "location": 1055
+        }
+      ]
+    },
+    {
+      "id": "TFB_WmGDb68",
+      "segments": [
+        {
+          "text": "*north* *korea* and china so i just wanted",
+          "location": 43
+        },
+        {
+          "text": "for last resort war with *north* *korea*",
+          "location": 1763
+        }
+      ]
+    },
+    {
+      "id": "TJAryFVNobk",
+      "segments": [
+        {
+          "text": "*north* *korea* and perhaps there now why",
+          "location": 809
+        },
+        {
+          "text": "who feeds *north* *korea* was strategic",
+          "location": 816
+        },
+        {
+          "text": "*north* *korea* has nukes and tech to",
+          "location": 835
+        },
+        {
+          "text": "day how did *north* *korea* obtain uranium",
+          "location": 923
+        },
+        {
+          "text": "one deal is basically how *north* *korea*",
+          "location": 965
+        },
+        {
+          "text": "asia iran *north* *korea* it's all connected",
+          "location": 1010
+        },
+        {
+          "text": "the drops on *north* *korea* and iran and",
+          "location": 1016
+        },
+        {
+          "text": "one canada europe asia iran *north* *korea*",
+          "location": 1033
+        },
+        {
+          "text": "canada europe asia iran *north* *korea* so",
+          "location": 1055
+        },
+        {
+          "text": "and and iran gives it to *north* *korea*",
+          "location": 1063
+        },
+        {
+          "text": "here's another one what if *north* *korea*",
+          "location": 1066
+        },
+        {
+          "text": "what if *north* *korea* had icbm capability",
+          "location": 1071
+        },
+        {
+          "text": "europe asia *north* *korea* this time he",
+          "location": 1089
+        },
+        {
+          "text": "gonna cut off *north* *korea* so it's a big",
+          "location": 1210
+        }
+      ]
+    },
+    {
+      "id": "TqjbXClcNjs",
+      "segments": [
+        {
+          "text": "eric schmidt was he in *north* *korea* yes",
+          "location": 2095
+        },
+        {
+          "text": "*north* *korea* why would *north* *korea* allow",
+          "location": 2114
+        }
+      ]
+    },
+    {
+      "id": "TXWLPzYNjgs",
+      "segments": [
+        {
+          "text": "blind eye on the nuclear build in *north*",
+          "location": 759
+        },
+        {
+          "text": "*korea* class one two three blind eye iran",
+          "location": 763
+        },
+        {
+          "text": "iran *north* *korea* plus reduce us capacity",
+          "location": 803
+        }
+      ]
+    },
+    {
+      "id": "tYCL2clTy7k",
+      "segments": [
+        {
+          "text": "are back from *north* *korea* maybe you were",
+          "location": 1619
+        }
+      ]
+    },
+    {
+      "id": "uoZG3XG7t0k",
+      "segments": [
+        {
+          "text": "barack obama has been to *north* *korea* and",
+          "location": 463
+        },
+        {
+          "text": "capabilities who feeds *north* *korea* was",
+          "location": 476
+        },
+        {
+          "text": "drop how did *north* karenia *korea* obtain",
+          "location": 497
+        },
+        {
+          "text": "look at *north* *korea* look at china look",
+          "location": 1612
+        },
+        {
+          "text": "stage really can you say *north* *korea*",
+          "location": 2566
+        },
+        {
+          "text": "public think is iran in *north* *korea* oh",
+          "location": 2739
+        }
+      ]
+    },
+    {
+      "id": "urKkOdgMzIs",
+      "segments": [
+        {
+          "text": "one deal think getting newton *north*",
+          "location": 1034
+        },
+        {
+          "text": "*korea* the nukes there's a network that's",
+          "location": 1037
+        },
+        {
+          "text": "could secretly fund *north* *korea* through",
+          "location": 1117
+        },
+        {
+          "text": "why what does this have to do with *north*",
+          "location": 1128
+        },
+        {
+          "text": "*korea* just sort of kind of won over that",
+          "location": 1132
+        }
+      ]
+    },
+    {
+      "id": "w8XTiVE3ej8",
+      "segments": [
+        {
+          "text": "here's the tarmac iran *north* *korea*",
+          "location": 619
+        }
+      ]
+    },
+    {
+      "id": "WeQOS11pAuE",
+      "segments": [
+        {
+          "text": "noticed right away was *north* *korea*",
+          "location": 810
+        },
+        {
+          "text": "is *north* *korea* singapore security that's",
+          "location": 818
+        },
+        {
+          "text": "it says *north* *korea* nk and then it says",
+          "location": 2370
+        }
+      ]
+    },
+    {
+      "id": "WM3BdU7uig4",
+      "segments": [
+        {
+          "text": "to *north* *korea* on the 20th and the 21st",
+          "location": 13
+        },
+        {
+          "text": "biggest spotlight is this week's *north*",
+          "location": 57
+        },
+        {
+          "text": "*korea* china summit the fact that",
+          "location": 59
+        },
+        {
+          "text": "president xi is visiting the *north*",
+          "location": 61
+        },
+        {
+          "text": "that beijing is trying to use *north*",
+          "location": 67
+        },
+        {
+          "text": "*korea* as a diplomatic cart amid",
+          "location": 70
+        },
+        {
+          "text": "*north* peter kim jong-un having met with",
+          "location": 78
+        },
+        {
+          "text": "*korea* there is hope that the fifth",
+          "location": 85
+        },
+        {
+          "text": "the *north* is ready to return to the",
+          "location": 90
+        },
+        {
+          "text": "a summit with *north* *korea* before the one",
+          "location": 108
+        },
+        {
+          "text": "influence over *north* *korea* but one thing",
+          "location": 129
+        },
+        {
+          "text": "chairman qi announces visit to *north*",
+          "location": 216
+        },
+        {
+          "text": "*korea* this was on the 17th which was two",
+          "location": 219
+        },
+        {
+          "text": "the nature of the us-china *north* *korea*",
+          "location": 227
+        },
+        {
+          "text": "zhi jing ping will visit *north* *korea* for",
+          "location": 249
+        },
+        {
+          "text": "the like what happened with *north* *korea*",
+          "location": 290
+        },
+        {
+          "text": "china *north* *korea* and russia and what's",
+          "location": 301
+        },
+        {
+          "text": "all all for *north* *korea* or all three",
+          "location": 379
+        },
+        {
+          "text": "know china controls *north* *korea* we also",
+          "location": 398
+        },
+        {
+          "text": "controls *north* *korea* okay so think",
+          "location": 404
+        },
+        {
+          "text": "*north* *korea* very important he links the",
+          "location": 426
+        },
+        {
+          "text": "controls *north* *korea* but who really",
+          "location": 540
+        },
+        {
+          "text": "controls *north* *korea* we do they use our",
+          "location": 542
+        },
+        {
+          "text": "russia and *north* *korea* are all working",
+          "location": 575
+        },
+        {
+          "text": "due to the dems a lot iran *north* *korea*",
+          "location": 631
+        },
+        {
+          "text": "russia china iran *north* *korea* this is",
+          "location": 638
+        },
+        {
+          "text": "is reclusive *north* korea's only major",
+          "location": 648
+        },
+        {
+          "text": "*north* *korea* over efforts to persuade",
+          "location": 655
+        },
+        {
+          "text": "*north* *korea* by severing the ability of",
+          "location": 726
+        },
+        {
+          "text": "understand this is all connected *north*",
+          "location": 782
+        },
+        {
+          "text": "*korea* south korea japan china it's all",
+          "location": 784
+        },
+        {
+          "text": "*north* *korea* they're using *north* *korea* as",
+          "location": 825
+        },
+        {
+          "text": "south *korea* for other uses see *korea* and",
+          "location": 992
+        },
+        {
+          "text": "the democratic republic of *korea* which",
+          "location": 998
+        },
+        {
+          "text": "is *north* *korea* or naoko okay let me go",
+          "location": 1002
+        },
+        {
+          "text": "see this just think *north* *korea* okay",
+          "location": 1007
+        },
+        {
+          "text": "way to weaponize *north* *korea* despite the",
+          "location": 1018
+        },
+        {
+          "text": "to control *north* *korea* and in a sense",
+          "location": 1164
+        },
+        {
+          "text": "*north* *korea* in advance of the g20 summit",
+          "location": 1218
+        },
+        {
+          "text": "is *north* *korea* china will position",
+          "location": 1345
+        },
+        {
+          "text": "telling the world *north* *korea* is no",
+          "location": 1450
+        },
+        {
+          "text": "one removing the threat posed by *north*",
+          "location": 1473
+        },
+        {
+          "text": "*korea* by serving severing the ability of",
+          "location": 1475
+        },
+        {
+          "text": "president jade to visit *north* *korea* this",
+          "location": 1511
+        },
+        {
+          "text": "regional security issues think *north*",
+          "location": 1702
+        },
+        {
+          "text": "*korea* right the two presidents look",
+          "location": 1704
+        },
+        {
+          "text": "jinping traveling to *north* *korea* for",
+          "location": 1724
+        },
+        {
+          "text": "then the denuclearization of *north* *korea*",
+          "location": 1917
+        },
+        {
+          "text": "new *north* *korea* hostage release is",
+          "location": 2099
+        },
+        {
+          "text": "opinion piece in *north* korea's state-run",
+          "location": 2214
+        },
+        {
+          "text": "state visit to *north* *korea* in the front",
+          "location": 2221
+        },
+        {
+          "text": "the summit between china and *north* *korea*",
+          "location": 2293
+        },
+        {
+          "text": "in *north* *korea* in 14 years it's unlikely",
+          "location": 2300
+        },
+        {
+          "text": "sensitive issues such as *north* *korea*",
+          "location": 2303
+        },
+        {
+          "text": "percent of *north* korea's foreign trade",
+          "location": 2369
+        },
+        {
+          "text": "*north* *korea* leader into making more",
+          "location": 2376
+        },
+        {
+          "text": "self *north* *korea*",
+          "location": 2403
+        },
+        {
+          "text": "regardless *north* *korea* can consider",
+          "location": 2444
+        },
+        {
+          "text": "china's meeting with *north* *korea* it's",
+          "location": 2489
+        },
+        {
+          "text": "part of it he says she said *north* *korea*",
+          "location": 2496
+        },
+        {
+          "text": "talks between president trump and *north*",
+          "location": 2552
+        },
+        {
+          "text": "*korea* so sunday it says we now enter a",
+          "location": 2554
+        }
+      ]
+    },
+    {
+      "id": "XdfdQT3XSBg",
+      "segments": [
+        {
+          "text": "*north* *korea* is being run is not being",
+          "location": 1788
+        }
+      ]
+    },
+    {
+      "id": "XEDGXGXKsPk",
+      "segments": [
+        {
+          "text": "why was eric schmidt in *north* *korea* what",
+          "location": 456
+        },
+        {
+          "text": "in who else was in *north* *korea* during",
+          "location": 463
+        },
+        {
+          "text": "google travel to *north* *korea* yeah so",
+          "location": 473
+        },
+        {
+          "text": "think eric schmidt departure think *north*",
+          "location": 540
+        },
+        {
+          "text": "*korea* many drafts many shared users the",
+          "location": 542
+        }
+      ]
+    },
+    {
+      "id": "XEVieVy5tA0",
+      "segments": [
+        {
+          "text": "*north* korean nuclear reactor sites no",
+          "location": 1391
+        },
+        {
+          "text": "icbm think *north* *korea* who controls the",
+          "location": 1396
+        },
+        {
+          "text": "*north* *korea* russia china mexico mm-hmm",
+          "location": 1507
+        }
+      ]
+    },
+    {
+      "id": "y4AhWpuyomw",
+      "segments": [
+        {
+          "text": "over *north* *korea* i just spit out my",
+          "location": 905
+        }
+      ]
+    },
+    {
+      "id": "Y9B1jNym-K8",
+      "segments": [
+        {
+          "text": "third firm suggesting a link to *north*",
+          "location": 1452
+        },
+        {
+          "text": "*korea* and he's retweeted these so q is",
+          "location": 1454
+        }
+      ]
+    },
+    {
+      "id": "yAXz6lYNxHE",
+      "segments": [
+        {
+          "text": "strategy to get *north* *korea* to negotiate",
+          "location": 1238
+        },
+        {
+          "text": "with iran the same way he got *north*",
+          "location": 1326
+        },
+        {
+          "text": "*korea* to ask for peace talks",
+          "location": 1329
+        },
+        {
+          "text": "trump recognized that *north* *korea* is",
+          "location": 1331
+        },
+        {
+          "text": "responsible for the *north* korea's bad",
+          "location": 1340
+        },
+        {
+          "text": "gain peace talks with kim *north* *korea* he",
+          "location": 1769
+        },
+        {
+          "text": "problems with *north* *korea* syria ukraine",
+          "location": 1870
+        },
+        {
+          "text": "with *north* *korea* right now so once you",
+          "location": 1927
+        }
+      ]
+    },
+    {
+      "id": "YDZxU7hSkE8",
+      "segments": [
+        {
+          "text": "think ok meeting with *north* *korea* huh",
+          "location": 2174
+        },
+        {
+          "text": "meeting with *north* *korea* you know him",
+          "location": 2177
+        }
+      ]
+    },
+    {
+      "id": "z2yDHKVsLqg",
+      "segments": [
+        {
+          "text": "rhenium one *north* *korea* why would russia",
+          "location": 800
+        }
+      ]
+    },
+    {
+      "id": "Z4i2A6q_4Rk",
+      "segments": [
+        {
+          "text": "in saudi arabia in in *north* *korea*",
+          "location": 879
+        }
+      ]
+    },
+    {
+      "id": "zhGG_oIrsCw",
+      "segments": [
+        {
+          "text": "other stuff who controls *north* *korea* who",
+          "location": 854
+        },
+        {
+          "text": "really controls *north* *korea* well in",
+          "location": 857
+        },
+        {
+          "text": "november *north* *korea* wasn't freed yet",
+          "location": 859
+        },
+        {
+          "text": "be *north* saudi arabia and then *north*",
+          "location": 933
+        },
+        {
+          "text": "*korea* that would be freed so saudi",
+          "location": 935
+        },
+        {
+          "text": "arabia was freed then *north* *korea* was",
+          "location": 936
+        }
+      ]
+    },
+    {
+      "id": "Zjr-J3FOvek",
+      "segments": [
+        {
+          "text": "the summit in *north* *korea* i mean in",
+          "location": 1102
+        },
+        {
+          "text": "singapore with *north* *korea* okay hey did",
+          "location": 1105
+        }
+      ]
+    },
+    {
+      "id": "zlTIq16o_Jo",
+      "segments": [
+        {
+          "text": "war three regarding *north* *korea*",
+          "location": 2414
+        }
+      ]
+    },
+    {
+      "id": "ZmelaC42YqU",
+      "segments": [
+        {
+          "text": "right so the next one think *north* *korea*",
+          "location": 1399
+        },
+        {
+          "text": "hussein used *north* *korea* as cabal",
+          "location": 1415
+        },
+        {
+          "text": "yet so hasn't been answered *north* *korea*",
+          "location": 1450
+        },
+        {
+          "text": "american people and blamed it on *north*",
+          "location": 1460
+        },
+        {
+          "text": "*korea*",
+          "location": 1462
+        },
+        {
+          "text": "*north* *korea* so that sounds plausible to",
+          "location": 1514
+        },
+        {
+          "text": "brought up *north* *korea* saying hey this",
+          "location": 1523
+        }
+      ]
+    },
+    {
+      "id": "ZMjEM7D61oo",
+      "segments": [
+        {
+          "text": "your thinking and *north* *korea* tied to",
+          "location": 1413
+        },
+        {
+          "text": "*north* *korea* and elon musk at the same",
+          "location": 1452
+        },
+        {
+          "text": "and tech who controls *north* *korea* think",
+          "location": 1860
+        },
+        {
+          "text": "by google who controls *north* *korea* who",
+          "location": 1868
+        },
+        {
+          "text": "really controls *north* *korea* what",
+          "location": 1871
+        },
+        {
+          "text": "weaponization of iran and *north* *korea*",
+          "location": 2073
+        },
+        {
+          "text": "in *north* *korea*",
+          "location": 2248
+        },
+        {
+          "text": "why was eric schmidt in *north* *korea* what",
+          "location": 2249
+        },
+        {
+          "text": "network did eric schmidt set up in *north*",
+          "location": 2254
+        },
+        {
+          "text": "*korea* what private network did eric",
+          "location": 2256
+        },
+        {
+          "text": "schmidt set up in *north* *korea* remember i",
+          "location": 2258
+        },
+        {
+          "text": "*north* *korea* and why did he set up a",
+          "location": 2285
+        },
+        {
+          "text": "private network from noor in *north* *korea*",
+          "location": 2287
+        },
+        {
+          "text": "well *north* *korea* is closed nobody's",
+          "location": 2290
+        },
+        {
+          "text": "in *north* *korea* who else was in *north*",
+          "location": 2302
+        },
+        {
+          "text": "*korea* during this time richardson",
+          "location": 2304
+        },
+        {
+          "text": "travel to *north* *korea*",
+          "location": 2319
+        },
+        {
+          "text": "why would *north* *korea* allow access to",
+          "location": 2321
+        },
+        {
+          "text": "emails google *north* *korea*",
+          "location": 2366
+        },
+        {
+          "text": "tesla hmm google *north* *korea*",
+          "location": 2368
+        }
+      ]
+    },
+    {
+      "id": "zsp80ZqtMzo",
+      "segments": [
+        {
+          "text": "countries like *north* *korea* and saudi",
+          "location": 125
+        }
+      ]
+    },
+    {
+      "id": "zurUyF0byS0",
+      "segments": [
+        {
+          "text": "schmidt departure think *north* *korea* many",
+          "location": 1606
+        }
+      ]
+    },
+    {
+      "id": "zvCofZWMmuc",
+      "segments": [
+        {
+          "text": "anon says um *north* korean news today",
+          "location": 192
+        },
+        {
+          "text": "post *north* *korea* canceling the stomach",
+          "location": 198
+        }
+      ]
+    },
+    {
+      "id": "ZW_LiXGfSkA",
+      "segments": [
+        {
+          "text": "was this did we decide it was *north*",
+          "location": 253
+        },
+        {
+          "text": "*korea* they're talking about what one of",
+          "location": 255
+        },
+        {
+          "text": "tying it to this whole *north* *korea* thing",
+          "location": 273
+        },
+        {
+          "text": "to mark in history south *korea* *north*",
+          "location": 759
+        },
+        {
+          "text": "*korea* heading for unification usa",
+          "location": 762
+        },
+        {
+          "text": "will be magical q and it's *north* *korea*",
+          "location": 1035
+        },
+        {
+          "text": "seven seven three three new *north* *korea*",
+          "location": 1452
+        }
+      ]
+    }
+  ]
+}

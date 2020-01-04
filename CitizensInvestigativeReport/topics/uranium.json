@@ -1,0 +1,1465 @@
+{
+  "indexed": "_4cUOL3WjoQ,_4Qz2wgXF-0,_8pSTgIxZYs,_Dbmz9RiNz8,_FzxnbyTxxQ,_oalbnteAOs,_OFjUWoWjWA,_oFMGK4Zh0A,_wl1SQ5vloE,-_jy9XWrtVk,--S8YcaR4e0,-p4aixMy9C4,-TnUgDxmhcM,-UfGgbKad1g,-YMqBPbzLf4,-zegrO4DwyY,-zp_jtLiWGk,0_wrqY4QP1E,0c2dd2MuBdw,0Hdas49YCcc,0p6fPfG6eEc,0qKt8Cx_ddw,18zfwUCc61M,1a-U_X08U6I,1d-2uv-xfmE,1DrHzWvI6KM,1jFANB5HfVw,1rSUgsXkMV0,1SgrMFFmtXk,1x_vXcUl-5U,2-KyGPW6w2o,2AsamkPRWkQ,2AZ6VHCqhUM,2CveVgGWJ1Q,2eBSc_bwnWU,2isbWX0zE40,2n51hzqIt0U,30V4Szn4Iuk,3FDNRfZmq40,3i07C4yqOJE,3Od71di7MIo,42B7PCn1Snk,4c4fWaJxAlI,4CljEa5NWyM,4NHl0qZswsM,4pjGWGmVlVo,4QaAgo9xq-I,4tIXYYEObRw,4wtx2cZ0Kbg,57ly_O6zk1A,5ez2srKespc,5fKoGtGai84,5g7ly1jWyh4,5l_hHwjMj84,5Vd-T0ytuDo,5ZAoB5_5Z9U,6_w68fyEHQc,69-YMBkQjMI,6fchAsMqtiI,6hqfPPhwYEc,6nJMwv18PhY,6ORf3NMddJw,6PlU0kJsMgg,7EeZJ3nqRi4,7gQa2DnB57E,7kFWz6d6QE0,7TxVMkmEflw,7Z1stYjs00o,8597QdaRrYg,8DPY5g6bmnI,8IC-EoVQ4Xw,8mQgCzVLJNQ,8NN2XuMbWvM,8tD41JIC-_s,8u9QT__UJw8,8W3YXImU6m0,9_Av3k1XGlI,99tcg2P0X00,9CjCqKVUaXU,9fg2HjtiQnw,9j5zzgc_ZW8,9njNU0ihgk4,9sbvu6QbGFQ,a1NA7RMfN2g,a4aHKKrnkIU,a59mWRqqJVc,AAAqCJKxkwY,aC2UGtWJMMw,AJZaQtuk-4U,ajzXU44c9l0,aKwDn2vzjnE,ANcWcVKyFEU,aUFEtFY36i4,AuV31bAKsW0,aV2xcCxaoTQ,AVGvXMl-ItU,aWDsJdeJWUY,b-byy2INS9E,BaLiAUykwk0,BeiNOvXEgeE,BhTX5laZ2dk,biSiJkBSrRU,bNkOryQKYhw,bQKYJG_NiuA,bWxE0JiEk5s,c0ng2LuHw3M,c6ngdj0aaBM,C8qMDMjmTyI,C9R-YD7lyhQ,CbNcUJ8HhXI,CbwoJvdo1BA,cFwd5UYWjxg,ClGKQvSylxk,clPhNj9RaOA,CPvD8HQ9Koc,csJU-a0MsZU,CwPvAUnU1Yg,CZvTFgzePlE,D0-lVCkgnIo,D183UhhCkdY,d76FqB5mBAw,DC6aYwKxQuw,dcQwuAxJb1I,DCTFYjIyqKA,dDxwcnUK53M,dgq3HSm2erQ,dgSTsrt-xX4,dHEMRwLEmlE,DiwdnJM3nAo,DJv8lb0mOqM,dkM8045LNbE,DlzLPVjHTeQ,DnTmhNoGyII,DQC5UiWzy-8,drFJG5-3RkA,Dro05nL_8Q8,dTF780QtN4E,dU0lvgrh6DQ,DVBzdQkRXWA,dXWAJLtJB6Y,E_lX3ZHA37U,e56SvLE_RGg,E60RhCVo0Nc,e6N1eCPGlBU,EhJieMpQXss,EKJBGDEHACI,emFk7vdarkA,eNUUqqwl0y4,eQFO3jslMHQ,ezw5g2S3888,f5J1g1S6goc,F6FfGbDGadc,f83TwcKnBp0,fDmxsQuEP90,Fef0ckAi630,fElxhk6SPu0,ffMAs2enoSo,FFTR2iEL2js,FJxIZeGscPc,FL5dULT3V94,fnBTbYAloFI,Fqv09KbOBTs,FRWbHgBA0d4,FsAGKSpgOVA,G8RApYO_n4c,gAunspUVzt8,GeoMB0WD9zU,GL_l7uGX8WY,GmFrEcyOCp0,gsudyktd4fc,GTFYwFVnXcQ,GUGdEdeZudM,Gv1ywPbHj-o,gxQe3UABhx4,GYcc_-8ADXw,GYzjtOTWk-M,h7lUMLj5xc8,h8fY2MYcoNI,HCV4jvriRkE,hF85EcXHdcI,HHSnx8HC97A,HJeWmOs9wws,hm7vb0wXijM,hM8sH1MZw_g,hmy7oxlLags,hn24hIKvZbE,hnoAixwDefg,hoZ1m8riCT0,hpnqURGkTvg,hrxVT4O_yXw,hT2dO3hM0RU,ht4idpfAARg,HtAF-S85w3o,hUkXVxPeP1U,hWCe5072mGg,I0zqCx1naaM,I3O-3gOOu7U,I5v4YoUjjhA,ibKILQFF3Hg,IBsxf0_Fiic,iBT6FhBCxp4,IHYV7n-1zGo,IiaKY5Ujz7o,IiVbtXtLoNk,IMLdY9Nid_M,imUQxYkMdMk,IR0YwQ0eWdk,iwb8_ldGl0Q,iZPnPKNZFyE,iZsEJ9Ll3DM,J7kMoeWHbAI,J8hdeaykViY,jJCU5JneN4U,JjZFIj6NXCc,JlKOJvTxmSw,JMLGr0t6WiE,joSVWRny9HY,JPE9wHKtcOE,jRYWKOVi9pc,jsibKmea0xs,JuSQ-NzDoxg,jVpWkmxdXZw,jwGExC1hK2w,jwgPeHMA0XQ,jXc0VnfROxk,JxhlF_Z7WBM,JxKmYtvPBgE,jXO0XeoKttw,Jz9V0uTiyX0,k088BHq7MwA,K0gos2mEDoM,k1d1W0FUIeI,K1GPxgU4GYc,k5zAPe3j-P8,kdxBP7B-Adg,kFOvXGMP19Y,kGmVWi6HGz8,ki5x7vPxw2k,kI9qKn5aUQo,kiOrZBcyc1Y,kNWM4qCBjFQ,KRGSqTF8gQs,krxOVnXMgaU,Ksvn8UI904Y,KuMFUPtKpWU,KWlDcvcMSP0,kx1_z42TIek,KyFXo23tZrY,L_AioX3MApk,l_eG95KK0ko,L6DFq19kCJE,lCv2RSt-JHw,ldS90gRrNJ8,LIlfhpscpJc,ll4IuzQmlvg,LNwU2glC7us,lOvRgFBALEE,Ls6pFKYsuRQ,Lud9cMxisCU,Lvf3UmSv7hQ,lwlUMKv6yKk,LYiNW4p6mTc,M-OAIeWVUDM,m78DMlWY5jU,mfnne9u9Cu4,mk2O0Qu5Ipw,mkyo0m45CBM,MmaN6V7_U3w,mqFZp6EQEoo,msftou8Vxk8,mWXhdPz1L9o,MXdC-izUy0M,Na2MqQzIAWU,NEadjTosApo,nhlRiZtgfsw,NMOEpMntZ3I,nQ-0S4_mZrY,nWNoUZTN608,nyh7YbsGMQc,nzY2NnJ1J-M,o__gS7JUijA,O08ze6jltco,O3cKYCEcCnQ,o4mGsJ23IA4,O4qUKaf9bD0,o5yAF9IIO4A,oaA15FYN6pc,ODM8N8bDjqc,oDskmmkin4c,OgGTcg1AihQ,om3LDAA8yVU,oQRZaJOlSks,OSBqv2i2UOk,OsOBa27SOnY,Ov3Pyqr1U7Y,ow-WxWBd10M,oWCdApAaLH0,OZE1KEtsqaM,ozT-lj5XpsE,p_8uD_4uX_0,P-_5KJ5EauM,P1q67rQAgdY,P2z0UhWg2gw,p5nZX-r7On4,pbPqTtqMTUQ,pfFRcVFhr_w,PHjE6wH3OB0,PInpDeOIhKA,PKobwTynNHA,pl0fwd-P78k,pLhgQLWQ-JY,pMWD6H6J6XE,POvz-gw3EOA,pp29EPi2Nwk,PS4IQx8T8ew,PVA8g-1ZALM,PZaRVcudtpA,pZMOu5AGars,q2BoeQDb5cw,Q4lYHA1-5NI,QcA3NVCYYWM,qeKqoJMDCM4,QfabmC75wZo,qfvttt2-pD4,QI-R7580Rsg,qlfMm_3mRUM,qPj6F9EIiJ0,QREPrbHU5hE,QT9GR13m5tU,qTxF4G8Pv6k,qx5yJKzKdDo,qyHeRsJaOZM,qYTw5XHHlTI,QYVw6lFa2Dw,QzRgzW-vIpY,r-xFCir8FpU,R6Bn5Eb7KFQ,RiGvVpKGkJg,rjmozTz_hlw,RnnD5KWqURk,RoXwhmL6yk8,Rs_aMycvbRY,rw3bpnmOaOE,rYLOgFQPEZE,ryS7Gvupg1Q,s1yQvbIWklg,S29kJPp3Ad8,S5PPhpbmt0k,SccFd5RrtlY,scnr8t3L4Wk,seROfjjMZiM,sK3cWjgBo50,SmoJQloPBHo,sqdpWV0fsEM,stNCvaIyjXA,Suful5k9TD0,SXo1cP5spks,szuPUju1yDQ,T_rt5tZWITc,t4GTAV3tf_k,t8qFpNI6yEM,tdiYCDXpk6I,TEiHLbWSCjg,TFB_WmGDb68,TJAryFVNobk,Tm8ZULL-zhk,to7v8Ndz5Dk,toSmM8-7XQY,TQha2IMjYBA,TqjbXClcNjs,Ts1U1iWq5w0,TTD7TgHI41Q,TVSkK_uZsdY,tX-MZm7lG9k,TXWLPzYNjgs,tYCL2clTy7k,U8-rksGOIKw,ubLtyQx4d2g,Uc1dgkXKgsI,uGmQeN7__6A,Uh397S0AxoM,UhgdWME2v0w,uHIrFFUWMkk,UJ7YySYLIPA,uoZG3XG7t0k,UqfKAvJ94Pg,urKkOdgMzIs,uwW6MeAvOQE,v036BBaxXe0,VaFOU9dVE7k,VCniIY1N4YE,vkp2CaEbhiU,VncyqSWVJ1A,vP8G3gztQWA,VtSXKVw20bo,vVfyUAbNzb8,vwEYKWtzgJE,Vz6_nf_Sav4,w0WYAvWrMI4,W4IXATAA-HI,W4vxQB8tpDI,W8856fu_UG0,w8XTiVE3ej8,WBPI6wqGjjI,WcGmPQLhS-g,WeQOS11pAuE,WGuSyYujJCg,WM3BdU7uig4,wo825dKxQJc,WTLpneg-TiE,wTV4wML2Syg,WVR_d33tydI,wyDr_3phD6A,WyFwfxjVmHU,x1GukexVR9w,X7XMlZzPn_g,x9YqAiZo7jE,xcjHb6BxTrY,XCwr86ol3Oo,XddDHRwCA6Q,XdfdQT3XSBg,XEDGXGXKsPk,xEqavcwFyLY,XEVieVy5tA0,XfuNLvrXCo4,xLY5r0jjR9Y,XNrwbfS6f1Q,XPbSQ67Hxe8,xU16fgjFWek,XWrKp_tL4VE,XyN4KiYqsqs,y-874vzHt4A,y-ZyS9x6JNk,y4AhWpuyomw,Y9B1jNym-K8,yAXz6lYNxHE,YDZxU7hSkE8,YHeh4p3hPIQ,YJbF_WyHOVg,yJCimzETdYQ,yOpkW6xCbo8,YPT-X7gTA4o,yqgU3coXHpY,YU1dT0inBgg,YVTrXMak0UU,yW2tYWuXafY,YW7MVkX9o_Q,yZPh6hYXIFI,z2yDHKVsLqg,Z4i2A6q_4Rk,Z4u2xZqZKn0,ZD_4uv4ef-k,ZdBQqomzssg,zEBIukow088,ZgM3WPC5LSw,zhGG_oIrsCw,Zjr-J3FOvek,zlTIq16o_Jo,ZmelaC42YqU,ZMjEM7D61oo,ZNaN4eVbOEQ,zQhjVOzzoBw,zsp80ZqtMzo,zUCswDyNLsk,zurUyF0byS0,zvCofZWMmuc,ZW_LiXGfSkA,zWP_ImZu2zg,zzJ-tlw_GvY,ZzpP6lcBjsY",
+  "topic": "Uranium",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_4cUOL3WjoQ",
+      "segments": [
+        {
+          "text": "deal to sell *uranium* one mines to a",
+          "location": 359
+        },
+        {
+          "text": "approval of the sale of *uranium* 1 a",
+          "location": 395
+        },
+        {
+          "text": "rhenium *uranium* one and rossa tom so you",
+          "location": 398
+        }
+      ]
+    },
+    {
+      "id": "_Dbmz9RiNz8",
+      "segments": [
+        {
+          "text": "because they worked on *uranium* one",
+          "location": 538
+        },
+        {
+          "text": "foundation and *uranium* one starting in",
+          "location": 776
+        },
+        {
+          "text": "talking about the *uranium* thing potus",
+          "location": 1420
+        }
+      ]
+    },
+    {
+      "id": "_OFjUWoWjWA",
+      "segments": [
+        {
+          "text": "clinton foundation and *uranium* one okay",
+          "location": 1872
+        },
+        {
+          "text": "charges regarding *uranium* one he's",
+          "location": 1943
+        },
+        {
+          "text": "the *uranium* one deal which involves him",
+          "location": 1954
+        },
+        {
+          "text": "charges regarding *uranium* one future",
+          "location": 1963
+        },
+        {
+          "text": "*uranium* one he's working to save himself",
+          "location": 1998
+        },
+        {
+          "text": "let's look at rosenstein in the *uranium*",
+          "location": 2037
+        },
+        {
+          "text": "into the *uranium* 1 deal and would have",
+          "location": 2053
+        },
+        {
+          "text": "they're handling a *uranium* one case was",
+          "location": 2079
+        },
+        {
+          "text": "okay that was a *uranium* one clinton",
+          "location": 2297
+        },
+        {
+          "text": "foundation whistleblower *uranium* one was",
+          "location": 2300
+        }
+      ]
+    },
+    {
+      "id": "-p4aixMy9C4",
+      "segments": [
+        {
+          "text": "and then the *uranium* one informant have",
+          "location": 2885
+        }
+      ]
+    },
+    {
+      "id": "-zegrO4DwyY",
+      "segments": [
+        {
+          "text": "tarmac iran north korea *uranium* one fbi",
+          "location": 1690
+        }
+      ]
+    },
+    {
+      "id": "0c2dd2MuBdw",
+      "segments": [
+        {
+          "text": "*uranium* one scandal zero hedge 11 on",
+          "location": 1118
+        },
+        {
+          "text": "analysts turned *uranium* transportation",
+          "location": 1125
+        },
+        {
+          "text": "um analysts turn *uranium* transportation",
+          "location": 1133
+        },
+        {
+          "text": "connected to the *uranium* one deal so i",
+          "location": 1144
+        },
+        {
+          "text": "and at least in the *uranium* one arena so",
+          "location": 1150
+        },
+        {
+          "text": "company this is pretty *uranium* one okay",
+          "location": 1169
+        },
+        {
+          "text": "working in tangent with *uranium* one",
+          "location": 1182
+        },
+        {
+          "text": "*uranium* one russian bribery case and",
+          "location": 1208
+        },
+        {
+          "text": "*uranium* one at all now and then have you",
+          "location": 1259
+        }
+      ]
+    },
+    {
+      "id": "0qKt8Cx_ddw",
+      "segments": [
+        {
+          "text": "that is going to lead to *uranium* one",
+          "location": 1081
+        },
+        {
+          "text": "the sellers *uranium* rock fbi",
+          "location": 1514
+        },
+        {
+          "text": "yeah *uranium* one informant so we do see",
+          "location": 1516
+        }
+      ]
+    },
+    {
+      "id": "1a-U_X08U6I",
+      "segments": [
+        {
+          "text": "*uranium* scandal don't you think potus",
+          "location": 316
+        },
+        {
+          "text": "then it says muller and *uranium* one and",
+          "location": 670
+        }
+      ]
+    },
+    {
+      "id": "1jFANB5HfVw",
+      "segments": [
+        {
+          "text": "rent *uranium* one iran human trafficking",
+          "location": 1824
+        }
+      ]
+    },
+    {
+      "id": "1x_vXcUl-5U",
+      "segments": [
+        {
+          "text": "charges regarding *uranium* one he is",
+          "location": 1092
+        },
+        {
+          "text": "really should be tied to as *uranium* one",
+          "location": 1153
+        },
+        {
+          "text": "up the *uranium* one and the clinton",
+          "location": 1167
+        },
+        {
+          "text": "my god with the *uranium* one tracing back",
+          "location": 2374
+        },
+        {
+          "text": "us the iranian the the *uranium* would be",
+          "location": 2381
+        }
+      ]
+    },
+    {
+      "id": "2AsamkPRWkQ",
+      "segments": [
+        {
+          "text": "*uranium* one deal bubba block read",
+          "location": 618
+        }
+      ]
+    },
+    {
+      "id": "2eBSc_bwnWU",
+      "segments": [
+        {
+          "text": "the us *uranium* one cash flow funnel",
+          "location": 663
+        }
+      ]
+    },
+    {
+      "id": "2isbWX0zE40",
+      "segments": [
+        {
+          "text": "*uranium* one whistleblower okay",
+          "location": 1785
+        }
+      ]
+    },
+    {
+      "id": "30V4Szn4Iuk",
+      "segments": [
+        {
+          "text": "*uranium* one fbi informant awan debbie",
+          "location": 2419
+        }
+      ]
+    },
+    {
+      "id": "3i07C4yqOJE",
+      "segments": [
+        {
+          "text": "*uranium* one north korea",
+          "location": 934
+        },
+        {
+          "text": "of usg government *uranium* one north",
+          "location": 992
+        },
+        {
+          "text": "government were involved with *uranium*",
+          "location": 1393
+        }
+      ]
+    },
+    {
+      "id": "42B7PCn1Snk",
+      "segments": [
+        {
+          "text": "outside of *uranium* one this is good not",
+          "location": 1213
+        }
+      ]
+    },
+    {
+      "id": "4QaAgo9xq-I",
+      "segments": [
+        {
+          "text": "public interest keep high *uranium* one",
+          "location": 1390
+        },
+        {
+          "text": "interest about *uranium* one fbi informant",
+          "location": 1428
+        }
+      ]
+    },
+    {
+      "id": "4tIXYYEObRw",
+      "segments": [
+        {
+          "text": "*uranium* one deal is a russian item and",
+          "location": 2036
+        }
+      ]
+    },
+    {
+      "id": "69-YMBkQjMI",
+      "segments": [
+        {
+          "text": "sell out america's secrets and *uranium*",
+          "location": 1942
+        },
+        {
+          "text": "one i'm sorry and *uranium* to china",
+          "location": 1945
+        }
+      ]
+    },
+    {
+      "id": "6PlU0kJsMgg",
+      "segments": [
+        {
+          "text": "mueller and *uranium* one mueller and the",
+          "location": 850
+        },
+        {
+          "text": "*uranium* one scandal don't you think",
+          "location": 1019
+        }
+      ]
+    },
+    {
+      "id": "8NN2XuMbWvM",
+      "segments": [
+        {
+          "text": "country was involved in *uranium* one you",
+          "location": 2594
+        }
+      ]
+    },
+    {
+      "id": "8tD41JIC-_s",
+      "segments": [
+        {
+          "text": "north korea *uranium* one doj mueller",
+          "location": 1255
+        }
+      ]
+    },
+    {
+      "id": "AAAqCJKxkwY",
+      "segments": [
+        {
+          "text": "including *uranium* one okay huber",
+          "location": 1487
+        }
+      ]
+    },
+    {
+      "id": "C8qMDMjmTyI",
+      "segments": [
+        {
+          "text": "*uranium* one plus the clinton foundation",
+          "location": 1400
+        }
+      ]
+    },
+    {
+      "id": "cFwd5UYWjxg",
+      "segments": [
+        {
+          "text": "*uranium* one donations to clinton",
+          "location": 681
+        }
+      ]
+    },
+    {
+      "id": "DiwdnJM3nAo",
+      "segments": [
+        {
+          "text": "has been different this week *uranium* one",
+          "location": 1564
+        }
+      ]
+    },
+    {
+      "id": "Dro05nL_8Q8",
+      "segments": [
+        {
+          "text": "*uranium* one which he supervised which he",
+          "location": 236
+        },
+        {
+          "text": "of *uranium* to russia through *uranium* one",
+          "location": 246
+        },
+        {
+          "text": "muller in the *uranium* investigation so",
+          "location": 264
+        }
+      ]
+    },
+    {
+      "id": "E_lX3ZHA37U",
+      "segments": [
+        {
+          "text": "has been different this week *uranium* one",
+          "location": 1915
+        },
+        {
+          "text": "informant this *uranium* one fbi informant",
+          "location": 2012
+        }
+      ]
+    },
+    {
+      "id": "eQFO3jslMHQ",
+      "segments": [
+        {
+          "text": "*uranium* one the dossier clinton",
+          "location": 1014
+        },
+        {
+          "text": "dossier defies abuse to the *uranium* one",
+          "location": 1106
+        }
+      ]
+    },
+    {
+      "id": "ezw5g2S3888",
+      "segments": [
+        {
+          "text": "just like the *uranium* one went through",
+          "location": 1360
+        }
+      ]
+    },
+    {
+      "id": "f83TwcKnBp0",
+      "segments": [
+        {
+          "text": "prosecutor for *uranium* one and had him",
+          "location": 1122
+        }
+      ]
+    },
+    {
+      "id": "fElxhk6SPu0",
+      "segments": [
+        {
+          "text": "*uranium* scandal do you think potus would",
+          "location": 235
+        },
+        {
+          "text": "rod were both players in *uranium* and he",
+          "location": 426
+        }
+      ]
+    },
+    {
+      "id": "Fqv09KbOBTs",
+      "segments": [
+        {
+          "text": "*uranium* one deal this person does a",
+          "location": 994
+        },
+        {
+          "text": "mueller who was involved in *uranium* one",
+          "location": 3018
+        }
+      ]
+    },
+    {
+      "id": "GTFYwFVnXcQ",
+      "segments": [
+        {
+          "text": "coincidences and then *uranium* one he's",
+          "location": 87
+        },
+        {
+          "text": "regarding *uranium* 1 defcon 1 non nuke",
+          "location": 105
+        },
+        {
+          "text": "answer here *uranium* one so that was the",
+          "location": 320
+        },
+        {
+          "text": "*uranium* one indictments has been",
+          "location": 326
+        },
+        {
+          "text": "involving *uranium* one scandal so that's",
+          "location": 333
+        },
+        {
+          "text": "*uranium* one defcon one non nuke so what",
+          "location": 341
+        }
+      ]
+    },
+    {
+      "id": "GUGdEdeZudM",
+      "segments": [
+        {
+          "text": "korea *uranium* one fbi doj mueller",
+          "location": 1434
+        }
+      ]
+    },
+    {
+      "id": "h7lUMLj5xc8",
+      "segments": [
+        {
+          "text": "be through *uranium* one deal and i'll go",
+          "location": 372
+        },
+        {
+          "text": "whether we should look at *uranium* one",
+          "location": 928
+        }
+      ]
+    },
+    {
+      "id": "hM8sH1MZw_g",
+      "segments": [
+        {
+          "text": "*uranium* one is nothing honey go back to",
+          "location": 286
+        }
+      ]
+    },
+    {
+      "id": "hT2dO3hM0RU",
+      "segments": [
+        {
+          "text": "to what we heard in *uranium* one and so",
+          "location": 185
+        },
+        {
+          "text": "*uranium* deal and i'll put this i'll put",
+          "location": 510
+        },
+        {
+          "text": "to buy *uranium* 1 a canadian company with",
+          "location": 533
+        },
+        {
+          "text": "massive u.s. *uranium* reserves years",
+          "location": 537
+        },
+        {
+          "text": "skull kaavo and *uranium* one projects",
+          "location": 542
+        },
+        {
+          "text": "acquisition of *uranium* 1 an informer",
+          "location": 598
+        },
+        {
+          "text": "*uranium* 1 whistleblower there is william",
+          "location": 615
+        },
+        {
+          "text": "wanted to buy *uranium* 1 as part of a",
+          "location": 626
+        },
+        {
+          "text": "domination of the global *uranium* markets",
+          "location": 632
+        }
+      ]
+    },
+    {
+      "id": "IiaKY5Ujz7o",
+      "segments": [
+        {
+          "text": "here but this is nate caine the *uranium*",
+          "location": 1471
+        },
+        {
+          "text": "mueller connection to *uranium* one and",
+          "location": 1826
+        },
+        {
+          "text": "control of u.s. *uranium* and they knew",
+          "location": 1869
+        },
+        {
+          "text": "to get our *uranium* and muller was the",
+          "location": 1874
+        },
+        {
+          "text": "the u.s. *uranium* if they had not then",
+          "location": 1891
+        },
+        {
+          "text": "the sale of the us *uranium* that would",
+          "location": 1894
+        }
+      ]
+    },
+    {
+      "id": "JPE9wHKtcOE",
+      "segments": [
+        {
+          "text": "*uranium* one mueller epstein burry and",
+          "location": 876
+        },
+        {
+          "text": "involved in *uranium* one and mueller was",
+          "location": 884
+        },
+        {
+          "text": "epstein and ohmygod *uranium* 1 and all",
+          "location": 1326
+        }
+      ]
+    },
+    {
+      "id": "jwGExC1hK2w",
+      "segments": [
+        {
+          "text": "high keep talking about it *uranium* one",
+          "location": 2118
+        },
+        {
+          "text": "putin and *uranium* one will come out post",
+          "location": 2288
+        }
+      ]
+    },
+    {
+      "id": "K1GPxgU4GYc",
+      "segments": [
+        {
+          "text": "ignoring clinton *uranium* deal in favor",
+          "location": 601
+        },
+        {
+          "text": "role in *uranium* one agreement then",
+          "location": 616
+        },
+        {
+          "text": "on like the basics of *uranium* one but i",
+          "location": 633
+        },
+        {
+          "text": "*uranium* one i have no knowledge of",
+          "location": 649
+        },
+        {
+          "text": "*uranium* one he told lawmakers i did",
+          "location": 651
+        },
+        {
+          "text": "*uranium* rights that was the point i was",
+          "location": 677
+        },
+        {
+          "text": "rub out rossa tom and *uranium* one over",
+          "location": 777
+        }
+      ]
+    },
+    {
+      "id": "KyFXo23tZrY",
+      "segments": [
+        {
+          "text": "the goods on *uranium* 1 now he says",
+          "location": 1413
+        }
+      ]
+    },
+    {
+      "id": "l_eG95KK0ko",
+      "segments": [
+        {
+          "text": "has been different this week *uranium* one",
+          "location": 467
+        }
+      ]
+    },
+    {
+      "id": "M-OAIeWVUDM",
+      "segments": [
+        {
+          "text": "the dossier defies abuse to the *uranium*",
+          "location": 248
+        }
+      ]
+    },
+    {
+      "id": "MmaN6V7_U3w",
+      "segments": [
+        {
+          "text": "need and this *uranium* one goes through",
+          "location": 498
+        }
+      ]
+    },
+    {
+      "id": "mqFZp6EQEoo",
+      "segments": [
+        {
+          "text": "*uranium* one so i mean you know he he",
+          "location": 1613
+        }
+      ]
+    },
+    {
+      "id": "nWNoUZTN608",
+      "segments": [
+        {
+          "text": "*uranium* one that or the epa is a giant",
+          "location": 1215
+        }
+      ]
+    },
+    {
+      "id": "oDskmmkin4c",
+      "segments": [
+        {
+          "text": "*uranium* one if anybody is confused how i",
+          "location": 386
+        },
+        {
+          "text": "the law basically because of *uranium* one",
+          "location": 454
+        },
+        {
+          "text": "as well okay so it's gonna tie *uranium*",
+          "location": 457
+        }
+      ]
+    },
+    {
+      "id": "OSBqv2i2UOk",
+      "segments": [
+        {
+          "text": "safety house build *uranium* one funnel to",
+          "location": 2436
+        }
+      ]
+    },
+    {
+      "id": "OZE1KEtsqaM",
+      "segments": [
+        {
+          "text": "matters including the sale of *uranium*",
+          "location": 703
+        },
+        {
+          "text": "clinton foundation and *uranium* one on 11",
+          "location": 1004
+        },
+        {
+          "text": "foundation and *uranium* one so this was",
+          "location": 2440
+        },
+        {
+          "text": "scrutiny on *uranium* one and hillary",
+          "location": 2450
+        },
+        {
+          "text": "canadian *uranium* mining company with the",
+          "location": 2478
+        }
+      ]
+    },
+    {
+      "id": "P1q67rQAgdY",
+      "segments": [
+        {
+          "text": "john huber is investigating *uranium* one",
+          "location": 341
+        }
+      ]
+    },
+    {
+      "id": "qPj6F9EIiJ0",
+      "segments": [
+        {
+          "text": "eight tons of low enriched *uranium* iran",
+          "location": 894
+        },
+        {
+          "text": "enrich *uranium* for peaceful purposes as",
+          "location": 911
+        },
+        {
+          "text": "mean all information *uranium* one can't",
+          "location": 1012
+        },
+        {
+          "text": "define cover *uranium* 1 was the cover to",
+          "location": 1068
+        },
+        {
+          "text": "upsetting what if the *uranium* one",
+          "location": 1146
+        },
+        {
+          "text": "foreign state supplied *uranium* to iran /",
+          "location": 1224
+        },
+        {
+          "text": "*uranium* one provide cover to find cover",
+          "location": 1234
+        },
+        {
+          "text": "so *uranium* one was the back door to get",
+          "location": 1251
+        },
+        {
+          "text": "fissile material *uranium* into syria",
+          "location": 1254
+        },
+        {
+          "text": "enough to take this *uranium* one deal via",
+          "location": 1265
+        },
+        {
+          "text": "arena *uranium* deal via *uranium* one once",
+          "location": 1268
+        },
+        {
+          "text": "ship *uranium* of the same batch into",
+          "location": 1274
+        },
+        {
+          "text": "basically the *uranium* one deal was bait",
+          "location": 1280
+        },
+        {
+          "text": "here we have some *uranium* 20% of our",
+          "location": 1402
+        },
+        {
+          "text": "that *uranium* to iran syria wink-wink",
+          "location": 1416
+        },
+        {
+          "text": "because they bought our *uranium*",
+          "location": 1420
+        },
+        {
+          "text": "*uranium* one was set up to show russia",
+          "location": 1426
+        },
+        {
+          "text": "was supplying *uranium* to the middle east",
+          "location": 1429
+        },
+        {
+          "text": "up their game legit *uranium* one legit",
+          "location": 1448
+        },
+        {
+          "text": "iran plus *uranium* one connection where",
+          "location": 1766
+        },
+        {
+          "text": "our history *uranium* one canada european",
+          "location": 1809
+        }
+      ]
+    },
+    {
+      "id": "qx5yJKzKdDo",
+      "segments": [
+        {
+          "text": "dossier defies abuse to the *uranium* one",
+          "location": 151
+        }
+      ]
+    },
+    {
+      "id": "qyHeRsJaOZM",
+      "segments": [
+        {
+          "text": "he's involved in a lot of these *uranium*",
+          "location": 582
+        },
+        {
+          "text": "was and it was fbi informant on *uranium*",
+          "location": 1093
+        },
+        {
+          "text": "have been following this *uranium* one",
+          "location": 1099
+        },
+        {
+          "text": "energy and *uranium* market industry for",
+          "location": 1127
+        },
+        {
+          "text": "approved the sale of 20% of us *uranium*",
+          "location": 1167
+        },
+        {
+          "text": "information fbi informant on *uranium* one",
+          "location": 1223
+        },
+        {
+          "text": "has been different this week *uranium* one",
+          "location": 1273
+        },
+        {
+          "text": "you know *uranium* one informant what was",
+          "location": 1321
+        },
+        {
+          "text": "about the *uranium* one reread recent drop",
+          "location": 1365
+        },
+        {
+          "text": "regarding *uranium* one informant why did",
+          "location": 1369
+        },
+        {
+          "text": "public interest keep high *uranium* one",
+          "location": 1401
+        },
+        {
+          "text": "*uranium* one fbi informant public",
+          "location": 1466
+        },
+        {
+          "text": "find on this *uranium* one testimony i'll",
+          "location": 2423
+        }
+      ]
+    },
+    {
+      "id": "RoXwhmL6yk8",
+      "segments": [
+        {
+          "text": "read if you didn't know *uranium* one all",
+          "location": 48
+        },
+        {
+          "text": "and *uranium* one so he's saying is he an",
+          "location": 377
+        }
+      ]
+    },
+    {
+      "id": "rYLOgFQPEZE",
+      "segments": [
+        {
+          "text": "keep high about three things the *uranium*",
+          "location": 2369
+        },
+        {
+          "text": "putin *uranium* one will come out post",
+          "location": 2702
+        }
+      ]
+    },
+    {
+      "id": "sK3cWjgBo50",
+      "segments": [
+        {
+          "text": "*uranium* one scandal do you don't you",
+          "location": 900
+        }
+      ]
+    },
+    {
+      "id": "stNCvaIyjXA",
+      "segments": [
+        {
+          "text": "these people committed in *uranium* one",
+          "location": 1510
+        },
+        {
+          "text": "*uranium* one if the deep state was in",
+          "location": 1539
+        }
+      ]
+    },
+    {
+      "id": "t4GTAV3tf_k",
+      "segments": [
+        {
+          "text": "same way he was in oil and *uranium* an",
+          "location": 860
+        }
+      ]
+    },
+    {
+      "id": "t8qFpNI6yEM",
+      "segments": [
+        {
+          "text": "that he's doing *uranium* one he's not",
+          "location": 2041
+        }
+      ]
+    },
+    {
+      "id": "TJAryFVNobk",
+      "segments": [
+        {
+          "text": "complete the *uranium* one deal why is the",
+          "location": 905
+        },
+        {
+          "text": "iran and *uranium* one is tied together",
+          "location": 916
+        },
+        {
+          "text": "day how did north korea obtain *uranium*",
+          "location": 923
+        },
+        {
+          "text": "how did iran obtain *uranium* through the",
+          "location": 928
+        },
+        {
+          "text": "*uranium* one deal",
+          "location": 931
+        },
+        {
+          "text": "tying it i mean it's saying the *uranium*",
+          "location": 961
+        },
+        {
+          "text": "and iran got *uranium* so basically the",
+          "location": 969
+        },
+        {
+          "text": "telling you *uranium* one canada europe",
+          "location": 1006
+        },
+        {
+          "text": "he gives the second time he says *uranium*",
+          "location": 1031
+        },
+        {
+          "text": "i'm sorry here it is again *uranium* one",
+          "location": 1053
+        },
+        {
+          "text": "the *uranium* one deal affected all of",
+          "location": 1059
+        },
+        {
+          "text": "repeats it again *uranium* one canada",
+          "location": 1086
+        }
+      ]
+    },
+    {
+      "id": "Tm8ZULL-zhk",
+      "segments": [
+        {
+          "text": "*uranium* one russian moles massive",
+          "location": 2133
+        }
+      ]
+    },
+    {
+      "id": "TXWLPzYNjgs",
+      "segments": [
+        {
+          "text": "supreme court *uranium* one fund supply",
+          "location": 800
+        }
+      ]
+    },
+    {
+      "id": "tYCL2clTy7k",
+      "segments": [
+        {
+          "text": "*uranium* one etc okay and everybody",
+          "location": 484
+        }
+      ]
+    },
+    {
+      "id": "U8-rksGOIKw",
+      "segments": [
+        {
+          "text": "used to cover up *uranium* one obscene and",
+          "location": 2736
+        }
+      ]
+    },
+    {
+      "id": "Uh397S0AxoM",
+      "segments": [
+        {
+          "text": "know just the one arrest in the *uranium*",
+          "location": 1374
+        }
+      ]
+    },
+    {
+      "id": "uoZG3XG7t0k",
+      "segments": [
+        {
+          "text": "black site the exchange *uranium* one risk",
+          "location": 63
+        },
+        {
+          "text": "*uranium* one donations to the clinton",
+          "location": 81
+        },
+        {
+          "text": "a *uranium* how did iran obtain *uranium* i",
+          "location": 500
+        },
+        {
+          "text": "clinton had in the in the *uranium* one",
+          "location": 2050
+        },
+        {
+          "text": "*uranium* one okay um i think there's more",
+          "location": 2055
+        }
+      ]
+    },
+    {
+      "id": "urKkOdgMzIs",
+      "segments": [
+        {
+          "text": "why is this important good think *uranium*",
+          "location": 1031
+        }
+      ]
+    },
+    {
+      "id": "Vz6_nf_Sav4",
+      "segments": [
+        {
+          "text": "players in the *uranium* scandal",
+          "location": 2184
+        }
+      ]
+    },
+    {
+      "id": "w8XTiVE3ej8",
+      "segments": [
+        {
+          "text": "*uranium* one fbi doj mueller election",
+          "location": 622
+        }
+      ]
+    },
+    {
+      "id": "WeQOS11pAuE",
+      "segments": [
+        {
+          "text": "*uranium* won and all those countries okay",
+          "location": 1422
+        },
+        {
+          "text": "remember what the during the *uranium* one",
+          "location": 1758
+        }
+      ]
+    },
+    {
+      "id": "wo825dKxQJc",
+      "segments": [
+        {
+          "text": "grand sample of *uranium* here's a rights",
+          "location": 2167
+        }
+      ]
+    },
+    {
+      "id": "XdfdQT3XSBg",
+      "segments": [
+        {
+          "text": "putin slash *uranium* one will come out",
+          "location": 467
+        },
+        {
+          "text": "did this in *uranium* one his wife was a",
+          "location": 1241
+        },
+        {
+          "text": "and bob were key players in *uranium*",
+          "location": 1746
+        }
+      ]
+    },
+    {
+      "id": "XEDGXGXKsPk",
+      "segments": [
+        {
+          "text": "working on the *uranium* one issues he was",
+          "location": 317
+        }
+      ]
+    },
+    {
+      "id": "y4AhWpuyomw",
+      "segments": [
+        {
+          "text": "about *uranium* one transaction and the",
+          "location": 269
+        },
+        {
+          "text": "of *uranium* one in three separate",
+          "location": 286
+        },
+        {
+          "text": "a majority stake in *uranium* one mrs.",
+          "location": 302
+        },
+        {
+          "text": "benefited directly from this *uranium* one",
+          "location": 329
+        },
+        {
+          "text": "benefited from *uranium* one would the way",
+          "location": 378
+        }
+      ]
+    },
+    {
+      "id": "yAXz6lYNxHE",
+      "segments": [
+        {
+          "text": "with *uranium* one he knows what happened",
+          "location": 1996
+        }
+      ]
+    },
+    {
+      "id": "YDZxU7hSkE8",
+      "segments": [
+        {
+          "text": "called *uranium* 1 wow we're gonna read",
+          "location": 234
+        },
+        {
+          "text": "raza tom and *uranium* one and yeah oh",
+          "location": 1629
+        },
+        {
+          "text": "that huber was looking into *uranium* one",
+          "location": 1633
+        },
+        {
+          "text": "*uranium* scandal don't you think potus",
+          "location": 1648
+        }
+      ]
+    },
+    {
+      "id": "YVTrXMak0UU",
+      "segments": [
+        {
+          "text": "at tom is connected to d to *uranium* one",
+          "location": 1130
+        },
+        {
+          "text": "let's go and look and see what *uranium*",
+          "location": 1137
+        },
+        {
+          "text": "alright so the *uranium* deal went through",
+          "location": 1143
+        },
+        {
+          "text": "*uranium* one but wait till you see this",
+          "location": 1146
+        },
+        {
+          "text": "here's the history of *uranium* one",
+          "location": 1154
+        },
+        {
+          "text": "*uranium* one is a global energy company",
+          "location": 1158
+        },
+        {
+          "text": "and one of the world's largest *uranium*",
+          "location": 1160
+        },
+        {
+          "text": "end elsewhere as a leading *uranium* one",
+          "location": 1168
+        },
+        {
+          "text": "producer *uranium* one is committed to the",
+          "location": 1171
+        },
+        {
+          "text": "okay well it's *uranium* one is a wholly",
+          "location": 1174
+        },
+        {
+          "text": "energy *uranium* one is responsible for",
+          "location": 1184
+        },
+        {
+          "text": "rows of times *uranium* production outside",
+          "location": 1186
+        },
+        {
+          "text": "know acquires this *uranium* one is formed",
+          "location": 1197
+        },
+        {
+          "text": "percent share in *uranium* one *uranium* one",
+          "location": 1209
+        },
+        {
+          "text": "*uranium* producer you can go and read",
+          "location": 1212
+        },
+        {
+          "text": "*uranium* one is owned by or has you know",
+          "location": 1218
+        },
+        {
+          "text": "know to russia so you so the *uranium* one",
+          "location": 1228
+        },
+        {
+          "text": "was sold through the company *uranium* one",
+          "location": 1230
+        },
+        {
+          "text": "*uranium* 1 are connected so that's what",
+          "location": 1269
+        }
+      ]
+    },
+    {
+      "id": "z2yDHKVsLqg",
+      "segments": [
+        {
+          "text": "the the yeah the *uranium* was sold to",
+          "location": 811
+        },
+        {
+          "text": "*uranium* and the basically the iranians",
+          "location": 822
+        },
+        {
+          "text": "tests on the *uranium* which would have",
+          "location": 830
+        }
+      ]
+    },
+    {
+      "id": "Z4i2A6q_4Rk",
+      "segments": [
+        {
+          "text": "epic times and and other the *uranium* one",
+          "location": 1625
+        },
+        {
+          "text": "lead straight to *uranium* one which leads",
+          "location": 1630
+        }
+      ]
+    },
+    {
+      "id": "zEBIukow088",
+      "segments": [
+        {
+          "text": "investigation into *uranium* one which was",
+          "location": 1702
+        },
+        {
+          "text": "of selling twenty percent of the *uranium*",
+          "location": 1721
+        },
+        {
+          "text": "time knew about the *uranium* one",
+          "location": 1737
+        },
+        {
+          "text": "relevant to the sale of *uranium* one or",
+          "location": 1769
+        },
+        {
+          "text": "about *uranium* one there have been",
+          "location": 1777
+        },
+        {
+          "text": "about *uranium* one the other thing is",
+          "location": 1810
+        },
+        {
+          "text": "it she could have stopped the *uranium*",
+          "location": 1831
+        }
+      ]
+    },
+    {
+      "id": "zlTIq16o_Jo",
+      "segments": [
+        {
+          "text": "pro read about *uranium* one hmm",
+          "location": 2274
+        },
+        {
+          "text": "*uranium* one russia if real target",
+          "location": 2287
+        },
+        {
+          "text": "further missile tests or *uranium*",
+          "location": 2419
+        },
+        {
+          "text": "to look into *uranium* 1 okay that's not",
+          "location": 2795
+        },
+        {
+          "text": "you know the *uranium* one people is",
+          "location": 2804
+        }
+      ]
+    },
+    {
+      "id": "zUCswDyNLsk",
+      "segments": [
+        {
+          "text": "*uranium* one should be coming out pretty",
+          "location": 290
+        },
+        {
+          "text": "insight into the *uranium* one deal and",
+          "location": 777
+        },
+        {
+          "text": "secretary clinton on *uranium* one before",
+          "location": 1335
+        },
+        {
+          "text": "*uranium* ones gonna come out and and i",
+          "location": 2589
+        },
+        {
+          "text": "insight into the *uranium* one deal",
+          "location": 2626
+        },
+        {
+          "text": "*uranium* one and if he's saying watch",
+          "location": 2637
+        },
+        {
+          "text": "mean could this be how *uranium* one gets",
+          "location": 2642
+        }
+      ]
+    },
+    {
+      "id": "ZzpP6lcBjsY",
+      "segments": [
+        {
+          "text": "foundation and *uranium* 1 to a government",
+          "location": 41
+        },
+        {
+          "text": "*uranium* 1 a document reviewed by the",
+          "location": 67
+        },
+        {
+          "text": "attached to *uranium* 1 the document",
+          "location": 87
+        },
+        {
+          "text": "and *uranium* one the whistleblowers",
+          "location": 111
+        }
+      ]
+    }
+  ]
+}

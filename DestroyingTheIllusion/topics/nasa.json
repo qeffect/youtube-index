@@ -1,0 +1,1734 @@
+{
+  "indexed": "__lGfKxA0WI,_-_MVJecq5I,_5WkbucPT4g,_ec7XMfirg4,_EqneJRgSe8,_idzf18MYXs,_Ne214s756k,_Ob8jo-qOCU,_q5-lvNqF8Y,_TPUfVabVHU,_tRUka84Q10,_UMxGoem_cE,_YS92pFld0Y,-_4Za6eoYwY,-0DjA_r32uQ,-3F6SZZIT-E,-5M7Y-zFyZ0,-9msE7-ydts,-Avsxw6BrhI,-b8zWS3tty4,-e5ABbWTn8M,-i-6mNaKI3I,-icWyKwjrY8,-kDAK81lyaY,-kYE2w6y-GA,-MYXqXNhcnc,-P8dkAqUKZY,-tSHN-cRXo0,-VRexocuLyU,-zsJy_pc_gQ,0-8SzdsEPn0,047r18PmzXg,06ZhNoUqwA4,0C27jD9e-j0,0ICCjllfcD0,0jspiMXND2A,0kkMEbbFd9M,0NUQEdAWVkQ,0q_eYZ-zjys,0SJGTnXKJLk,0th1OKXNQXY,0thRJXOyyOs,0VW3c_f1WOI,0Ytkx1pvnL8,1-v18VEV4Rg,18k-mw0lGZ0,1atlaAzWtj4,1FoSp-tBfp4,1Qa_cX1DPn8,1s9fsICUfOw,1WmbX3JQa0c,1ya6QF21RjE,1ZoQGfCIQP4,22knD94PYNw,23GkaHyU2R4,23Zi93zyS6U,24o5bLbjYh0,29VWyFZAo98,2J-isPoaOe8,2MEzlpSs3hI,2qRm-XvaYGk,2vQA-V9OnxY,2XVtrBvxoNQ,3_9MzitOhpg,3-sR3LmB0N0,305W5z9yzW0,32HzhZpqqHs,32nTGjvWF9c,34kHft924rA,3cgcmRKlIhU,3ciusVGxdno,3E_KWnG6gO8,3fi1bx4oWOE,3GvhthG2rXo,3iT9_AqKX2M,3mCWwiYSQsM,3n_fTHOHmP4,3VJvZsz9VQk,3Vpaplt92is,3WDtVeSSyrU,3WzJtUe634M,3XT99f5rZkY,3YdbQS2xw0E,40cx-g-mfDk,41qO6bukotY,4aR7zbZf3pE,4ATvSzS-TLU,4dX3v4Z4aec,4fS6egD9cSc,4mNbB0RTuoI,4MXimasATsA,4nk3rY194h8,4oXIn88QFbc,4qQd8Qu7aPM,4VCgU1v0c3I,56hnR-UeVbI,59IbF_o4Xxc,5flC3-UkdyU,5PhM32xlVEs,5RLxQOvZxXs,5St08kicLiU,5uzjLst8w68,5VFOltHRXbM,6_wyHLXHqx4,60xrsFvDYYk,6Ezxw-UNmQI,6foOgmaZN-s,6kESQU65fUA,6KttPC8JV3s,6o54Y7dhOus,6PsL7aVI12U,6sbgm3s49BM,6sC4YqrrbsQ,73cggmTCclY,7a8EAuTwhdU,7d3A9Wi1xu0,7drP1GmKuhA,7HQEEo9pTxI,7kzKO982UIQ,7OUm208GUDs,7UT-kOjOka4,80z15a0xsUQ,81p3jRVXGk4,8gkGfhtpurY,8pa8Er939dg,8QiuuwivwsM,8z6EDkIocXI,91aT7JIOIbY,9gYGBZ6wUIE,9hqxfV040oQ,9K-4Jc2l-7U,9lbn3bkROBc,9lgC6A9CGqY,9LwjAgU_2hc,9w_UO-KJccs,9xhpctWntoI,9YBPFZ6r5nY,9yIsVlJ2qAY,9zB7TNiGuDw,A4-cSwxHsV4,a4jwV9NnySU,A52PfmoHm8I,a67Ukzg63u8,A7HbMpBAg8c,A82praOPfpo,AaP-PP8-KGk,aAzQwARAo28,ABM5Oj2s6eI,aC12-gepI3U,aCfOGluhEKI,aDPMNOgOz4E,aDUDC92PxcU,AJ_U54u6gbE,ajiBcgtAY-w,aJWZ_APGg6A,AKPMK0xaRN0,AmbKxQ51VWc,aN9TllOemSA,ANDq9-ttO-w,Ao2abBxOiLY,AOParRtlvFQ,ApHsdbvYgFA,aqGYpuYdbOM,Ar3JvKPGr40,ARwagwGekv0,AuJjdL3A0Wc,AvcEuGghWQk,aWGr7i2-IYA,AwzaAL1pDXQ,aXwILTOVL0M,AyLUG-qQcCA,B5_naGkaBDg,B5MFHmezpn8,B5mo-Rnwm4s,bbAaX9B5ncY,bbpmtRc18WQ,BC_VRjt8gvw,BcZjAF2oFEE,Bd0NHLMVTAQ,BFuaMj35qAo,bG3PLtnHSuc,BGt8AVBwAQc,BLJVjp0lq4g,bmipWlYsyEM,bMWIDBnA6Z4,Bn2OlX_4C4Q,bNHR5T64ooQ,bNMvlOzCsZk,Bozlwr1uHco,BpeOtb7CWeE,bPVLncDuirE,BR9EIDuUBJQ,bTFNebYIotU,bYRSIwwnCFU,bzAYF7yEn7Y,bzCEAKmxlVs,C_h2RLZEGEk,c1C7epr44bw,c7Yfc_JZAaU,CCLJZ-bM01Q,CDZhS3BfdB0,CeXQ15A9BSA,CIkVvgIT6qs,cKGw_Hrtajc,cKObBT3BQ4A,CksmGxdCvPQ,cLcHOtY9fgk,coYoIINOWcQ,cpAeoTwKHlc,cpPgoi7zUjo,cu1homOW9CE,CunzrKChTpI,CX6apttsGjs,CxaPpbC3pgA,CXbRscylFsY,CYE1-7NSG2g,cyjt9Vm0imo,D-va4Jpkt38,D-y5ALLiCZ4,D3zc2JmlHK0,D4AkLrH0WtI,D8mzSBBfnNQ,D8RUia2q5wA,daON-Y2Ph5w,DCkhkkb2nqM,DdiM5lA-05c,ddZfJCoq65o,DeEBJcmrjAU,dh_NJhuVafY,dHHqYCCujKY,DiRI7rhc4qE,DJJw71TSho4,dJspwk8huY4,dKaqjJzl0vg,DksI8ZPmBNE,dlZUFvOqJeY,dNI6tUGGJNM,dONKuAjf26Q,dos0E9blpHw,DsDBNF7mhqk,DSqcbzBojYk,Du5Cit3oe6w,duZHG7VDNm4,DxGp_peYB_A,e6gS2_fX0oY,e6mIdK0LLWk,e8AyslO62b8,e8xXVMiChuQ,E9n2iFMyXjQ,EcbwKNO6TBI,eERaZvdF6Ms,ees6El-Jay0,ejBAqhxqAkQ,EK0R7sdxAFQ,ekJ4hKREY8U,eLy1XqX9IcU,En-VTreZMTs,F3oAIzyo0HQ,F4IPqNACpvI,FAhsY5AIWWY,FDEmEvwZtrM,fHohiZp5hGc,FJGnynqfiCQ,Fo9T0LNhNqQ,fOQPFgF5Etg,FPUae6qsjdw,FS65Eef4z7o,fSwdVMLq8zI,FuBVeoPBd0U,fWjIv0WgyqA,fWk2XKmiQOI,fXA4SlMx-Mg,Fz5fZ_7pia4,G2ZwwI5fN0E,g57p8aQQSbY,G5RiRuFIh8Y,g90iVaKS8Mc,gCaHEfyXkA0,gdEzIz7ievE,gDlgmkVKpy0,GDx66bXgYq4,GFEth1i97yY,gG4fzaWuo9w,GhikRA2no60,gJ7o1StrKv8,Gk2tr29fY6Q,gKGT2jlVrgI,gkMB1_gooM0,gkO-A-sYsH0,GmuQx9AiYD4,GN4nmRCU0AY,gojwzzPJQrg,GrWwOG5yFFM,GThX5ssVBn0,GUip6dZpKEs,gUkB5Kk4WAA,H1FABkrnIaE,h6koxkXAJLU,h6y5TxpDvbs,h9dW3QCrYso,hA31PrCznjw,Hb187lnYh0o,HgE2EqazY68,hhPRDd4gOEI,hIrbIOaAUxg,hKdsv2EbSSo,hl-FK4t_9lA,HLRFTyNBlFY,hLumnOkZynU,hLWMbjtpLn0,Hm1iTIa7rFk,hMhDNxC-EB4,HMpv5DpVVUY,hMQTN9L1dBE,Huj55Cm9qH8,hUouIgbrNZY,HWjAwmGq654,HxhtJ-1kd5k,hy9Uo864i5g,hZGSNKUFjQk,I2-S22FiEvg,I2t1cPgCvJo,I2zRq3kdLbk,I3pn7Xex-Ks,i3rp0Uim-0o,i4AnsQlVTvQ,I5h76-o1Kjw,i8VDK89xXzg,I8VIDULc_jQ,iAIDKPNVjzU,ifJ_GtRJ5qM,Ig7fshISKmk,igDMQaECoSw,IifnpOcm0b4,ik-J2hrNaWo,IKpl4TeHwPg,iOLlT7CbqKs,iPX6pJ1dD1s,IS-CvxLX47Y,IsG3gQIRxno,IsjWF9k7TZE,iTFkB2iXkgI,iTFXxHtlImY,iu9vMZwMqgI,IUcqrB04ZpE,IuIhXyjMG28,iUolMe2Bu-M,IuVzHVFtFIE,iwCYGrXqmqw,iwIfxOwYNOE,IwvvrAh-JyA,ixHuaqf211Y,iXPDVq2lGsc,j6boJmmzNcg,j9gG0WZWO2M,jaInrf7dB30,jal0jAoFV70,Jcekm05d-so,JD4r7qP0OLw,jEgmVdV6HBE,JeGwCPRojJo,jgHK6JZonJM,JLPKO3AKA14,JMN2uWdknac,jN-MkK8djcY,JNaC6eDgjAk,jnUZD1wnBn8,jR_FxV3DYyU,jS-yK_ueKZw,jSZnoRobYTE,JT-aith5f5E,JvaI4JCd5ig,jZ_tr0NnNjE,k2bZBA1A82U,k2MXyXKRlN0,K2TOaYHNhDs,K3kiPpMhKkQ,k3m1P3Vie6s,k55kWdrN8hw,k9LVltxQF2Y,kan3dn8Q8nA,KbWsgGeTrb0,KDVsepSqmys,KgYgMWFqbEc,kHxWvaMOwhM,Kl3MyuzCdRs,KM6DTC_i-8s,kNNz1UEwF-E,KpFP8X1JTiI,KPj--UF1T0k,kRGV4cIdWwM,KSP24qYeWgs,ku6qyUwUgWo,KVb-rUXG6h0,KW1hgV9CBqk,KXHpsXQV82g,KXW0hS3aOjA,L-4ADrZak_4,l0PDi1KDi1w,L1mLdTih8gg,L4Sa4dArQUE,L61XF64Ls8E,l9qBVI4SVP0,lb46GsmPTsI,ldX0CQ2UUfI,LFlKG-VVzMc,LInNbS1JErM,LiU5TfehWW8,lj8AH-4ajRw,LjzWwM9Y9zg,llnr6CG6lHM,Llr69yow55Y,llsND2qpTjM,lNKXqkyE2NQ,lOGKAbcAVzE,LQ4NioOxuGM,lUOYOF9DuSs,LwTvS9v15LE,LXCTMl_Jp9M,LygxI2VGhDU,m_PowDSDjEE,m1HAZ0ESYD0,M1ODHcuO0V0,m2kffLdykTs,m30mwu-9WW0,m3193w4W8Po,m5p9p9LBEpM,MATnFsqiC7Y,Mc5wHbV6irw,mCy59eLFjZg,McZuVVn7fEw,miQPk7qxSvs,Ml1Ys-sDe4o,mlmAUPNPev0,mLZkwKOueVI,mMVX1iGgRac,MO8yy324jyk,MpiqVbdFnlo,mPovmVmAgXs,MsBWU2CFf-U,MUyBpTbvDmw,N-BsO-mirZQ,N-Nsni2kalY,N0l4oFEKoCY,N37LrIj7a8E,N4MwW69zjdk,NbUtbE4Zpoc,Nett68JXMUk,NFBFDRSsaU0,nfDm-SuYSrQ,nhR65A2Cz1U,nJ5B8GnH3mE,NJf-Tr3BrqI,njWcrYwundg,NObMClb6nMY,noiATviQJ3Y,NoLKqBPGGLQ,nPRGWjUYGow,nPtPHMYmnsk,Nqbj_4nIAiA,NqL7EeYTd9s,NS200QxWq7g,nsUd370-n9Q,Nt4ug94a134,NVIEhqdvMCo,NVRVSzP0rFU,NVUbej8exEk,NY7B_THWsM8,Nzx4XSf_fAI,O_R4bM7ONJk,obm0AKIypPI,OCzJwGE7RTY,OdS-XmHla-U,OdXjpK_tLRg,OE_u4IbopVo,OGL_5cu0F-M,OgrLw9IX-Ns,ojYZBeCwYis,oK2ZWHTdbpA,ooHxX3whFXA,OOxgnEI8_NI,oReGR3Bjjmw,oSZzclsh00Y,otE6dhCgsJc,Oun53CRXyeI,OwECoLGRl68,oX7b3YzRNXk,ox9yzjeHt3s,ozbHMNhYe0A,oZz9CJ9K8MA,P0cawbGyBxM,p0Qy24DXfdY,P12Gc4WmCak,P3jy8S0P-2w,p6_gLv5qy8E,p6GmDJEkOQk,p6wFKOTyR60,P8xmUD4Gmrw,PA9MTquQya0,pAK-a8Op8KI,pauS_rhaYO0,PBiBq_DiHmo,pbjkl0DwxHs,Pg21pJPDzEU,phbygYipE-g,Pi8_BZtYNzQ,PkeO8SN0cN4,plJqp67-iX4,PNsZI-uZH7I,PsQlxu6iOzI,pt17lUpcskk,PtAxf8A1Zco,ptvgcLZ3HOw,PvWDJd2UYT8,pwM9WH8pqaY,PWMXacQWEjs,pyMrzxZBZZQ,pZ5q5wUI1-Y,pZhHd9KT2lk,q0IR8IqKZ18,Q1nmx353lDo,q2ItOTBF1ys,Q4MG607MDz4,q6hnQoB_BlI,q78RNxcI38U,q7I8sj_3rlM,q7prMUoyMEo,Q84zuHjjuww,Qa2bfVP6ChQ,qB9zc5VAanc,QC7qRbcWsN0,qcEDt4YOkS8,qCmySBiZXVA,qdwN5mt9V2c,qFumeKZX_MA,QJaNPlhmdSM,QK6Y2tnFIAw,qlFnlzOoFgo,qNurdjNB-rw,Qo2GL5T8T_E,Qq339b2xOrY,qRKU3XXIwlI,qSFeOuQEXXw,QSMC7VnqOnQ,QtYci9jXct4,QuVpIqeSRnU,qwbX5au3Iuw,qWhpDyoLyR8,qX2Z7mLBM1k,qZMy5wog24o,qZZGyHrnsQM,R_iWc7_vQ14,r-vKLD9F61M,R1g3eyyM590,r1IYwxp0NNs,r1pXJkMaAmc,RCPgq96ku4k,rdE4NEIZACI,REcAj2PLMu4,RenafscRgUY,RgdXwexLI_Y,RGFh5qOWU3U,RLczNzWBbpE,RmZj7uATNFM,rqks6sKCmDc,Rt85IKjQ9hs,rUpElK5Qw3E,rVrthFN9dnI,rX0dkfDOO1s,rxMOShu0yQk,RZf9IVaRgdo,S2U7ncJQ000,S4mKQajGJl4,s6H86oQEC2I,SaR5pCeCjao,SAwrlpHFmOc,sBy_LmO3b7k,SePTbZOh8iE,sHUgXraPhAc,siBW29AUMrw,skkII0awwFM,sKMZRv9JY_A,sLv3F7kLpB4,SovJjIjmI6M,sR5B-vb3Fi0,svK1ajIeprU,svwSKZ926yY,SvyN0PlWwkM,swc_HIr-8WA,Sx3ElJlX7wQ,SxPNu1XMYKA,sxWWB5aKNk8,T_mJ1awyakY,T3TRP5tX3T0,T5IM3P9Md-4,t6dwa21eo_M,TCtPeZP1H0g,td8PwMAtpQI,TdNo4qfgAb4,TeFw8eqcLco,tfW6YjVSx0U,Tg0_AZbm71E,TgzkblYi9pg,THy-FwvnIqQ,tJjx9eVGzSY,tK7YaJnYETw,TKK1o-pPPkQ,tkLyxIo8Cqo,tkm-n8lbhLg,TKOI_wF6Rn0,Tr5IR4SqKcA,TsjX9SPfvSA,Tus8Yc2qNXc,TX1rZO2bLJ8,u_apd9SGqLc,U1GOoEoYLy8,u1gZGn0l8y4,u3TgwapRzSA,u9zCkZgwoik,UA8VNiOraJI,uaXp0CBucos,uJn58OP3GEI,uJYAdCT7xFA,uKCq7HfZh9A,UKfHVu47LXo,Up-MRtsG4Tw,UpaXSxM07to,urRt-Yju_SU,UrzdhfUMR6k,UsuA0HSRXzo,UuJpA7lXi7g,uUsLnKlWMkU,UVea--jSv1A,uvYdZu80X9Y,uWFJruvCPhc,UwVr2kwMjI0,uxDmAVpZ91Q,V-8xYjEosOY,V4OPmN3e8F8,V59pKIXUQuM,v5G6fZkyhXg,v6JLwp0aFpc,Vafm-ZaLAyI,vafXYoDY5dw,vcqHF8DDsNk,VfelKh4yN9g,vInE2aOTFdw,ViODeAbI2IQ,vK3bX5D1ysc,VKhRSDIFJK0,vL7VfteARhQ,vLnzuy_aeGQ,VLxlCXAuo08,VtMhFvMTyHQ,VVsAZ0AGHeo,vZDynmvvgWg,w_A3W-OJyNw,W0APO4axfn4,w0OSb7FbXas,W7UmZWUWBMQ,WB_PkYN9MFI,wCcjEszzrTI,wdwWgzAq48E,wdXHxEEAvps,wg5sukd6E6Q,WHSd5tVWq1I,wjeEg2yoJbM,WKfsgQLVsHk,WlZQhQXwYTI,WmhFYQnlKB4,wNgdMwL7isA,WOmDWYRAtiA,WsnaqvLhEUk,wu0Utsff6Jo,WvCBdE6rolk,WwBj0YnLtX0,x1EXDDlmrVU,x1UII7bCsvQ,x27EZLRmoAU,x4XfpmZxDq0,Xe8yEypTfNA,XfNnvWPlprc,Xg7s8fovfh8,xKxi0Bbl_Fs,Xl5iO-2wzq0,xLDnc1Vm99w,XMo_G2k5Wso,XobWx6C6lJs,xQVu3ywd2RU,XRABi40G2T4,xS-hT1sfvfs,Xtk7ntK7k14,xU1ilgRmqsk,xUDwyRTojUM,xXRUfka1XFM,Y31yR524zWU,y3LgzaKBw2w,y3OVColWu-g,Y8DPHUnnvXU,YaMWl4cmqkw,yb_kKBcdsRc,ybgD2ibYB0o,YDS7nKcT3rk,yEf7XF-JNy4,yf8ObyPk568,yFQEK_KaTMA,yIh9oqXg4JU,YiLWFF__qiM,YIPBQ3O8Wr0,yK2UAmF7gYA,ym22gqkQmUA,ymm3YfCfVUs,yOGL3BrXZlA,YpPXlDhdkOg,YSc4GkdMm-E,ysHQziNaMOo,ySHvJqNfN7I,ySSnEYdnsEM,ytA3-R4Fi4M,yu7cOa_9gN0,yVjAH8Wg-hk,ywKQGnLaYdk,Z_nveKGRnsI,Z5o33xspXi4,z5obz0z7rdo,z7s8UaWeshs,Z8oojkEH6Eo,z9GTRwjpZLo,zBBzw6WImlY,zCKlkgpTrXo,zdehlx8vy4U,zffLUSbaqlw,zGk_J9B9MDw,zgK4F6NW32s,ZgOL1h0-8Ok,ZGsWdjqtO-w,zgU0j8HGfX4,zIU-AuvMwqU,zjqEsdevnaU,zKar6awuy2Q,zoQmiHuW8nc,ZpqZoQBWXVo,ZpXeRJcgZlU,ZqMTDLT6akA,ZRISi-Y-X3s,ZseKL2q2S-E,zUxgy98UTp4,zw8yzCjmYcI,zziC-o5xumc,ZZTz8nYZ6vA,hj7ubtDDtik",
+  "topic": "Nasa",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "-3F6SZZIT-E",
+      "segments": [
+        {
+          "text": "*nasa* was a guy named verner von braun",
+          "location": 1527
+        }
+      ]
+    },
+    {
+      "id": "-b8zWS3tty4",
+      "segments": [
+        {
+          "text": "covertly operating behind *nasa* or the",
+          "location": 170
+        }
+      ]
+    },
+    {
+      "id": "-i-6mNaKI3I",
+      "segments": [
+        {
+          "text": "on that same topic let's talk about *nasa*",
+          "location": 822
+        }
+      ]
+    },
+    {
+      "id": "-P8dkAqUKZY",
+      "segments": [
+        {
+          "text": "extraterrestrial life and *nasa* and the",
+          "location": 1436
+        },
+        {
+          "text": "russian billionaire not *nasa* man cover",
+          "location": 1454
+        },
+        {
+          "text": "smokescreen for the truth and *nasa* you",
+          "location": 1653
+        }
+      ]
+    },
+    {
+      "id": "047r18PmzXg",
+      "segments": [
+        {
+          "text": "discovery in six years *nasa* mission a",
+          "location": 750
+        }
+      ]
+    },
+    {
+      "id": "0C27jD9e-j0",
+      "segments": [
+        {
+          "text": "*nasa* moon landing it went down and he",
+          "location": 919
+        },
+        {
+          "text": "was *nasa* for decades and then more",
+          "location": 1014
+        }
+      ]
+    },
+    {
+      "id": "0ICCjllfcD0",
+      "segments": [
+        {
+          "text": "administration we were restoring *nasa* to",
+          "location": 674
+        }
+      ]
+    },
+    {
+      "id": "0th1OKXNQXY",
+      "segments": [
+        {
+          "text": "what we're gonna get from *nasa*",
+          "location": 807
+        },
+        {
+          "text": "you know *nasa* has always been used as",
+          "location": 810
+        },
+        {
+          "text": "speaking of that one weird asteroid *nasa*",
+          "location": 820
+        },
+        {
+          "text": "many of them were filled into *nasa* huh",
+          "location": 867
+        },
+        {
+          "text": "ago that *nasa* posted a video on their",
+          "location": 919
+        }
+      ]
+    },
+    {
+      "id": "1Qa_cX1DPn8",
+      "segments": [
+        {
+          "text": "didn't say the *nasa* moon landings are",
+          "location": 1069
+        },
+        {
+          "text": "*nasa* outside of spacex and funny enough",
+          "location": 1088
+        }
+      ]
+    },
+    {
+      "id": "23Zi93zyS6U",
+      "segments": [
+        {
+          "text": "about *nasa* a lot of this is gonna be",
+          "location": 298
+        },
+        {
+          "text": "about space so shifting over to *nasa*",
+          "location": 300
+        },
+        {
+          "text": "notes on *nasa* and one of those notes is",
+          "location": 314
+        },
+        {
+          "text": "fact that *nasa* is the public front to",
+          "location": 323
+        },
+        {
+          "text": "*nasa* recently and that's the fact that",
+          "location": 345
+        },
+        {
+          "text": "just because *nasa* is a smokescreen and",
+          "location": 348
+        },
+        {
+          "text": "*nasa* has ever put out is bad information",
+          "location": 357
+        },
+        {
+          "text": "is untrue okay *nasa* puts out a lot of",
+          "location": 373
+        }
+      ]
+    },
+    {
+      "id": "3E_KWnG6gO8",
+      "segments": [
+        {
+          "text": "from *nasa* so am i gonna trust what comes",
+          "location": 946
+        }
+      ]
+    },
+    {
+      "id": "3fi1bx4oWOE",
+      "segments": [
+        {
+          "text": "stated why *nasa* is exploring alien",
+          "location": 20
+        },
+        {
+          "text": "following a *nasa* jpl doctoral student",
+          "location": 25
+        },
+        {
+          "text": "contrast to *nasa* studies that cnn",
+          "location": 136
+        },
+        {
+          "text": "*nasa* is holding a press conference in",
+          "location": 293
+        }
+      ]
+    },
+    {
+      "id": "3n_fTHOHmP4",
+      "segments": [
+        {
+          "text": "even a *nasa* scientist himself i forget",
+          "location": 189
+        },
+        {
+          "text": "*nasa* scientists it's also been called",
+          "location": 223
+        },
+        {
+          "text": "people existed and then we have *nasa*",
+          "location": 319
+        },
+        {
+          "text": "a *nasa* article or an article that",
+          "location": 327
+        },
+        {
+          "text": "circulated around says *nasa* is on the",
+          "location": 331
+        },
+        {
+          "text": "been told that *nasa* is on the cusp of",
+          "location": 340
+        }
+      ]
+    },
+    {
+      "id": "3WDtVeSSyrU",
+      "segments": [
+        {
+          "text": "this is way way before *nasa* even existed",
+          "location": 490
+        },
+        {
+          "text": "in sight in four years before *nasa* even",
+          "location": 2866
+        }
+      ]
+    },
+    {
+      "id": "4ATvSzS-TLU",
+      "segments": [
+        {
+          "text": "these nazis went into *nasa* and",
+          "location": 579
+        }
+      ]
+    },
+    {
+      "id": "4mNbB0RTuoI",
+      "segments": [
+        {
+          "text": "know has a bunch of *nasa* physicists and",
+          "location": 1492
+        }
+      ]
+    },
+    {
+      "id": "59IbF_o4Xxc",
+      "segments": [
+        {
+          "text": "know typical mainstream bs *nasa*",
+          "location": 904
+        },
+        {
+          "text": "when i see articles like this about *nasa*",
+          "location": 949
+        }
+      ]
+    },
+    {
+      "id": "5flC3-UkdyU",
+      "segments": [
+        {
+          "text": "reason *nasa* and the government is really",
+          "location": 596
+        }
+      ]
+    },
+    {
+      "id": "5St08kicLiU",
+      "segments": [
+        {
+          "text": "also had gary mckinnon hacked some *nasa*",
+          "location": 217
+        }
+      ]
+    },
+    {
+      "id": "6o54Y7dhOus",
+      "segments": [
+        {
+          "text": "things *nasa* well but they also went into",
+          "location": 740
+        }
+      ]
+    },
+    {
+      "id": "7drP1GmKuhA",
+      "segments": [
+        {
+          "text": "fake everything we hear from *nasa* is a",
+          "location": 1974
+        },
+        {
+          "text": "thing we hear from *nasa* is gonna be a",
+          "location": 1979
+        },
+        {
+          "text": "get from *nasa* or other sources right so",
+          "location": 1995
+        }
+      ]
+    },
+    {
+      "id": "8z6EDkIocXI",
+      "segments": [
+        {
+          "text": "*nasa* saying a new comet is likely an",
+          "location": 2290
+        }
+      ]
+    },
+    {
+      "id": "9yIsVlJ2qAY",
+      "segments": [
+        {
+          "text": "on *nasa* never a straight answer right",
+          "location": 2467
+        },
+        {
+          "text": "and how he hacked *nasa* computers back in",
+          "location": 2475
+        },
+        {
+          "text": "there you go that's what i think of *nasa*",
+          "location": 2497
+        }
+      ]
+    },
+    {
+      "id": "a67Ukzg63u8",
+      "segments": [
+        {
+          "text": "initial reaction of *nasa* and most",
+          "location": 500
+        },
+        {
+          "text": "probes that *nasa* would eventually send",
+          "location": 531
+        },
+        {
+          "text": "now *nasa* basically said that it was no",
+          "location": 552
+        }
+      ]
+    },
+    {
+      "id": "aAzQwARAo28",
+      "segments": [
+        {
+          "text": "rapidly melted from below says *nasa* *nasa*",
+          "location": 589
+        },
+        {
+          "text": "right never a straight answer *nasa* and",
+          "location": 594
+        }
+      ]
+    },
+    {
+      "id": "aCfOGluhEKI",
+      "segments": [
+        {
+          "text": "community the media especially in *nasa*",
+          "location": 267
+        }
+      ]
+    },
+    {
+      "id": "ajiBcgtAY-w",
+      "segments": [
+        {
+          "text": "smokescreen organizations like *nasa* and",
+          "location": 1455
+        }
+      ]
+    },
+    {
+      "id": "B5MFHmezpn8",
+      "segments": [
+        {
+          "text": "*nasa* satellite imagery every day from",
+          "location": 1058
+        },
+        {
+          "text": "hand somebody data with *nasa* images",
+          "location": 1690
+        }
+      ]
+    },
+    {
+      "id": "bbAaX9B5ncY",
+      "segments": [
+        {
+          "text": "programs way outside of *nasa* but",
+          "location": 732
+        },
+        {
+          "text": "totally trolling *nasa* with space force",
+          "location": 793
+        },
+        {
+          "text": "earth is flat *nasa* lies oh my god and",
+          "location": 1167
+        },
+        {
+          "text": "blah blah blah *nasa* team hire mean calls",
+          "location": 1838
+        }
+      ]
+    },
+    {
+      "id": "BcZjAF2oFEE",
+      "segments": [
+        {
+          "text": "vice-president pence giving *nasa* five",
+          "location": 779
+        },
+        {
+          "text": "decades secretly *nasa* might claim it",
+          "location": 785
+        }
+      ]
+    },
+    {
+      "id": "coYoIINOWcQ",
+      "segments": [
+        {
+          "text": "mmm-hmm stop shilling for *nasa* how am i",
+          "location": 957
+        }
+      ]
+    },
+    {
+      "id": "cpPgoi7zUjo",
+      "segments": [
+        {
+          "text": "ex *nasa* contractor is facing federal",
+          "location": 845
+        }
+      ]
+    },
+    {
+      "id": "D-va4Jpkt38",
+      "segments": [
+        {
+          "text": "okay *nasa* and again smokescreen",
+          "location": 1087
+        },
+        {
+          "text": "organization with *nasa* very little",
+          "location": 1090
+        },
+        {
+          "text": "information *nasa* doesn't say et cover-up",
+          "location": 1100
+        },
+        {
+          "text": "don't talk about so why is *nasa* trying",
+          "location": 1105
+        },
+        {
+          "text": "that cern cern is much like *nasa* in my",
+          "location": 1451
+        }
+      ]
+    },
+    {
+      "id": "daON-Y2Ph5w",
+      "segments": [
+        {
+          "text": "administrator of *nasa* is not happy about",
+          "location": 358
+        },
+        {
+          "text": "to *nasa* when it said do not touch right",
+          "location": 477
+        },
+        {
+          "text": "maybe this whole air force and *nasa*",
+          "location": 480
+        }
+      ]
+    },
+    {
+      "id": "DCkhkkb2nqM",
+      "segments": [
+        {
+          "text": "right not only that we had *nasa*",
+          "location": 1528
+        }
+      ]
+    },
+    {
+      "id": "DiRI7rhc4qE",
+      "segments": [
+        {
+          "text": "we had anonymous recently say that *nasa*",
+          "location": 85
+        },
+        {
+          "text": "this *nasa* announcement with this space",
+          "location": 148
+        }
+      ]
+    },
+    {
+      "id": "dONKuAjf26Q",
+      "segments": [
+        {
+          "text": "former *nasa* librarian and then some like",
+          "location": 273
+        }
+      ]
+    },
+    {
+      "id": "DSqcbzBojYk",
+      "segments": [
+        {
+          "text": "*nasa* launches satellite tests in hunt",
+          "location": 809
+        }
+      ]
+    },
+    {
+      "id": "Du5Cit3oe6w",
+      "segments": [
+        {
+          "text": "the moon but i don't think what *nasa* was",
+          "location": 826
+        },
+        {
+          "text": "telling us about those *nasa* missions are",
+          "location": 829
+        },
+        {
+          "text": "things they did not expect and that *nasa*",
+          "location": 841
+        }
+      ]
+    },
+    {
+      "id": "En-VTreZMTs",
+      "segments": [
+        {
+          "text": "that *nasa* there's been a lot of articles",
+          "location": 503
+        },
+        {
+          "text": "running around the internet where *nasa*",
+          "location": 506
+        },
+        {
+          "text": "effect but again look at *nasa*",
+          "location": 514
+        },
+        {
+          "text": "*nasa* is never a straight answer their",
+          "location": 516
+        },
+        {
+          "text": "unlearn then relearn but *nasa* trying to",
+          "location": 569
+        }
+      ]
+    },
+    {
+      "id": "F3oAIzyo0HQ",
+      "segments": [
+        {
+          "text": "head of *nasa* and it says subject",
+          "location": 497
+        },
+        {
+          "text": "write get *nasa* to work with the russians",
+          "location": 523
+        },
+        {
+          "text": "which was the head of *nasa* in that",
+          "location": 548
+        },
+        {
+          "text": "*nasa* where unknowns are a factor that's",
+          "location": 572
+        },
+        {
+          "text": "he wanted the head of *nasa* to get in on",
+          "location": 618
+        }
+      ]
+    },
+    {
+      "id": "FPUae6qsjdw",
+      "segments": [
+        {
+          "text": "april 11th and i just got wind that *nasa*",
+          "location": 12
+        },
+        {
+          "text": "right *nasa* is finally giving us a little",
+          "location": 34
+        },
+        {
+          "text": "told us *nasa* never a straight answer and",
+          "location": 44
+        },
+        {
+          "text": "straight-up leave *nasa* behind because",
+          "location": 56
+        },
+        {
+          "text": "what *nasa* has to say we can search for",
+          "location": 76
+        }
+      ]
+    },
+    {
+      "id": "g57p8aQQSbY",
+      "segments": [
+        {
+          "text": "gosh you know how *nasa* rate or *nasa*",
+          "location": 574
+        }
+      ]
+    },
+    {
+      "id": "GFEth1i97yY",
+      "segments": [
+        {
+          "text": "claims you're just a *nasa* schiller",
+          "location": 911
+        }
+      ]
+    },
+    {
+      "id": "GrWwOG5yFFM",
+      "segments": [
+        {
+          "text": "*nasa* might not have the technology that",
+          "location": 1479
+        },
+        {
+          "text": "are outside way outside of *nasa* and",
+          "location": 1488
+        }
+      ]
+    },
+    {
+      "id": "GUip6dZpKEs",
+      "segments": [
+        {
+          "text": "was actually a *nasa* scientist he called",
+          "location": 906
+        },
+        {
+          "text": "skipped right over *nasa* here",
+          "location": 1133
+        },
+        {
+          "text": "*nasa* was saying that mankind is about to",
+          "location": 1135
+        },
+        {
+          "text": "actual like administrator of *nasa* was",
+          "location": 1139
+        },
+        {
+          "text": "*nasa* right never a straight answer *nasa*",
+          "location": 1178
+        }
+      ]
+    },
+    {
+      "id": "h6y5TxpDvbs",
+      "segments": [
+        {
+          "text": "as there's a scientist from *nasa* is",
+          "location": 1009
+        },
+        {
+          "text": "of freaking sense because when *nasa* gets",
+          "location": 1053
+        }
+      ]
+    },
+    {
+      "id": "hLumnOkZynU",
+      "segments": [
+        {
+          "text": "like *nasa* much like many other",
+          "location": 1211
+        }
+      ]
+    },
+    {
+      "id": "Hm1iTIa7rFk",
+      "segments": [
+        {
+          "text": "first premise *nasa* or the deep state",
+          "location": 161
+        },
+        {
+          "text": "well not necessarily *nasa* or the deep",
+          "location": 181
+        },
+        {
+          "text": "granted yes absolutely *nasa* is a total",
+          "location": 187
+        },
+        {
+          "text": "made or operated by *nasa* whether it's",
+          "location": 236
+        },
+        {
+          "text": "yes *nasa* is a total smokescreen for a",
+          "location": 295
+        },
+        {
+          "text": "*nasa* but i think that's a topic for",
+          "location": 309
+        }
+      ]
+    },
+    {
+      "id": "hUouIgbrNZY",
+      "segments": [
+        {
+          "text": "lives over in the uk he hacked *nasa*",
+          "location": 1126
+        }
+      ]
+    },
+    {
+      "id": "I8VIDULc_jQ",
+      "segments": [
+        {
+          "text": "*nasa* faked the moon landings have we",
+          "location": 1233
+        },
+        {
+          "text": "little thing that *nasa* touches or has",
+          "location": 1290
+        },
+        {
+          "text": "really did find on the moon the *nasa*",
+          "location": 1330
+        }
+      ]
+    },
+    {
+      "id": "iPX6pJ1dD1s",
+      "segments": [
+        {
+          "text": "day i type in space space force *nasa*",
+          "location": 1839
+        }
+      ]
+    },
+    {
+      "id": "IsG3gQIRxno",
+      "segments": [
+        {
+          "text": "bob wood he used to work for *nasa* and",
+          "location": 153
+        }
+      ]
+    },
+    {
+      "id": "IwvvrAh-JyA",
+      "segments": [
+        {
+          "text": "anything *nasa* has out of the water you",
+          "location": 4
+        },
+        {
+          "text": "know what they call *nasa* right never a",
+          "location": 7
+        },
+        {
+          "text": "actually hacked into *nasa* computers and",
+          "location": 170
+        },
+        {
+          "text": "evidence of *nasa* airbrushing ufos out of",
+          "location": 181
+        }
+      ]
+    },
+    {
+      "id": "j6boJmmzNcg",
+      "segments": [
+        {
+          "text": "national space day *nasa* successfully",
+          "location": 930
+        },
+        {
+          "text": "according to *nasa* is gonna have to come",
+          "location": 948
+        },
+        {
+          "text": "anytime i see something from *nasa* i just",
+          "location": 952
+        },
+        {
+          "text": "*nasa* is a total smokescreen total front",
+          "location": 958
+        },
+        {
+          "text": "*nasa* never a straight answer and it's",
+          "location": 1003
+        },
+        {
+          "text": "*nasa* symbol that's like a common",
+          "location": 1008
+        },
+        {
+          "text": "wearing *nasa* shirts so i have a it's",
+          "location": 1013
+        },
+        {
+          "text": "*nasa* does not unfortunately give us the",
+          "location": 1021
+        },
+        {
+          "text": "*nasa* you know very smart individuals",
+          "location": 1026
+        }
+      ]
+    },
+    {
+      "id": "JD4r7qP0OLw",
+      "segments": [
+        {
+          "text": "spacecraft that we just *nasa* didn't tell",
+          "location": 42
+        },
+        {
+          "text": "understand that *nasa* sucks and there's",
+          "location": 1213
+        },
+        {
+          "text": "*nasa* write a lot of stuff they don't",
+          "location": 1218
+        }
+      ]
+    },
+    {
+      "id": "jEgmVdV6HBE",
+      "segments": [
+        {
+          "text": "reports by *nasa* it was even on cnn that",
+          "location": 256
+        }
+      ]
+    },
+    {
+      "id": "k3m1P3Vie6s",
+      "segments": [
+        {
+          "text": "that *nasa* is about to disclose alien",
+          "location": 509
+        },
+        {
+          "text": "out saying that *nasa* could disclose",
+          "location": 539
+        }
+      ]
+    },
+    {
+      "id": "k9LVltxQF2Y",
+      "segments": [
+        {
+          "text": "discuss with you guys here *nasa* i always",
+          "location": 600
+        },
+        {
+          "text": "you know me so the *nasa* chief wants to",
+          "location": 604
+        },
+        {
+          "text": "and not only do we have the *nasa* chief",
+          "location": 610
+        },
+        {
+          "text": "some things about *nasa* yesterday saying",
+          "location": 618
+        },
+        {
+          "text": "know what i'm gonna say here *nasa* never",
+          "location": 633
+        },
+        {
+          "text": "a straight answer you know ok *nasa* chief",
+          "location": 635
+        },
+        {
+          "text": "*nasa* using rocket fuel to send",
+          "location": 665
+        }
+      ]
+    },
+    {
+      "id": "kan3dn8Q8nA",
+      "segments": [
+        {
+          "text": "picture that *nasa* announcement that",
+          "location": 254
+        },
+        {
+          "text": "media and discuss that a *nasa* dump again",
+          "location": 294
+        }
+      ]
+    },
+    {
+      "id": "KgYgMWFqbEc",
+      "segments": [
+        {
+          "text": "after *nasa* had their stupid-ass press",
+          "location": 225
+        },
+        {
+          "text": "never a straight answer that's *nasa*",
+          "location": 230
+        },
+        {
+          "text": "bullshit *nasa* filled with nazi",
+          "location": 240
+        },
+        {
+          "text": "in the *nasa* scientists were actually on",
+          "location": 252
+        },
+        {
+          "text": "*nasa* deleted the question and",
+          "location": 277
+        }
+      ]
+    },
+    {
+      "id": "kHxWvaMOwhM",
+      "segments": [
+        {
+          "text": "structures being scrubbed out of *nasa*",
+          "location": 168
+        }
+      ]
+    },
+    {
+      "id": "LXCTMl_Jp9M",
+      "segments": [
+        {
+          "text": "or remember *nasa* getting a photograph of",
+          "location": 2185
+        }
+      ]
+    },
+    {
+      "id": "Ml1Ys-sDe4o",
+      "segments": [
+        {
+          "text": "*nasa* or noaa noaa the national ocean and",
+          "location": 1000
+        },
+        {
+          "text": "brian o'leary who is a former *nasa*",
+          "location": 1337
+        }
+      ]
+    },
+    {
+      "id": "N37LrIj7a8E",
+      "segments": [
+        {
+          "text": "worked on *nasa* projects and all these",
+          "location": 1754
+        }
+      ]
+    },
+    {
+      "id": "NqL7EeYTd9s",
+      "segments": [
+        {
+          "text": "cigar-shaped asteroid that *nasa* found in",
+          "location": 29
+        }
+      ]
+    },
+    {
+      "id": "nsUd370-n9Q",
+      "segments": [
+        {
+          "text": "hacked *nasa* computers and found this in",
+          "location": 609
+        }
+      ]
+    },
+    {
+      "id": "Nt4ug94a134",
+      "segments": [
+        {
+          "text": "month ago when *nasa* had their last press",
+          "location": 21
+        },
+        {
+          "text": "this new press conference that *nasa* just",
+          "location": 133
+        },
+        {
+          "text": "*nasa* they're gonna tell us there's",
+          "location": 168
+        },
+        {
+          "text": "with this new *nasa* discovery because",
+          "location": 345
+        },
+        {
+          "text": "*nasa* of course it's their front",
+          "location": 347
+        },
+        {
+          "text": "space program and a lot of what *nasa* is",
+          "location": 388
+        }
+      ]
+    },
+    {
+      "id": "NVRVSzP0rFU",
+      "segments": [
+        {
+          "text": "smokescreen as *nasa* is right we don't",
+          "location": 765
+        }
+      ]
+    },
+    {
+      "id": "Nzx4XSf_fAI",
+      "segments": [
+        {
+          "text": "was by about *nasa* and it says a *nasa*",
+          "location": 293
+        },
+        {
+          "text": "help them mine the moon and it says *nasa*",
+          "location": 299
+        }
+      ]
+    },
+    {
+      "id": "ooHxX3whFXA",
+      "segments": [
+        {
+          "text": "with an announcement tomorrow by *nasa* of",
+          "location": 1422
+        }
+      ]
+    },
+    {
+      "id": "oSZzclsh00Y",
+      "segments": [
+        {
+          "text": "outside anything *nasa* has ever claimed",
+          "location": 371
+        }
+      ]
+    },
+    {
+      "id": "OwECoLGRl68",
+      "segments": [
+        {
+          "text": "that *nasa* has a job opening for someone",
+          "location": 543
+        },
+        {
+          "text": "and this wording *nasa* has a job opening",
+          "location": 579
+        },
+        {
+          "text": "there's a officer that *nasa* hires to",
+          "location": 592
+        },
+        {
+          "text": "cooper another *nasa* astronaut who is on",
+          "location": 829
+        },
+        {
+          "text": "about dr. brian o'leary another *nasa*",
+          "location": 850
+        }
+      ]
+    },
+    {
+      "id": "ozbHMNhYe0A",
+      "segments": [
+        {
+          "text": "some interesting glowing *nasa* clouds in",
+          "location": 1640
+        },
+        {
+          "text": "it was about a *nasa* spacecraft detecting",
+          "location": 1716
+        }
+      ]
+    },
+    {
+      "id": "p0Qy24DXfdY",
+      "segments": [
+        {
+          "text": "favorite shitty news outlets about *nasa*",
+          "location": 548
+        }
+      ]
+    },
+    {
+      "id": "p6wFKOTyR60",
+      "segments": [
+        {
+          "text": "we're looking at it now it's a *nasa*",
+          "location": 1063
+        }
+      ]
+    },
+    {
+      "id": "P8xmUD4Gmrw",
+      "segments": [
+        {
+          "text": "and programs outside of *nasa* outside of",
+          "location": 133
+        }
+      ]
+    },
+    {
+      "id": "pAK-a8Op8KI",
+      "segments": [
+        {
+          "text": "disinformation in psyops *nasa* has always",
+          "location": 1550
+        }
+      ]
+    },
+    {
+      "id": "PBiBq_DiHmo",
+      "segments": [
+        {
+          "text": "then we'll also discuss space space *nasa*",
+          "location": 100
+        },
+        {
+          "text": "saying that every *nasa* mission should be",
+          "location": 1154
+        },
+        {
+          "text": "let's piece it together wow every *nasa*",
+          "location": 1178
+        },
+        {
+          "text": "telescope *nasa* is finding more fast",
+          "location": 1185
+        }
+      ]
+    },
+    {
+      "id": "PNsZI-uZH7I",
+      "segments": [
+        {
+          "text": "into us military and *nasa* government",
+          "location": 196
+        },
+        {
+          "text": "computer and *nasa* computers in 2000 and",
+          "location": 199
+        }
+      ]
+    },
+    {
+      "id": "PWMXacQWEjs",
+      "segments": [
+        {
+          "text": "scientific data from *nasa* itself states",
+          "location": 5
+        }
+      ]
+    },
+    {
+      "id": "pyMrzxZBZZQ",
+      "segments": [
+        {
+          "text": "hmm *nasa* here's a comment *nasa* is the",
+          "location": 1346
+        },
+        {
+          "text": "sky comment is referring to *nasa* a large",
+          "location": 1363
+        },
+        {
+          "text": "information about *nasa* being used",
+          "location": 1370
+        }
+      ]
+    },
+    {
+      "id": "qB9zc5VAanc",
+      "segments": [
+        {
+          "text": "days ago and that was *nasa* to create",
+          "location": 463
+        },
+        {
+          "text": "where we heard those terms before *nasa*",
+          "location": 495
+        },
+        {
+          "text": "here it is boom right there *nasa*",
+          "location": 522
+        },
+        {
+          "text": "*nasa* because",
+          "location": 531
+        },
+        {
+          "text": "they suck *nasa* can't explain what made",
+          "location": 534
+        },
+        {
+          "text": "mars and again *nasa* never a straight",
+          "location": 573
+        }
+      ]
+    },
+    {
+      "id": "qlFnlzOoFgo",
+      "segments": [
+        {
+          "text": "an astronaut and iss spark claim *nasa* is",
+          "location": 1162
+        },
+        {
+          "text": "hiding evidence of ets of course *nasa*",
+          "location": 1165
+        },
+        {
+          "text": "underground this was on *nasa* again never",
+          "location": 1316
+        },
+        {
+          "text": "on their logo a new *nasa* study adds",
+          "location": 1322
+        }
+      ]
+    },
+    {
+      "id": "Qo2GL5T8T_E",
+      "segments": [
+        {
+          "text": "discussing *nasa* and a spokesperson from",
+          "location": 23
+        },
+        {
+          "text": "*nasa* claimed that they no longer have",
+          "location": 27
+        },
+        {
+          "text": "to mars by 2030 so *nasa* is claiming that",
+          "location": 32
+        },
+        {
+          "text": "think *nasa* is actually broke another",
+          "location": 112
+        },
+        {
+          "text": "projects and *nasa* has always been the",
+          "location": 166
+        },
+        {
+          "text": "*nasa* and military computers in 2002 and",
+          "location": 194
+        },
+        {
+          "text": "*nasa* is trying to cover their ass as",
+          "location": 337
+        },
+        {
+          "text": "same day earlier this week that *nasa*",
+          "location": 344
+        }
+      ]
+    },
+    {
+      "id": "QuVpIqeSRnU",
+      "segments": [
+        {
+          "text": "the new *nasa* discovery right and i just",
+          "location": 13
+        },
+        {
+          "text": "hate *nasa* i love to talk about how much",
+          "location": 18
+        },
+        {
+          "text": "front for the new world order *nasa* never",
+          "location": 21
+        },
+        {
+          "text": "thinking i'm like okay *nasa* right they",
+          "location": 25
+        },
+        {
+          "text": "something fishy about this because *nasa*",
+          "location": 37
+        },
+        {
+          "text": "i mean brief history *nasa* was set up",
+          "location": 39
+        },
+        {
+          "text": "and even with *nasa* right you look at the",
+          "location": 74
+        },
+        {
+          "text": "logo of *nasa* i'll put it right here for",
+          "location": 76
+        },
+        {
+          "text": "*nasa* discovery",
+          "location": 132
+        },
+        {
+          "text": "*nasa* the the front a a psyop by the",
+          "location": 223
+        },
+        {
+          "text": "symbolically telling us with this *nasa*",
+          "location": 461
+        }
+      ]
+    },
+    {
+      "id": "r-vKLD9F61M",
+      "segments": [
+        {
+          "text": "*nasa* spots strange rectangular iceberg",
+          "location": 1004
+        }
+      ]
+    },
+    {
+      "id": "r1IYwxp0NNs",
+      "segments": [
+        {
+          "text": "saturn an x *nasa* scientist claims of",
+          "location": 356
+        },
+        {
+          "text": "*nasa* scientists a former *nasa* engineer",
+          "location": 386
+        },
+        {
+          "text": "previously worked for *nasa* has made",
+          "location": 396
+        },
+        {
+          "text": "congressman asking *nasa* if there's an",
+          "location": 583
+        },
+        {
+          "text": "actually held a panel in front of *nasa*",
+          "location": 605
+        },
+        {
+          "text": "scientists and he asked a *nasa*",
+          "location": 608
+        },
+        {
+          "text": "of *nasa* scientists and ants ask these",
+          "location": 696
+        }
+      ]
+    },
+    {
+      "id": "S4mKQajGJl4",
+      "segments": [
+        {
+          "text": "*nasa* cries foul now this is an example",
+          "location": 849
+        },
+        {
+          "text": "landing and then *nasa* can cry foul and",
+          "location": 874
+        },
+        {
+          "text": "get caught up with the *nasa* narratives",
+          "location": 882
+        },
+        {
+          "text": "you know *nasa* christ fowl they shit on",
+          "location": 909
+        },
+        {
+          "text": "*nasa* landed on the moon it just makes",
+          "location": 933
+        },
+        {
+          "text": "also since that *nasa* didn't tell us what",
+          "location": 935
+        }
+      ]
+    },
+    {
+      "id": "s6H86oQEC2I",
+      "segments": [
+        {
+          "text": "organizations exist like seti and *nasa*",
+          "location": 598
+        }
+      ]
+    },
+    {
+      "id": "sBy_LmO3b7k",
+      "segments": [
+        {
+          "text": "article it says is google or *nasa* making",
+          "location": 80
+        }
+      ]
+    },
+    {
+      "id": "SePTbZOh8iE",
+      "segments": [
+        {
+          "text": "the noaa by *nasa* and by various",
+          "location": 101
+        }
+      ]
+    },
+    {
+      "id": "SxPNu1XMYKA",
+      "segments": [
+        {
+          "text": "brain but today *nasa* announced that they",
+          "location": 836
+        },
+        {
+          "text": "fake announcement by *nasa* or the front",
+          "location": 897
+        },
+        {
+          "text": "that *nasa* always loves to partner with",
+          "location": 904
+        }
+      ]
+    },
+    {
+      "id": "uKCq7HfZh9A",
+      "segments": [
+        {
+          "text": "so *nasa* knows that we're getting slammed",
+          "location": 617
+        },
+        {
+          "text": "things are measurable i mean *nasa* knows",
+          "location": 1128
+        },
+        {
+          "text": "driver here and now even a lot of *nasa*",
+          "location": 1196
+        },
+        {
+          "text": "right now and *nasa* knows all about them",
+          "location": 2551
+        },
+        {
+          "text": "bow and tailing them and we call it *nasa*",
+          "location": 2562
+        },
+        {
+          "text": "know you've had *nasa* scientists and all",
+          "location": 2591
+        },
+        {
+          "text": "from there so yeah yes *nasa* has at least",
+          "location": 2600
+        }
+      ]
+    },
+    {
+      "id": "urRt-Yju_SU",
+      "segments": [
+        {
+          "text": "former *nasa* astronauts with the i don't",
+          "location": 281
+        }
+      ]
+    },
+    {
+      "id": "UrzdhfUMR6k",
+      "segments": [
+        {
+          "text": "he hacked into you *nasa* and navy",
+          "location": 1458
+        }
+      ]
+    },
+    {
+      "id": "W7UmZWUWBMQ",
+      "segments": [
+        {
+          "text": "describing *nasa* about to announce the",
+          "location": 453
+        }
+      ]
+    },
+    {
+      "id": "WB_PkYN9MFI",
+      "segments": [
+        {
+          "text": "*nasa* is also announcing the fact that",
+          "location": 857
+        },
+        {
+          "text": "the air force the navy and *nasa* and this",
+          "location": 876
+        },
+        {
+          "text": "same time we're talking *nasa* we're",
+          "location": 900
+        }
+      ]
+    },
+    {
+      "id": "wdXHxEEAvps",
+      "segments": [
+        {
+          "text": "*nasa* was using that kepler observatory",
+          "location": 1194
+        }
+      ]
+    },
+    {
+      "id": "x1EXDDlmrVU",
+      "segments": [
+        {
+          "text": "they call an asteroid that *nasa* has been",
+          "location": 824
+        }
+      ]
+    },
+    {
+      "id": "x1UII7bCsvQ",
+      "segments": [
+        {
+          "text": "temperature the data produced by *nasa*",
+          "location": 355
+        }
+      ]
+    },
+    {
+      "id": "XfNnvWPlprc",
+      "segments": [
+        {
+          "text": "facade much like *nasa* is a facade hiding",
+          "location": 249
+        },
+        {
+          "text": "up here *nasa* denies running a mars child",
+          "location": 402
+        },
+        {
+          "text": "what alex jones then did and *nasa* of",
+          "location": 632
+        },
+        {
+          "text": "this article on the daily mail a *nasa*",
+          "location": 637
+        },
+        {
+          "text": "story out there that *nasa* denied running",
+          "location": 650
+        },
+        {
+          "text": "and whatnot so *nasa* you know the *nasa*",
+          "location": 656
+        },
+        {
+          "text": "*nasa*",
+          "location": 667
+        },
+        {
+          "text": "here's the thing *nasa* can deny it",
+          "location": 668
+        },
+        {
+          "text": "because *nasa* is not to run what not the",
+          "location": 671
+        },
+        {
+          "text": "does so of course *nasa* can deny it",
+          "location": 679
+        },
+        {
+          "text": "went into aerospace corporations *nasa*",
+          "location": 700
+        },
+        {
+          "text": "*nasa* has to cover their ass right people",
+          "location": 838
+        }
+      ]
+    },
+    {
+      "id": "Y31yR524zWU",
+      "segments": [
+        {
+          "text": "*nasa* spokesperson coming out about that",
+          "location": 329
+        }
+      ]
+    },
+    {
+      "id": "y3OVColWu-g",
+      "segments": [
+        {
+          "text": "besides *nasa* remember gary mckinnon was",
+          "location": 364
+        },
+        {
+          "text": "the it specialist who hacked into *nasa*",
+          "location": 366
+        }
+      ]
+    },
+    {
+      "id": "yFQEK_KaTMA",
+      "segments": [
+        {
+          "text": "curiosity rover the *nasa* rover still on",
+          "location": 1004
+        },
+        {
+          "text": "on mars and *nasa* isn't sure what it is",
+          "location": 1011
+        },
+        {
+          "text": "all right next one *nasa* scientists says",
+          "location": 1017
+        },
+        {
+          "text": "*nasa* scientist",
+          "location": 1024
+        },
+        {
+          "text": "scientists at the *nasa* ames research",
+          "location": 1029
+        },
+        {
+          "text": "*nasa* might be finding evidence of what",
+          "location": 1229
+        }
+      ]
+    },
+    {
+      "id": "YiLWFF__qiM",
+      "segments": [
+        {
+          "text": "but speaking of discoveries *nasa* on",
+          "location": 1490
+        }
+      ]
+    },
+    {
+      "id": "yOGL3BrXZlA",
+      "segments": [
+        {
+          "text": "this is countdown 101 the *nasa* website",
+          "location": 491
+        },
+        {
+          "text": "parameters of how *nasa* counts down to",
+          "location": 497
+        }
+      ]
+    },
+    {
+      "id": "z9GTRwjpZLo",
+      "segments": [
+        {
+          "text": "that it was *nasa* not cia that was the",
+          "location": 839
+        }
+      ]
+    },
+    {
+      "id": "ZpXeRJcgZlU",
+      "segments": [
+        {
+          "text": "life her dad was a high-level *nasa*",
+          "location": 522
+        }
+      ]
+    },
+    {
+      "id": "ZRISi-Y-X3s",
+      "segments": [
+        {
+          "text": "talk about i want to discuss *nasa* that",
+          "location": 13
+        },
+        {
+          "text": "now let's get into *nasa*",
+          "location": 260
+        },
+        {
+          "text": "so *nasa* yesterday landing their mars",
+          "location": 261
+        },
+        {
+          "text": "to take away from these people at *nasa*",
+          "location": 285
+        },
+        {
+          "text": "jet fuel right with these *nasa* and",
+          "location": 327
+        },
+        {
+          "text": "understand *nasa* and spacex they're just",
+          "location": 331
+        },
+        {
+          "text": "the *nasa* landing of course he asked to",
+          "location": 386
+        }
+      ]
+    }
+  ]
+}

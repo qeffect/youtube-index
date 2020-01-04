@@ -1,0 +1,34 @@
+{
+  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI",
+  "topic": "Spirit cooking",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "Hgk-U4PlV14",
+      "segments": [
+        {
+          "text": "others doing *spirit* *cooking* this woman",
+          "location": 2227
+        }
+      ]
+    },
+    {
+      "id": "qz_g4XZjTmE",
+      "segments": [
+        {
+          "text": "*spirit* *cooking* etc we see that she is",
+          "location": 1285
+        },
+        {
+          "text": "with marina abramovic at her *spirit*",
+          "location": 1778
+        },
+        {
+          "text": "*cooking* dinners and lady gaga posted",
+          "location": 1781
+        }
+      ]
+    }
+  ]
+}
