@@ -1,0 +1,590 @@
+{
+  "indexed": "_13MmCeaFF8,_BCyD1R89c4,_SK-nC_Gz9A,-f6EFosECF0,-gEwl6-L8Vs,-GUeoKcLIbU,-N--22Ynf90,-wutNnddLJE,06vmO1m2NL8,0Y9imhhfpYs,2HItcm6wz_0,3-YfMNu-Pss,3ATKKaxFr44,3LpvhcDvZmk,4_yDl2UobgI,4a6vD3Gytps,4WhEicetwVY,4ZJye3cPxm4,52Yg51AHjfc,65J6hs71t2I,6gm_aFSlVnY,6KftOyWYI_Q,6LghcjqOmxE,6q9hV19prz8,6w6ef1qmRh4,7BkiREZ42NA,7ChUvvZCWpw,7f2-4ytxF00,7j_JjvKK1VE,804ICu5fWn4,8EnvTQCjiNA,8KJvBDF1DPA,8Py2XuPTOQI,8TE9LzzlC8Q,90d_QsU2eFc,9J2H9v0xsEQ,9OxKJjCvITg,9sCBg6TLjnI,a-F9Pwlx-t4,a7Z0SkS8nFs,AjAYWo148jE,ampnuLOxORw,AOlMs6zIeZ4,AtH0Kl7Ebsg,auCJu1xjSFg,B0GbjGtioJo,c-_6ydYsZJg,C-oNaICoM9s,c1NLpeUKR44,c8Iu3hyoPNU,CPkNdHGq3e8,CzQ9X3hgqlk,D3r430bQQss,d7_X7heM-_E,d7QIT7h1wdk,DlnZ8vtW3P0,DT-prYSRiW8,DuHH9Ea5Bl0,Dusux6XLy9U,DUwiFhz39bE,e3AZCn_6RAc,E9uhM5FQhzY,evVW5HmYr-M,Eywel50uDy0,F-2lvgRoA_o,fCioLwNJGHo,fOeO07hJesY,fzruQ2S-3NA,FZxlSfnJCoY,G2zipJbiIt8,G6GS-MMMwns,G7K_NAE9CAY,GNWTP62doT4,GqOZEGLP82g,GsH4dOmeODo,gSTjqxYo3eM,gXJR_act9xg,gXse33_fJ6Q,H_lWeIDcnOQ,HDuzeMdPC1U,hJsArj0lgTc,HkMAPAdJ0Ro,hM4ilYhlME4,hp2VAMIOaI4,IB7os3oJKBI,Ijusb9hesd4,jE7JtQms8qE,JE7NCBeZy_I,JeVrKrWApGU,JfnJdiE_318,JQjHSsoQigA,jT14tnVVcPo,jW4NSV2ql8U,JXPaz2qkRxg,jYRCsEZ-1bM,k3x8lRPwF-4,kd3HeluJ9_8,kGkNUt5GOPI,Kj4eHyyicGc,kPWyh-gKQ9o,krG_Dr2Sj44,kxJFGQy2tUo,kY-eamOayto,KYH5s5PdEJQ,l-BRvbpYmA8,l1laz-0EuT0,lh8NgvC1HHE,LhRKOfmyXy0,lJaolqnEm2s,lOYqyDpltT0,LS9OviQycEg,LwiXa1MrcgQ,mVOqGqmDJEM,n9xTl_7EKZQ,NajE6mqJEqQ,nJINaINVhjA,NkRNewn93QQ,NrNE4EVXe6w,NT0QYcW21Io,NUaJYVld6WE,nuU3dy3OeJ8,OHFd9yeJXOs,oHrg1goJ65Q,olGSOydtOgY,oMVvjzTMjMI,OQiLfQQ7PAk,Osj5Vi7zZM8,Otl7-oVkBos,p_OD5p3bClQ,P15p-hnpTM4,PDTWwyCm028,pn6qKrOuJ7c,PoK6p9WP6os,pSN_sZZovFA,pVXwXN8bNMI,pW8daGkL9wo,pYWr4rM-D9k,Q57aSFuawHE,QAt10yBcfyw,QGP6gVRRtXQ,qlJhtMorLMc,QsWIPv4TZzQ,qV3DNhQUIag,qx6qHutsIa0,R6L8ZSxbQBw,reSUC7M9KIg,rHgiNUg3hq4,Rl_Qc0LDL4U,rot-TIwUGmI,RSfP8sXtMbk,s8w9e2hECL0,sA2rPS0dC5o,sC-fb5X3luw,sdMD0UIF_Vs,sFet9VYKZQA,shjw2uP23sk,sVUA1hMCtMg,SVwPhRzC8zg,SW3ymUG0QzU,Szk7XXEb_sQ,t5py6cXwyL0,TAoY5qTDljU,tGm8mbhdvtc,Tnrv0NiCTHo,TtKpcVzMi88,U11KwfXjK6g,U2urUq9l__Q,u5fvwVJUKHY,uFOCbExriCo,UmMUcj2fj_Y,usFTRvrOF9I,v_VWKwbzeAY,v_Wjf1sDEhE,v48ABYuczzU,VDAD1CR5xdk,VHud_qBZrhM,VM2odOcSQjA,vNKCyWiv0I4,VPJN38BeYmQ,vPOVKywba2Y,Vpqnye8nH9k,vPvA_pwkwZU,VZiHX9rmT8A,w1QJ6-SYMko,WIlVIAuFPnI,Wk1qpnFMaZU,WQoro6i45VA,wQwkoMGQkjk,wxEcA3c5ME4,X4G1qCAYDQw,xBDN9bdidhM,xbtdHHBqZfo,XOJaCQjXj5c,XposZwIYoNE,xtkc66SDOug,y2THn2gg3yE,YAGHmdlnIGo,yben1U0tVk4,YCI6We-rexU,YdngZ4OZCrM,YfKvgxFoRO0,yhRRTniENR4,ytca6q0EY2M,yTnyEojs93s,YxaMnWGc3_Q,z9wmswrqexM,zCI4hyl113Q,zmvzjkfmEPU,ZNKdQwB3_gk,ZNoUjTvE7W8,zp0EsL7YhHw",
+  "topic": "Soros",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "2HItcm6wz_0",
+      "segments": [
+        {
+          "text": "is george *soros* foundation the clinton",
+          "location": 16
+        },
+        {
+          "text": "orbit of george *soros* as he as he began",
+          "location": 1012
+        },
+        {
+          "text": "discussion including george *soros* and",
+          "location": 1054
+        },
+        {
+          "text": "mr. *soros* roughly half of the money in",
+          "location": 1082
+        },
+        {
+          "text": "micro-invest is *soros* the actual company",
+          "location": 1584
+        }
+      ]
+    },
+    {
+      "id": "6q9hV19prz8",
+      "segments": [
+        {
+          "text": "george *soros* who funds literally",
+          "location": 597
+        }
+      ]
+    },
+    {
+      "id": "c-_6ydYsZJg",
+      "segments": [
+        {
+          "text": "philanthropist george *soros* speaks",
+          "location": 592
+        },
+        {
+          "text": "*soros* george *soros* is a speaker a fluent",
+          "location": 605
+        }
+      ]
+    },
+    {
+      "id": "CPkNdHGq3e8",
+      "segments": [
+        {
+          "text": "*soros* among other people mastercard",
+          "location": 572
+        }
+      ]
+    },
+    {
+      "id": "D3r430bQQss",
+      "segments": [
+        {
+          "text": "teamed up with george *soros* to quote",
+          "location": 7
+        },
+        {
+          "text": "george *soros* so we're talking about the",
+          "location": 14
+        },
+        {
+          "text": "*soros* and the koch brothers are coming",
+          "location": 144
+        }
+      ]
+    },
+    {
+      "id": "d7_X7heM-_E",
+      "segments": [
+        {
+          "text": "he's the george *soros* of tomorrow i mean",
+          "location": 236
+        },
+        {
+          "text": "be old eyebags after george *soros* pot",
+          "location": 242
+        }
+      ]
+    },
+    {
+      "id": "gXJR_act9xg",
+      "segments": [
+        {
+          "text": "*soros* is open society foundation linked",
+          "location": 112
+        },
+        {
+          "text": "society and that's mr. george *soros* once",
+          "location": 1309
+        },
+        {
+          "text": "journal tunisian revolt another *soros*",
+          "location": 1316
+        },
+        {
+          "text": "description box george *soros* agitating",
+          "location": 1372
+        }
+      ]
+    },
+    {
+      "id": "kd3HeluJ9_8",
+      "segments": [
+        {
+          "text": "*soros* that's what i'm coming to learn",
+          "location": 478
+        },
+        {
+          "text": "he's like francis george *soros* the man",
+          "location": 480
+        }
+      ]
+    },
+    {
+      "id": "kPWyh-gKQ9o",
+      "segments": [
+        {
+          "text": "something and yes george *soros* is",
+          "location": 141
+        }
+      ]
+    },
+    {
+      "id": "KYH5s5PdEJQ",
+      "segments": [
+        {
+          "text": "to george *soros* back in 2016 this is",
+          "location": 874
+        },
+        {
+          "text": "we signed an agreement with george *soros*",
+          "location": 933
+        },
+        {
+          "text": "where george *soros* as hard as that to",
+          "location": 940
+        },
+        {
+          "text": "that at trudeau's signed with *soros* they",
+          "location": 1069
+        },
+        {
+          "text": "her relationship with george *soros*",
+          "location": 1845
+        },
+        {
+          "text": "you know what else george *soros* worked",
+          "location": 1856
+        },
+        {
+          "text": "interviews with george *soros* he admits",
+          "location": 1869
+        },
+        {
+          "text": "*soros* worked with the nazis confiscating",
+          "location": 1886
+        }
+      ]
+    },
+    {
+      "id": "lJaolqnEm2s",
+      "segments": [
+        {
+          "text": "you know persecution of george *soros*",
+          "location": 474
+        }
+      ]
+    },
+    {
+      "id": "LwiXa1MrcgQ",
+      "segments": [
+        {
+          "text": "stanford his partnership with *soros* his",
+          "location": 80
+        }
+      ]
+    },
+    {
+      "id": "nJINaINVhjA",
+      "segments": [
+        {
+          "text": "*soros* and gates and schmidt and whoever",
+          "location": 2233
+        }
+      ]
+    },
+    {
+      "id": "PDTWwyCm028",
+      "segments": [
+        {
+          "text": "look at george *soros* and jonathan *soros*",
+          "location": 190
+        }
+      ]
+    },
+    {
+      "id": "pSN_sZZovFA",
+      "segments": [
+        {
+          "text": "in the middle just like george *soros*",
+          "location": 985
+        },
+        {
+          "text": "george *soros* works very closely with",
+          "location": 1284
+        },
+        {
+          "text": "them george *soros* facilitates the",
+          "location": 1287
+        },
+        {
+          "text": "them up people like george *soros* through",
+          "location": 1340
+        },
+        {
+          "text": "that people like *soros* want to change he",
+          "location": 2700
+        }
+      ]
+    },
+    {
+      "id": "pYWr4rM-D9k",
+      "segments": [
+        {
+          "text": "close to george *soros* i don't know how",
+          "location": 1419
+        },
+        {
+          "text": "interview where george *soros*",
+          "location": 1444
+        }
+      ]
+    },
+    {
+      "id": "QsWIPv4TZzQ",
+      "segments": [
+        {
+          "text": "doesn't george *soros* evil old soggy",
+          "location": 18
+        },
+        {
+          "text": "bottom george *soros* this is one of his",
+          "location": 27
+        },
+        {
+          "text": "you didn't know george *soros* he's",
+          "location": 189
+        }
+      ]
+    },
+    {
+      "id": "R6L8ZSxbQBw",
+      "segments": [
+        {
+          "text": "*soros* the idea has been since the early",
+          "location": 1180
+        },
+        {
+          "text": "they're tied to see george *soros* is",
+          "location": 1214
+        },
+        {
+          "text": "buried you see george *soros* is is the",
+          "location": 1251
+        }
+      ]
+    },
+    {
+      "id": "sC-fb5X3luw",
+      "segments": [
+        {
+          "text": "*soros* bill and melinda gates bill and",
+          "location": 363
+        },
+        {
+          "text": "george *soros* they've taken the page down",
+          "location": 904
+        }
+      ]
+    },
+    {
+      "id": "U11KwfXjK6g",
+      "segments": [
+        {
+          "text": "open society george *soros* foundation and",
+          "location": 680
+        }
+      ]
+    },
+    {
+      "id": "v48ABYuczzU",
+      "segments": [
+        {
+          "text": "say i'm at huson and george *soros* have",
+          "location": 1558
+        }
+      ]
+    },
+    {
+      "id": "VHud_qBZrhM",
+      "segments": [
+        {
+          "text": "george *soros* has wrecked it i started",
+          "location": 3
+        },
+        {
+          "text": "engineered by george *soros* who was",
+          "location": 54
+        },
+        {
+          "text": "*soros* we'll look at how george *soros* has",
+          "location": 72
+        },
+        {
+          "text": "going to come up george *soros* and civil",
+          "location": 96
+        },
+        {
+          "text": "george *soros* is puppetry of many many",
+          "location": 111
+        },
+        {
+          "text": "*soros* depp won george *soros* buys bowdoin",
+          "location": 151
+        },
+        {
+          "text": "independence and *soros* had what he calls",
+          "location": 161
+        },
+        {
+          "text": "alleges george *soros* bought and indeed",
+          "location": 233
+        },
+        {
+          "text": "established close ties with george *soros*",
+          "location": 262
+        },
+        {
+          "text": "committee and *soros* is seen as something",
+          "location": 287
+        },
+        {
+          "text": "of his father's ties to the *soros*",
+          "location": 306
+        },
+        {
+          "text": "the world bank and george *soros* puppet",
+          "location": 336
+        },
+        {
+          "text": "was george *soros* saw fit to buy himself",
+          "location": 378
+        },
+        {
+          "text": "*soros* *soros* bought those people okay",
+          "location": 440
+        },
+        {
+          "text": "billionaire philanthropist george *soros*",
+          "location": 480
+        },
+        {
+          "text": "george *soros* buying the law now here's a",
+          "location": 491
+        },
+        {
+          "text": "funded by *soros* further in that article",
+          "location": 537
+        },
+        {
+          "text": "article about *soros* buying people to own",
+          "location": 582
+        },
+        {
+          "text": "so now we have *soros* rebuilding the",
+          "location": 629
+        },
+        {
+          "text": "the civil service george *soros*",
+          "location": 637
+        },
+        {
+          "text": "activist george *soros* this year alone",
+          "location": 647
+        },
+        {
+          "text": "*soros* has given the kiev based",
+          "location": 650
+        },
+        {
+          "text": "country in the world fail george *soros*",
+          "location": 708
+        },
+        {
+          "text": "throwing at george *soros* and in 2004",
+          "location": 753
+        },
+        {
+          "text": "*soros* engineered the orange revolution a",
+          "location": 759
+        },
+        {
+          "text": "the wrong guy won the guy *soros* wanted",
+          "location": 784
+        },
+        {
+          "text": "paid for remember by *soros* his money",
+          "location": 796
+        },
+        {
+          "text": "i don't know how george *soros* can be so",
+          "location": 833
+        },
+        {
+          "text": "billionaire george *soros* open society",
+          "location": 932
+        },
+        {
+          "text": "connection to george *soros* because he",
+          "location": 1150
+        },
+        {
+          "text": "the way with george *soros* chrystia",
+          "location": 1204
+        },
+        {
+          "text": "of *soros* canadian prime minister justin",
+          "location": 1217
+        },
+        {
+          "text": "and here's krystia interviewing *soros* in",
+          "location": 1230
+        },
+        {
+          "text": "george *soros* allegedly wrote this paper",
+          "location": 1275
+        },
+        {
+          "text": "george *soros* strategy memo on ukraine so",
+          "location": 1300
+        },
+        {
+          "text": "this was written by george *soros* but",
+          "location": 1308
+        },
+        {
+          "text": "ukraine does exactly what george *soros*",
+          "location": 1557
+        },
+        {
+          "text": "top it off here's george *soros* ending",
+          "location": 1663
+        },
+        {
+          "text": "coaching from canada where *soros*",
+          "location": 1794
+        },
+        {
+          "text": "george *soros* to fund their joint project",
+          "location": 1945
+        },
+        {
+          "text": "would george *soros* appoint two",
+          "location": 2027
+        },
+        {
+          "text": "*soros* it said bowdoin chrushank oh a",
+          "location": 2286
+        },
+        {
+          "text": "recruited by half religion and *soros* to",
+          "location": 2292
+        },
+        {
+          "text": "*soros* foundation in ukraine with its",
+          "location": 2297
+        },
+        {
+          "text": "place where the *soros* foundation is so",
+          "location": 2303
+        },
+        {
+          "text": "george *soros* buys leonid kuchma",
+          "location": 2367
+        },
+        {
+          "text": "mother teresa *soros* is unable to prevail",
+          "location": 2393
+        },
+        {
+          "text": "have been among *soros* as most urgent",
+          "location": 2405
+        },
+        {
+          "text": "suggestive clues that george *soros* works",
+          "location": 2424
+        },
+        {
+          "text": "george *soros* that's how they fixed the",
+          "location": 2528
+        },
+        {
+          "text": "what *soros* has wrought so they said to",
+          "location": 2628
+        },
+        {
+          "text": "have free rein george *soros* we've let",
+          "location": 2641
+        },
+        {
+          "text": "said *soros* and all his people mobilize",
+          "location": 2665
+        },
+        {
+          "text": "that *soros* and his buddies pretty much",
+          "location": 2834
+        }
+      ]
+    },
+    {
+      "id": "w1QJ6-SYMko",
+      "segments": [
+        {
+          "text": "george *soros* on international issues",
+          "location": 1993
+        }
+      ]
+    },
+    {
+      "id": "YxaMnWGc3_Q",
+      "segments": [
+        {
+          "text": "boogeyman is also involved george *soros*",
+          "location": 2089
+        },
+        {
+          "text": "george *soros* *soros* fund management two",
+          "location": 2099
+        }
+      ]
+    },
+    {
+      "id": "zCI4hyl113Q",
+      "segments": [
+        {
+          "text": "george *soros* at his manhattan penthouse",
+          "location": 528
+        },
+        {
+          "text": "a little while ago george *soros* and the",
+          "location": 556
+        },
+        {
+          "text": "*soros* foreign policy think-tank headed",
+          "location": 573
+        },
+        {
+          "text": "and again george *soros* and the koch",
+          "location": 603
+        },
+        {
+          "text": "lot of different *soros* foundations i",
+          "location": 1420
+        }
+      ]
+    },
+    {
+      "id": "zmvzjkfmEPU",
+      "segments": [
+        {
+          "text": "north of george *soros* this is marina",
+          "location": 1334
+        }
+      ]
+    }
+  ]
+}
