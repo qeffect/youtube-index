@@ -56,7 +56,6 @@ jobs:
         git push "${remote_repo}" master
 
     - name: Trigger web build
-      if: steps.commit_step.outputs.has_commits == 'true'
       uses: peter-evans/repository-dispatch@v1
       with:
         token: ${{ secrets.SECRET_ACCESS_TOKEN }}
