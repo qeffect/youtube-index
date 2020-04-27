@@ -1,5 +1,5 @@
 {
-  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI",
+  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI,RifZD15SWXw",
   "topic": "COVID-19",
   "aliases": [
     "corona",
@@ -103,6 +103,19 @@
         {
           "text": "now sick with the *coronavirus* and i",
           "location": 1330
+        }
+      ]
+    },
+    {
+      "id": "RifZD15SWXw",
+      "segments": [
+        {
+          "text": "positive for *coronavirus* and you know",
+          "location": 726
+        },
+        {
+          "text": "*coronavirus* any",
+          "location": 1127
         }
       ]
     }

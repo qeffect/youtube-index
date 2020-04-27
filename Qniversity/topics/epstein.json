@@ -1,5 +1,5 @@
 {
-  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI",
+  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI,RifZD15SWXw",
   "topic": "Epstein",
   "aliases": null,
   "hash": null,
@@ -54,6 +54,19 @@
         {
           "text": "jeffrey *epstein*",
           "location": 2086
+        }
+      ]
+    },
+    {
+      "id": "RifZD15SWXw",
+      "segments": [
+        {
+          "text": "jeffrey *epstein* on his island with one",
+          "location": 628
+        },
+        {
+          "text": "*epstein* are you alive we wonder are you",
+          "location": 779
         }
       ]
     }

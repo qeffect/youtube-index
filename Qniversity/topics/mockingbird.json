@@ -1,5 +1,5 @@
 {
-  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI",
+  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI,RifZD15SWXw",
   "topic": "Mockingbird",
   "aliases": null,
   "hash": null,
@@ -65,6 +65,23 @@
         {
           "text": "discussion of operation *mockingbird* is",
           "location": 449
+        }
+      ]
+    },
+    {
+      "id": "RifZD15SWXw",
+      "segments": [
+        {
+          "text": "through operation *mockingbird* has made",
+          "location": 205
+        },
+        {
+          "text": "operation *mockingbird* the echo chamber",
+          "location": 2420
+        },
+        {
+          "text": "operation *mockingbird* to program us and",
+          "location": 2640
         }
       ]
     }

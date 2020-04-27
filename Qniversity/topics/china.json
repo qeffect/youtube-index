@@ -1,5 +1,5 @@
 {
-  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI",
+  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI,RifZD15SWXw",
   "topic": "China",
   "aliases": null,
   "hash": null,
@@ -23,6 +23,39 @@
         {
           "text": "she didn't say that to japan or *china*",
           "location": 369
+        }
+      ]
+    },
+    {
+      "id": "RifZD15SWXw",
+      "segments": [
+        {
+          "text": "what that means friends you have *china*",
+          "location": 728
+        },
+        {
+          "text": "*china* is asshole time to meet you i'm",
+          "location": 731
+        },
+        {
+          "text": "don't you think *china* of course is going",
+          "location": 820
+        },
+        {
+          "text": "to be on team joe because *china* owns joe",
+          "location": 823
+        },
+        {
+          "text": "by nothing from *china* pass it on and i",
+          "location": 1274
+        },
+        {
+          "text": "trade agreement open borders in *china*",
+          "location": 1296
+        },
+        {
+          "text": "queue live stream of the *china* virus",
+          "location": 1370
         }
       ]
     }
