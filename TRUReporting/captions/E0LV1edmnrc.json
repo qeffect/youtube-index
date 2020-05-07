@@ -1,0 +1,2882 @@
+[
+  {
+    "start": 3.8,
+    "duraction": 2.06,
+    "value": "you"
+  },
+  {
+    "start": 15.46,
+    "duraction": 11.259,
+    "value": "[Music]"
+  },
+  {
+    "start": 41.13,
+    "duraction": 3.299,
+    "value": "[Music]"
+  },
+  {
+    "start": 59.45,
+    "duraction": 6.51,
+    "value": "[Music]"
+  },
+  {
+    "start": 63.9,
+    "duraction": 2.06,
+    "value": "you"
+  },
+  {
+    "start": 66.96,
+    "duraction": 23.75,
+    "value": "[Music]"
+  },
+  {
+    "start": 88.33,
+    "duraction": 4.75,
+    "value": "hello and welcome fellow digital"
+  },
+  {
+    "start": 90.71,
+    "duraction": 4.77,
+    "value": "soldiers to true reporting it is the"
+  },
+  {
+    "start": 93.08,
+    "duraction": 4.86,
+    "value": "fifth of May happy birthday mom and on"
+  },
+  {
+    "start": 95.48,
+    "duraction": 4.23,
+    "value": "today's podcast we have a lot to get"
+  },
+  {
+    "start": 97.94,
+    "duraction": 4.02,
+    "value": "through we're gonna be going over 17"
+  },
+  {
+    "start": 99.71,
+    "duraction": 4.11,
+    "value": "posts which I usually don't do on a"
+  },
+  {
+    "start": 101.96,
+    "duraction": 4.2,
+    "value": "regular podcast but these are very"
+  },
+  {
+    "start": 103.82,
+    "duraction": 4.26,
+    "value": "important and I've gone through some"
+  },
+  {
+    "start": 106.16,
+    "duraction": 4.38,
+    "value": "actual coding of this to figure out what"
+  },
+  {
+    "start": 108.08,
+    "duraction": 4.41,
+    "value": "is actually going on also my friends"
+  },
+  {
+    "start": 110.54,
+    "duraction": 4.53,
+    "value": "will be going over some threads some"
+  },
+  {
+    "start": 112.49,
+    "duraction": 4.019,
+    "value": "memes and a lot more so this is one for"
+  },
+  {
+    "start": 115.07,
+    "duraction": 3.87,
+    "value": "the record books I can tell you that"
+  },
+  {
+    "start": 116.509,
+    "duraction": 4.531,
+    "value": "before we get into it though my friends"
+  },
+  {
+    "start": 118.94,
+    "duraction": 8.28,
+    "value": "would you please welcome my sponsor"
+  },
+  {
+    "start": 121.04,
+    "duraction": 7.77,
+    "value": "noble gold hey guys I know that during"
+  },
+  {
+    "start": 127.22,
+    "duraction": 4.08,
+    "value": "this lockdown I've been doing things a"
+  },
+  {
+    "start": 128.81,
+    "duraction": 3.96,
+    "value": "lot differently and I mean I know that"
+  },
+  {
+    "start": 131.3,
+    "duraction": 4.14,
+    "value": "this paper money that we walk around"
+  },
+  {
+    "start": 132.77,
+    "duraction": 5.52,
+    "value": "with in our pockets isn't worth jack but"
+  },
+  {
+    "start": 135.44,
+    "duraction": 5.85,
+    "value": "you know what is silver gold palladium"
+  },
+  {
+    "start": 138.29,
+    "duraction": 4.98,
+    "value": "and platinum these are the four things"
+  },
+  {
+    "start": 141.29,
+    "duraction": 5.04,
+    "value": "that we can secure our wealth and"
+  },
+  {
+    "start": 143.27,
+    "duraction": 6.3,
+    "value": "investments and one way to do so is by"
+  },
+  {
+    "start": 146.33,
+    "duraction": 5.34,
+    "value": "going to noble gold investments com they"
+  },
+  {
+    "start": 149.57,
+    "duraction": 4.77,
+    "value": "look out for you and your best interest"
+  },
+  {
+    "start": 151.67,
+    "duraction": 5.22,
+    "value": "and they are safe and secure so again my"
+  },
+  {
+    "start": 154.34,
+    "duraction": 5.94,
+    "value": "friends call this number right here and"
+  },
+  {
+    "start": 156.89,
+    "duraction": 6.06,
+    "value": "go to noble gold investments dot-com to"
+  },
+  {
+    "start": 160.28,
+    "duraction": 4.94,
+    "value": "lock it in thanks guys and enjoy the"
+  },
+  {
+    "start": 162.95,
+    "duraction": 9.209,
+    "value": "podcast"
+  },
+  {
+    "start": 165.22,
+    "duraction": 6.939,
+    "value": "[Music]"
+  },
+  {
+    "start": 172.33,
+    "duraction": 3.04,
+    "value": "alright guys it's good to have you"
+  },
+  {
+    "start": 174.11,
+    "duraction": 3.69,
+    "value": "aboard before we get into today's"
+  },
+  {
+    "start": 175.37,
+    "duraction": 4.38,
+    "value": "podcast would you please go ahead and"
+  },
+  {
+    "start": 177.8,
+    "duraction": 5.51,
+    "value": "subscribe to my backup channel true"
+  },
+  {
+    "start": 179.75,
+    "duraction": 5.79,
+    "value": "reporting 2.0 we have hit over 16,000"
+  },
+  {
+    "start": 183.31,
+    "duraction": 4.78,
+    "value": "subscribers and I thank each and every"
+  },
+  {
+    "start": 185.54,
+    "duraction": 4.38,
+    "value": "one of you please subscribe to true"
+  },
+  {
+    "start": 188.09,
+    "duraction": 4.38,
+    "value": "reporting 2.0 if you have not already"
+  },
+  {
+    "start": 189.92,
+    "duraction": 4.35,
+    "value": "and also please go ahead and click that"
+  },
+  {
+    "start": 192.47,
+    "duraction": 4.95,
+    "value": "notification bell so when I upload a"
+  },
+  {
+    "start": 194.27,
+    "duraction": 5.189,
+    "value": "podcast or a live stream you'll be the"
+  },
+  {
+    "start": 197.42,
+    "duraction": 3.81,
+    "value": "first to know and finally friends would"
+  },
+  {
+    "start": 199.459,
+    "duraction": 3.391,
+    "value": "you please go ahead and click that like"
+  },
+  {
+    "start": 201.23,
+    "duraction": 3.6,
+    "value": "button the more likes that this video"
+  },
+  {
+    "start": 202.85,
+    "duraction": 4.08,
+    "value": "receives the more times it is"
+  },
+  {
+    "start": 204.83,
+    "duraction": 3.84,
+    "value": "recommended to other viewers thus more"
+  },
+  {
+    "start": 206.93,
+    "duraction": 3.6,
+    "value": "eyes on the truth with that being said"
+  },
+  {
+    "start": 208.67,
+    "duraction": 4.86,
+    "value": "my friends let's go ahead and hop into"
+  },
+  {
+    "start": 210.53,
+    "duraction": 8.84,
+    "value": "it this is true reporting so as we can"
+  },
+  {
+    "start": 213.53,
+    "duraction": 10.14,
+    "value": "see here from the actual 17 posts post"
+  },
+  {
+    "start": 219.37,
+    "duraction": 6.04,
+    "value": "4106 we see Deidre is a software reverse"
+  },
+  {
+    "start": 223.67,
+    "duraction": 4.17,
+    "value": "engineering framework developed"
+  },
+  {
+    "start": 225.41,
+    "duraction": 5.07,
+    "value": "developed by the nsa's whose logo"
+  },
+  {
+    "start": 227.84,
+    "duraction": 6.18,
+    "value": "resembles you-know-who as we can see"
+  },
+  {
+    "start": 230.48,
+    "duraction": 5.49,
+    "value": "here and we can go to the NSA government"
+  },
+  {
+    "start": 234.02,
+    "duraction": 4.29,
+    "value": "website as we can see here resources"
+  },
+  {
+    "start": 235.97,
+    "duraction": 4.86,
+    "value": "everyone gira there you go doesn't it"
+  },
+  {
+    "start": 238.31,
+    "duraction": 5.07,
+    "value": "resemble the exact same thing as a tune"
+  },
+  {
+    "start": 240.83,
+    "duraction": 5.31,
+    "value": "right very interesting but will we"
+  },
+  {
+    "start": 243.38,
+    "duraction": 6.45,
+    "value": "continue on 4107"
+  },
+  {
+    "start": 246.14,
+    "duraction": 5.879,
+    "value": "17 suggests Anton's get familiar with"
+  },
+  {
+    "start": 249.83,
+    "duraction": 4.409,
+    "value": "this gauge or toolkit right this is"
+  },
+  {
+    "start": 252.019,
+    "duraction": 5.131,
+    "value": "reverse engineering framework software"
+  },
+  {
+    "start": 254.239,
+    "duraction": 5.551,
+    "value": "so you should probably get around to"
+  },
+  {
+    "start": 257.15,
+    "duraction": 4.53,
+    "value": "messing with that why would they need to"
+  },
+  {
+    "start": 259.79,
+    "duraction": 3.27,
+    "value": "learn and it says the National agent the"
+  },
+  {
+    "start": 261.68,
+    "duraction": 3.39,
+    "value": "National Security Agency released the"
+  },
+  {
+    "start": 263.06,
+    "duraction": 4.109,
+    "value": "source code of Deidre is reverse"
+  },
+  {
+    "start": 265.07,
+    "duraction": 4.65,
+    "value": "engineering tool April 4th"
+  },
+  {
+    "start": 267.169,
+    "duraction": 4.951,
+    "value": "this source code repository includes"
+  },
+  {
+    "start": 269.72,
+    "duraction": 5.49,
+    "value": "instructions to build on all supported"
+  },
+  {
+    "start": 272.12,
+    "duraction": 4.92,
+    "value": "platforms Mac Linux and Windows with"
+  },
+  {
+    "start": 275.21,
+    "duraction": 3.78,
+    "value": "this release developers will be able to"
+  },
+  {
+    "start": 277.04,
+    "duraction": 3.96,
+    "value": "collaborate by creating patches and"
+  },
+  {
+    "start": 278.99,
+    "duraction": 3.63,
+    "value": "extending the tool to fit their cyber"
+  },
+  {
+    "start": 281.0,
+    "duraction": 4.38,
+    "value": "security needs"
+  },
+  {
+    "start": 282.62,
+    "duraction": 5.04,
+    "value": "so Deidre is a software reverse"
+  },
+  {
+    "start": 285.38,
+    "duraction": 6.42,
+    "value": "engineering sre framework developed by"
+  },
+  {
+    "start": 287.66,
+    "duraction": 6.66,
+    "value": "the NSA's research Directorate for NSA"
+  },
+  {
+    "start": 291.8,
+    "duraction": 4.8,
+    "value": "cyber security mission it helps analyze"
+  },
+  {
+    "start": 294.32,
+    "duraction": 4.08,
+    "value": "malicious code and malware like viruses"
+  },
+  {
+    "start": 296.6,
+    "duraction": 4.28,
+    "value": "and can give cybersecurity professionals"
+  },
+  {
+    "start": 298.4,
+    "duraction": 6.53,
+    "value": "a better understanding of potential"
+  },
+  {
+    "start": 300.88,
+    "duraction": 6.09,
+    "value": "vulnerabilities in their networks insist"
+  },
+  {
+    "start": 304.93,
+    "duraction": 4.26,
+    "value": "there's also some other workings that"
+  },
+  {
+    "start": 306.97,
+    "duraction": 4.11,
+    "value": "you can do with reverse engineering and"
+  },
+  {
+    "start": 309.19,
+    "duraction": 7.19,
+    "value": "I will show you that and how it comes"
+  },
+  {
+    "start": 311.08,
+    "duraction": 8.429,
+    "value": "into play with this post post 4108"
+  },
+  {
+    "start": 316.38,
+    "duraction": 7.17,
+    "value": "perhaps Deidre will be used to unlock a"
+  },
+  {
+    "start": 319.509,
+    "duraction": 6.991,
+    "value": "future unquote unknown gift gifts"
+  },
+  {
+    "start": 323.55,
+    "duraction": 5.38,
+    "value": "multiple as you can tell from the intro"
+  },
+  {
+    "start": 326.5,
+    "duraction": 5.07,
+    "value": "video we saw it was the Red Cross and"
+  },
+  {
+    "start": 328.93,
+    "duraction": 5.579,
+    "value": "then we can see here a gift from the Red"
+  },
+  {
+    "start": 331.57,
+    "duraction": 7.11,
+    "value": "Cross unknown JPEG right my friends if"
+  },
+  {
+    "start": 334.509,
+    "duraction": 7.141,
+    "value": "you were to use reverse engineering one"
+  },
+  {
+    "start": 338.68,
+    "duraction": 5.4,
+    "value": "would get to the nuts and bolts of the"
+  },
+  {
+    "start": 341.65,
+    "duraction": 4.11,
+    "value": "actual programming encoding it breaks"
+  },
+  {
+    "start": 344.08,
+    "duraction": 4.26,
+    "value": "everything down you reverse engineer"
+  },
+  {
+    "start": 345.76,
+    "duraction": 5.939,
+    "value": "until you get down to the nuts and bolts"
+  },
+  {
+    "start": 348.34,
+    "duraction": 6.18,
+    "value": "of the actual programming and coding for"
+  },
+  {
+    "start": 351.699,
+    "duraction": 6.631,
+    "value": "instance if one was using a banking app"
+  },
+  {
+    "start": 354.52,
+    "duraction": 6.54,
+    "value": "to let's say you know launder money from"
+  },
+  {
+    "start": 358.33,
+    "duraction": 5.67,
+    "value": "the Red Cross you would use this reverse"
+  },
+  {
+    "start": 361.06,
+    "duraction": 6.21,
+    "value": "engineering to find the source the"
+  },
+  {
+    "start": 364.0,
+    "duraction": 7.02,
+    "value": "account number and even the IP address"
+  },
+  {
+    "start": 367.27,
+    "duraction": 5.97,
+    "value": "you could go to up to someone's door who"
+  },
+  {
+    "start": 371.02,
+    "duraction": 3.66,
+    "value": "is actually funneling and laundering"
+  },
+  {
+    "start": 373.24,
+    "duraction": 6.06,
+    "value": "money and make an arrest"
+  },
+  {
+    "start": 374.68,
+    "duraction": 7.739,
+    "value": "I believe that 17 wants a nonce to get"
+  },
+  {
+    "start": 379.3,
+    "duraction": 5.549,
+    "value": "on to this software to get into this"
+  },
+  {
+    "start": 382.419,
+    "duraction": 4.921,
+    "value": "programming learn it and then be able to"
+  },
+  {
+    "start": 384.849,
+    "duraction": 5.07,
+    "value": "dig further to see where the money goes"
+  },
+  {
+    "start": 387.34,
+    "duraction": 5.609,
+    "value": "and you'll see my friends from that"
+  },
+  {
+    "start": 389.919,
+    "duraction": 5.31,
+    "value": "intro video of the Red Cross there's a"
+  },
+  {
+    "start": 392.949,
+    "duraction": 3.541,
+    "value": "lot of strange riding on those boxes and"
+  },
+  {
+    "start": 395.229,
+    "duraction": 4.651,
+    "value": "we're gonna break that down a little a"
+  },
+  {
+    "start": 396.49,
+    "duraction": 5.399,
+    "value": "little later in the podcast but from"
+  },
+  {
+    "start": 399.88,
+    "duraction": 4.8,
+    "value": "what I've researched is reverse"
+  },
+  {
+    "start": 401.889,
+    "duraction": 6.421,
+    "value": "engineering can actually get you back to"
+  },
+  {
+    "start": 404.68,
+    "duraction": 6.299,
+    "value": "a person or persons or company to the"
+  },
+  {
+    "start": 408.31,
+    "duraction": 5.19,
+    "value": "source for better for lack of a better"
+  },
+  {
+    "start": 410.979,
+    "duraction": 4.47,
+    "value": "term the actual account number the"
+  },
+  {
+    "start": 413.5,
+    "duraction": 5.34,
+    "value": "banking and routing number and the IP"
+  },
+  {
+    "start": 415.449,
+    "duraction": 6.421,
+    "value": "address of who is using and funneling"
+  },
+  {
+    "start": 418.84,
+    "duraction": 6.54,
+    "value": "this money because remember all of these"
+  },
+  {
+    "start": 421.87,
+    "duraction": 6.049,
+    "value": "nonprofits are what slush funds this is"
+  },
+  {
+    "start": 425.38,
+    "duraction": 6.06,
+    "value": "what 17 has told us very interesting"
+  },
+  {
+    "start": 427.919,
+    "duraction": 7.271,
+    "value": "nevertheless so four thousand one"
+  },
+  {
+    "start": 431.44,
+    "duraction": 6.51,
+    "value": "hundred nine the time is coming they say"
+  },
+  {
+    "start": 435.19,
+    "duraction": 3.27,
+    "value": "the time is coming jpg Punisher"
+  },
+  {
+    "start": 437.95,
+    "duraction": 5.52,
+    "value": "P"
+  },
+  {
+    "start": 438.46,
+    "duraction": 8.31,
+    "value": "ìin Durham is on deck guys he is on deck"
+  },
+  {
+    "start": 443.47,
+    "duraction": 5.069,
+    "value": "we got Flynn on deck very very exciting"
+  },
+  {
+    "start": 446.77,
+    "duraction": 4.019,
+    "value": "but I can tell you this it is going to"
+  },
+  {
+    "start": 448.539,
+    "duraction": 5.371,
+    "value": "get very rough for the next six months"
+  },
+  {
+    "start": 450.789,
+    "duraction": 6.301,
+    "value": "leading up to the election cycle my"
+  },
+  {
+    "start": 453.91,
+    "duraction": 5.52,
+    "value": "friends it is going to be very bumpy so"
+  },
+  {
+    "start": 457.09,
+    "duraction": 3.96,
+    "value": "remember see something say something"
+  },
+  {
+    "start": 459.43,
+    "duraction": 4.769,
+    "value": "they will have to change the narrative"
+  },
+  {
+    "start": 461.05,
+    "duraction": 5.489,
+    "value": "at all costs they cannot have another"
+  },
+  {
+    "start": 464.199,
+    "duraction": 6.03,
+    "value": "four-year election remember this is not"
+  },
+  {
+    "start": 466.539,
+    "duraction": 8.421,
+    "value": "just an ordinary election alright folks"
+  },
+  {
+    "start": 470.229,
+    "duraction": 8.16,
+    "value": "post 4110 we can see here from NBC News"
+  },
+  {
+    "start": 474.96,
+    "duraction": 5.86,
+    "value": "FBI agrees that the CA assessment Russia"
+  },
+  {
+    "start": 478.389,
+    "duraction": 4.831,
+    "value": "wanted to help Trump then and now"
+  },
+  {
+    "start": 480.82,
+    "duraction": 6.15,
+    "value": "Brennan and Comey assessment clapper"
+  },
+  {
+    "start": 483.22,
+    "duraction": 5.97,
+    "value": "assist hard push they are all guilty of"
+  },
+  {
+    "start": 486.97,
+    "duraction": 4.14,
+    "value": "treason Brennan come--and clapper all"
+  },
+  {
+    "start": 489.19,
+    "duraction": 4.38,
+    "value": "three are still in that kill box my"
+  },
+  {
+    "start": 491.11,
+    "duraction": 4.98,
+    "value": "friends it is coming quicker and quicker"
+  },
+  {
+    "start": 493.57,
+    "duraction": 4.17,
+    "value": "all right guys so we can see here from"
+  },
+  {
+    "start": 496.09,
+    "duraction": 5.009,
+    "value": "the United States Department of Justice"
+  },
+  {
+    "start": 497.74,
+    "duraction": 7.29,
+    "value": "archives it tells us that the general"
+  },
+  {
+    "start": 501.099,
+    "duraction": 7.891,
+    "value": "conspiracy statute that under this"
+  },
+  {
+    "start": 505.03,
+    "duraction": 4.91,
+    "value": "clause conspiracy to defraud the United"
+  },
+  {
+    "start": 508.99,
+    "duraction": 3.929,
+    "value": "States"
+  },
+  {
+    "start": 509.94,
+    "duraction": 6.209,
+    "value": "my-my-my at the tables have turned right"
+  },
+  {
+    "start": 512.919,
+    "duraction": 7.471,
+    "value": "they have got some big fish to fry and"
+  },
+  {
+    "start": 516.149,
+    "duraction": 7.241,
+    "value": "also this knowingly and willingly trying"
+  },
+  {
+    "start": 520.39,
+    "duraction": 8.24,
+    "value": "to do so to defraud the United States"
+  },
+  {
+    "start": 523.39,
+    "duraction": 9.53,
+    "value": "this is no joke this is no joke chapter"
+  },
+  {
+    "start": 528.63,
+    "duraction": 8.35,
+    "value": "115 treason sedition and subversive"
+  },
+  {
+    "start": 532.92,
+    "duraction": 7.75,
+    "value": "activities treason misprision of treason"
+  },
+  {
+    "start": 536.98,
+    "duraction": 6.15,
+    "value": "rebellion or insurrection sedition"
+  },
+  {
+    "start": 540.67,
+    "duraction": 3.63,
+    "value": "conspiracy advocating overthrow of a"
+  },
+  {
+    "start": 543.13,
+    "duraction": 3.51,
+    "value": "government they've done all these"
+  },
+  {
+    "start": 544.3,
+    "duraction": 4.43,
+    "value": "registration of certain organizations"
+  },
+  {
+    "start": 546.64,
+    "duraction": 4.439,
+    "value": "Wow there you go Red Cross right"
+  },
+  {
+    "start": 548.73,
+    "duraction": 5.169,
+    "value": "activities affecting armed forces"
+  },
+  {
+    "start": 551.079,
+    "duraction": 5.341,
+    "value": "generally they've depleted us activities"
+  },
+  {
+    "start": 553.899,
+    "duraction": 4.141,
+    "value": "affecting Armed Forces during war they"
+  },
+  {
+    "start": 556.42,
+    "duraction": 3.81,
+    "value": "created these proxy wars right"
+  },
+  {
+    "start": 558.04,
+    "duraction": 4.62,
+    "value": "recruiting a for service against the"
+  },
+  {
+    "start": 560.23,
+    "duraction": 5.9,
+    "value": "United States enlistment to serve"
+  },
+  {
+    "start": 562.66,
+    "duraction": 6.419,
+    "value": "against the United States repealed guys"
+  },
+  {
+    "start": 566.13,
+    "duraction": 5.38,
+    "value": "death by hanging is in the near future"
+  },
+  {
+    "start": 569.079,
+    "duraction": 2.881,
+    "value": "for a lot of people remember we're going"
+  },
+  {
+    "start": 571.51,
+    "duraction": 3.09,
+    "value": "to have to"
+  },
+  {
+    "start": 571.96,
+    "duraction": 5.1,
+    "value": "this graphic bigger because we have we"
+  },
+  {
+    "start": 574.6,
+    "duraction": 5.58,
+    "value": "can see Oh bummer and John Brennan James"
+  },
+  {
+    "start": 577.06,
+    "duraction": 6.69,
+    "value": "clapper little Clinton thick ankles you"
+  },
+  {
+    "start": 580.18,
+    "duraction": 6.33,
+    "value": "have Peter struck Lisa Paige a lot of"
+  },
+  {
+    "start": 583.75,
+    "duraction": 7.41,
+    "value": "people are on that list that are about"
+  },
+  {
+    "start": 586.51,
+    "duraction": 6.24,
+    "value": "to be taken out host 4111 will you"
+  },
+  {
+    "start": 591.16,
+    "duraction": 4.76,
+    "value": "follow the narrative I can't even"
+  },
+  {
+    "start": 592.75,
+    "duraction": 5.76,
+    "value": "believe this is real but it sadly it is"
+  },
+  {
+    "start": 595.92,
+    "duraction": 4.45,
+    "value": "masks are here to stay and they're"
+  },
+  {
+    "start": 598.51,
+    "duraction": 4.2,
+    "value": "quickly becoming a way to express"
+  },
+  {
+    "start": 600.37,
+    "duraction": 4.92,
+    "value": "ourselves from the Washington Post"
+  },
+  {
+    "start": 602.71,
+    "duraction": 5.31,
+    "value": "obviously owned bought and paid for by"
+  },
+  {
+    "start": 605.29,
+    "duraction": 3.9,
+    "value": "Jeff Bezos masks are here to stay and"
+  },
+  {
+    "start": 608.02,
+    "duraction": 3.36,
+    "value": "they're quickly becoming a way to"
+  },
+  {
+    "start": 609.19,
+    "duraction": 4.77,
+    "value": "express ourselves an explosion of masks"
+  },
+  {
+    "start": 611.38,
+    "duraction": 4.32,
+    "value": "design from fancy to Disney well there's"
+  },
+  {
+    "start": 613.96,
+    "duraction": 3.9,
+    "value": "that word it's helping us to make a"
+  },
+  {
+    "start": 615.7,
+    "duraction": 5.88,
+    "value": "style statement and for some show"
+  },
+  {
+    "start": 617.86,
+    "duraction": 5.79,
+    "value": "solidarity guys this is absolutely this"
+  },
+  {
+    "start": 621.58,
+    "duraction": 4.5,
+    "value": "is pure programming this is all that it"
+  },
+  {
+    "start": 623.65,
+    "duraction": 5.49,
+    "value": "is all that it ever will be get outside"
+  },
+  {
+    "start": 626.08,
+    "duraction": 5.88,
+    "value": "enjoy the weather obviously if you're in"
+  },
+  {
+    "start": 629.14,
+    "duraction": 4.89,
+    "value": "an age bracket where you could be"
+  },
+  {
+    "start": 631.96,
+    "duraction": 6.33,
+    "value": "susceptible to something that can make"
+  },
+  {
+    "start": 634.03,
+    "duraction": 8.13,
+    "value": "you sick and harm you like the flu then"
+  },
+  {
+    "start": 638.29,
+    "duraction": 4.68,
+    "value": "yes wear a mask wash your hands so on"
+  },
+  {
+    "start": 642.16,
+    "duraction": 3.12,
+    "value": "and so forth"
+  },
+  {
+    "start": 642.97,
+    "duraction": 4.44,
+    "value": "and as we could see here coming at us"
+  },
+  {
+    "start": 645.28,
+    "duraction": 4.26,
+    "value": "from IE t 17 please follow him at"
+  },
+  {
+    "start": 647.41,
+    "duraction": 4.29,
+    "value": "inevitable underscore et one of the best"
+  },
+  {
+    "start": 649.54,
+    "duraction": 5.49,
+    "value": "out there investigative journalists and"
+  },
+  {
+    "start": 651.7,
+    "duraction": 8.39,
+    "value": "honest theory from last night 17 post 30"
+  },
+  {
+    "start": 655.03,
+    "duraction": 10.44,
+    "value": "month delta December 4 2017 to May 4th"
+  },
+  {
+    "start": 660.09,
+    "duraction": 7.63,
+    "value": "2020 done in 30 a lot of 30 Delta's red"
+  },
+  {
+    "start": 665.47,
+    "duraction": 5.07,
+    "value": "red Red Cross right"
+  },
+  {
+    "start": 667.72,
+    "duraction": 5.88,
+    "value": "could this be the Keystone right a lot"
+  },
+  {
+    "start": 670.54,
+    "duraction": 5.37,
+    "value": "of money laundering is has been taking"
+  },
+  {
+    "start": 673.6,
+    "duraction": 5.67,
+    "value": "effect it has been as we can see here"
+  },
+  {
+    "start": 675.91,
+    "duraction": 5.4,
+    "value": "from December 4th find the Keystone then"
+  },
+  {
+    "start": 679.27,
+    "duraction": 4.98,
+    "value": "we go down further Red Cross is corrupt"
+  },
+  {
+    "start": 681.31,
+    "duraction": 6.21,
+    "value": "and used as a piggy bank disease is"
+  },
+  {
+    "start": 684.25,
+    "duraction": 8.88,
+    "value": "created by families in power population"
+  },
+  {
+    "start": 687.52,
+    "duraction": 8.42,
+    "value": "control December 4th of 2017 ok then we"
+  },
+  {
+    "start": 693.13,
+    "duraction": 2.81,
+    "value": "go down even further"
+  },
+  {
+    "start": 696.07,
+    "duraction": 7.56,
+    "value": "future topics Pharma billions billions"
+  },
+  {
+    "start": 699.94,
+    "duraction": 7.98,
+    "value": "my friends of dollars then December 19th"
+  },
+  {
+    "start": 703.63,
+    "duraction": 8.87,
+    "value": "of 2019 so 2017 18th and 19th we see"
+  },
+  {
+    "start": 707.92,
+    "duraction": 8.19,
+    "value": "here Red Cross high priority done in 30"
+  },
+  {
+    "start": 712.5,
+    "duraction": 7.45,
+    "value": "could be my friends could be a gift"
+  },
+  {
+    "start": 716.11,
+    "duraction": 5.52,
+    "value": "could be in our near future also"
+  },
+  {
+    "start": 719.95,
+    "duraction": 3.9,
+    "value": "remember this do you remember this"
+  },
+  {
+    "start": 721.63,
+    "duraction": 5.19,
+    "value": "right-wing nut job who was going to you"
+  },
+  {
+    "start": 723.85,
+    "duraction": 4.65,
+    "value": "know what creepy Joe well maybe we"
+  },
+  {
+    "start": 726.82,
+    "duraction": 2.16,
+    "value": "should investigate a little right here"
+  },
+  {
+    "start": 728.5,
+    "duraction": 3.75,
+    "value": "we go"
+  },
+  {
+    "start": 728.98,
+    "duraction": 6.0,
+    "value": "hey 17 devotee live-streamed her trip to"
+  },
+  {
+    "start": 732.25,
+    "duraction": 5.13,
+    "value": "New York - you know what creepy Joe here"
+  },
+  {
+    "start": 734.98,
+    "duraction": 4.62,
+    "value": "she is she looks completely insane but"
+  },
+  {
+    "start": 737.38,
+    "duraction": 4.35,
+    "value": "if we dig a little bit we can find"
+  },
+  {
+    "start": 739.6,
+    "duraction": 3.6,
+    "value": "things first off and I'm telling you"
+  },
+  {
+    "start": 741.73,
+    "duraction": 2.85,
+    "value": "this I'm showing you this to show your"
+  },
+  {
+    "start": 743.2,
+    "duraction": 4.35,
+    "value": "Norma friends how they're trying to"
+  },
+  {
+    "start": 744.58,
+    "duraction": 5.43,
+    "value": "besmirch us why the attacks if we are"
+  },
+  {
+    "start": 747.55,
+    "duraction": 5.58,
+    "value": "not a threat why attack us right because"
+  },
+  {
+    "start": 750.01,
+    "duraction": 5.58,
+    "value": "in actuality we are a giant threat to"
+  },
+  {
+    "start": 753.13,
+    "duraction": 5.34,
+    "value": "the deep state and please follow Don"
+  },
+  {
+    "start": 755.59,
+    "duraction": 4.86,
+    "value": "mentor at Don mentor he says first off"
+  },
+  {
+    "start": 758.47,
+    "duraction": 3.42,
+    "value": "we need to find her accounts oh here's"
+  },
+  {
+    "start": 760.45,
+    "duraction": 3.36,
+    "value": "one with photos yep"
+  },
+  {
+    "start": 761.89,
+    "duraction": 4.08,
+    "value": "that's her all right check it out as we"
+  },
+  {
+    "start": 763.81,
+    "duraction": 4.5,
+    "value": "go right here I would honestly like to"
+  },
+  {
+    "start": 765.97,
+    "duraction": 4.53,
+    "value": "thank Donald Trump he's done a great job"
+  },
+  {
+    "start": 768.31,
+    "duraction": 4.86,
+    "value": "of exposing the racism that were"
+  },
+  {
+    "start": 770.5,
+    "duraction": 2.85,
+    "value": "constantly told doesn't exist there she"
+  },
+  {
+    "start": 773.17,
+    "duraction": 3.0,
+    "value": "is"
+  },
+  {
+    "start": 773.35,
+    "duraction": 4.71,
+    "value": "occupied Democrats Wow all right well"
+  },
+  {
+    "start": 776.17,
+    "duraction": 3.78,
+    "value": "this is who she is so she's part of this"
+  },
+  {
+    "start": 778.06,
+    "duraction": 3.99,
+    "value": "group so it doesn't look like she falls"
+  },
+  {
+    "start": 779.95,
+    "duraction": 4.68,
+    "value": "in line with us what are her political"
+  },
+  {
+    "start": 782.05,
+    "duraction": 7.44,
+    "value": "affiliations must be right right wing"
+  },
+  {
+    "start": 784.63,
+    "duraction": 8.43,
+    "value": "right wrong occupy Democrats calm prim"
+  },
+  {
+    "start": 789.49,
+    "duraction": 5.7,
+    "value": "at Jessica December 2nd 2016 wow that's"
+  },
+  {
+    "start": 793.06,
+    "duraction": 5.43,
+    "value": "very odd I thought she was part of us"
+  },
+  {
+    "start": 795.19,
+    "duraction": 5.67,
+    "value": "right nope where does she live Hampton"
+  },
+  {
+    "start": 798.49,
+    "duraction": 5.28,
+    "value": "Roads isn't that theater near the sea a"
+  },
+  {
+    "start": 800.86,
+    "duraction": 5.22,
+    "value": "farm she wouldn't be a plant set up"
+  },
+  {
+    "start": 803.77,
+    "duraction": 6.51,
+    "value": "specifically to make some other ideology"
+  },
+  {
+    "start": 806.08,
+    "duraction": 7.47,
+    "value": "look bad would she absolutely would prim"
+  },
+  {
+    "start": 810.28,
+    "duraction": 5.4,
+    "value": "Jessica right here Fort Monroe and that"
+  },
+  {
+    "start": 813.55,
+    "duraction": 4.14,
+    "value": "is in Hampton Virginia right here as we"
+  },
+  {
+    "start": 815.68,
+    "duraction": 5.37,
+    "value": "scroll up a little bit is if you go"
+  },
+  {
+    "start": 817.69,
+    "duraction": 5.76,
+    "value": "maybe 18 miles you can see Camp Perry in"
+  },
+  {
+    "start": 821.05,
+    "duraction": 5.94,
+    "value": "Virginia us which is widely believed to"
+  },
+  {
+    "start": 823.45,
+    "duraction": 6.15,
+    "value": "be the host of the farm this is from the"
+  },
+  {
+    "start": 826.99,
+    "duraction": 5.31,
+    "value": "US Sun so is"
+  },
+  {
+    "start": 829.6,
+    "duraction": 5.909,
+    "value": "gyah plant was she farmed just to be put"
+  },
+  {
+    "start": 832.3,
+    "duraction": 5.099,
+    "value": "out there absolutely Don says you can do"
+  },
+  {
+    "start": 835.509,
+    "duraction": 3.841,
+    "value": "what you like with this information but"
+  },
+  {
+    "start": 837.399,
+    "duraction": 3.571,
+    "value": "it is certain in my mind that the"
+  },
+  {
+    "start": 839.35,
+    "duraction": 4.679,
+    "value": "original news article is in quote"
+  },
+  {
+    "start": 840.97,
+    "duraction": 4.919,
+    "value": "hashtag fake news and she's likely not"
+  },
+  {
+    "start": 844.029,
+    "duraction": 2.61,
+    "value": "even in custody but at home with a glass"
+  },
+  {
+    "start": 845.889,
+    "duraction": 3.991,
+    "value": "of wine"
+  },
+  {
+    "start": 846.639,
+    "duraction": 6.301,
+    "value": "mission accomplished five five so we"
+  },
+  {
+    "start": 849.88,
+    "duraction": 5.67,
+    "value": "figured her out we spotted her and we"
+  },
+  {
+    "start": 852.94,
+    "duraction": 5.28,
+    "value": "exposed her this is what investigative"
+  },
+  {
+    "start": 855.55,
+    "duraction": 4.05,
+    "value": "journalism is it's amazing how we can"
+  },
+  {
+    "start": 858.22,
+    "duraction": 3.63,
+    "value": "all work together and we spread this"
+  },
+  {
+    "start": 859.6,
+    "duraction": 5.28,
+    "value": "worldwide so that's what you guys need"
+  },
+  {
+    "start": 861.85,
+    "duraction": 5.609,
+    "value": "to do again she was not arrested she was"
+  },
+  {
+    "start": 864.88,
+    "duraction": 5.55,
+    "value": "not part of us she wasn't going to take"
+  },
+  {
+    "start": 867.459,
+    "duraction": 6.231,
+    "value": "out old creepy Joe this is just another"
+  },
+  {
+    "start": 870.43,
+    "duraction": 5.82,
+    "value": "attack on us plain and simple and"
+  },
+  {
+    "start": 873.69,
+    "duraction": 4.629,
+    "value": "finally for the last article of the day"
+  },
+  {
+    "start": 876.25,
+    "duraction": 5.61,
+    "value": "before we get into some memes check this"
+  },
+  {
+    "start": 878.319,
+    "duraction": 6.51,
+    "value": "out from the Sun Jeffrey you know who"
+  },
+  {
+    "start": 881.86,
+    "duraction": 5.7,
+    "value": "court document names seventy people guys"
+  },
+  {
+    "start": 884.829,
+    "duraction": 6.651,
+    "value": "who in quote knew of sex trafficking in"
+  },
+  {
+    "start": 887.56,
+    "duraction": 6.449,
+    "value": "underaged victims according to sex slave"
+  },
+  {
+    "start": 891.48,
+    "duraction": 4.69,
+    "value": "more than 70 men and women allege to"
+  },
+  {
+    "start": 894.009,
+    "duraction": 3.781,
+    "value": "have knowledge of you know whose sex"
+  },
+  {
+    "start": 896.17,
+    "duraction": 3.539,
+    "value": "trafficking of minor females were"
+  },
+  {
+    "start": 897.79,
+    "duraction": 3.989,
+    "value": "identified as potential witnesses in the"
+  },
+  {
+    "start": 899.709,
+    "duraction": 4.411,
+    "value": "court documents filed but one of the you"
+  },
+  {
+    "start": 901.779,
+    "duraction": 4.56,
+    "value": "know what's underage victims Virginia"
+  },
+  {
+    "start": 904.12,
+    "duraction": 4.079,
+    "value": "Roberts claimed that Prince Andrew"
+  },
+  {
+    "start": 906.339,
+    "duraction": 4.11,
+    "value": "former New Mexico Governor Bill"
+  },
+  {
+    "start": 908.199,
+    "duraction": 5.341,
+    "value": "Richardson hair stylist to the stars"
+  },
+  {
+    "start": 910.449,
+    "duraction": 5.161,
+    "value": "Frederic BK and a former Senate Majority"
+  },
+  {
+    "start": 913.54,
+    "duraction": 4.529,
+    "value": "Leader George Mitchell were among those"
+  },
+  {
+    "start": 915.61,
+    "duraction": 4.14,
+    "value": "who had knowledge of Ghislaine Maxwell's"
+  },
+  {
+    "start": 918.069,
+    "duraction": 4.02,
+    "value": "and Geoffrey you know whose sexual"
+  },
+  {
+    "start": 919.75,
+    "duraction": 6.509,
+    "value": "trafficking conduct in interaction with"
+  },
+  {
+    "start": 922.089,
+    "duraction": 6.451,
+    "value": "underage minors a 2016 court filing"
+  },
+  {
+    "start": 926.259,
+    "duraction": 4.051,
+    "value": "identifies individuals with possible"
+  },
+  {
+    "start": 928.54,
+    "duraction": 4.14,
+    "value": "knowledge of you know whose sexual"
+  },
+  {
+    "start": 930.31,
+    "duraction": 5.459,
+    "value": "trafficking of Jeffrey and then"
+  },
+  {
+    "start": 932.68,
+    "duraction": 5.579,
+    "value": "girlfriend jizz Lane Maxwell in 1995 it"
+  },
+  {
+    "start": 935.769,
+    "duraction": 4.17,
+    "value": "says here the names were included in a"
+  },
+  {
+    "start": 938.259,
+    "duraction": 4.621,
+    "value": "list of potential witnesses that"
+  },
+  {
+    "start": 939.939,
+    "duraction": 5.311,
+    "value": "Virginia filed back in 2016 at the start"
+  },
+  {
+    "start": 942.88,
+    "duraction": 4.29,
+    "value": "of her case against Maxwell Roberts with"
+  },
+  {
+    "start": 945.25,
+    "duraction": 3.3,
+    "value": "Prince Andrew and Maxwell as you can see"
+  },
+  {
+    "start": 947.17,
+    "duraction": 3.81,
+    "value": "here boo-yeah"
+  },
+  {
+    "start": 948.55,
+    "duraction": 4.05,
+    "value": "the names were included in a list of"
+  },
+  {
+    "start": 950.98,
+    "duraction": 3.81,
+    "value": "potential witnesses that Roberts filed"
+  },
+  {
+    "start": 952.6,
+    "duraction": 4.14,
+    "value": "back in 2016 at the start of her case"
+  },
+  {
+    "start": 954.79,
+    "duraction": 4.32,
+    "value": "against Maxwell who she sued for"
+  },
+  {
+    "start": 956.74,
+    "duraction": 5.97,
+    "value": "defamation after the one-time paramour"
+  },
+  {
+    "start": 959.11,
+    "duraction": 5.01,
+    "value": "of you know who called her a liar"
+  },
+  {
+    "start": 962.71,
+    "duraction": 3.33,
+    "value": "every single person listed previously"
+  },
+  {
+    "start": 964.12,
+    "duraction": 4.68,
+    "value": "denied having any knowledge of you know"
+  },
+  {
+    "start": 966.04,
+    "duraction": 4.56,
+    "value": "whose penchant for young girls and it is"
+  },
+  {
+    "start": 968.8,
+    "duraction": 3.48,
+    "value": "not clear whether the named individuals"
+  },
+  {
+    "start": 970.6,
+    "duraction": 4.26,
+    "value": "actually provided evidence in the case"
+  },
+  {
+    "start": 972.28,
+    "duraction": 5.01,
+    "value": "the court documents also do not indicate"
+  },
+  {
+    "start": 974.86,
+    "duraction": 5.25,
+    "value": "when Roberts believes each individual"
+  },
+  {
+    "start": 977.29,
+    "duraction": 5.04,
+    "value": "named became aware of the crimes and"
+  },
+  {
+    "start": 980.11,
+    "duraction": 4.77,
+    "value": "does not accuse the individuals listed"
+  },
+  {
+    "start": 982.33,
+    "duraction": 5.64,
+    "value": "of actively participating in any crime"
+  },
+  {
+    "start": 984.88,
+    "duraction": 5.52,
+    "value": "or cover-up Roberts has long alleged"
+  },
+  {
+    "start": 987.97,
+    "duraction": 6.75,
+    "value": "that she was sexually abused by both"
+  },
+  {
+    "start": 990.4,
+    "duraction": 6.72,
+    "value": "Maxwell and egg penis when she was a"
+  },
+  {
+    "start": 994.72,
+    "duraction": 5.34,
+    "value": "minor and Maxwell ultimately settled"
+  },
+  {
+    "start": 997.12,
+    "duraction": 6.21,
+    "value": "that 2015 lawsuit out of court right"
+  },
+  {
+    "start": 1000.06,
+    "duraction": 5.94,
+    "value": "they paid her off to keep her quiet so a"
+  },
+  {
+    "start": 1003.33,
+    "duraction": 5.7,
+    "value": "lot of names 70 names we are waiting on"
+  },
+  {
+    "start": 1006.0,
+    "duraction": 5.19,
+    "value": "70 names a judge in August unsealed"
+  },
+  {
+    "start": 1009.03,
+    "duraction": 4.77,
+    "value": "approximately 2000 pages of the"
+  },
+  {
+    "start": 1011.19,
+    "duraction": 4.53,
+    "value": "documents in the case and is preparing"
+  },
+  {
+    "start": 1013.8,
+    "duraction": 3.6,
+    "value": "to release another small trove of"
+  },
+  {
+    "start": 1015.72,
+    "duraction": 4.08,
+    "value": "information in the coming weeks guys"
+  },
+  {
+    "start": 1017.4,
+    "duraction": 4.86,
+    "value": "there has been much talk about the names"
+  },
+  {
+    "start": 1019.8,
+    "duraction": 4.95,
+    "value": "that could be contained in these soon to"
+  },
+  {
+    "start": 1022.26,
+    "duraction": 4.14,
+    "value": "be unsealed documents but a look through"
+  },
+  {
+    "start": 1024.75,
+    "duraction": 3.6,
+    "value": "the lengthy court proceedings revealed"
+  },
+  {
+    "start": 1026.4,
+    "duraction": 4.53,
+    "value": "that Roberts had already identified a"
+  },
+  {
+    "start": 1028.35,
+    "duraction": 4.05,
+    "value": "number of the individuals here are a"
+  },
+  {
+    "start": 1030.93,
+    "duraction": 3.74,
+    "value": "list of some of the men and women named"
+  },
+  {
+    "start": 1032.4,
+    "duraction": 4.92,
+    "value": "in the documents obtained by the son"
+  },
+  {
+    "start": 1034.67,
+    "duraction": 5.039,
+    "value": "Alan Dershowitz I knew I couldn't trust"
+  },
+  {
+    "start": 1037.32,
+    "duraction": 6.66,
+    "value": "him don't trust him Frederic Fekkai"
+  },
+  {
+    "start": 1039.709,
+    "duraction": 7.241,
+    "value": "absolutely Evan and gloom Dubin Prince"
+  },
+  {
+    "start": 1043.98,
+    "duraction": 6.33,
+    "value": "Andrew Tony Figueroa"
+  },
+  {
+    "start": 1046.95,
+    "duraction": 6.72,
+    "value": "Claire hazel Steven Kaufmann Sara Kellen"
+  },
+  {
+    "start": 1050.31,
+    "duraction": 8.13,
+    "value": "Nadine Marcin Cova char George Mitchell"
+  },
+  {
+    "start": 1053.67,
+    "duraction": 6.9,
+    "value": "Wow David Rogers Amy Taylor Tom prick"
+  },
+  {
+    "start": 1058.44,
+    "duraction": 3.45,
+    "value": "your Pritzker there you go there's"
+  },
+  {
+    "start": 1060.57,
+    "duraction": 4.04,
+    "value": "another name familiar name bill"
+  },
+  {
+    "start": 1061.89,
+    "duraction": 6.18,
+    "value": "Richardson Hali Hobson Larry viscose ski"
+  },
+  {
+    "start": 1064.61,
+    "duraction": 3.88,
+    "value": "Leslie Wexner whoa Wexner you know that"
+  },
+  {
+    "start": 1068.07,
+    "duraction": 3.69,
+    "value": "name"
+  },
+  {
+    "start": 1068.49,
+    "duraction": 5.37,
+    "value": "Igor Zee Nouveau view or whatever I"
+  },
+  {
+    "start": 1071.76,
+    "duraction": 3.72,
+    "value": "didn't you know and you can see this I"
+  },
+  {
+    "start": 1073.86,
+    "duraction": 4.38,
+    "value": "will drop this in the description box"
+  },
+  {
+    "start": 1075.48,
+    "duraction": 4.83,
+    "value": "below under this video you can check out"
+  },
+  {
+    "start": 1078.24,
+    "duraction": 4.44,
+    "value": "all the names but it seems like another"
+  },
+  {
+    "start": 1080.31,
+    "duraction": 5.1,
+    "value": "trove another treasure trove of names is"
+  },
+  {
+    "start": 1082.68,
+    "duraction": 5.07,
+    "value": "going to be released guys and I'm stoked"
+  },
+  {
+    "start": 1085.41,
+    "duraction": 3.75,
+    "value": "on it and this came out today so"
+  },
+  {
+    "start": 1087.75,
+    "duraction": 3.27,
+    "value": "hopefully in the next few weeks we'll"
+  },
+  {
+    "start": 1089.16,
+    "duraction": 4.74,
+    "value": "see some names drop and that will open"
+  },
+  {
+    "start": 1091.02,
+    "duraction": 4.35,
+    "value": "up more doors right alright friends"
+  },
+  {
+    "start": 1093.9,
+    "duraction": 1.979,
+    "value": "let's go ahead and hop into some memes"
+  },
+  {
+    "start": 1095.37,
+    "duraction": 4.199,
+    "value": "too"
+  },
+  {
+    "start": 1095.879,
+    "duraction": 7.44,
+    "value": "round out the podcast alright also from"
+  },
+  {
+    "start": 1099.569,
+    "duraction": 7.02,
+    "value": "at 55 true for you he says and he has a"
+  },
+  {
+    "start": 1103.319,
+    "duraction": 5.88,
+    "value": "ton of followers on Twitter"
+  },
+  {
+    "start": 1106.589,
+    "duraction": 5.37,
+    "value": "he says join us on his flight has been"
+  },
+  {
+    "start": 1109.199,
+    "duraction": 3.96,
+    "value": "confirmed buckle the hell up we are"
+  },
+  {
+    "start": 1111.959,
+    "duraction": 4.29,
+    "value": "landing"
+  },
+  {
+    "start": 1113.159,
+    "duraction": 5.4,
+    "value": "I suggest following 72 seconds at 55"
+  },
+  {
+    "start": 1116.249,
+    "duraction": 4.68,
+    "value": "true for you and just look at the posts"
+  },
+  {
+    "start": 1118.559,
+    "duraction": 2.97,
+    "value": "he's been dropping quite interesting to"
+  },
+  {
+    "start": 1120.929,
+    "duraction": 2.37,
+    "value": "say the least"
+  },
+  {
+    "start": 1121.529,
+    "duraction": 4.19,
+    "value": "it is Julian Assange being brought back"
+  },
+  {
+    "start": 1123.299,
+    "duraction": 7.35,
+    "value": "into the picture we can only pray"
+  },
+  {
+    "start": 1125.719,
+    "duraction": 7.15,
+    "value": "Jonathan T Gilliam @jg Liam underscore"
+  },
+  {
+    "start": 1130.649,
+    "duraction": 4.02,
+    "value": "SEAL Navy SEAL we can see here today"
+  },
+  {
+    "start": 1132.869,
+    "duraction": 3.42,
+    "value": "there is a domestic war occurring inside"
+  },
+  {
+    "start": 1134.669,
+    "duraction": 3.51,
+    "value": "the United States to overthrow the"
+  },
+  {
+    "start": 1136.289,
+    "duraction": 4.651,
+    "value": "constitutional foundation of our"
+  },
+  {
+    "start": 1138.179,
+    "duraction": 5.82,
+    "value": "Republic in order to usher in socialism"
+  },
+  {
+    "start": 1140.94,
+    "duraction": 5.549,
+    "value": "as the nation's new form of government"
+  },
+  {
+    "start": 1143.999,
+    "duraction": 5.16,
+    "value": "anyone who knowingly participates in"
+  },
+  {
+    "start": 1146.489,
+    "duraction": 7.02,
+    "value": "this covert conspiracy is guilty of"
+  },
+  {
+    "start": 1149.159,
+    "duraction": 6.18,
+    "value": "treason absolutely and this is this lady"
+  },
+  {
+    "start": 1153.509,
+    "duraction": 4.41,
+    "value": "right here is becoming my new favorite"
+  },
+  {
+    "start": 1155.339,
+    "duraction": 4.86,
+    "value": "on Twitter Deana for Congress she is"
+  },
+  {
+    "start": 1157.919,
+    "duraction": 5.4,
+    "value": "actually running against Nancy Pelosi in"
+  },
+  {
+    "start": 1160.199,
+    "duraction": 4.47,
+    "value": "the state of California she says and I"
+  },
+  {
+    "start": 1163.319,
+    "duraction": 4.2,
+    "value": "can't believe she said it"
+  },
+  {
+    "start": 1164.669,
+    "duraction": 5.4,
+    "value": "I honestly wonder if my Michelle Obama"
+  },
+  {
+    "start": 1167.519,
+    "duraction": 4.68,
+    "value": "has the in quote balls to face the"
+  },
+  {
+    "start": 1170.069,
+    "duraction": 4.26,
+    "value": "scrutiny that she would come under if"
+  },
+  {
+    "start": 1172.199,
+    "duraction": 5.01,
+    "value": "she signed on to be Biden's vice"
+  },
+  {
+    "start": 1174.329,
+    "duraction": 5.67,
+    "value": "president michelle has never been truly"
+  },
+  {
+    "start": 1177.209,
+    "duraction": 4.8,
+    "value": "vetted now we can all think about last"
+  },
+  {
+    "start": 1179.999,
+    "duraction": 4.41,
+    "value": "time Michelle Obama was called out for"
+  },
+  {
+    "start": 1182.009,
+    "duraction": 6.24,
+    "value": "having this word right here and that was"
+  },
+  {
+    "start": 1184.409,
+    "duraction": 7.5,
+    "value": "Joan Rivers rest in peace put the F in"
+  },
+  {
+    "start": 1188.249,
+    "duraction": 6.81,
+    "value": "the chat my friends that is that is"
+  },
+  {
+    "start": 1191.909,
+    "duraction": 5.55,
+    "value": "ballsy of Deana Lorraine to put that out"
+  },
+  {
+    "start": 1195.059,
+    "duraction": 4.53,
+    "value": "there but obviously she must be"
+  },
+  {
+    "start": 1197.459,
+    "duraction": 4.89,
+    "value": "protected to throw something out there"
+  },
+  {
+    "start": 1199.589,
+    "duraction": 5.67,
+    "value": "with such magnitude of such magnitude"
+  },
+  {
+    "start": 1202.349,
+    "duraction": 4.65,
+    "value": "and Elon Musk if you have not been"
+  },
+  {
+    "start": 1205.259,
+    "duraction": 3.48,
+    "value": "following him lately he's been going on"
+  },
+  {
+    "start": 1206.999,
+    "duraction": 4.05,
+    "value": "rants on Twitter talking you know"
+  },
+  {
+    "start": 1208.739,
+    "duraction": 6.09,
+    "value": "reciting the star-spangled banner just"
+  },
+  {
+    "start": 1211.049,
+    "duraction": 6.54,
+    "value": "throwing out crazy information kind of"
+  },
+  {
+    "start": 1214.829,
+    "duraction": 5.49,
+    "value": "off his rocker but we can see here that"
+  },
+  {
+    "start": 1217.589,
+    "duraction": 4.65,
+    "value": "Elon Musk says here"
+  },
+  {
+    "start": 1220.319,
+    "duraction": 6.27,
+    "value": "Elon must change his profile picture to"
+  },
+  {
+    "start": 1222.239,
+    "duraction": 4.92,
+    "value": "a picture of dues ex the video game I'm"
+  },
+  {
+    "start": 1226.589,
+    "duraction": 2.79,
+    "value": "not hurt"
+  },
+  {
+    "start": 1227.159,
+    "duraction": 2.491,
+    "value": "sure about this but anyways the game is"
+  },
+  {
+    "start": 1229.379,
+    "duraction": 2.611,
+    "value": "a"
+  },
+  {
+    "start": 1229.65,
+    "duraction": 4.8,
+    "value": "a government agent exposing the"
+  },
+  {
+    "start": 1231.99,
+    "duraction": 4.68,
+    "value": "Illuminati and their deliberate release"
+  },
+  {
+    "start": 1234.45,
+    "duraction": 4.47,
+    "value": "of a you-know-what which becomes a"
+  },
+  {
+    "start": 1236.67,
+    "duraction": 5.37,
+    "value": "global pandemic that was done to control"
+  },
+  {
+    "start": 1238.92,
+    "duraction": 5.61,
+    "value": "society he's he about to rent pill a lot"
+  },
+  {
+    "start": 1242.04,
+    "duraction": 5.22,
+    "value": "of people a lot of people look up to him"
+  },
+  {
+    "start": 1244.53,
+    "duraction": 5.31,
+    "value": "let's get it right he was on Joe Rogan a"
+  },
+  {
+    "start": 1247.26,
+    "duraction": 4.41,
+    "value": "lot of people follow him they look up to"
+  },
+  {
+    "start": 1249.84,
+    "duraction": 4.35,
+    "value": "him could he be"
+  },
+  {
+    "start": 1251.67,
+    "duraction": 7.5,
+    "value": "could he have flipped could he be a gray"
+  },
+  {
+    "start": 1254.19,
+    "duraction": 6.09,
+    "value": "hat who knows a sleeper possibly from in"
+  },
+  {
+    "start": 1259.17,
+    "duraction": 3.48,
+    "value": "pursuit of truth"
+  },
+  {
+    "start": 1260.28,
+    "duraction": 3.72,
+    "value": "fun fact Joe Biden was recently freaked"
+  },
+  {
+    "start": 1262.65,
+    "duraction": 4.05,
+    "value": "out about the mentions of his Senate"
+  },
+  {
+    "start": 1264.0,
+    "duraction": 5.19,
+    "value": "records at Delaware University once lied"
+  },
+  {
+    "start": 1266.7,
+    "duraction": 4.89,
+    "value": "and said he went to Delaware State he"
+  },
+  {
+    "start": 1269.19,
+    "duraction": 3.15,
+    "value": "did not Delaware State's mascot is a"
+  },
+  {
+    "start": 1271.59,
+    "duraction": 3.69,
+    "value": "Hornet"
+  },
+  {
+    "start": 1272.34,
+    "duraction": 5.73,
+    "value": "no word if he's a murder Hornet but I"
+  },
+  {
+    "start": 1275.28,
+    "duraction": 6.84,
+    "value": "think I spotted an aggravated assault"
+  },
+  {
+    "start": 1278.07,
+    "duraction": 6.93,
+    "value": "well done police follow i pot 1776 one"
+  },
+  {
+    "start": 1282.12,
+    "duraction": 4.95,
+    "value": "of the best and this is very strange as"
+  },
+  {
+    "start": 1285.0,
+    "duraction": 4.11,
+    "value": "well if you did not know this I was"
+  },
+  {
+    "start": 1287.07,
+    "duraction": 4.65,
+    "value": "awakened by a storm last night almost"
+  },
+  {
+    "start": 1289.11,
+    "duraction": 4.89,
+    "value": "exactly when this dropped and it says"
+  },
+  {
+    "start": 1291.72,
+    "duraction": 5.49,
+    "value": "from dance Covino he has now deleted"
+  },
+  {
+    "start": 1294.0,
+    "duraction": 5.19,
+    "value": "this guy's he has deleted it this is a"
+  },
+  {
+    "start": 1297.21,
+    "duraction": 3.99,
+    "value": "spinning of numbers"
+  },
+  {
+    "start": 1299.19,
+    "duraction": 4.44,
+    "value": "it was a gif of spinning numbers and"
+  },
+  {
+    "start": 1301.2,
+    "duraction": 4.23,
+    "value": "basically it's the same image that you"
+  },
+  {
+    "start": 1303.63,
+    "duraction": 5.76,
+    "value": "would see when you were trying to follow"
+  },
+  {
+    "start": 1305.43,
+    "duraction": 6.45,
+    "value": "the rabbit down the rabbit hole in Alice"
+  },
+  {
+    "start": 1309.39,
+    "duraction": 6.12,
+    "value": "in Wonderland spinning falling downward"
+  },
+  {
+    "start": 1311.88,
+    "duraction": 6.27,
+    "value": "into a rabbit hole and then he deletes"
+  },
+  {
+    "start": 1315.51,
+    "duraction": 5.37,
+    "value": "it very interesting guys very"
+  },
+  {
+    "start": 1318.15,
+    "duraction": 5.19,
+    "value": "interesting indeed i 100% thing that"
+  },
+  {
+    "start": 1320.88,
+    "duraction": 5.4,
+    "value": "dance could be now is 100% part of the"
+  },
+  {
+    "start": 1323.34,
+    "duraction": 5.61,
+    "value": "17 team check this out guys from an"
+  },
+  {
+    "start": 1326.28,
+    "duraction": 5.46,
+    "value": "inevitable underscore et my fellow"
+  },
+  {
+    "start": 1328.95,
+    "duraction": 6.24,
+    "value": "Americans the storm wink wink"
+  },
+  {
+    "start": 1331.74,
+    "duraction": 6.48,
+    "value": "from Joseph J Flynn one Joseph J Flynn"
+  },
+  {
+    "start": 1335.19,
+    "duraction": 5.97,
+    "value": "what a beautiful black sky at general"
+  },
+  {
+    "start": 1338.22,
+    "duraction": 5.52,
+    "value": "Flynn the storm has it approached by"
+  },
+  {
+    "start": 1341.16,
+    "duraction": 6.12,
+    "value": "fellow Americans the storm is upon us"
+  },
+  {
+    "start": 1343.74,
+    "duraction": 6.84,
+    "value": "right unbelievable is that a wink wink"
+  },
+  {
+    "start": 1347.28,
+    "duraction": 5.04,
+    "value": "to us a tip of the cap could be now I"
+  },
+  {
+    "start": 1350.58,
+    "duraction": 3.24,
+    "value": "wanted to touch base on this before we"
+  },
+  {
+    "start": 1352.32,
+    "duraction": 4.44,
+    "value": "in the podcast because this is what I"
+  },
+  {
+    "start": 1353.82,
+    "duraction": 5.43,
+    "value": "was talking about having to do with the"
+  },
+  {
+    "start": 1356.76,
+    "duraction": 4.95,
+    "value": "Red Cross with intro video we're talking"
+  },
+  {
+    "start": 1359.25,
+    "duraction": 3.78,
+    "value": "about reverse engineering going into the"
+  },
+  {
+    "start": 1361.71,
+    "duraction": 2.1,
+    "value": "actual programming and coding to"
+  },
+  {
+    "start": 1363.03,
+    "duraction": 2.34,
+    "value": "actually find"
+  },
+  {
+    "start": 1363.81,
+    "duraction": 4.44,
+    "value": "source the account number and the IP"
+  },
+  {
+    "start": 1365.37,
+    "duraction": 6.66,
+    "value": "address of where this money went check"
+  },
+  {
+    "start": 1368.25,
+    "duraction": 7.83,
+    "value": "this out the video that 17 did post from"
+  },
+  {
+    "start": 1372.03,
+    "duraction": 6.06,
+    "value": "july 2019 why is the paper attached to"
+  },
+  {
+    "start": 1376.08,
+    "duraction": 4.53,
+    "value": "the top of the box that was open which"
+  },
+  {
+    "start": 1378.09,
+    "duraction": 4.95,
+    "value": "was full of American tinder millions"
+  },
+  {
+    "start": 1380.61,
+    "duraction": 5.76,
+    "value": "hundreds of millions of dollars written"
+  },
+  {
+    "start": 1383.04,
+    "duraction": 6.72,
+    "value": "in Arabic it's definitely Middle Eastern"
+  },
+  {
+    "start": 1386.37,
+    "duraction": 7.29,
+    "value": "as we can zoom in check it right here"
+  },
+  {
+    "start": 1389.76,
+    "duraction": 7.95,
+    "value": "I believe that says 2012"
+  },
+  {
+    "start": 1393.66,
+    "duraction": 8.07,
+    "value": "August of 2012 actually July of 2012"
+  },
+  {
+    "start": 1397.71,
+    "duraction": 5.79,
+    "value": "it's very interesting I believe why is"
+  },
+  {
+    "start": 1401.73,
+    "duraction": 4.59,
+    "value": "that written on top of that these are on"
+  },
+  {
+    "start": 1403.5,
+    "duraction": 5.85,
+    "value": "the doors or on top of the cases in"
+  },
+  {
+    "start": 1406.32,
+    "duraction": 4.89,
+    "value": "Arabic where is this money going it"
+  },
+  {
+    "start": 1409.35,
+    "duraction": 4.41,
+    "value": "doesn't stand for help the Red Cross"
+  },
+  {
+    "start": 1411.21,
+    "duraction": 6.75,
+    "value": "does not it stands as a plus sign"
+  },
+  {
+    "start": 1413.76,
+    "duraction": 5.79,
+    "value": "equaling profit a slush fund millions"
+  },
+  {
+    "start": 1417.96,
+    "duraction": 4.8,
+    "value": "hundreds of millions of dollars probably"
+  },
+  {
+    "start": 1419.55,
+    "duraction": 6.69,
+    "value": "billions of dollars are going into the"
+  },
+  {
+    "start": 1422.76,
+    "duraction": 6.15,
+    "value": "hands of people who are greedy they hate"
+  },
+  {
+    "start": 1426.24,
+    "duraction": 6.42,
+    "value": "us they hate God and all they care about"
+  },
+  {
+    "start": 1428.91,
+    "duraction": 5.49,
+    "value": "are themselves sick human beings indeed"
+  },
+  {
+    "start": 1432.66,
+    "duraction": 3.9,
+    "value": "there are the tops of the tops of the"
+  },
+  {
+    "start": 1434.4,
+    "duraction": 4.08,
+    "value": "boxes filled with American tinder"
+  },
+  {
+    "start": 1436.56,
+    "duraction": 3.86,
+    "value": "written in Arabic who gave them this"
+  },
+  {
+    "start": 1438.48,
+    "duraction": 5.22,
+    "value": "money where was it sent from"
+  },
+  {
+    "start": 1440.42,
+    "duraction": 6.07,
+    "value": "reverse-engineering will tell us that's"
+  },
+  {
+    "start": 1443.7,
+    "duraction": 4.83,
+    "value": "why Anton's need to get on to that"
+  },
+  {
+    "start": 1446.49,
+    "duraction": 4.82,
+    "value": "programming site and figure it out"
+  },
+  {
+    "start": 1448.53,
+    "duraction": 5.24,
+    "value": "download it learn it expose it right"
+  },
+  {
+    "start": 1451.31,
+    "duraction": 4.44,
+    "value": "unbelievable that's what they need to do"
+  },
+  {
+    "start": 1453.77,
+    "duraction": 4.75,
+    "value": "International Red Cross and Red Crescent"
+  },
+  {
+    "start": 1455.75,
+    "duraction": 4.18,
+    "value": "movement the movement logo in six"
+  },
+  {
+    "start": 1458.52,
+    "duraction": 4.71,
+    "value": "official languages English French"
+  },
+  {
+    "start": 1459.93,
+    "duraction": 8.7,
+    "value": "Spanish the last three Arabic Chinese"
+  },
+  {
+    "start": 1463.23,
+    "duraction": 7.08,
+    "value": "and Russian Wow it was founded in 1919"
+  },
+  {
+    "start": 1468.63,
+    "duraction": 4.62,
+    "value": "in Switzerland it's been around a long"
+  },
+  {
+    "start": 1470.31,
+    "duraction": 5.82,
+    "value": "time that's a lot of money a lot of"
+  },
+  {
+    "start": 1473.25,
+    "duraction": 9.15,
+    "value": "money actually it was founded it looks"
+  },
+  {
+    "start": 1476.13,
+    "duraction": 8.79,
+    "value": "to be in February 9th 1863 my god oh my"
+  },
+  {
+    "start": 1482.4,
+    "duraction": 4.35,
+    "value": "goodness and you can see the names of"
+  },
+  {
+    "start": 1484.92,
+    "duraction": 4.23,
+    "value": "the people of the founders the type is a"
+  },
+  {
+    "start": 1486.75,
+    "duraction": 5.58,
+    "value": "non-government organization nonprofit"
+  },
+  {
+    "start": 1489.15,
+    "duraction": 3.8,
+    "value": "organization humanitarianism absolutely"
+  },
+  {
+    "start": 1492.33,
+    "duraction": 4.29,
+    "value": "not"
+  },
+  {
+    "start": 1492.95,
+    "duraction": 6.7,
+    "value": "volunteers around 17 million people"
+  },
+  {
+    "start": 1496.62,
+    "duraction": 4.35,
+    "value": "absolutely disgusting that they would"
+  },
+  {
+    "start": 1499.65,
+    "duraction": 3.93,
+    "value": "steal the money out of hard-working"
+  },
+  {
+    "start": 1500.97,
+    "duraction": 4.98,
+    "value": "American patriots guys and as you can"
+  },
+  {
+    "start": 1503.58,
+    "duraction": 7.17,
+    "value": "see the Red Cross has been trafficking"
+  },
+  {
+    "start": 1505.95,
+    "duraction": 7.17,
+    "value": "children since 1863 guys this was a"
+  },
+  {
+    "start": 1510.75,
+    "duraction": 4.74,
+    "value": "jam-packed podcast and I hope you"
+  },
+  {
+    "start": 1513.12,
+    "duraction": 4.59,
+    "value": "enjoyed it you did please subscribe to"
+  },
+  {
+    "start": 1515.49,
+    "duraction": 4.17,
+    "value": "my channel you can follow me on Twitter"
+  },
+  {
+    "start": 1517.71,
+    "duraction": 4.86,
+    "value": "it takes 30 seconds to set up an account"
+  },
+  {
+    "start": 1519.66,
+    "duraction": 5.19,
+    "value": "and also guys please leave a like I"
+  },
+  {
+    "start": 1522.57,
+    "duraction": 3.81,
+    "value": "would greatly appreciate it you can"
+  },
+  {
+    "start": 1524.85,
+    "duraction": 3.27,
+    "value": "so donated this channel and keep it"
+  },
+  {
+    "start": 1526.38,
+    "duraction": 6.33,
+    "value": "afloat which so many of you do and I'm"
+  },
+  {
+    "start": 1528.12,
+    "duraction": 7.44,
+    "value": "so gracious for you you can go to my P o"
+  },
+  {
+    "start": 1532.71,
+    "duraction": 5.43,
+    "value": "box we have PayPal we have patreon and"
+  },
+  {
+    "start": 1535.56,
+    "duraction": 5.25,
+    "value": "true reporting merch we also have true"
+  },
+  {
+    "start": 1538.14,
+    "duraction": 4.29,
+    "value": "reporting us that is the website that"
+  },
+  {
+    "start": 1540.81,
+    "duraction": 3.09,
+    "value": "has been launched go pick out some merch"
+  },
+  {
+    "start": 1542.43,
+    "duraction": 3.36,
+    "value": "there's gonna be a lot more going on"
+  },
+  {
+    "start": 1543.9,
+    "duraction": 4.02,
+    "value": "that site so add it to your favorites I"
+  },
+  {
+    "start": 1545.79,
+    "duraction": 4.53,
+    "value": "would greatly appreciate it guys I hope"
+  },
+  {
+    "start": 1547.92,
+    "duraction": 4.95,
+    "value": "you have a wonderful day be safe out"
+  },
+  {
+    "start": 1550.32,
+    "duraction": 4.56,
+    "value": "there this could be boom week blend"
+  },
+  {
+    "start": 1552.87,
+    "duraction": 4.92,
+    "value": "could be exonerated a lot is taking"
+  },
+  {
+    "start": 1554.88,
+    "duraction": 5.07,
+    "value": "place in real time so let's just pop our"
+  },
+  {
+    "start": 1557.79,
+    "duraction": 3.93,
+    "value": "popcorn sit back relax and see what"
+  },
+  {
+    "start": 1559.95,
+    "duraction": 2.19,
+    "value": "takes place if you guys have a wonderful"
+  },
+  {
+    "start": 1561.72,
+    "duraction": 3.38,
+    "value": "day"
+  },
+  {
+    "start": 1562.14,
+    "duraction": 2.96,
+    "value": "god bless you"
+  },
+  {
+    "start": 1566.79,
+    "duraction": 4.95,
+    "value": "[Music]"
+  },
+  {
+    "start": 1574.86,
+    "duraction": 5.36,
+    "value": "[Applause]"
+  },
+  {
+    "start": 1581.37,
+    "duraction": 2.06,
+    "value": "you"
+  }
+]
