@@ -1,0 +1,982 @@
+[
+  {
+    "start": 1.37,
+    "duraction": 5.49,
+    "value": "par 2"
+  },
+  {
+    "start": 2.77,
+    "duraction": 4.09,
+    "value": "[音楽]"
+  },
+  {
+    "start": 7.389,
+    "duraction": 7.25,
+    "value": "dj ん"
+  },
+  {
+    "start": 9.92,
+    "duraction": 7.719,
+    "value": "[音楽]"
+  },
+  {
+    "start": 14.639,
+    "duraction": 3.0,
+    "value": "ok"
+  },
+  {
+    "start": 17.96,
+    "duraction": 4.6,
+    "value": "[音楽]"
+  },
+  {
+    "start": 19.7,
+    "duraction": 4.749,
+    "value": "ん"
+  },
+  {
+    "start": 22.56,
+    "duraction": 3.82,
+    "value": "[音楽]"
+  },
+  {
+    "start": 24.449,
+    "duraction": 4.981,
+    "value": "ん"
+  },
+  {
+    "start": 26.38,
+    "duraction": 7.499,
+    "value": "[音楽]"
+  },
+  {
+    "start": 29.43,
+    "duraction": 12.55,
+    "value": "あ頭がぁ web app to this friday"
+  },
+  {
+    "start": 33.879,
+    "duraction": 12.371,
+    "value": "b 002ティファニー lemos チャーーーンス reade フェイススター"
+  },
+  {
+    "start": 41.98,
+    "duraction": 9.22,
+    "value": "to do for"
+  },
+  {
+    "start": 46.25,
+    "duraction": 6.61,
+    "value": "rnase free def 4 n ディウェルプレート peep 大ウェア"
+  },
+  {
+    "start": 51.2,
+    "duraction": 21.65,
+    "value": "ウェーダー"
+  },
+  {
+    "start": 52.86,
+    "duraction": 26.7,
+    "value": "all are you do"
+  },
+  {
+    "start": 72.85,
+    "duraction": 19.47,
+    "value": "分パスジャスパー appsec usa ファーザーズ four 4 a rood"
+  },
+  {
+    "start": 79.56,
+    "duraction": 13.28,
+    "value": "eleanor baset er 4 n 4ティガー連 to do as"
+  },
+  {
+    "start": 92.32,
+    "duraction": 20.54,
+    "value": "pinky"
+  },
+  {
+    "start": 92.84,
+    "duraction": 39.04,
+    "value": "2どぅアームガードラン"
+  },
+  {
+    "start": 112.86,
+    "duraction": 22.17,
+    "value": "似合うタイプ a sore to do"
+  },
+  {
+    "start": 131.88,
+    "duraction": 4.29,
+    "value": "rear ぴんぽりふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 135.03,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 136.17,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 137.31,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 138.45,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 139.59,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 140.73,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 141.87,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 143.01,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 144.15,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 145.29,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 146.43,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 147.57,
+    "duraction": 2.31,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 148.71,
+    "duraction": 2.31,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 149.88,
+    "duraction": 3.92,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 151.02,
+    "duraction": 2.78,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 154.5,
+    "duraction": 17.39,
+    "value": "terrem forever レッグ forever レディーみー drrr"
+  },
+  {
+    "start": 169.239,
+    "duraction": 7.051,
+    "value": "up your ear force マーレ"
+  },
+  {
+    "start": 171.89,
+    "duraction": 11.57,
+    "value": "saas ペット nc セックス underg キャッシュ"
+  },
+  {
+    "start": 176.29,
+    "duraction": 25.04,
+    "value": "redu スターフォース n 2 do with バーエンドバーイング"
+  },
+  {
+    "start": 183.46,
+    "duraction": 19.99,
+    "value": "ポリーいい& a car bander アーレス ap 4寸黒ポスティング"
+  },
+  {
+    "start": 201.33,
+    "duraction": 22.25,
+    "value": "swinger spruce inc 5"
+  },
+  {
+    "start": 203.45,
+    "duraction": 33.12,
+    "value": "re ブルードゥ"
+  },
+  {
+    "start": 223.58,
+    "duraction": 19.03,
+    "value": "voodoo 4ステイ spero arus ブーバインフォーム us アーレ"
+  },
+  {
+    "start": 236.57,
+    "duraction": 23.41,
+    "value": "anu do"
+  },
+  {
+    "start": 242.61,
+    "duraction": 38.88,
+    "value": "as esterase to do for a あーレディ10倍"
+  },
+  {
+    "start": 259.98,
+    "duraction": 21.51,
+    "value": "ブーバーれブログへ"
+  },
+  {
+    "start": 298.42,
+    "duraction": 6.36,
+    "value": "ファーレンフェア"
+  },
+  {
+    "start": 299.849,
+    "duraction": 24.921,
+    "value": "enjoy フィッティングライディングドブライブ大津ダーカーウェンツレントを"
+  },
+  {
+    "start": 304.78,
+    "duraction": 27.729,
+    "value": "ポーチ rper マーレプリウス even to"
+  },
+  {
+    "start": 324.77,
+    "duraction": 12.82,
+    "value": "r &パー5 r o n one パーティー普通どぅバー袋ルビークイーン c 2"
+  },
+  {
+    "start": 332.509,
+    "duraction": 25.071,
+    "value": "sex you do プロスポーツハーバー"
+  },
+  {
+    "start": 337.59,
+    "duraction": 22.979,
+    "value": "4 me a アーレスターレッドウィング teraso"
+  },
+  {
+    "start": 357.58,
+    "duraction": 6.949,
+    "value": "大シャープで徒やー"
+  },
+  {
+    "start": 360.569,
+    "duraction": 9.33,
+    "value": "オールのバンジーな web サイバージーノダーカー st stories"
+  },
+  {
+    "start": 364.529,
+    "duraction": 9.631,
+    "value": "アナウンス points to do in form t ゲームオーバーパーと"
+  },
+  {
+    "start": 369.899,
+    "duraction": 7.461,
+    "value": "ペーパーレス tmf group ちょ join 6"
+  },
+  {
+    "start": 374.16,
+    "duraction": 3.2,
+    "value": "絵付けの b 0 e mestieri"
+  },
+  {
+    "start": 380.55,
+    "duraction": 20.899,
+    "value": "rus オーバー letters to do"
+  },
+  {
+    "start": 396.62,
+    "duraction": 6.5,
+    "value": "ama club lizard ピアノ所 fon バイパー連ファッションや軍"
+  },
+  {
+    "start": 401.449,
+    "duraction": 5.511,
+    "value": "バックドアー"
+  },
+  {
+    "start": 403.12,
+    "duraction": 10.579,
+    "value": "tarbo スクール s opening in cars まーくしょん ad"
+  },
+  {
+    "start": 406.96,
+    "duraction": 6.739,
+    "value": "そう xe ブリーフィングフォースオープニングマーカー spa フードウェイ"
+  },
+  {
+    "start": 431.55,
+    "duraction": 23.02,
+    "value": "voodoo"
+  },
+  {
+    "start": 433.78,
+    "duraction": 20.79,
+    "value": "render forever lazy voodoo"
+  },
+  {
+    "start": 470.689,
+    "duraction": 3.811,
+    "value": "アーレスタープアプリ"
+  },
+  {
+    "start": 477.57,
+    "duraction": 30.97,
+    "value": "truste nobe アーレンチーンルードゥア"
+  },
+  {
+    "start": 486.56,
+    "duraction": 21.98,
+    "value": "ana アーレ"
+  },
+  {
+    "start": 525.079,
+    "duraction": 8.601,
+    "value": "voodoo me"
+  },
+  {
+    "start": 527.85,
+    "duraction": 10.77,
+    "value": "rear haert ジェントリーカー per ベールアーム"
+  },
+  {
+    "start": 533.68,
+    "duraction": 22.22,
+    "value": "フェンダーワープ4 noo チェアーれるいいぞあ"
+  },
+  {
+    "start": 538.62,
+    "duraction": 21.89,
+    "value": "チャーレム"
+  },
+  {
+    "start": 555.9,
+    "duraction": 4.61,
+    "value": "五月天リンガー rain チェ"
+  },
+  {
+    "start": 569.339,
+    "duraction": 5.031,
+    "value": "voodoo アウディ a cigar"
+  },
+  {
+    "start": 572.279,
+    "duraction": 17.651,
+    "value": "をレイプ fd"
+  },
+  {
+    "start": 574.37,
+    "duraction": 15.56,
+    "value": "グードゥパティローバー"
+  },
+  {
+    "start": 610.86,
+    "duraction": 6.099,
+    "value": "voodoo 4枚"
+  },
+  {
+    "start": 612.499,
+    "duraction": 4.46,
+    "value": "re not to do"
+  },
+  {
+    "start": 641.289,
+    "duraction": 3.36,
+    "value": "アーレステイクア"
+  },
+  {
+    "start": 661.76,
+    "duraction": 6.22,
+    "value": "voodoo"
+  },
+  {
+    "start": 662.83,
+    "duraction": 14.19,
+    "value": "デイクリームテスト4 astrea taster would you do"
+  },
+  {
+    "start": 667.98,
+    "duraction": 9.92,
+    "value": "for winter letter to do わぁフィールダーでーしょんどぅ"
+  },
+  {
+    "start": 677.02,
+    "duraction": 20.869,
+    "value": "あ"
+  },
+  {
+    "start": 677.9,
+    "duraction": 23.6,
+    "value": "4 nobeta アーレス trenders デイズディマーレウィルードゥ"
+  },
+  {
+    "start": 697.889,
+    "duraction": 12.251,
+    "value": "ster 4ニールブルースリー j 無縁"
+  },
+  {
+    "start": 701.5,
+    "duraction": 19.99,
+    "value": "her in web app to do アプリケーション a tribu sa"
+  },
+  {
+    "start": 710.14,
+    "duraction": 31.37,
+    "value": "スマートフォン a pimp forever レッドプロジェクファンドゥ"
+  },
+  {
+    "start": 721.49,
+    "duraction": 36.63,
+    "value": "バイザー letters to do"
+  },
+  {
+    "start": 741.51,
+    "duraction": 19.229,
+    "value": "read nba render アーレストパーレングス oce early to"
+  },
+  {
+    "start": 758.12,
+    "duraction": 22.23,
+    "value": "do ステイツ"
+  },
+  {
+    "start": 760.739,
+    "duraction": 39.6,
+    "value": "mar vale 4 b we are ready for スーパーバイザー"
+  },
+  {
+    "start": 780.35,
+    "duraction": 39.979,
+    "value": "you do"
+  },
+  {
+    "start": 800.339,
+    "duraction": 24.96,
+    "value": "to do"
+  },
+  {
+    "start": 820.329,
+    "duraction": 10.79,
+    "value": "ale carendar ドライブ"
+  },
+  {
+    "start": 825.299,
+    "duraction": 5.82,
+    "value": "dere ジョイナー justice to do ウェイ"
+  },
+  {
+    "start": 832.379,
+    "duraction": 36.651,
+    "value": "rear だあれ per チャーレム"
+  },
+  {
+    "start": 851.11,
+    "duraction": 20.79,
+    "value": "prefer forever レイング forever れ preg"
+  },
+  {
+    "start": 869.03,
+    "duraction": 2.87,
+    "value": "インフォメーションかーわー"
+  },
+  {
+    "start": 888.98,
+    "duraction": 18.259,
+    "value": "voodoo"
+  },
+  {
+    "start": 890.019,
+    "duraction": 18.451,
+    "value": "デュレーション reer reer reer reer easee ren"
+  },
+  {
+    "start": 907.239,
+    "duraction": 22.591,
+    "value": "フォーメーションチャイナート"
+  },
+  {
+    "start": 908.47,
+    "duraction": 40.92,
+    "value": "sarusan do you do"
+  },
+  {
+    "start": 929.83,
+    "duraction": 19.56,
+    "value": "rear bartenders alea アーレアファ"
+  },
+  {
+    "start": 967.43,
+    "duraction": 15.77,
+    "value": "voodoo"
+  },
+  {
+    "start": 969.87,
+    "duraction": 16.74,
+    "value": "rearea ファーブ as ザーレ tap to see voodoo a 4"
+  },
+  {
+    "start": 983.2,
+    "duraction": 3.41,
+    "value": "meee みー"
+  },
+  {
+    "start": 1002.04,
+    "duraction": 23.19,
+    "value": "voodoo 4 ade 7"
+  },
+  {
+    "start": 1005.24,
+    "duraction": 34.65,
+    "value": "ce 4 a doodle pro"
+  },
+  {
+    "start": 1025.23,
+    "duraction": 14.66,
+    "value": "プラウド proud to do"
+  },
+  {
+    "start": 1040.99,
+    "duraction": 19.08,
+    "value": "use for sap d 4 a アーレス e to do"
+  },
+  {
+    "start": 1077.059,
+    "duraction": 6.911,
+    "value": "voodoo"
+  },
+  {
+    "start": 1078.1,
+    "duraction": 5.87,
+    "value": "ner frend サンプリングウェイ"
+  },
+  {
+    "start": 1089.73,
+    "duraction": 3.21,
+    "value": "per day"
+  },
+  {
+    "start": 1091.59,
+    "duraction": 2.49,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1092.94,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1094.08,
+    "duraction": 2.339,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1095.22,
+    "duraction": 2.339,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1096.419,
+    "duraction": 2.281,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1097.559,
+    "duraction": 2.281,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1098.7,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1099.84,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1100.98,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1102.12,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1103.26,
+    "duraction": 2.279,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1104.4,
+    "duraction": 2.279,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1105.539,
+    "duraction": 2.281,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1106.679,
+    "duraction": 2.281,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1107.82,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1108.96,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1110.1,
+    "duraction": 1.51,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1111.24,
+    "duraction": 18.539,
+    "value": "ふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1111.61,
+    "duraction": 21.439,
+    "value": "4 a アーレインター ter ディラー to do"
+  },
+  {
+    "start": 1129.779,
+    "duraction": 4.59,
+    "value": "asp クリーム2す4 me to change into ディファイン"
+  },
+  {
+    "start": 1133.049,
+    "duraction": 7.241,
+    "value": "クリーチャーズ"
+  },
+  {
+    "start": 1134.369,
+    "duraction": 25.911,
+    "value": "ケース to do for m フェイスなぁ黒ウィズああああ"
+  },
+  {
+    "start": 1140.29,
+    "duraction": 24.58,
+    "value": "フォーサーズ berea アーレストーリームーヴフリークイズ4"
+  },
+  {
+    "start": 1160.28,
+    "duraction": 8.85,
+    "value": "walk the big eyes rano アームディアパターン4 d 6 d"
+  },
+  {
+    "start": 1164.87,
+    "duraction": 6.76,
+    "value": "render ファイアー oos エージェントポニーセックスドラッグメール"
+  },
+  {
+    "start": 1169.13,
+    "duraction": 6.55,
+    "value": "ふぉっプレース x ウイング"
+  },
+  {
+    "start": 1171.63,
+    "duraction": 7.0,
+    "value": "エネルギー agon ターンクローズドアーティスト目スティック4プレイカーター"
+  },
+  {
+    "start": 1175.68,
+    "duraction": 21.4,
+    "value": "を nas とりー"
+  },
+  {
+    "start": 1178.63,
+    "duraction": 19.59,
+    "value": "4 s ティーチャーれふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1197.08,
+    "duraction": 3.5,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1198.22,
+    "duraction": 2.36,
+    "value": "ふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1217.6,
+    "duraction": 6.05,
+    "value": "voodoo"
+  },
+  {
+    "start": 1218.64,
+    "duraction": 5.64,
+    "value": "fuck the ウォッチングファイザー4 s my i send じゃ"
+  },
+  {
+    "start": 1223.65,
+    "duraction": 6.279,
+    "value": "じゃーん"
+  },
+  {
+    "start": 1224.28,
+    "duraction": 10.149,
+    "value": "ウェス oce ああいう saren ディジーズ"
+  },
+  {
+    "start": 1229.929,
+    "duraction": 7.331,
+    "value": "omt ag サウスデコンプ es イービーンズ barbie in the"
+  },
+  {
+    "start": 1234.429,
+    "duraction": 7.421,
+    "value": "voodoo あ"
+  },
+  {
+    "start": 1237.26,
+    "duraction": 6.89,
+    "value": "カンペール reducing インフォメーションバー place a クーリング"
+  },
+  {
+    "start": 1241.85,
+    "duraction": 13.31,
+    "value": "スパーインチドライブマーケット"
+  },
+  {
+    "start": 1244.15,
+    "duraction": 12.81,
+    "value": "nr cars rg がマース4 noppe アーレスウィンドゥプリンスプリ"
+  },
+  {
+    "start": 1255.16,
+    "duraction": 3.03,
+    "value": "スクーラー john zorn"
+  },
+  {
+    "start": 1256.96,
+    "duraction": 2.37,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1258.19,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1259.33,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1260.47,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1261.61,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1262.75,
+    "duraction": 2.279,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1263.89,
+    "duraction": 2.279,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1265.029,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1266.169,
+    "duraction": 2.281,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1267.309,
+    "duraction": 2.311,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1268.45,
+    "duraction": 2.31,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1269.62,
+    "duraction": 2.279,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1270.76,
+    "duraction": 2.279,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1271.899,
+    "duraction": 2.28,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1273.039,
+    "duraction": 2.281,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1274.179,
+    "duraction": 2.281,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1275.32,
+    "duraction": 1.68,
+    "value": "ふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1276.46,
+    "duraction": 19.54,
+    "value": "ふぇふぇふぇふぇふぇふぇ"
+  },
+  {
+    "start": 1277.0,
+    "duraction": 19.94,
+    "value": "masason ず4 steps to do for a reason to"
+  },
+  {
+    "start": 1296.0,
+    "duraction": 6.61,
+    "value": "do"
+  },
+  {
+    "start": 1296.94,
+    "duraction": 21.93,
+    "value": "ボード peres 邸ゼロ4 ada 9オフィスチェア"
+  },
+  {
+    "start": 1302.61,
+    "duraction": 22.31,
+    "value": "4 asanama benders to do"
+  },
+  {
+    "start": 1318.87,
+    "duraction": 6.05,
+    "value": "フォーゲロン ine pay for mature リーフドラッグスウェイ"
+  },
+  {
+    "start": 1341.99,
+    "duraction": 23.06,
+    "value": "voodoo fax"
+  },
+  {
+    "start": 1343.779,
+    "duraction": 39.981,
+    "value": "you seem ファックス norbert ずディスカーレンズ cars ああ"
+  },
+  {
+    "start": 1365.05,
+    "duraction": 20.89,
+    "value": "voodoo forever レア"
+  },
+  {
+    "start": 1383.76,
+    "duraction": 2.18,
+    "value": "青"
+  },
+  {
+    "start": 1388.72,
+    "duraction": 19.48,
+    "value": "ブーバーれ"
+  },
+  {
+    "start": 1401.769,
+    "duraction": 7.601,
+    "value": "fcpa delno jg 1 t ' t 4ティックん"
+  },
+  {
+    "start": 1408.2,
+    "duraction": 4.35,
+    "value": "顔"
+  },
+  {
+    "start": 1409.37,
+    "duraction": 4.54,
+    "value": "フェスシートイリストゥールーズへファース"
+  },
+  {
+    "start": 1412.55,
+    "duraction": 6.71,
+    "value": "no"
+  },
+  {
+    "start": 1413.91,
+    "duraction": 12.4,
+    "value": "os ショップ bast 4 s 4 s ちー"
+  },
+  {
+    "start": 1419.26,
+    "duraction": 7.05,
+    "value": "fend 4 usdm これはリオン窃盗ああ移動"
+  },
+  {
+    "start": 1427.28,
+    "duraction": 22.34,
+    "value": "render app you do"
+  },
+  {
+    "start": 1445.63,
+    "duraction": 16.41,
+    "value": "パーキングバージョン by 無縁スパイクウェイを"
+  },
+  {
+    "start": 1449.62,
+    "duraction": 14.04,
+    "value": "ダール re re re re re re re re re &ぶーぶー言っは"
+  },
+  {
+    "start": 1462.04,
+    "duraction": 4.719,
+    "value": "ん"
+  },
+  {
+    "start": 1463.66,
+    "duraction": 4.37,
+    "value": "[音楽]"
+  },
+  {
+    "start": 1466.759,
+    "duraction": 4.85,
+    "value": "bap"
+  },
+  {
+    "start": 1468.03,
+    "duraction": 3.579,
+    "value": "[音楽]"
+  }
+]
