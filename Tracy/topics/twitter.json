@@ -1,0 +1,4091 @@
+{
+  "indexed": "__WCSJnSz5M,_5jrZG6XFAM,_6OvndXKxrE,_9egYGa1ms0,_cws-B_aCLw,_dhPZZrqjes,_hBN_MlOf50,_TqbXZttcfA,-3gqYREfHAc,-95rTjI-bAc,-dn_6rY55HU,-r0Kyj_s5u8,-rlY8QI9sUk,-TUlMAmVDRI,0Jr02_dpvoM,0mE9kxU6dQs,0SiYA1snRkQ,0uwR7XhETWE,17CO54eE2XU,1aaBzvQcBTA,1Aho-gQkibk,1GFB8myZY20,1hWMCjfcBIQ,1k_qCdEXyMU,1maKcnwhUOA,1O8LHZYpf34,1ps63MvjEVs,1pzh3PLWPko,1WV3PKSO0v4,2TvQuMwnjOY,36Gkz5UqciY,3Dw4BRxQE4s,3eE2c29UouM,3IbZzwkihvE,3Jrvq3-sHmU,3klvncysWik,3lgVPRWBJE4,3QnenCyt3h4,3S2g8H3U4ps,41Aw5Zxk5I0,44-D2Fw_JBc,47BSCVoYeHg,4g1rWAqgG3A,4Jdmm6wQqgA,4lA19x738Rg,4SObm0X1s6k,4TM2_GywmzA,4VZUpky7dtc,5AiX4xowqO8,5hQ4P9wtPhE,5J2OzvumTyE,5nTTOcIGd2c,5qscofzF9Qs,5Rh3bNKHGeA,60KRb_WhtZg,6bnqAu0XWU8,6gixbgaamrM,6jgbk_PDiFs,6R-D1fvMtbk,6v2IBsA1t5g,6xR5-_4B3hc,6YZsnBTinXc,70Td7-xjPHE,74BNOUCgKRI,7APLgR39HpA,7hmPtFeR0v0,7HtUhKvmDeA,7kzwBZVdW4Y,7O-EDH3mdJc,7oxvyYdJUIA,7UQlagc_4IA,88HoWDr7-Bk,8CUKsaTVQpc,8cvueX-8Bx0,8GRYHRlylL4,8ITUZW8J8PM,8mD5-pVZAWI,8Rt2wChpX48,909-IGBf7GQ,9hsKPMi36xA,9iNXSfDCdvc,9kn4E2-NC4A,9rg06XDuwWU,9VbSnz-gbNk,A0b_46PRayY,A3MWGi5gpCY,A5zA3WbDBO0,A7FxIOSBxpI,aGSSsDAVUoU,ahQdZjEkanw,AHubgIJi00I,alvsG0JlCfo,Amyex812zNc,Aqtegh09-Sg,ARB9VUsO06M,asTOzf-O9go,AWabeiBwKq8,AxexRRlH35s,b_1yL0hf6MI,b-OUVnwGkRU,b27pVTRmF70,B3KRFYHV8D0,B4b2qPpUwP4,b6AYe0-sw40,BA0ISlhqFDc,BdKSaXGTp3c,BEZ2Y8e1P0k,bH8ddLavh78,bhnvHScGi60,BIh9H9mJjOk,bLw0dPEhLec,bN-DzG40IN8,BnBotKXBPzI,bQrYgXX2H0I,br1lJ89zRXM,bs6GFy_W9ZA,bSICVpP2Flo,BTZjoxiEpkQ,C_6ODvPAAqA,cVIOSuzT3Jg,CWC6MLH47ZA,CWYCFgHTYmA,d_b2qxZ2VLI,D8yca8CaN1I,D90N1xF8mSg,dAP8No32qq4,dbouA9jqaZk,dCUSWEyA1fQ,ddeNbDYm0a4,df6S3O_BR-4,DhXfEO8w6EU,dI4VXG6-L7w,DMqULLWRYwE,DMu5zdHYlNI,DRoWNAuir7Q,dtM38vNIIRE,E5xktIh0hSo,e6HAetq1URA,eAPdWWZ-N8U,Eay3F3y7RHA,EdYX6W1UJtY,eeoDzLQgzhc,EGDoPENXaFc,egNsI3Z_xEY,Em8qDwE1QUU,EmKqos_eMuA,EOAkWHS_J9c,ePI6Ne1-wSE,eQILiuc4-WI,er-azTkTjP0,Er7gV79z06s,et7KbhwR7cs,ewp-JR5DSMg,exCMVE7D9p0,EXJQ2-FeguU,Ey-mgXrq_aI,f_xlb24r2XE,f0Y5c2vUb20,Fgs8dpS_cRo,Fl4UnxpNK0g,FMrxMFO6M7k,fn95uHfF_18,FP6aqQ5_SRo,FTiJ-zICZMo,G_xDoLwljuo,G5SpkviUTqw,g7xN6glhUs4,gMbWAHxW250,GnDiCFxZGBg,gq0pf4HhD5Q,gQj0bDc_Fm4,guAQZEdnf0M,GzfdL9oDTg4,h6_Jg15PMqw,H7A3KJGdYPk,hBxouTsYc1Y,Hc7HhtjmztU,hHsc4kcCP8Y,hhWxiFd1Lek,hjrAa1i3-1I,hK9bktvtMB0,hkUkxy-QQ-Q,hkXilPGvALE,hm0W85hSL-o,hNLb3_m01ZI,hPOyJAATDD4,hQ_O1Lr1M-g,HV-vFME-F50,hvwOzn5PKpM,i1FNodDHArM,i5RW-XXzHtw,iCpkWbYELao,iFw7BfmkPoA,IG61YMUfKzo,Igzj0udBvls,isiKn_13a6o,ITt0C3PdbH4,IWxOLAn5AlQ,Iz42b8G-oqg,JbxByzDdwfA,JfWVbWJ2_Ko,jGt9zgpwZ9Q,Jhw6670X1VY,jnh-GeQxp_8,JoGtXBDBgp0,JPZUyqpKGZs,jr_urxcqA4o,jtHG1a1tP_I,jYPNWZq_H18,JyzYMIjanBs,k-bt6bWGij8,k6olZ74o90Q,kB0zCpNGhVE,kG_yiZWpcTQ,KHjoVdnA62A,kkpyV-18WTk,km-Gx0Hg-44,KmOCQWVesHU,kOiKC6mnU1k,kOyFUE6J1ZE,KsAs7ycY5FA,KSc87YJAwQM,KSGgsanhC3E,KSJ6Tj0QHjo,kUJpIgoTT9U,KWcjgJZ-jAk,KWFlQpXXONw,KXFH17xn4Qg,kXjxdiUO96s,KXsekpEVyeU,L_ZGt4k94As,L0KufJcu7eU,L0sdWF4eG4c,L1dD7fTqLBw,l2qKLALnF8I,L3Rn-zQQrkc,L5ZN9kavwRg,L7Qpyk_feBM,l9JcAUvGP5Y,Lax37pJP5ac,LIbrzV8SpcY,LJbp7jg7l0Q,LKMIQnS5Pcs,lnT22cOqOFM,lovFAwq_JWQ,lQmUOtgjIdA,lqOKi7Mhp8Q,lrn1yQbSnHo,Lvu5_YQ2Rm4,LzRxTK4rmXM,m3lnyzjqWnE,m5eFn72m2pI,M6vwonTniVw,M8mqCIXelB0,m9A7mw2sqRE,mETx7SAJlVk,MfJAbIW3BfA,MI0YvliWM0Y,MkT73qYCd1Q,MMGy4DTklPE,MQAFkrQWBrg,mqeKRt3rodU,mQTUYjU24Rg,mRfeqr9l1dI,mVh7uWYYC2o,N2oyYNbCdhI,N6HeRdW-0mE,N6OJkEcTNBI,N8kcgZSUKWQ,NAmvx01k9GY,nC8mScSK1h0,NcAHFwSMHQU,NEqIlHSws84,Nj95GFo9wN4,NjcvkuXyV5c,NK3yMiSIWo4,nkF3vYDiva0,NkiAVuCp9OA,nkLSyJ1D2PM,nqwzAuS8oBk,ntbpwigxlS8,nU3pJ4Hc2Qs,NXPMR-tDIwA,nZyEcOqMuao,o-sDc-zz74I,O12aMrSJa-c,O2ThACsc-SI,O3n3tdQvElY,O4byIO53upA,O7aByWyTSS4,oaI7ZdDSSLY,OAsTBQQGtLI,okT48ySZj6c,onIo2GfzUMo,ONmjWXHJcKQ,OOpjLWnIarQ,OTjO3iSHtXY,OW2lf9AXAH8,owoNCVy2Xf4,OyTxEOGN7-I,oZ6ZfjPVZus,p_MfCvcA2ro,P3ZrrRQSEjU,p5-5kKc5cdM,p6IrQgYqqU8,p6W8sGq0cC8,PKjUOAt9RHM,plz4oQw22fA,pnpALUUC0Uk,pOIac4OGMds,POIU6dYFevw,pPq8Lg_hb7o,PQCSlwbRVtA,PWKxJruh6Jo,q1tM24C9Dk8,q2nut-TQnAw,q3goDK3TGjo,Q3njGcQzlGY,Q4IUKLD7pWE,Q7ltKlDb_iQ,qBpZdtQLRgM,qIWsc3FHA70,qJgdwDTFy4Q,QKfSaUy0aOo,QMlK_fJGhQQ,Qmxk668ru_8,QOTCpAaze4o,QPnMyftwpE0,qqN3g_IwRPc,qTJyrUkvyaY,qTYCtgOr_8I,qu0ud72O-84,qUzD-oDrbSI,qVOhVy16McI,qWgPkGlxWV4,qwoYJx2_w-o,QzLIZODzQLk,R2X3ffYdbkM,r3uCJZSMEyQ,r5SBzWlW1_Y,RBnA7SjdZ1U,rC9Lo4MnTXM,RemTxx4eTLs,rFFmXASbUl4,RGv6qwJ1_a4,RqJObun2kmc,rR2ZM4f7rD0,RrzuONSfoDc,RSjalaT3uCM,rZ7pDU0Uj10,S0eJc1n7n1I,s5oAP6aumHg,S9YcyTZRn68,SGG7C4VWGnI,SIhqTvxwW00,siuzAF3wO_c,sK6eG7SYuQI,smRrggNmtTg,SoUIJo6x8xU,soUj9u_mFDA,SSBGXDOTdns,SWH3bHMfcNk,sz8gHF1kxYc,T2k6zBRoAYQ,T6z098lTUeY,TgQkfFU6iq0,thYce7wAYyM,tkzklwBW-vo,tN9XqD3BuH4,tnbruuOA82Y,tqehbUzjWWM,tQXq-O3d3hA,trFb5FQRPnk,Tvip1mMGZZc,tYcCAfVDzHg,U-88txyDepo,UbP09heNJNI,UctJtL8VPPA,UeL420NDy1k,UHB66CIjDnw,UhEdnT61QoU,uLcyWCAzigA,UNPLv2GkkCE,UoTU7A7dp6k,uqVPGzLVLtk,UTfjag8AVZ8,UYbcFFkO0ng,V0Q1L5ql0QM,v12sR5cplGI,v492vdHa5HI,v5B_i3VuPHo,vaw2XW2G9Uk,VbdqNDf5xHQ,vHfOYaL0a1U,VIcuy7PV4XU,Vjk9Q6h8H_Y,vLmXQexS_4s,vPtOp-kAIx0,vq4qGnL-zGc,vrCZyXe0XMM,VtFJKZhA1OI,vVhHmj0Ov4k,vwZTHlanOoU,vxVTXKkTkMM,vxwJqPBY_g8,vZ8fq7gx3xk,VZsK9kz7rHA,w_2u4uyq-Q0,w_mQQ1HxSDU,W-JXsBgzv4o,WCwGdJqq6d4,WE9-rWOUHJQ,wEliGdBG-EE,whZcsQbiK4Q,wIyPQj4IXpA,wKCtvpanR_c,WKKw6FaYcvQ,WkXCIktsusQ,WPeWjxhDOUM,wq64dbpEuz4,WUddcZX8J6c,wWO3JK3eJrI,Wywfz5RnfSQ,x2hBenC4AZ0,X39_Z_zvFfc,x5gjjT830Nc,xeNVGTPWym8,Xh0c6L74Ll4,xHtZdQLjZbg,XjnLYFXVuAM,Xn2mO1j3g94,xrWUcRsinII,XSdO8-6pbWQ,XsXLhmdIOyY,XW4kS7p-PvY,y7YAfBt6rgc,YDdoBandbeY,ye_6sRSBZos,Yh54h9QIAh4,yHpm6Ptuncc,yjBJBt_OhWE,YJvLJlc87-A,yNPm3M09GRU,ySl-C8ZebIo,Z_6mc2jx1Mk,z_sMqj3UtMA,z5f0mreNYgs,zekVPdW-IR0,zGwMYp4DV7Y,ZKz6sejxOYg,zlxiqAdaLfQ,zMRwHvoTM5Q,zofJZLN0x20,zOkqzikAFjE,zpDE6X-ijH8,ZXccn8oYJuM,zZMOXdh0frU",
+  "topic": "Twitter",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "__WCSJnSz5M",
+      "segments": [
+        {
+          "text": "share it on *twitter* real quick see what",
+          "location": 29
+        },
+        {
+          "text": "so so let's start with my *twitter* today",
+          "location": 90
+        },
+        {
+          "text": "and strike on *twitter* so i say a couple",
+          "location": 206
+        },
+        {
+          "text": "different things on *twitter* today even",
+          "location": 210
+        }
+      ]
+    },
+    {
+      "id": "_5jrZG6XFAM",
+      "segments": [
+        {
+          "text": "*twitter* where he said prediction friday",
+          "location": 162
+        }
+      ]
+    },
+    {
+      "id": "_TqbXZttcfA",
+      "segments": [
+        {
+          "text": "account pops up on *twitter* and i covered",
+          "location": 383
+        },
+        {
+          "text": "text exchange on *twitter* with that",
+          "location": 752
+        },
+        {
+          "text": "in 2018 was when hannah dee's *twitter*",
+          "location": 791
+        },
+        {
+          "text": "a *twitter* account to stick around on",
+          "location": 1194
+        },
+        {
+          "text": "*twitter* because that's where i am",
+          "location": 1196
+        },
+        {
+          "text": "it's on *twitter* guys it happens way",
+          "location": 1206
+        },
+        {
+          "text": "*twitter* so you can see me tweeting",
+          "location": 1212
+        }
+      ]
+    },
+    {
+      "id": "-r0Kyj_s5u8",
+      "segments": [
+        {
+          "text": "mitchell's *twitter* and i think it's just",
+          "location": 160
+        }
+      ]
+    },
+    {
+      "id": "0SiYA1snRkQ",
+      "segments": [
+        {
+          "text": "reached out again via *twitter* he",
+          "location": 319
+        },
+        {
+          "text": "*twitter* a source for getting the truth",
+          "location": 633
+        },
+        {
+          "text": "behalf on his *twitter* back to the",
+          "location": 687
+        },
+        {
+          "text": "want to reach him on *twitter* to support",
+          "location": 930
+        },
+        {
+          "text": "want to stop on by his *twitter* at jim",
+          "location": 1021
+        }
+      ]
+    },
+    {
+      "id": "0uwR7XhETWE",
+      "segments": [
+        {
+          "text": "my *twitter* you guys just had the founder",
+          "location": 928
+        }
+      ]
+    },
+    {
+      "id": "17CO54eE2XU",
+      "segments": [
+        {
+          "text": "from the left on my *twitter* thread the",
+          "location": 334
+        },
+        {
+          "text": "thomas whipped her on *twitter* doing a",
+          "location": 921
+        },
+        {
+          "text": "and then getting his *twitter* account",
+          "location": 926
+        },
+        {
+          "text": "we have harold finch got his *twitter*",
+          "location": 935
+        },
+        {
+          "text": "*twitter* that i fraternize with that were",
+          "location": 953
+        },
+        {
+          "text": "so if you go to *twitter* where i",
+          "location": 1190
+        },
+        {
+          "text": "*twitter* has made it so that the",
+          "location": 1200
+        }
+      ]
+    },
+    {
+      "id": "1aaBzvQcBTA",
+      "segments": [
+        {
+          "text": "on *twitter* about what's fake and what's",
+          "location": 137
+        },
+        {
+          "text": "someone sites on his *twitter* says there",
+          "location": 459
+        },
+        {
+          "text": "all over *twitter* the other day it's",
+          "location": 534
+        }
+      ]
+    },
+    {
+      "id": "1Aho-gQkibk",
+      "segments": [
+        {
+          "text": "we've been doing at *twitter* is signaling",
+          "location": 58
+        }
+      ]
+    },
+    {
+      "id": "1k_qCdEXyMU",
+      "segments": [
+        {
+          "text": "*twitter* check this and just hightail it",
+          "location": 71
+        }
+      ]
+    },
+    {
+      "id": "1O8LHZYpf34",
+      "segments": [
+        {
+          "text": "on facebook i'm sorry on *twitter* and gab",
+          "location": 1821
+        }
+      ]
+    },
+    {
+      "id": "1ps63MvjEVs",
+      "segments": [
+        {
+          "text": "*twitter* feed throughout the night go",
+          "location": 3089
+        }
+      ]
+    },
+    {
+      "id": "1WV3PKSO0v4",
+      "segments": [
+        {
+          "text": "*twitter* friends hi everyone i'm reading",
+          "location": 99
+        },
+        {
+          "text": "on *twitter* you can find her at i think",
+          "location": 342
+        },
+        {
+          "text": "*twitter* at stu in sd and this article",
+          "location": 466
+        }
+      ]
+    },
+    {
+      "id": "2TvQuMwnjOY",
+      "segments": [
+        {
+          "text": "shared it on my *twitter* and sure enough",
+          "location": 308
+        },
+        {
+          "text": "*twitter* for sharing this information and",
+          "location": 337
+        }
+      ]
+    },
+    {
+      "id": "3Dw4BRxQE4s",
+      "segments": [
+        {
+          "text": "*twitter* and go through and just share",
+          "location": 383
+        }
+      ]
+    },
+    {
+      "id": "3eE2c29UouM",
+      "segments": [
+        {
+          "text": "rochelle on *twitter* we got on the phone",
+          "location": 9
+        },
+        {
+          "text": "information yesterday this *twitter*",
+          "location": 14
+        },
+        {
+          "text": "*twitter* account popped up from katie",
+          "location": 58
+        },
+        {
+          "text": "order to intimidate *twitter* trump",
+          "location": 67
+        },
+        {
+          "text": "is not a real *twitter* account i'm doing",
+          "location": 142
+        }
+      ]
+    },
+    {
+      "id": "3S2g8H3U4ps",
+      "segments": [
+        {
+          "text": "into a simplified *twitter* thread that",
+          "location": 1171
+        }
+      ]
+    },
+    {
+      "id": "41Aw5Zxk5I0",
+      "segments": [
+        {
+          "text": "groups on *twitter* little investigation",
+          "location": 279
+        },
+        {
+          "text": "other day on *twitter* i mean he gets he",
+          "location": 663
+        },
+        {
+          "text": "ways to fake a *twitter* chat so i don't",
+          "location": 980
+        },
+        {
+          "text": "remember the robin jung *twitter* dm",
+          "location": 1031
+        },
+        {
+          "text": "or two on *twitter* so now they they they",
+          "location": 1163
+        },
+        {
+          "text": "verbally but over you know *twitter* and",
+          "location": 1265
+        }
+      ]
+    },
+    {
+      "id": "4g1rWAqgG3A",
+      "segments": [
+        {
+          "text": "information on *twitter* originally she",
+          "location": 927
+        }
+      ]
+    },
+    {
+      "id": "4Jdmm6wQqgA",
+      "segments": [
+        {
+          "text": "drop some of them on my *twitter* today hi",
+          "location": 55
+        },
+        {
+          "text": "*twitter* today basically what they say is",
+          "location": 58
+        }
+      ]
+    },
+    {
+      "id": "4SObm0X1s6k",
+      "segments": [
+        {
+          "text": "lot of new followers on *twitter* and i",
+          "location": 54
+        },
+        {
+          "text": "there's a lot of people over on *twitter*",
+          "location": 143
+        },
+        {
+          "text": "just gonna go to my *twitter* feed like",
+          "location": 193
+        },
+        {
+          "text": "follow me on *twitter* at tracy means with",
+          "location": 1130
+        }
+      ]
+    },
+    {
+      "id": "5hQ4P9wtPhE",
+      "segments": [
+        {
+          "text": "i go to set the room since *twitter*",
+          "location": 1056
+        }
+      ]
+    },
+    {
+      "id": "5nTTOcIGd2c",
+      "segments": [
+        {
+          "text": "actually wrote a letter to *twitter*",
+          "location": 2047
+        },
+        {
+          "text": "type like i've read iii or *twitter* i",
+          "location": 2124
+        }
+      ]
+    },
+    {
+      "id": "5qscofzF9Qs",
+      "segments": [
+        {
+          "text": "and then i realized that on *twitter*",
+          "location": 142
+        }
+      ]
+    },
+    {
+      "id": "60KRb_WhtZg",
+      "segments": [
+        {
+          "text": "crime and bernard kerik on *twitter* has",
+          "location": 1635
+        },
+        {
+          "text": "*twitter* i was so excited when he got to",
+          "location": 1894
+        }
+      ]
+    },
+    {
+      "id": "6bnqAu0XWU8",
+      "segments": [
+        {
+          "text": "per facebook and *twitter* etc on ads on",
+          "location": 129
+        },
+        {
+          "text": "*twitter* accounts to follow more and then",
+          "location": 476
+        },
+        {
+          "text": "facebook and *twitter* to undermine",
+          "location": 753
+        },
+        {
+          "text": "i beg to differ but the *twitter* bot",
+          "location": 830
+        },
+        {
+          "text": "*twitter* followers so important it really",
+          "location": 851
+        },
+        {
+          "text": "*twitter* and social media they did this",
+          "location": 950
+        },
+        {
+          "text": "that i follow on *twitter* for information",
+          "location": 1629
+        }
+      ]
+    },
+    {
+      "id": "6v2IBsA1t5g",
+      "segments": [
+        {
+          "text": "on *twitter* until we open the legal",
+          "location": 152
+        },
+        {
+          "text": "*twitter* and stuff but it's interesting",
+          "location": 162
+        },
+        {
+          "text": "*twitter* from time to time she's out",
+          "location": 1590
+        }
+      ]
+    },
+    {
+      "id": "6YZsnBTinXc",
+      "segments": [
+        {
+          "text": "*twitter* a lot for people to see which",
+          "location": 52
+        }
+      ]
+    },
+    {
+      "id": "70Td7-xjPHE",
+      "segments": [
+        {
+          "text": "watches me and follows my *twitter* which",
+          "location": 420
+        },
+        {
+          "text": "12 followers on *twitter* you know what",
+          "location": 491
+        },
+        {
+          "text": "*twitter* and i just told him i said i",
+          "location": 499
+        }
+      ]
+    },
+    {
+      "id": "7hmPtFeR0v0",
+      "segments": [
+        {
+          "text": "think that as i said on *twitter* it's a",
+          "location": 57
+        },
+        {
+          "text": "*twitter* account to promote his campaign",
+          "location": 2408
+        },
+        {
+          "text": "of *twitter* saying ellison's use of",
+          "location": 2420
+        },
+        {
+          "text": "*twitter* is questionable because he's",
+          "location": 2422
+        }
+      ]
+    },
+    {
+      "id": "7kzwBZVdW4Y",
+      "segments": [
+        {
+          "text": "*twitter* man",
+          "location": 892
+        },
+        {
+          "text": "put it on *twitter* there's a big reason i",
+          "location": 2333
+        },
+        {
+          "text": "*twitter* at tracey beans tra cyb ea and z",
+          "location": 2383
+        }
+      ]
+    },
+    {
+      "id": "8CUKsaTVQpc",
+      "segments": [
+        {
+          "text": "*twitter* or what have you",
+          "location": 2135
+        },
+        {
+          "text": "in the *twitter* world and that are",
+          "location": 2172
+        },
+        {
+          "text": "the filter of *twitter* and google and",
+          "location": 2328
+        }
+      ]
+    },
+    {
+      "id": "8cvueX-8Bx0",
+      "segments": [
+        {
+          "text": "on *twitter* that's at cg8 4 won 1-0 on",
+          "location": 22
+        },
+        {
+          "text": "*twitter* sent me two pictures which sent",
+          "location": 25
+        }
+      ]
+    },
+    {
+      "id": "8GRYHRlylL4",
+      "segments": [
+        {
+          "text": "from the team so go to matt's *twitter* at",
+          "location": 217
+        },
+        {
+          "text": "my *twitter* the other day so you'll be",
+          "location": 243
+        }
+      ]
+    },
+    {
+      "id": "8mD5-pVZAWI",
+      "segments": [
+        {
+          "text": "adam carter with integrity on *twitter* at",
+          "location": 20
+        },
+        {
+          "text": "with a z follow me on *twitter* at tracey",
+          "location": 1418
+        }
+      ]
+    },
+    {
+      "id": "909-IGBf7GQ",
+      "segments": [
+        {
+          "text": "november 1st and the use of a *twitter*",
+          "location": 243
+        }
+      ]
+    },
+    {
+      "id": "9iNXSfDCdvc",
+      "segments": [
+        {
+          "text": "is on *twitter*",
+          "location": 117
+        }
+      ]
+    },
+    {
+      "id": "9rg06XDuwWU",
+      "segments": [
+        {
+          "text": "*twitter* account",
+          "location": 2089
+        }
+      ]
+    },
+    {
+      "id": "aGSSsDAVUoU",
+      "segments": [
+        {
+          "text": "*twitter* friends to come online with me",
+          "location": 163
+        },
+        {
+          "text": "smith's *twitter* if you're on my",
+          "location": 242
+        }
+      ]
+    },
+    {
+      "id": "ahQdZjEkanw",
+      "segments": [
+        {
+          "text": "brilliant person on *twitter* who flagged",
+          "location": 787
+        },
+        {
+          "text": "if you guys want to follow me on *twitter*",
+          "location": 794
+        },
+        {
+          "text": "have you as part of my little *twitter*",
+          "location": 798
+        },
+        {
+          "text": "family my *twitter* handle is at tracy",
+          "location": 799
+        }
+      ]
+    },
+    {
+      "id": "alvsG0JlCfo",
+      "segments": [
+        {
+          "text": "with this with this *twitter* thread i",
+          "location": 735
+        }
+      ]
+    },
+    {
+      "id": "Aqtegh09-Sg",
+      "segments": [
+        {
+          "text": "thread from undercover hoover on *twitter*",
+          "location": 20
+        }
+      ]
+    },
+    {
+      "id": "asTOzf-O9go",
+      "segments": [
+        {
+          "text": "eight five five on *twitter* as well as",
+          "location": 26
+        },
+        {
+          "text": "on *twitter* i want to thank the both of",
+          "location": 31
+        },
+        {
+          "text": "my *twitter* and i'll put it in the",
+          "location": 222
+        },
+        {
+          "text": "tweeting a lot follow me on *twitter* at",
+          "location": 560
+        }
+      ]
+    },
+    {
+      "id": "AWabeiBwKq8",
+      "segments": [
+        {
+          "text": "on *twitter* and i just want to show you",
+          "location": 178
+        }
+      ]
+    },
+    {
+      "id": "AxexRRlH35s",
+      "segments": [
+        {
+          "text": "*twitter* debate between hawaii senator",
+          "location": 1114
+        }
+      ]
+    },
+    {
+      "id": "b-OUVnwGkRU",
+      "segments": [
+        {
+          "text": "carter with integrity act on *twitter*",
+          "location": 1308
+        }
+      ]
+    },
+    {
+      "id": "b27pVTRmF70",
+      "segments": [
+        {
+          "text": "*twitter* you guys are fantastic as you",
+          "location": 43
+        }
+      ]
+    },
+    {
+      "id": "B3KRFYHV8D0",
+      "segments": [
+        {
+          "text": "hannity's *twitter* account came down and",
+          "location": 1088
+        },
+        {
+          "text": "*twitter* account offering quote news on",
+          "location": 1097
+        },
+        {
+          "text": "stories i'm gonna thread this on *twitter*",
+          "location": 1167
+        }
+      ]
+    },
+    {
+      "id": "B4b2qPpUwP4",
+      "segments": [
+        {
+          "text": "stuff out on *twitter* and explaining",
+          "location": 559
+        },
+        {
+          "text": "me i believe on *twitter* and this was",
+          "location": 762
+        },
+        {
+          "text": "*twitter* feed talking about talking about",
+          "location": 1021
+        }
+      ]
+    },
+    {
+      "id": "BEZ2Y8e1P0k",
+      "segments": [
+        {
+          "text": "think i shared it on my *twitter* or the",
+          "location": 73
+        },
+        {
+          "text": "as vocal on *twitter* over the past couple",
+          "location": 513
+        },
+        {
+          "text": "wow usually *twitter* jekyll",
+          "location": 559
+        },
+        {
+          "text": "here's his *twitter*",
+          "location": 944
+        },
+        {
+          "text": "shared their music on *twitter* this",
+          "location": 1058
+        }
+      ]
+    },
+    {
+      "id": "bH8ddLavh78",
+      "segments": [
+        {
+          "text": "video i shared on *twitter* yesterday to a",
+          "location": 47
+        },
+        {
+          "text": "someone on the left today on my *twitter*",
+          "location": 81
+        },
+        {
+          "text": "it's woman on *twitter* and it's not",
+          "location": 779
+        },
+        {
+          "text": "right i like the way *twitter* does this",
+          "location": 1507
+        },
+        {
+          "text": "*twitter* i hope you guys are bearing with",
+          "location": 2221
+        },
+        {
+          "text": "her *twitter* account in the description",
+          "location": 2288
+        }
+      ]
+    },
+    {
+      "id": "bhnvHScGi60",
+      "segments": [
+        {
+          "text": "on his own channel i posted on *twitter*",
+          "location": 403
+        }
+      ]
+    },
+    {
+      "id": "bLw0dPEhLec",
+      "segments": [
+        {
+          "text": "on *twitter* gab bitch u d tube at tracey",
+          "location": 402
+        }
+      ]
+    },
+    {
+      "id": "bN-DzG40IN8",
+      "segments": [
+        {
+          "text": "*twitter* you've seen me talk about this",
+          "location": 20
+        },
+        {
+          "text": "*twitter* at tracey beans tra cyb ea and z",
+          "location": 328
+        }
+      ]
+    },
+    {
+      "id": "bs6GFy_W9ZA",
+      "segments": [
+        {
+          "text": "link it either on my *twitter* at tracey",
+          "location": 1150
+        }
+      ]
+    },
+    {
+      "id": "bSICVpP2Flo",
+      "segments": [
+        {
+          "text": "speech alternative to *twitter* which we",
+          "location": 50
+        },
+        {
+          "text": "you can also link your *twitter* account",
+          "location": 87
+        },
+        {
+          "text": "it over to *twitter* instantaneously at",
+          "location": 95
+        },
+        {
+          "text": "thing from *twitter* to gab because it is",
+          "location": 100
+        },
+        {
+          "text": "*twitter* lists used to be but but *twitter*",
+          "location": 337
+        },
+        {
+          "text": "instead of going on *twitter* and then you",
+          "location": 411
+        },
+        {
+          "text": "like *twitter* but a lot more free and a",
+          "location": 510
+        },
+        {
+          "text": "*twitter* at tracey beans tra cyb e anz",
+          "location": 745
+        }
+      ]
+    },
+    {
+      "id": "BTZjoxiEpkQ",
+      "segments": [
+        {
+          "text": "undercover huber did on *twitter* because",
+          "location": 10
+        },
+        {
+          "text": "checking out papadopoulos his *twitter*",
+          "location": 482
+        },
+        {
+          "text": "account and simona the handlers *twitter*",
+          "location": 483
+        }
+      ]
+    },
+    {
+      "id": "CWC6MLH47ZA",
+      "segments": [
+        {
+          "text": "posted it on *twitter* as a breaking",
+          "location": 161
+        },
+        {
+          "text": "article and i put it on *twitter* and it",
+          "location": 231
+        },
+        {
+          "text": "*twitter* and see the reasons why i why i",
+          "location": 270
+        },
+        {
+          "text": "on my *twitter* but i made a mistake very",
+          "location": 345
+        }
+      ]
+    },
+    {
+      "id": "CWYCFgHTYmA",
+      "segments": [
+        {
+          "text": "*twitter* for the stuff coming out about",
+          "location": 261
+        }
+      ]
+    },
+    {
+      "id": "D8yca8CaN1I",
+      "segments": [
+        {
+          "text": "in the comment section and on *twitter* so",
+          "location": 305
+        }
+      ]
+    },
+    {
+      "id": "D90N1xF8mSg",
+      "segments": [
+        {
+          "text": "that ridiculous i did a poll on *twitter*",
+          "location": 192
+        },
+        {
+          "text": "follow me on gavin *twitter* as well",
+          "location": 1318
+        }
+      ]
+    },
+    {
+      "id": "dbouA9jqaZk",
+      "segments": [
+        {
+          "text": "ecuador he posts a *twitter* picture of",
+          "location": 45
+        },
+        {
+          "text": "pasted that on *twitter* and i can't find",
+          "location": 1557
+        }
+      ]
+    },
+    {
+      "id": "dCUSWEyA1fQ",
+      "segments": [
+        {
+          "text": "*twitter* of all the places where this",
+          "location": 353
+        },
+        {
+          "text": "just like what i just saw on my *twitter*",
+          "location": 479
+        }
+      ]
+    },
+    {
+      "id": "ddeNbDYm0a4",
+      "segments": [
+        {
+          "text": "gentleman on *twitter* i guarantee i you",
+          "location": 61
+        },
+        {
+          "text": "the whole the whole *twitter* thread is",
+          "location": 1582
+        },
+        {
+          "text": "like this his whole *twitter* thread is",
+          "location": 1584
+        }
+      ]
+    },
+    {
+      "id": "df6S3O_BR-4",
+      "segments": [
+        {
+          "text": "even more i did a thread on *twitter* that",
+          "location": 42
+        },
+        {
+          "text": "anz also *twitter* and gab at tracey beans",
+          "location": 1731
+        }
+      ]
+    },
+    {
+      "id": "dI4VXG6-L7w",
+      "segments": [
+        {
+          "text": "i reached out to harold finch on *twitter*",
+          "location": 7
+        },
+        {
+          "text": "his *twitter* handle and he did two",
+          "location": 16
+        },
+        {
+          "text": "*twitter* so it's hard",
+          "location": 207
+        },
+        {
+          "text": "she has to if you know what the *twitter*",
+          "location": 1240
+        },
+        {
+          "text": "and if you don't hang out on *twitter* a",
+          "location": 2124
+        },
+        {
+          "text": "pushing *twitter* and telling people to",
+          "location": 2137
+        },
+        {
+          "text": "hang out on *twitter* and like follow me",
+          "location": 2140
+        },
+        {
+          "text": "on *twitter* and stuff and it's because",
+          "location": 2142
+        },
+        {
+          "text": "documented on *twitter* papadopoulos paul",
+          "location": 2296
+        },
+        {
+          "text": "discovery papadopoulos family on *twitter*",
+          "location": 2372
+        }
+      ]
+    },
+    {
+      "id": "DMu5zdHYlNI",
+      "segments": [
+        {
+          "text": "it's available on *twitter* and i put it",
+          "location": 133
+        }
+      ]
+    },
+    {
+      "id": "DRoWNAuir7Q",
+      "segments": [
+        {
+          "text": "from certain people on *twitter* that",
+          "location": 16
+        },
+        {
+          "text": "bow at the war economy on *twitter* let's",
+          "location": 1454
+        }
+      ]
+    },
+    {
+      "id": "dtM38vNIIRE",
+      "segments": [
+        {
+          "text": "*twitter* number one your wife is not",
+          "location": 1689
+        },
+        {
+          "text": "*twitter* now she's a russia's rutt she's",
+          "location": 1707
+        },
+        {
+          "text": "out there and a lot of them on *twitter*",
+          "location": 1718
+        }
+      ]
+    },
+    {
+      "id": "E5xktIh0hSo",
+      "segments": [
+        {
+          "text": "to him on *twitter* he's had my back many",
+          "location": 189
+        },
+        {
+          "text": "*twitter* was absolutely abhorrent and",
+          "location": 279
+        },
+        {
+          "text": "jokes about children openly on *twitter*",
+          "location": 602
+        },
+        {
+          "text": "there patton oswalt gets on *twitter* by",
+          "location": 1296
+        },
+        {
+          "text": "did and i went around *twitter* and i",
+          "location": 1465
+        },
+        {
+          "text": "*twitter* account of course can you",
+          "location": 1501
+        }
+      ]
+    },
+    {
+      "id": "e6HAetq1URA",
+      "segments": [
+        {
+          "text": "mean to start a *twitter* war with dan",
+          "location": 377
+        }
+      ]
+    },
+    {
+      "id": "Eay3F3y7RHA",
+      "segments": [
+        {
+          "text": "over to matt couch's *twitter* hannibal",
+          "location": 236
+        },
+        {
+          "text": "boots *twitter* flynn's *twitter* all those",
+          "location": 238
+        }
+      ]
+    },
+    {
+      "id": "EdYX6W1UJtY",
+      "segments": [
+        {
+          "text": "little letters on *twitter* i'm not even",
+          "location": 975
+        },
+        {
+          "text": "great *twitter* account adam schiff once",
+          "location": 1007
+        },
+        {
+          "text": "*twitter* so all these journalists are",
+          "location": 1119
+        },
+        {
+          "text": "how powerful *twitter* is for you guys who",
+          "location": 1168
+        },
+        {
+          "text": "*twitter* is not effective and that you",
+          "location": 1171
+        },
+        {
+          "text": "nonsense *twitter* it's right here thank",
+          "location": 1330
+        },
+        {
+          "text": "*twitter* facebook account holders have",
+          "location": 1717
+        },
+        {
+          "text": "enough for that follow me on *twitter* and",
+          "location": 1778
+        }
+      ]
+    },
+    {
+      "id": "EGDoPENXaFc",
+      "segments": [
+        {
+          "text": "*twitter* account and even leaked the",
+          "location": 602
+        },
+        {
+          "text": "just he used his official *twitter*",
+          "location": 941
+        },
+        {
+          "text": "on gab *twitter* bit shoot steam it d tube",
+          "location": 1303
+        }
+      ]
+    },
+    {
+      "id": "Em8qDwE1QUU",
+      "segments": [
+        {
+          "text": "this direction by the fbi's *twitter*",
+          "location": 63
+        },
+        {
+          "text": "account the wikileaks *twitter* account",
+          "location": 67
+        }
+      ]
+    },
+    {
+      "id": "EmKqos_eMuA",
+      "segments": [
+        {
+          "text": "find me on *twitter* and gap at tracey",
+          "location": 1582
+        }
+      ]
+    },
+    {
+      "id": "Er7gV79z06s",
+      "segments": [
+        {
+          "text": "8th and so i did a *twitter* thread on it",
+          "location": 290
+        },
+        {
+          "text": "also follow me on *twitter* at tracey",
+          "location": 1417
+        }
+      ]
+    },
+    {
+      "id": "et7KbhwR7cs",
+      "segments": [
+        {
+          "text": "undercover hoover on *twitter* who is john",
+          "location": 572
+        }
+      ]
+    },
+    {
+      "id": "EXJQ2-FeguU",
+      "segments": [
+        {
+          "text": "*twitter* follow you know put it in the",
+          "location": 25
+        },
+        {
+          "text": "*twitter* to hit democrats as enablers for",
+          "location": 289
+        }
+      ]
+    },
+    {
+      "id": "f_xlb24r2XE",
+      "segments": [
+        {
+          "text": "at 9:47 a.m. i was on *twitter* this",
+          "location": 5
+        },
+        {
+          "text": "moments on *twitter* when i first opened",
+          "location": 11
+        }
+      ]
+    },
+    {
+      "id": "f0Y5c2vUb20",
+      "segments": [
+        {
+          "text": "below follow me on gab and *twitter* at",
+          "location": 1431
+        }
+      ]
+    },
+    {
+      "id": "Fgs8dpS_cRo",
+      "segments": [
+        {
+          "text": "undercover huber on *twitter* did a",
+          "location": 44
+        }
+      ]
+    },
+    {
+      "id": "fn95uHfF_18",
+      "segments": [
+        {
+          "text": "*twitter* followers at tracy beams tra cy",
+          "location": 1970
+        }
+      ]
+    },
+    {
+      "id": "G_xDoLwljuo",
+      "segments": [
+        {
+          "text": "my *twitter* at gts underscore watch",
+          "location": 24
+        }
+      ]
+    },
+    {
+      "id": "G5SpkviUTqw",
+      "segments": [
+        {
+          "text": "published another *twitter* source that",
+          "location": 334
+        },
+        {
+          "text": "*twitter* hat or her *twitter* i think it's",
+          "location": 926
+        },
+        {
+          "text": "man *twitter* pictures a woman i don't",
+          "location": 932
+        },
+        {
+          "text": "stay tuned to this *twitter* account they",
+          "location": 1715
+        }
+      ]
+    },
+    {
+      "id": "g7xN6glhUs4",
+      "segments": [
+        {
+          "text": "gonna spill and on her *twitter* account",
+          "location": 2304
+        }
+      ]
+    },
+    {
+      "id": "gMbWAHxW250",
+      "segments": [
+        {
+          "text": "because yelling about it on *twitter* well",
+          "location": 372
+        }
+      ]
+    },
+    {
+      "id": "gq0pf4HhD5Q",
+      "segments": [
+        {
+          "text": "*twitter* and i found a tweet from donald",
+          "location": 12
+        }
+      ]
+    },
+    {
+      "id": "gQj0bDc_Fm4",
+      "segments": [
+        {
+          "text": "refresh *twitter* there's new information",
+          "location": 92
+        }
+      ]
+    },
+    {
+      "id": "guAQZEdnf0M",
+      "segments": [
+        {
+          "text": "*twitter* that people don't really",
+          "location": 104
+        }
+      ]
+    },
+    {
+      "id": "GzfdL9oDTg4",
+      "segments": [
+        {
+          "text": "with someone on *twitter* is not illegal",
+          "location": 98
+        },
+        {
+          "text": "to me on *twitter* after he had seen some",
+          "location": 165
+        }
+      ]
+    },
+    {
+      "id": "h6_Jg15PMqw",
+      "segments": [
+        {
+          "text": "can go to your *twitter* and read a thread",
+          "location": 1343
+        },
+        {
+          "text": "i can go to a *twitter* read through i",
+          "location": 1345
+        },
+        {
+          "text": "box below follow me on gab *twitter* dee",
+          "location": 1485
+        }
+      ]
+    },
+    {
+      "id": "H7A3KJGdYPk",
+      "segments": [
+        {
+          "text": "something in pro on *twitter* on *twitter*",
+          "location": 804
+        },
+        {
+          "text": "young *twitter* that was the best he got",
+          "location": 806
+        },
+        {
+          "text": "hammered him on *twitter* people are tired",
+          "location": 847
+        },
+        {
+          "text": "*twitter* what is the story with cats",
+          "location": 1404
+        },
+        {
+          "text": "*twitter* of cats judging kelly and and i",
+          "location": 1419
+        },
+        {
+          "text": "have cats as their *twitter* picture she",
+          "location": 1458
+        },
+        {
+          "text": "speaking of *twitter* this is going in",
+          "location": 1569
+        },
+        {
+          "text": "active on *twitter* sharing their boy",
+          "location": 1585
+        },
+        {
+          "text": "was very excited when i think *twitter*",
+          "location": 2049
+        },
+        {
+          "text": "actually on *twitter* when he found out he",
+          "location": 2336
+        },
+        {
+          "text": "okay and you invited *twitter* so we went",
+          "location": 2346
+        },
+        {
+          "text": "that goes on ah i see you on *twitter*",
+          "location": 2569
+        },
+        {
+          "text": "the newspaper online on *twitter*",
+          "location": 2829
+        }
+      ]
+    },
+    {
+      "id": "hBxouTsYc1Y",
+      "segments": [
+        {
+          "text": "beans please follow me on *twitter* at",
+          "location": 1030
+        }
+      ]
+    },
+    {
+      "id": "Hc7HhtjmztU",
+      "segments": [
+        {
+          "text": "folks on *twitter* that have compiled some",
+          "location": 151
+        },
+        {
+          "text": "clearly especially on *twitter* want corey",
+          "location": 206
+        },
+        {
+          "text": "on *twitter* have seen me tweet it",
+          "location": 396
+        },
+        {
+          "text": "single person on *twitter* and everywhere",
+          "location": 608
+        },
+        {
+          "text": "a bunch of kind of folks on *twitter*",
+          "location": 835
+        },
+        {
+          "text": "work on this rosy memos on *twitter*",
+          "location": 2098
+        },
+        {
+          "text": "almost jingo is her *twitter* handle has",
+          "location": 2100
+        },
+        {
+          "text": "*twitter* you can follow her she's are",
+          "location": 2661
+        }
+      ]
+    },
+    {
+      "id": "hHsc4kcCP8Y",
+      "segments": [
+        {
+          "text": "have a *twitter* account we have questions",
+          "location": 160
+        },
+        {
+          "text": "when the *twitter* account started soon",
+          "location": 179
+        },
+        {
+          "text": "more *twitter* followers but here we go",
+          "location": 190
+        },
+        {
+          "text": "*twitter* account",
+          "location": 931
+        },
+        {
+          "text": "is follow this *twitter* account which",
+          "location": 1047
+        }
+      ]
+    },
+    {
+      "id": "hhWxiFd1Lek",
+      "segments": [
+        {
+          "text": "at this stuff also follow me on *twitter*",
+          "location": 2571
+        },
+        {
+          "text": "website in the march *twitter* the march",
+          "location": 2583
+        }
+      ]
+    },
+    {
+      "id": "hK9bktvtMB0",
+      "segments": [
+        {
+          "text": "*twitter* or at john w huber i'm sorry on",
+          "location": 1695
+        },
+        {
+          "text": "*twitter* one mr. flinn can secure the",
+          "location": 1699
+        }
+      ]
+    },
+    {
+      "id": "hkUkxy-QQ-Q",
+      "segments": [
+        {
+          "text": "*twitter* friend of mine compiled this",
+          "location": 32
+        },
+        {
+          "text": "tweeted about on *twitter* but i want to",
+          "location": 366
+        },
+        {
+          "text": "*twitter* and i'll show you but the higher",
+          "location": 539
+        },
+        {
+          "text": "julian assange taking his *twitter* down",
+          "location": 764
+        }
+      ]
+    },
+    {
+      "id": "hQ_O1Lr1M-g",
+      "segments": [
+        {
+          "text": "one topic on *twitter* political topic",
+          "location": 725
+        }
+      ]
+    },
+    {
+      "id": "HV-vFME-F50",
+      "segments": [
+        {
+          "text": "president on *twitter* basically taking",
+          "location": 593
+        }
+      ]
+    },
+    {
+      "id": "hvwOzn5PKpM",
+      "segments": [
+        {
+          "text": "*twitter* right now as well youtube",
+          "location": 88
+        },
+        {
+          "text": "*twitter* d live facebook everybody's",
+          "location": 90
+        },
+        {
+          "text": "tweet on *twitter* two days the day before",
+          "location": 209
+        },
+        {
+          "text": "because *twitter* has shadow banned and",
+          "location": 227
+        },
+        {
+          "text": "band on *twitter* you can't see the tweet",
+          "location": 305
+        },
+        {
+          "text": "again everything's linked here *twitter*",
+          "location": 1398
+        }
+      ]
+    },
+    {
+      "id": "i1FNodDHArM",
+      "segments": [
+        {
+          "text": "refuge to on *twitter* and he basically",
+          "location": 129
+        }
+      ]
+    },
+    {
+      "id": "i5RW-XXzHtw",
+      "segments": [
+        {
+          "text": "getting on my *twitter* yesterday for",
+          "location": 108
+        },
+        {
+          "text": "on *twitter* did an entire thread about",
+          "location": 1090
+        }
+      ]
+    },
+    {
+      "id": "IG61YMUfKzo",
+      "segments": [
+        {
+          "text": "on *twitter* and gab please at tracey",
+          "location": 1705
+        }
+      ]
+    },
+    {
+      "id": "Igzj0udBvls",
+      "segments": [
+        {
+          "text": "*twitter* came out and said this subpoena",
+          "location": 24
+        }
+      ]
+    },
+    {
+      "id": "isiKn_13a6o",
+      "segments": [
+        {
+          "text": "i took a poll on *twitter* this is gonna",
+          "location": 11
+        }
+      ]
+    },
+    {
+      "id": "ITt0C3PdbH4",
+      "segments": [
+        {
+          "text": "serve these papers on *twitter* they serve",
+          "location": 35
+        },
+        {
+          "text": "them electronically via *twitter* and my",
+          "location": 39
+        },
+        {
+          "text": "as a whole does this make *twitter* a",
+          "location": 45
+        },
+        {
+          "text": "public square in other words is *twitter*",
+          "location": 46
+        },
+        {
+          "text": "*twitter* as a platform and and and this",
+          "location": 66
+        },
+        {
+          "text": "court documents via *twitter* that's a",
+          "location": 83
+        },
+        {
+          "text": "serve the dnc on *twitter* i'm gonna link",
+          "location": 97
+        },
+        {
+          "text": "*twitter* because you know they're also",
+          "location": 111
+        },
+        {
+          "text": "served wikileaks via *twitter* yesterday",
+          "location": 565
+        }
+      ]
+    },
+    {
+      "id": "IWxOLAn5AlQ",
+      "segments": [
+        {
+          "text": "my patron you can find me on *twitter* at",
+          "location": 1468
+        }
+      ]
+    },
+    {
+      "id": "JfWVbWJ2_Ko",
+      "segments": [
+        {
+          "text": "please follow me on *twitter* and gab at",
+          "location": 529
+        }
+      ]
+    },
+    {
+      "id": "jGt9zgpwZ9Q",
+      "segments": [
+        {
+          "text": "next couple days so my *twitter* might",
+          "location": 581
+        }
+      ]
+    },
+    {
+      "id": "JoGtXBDBgp0",
+      "segments": [
+        {
+          "text": "had sent me on *twitter* and i can't",
+          "location": 36
+        },
+        {
+          "text": "paypal follow me on *twitter* and gab at",
+          "location": 1647
+        }
+      ]
+    },
+    {
+      "id": "JPZUyqpKGZs",
+      "segments": [
+        {
+          "text": "babinski you can find him on *twitter* at",
+          "location": 273
+        },
+        {
+          "text": "check out his *twitter* page and find out",
+          "location": 288
+        },
+        {
+          "text": "support his worldview again his *twitter*",
+          "location": 380
+        },
+        {
+          "text": "i will tweet them out on *twitter* thank",
+          "location": 1682
+        },
+        {
+          "text": "they're on *twitter* ak uncovered ec we're",
+          "location": 1688
+        }
+      ]
+    },
+    {
+      "id": "jtHG1a1tP_I",
+      "segments": [
+        {
+          "text": "economy on *twitter* here's a link this",
+          "location": 633
+        },
+        {
+          "text": "check out this dude's *twitter* i have the",
+          "location": 782
+        },
+        {
+          "text": "started posted on *twitter* yesterday i",
+          "location": 2211
+        }
+      ]
+    },
+    {
+      "id": "jYPNWZq_H18",
+      "segments": [
+        {
+          "text": "*twitter* account yesterday and i did a",
+          "location": 201
+        }
+      ]
+    },
+    {
+      "id": "k-bt6bWGij8",
+      "segments": [
+        {
+          "text": "would float through my *twitter* timeline",
+          "location": 62
+        },
+        {
+          "text": "*twitter* who have done amazing work so",
+          "location": 114
+        },
+        {
+          "text": "*twitter* its head snipe zero one one",
+          "location": 786
+        }
+      ]
+    },
+    {
+      "id": "kB0zCpNGhVE",
+      "segments": [
+        {
+          "text": "*twitter* account they have a website they",
+          "location": 334
+        },
+        {
+          "text": "link to his *twitter* below and here he",
+          "location": 951
+        },
+        {
+          "text": "him on *twitter* at with underscore",
+          "location": 1490
+        },
+        {
+          "text": "follow me on *twitter* and gab at tracey",
+          "location": 3064
+        },
+        {
+          "text": "*twitter* you guys know where to find me i",
+          "location": 3077
+        }
+      ]
+    },
+    {
+      "id": "kG_yiZWpcTQ",
+      "segments": [
+        {
+          "text": "traitorous *twitter*",
+          "location": 238
+        },
+        {
+          "text": "*twitter* a lot this is where all the news",
+          "location": 282
+        },
+        {
+          "text": "happens i spend my entire day on *twitter*",
+          "location": 284
+        },
+        {
+          "text": "um and i'm on *twitter* all day and i'm on",
+          "location": 289
+        }
+      ]
+    },
+    {
+      "id": "KHjoVdnA62A",
+      "segments": [
+        {
+          "text": "on *twitter* of these hearings right now",
+          "location": 352
+        }
+      ]
+    },
+    {
+      "id": "km-Gx0Hg-44",
+      "segments": [
+        {
+          "text": "out on *twitter* and your social media and",
+          "location": 249
+        },
+        {
+          "text": "*twitter* right now just to get some",
+          "location": 252
+        },
+        {
+          "text": "*twitter* timeline i put it out today i'm",
+          "location": 565
+        },
+        {
+          "text": "just keep my *twitter* feet up and just",
+          "location": 1567
+        },
+        {
+          "text": "on my *twitter* feed and i'm good with",
+          "location": 1574
+        },
+        {
+          "text": "okay i'm at tracy being on *twitter* with",
+          "location": 1748
+        },
+        {
+          "text": "*twitter*",
+          "location": 1845
+        }
+      ]
+    },
+    {
+      "id": "KSJ6Tj0QHjo",
+      "segments": [
+        {
+          "text": "my *twitter* at tracy beans tra cyb ea and",
+          "location": 292
+        },
+        {
+          "text": "i don't care about *twitter* i'm far past",
+          "location": 407
+        }
+      ]
+    },
+    {
+      "id": "kUJpIgoTT9U",
+      "segments": [
+        {
+          "text": "retraction and apology on my own *twitter*",
+          "location": 155
+        },
+        {
+          "text": "look like on *twitter* right here",
+          "location": 269
+        },
+        {
+          "text": "of targeted harassment *twitter* suspended",
+          "location": 1437
+        },
+        {
+          "text": "offence on *twitter* while we have people",
+          "location": 1501
+        },
+        {
+          "text": "so people are being banned look *twitter*",
+          "location": 1538
+        },
+        {
+          "text": "has to control their *twitter* experience",
+          "location": 1578
+        },
+        {
+          "text": "*twitter* check it out on periscope it's",
+          "location": 1619
+        },
+        {
+          "text": "also you can also find me on *twitter* at",
+          "location": 2885
+        }
+      ]
+    },
+    {
+      "id": "KXFH17xn4Qg",
+      "segments": [
+        {
+          "text": "with gusoff or two via chat on *twitter*",
+          "location": 140
+        },
+        {
+          "text": "is at with integrity on *twitter* should",
+          "location": 223
+        },
+        {
+          "text": "just interesting follow me on *twitter* at",
+          "location": 1456
+        }
+      ]
+    },
+    {
+      "id": "kXjxdiUO96s",
+      "segments": [
+        {
+          "text": "sits on *twitter* all day long is not not",
+          "location": 706
+        },
+        {
+          "text": "*twitter* feed that marie ivanovitch is",
+          "location": 808
+        },
+        {
+          "text": "yet follow uncovered ec on *twitter* at on",
+          "location": 1284
+        },
+        {
+          "text": "find me on *twitter* or periscope you can",
+          "location": 1305
+        }
+      ]
+    },
+    {
+      "id": "KXsekpEVyeU",
+      "segments": [
+        {
+          "text": "facebook and *twitter* facebook and",
+          "location": 1662
+        },
+        {
+          "text": "*twitter* on pages 50 and 51 it gets",
+          "location": 1664
+        }
+      ]
+    },
+    {
+      "id": "L_ZGt4k94As",
+      "segments": [
+        {
+          "text": "shared it on my *twitter* and sean hannity",
+          "location": 44
+        },
+        {
+          "text": "*twitter* has done a remarkable job of",
+          "location": 649
+        }
+      ]
+    },
+    {
+      "id": "L0KufJcu7eU",
+      "segments": [
+        {
+          "text": "*twitter* as well",
+          "location": 170
+        },
+        {
+          "text": "the crazy on my *twitter* feed today the",
+          "location": 782
+        }
+      ]
+    },
+    {
+      "id": "L0sdWF4eG4c",
+      "segments": [
+        {
+          "text": "kind of funny that i got on my *twitter*",
+          "location": 166
+        },
+        {
+          "text": "*twitter* just to give them the credit and",
+          "location": 205
+        },
+        {
+          "text": "hysterical his *twitter* account is",
+          "location": 1256
+        },
+        {
+          "text": "*twitter* i thought this might be helpful",
+          "location": 1977
+        }
+      ]
+    },
+    {
+      "id": "L7Qpyk_feBM",
+      "segments": [
+        {
+          "text": "democrats on *twitter* several sources say",
+          "location": 1643
+        }
+      ]
+    },
+    {
+      "id": "Lax37pJP5ac",
+      "segments": [
+        {
+          "text": "*twitter* account and in the description",
+          "location": 1270
+        },
+        {
+          "text": "they'll go on *twitter* or they'll go on",
+          "location": 1314
+        }
+      ]
+    },
+    {
+      "id": "LIbrzV8SpcY",
+      "segments": [
+        {
+          "text": "on *twitter* who are always these people",
+          "location": 1612
+        },
+        {
+          "text": "great you can find him on *twitter* at",
+          "location": 1763
+        },
+        {
+          "text": "on *twitter* get into that conversation",
+          "location": 2178
+        }
+      ]
+    },
+    {
+      "id": "lovFAwq_JWQ",
+      "segments": [
+        {
+          "text": "*twitter* if you guys want to go and look",
+          "location": 379
+        },
+        {
+          "text": "please follow me on *twitter* tracey beans",
+          "location": 670
+        }
+      ]
+    },
+    {
+      "id": "lQmUOtgjIdA",
+      "segments": [
+        {
+          "text": "come on *twitter* they really start",
+          "location": 1104
+        }
+      ]
+    },
+    {
+      "id": "lqOKi7Mhp8Q",
+      "segments": [
+        {
+          "text": "on *twitter* a little bit more no you",
+          "location": 2763
+        }
+      ]
+    },
+    {
+      "id": "lrn1yQbSnHo",
+      "segments": [
+        {
+          "text": "saavedra i like following him on *twitter*",
+          "location": 1783
+        }
+      ]
+    },
+    {
+      "id": "Lvu5_YQ2Rm4",
+      "segments": [
+        {
+          "text": "to *twitter* and because i wanted to show",
+          "location": 5
+        },
+        {
+          "text": "here we are on my *twitter* page i just",
+          "location": 19
+        },
+        {
+          "text": "thing on my *twitter* in regards to anti",
+          "location": 186
+        }
+      ]
+    },
+    {
+      "id": "m3lnyzjqWnE",
+      "segments": [
+        {
+          "text": "maybe i'll just share this on *twitter*",
+          "location": 129
+        }
+      ]
+    },
+    {
+      "id": "M6vwonTniVw",
+      "segments": [
+        {
+          "text": "share stuff on *twitter* i don't like",
+          "location": 41
+        }
+      ]
+    },
+    {
+      "id": "M8mqCIXelB0",
+      "segments": [
+        {
+          "text": "this information it really does *twitter*",
+          "location": 764
+        },
+        {
+          "text": "can follow me obviously on *twitter* gab",
+          "location": 877
+        }
+      ]
+    },
+    {
+      "id": "mETx7SAJlVk",
+      "segments": [
+        {
+          "text": "on *twitter* i should probably find it",
+          "location": 134
+        },
+        {
+          "text": "suspended from *twitter* he will be there",
+          "location": 1658
+        }
+      ]
+    },
+    {
+      "id": "MfJAbIW3BfA",
+      "segments": [
+        {
+          "text": "read *twitter*",
+          "location": 680
+        }
+      ]
+    },
+    {
+      "id": "MkT73qYCd1Q",
+      "segments": [
+        {
+          "text": "*twitter* use or you know the way he gets",
+          "location": 1353
+        },
+        {
+          "text": "against conserves we know *twitter* google",
+          "location": 1706
+        },
+        {
+          "text": "so if you see somebody on *twitter* that",
+          "location": 1973
+        },
+        {
+          "text": "you're looking at somebody on *twitter*",
+          "location": 1980
+        },
+        {
+          "text": "or you know there's a thing on *twitter*",
+          "location": 2080
+        },
+        {
+          "text": "my *twitter* history when i when i was",
+          "location": 2183
+        },
+        {
+          "text": "back i'd been on *twitter* for years and",
+          "location": 2189
+        }
+      ]
+    },
+    {
+      "id": "MMGy4DTklPE",
+      "segments": [
+        {
+          "text": "people who interact with you on *twitter*",
+          "location": 1793
+        },
+        {
+          "text": "on *twitter* please hit me up on youtube",
+          "location": 2077
+        },
+        {
+          "text": "questions my dms are open on *twitter* so",
+          "location": 2137
+        }
+      ]
+    },
+    {
+      "id": "N6HeRdW-0mE",
+      "segments": [
+        {
+          "text": "*twitter* that i had a pretty massive",
+          "location": 113
+        },
+        {
+          "text": "anna on *twitter* all right guys you guys",
+          "location": 135
+        },
+        {
+          "text": "cases bought on *twitter* a notification",
+          "location": 278
+        }
+      ]
+    },
+    {
+      "id": "N6OJkEcTNBI",
+      "segments": [
+        {
+          "text": "against *twitter* but it's not only",
+          "location": 60
+        },
+        {
+          "text": "against *twitter* and that's a people are",
+          "location": 61
+        },
+        {
+          "text": "just focusing on *twitter* but i was",
+          "location": 63
+        },
+        {
+          "text": "*twitter* elisabeth mayor mayor strategies",
+          "location": 69
+        },
+        {
+          "text": "*twitter* accounts which since the posting",
+          "location": 75
+        },
+        {
+          "text": "conservative *twitter* accounts and says",
+          "location": 369
+        },
+        {
+          "text": "defamatory *twitter* account in reference",
+          "location": 497
+        },
+        {
+          "text": "yet i haven't searched her *twitter*",
+          "location": 585
+        },
+        {
+          "text": "her *twitter* account to find some things",
+          "location": 625
+        },
+        {
+          "text": "more than just *twitter* he goes through",
+          "location": 657
+        },
+        {
+          "text": "*twitter* conspiracy meeting tonight don't",
+          "location": 758
+        },
+        {
+          "text": "it's horrible i think *twitter* needs to",
+          "location": 795
+        },
+        {
+          "text": "has more *twitter* followers than devin",
+          "location": 806
+        },
+        {
+          "text": "*twitter* this is more if you notice there",
+          "location": 826
+        },
+        {
+          "text": "is we're actually going after *twitter*",
+          "location": 862
+        },
+        {
+          "text": "exist *twitter* says that they don't have",
+          "location": 887
+        },
+        {
+          "text": "*twitter* becomes the gaslighting for all",
+          "location": 914
+        },
+        {
+          "text": "can't not have a *twitter* account can't",
+          "location": 981
+        },
+        {
+          "text": "*twitter* account otherwise you won't be",
+          "location": 985
+        },
+        {
+          "text": "lawsuit against *twitter* for censorship",
+          "location": 1011
+        },
+        {
+          "text": "experienced on *twitter* he's kind of",
+          "location": 1022
+        },
+        {
+          "text": "get emails from *twitter* it's constantly",
+          "location": 1081
+        },
+        {
+          "text": "stuff so i think if *twitter* wants to be",
+          "location": 1085
+        },
+        {
+          "text": "*twitter* see and that's what i mean",
+          "location": 1149
+        },
+        {
+          "text": "*twitter* and censorship is much more",
+          "location": 1174
+        }
+      ]
+    },
+    {
+      "id": "NAmvx01k9GY",
+      "segments": [
+        {
+          "text": "after i said last night on my *twitter*",
+          "location": 447
+        }
+      ]
+    },
+    {
+      "id": "NEqIlHSws84",
+      "segments": [
+        {
+          "text": "*twitter* with more than a hint of sarcasm",
+          "location": 112
+        },
+        {
+          "text": "on *twitter* i start seeing this exchange",
+          "location": 257
+        },
+        {
+          "text": "you go back on handy's *twitter* to may",
+          "location": 276
+        },
+        {
+          "text": "*twitter* but i'm just gonna get to the",
+          "location": 324
+        }
+      ]
+    },
+    {
+      "id": "Nj95GFo9wN4",
+      "segments": [
+        {
+          "text": "on *twitter* i think i'm gonna do a",
+          "location": 47
+        }
+      ]
+    },
+    {
+      "id": "NK3yMiSIWo4",
+      "segments": [
+        {
+          "text": "*twitter* account for a year so again to",
+          "location": 323
+        }
+      ]
+    },
+    {
+      "id": "NkiAVuCp9OA",
+      "segments": [
+        {
+          "text": "of *twitter* largely because i had",
+          "location": 257
+        },
+        {
+          "text": "commented on a *twitter* decision to ban",
+          "location": 260
+        },
+        {
+          "text": "largely because on *twitter* one and then",
+          "location": 346
+        },
+        {
+          "text": "stuff on *twitter* i picked this some",
+          "location": 478
+        },
+        {
+          "text": "up on *twitter* i read the whole thing in",
+          "location": 482
+        }
+      ]
+    },
+    {
+      "id": "nkLSyJ1D2PM",
+      "segments": [
+        {
+          "text": "i'm gonna thread it on *twitter* as well",
+          "location": 44
+        },
+        {
+          "text": "hannity's *twitter* account came down now",
+          "location": 180
+        },
+        {
+          "text": "sean hannity's *twitter* account came down",
+          "location": 182
+        },
+        {
+          "text": "warner to fake sean hannity *twitter*",
+          "location": 225
+        }
+      ]
+    },
+    {
+      "id": "ntbpwigxlS8",
+      "segments": [
+        {
+          "text": "*twitter* page so that everybody knows to",
+          "location": 32
+        },
+        {
+          "text": "on *twitter* really quickly and then we'll",
+          "location": 53
+        },
+        {
+          "text": "because it's techno fog on *twitter*",
+          "location": 1753
+        },
+        {
+          "text": "*twitter* for everybody um again i'm doing",
+          "location": 1860
+        }
+      ]
+    },
+    {
+      "id": "NXPMR-tDIwA",
+      "segments": [
+        {
+          "text": "special that i put up on my *twitter*",
+          "location": 2418
+        },
+        {
+          "text": "gab and *twitter* at tracey beans with the",
+          "location": 2594
+        }
+      ]
+    },
+    {
+      "id": "nZyEcOqMuao",
+      "segments": [
+        {
+          "text": "shared the print screens on *twitter* of",
+          "location": 801
+        }
+      ]
+    },
+    {
+      "id": "o-sDc-zz74I",
+      "segments": [
+        {
+          "text": "broke where was the first place *twitter*",
+          "location": 673
+        },
+        {
+          "text": "new *twitter* followers as a platform for",
+          "location": 751
+        }
+      ]
+    },
+    {
+      "id": "O12aMrSJa-c",
+      "segments": [
+        {
+          "text": "case and that set off *twitter* in a",
+          "location": 2726
+        }
+      ]
+    },
+    {
+      "id": "O2ThACsc-SI",
+      "segments": [
+        {
+          "text": "thousand *twitter* followers and whatever",
+          "location": 2332
+        }
+      ]
+    },
+    {
+      "id": "O3n3tdQvElY",
+      "segments": [
+        {
+          "text": "provide every facebook and *twitter* i'd",
+          "location": 1322
+        }
+      ]
+    },
+    {
+      "id": "O4byIO53upA",
+      "segments": [
+        {
+          "text": "put that up on my *twitter* but look at",
+          "location": 761
+        }
+      ]
+    },
+    {
+      "id": "O7aByWyTSS4",
+      "segments": [
+        {
+          "text": "between a *twitter* conversation between",
+          "location": 128
+        },
+        {
+          "text": "and there was also the *twitter*",
+          "location": 133
+        },
+        {
+          "text": "communicating on *twitter*",
+          "location": 139
+        },
+        {
+          "text": "underscore integrity on *twitter* an",
+          "location": 349
+        },
+        {
+          "text": "this *twitter* exchange that the goofs of",
+          "location": 594
+        }
+      ]
+    },
+    {
+      "id": "oaI7ZdDSSLY",
+      "segments": [
+        {
+          "text": "one of my friends on *twitter* helped me",
+          "location": 1871
+        }
+      ]
+    },
+    {
+      "id": "OAsTBQQGtLI",
+      "segments": [
+        {
+          "text": "*twitter* and said here's the possibility",
+          "location": 246
+        },
+        {
+          "text": "person on *twitter* accusing me of",
+          "location": 513
+        }
+      ]
+    },
+    {
+      "id": "ONmjWXHJcKQ",
+      "segments": [
+        {
+          "text": "people are now on *twitter* saying what",
+          "location": 549
+        },
+        {
+          "text": "to caution you just stay off of *twitter*",
+          "location": 590
+        }
+      ]
+    },
+    {
+      "id": "OW2lf9AXAH8",
+      "segments": [
+        {
+          "text": "hello hello hey hi my *twitter* pals how",
+          "location": 11
+        },
+        {
+          "text": "i see my *twitter* pals in the chat just",
+          "location": 16
+        },
+        {
+          "text": "talking to youtube *twitter* facebook and",
+          "location": 1700
+        }
+      ]
+    },
+    {
+      "id": "owoNCVy2Xf4",
+      "segments": [
+        {
+          "text": "me on *twitter* that uh i always talked",
+          "location": 3557
+        }
+      ]
+    },
+    {
+      "id": "oZ6ZfjPVZus",
+      "segments": [
+        {
+          "text": "i made a shortlist on *twitter* here we",
+          "location": 133
+        },
+        {
+          "text": "think for some reason that *twitter* is",
+          "location": 669
+        },
+        {
+          "text": "where is it my *twitter* feed is too busy",
+          "location": 855
+        },
+        {
+          "text": "a year ago where *twitter* user harold",
+          "location": 1181
+        },
+        {
+          "text": "imperator rex on *twitter* i don't know if",
+          "location": 1227
+        },
+        {
+          "text": "*twitter* accounts and podcasts then cnn",
+          "location": 1791
+        },
+        {
+          "text": "on *twitter* and see what's going on that",
+          "location": 1952
+        },
+        {
+          "text": "let on *twitter* hu b le tte oh goodness i",
+          "location": 2872
+        },
+        {
+          "text": "there's a lot of funny stuff on *twitter*",
+          "location": 2883
+        },
+        {
+          "text": "james woods is back on *twitter*",
+          "location": 2923
+        }
+      ]
+    },
+    {
+      "id": "P3ZrrRQSEjU",
+      "segments": [
+        {
+          "text": "i'm gonna i'm gonna go to my *twitter*",
+          "location": 774
+        },
+        {
+          "text": "you if you watch *twitter* after this",
+          "location": 1088
+        }
+      ]
+    },
+    {
+      "id": "p6IrQgYqqU8",
+      "segments": [
+        {
+          "text": "integrity on *twitter* who had started",
+          "location": 423
+        },
+        {
+          "text": "*twitter* where people were asking some",
+          "location": 1304
+        },
+        {
+          "text": "sorry um so we had problems with *twitter*",
+          "location": 1508
+        },
+        {
+          "text": "but as far as the *twitter* thing we're",
+          "location": 1574
+        },
+        {
+          "text": "youtube and my own *twitter* shatters here",
+          "location": 1669
+        },
+        {
+          "text": "youtube you you you watch *twitter* just",
+          "location": 1674
+        },
+        {
+          "text": "*twitter* people laughing so fox 77 says",
+          "location": 1682
+        },
+        {
+          "text": "take them but somebody on *twitter* did a",
+          "location": 1767
+        }
+      ]
+    },
+    {
+      "id": "PKjUOAt9RHM",
+      "segments": [
+        {
+          "text": "*twitter* here he's the one who",
+          "location": 366
+        },
+        {
+          "text": "set hello on *twitter* a couple times but",
+          "location": 424
+        },
+        {
+          "text": "one on *twitter* i mean these sorts of",
+          "location": 510
+        },
+        {
+          "text": "*twitter* where i explained how important",
+          "location": 576
+        }
+      ]
+    },
+    {
+      "id": "pnpALUUC0Uk",
+      "segments": [
+        {
+          "text": "*twitter* and gab at tracey beans tra cy",
+          "location": 566
+        }
+      ]
+    },
+    {
+      "id": "pOIac4OGMds",
+      "segments": [
+        {
+          "text": "whoa social media *twitter* instagram",
+          "location": 2247
+        }
+      ]
+    },
+    {
+      "id": "pPq8Lg_hb7o",
+      "segments": [
+        {
+          "text": "comments on *twitter* and stuff like that",
+          "location": 66
+        }
+      ]
+    },
+    {
+      "id": "PQCSlwbRVtA",
+      "segments": [
+        {
+          "text": "carlson he's um on *twitter* as well he's",
+          "location": 157
+        }
+      ]
+    },
+    {
+      "id": "PWKxJruh6Jo",
+      "segments": [
+        {
+          "text": "an hour ago but i told you on *twitter*",
+          "location": 9
+        },
+        {
+          "text": "you guys follow my *twitter* you'll see",
+          "location": 372
+        },
+        {
+          "text": "follow my *twitter* i recommend you do it",
+          "location": 374
+        },
+        {
+          "text": "i was looking on *twitter* for something",
+          "location": 535
+        },
+        {
+          "text": "*twitter* timeline and then all of a",
+          "location": 906
+        }
+      ]
+    },
+    {
+      "id": "q1tM24C9Dk8",
+      "segments": [
+        {
+          "text": "the u.s. minority *twitter* feed as well",
+          "location": 216
+        }
+      ]
+    },
+    {
+      "id": "q2nut-TQnAw",
+      "segments": [
+        {
+          "text": "is here from seth abramson's *twitter*",
+          "location": 12
+        },
+        {
+          "text": "pointed this out to sheryl on *twitter*",
+          "location": 303
+        }
+      ]
+    },
+    {
+      "id": "Q3njGcQzlGY",
+      "segments": [
+        {
+          "text": "wonderful guy *twitter* handle aptly with",
+          "location": 371
+        },
+        {
+          "text": "of propping him and sharing his *twitter*",
+          "location": 377
+        },
+        {
+          "text": "numbers hahaha he has a *twitter* account",
+          "location": 565
+        },
+        {
+          "text": "the private *twitter* conversation between",
+          "location": 808
+        },
+        {
+          "text": "recently a *twitter* direct message",
+          "location": 821
+        },
+        {
+          "text": "this article is to prove the *twitter*",
+          "location": 877
+        },
+        {
+          "text": "*twitter* and just matt's really amazing",
+          "location": 1638
+        },
+        {
+          "text": "these *twitter* *twitter* handles in the",
+          "location": 1697
+        },
+        {
+          "text": "up on *twitter* if you like the work i do",
+          "location": 1725
+        }
+      ]
+    },
+    {
+      "id": "Q7ltKlDb_iQ",
+      "segments": [
+        {
+          "text": "*twitter* i have posted and said you know",
+          "location": 1681
+        }
+      ]
+    },
+    {
+      "id": "qBpZdtQLRgM",
+      "segments": [
+        {
+          "text": "like *twitter* spree of every time i see",
+          "location": 2280
+        }
+      ]
+    },
+    {
+      "id": "qIWsc3FHA70",
+      "segments": [
+        {
+          "text": "*twitter* the one who actually got his",
+          "location": 75
+        }
+      ]
+    },
+    {
+      "id": "qJgdwDTFy4Q",
+      "segments": [
+        {
+          "text": "have it right on top or on my *twitter*",
+          "location": 1400
+        },
+        {
+          "text": "ever on *twitter* just ignore it it's made",
+          "location": 2383
+        },
+        {
+          "text": "*twitter* what's your *twitter* handle",
+          "location": 2606
+        }
+      ]
+    },
+    {
+      "id": "QKfSaUy0aOo",
+      "segments": [
+        {
+          "text": "comment that he posted on *twitter* in",
+          "location": 419
+        },
+        {
+          "text": "*twitter* today the",
+          "location": 1742
+        }
+      ]
+    },
+    {
+      "id": "Qmxk668ru_8",
+      "segments": [
+        {
+          "text": "thread on it on *twitter* i've been doing",
+          "location": 20
+        },
+        {
+          "text": "below you can follow me on *twitter* gab d",
+          "location": 392
+        }
+      ]
+    },
+    {
+      "id": "QPnMyftwpE0",
+      "segments": [
+        {
+          "text": "me on facebook i'm sorry on *twitter* and",
+          "location": 495
+        }
+      ]
+    },
+    {
+      "id": "qTYCtgOr_8I",
+      "segments": [
+        {
+          "text": "but i'll have *twitter* so stay tuned i",
+          "location": 1099
+        }
+      ]
+    },
+    {
+      "id": "qVOhVy16McI",
+      "segments": [
+        {
+          "text": "on *twitter* but i haven't told people",
+          "location": 1250
+        }
+      ]
+    },
+    {
+      "id": "QzLIZODzQLk",
+      "segments": [
+        {
+          "text": "flemming flynn on *twitter* him and the",
+          "location": 483
+        }
+      ]
+    },
+    {
+      "id": "r3uCJZSMEyQ",
+      "segments": [
+        {
+          "text": "hat tip to morpheus on *twitter* at red",
+          "location": 0
+        }
+      ]
+    },
+    {
+      "id": "r5SBzWlW1_Y",
+      "segments": [
+        {
+          "text": "tom cotton is on *twitter* freaking out",
+          "location": 491
+        }
+      ]
+    },
+    {
+      "id": "RemTxx4eTLs",
+      "segments": [
+        {
+          "text": "*twitter* because that's ridiculous",
+          "location": 590
+        },
+        {
+          "text": "help share it on *twitter* and the website",
+          "location": 653
+        }
+      ]
+    },
+    {
+      "id": "rFFmXASbUl4",
+      "segments": [
+        {
+          "text": "on *twitter* which is still there you go",
+          "location": 184
+        },
+        {
+          "text": "go to my *twitter* perpetual maniac and",
+          "location": 972
+        },
+        {
+          "text": "youtube query *twitter* blacklist and then",
+          "location": 1467
+        },
+        {
+          "text": "brazil and i posted that to my *twitter*",
+          "location": 2425
+        }
+      ]
+    },
+    {
+      "id": "RSjalaT3uCM",
+      "segments": [
+        {
+          "text": "*twitter* she ran the swamp accountability",
+          "location": 988
+        },
+        {
+          "text": "where you saw all of these *twitter*",
+          "location": 999
+        },
+        {
+          "text": "on a *twitter* break but tweet it out some",
+          "location": 1138
+        }
+      ]
+    },
+    {
+      "id": "S9YcyTZRn68",
+      "segments": [
+        {
+          "text": "*twitter* and stuff like that but please",
+          "location": 34
+        }
+      ]
+    },
+    {
+      "id": "SGG7C4VWGnI",
+      "segments": [
+        {
+          "text": "comment alive via his *twitter* handle at",
+          "location": 2620
+        }
+      ]
+    },
+    {
+      "id": "sK6eG7SYuQI",
+      "segments": [
+        {
+          "text": "jonathan turley is *twitter* you'll see",
+          "location": 306
+        },
+        {
+          "text": "this case and if you go to my *twitter*",
+          "location": 331
+        },
+        {
+          "text": "occasions including through *twitter*",
+          "location": 2146
+        }
+      ]
+    },
+    {
+      "id": "smRrggNmtTg",
+      "segments": [
+        {
+          "text": "this moment *twitter* is down across the",
+          "location": 9
+        },
+        {
+          "text": "entire globe the entire world's *twitter*",
+          "location": 11
+        },
+        {
+          "text": "i went on to my gaslight tv *twitter*",
+          "location": 346
+        },
+        {
+          "text": "*twitter* accounts linked with links to",
+          "location": 1120
+        },
+        {
+          "text": "*twitter* has done a fantastic job of",
+          "location": 1222
+        },
+        {
+          "text": "this purging of bots on *twitter* and the",
+          "location": 1388
+        },
+        {
+          "text": "russian influence campaign on *twitter*",
+          "location": 1389
+        },
+        {
+          "text": "out to them on *twitter* to ask when the",
+          "location": 1410
+        },
+        {
+          "text": "on *twitter* they just disappear hopefully",
+          "location": 2139
+        }
+      ]
+    },
+    {
+      "id": "T2k6zBRoAYQ",
+      "segments": [
+        {
+          "text": "*twitter* just waiting for her to open up",
+          "location": 694
+        },
+        {
+          "text": "say anything on *twitter* just like what's",
+          "location": 1295
+        },
+        {
+          "text": "now i'll share it on *twitter* and i'll",
+          "location": 1692
+        },
+        {
+          "text": "here's whatever *twitter* every *twitter*",
+          "location": 1886
+        },
+        {
+          "text": "of the average *twitter* user but people",
+          "location": 1946
+        },
+        {
+          "text": "people on on *twitter* and on message",
+          "location": 2592
+        }
+      ]
+    },
+    {
+      "id": "T6z098lTUeY",
+      "segments": [
+        {
+          "text": "shared it on *twitter* but first the",
+          "location": 18
+        },
+        {
+          "text": "*twitter* account which i'll pull up on",
+          "location": 164
+        },
+        {
+          "text": "*twitter* account i know a lot of you guys",
+          "location": 176
+        },
+        {
+          "text": "don't use *twitter* but for right now",
+          "location": 178
+        }
+      ]
+    },
+    {
+      "id": "tnbruuOA82Y",
+      "segments": [
+        {
+          "text": "yesterday it's been all over *twitter*",
+          "location": 107
+        },
+        {
+          "text": "*twitter* that are doing the same but this",
+          "location": 174
+        },
+        {
+          "text": "*twitter* conversation about the four",
+          "location": 226
+        },
+        {
+          "text": "their *twitter* profiles which to me is",
+          "location": 486
+        },
+        {
+          "text": "that's just how *twitter* works especially",
+          "location": 591
+        },
+        {
+          "text": "*twitter* we're just supposed to you know",
+          "location": 1012
+        },
+        {
+          "text": "the point of *twitter* why even have",
+          "location": 1532
+        },
+        {
+          "text": "*twitter* why bother is the *twitter*",
+          "location": 1534
+        }
+      ]
+    },
+    {
+      "id": "tqehbUzjWWM",
+      "segments": [
+        {
+          "text": "blatantly obvious the entire *twitter*",
+          "location": 203
+        },
+        {
+          "text": "posted on jack pacific's *twitter* feed",
+          "location": 1058
+        }
+      ]
+    },
+    {
+      "id": "tQXq-O3d3hA",
+      "segments": [
+        {
+          "text": "facebook on *twitter*",
+          "location": 78
+        }
+      ]
+    },
+    {
+      "id": "Tvip1mMGZZc",
+      "segments": [
+        {
+          "text": "a *twitter* thread about this yesterday",
+          "location": 11
+        },
+        {
+          "text": "if you can please follow me on *twitter*",
+          "location": 830
+        }
+      ]
+    },
+    {
+      "id": "UbP09heNJNI",
+      "segments": [
+        {
+          "text": "on definitely check out my *twitter* page",
+          "location": 39
+        },
+        {
+          "text": "david webb's *twitter* page - at david",
+          "location": 201
+        }
+      ]
+    },
+    {
+      "id": "UeL420NDy1k",
+      "segments": [
+        {
+          "text": "know *twitter* and facebook and youtube",
+          "location": 556
+        },
+        {
+          "text": "there the fact that facebook *twitter* and",
+          "location": 638
+        },
+        {
+          "text": "change *twitter* facebook and youtube guys",
+          "location": 940
+        },
+        {
+          "text": "*twitter* and facebook and youtube and",
+          "location": 1115
+        },
+        {
+          "text": "we weren't all on *twitter* we wouldn't",
+          "location": 1133
+        },
+        {
+          "text": "freely on platforms like *twitter* and",
+          "location": 1527
+        },
+        {
+          "text": "shift sent to *twitter* and facebook if",
+          "location": 1575
+        },
+        {
+          "text": "be the american faction of of *twitter*",
+          "location": 1644
+        }
+      ]
+    },
+    {
+      "id": "UHB66CIjDnw",
+      "segments": [
+        {
+          "text": "started looking through her *twitter*",
+          "location": 1357
+        },
+        {
+          "text": "*twitter* feed at all is this not what",
+          "location": 1389
+        },
+        {
+          "text": "ultimately the platform from *twitter* for",
+          "location": 1839
+        },
+        {
+          "text": "censored on *twitter* it was like the",
+          "location": 1893
+        },
+        {
+          "text": "nunez was being censored on *twitter* they",
+          "location": 1896
+        },
+        {
+          "text": "more than one *twitter* there's not more",
+          "location": 2126
+        },
+        {
+          "text": "meanwhile the dude was also on *twitter* i",
+          "location": 2137
+        },
+        {
+          "text": "but why not go after *twitter* then for",
+          "location": 2149
+        }
+      ]
+    },
+    {
+      "id": "UhEdnT61QoU",
+      "segments": [
+        {
+          "text": "spangled vision on *twitter* he's awesome",
+          "location": 496
+        }
+      ]
+    },
+    {
+      "id": "UNPLv2GkkCE",
+      "segments": [
+        {
+          "text": "you on *twitter* my friend morpheus i",
+          "location": 815
+        }
+      ]
+    },
+    {
+      "id": "UoTU7A7dp6k",
+      "segments": [
+        {
+          "text": "don't mean you know engaged on *twitter*",
+          "location": 865
+        }
+      ]
+    },
+    {
+      "id": "uqVPGzLVLtk",
+      "segments": [
+        {
+          "text": "platforms *twitter* youtube facebook even",
+          "location": 15
+        },
+        {
+          "text": "on *twitter* 37,000 retweets this is a",
+          "location": 1591
+        }
+      ]
+    },
+    {
+      "id": "v12sR5cplGI",
+      "segments": [
+        {
+          "text": "help from someone on *twitter* who's",
+          "location": 1581
+        }
+      ]
+    },
+    {
+      "id": "v492vdHa5HI",
+      "segments": [
+        {
+          "text": "if you go to my *twitter* at tracy dean's",
+          "location": 186
+        },
+        {
+          "text": "will be on my *twitter* account so much",
+          "location": 219
+        }
+      ]
+    },
+    {
+      "id": "v5B_i3VuPHo",
+      "segments": [
+        {
+          "text": "*twitter* jen sia page where i have",
+          "location": 71
+        },
+        {
+          "text": "up to without having to be on *twitter*",
+          "location": 86
+        }
+      ]
+    },
+    {
+      "id": "vaw2XW2G9Uk",
+      "segments": [
+        {
+          "text": "flags for me and a number of my *twitter*",
+          "location": 97
+        },
+        {
+          "text": "also you can find me on *twitter* and gab",
+          "location": 2401
+        }
+      ]
+    },
+    {
+      "id": "vHfOYaL0a1U",
+      "segments": [
+        {
+          "text": "said on my timeline on *twitter* these",
+          "location": 185
+        }
+      ]
+    },
+    {
+      "id": "Vjk9Q6h8H_Y",
+      "segments": [
+        {
+          "text": "statement on *twitter* in response to the",
+          "location": 757
+        },
+        {
+          "text": "like some of them on *twitter* said they",
+          "location": 870
+        }
+      ]
+    },
+    {
+      "id": "vLmXQexS_4s",
+      "segments": [
+        {
+          "text": "a piece about a *twitter* conversation",
+          "location": 544
+        }
+      ]
+    },
+    {
+      "id": "vPtOp-kAIx0",
+      "segments": [
+        {
+          "text": "of talk on *twitter* lately about these",
+          "location": 3
+        },
+        {
+          "text": "*twitter* account of the dc police",
+          "location": 131
+        },
+        {
+          "text": "nation's capital on its *twitter* feed",
+          "location": 590
+        }
+      ]
+    },
+    {
+      "id": "vrCZyXe0XMM",
+      "segments": [
+        {
+          "text": "i'm just going to show this on *twitter*",
+          "location": 95
+        },
+        {
+          "text": "again exploiting *twitter* and facebook",
+          "location": 131
+        },
+        {
+          "text": "with *twitter* supposedly right the",
+          "location": 198
+        },
+        {
+          "text": "why does facebook and *twitter* care why",
+          "location": 417
+        },
+        {
+          "text": "feinstein feel the need to tell *twitter*",
+          "location": 435
+        },
+        {
+          "text": "natasha bertrand russia linked *twitter*",
+          "location": 456
+        },
+        {
+          "text": "*twitter* and facebook going to",
+          "location": 505
+        },
+        {
+          "text": "with me several *twitter* hashtags",
+          "location": 571
+        },
+        {
+          "text": "*twitter* hash bla bla okay here we go",
+          "location": 633
+        },
+        {
+          "text": "hashtag among *twitter* accounts believed",
+          "location": 655
+        },
+        {
+          "text": "patriotic americans using *twitter* the",
+          "location": 672
+        },
+        {
+          "text": "intervene if they're on *twitter* how are",
+          "location": 752
+        },
+        {
+          "text": "and *twitter* have developed significant",
+          "location": 850
+        },
+        {
+          "text": "*twitter* and facebook account holders",
+          "location": 964
+        },
+        {
+          "text": "beginning of *twitter* the hashtag now",
+          "location": 1045
+        },
+        {
+          "text": "*twitter* user policies using a hashtag",
+          "location": 1065
+        },
+        {
+          "text": "*twitter* was made for this is just crazy",
+          "location": 1079
+        },
+        {
+          "text": "retribution from *twitter* and facebook",
+          "location": 1158
+        },
+        {
+          "text": "are on my *twitter* just keep calling and",
+          "location": 1178
+        },
+        {
+          "text": "*twitter* account so there has to be a",
+          "location": 1890
+        }
+      ]
+    },
+    {
+      "id": "VtFJKZhA1OI",
+      "segments": [
+        {
+          "text": "*twitter* at tracey beans tra cyb ei nz",
+          "location": 993
+        }
+      ]
+    },
+    {
+      "id": "vVhHmj0Ov4k",
+      "segments": [
+        {
+          "text": "meant to have my *twitter* open because",
+          "location": 73
+        },
+        {
+          "text": "shared it on my *twitter* here dear mr.",
+          "location": 2267
+        },
+        {
+          "text": "funding on *twitter* and socials and stuff",
+          "location": 2580
+        }
+      ]
+    },
+    {
+      "id": "vwZTHlanOoU",
+      "segments": [
+        {
+          "text": "of leftist *twitter* users and pundits",
+          "location": 259
+        },
+        {
+          "text": "*twitter* share blu took the subtle",
+          "location": 812
+        },
+        {
+          "text": "over *twitter* to the same crowd that",
+          "location": 1095
+        },
+        {
+          "text": "*twitter* and those elected officials are",
+          "location": 1155
+        },
+        {
+          "text": "donors on *twitter* yesterday and when he",
+          "location": 1247
+        },
+        {
+          "text": "what *twitter* is doing now i start to",
+          "location": 1542
+        }
+      ]
+    },
+    {
+      "id": "vxVTXKkTkMM",
+      "segments": [
+        {
+          "text": "shared this on *twitter* stupid in",
+          "location": 896
+        },
+        {
+          "text": "on my *twitter* thread not not many just a",
+          "location": 1800
+        }
+      ]
+    },
+    {
+      "id": "vZ8fq7gx3xk",
+      "segments": [
+        {
+          "text": "bots on *twitter* and all you basically do",
+          "location": 190
+        }
+      ]
+    },
+    {
+      "id": "VZsK9kz7rHA",
+      "segments": [
+        {
+          "text": "*twitter* account love you guys thank you",
+          "location": 2063
+        }
+      ]
+    },
+    {
+      "id": "w_mQQ1HxSDU",
+      "segments": [
+        {
+          "text": "done by brian on *twitter* after ryan",
+          "location": 152
+        },
+        {
+          "text": "*twitter* and i will put in the",
+          "location": 923
+        },
+        {
+          "text": "comments here from youtube from *twitter*",
+          "location": 2498
+        }
+      ]
+    },
+    {
+      "id": "W-JXsBgzv4o",
+      "segments": [
+        {
+          "text": "*twitter* that on-premises consumption of",
+          "location": 106
+        },
+        {
+          "text": "*twitter*",
+          "location": 129
+        }
+      ]
+    },
+    {
+      "id": "WCwGdJqq6d4",
+      "segments": [
+        {
+          "text": "noticed that my *twitter* is deactivated",
+          "location": 3
+        },
+        {
+          "text": "if you saw my *twitter* feed you saw that",
+          "location": 14
+        }
+      ]
+    },
+    {
+      "id": "WE9-rWOUHJQ",
+      "segments": [
+        {
+          "text": "valley giants facebook and *twitter*",
+          "location": 402
+        },
+        {
+          "text": "on *twitter* and descending contact a",
+          "location": 1198
+        },
+        {
+          "text": "anthony on *twitter* at scott anthony usa",
+          "location": 2994
+        },
+        {
+          "text": "i'll just go to his *twitter* right now",
+          "location": 3001
+        },
+        {
+          "text": "so i would take a look at his *twitter*",
+          "location": 3022
+        }
+      ]
+    },
+    {
+      "id": "wIyPQj4IXpA",
+      "segments": [
+        {
+          "text": "gab and *twitter* at tracey beans tra cyb",
+          "location": 1948
+        }
+      ]
+    },
+    {
+      "id": "wKCtvpanR_c",
+      "segments": [
+        {
+          "text": "tuned to his *twitter* account and you",
+          "location": 1070
+        },
+        {
+          "text": "wanted to go through my *twitter* timeline",
+          "location": 1324
+        }
+      ]
+    },
+    {
+      "id": "WkXCIktsusQ",
+      "segments": [
+        {
+          "text": "i know you're not on *twitter* anymore",
+          "location": 354
+        }
+      ]
+    },
+    {
+      "id": "wq64dbpEuz4",
+      "segments": [
+        {
+          "text": "did a pulled today on *twitter* about",
+          "location": 46
+        },
+        {
+          "text": "can find him on *twitter* at techno",
+          "location": 108
+        }
+      ]
+    },
+    {
+      "id": "wWO3JK3eJrI",
+      "segments": [
+        {
+          "text": "know if you go back to my *twitter* i've",
+          "location": 802
+        },
+        {
+          "text": "no fog on *twitter* and a bunch of other",
+          "location": 1073
+        },
+        {
+          "text": "quarter a page called *twitter*",
+          "location": 1357
+        }
+      ]
+    },
+    {
+      "id": "x2hBenC4AZ0",
+      "segments": [
+        {
+          "text": "hopping between *twitter* and youtube",
+          "location": 125
+        },
+        {
+          "text": "on *twitter* and i will link that in the",
+          "location": 146
+        }
+      ]
+    },
+    {
+      "id": "X39_Z_zvFfc",
+      "segments": [
+        {
+          "text": "was talking with someone in *twitter* dm",
+          "location": 439
+        },
+        {
+          "text": "bellagio hotel on my *twitter* at tracey",
+          "location": 604
+        },
+        {
+          "text": "a z and please follow me on *twitter* i",
+          "location": 684
+        }
+      ]
+    },
+    {
+      "id": "x5gjjT830Nc",
+      "segments": [
+        {
+          "text": "that much on on youtube or even *twitter*",
+          "location": 454
+        },
+        {
+          "text": "so i put out a call on my *twitter*",
+          "location": 550
+        },
+        {
+          "text": "*twitter* 24 hours a day seven days a week",
+          "location": 561
+        },
+        {
+          "text": "doing my podcast i am on *twitter* sharing",
+          "location": 568
+        },
+        {
+          "text": "is on *twitter* and that's where i'm",
+          "location": 579
+        },
+        {
+          "text": "*twitter* everything you cannot shut me up",
+          "location": 582
+        },
+        {
+          "text": "doing on *twitter* no matter what so um i",
+          "location": 587
+        },
+        {
+          "text": "put out a call on *twitter* for some",
+          "location": 594
+        }
+      ]
+    },
+    {
+      "id": "Xh0c6L74Ll4",
+      "segments": [
+        {
+          "text": "*twitter* i'm sharing a bunch of stuff i'm",
+          "location": 235
+        }
+      ]
+    },
+    {
+      "id": "Xn2mO1j3g94",
+      "segments": [
+        {
+          "text": "i'm gonna do a threat on *twitter* about",
+          "location": 1351
+        }
+      ]
+    },
+    {
+      "id": "xrWUcRsinII",
+      "segments": [
+        {
+          "text": "facebook groups share it on *twitter*",
+          "location": 21
+        }
+      ]
+    },
+    {
+      "id": "XSdO8-6pbWQ",
+      "segments": [
+        {
+          "text": "on my *twitter* basically stating like you",
+          "location": 377
+        },
+        {
+          "text": "night *twitter* blew up with people saying",
+          "location": 569
+        },
+        {
+          "text": "would have been mocked off of *twitter* so",
+          "location": 575
+        },
+        {
+          "text": "can try to share a link on my *twitter*",
+          "location": 679
+        },
+        {
+          "text": "*twitter* if you guys want to follow me on",
+          "location": 685
+        },
+        {
+          "text": "*twitter* i do broadcasts in the dark oh",
+          "location": 687
+        }
+      ]
+    },
+    {
+      "id": "XW4kS7p-PvY",
+      "segments": [
+        {
+          "text": "on ron wyden *twitter* account if you woke",
+          "location": 167
+        },
+        {
+          "text": "*twitter* spats with erics wawel who",
+          "location": 940
+        },
+        {
+          "text": "*twitter* or if you're not on *twitter* you",
+          "location": 1576
+        },
+        {
+          "text": "a look at his *twitter* account he's very",
+          "location": 1583
+        },
+        {
+          "text": "that i follow on *twitter* filed it",
+          "location": 2135
+        }
+      ]
+    },
+    {
+      "id": "y7YAfBt6rgc",
+      "segments": [
+        {
+          "text": "there's this thing going on on *twitter* i",
+          "location": 520
+        },
+        {
+          "text": "poulsen on *twitter* like is this you from",
+          "location": 963
+        },
+        {
+          "text": "looking for and then on his *twitter*",
+          "location": 1389
+        },
+        {
+          "text": "of people and their *twitter* accounts",
+          "location": 1479
+        },
+        {
+          "text": "yeah my *twitter* account i will release",
+          "location": 1493
+        },
+        {
+          "text": "eyes on my *twitter* because a lot of",
+          "location": 1514
+        },
+        {
+          "text": "here with the *twitter* and all that i",
+          "location": 1633
+        },
+        {
+          "text": "didn't know who she was on *twitter* so",
+          "location": 1879
+        }
+      ]
+    },
+    {
+      "id": "yNPm3M09GRU",
+      "segments": [
+        {
+          "text": "*twitter* and stuff was referring to it as",
+          "location": 1479
+        }
+      ]
+    },
+    {
+      "id": "ySl-C8ZebIo",
+      "segments": [
+        {
+          "text": "*twitter* basically bend a lot of people",
+          "location": 28
+        },
+        {
+          "text": "*twitter* lost people lots of people lost",
+          "location": 51
+        },
+        {
+          "text": "pedophilia on *twitter* *twitter* can't say",
+          "location": 489
+        },
+        {
+          "text": "about same thing with *twitter* i lose my",
+          "location": 623
+        },
+        {
+          "text": "followers on *twitter* all the time it's",
+          "location": 626
+        }
+      ]
+    },
+    {
+      "id": "Z_6mc2jx1Mk",
+      "segments": [
+        {
+          "text": "even had a little brief *twitter*",
+          "location": 427
+        },
+        {
+          "text": "looking through these guys *twitter*",
+          "location": 673
+        }
+      ]
+    },
+    {
+      "id": "z5f0mreNYgs",
+      "segments": [
+        {
+          "text": "did on *twitter* about this as well so i",
+          "location": 40
+        },
+        {
+          "text": "on *twitter* gab dee two-bit shoot at",
+          "location": 955
+        }
+      ]
+    },
+    {
+      "id": "zGwMYp4DV7Y",
+      "segments": [
+        {
+          "text": "of a *twitter* account to publicize the",
+          "location": 286
+        },
+        {
+          "text": "*twitter* really quick because i shared",
+          "location": 1236
+        },
+        {
+          "text": "haase 12 on *twitter* was the first person",
+          "location": 1537
+        },
+        {
+          "text": "rosy unmasked almost jingo on *twitter* as",
+          "location": 1619
+        },
+        {
+          "text": "me up on *twitter* everybody's been",
+          "location": 2345
+        },
+        {
+          "text": "*twitter* hit me up on gab get me",
+          "location": 2365
+        },
+        {
+          "text": "*twitter* are fantastic too so follow",
+          "location": 2569
+        },
+        {
+          "text": "*twitter* and gab at traci beans and",
+          "location": 2657
+        }
+      ]
+    },
+    {
+      "id": "ZKz6sejxOYg",
+      "segments": [
+        {
+          "text": "on my *twitter* account basically giving",
+          "location": 168
+        }
+      ]
+    },
+    {
+      "id": "zpDE6X-ijH8",
+      "segments": [
+        {
+          "text": "on *twitter* at tracey means i look",
+          "location": 1072
+        }
+      ]
+    },
+    {
+      "id": "ZXccn8oYJuM",
+      "segments": [
+        {
+          "text": "follow me on *twitter* at tracy beans tra",
+          "location": 460
+        }
+      ]
+    },
+    {
+      "id": "zZMOXdh0frU",
+      "segments": [
+        {
+          "text": "page-by-page analysis on *twitter* of the",
+          "location": 102
+        },
+        {
+          "text": "about this this morning on *twitter* we",
+          "location": 876
+        },
+        {
+          "text": "reached out on *twitter* to say hey i have",
+          "location": 944
+        },
+        {
+          "text": "*twitter* broke my thread here but there's",
+          "location": 1029
+        }
+      ]
+    }
+  ]
+}
