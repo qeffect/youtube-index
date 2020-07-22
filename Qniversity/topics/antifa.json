@@ -1,5 +1,5 @@
 {
-  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI,RifZD15SWXw",
+  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI,RifZD15SWXw,2FBs1pbwhGI",
   "topic": "Antifa",
   "aliases": null,
   "hash": null,
@@ -10,6 +10,19 @@
         {
           "text": "organizations such as *antifa*",
           "location": 488
+        }
+      ]
+    },
+    {
+      "id": "2FBs1pbwhGI",
+      "segments": [
+        {
+          "text": "you you *antifa* and black lives matters",
+          "location": 2066
+        },
+        {
+          "text": "and *antifa* punks they're well masks",
+          "location": 2091
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI,RifZD15SWXw",
+  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI,RifZD15SWXw,2FBs1pbwhGI",
   "topic": "Iran",
   "aliases": null,
   "hash": null,
@@ -19,6 +19,15 @@
         {
           "text": "like the ayatollah in *iran* or like",
           "location": 2670
+        }
+      ]
+    },
+    {
+      "id": "2FBs1pbwhGI",
+      "segments": [
+        {
+          "text": "not china for last not *iran* for last",
+          "location": 1440
         }
       ]
     }

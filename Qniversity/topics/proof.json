@@ -1,5 +1,5 @@
 {
-  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI,RifZD15SWXw",
+  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI,RifZD15SWXw,2FBs1pbwhGI",
   "topic": "Proof",
   "aliases": null,
   "hash": null,
@@ -57,6 +57,15 @@
         {
           "text": "i wish that i had the concrete *proof* to",
           "location": 1116
+        }
+      ]
+    },
+    {
+      "id": "2FBs1pbwhGI",
+      "segments": [
+        {
+          "text": "when they have hard concrete *proof*",
+          "location": 1722
         }
       ]
     }
