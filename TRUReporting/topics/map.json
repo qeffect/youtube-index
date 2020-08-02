@@ -1,0 +1,848 @@
+{
+  "indexed": "_3_9jNnqSLs,_84VsnBpaBc,_93RNA5Ha70,_Awvc8QlDz4,_AxZQUqtJsA,_beFZDjQdW4,_doyaNsa-pQ,_eg0ITfj_qQ,_fY9I8Nv7Lw,_gcXDnkQ51M,_H1YgL0RznE,_jNixS1mbhw,_kjF5FIvGZw,_lCYmAZo7sw,_OomAKMJPOI,_pHvjJVPcN8,_VV3NsbBwrM,_wm27SsFDUI,_y1no3Wnhi0,--KGd8543KY,-9_EVMjD3DE,-A1QXJPxNKk,-AUYiNIOBIY,-bt0XdlECmo,-C_bR9GeDYg,-c86Aow016c,-HkaT32jmhw,-HlG0W6-vmE,-IrgjkkM6lQ,-jHFOTPlZaI,-jmPwHHE89E,-Ku_IYAV3DM,-oQyw8s0S84,-sA7wkR8UB0,-tHxUIgbg7M,-UKFQbdZpPY,-ZZAkZpTXIQ,00CCQDR3fL4,00Hf7lUrPyc,04FOeZBZxc0,04ycuYtnGas,07BCgoDxBVE,0aFUemaJFVY,0E7DwReRt04,0hdD5NwlcP8,0huECwWFIsk,0I-VTk_zTqc,0kmuhPreeYY,0lVpfRdqKA0,0N8m2YJnPuo,0QO_xmRyaNk,0rquOTX7NvE,0tERS6Uq4qA,0ujo6SQJ6LQ,1_9hcn4t38I,1A3qJWY3_L4,1dYaLq4QLQY,1E_KfRzWu0Q,1Etm_hTRVeA,1M9dy5DMI9E,1V4JzFqKaJc,1ynzZu7P24s,22AU1lrH7Ls,2CP8xTCgtfE,2d5qlKFsZzA,2hW8LHTkStA,2j-qy0AIt7Y,2LufOwLiBis,2MiU_vQHuhQ,2PrXFlocDYU,2REUfU97jhs,2Ve67t_uOf4,2VYEiCqkRTI,2zi0PNq4bkk,30bOiqbusQ0,335wkvmX5vg,368sHIBHpAo,3aOeVRKLb4c,3DMaiyiS1Lg,3f4jGulfRwI,3fUXewJ5G70,3g7lq9jPgWA,3U_ap4R6vdo,3Uj1_qSvQdM,3YzDBsrdnWQ,4-_B_e26qMc,4-a_MvhVnC4,4-K7fN5Jk7s,400edNy_ni0,40ToCc712RQ,41HmC9YpFeo,41nCYu8VjXM,43X77-0Mxk0,4eC5ShxBcFU,4FhT3SbVFis,4GaYnV7Fh8U,4I_5Onwb7Ss,4ncqjxcMqm0,4nh69vhSftk,4NMb5c7hbGQ,4UWUZQ0yrNI,4vf5cD_3FCY,5fRiEMjJMfw,5Gu5Z8hoE9c,5l1roeQvvFs,5MLXGtTuInU,5poquW251MU,5rSvzWuZKfg,5U4ZPlJjJdw,5Zw7tKJT9GM,6Dl7BqoQw7g,6FaHx01j-5s,6g0gWvCnyyY,6G3ESBGC_4k,6kxLuR_hc2g,6lIwy_rUGC4,6M79p6b6pvc,6Md_28o7Y4U,6MUonL3L6Xo,6o4PE7BZEtk,6ophCz8lTCE,6Px52BhaPXo,6zPiSKXu20Q,7-39lGBwGf4,73ShLXC8R2w,7425763TuLU,77jBKHDCqjg,78Sy0Z0VE8w,7d5rqWzxayk,7Kvt9DCqM4E,7NumZVPxeUY,7TDCozqNzfo,7w46yYcg6ms,7wdZ3Vcn63E,8-P2j0E4qmY,88yfd3QkbWc,8bFizNFJ65s,8gUUCnDw7bQ,8i_Pa6_mnMk,8I01RmblRoU,8j96g3074yQ,8rCRN8p-qaE,8vm-WMalEyA,92zIM-H_OlQ,95HX8pTVQr8,9CSDk0QrrbI,9dnWjr2dwKE,9DoZvBS_nf0,9EbZMn-XIEM,9FB7DLvib8c,9HNRi_RNFJU,9HPGIpbOjLY,9hu6rgAp9RU,9i-fexWiOqM,9qdCetVazSw,9tIaPchdlx8,9UL4-qJIOIs,9W8NVIuNGfg,A_GyZMHraMw,A-boQQflq_4,A-L4oM1TviQ,A3T2487JWiQ,A5u9XLWx7O0,AAr6KmurWHk,abm5ilF5UEc,ABnoHIMGEtM,Adlk-Fd9Z3c,ahYQzAvhNjQ,AjoBJmFp23k,ajpeQ26EMVg,AmcEUUF3AwQ,ameA5eNkxEk,ANc2YPRntzo,aouy1eOFILs,aQ3l5YiK2eA,AQ8yuh8tfKo,As9Fp3euKP0,aSaAYVvwTqI,ASj7Z_A6VvQ,ata21yb9Bnw,aUHn1LK7qyo,av_I5CbyFHM,AvSJQiTPr8U,AvssE-w5oes,aWx0FDWC_yQ,ax-fLACWZVQ,ax706dVg8Y4,AZE2QGS27Zc,B14_7XPCjGY,B1IA6YZ5B88,b9ATGOEE2Ak,Ba8wxZLp_c0,baFjARSQais,bavmPCrdq8s,BAZP3_t6_3k,bbceAq-CT_g,BBFwDktGjgU,bdhoF0WHkjw,BEh8VFQCFc4,BfpHBMhsPb4,BGBjHI5vEms,BGnTSKjizC8,BIyn24hd4_w,bk7ldBrVG6o,bKc6RQd54aQ,bmzZIhsUfO4,BNIFaLBvku4,BQ4LGzvT12M,BqwQEPGN54c,BrihPR8lAoI,BRnrQnLdWbU,BRxT9wJT67o,BttAEQuo6Qk,bXZvpE22ZFM,by3XpMs7TJ8,bY6kNlrb7lQ,C-7r58C0qiA,C0_JjTASDto,c0JKggUZ028,C6Q-GCX62ms,C6TGjQJlOGs,c8rd7yx1Asc,CArCwfHHacQ,cAY147Txzxg,CBv1Iy_E5lI,ceJRYVThNcs,CGLcVJUDwk0,cJNuWm8m3-Q,cJzaQc5diYs,cLYAbfJMQMw,cmvFQHqzYnY,cnkl7yadh5E,cO44KG0AMiY,CoXobUWxHXI,CrDv03cDYL0,CSeG9anxjpo,cugV1VK6jV4,cWwr5WpypZs,Cy-oKC7LTSg,cZzJIudDGHI,D91cLtLxM9k,db0BMqNo0Fg,DbZ0D6E7u4w,dcD2esCoW7o,der_2oCAjiM,dg3ISnKD6dA,DHxPqxERYX8,DKd2ki7ZRks,Dl6Cxeh_nyY,dLkmXjXZmMA,dLRHqQY30gA,DOfyCq5xvZY,DQ0-oJrRr3Q,DRrAZZ0Iuyg,DRu4kDanXk0,DSCgUtdjUrY,DtN8mf93Te8,dTUApE4DU10,DUSRyUwm-gM,dVB86fl8t6M,dwHNc9bu09c,dx7gs-krRjw,DXsYZZ1mzG4,dzAhAflB6s0,DZCdgZfalD4,E-KewVNO38M,E0LV1edmnrc,E6E05M89Wd0,EAuzZaV6FsM,eDJ_o7UdSPY,EDublqR_5JU,egbd9R0yrL0,eGbYnP1Et30,EgNpxiRrPfw,EHa8I45qMMc,EhZ7udzTJ5o,eJ-otgb_tg8,EKc1-XVqxyI,ENkWUPcpOE0,EoiuSDSivh4,EOWZBa14kxY,eP6hz4wmwFc,ER4g2Tb-HbA,ErCxjqBe6AU,EVU9bfki-LU,EwDzzFdFO1Q,eWlT43ZhpM0,ewMNDqpA4mA,EYCCXXkAPQA,F-BRTD3Csco,f-kKEyiVVwo,F5rjeOEBDn8,F6IYn4iGwjI,F9BclaKfoac,FcElJxMypMU,fcUXyrphxgA,Fi5OkAjc-vc,fib2sf26pOM,FIYTR5uoMNM,fNSUxHEPHtk,FPZQdrCD97U,fQ3X7xMypg8,frb1Zg-uvLE,ftWB7T3EVGU,fUc1es3e9-s,fUIVoeryTsI,fUW7hfoDEp8,fVgAazqQarI,FysQzQeY_2U,g0mnw3iFKrE,g0td3qUP-Nc,g1Rr4Aex-fA,G63GWS9GxgA,GCgI2VkLr3w,gfrgrfzcuyY,GGcBiGMSPcI,GgzoQZAO6r0,gMMr8m85HQw,GQbjkSj7F-Y,GqeHEmbYy2A,gu0IbFpVdf4,GuO3hW25FKE,gwgOJbOgX9g,gXm_ysbwlSU,GXqikbjZydc,gZm182uDlbc,gzMCu9C85rM,H7USwoa5QqI,h9sI48iPRFs,H9zOSlnVz3A,HaGG5aApgTA,hby1lvnYnK8,hdeoc0uMPYI,hEgGt1t7Swk,hf_gZSt0kps,HgsDem-itYw,hi72tBuLMh4,hj1p2Ni7h2I,Hk00p90xnj0,hLmfGwfjk00,hN7nl4JqClA,hqKg14dEylQ,Hr5x3sbooaw,hRIO6bWbfzk,Hshq59C2vM4,HSlRBGPDB3o,HuYoppf6a6M,HVnUANzdJlI,hwFa7lTr0vs,hwus0Rr7K1s,HY1_ErPhaK8,I-P2lMBMdHE,I0KRAnljhBY,I0M73_jCMow,I3PAPJ6bsq8,I5Ja0sd6VAk,id7jH-rT8Dk,IE_FgjUAnmQ,Ie4vh_uPrFU,IEX5TOERLgo,IGan1t-uGEw,IgiJ8D3RoV4,IHVG77ZucUU,iJ6IqFUIhSo,IJo-J5O5QZE,IKkdg3u4Ud0,IkR1zohQ9VE,IMO8zFbAu8c,iNHsUBsbRLI,InoVWK8a5H8,ipCkwQDxaiM,IQCa2padKIM,ISxeMvt3s4U,iTw-9Q3QGNA,ityzooj6Z9w,IvH-D2hhqyk,iZgbikWE7yA,j1KcS2TccCw,j3hzPjaXXDg,j5lsFf3cV9E,j7jtYUployI,J7WeQuZU-sc,J8a11EilEEk,JEFH6j-UIQA,JKFf4UEoRs0,JLgJq-b8aEI,jlK9AJcFB0A,jNVJSIuRb8Y,jO7zzb7O_jM,JR-MzJ6fDaE,jr3vL6Rmm7M,jYVdKNEZUHw,JzaCuPrLjf8,JzvUX4bFLAQ,k0Kc-uKcO_s,k1h2g6fsFv0,K2qBcmowSQE,K4IUGJ3DHFM,K5gGbRYD6Ro,KBLYeD2_wP8,KcsnuRYS5tk,KCTu3nv8xE8,KFb4nHmut2s,kfF3pAHXj30,kff9xWbBCnw,Kg85wki662E,kI-t3mGWWQs,kNQ7k8nPgcE,kQr4-Yxpz44,kQW9_GYatgs,kTPxvk1B0Hc,KWr5uJuObwU,KWR6VS8fX2c,ky2WjqFhjj4,l0bWGKuNsCI,L2V-1dQ0n-0,L6WDBPfLuYY,lA4PdHgLnNA,Lbo_WcwcFmU,lcg_yoIS1Yw,Lep0WYoe7Sc,LGLUpqfUuSQ,lHJn-XwhkpU,lHL-6-qYzQY,LHM4GEHUZBE,ljhVxvAbEhE,lJzeDEQ6J9Y,lkKlLAOTJPY,LNIFpbcg17o,lOqhbDn7RCY,lp_zbwVefFQ,lQNRIFpWuQc,lqpTLDqewPI,lsDYimKBWzA,Lsv1GMI7Ck8,LV1pXXsI89M,lvKy5X1zA8A,LvlHP0Oi-0s,lXNYG17twtI,LYGkGtuCEb0,m_6bftMf-8w,M2Q_-pADhm0,M4w_xAOaGD0,MAo0HuH-dAU,MbUaLBD2cPo,mFLifAJZoAw,mftoxsrzl9w,MGFrzWikMsE,MHjNOIJB9gk,MIdOiZVZq04,MiI61UMtf70,mIZBPh3j_oY,MK6ZJ8Y7_H0,MKlHF7hjMrk,ML-wFPHIpOI,MmC4KQ5ScNw,MO0gwMl-0CE,MotM4c-nQCk,MQwsfj_ixMQ,MRHfnQPc3Eg,msPHFMRkBiw,mttGzVDlr0E,mVm_I7RZraE,MXAovKmB5WM,mY2TUO5kYCY,Myd3GRR65YY,MygjpcZ1Ijg,myIQChpgtN8,mzB-9GoYb3Y,N24HKBWgwy0,N7qholrxyf4,Na0dF5v2y_M,NAFMiooXoTg,nED5_AV8URQ,netc5DITbWA,NF1lpvcpWog,nflPhrkaSEk,nIUAOJQqMwk,njM4no6DIrU,NK6btC5LWAk,nL6EXjus6-o,nM09tCiEeb0,NNF1_g3HYYo,nPEGU2nR2dM,nSuGzA_p7yk,nTMFqovdXno,NVKSDQ8EhBY,ny_CoYXrcew,nZQlcxHjRuo,o1-igj3nuBE,O5S6Ej4K3Co,o7NRAlhjZks,OAEcYUOdGWo,oeIk7YrMXfs,oeWLBFiwB08,OfRZMNN35CI,oFxMHPaEKig,OG6qckEf1Eo,Ogn0lUtVB30,ok5Lw6UKVWA,OkRqFqfznRY,opemFkwoqHw,oTP78AH4vk0,OVZcBaBLAJM,OzSQPUNEX1Y,p-qXg_JfUUs,p-SzWzFERN8,p3x-cOMdhVI,p4vsdIhVLRE,P4xnrnjv3ME,PbD4kFH2GSw,pBod4miQ1po,PCImEJv37ZA,pEE6wSvIdH8,pFc4Sohzxyg,Pgb6pamGX9M,phSS8PbGX1E,Pi6FijU1qJw,PlsuGENfaak,pN8qgKZSxtg,PQFSD72x0Ic,pRyuXPFqxqA,pt1M-kl-atg,PtgW7xTG428,PXcEVOzCLJM,PxyWlQQt-p0,Py11WiNhEvU,q4DDiKob_gY,Q8NhENBNyyk,QeuDOlRTHB0,QF2rJkUKMrY,QhgNItzDV54,QKANTV1X-04,QmYwSijaoik,qRjUM6Fx7ww,qYK0LNx3C9Y,r_JL8vekSoY,R_tIG5zyJ0g,R-6SIciSc4c,R1_b-Pf3KNw,R2dDhC-0etM,r2GFtcsNhTU,R4wuBMXnJ-0,R5jcM1Zbm30,r6twJUsuSOI,R7Ar8OG3yuQ,rda35BHlMUs,Regb4gXpdwE,RHKbO1krLQs,riiiqXFtw5c,RJKhpkcDWqA,RJVYmN0eAuI,RKx5ANX93fE,rLN6mMplynI,RMMzPYcKVpA,RoFZBVPep6s,rqF_NJF-1h8,RQPOQB8upmw,RRnSeDNg368,rrOKtWMvHQg,RRxTeVBpEZU,Rvnnpt0CYFE,RVX3FcgVTac,s39MfWPR07c,s3Bv79KMs0Y,S6ZgTlSGF8Q,S9lyhm543Sc,s9XPvUNIvsw,Sa2nt1B9JRQ,SAzfZscty9M,sb1c2oG54gw,scZT-cIPwkw,sFp8ueEW-As,SFWSnU8dolk,SipMJtAXmJY,SIQDBcg8thM,SIyUIfqgM4s,sLkitI5fYN4,SLlRyO6_xrI,SoTaILZ3hU8,SqJmoJANdrY,SsqfiC7M7Xc,swnXUdVp3Dc,SwToD-AhQyU,SxlUgNSLqvo,T-rKedrhRyY,T4SaRz8JME8,T9RgEmAwhgI,TaouWXb0TOA,TgZrDSK3HGg,TIei7eta0uw,TM1uReCpmUY,tM8Qd2nSMs4,TOGn8EBE7Q0,tP1dSZ4JDDQ,tQR__3LXOyE,tR-G27nl0zk,tR4LuV0lI5w,tRrvGSBqEnI,tRtETZ8jNnk,tsfFNiqDU5w,TTZ4ssYx7_M,tV6tHfYKeLg,TW0svE7k-yg,txtwyCMxpFc,TYcslztwl7o,TyNxd8tdMW4,tyxT-ZZnXUg,U_7e9KeYQ3Q,u0qMwMdzIvA,u2LPCIl5QMI,U5PQ2P0SXcU,U8ba9Dndv5M,uBmS5RboEs0,UE_6el_A3pw,ugXxmj3thCA,UhON5Y1TdCU,UhxdIJe1H0U,uHYiItvKEbc,UjVl_bnvP4k,ulaxUszIqYM,UN6ry1_HJis,uNeMTlW6n3s,uOJGsCKaxDM,UoXSkZZ7HTg,Up__8B8eMhw,uq_XBsBOanc,url3_C-M2S4,uX13WbNqlBU,UY3WagHWKCs,UYKyyCzbkfU,UypeptAe984,UYYMId_dlao,uzDHRbsZyzQ,v-5pNb0dSeo,v-7GiZjDJ_g,v75UxqTSd-U,v8IOaqc9t-8,VaaZ-HAptPw,vAFCumk5eS0,VBqbbPcIwkA,Vd4za_x25zU,vDxIOTBR3AE,veCRl2F8JY4,Vh7dkYT_8Tk,vhnbc3G0keg,vIk-VfKu7w0,vKC-7RdORbw,vL0_nRDnWSs,VMdIpZfmpRk,vn10WEyJ_C8,VNbFPI6evs4,VNvGLN7JB4I,Vqjcvl7OL_I,vsOoRbj5QtY,vuAa0Pn0z_k,VUb6IFyt-Q0,vuCmDgARMJw,VvB-9_zxEBA,VVGtkZD9TTU,vWKwO6XnBNE,VY2Nu-MZseQ,VY8HIV2tpLw,VzUVq1K6If0,w_bSXes3tCc,w1FgKkHknsg,W1JPXx4eckg,W1mtswcthVI,W46qLjiG6bE,W6sLZKBHAN0,W9ZiqkvakFw,wACjGwOYhBQ,WalYLpN970c,WBaZACYxsrA,wD66LPDIP20,wHCbeGaIG-8,WinXSE-n2-8,wnAwPHXM9dg,wndjUTqAQgM,WnFXguaTIc0,wOJfbj4fCAg,WQfFVkWsfbo,WsP5mGcicWM,WUb2cwgpvL8,wvRjXXxowDk,Ww26APxpkJo,wWhS3QxK1wY,X0yOJO_Xq0o,x4npZZPwMu4,X4yw71zwXCs,X6wfhEtWwyw,xAsEWayiYxM,XATzwG7VuiU,XBfY_vBDwWE,xC5t2QnzdgE,xcMo6bqu_xM,XfytSneFuow,XiV-gQtp71M,xMhsDlXJaG8,XMMKDHO9cDI,xNSqW2yOIzQ,xP1vq13Cudk,XpCHXFTmPY4,XpxhWQniTUM,xqa5koaMZN4,xsLA5jY0zgM,xtKRHEf4Qxo,XUJYVYMivj8,xuUifNY5Tb0,XVlnFC-iKME,xVsFR3UJf9w,xxLDbO_L3No,y7GsaCb87dw,yb2PreneQAM,yFBSt-ZUYvQ,ygE4GdXfgbs,Yh53ln6rk78,yIQxcL6ayD4,yJ6pkGapoUE,YkQ8EIpvv4Q,ylnzIxBxkfA,ymS-qCPTgzQ,YnwfHRu_dsk,YTRfNb6HTkA,Yu6P4YYW0vs,yvjv45AjEI4,ywNsn7mkDKg,YyrXeXIzzZY,z3n6wC6HsXM,Z5Y49GjEPqg,z6FoTfoznUI,ZdUNq3UAQvw,ZGU-d6Ie7Bw,ZitpbhRc9pc,ZJArfdL13CQ,zjffrWDqrTw,ZKAJFutc098,ZKPKvVQ6F6g,zKQy0x_bOIY,ZLN7QmFf-7g,ZLsueURVgkI,zmYleuo1UjM,ZPNKcrhIFDg,zqNtRBF4bt4,ZrBZdi00St0,Zrjz_9qqKHU,zRnr5QcUqCQ,zV2LxHqOq-I,Zwfv2PVt1uw,zXPzz0FtjC4,ZyV7ZHCdxIg,zzVXx4mxt18",
+  "topic": "map",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_kjF5FIvGZw",
+      "segments": [
+        {
+          "text": "news on lots past *map* i check the *map* so",
+          "location": 905
+        }
+      ]
+    },
+    {
+      "id": "_OomAKMJPOI",
+      "segments": [
+        {
+          "text": "last last video that *map* hmm",
+          "location": 1220
+        }
+      ]
+    },
+    {
+      "id": "-A1QXJPxNKk",
+      "segments": [
+        {
+          "text": "other side i wrote to *map* dot pub and i",
+          "location": 841
+        },
+        {
+          "text": "reporting hashtag cue *map* or just cue",
+          "location": 853
+        }
+      ]
+    },
+    {
+      "id": "-HkaT32jmhw",
+      "segments": [
+        {
+          "text": "is that my friend the sale *map* yeah i've",
+          "location": 1962
+        }
+      ]
+    },
+    {
+      "id": "-sA7wkR8UB0",
+      "segments": [
+        {
+          "text": "*map* that pub i can't contact them",
+          "location": 1658
+        }
+      ]
+    },
+    {
+      "id": "00CCQDR3fL4",
+      "segments": [
+        {
+          "text": "it says the *map* of the giza complex i",
+          "location": 2777
+        }
+      ]
+    },
+    {
+      "id": "0tERS6Uq4qA",
+      "segments": [
+        {
+          "text": "scared to go on to *map* stop plugging",
+          "location": 2299
+        }
+      ]
+    },
+    {
+      "id": "1ynzZu7P24s",
+      "segments": [
+        {
+          "text": "*map* it boosting them through a network",
+          "location": 2983
+        }
+      ]
+    },
+    {
+      "id": "335wkvmX5vg",
+      "segments": [
+        {
+          "text": "and here is a *map* of the elitists that",
+          "location": 162
+        }
+      ]
+    },
+    {
+      "id": "4nh69vhSftk",
+      "segments": [
+        {
+          "text": "excuse me if i wasn't on the *map*",
+          "location": 1699
+        }
+      ]
+    },
+    {
+      "id": "6ophCz8lTCE",
+      "segments": [
+        {
+          "text": "*map* pub so you know let's just be",
+          "location": 493
+        }
+      ]
+    },
+    {
+      "id": "6Px52BhaPXo",
+      "segments": [
+        {
+          "text": "*map* and direction to dante's",
+          "location": 1192
+        }
+      ]
+    },
+    {
+      "id": "7425763TuLU",
+      "segments": [
+        {
+          "text": "here to this you can go to q *map* pub you",
+          "location": 605
+        }
+      ]
+    },
+    {
+      "id": "77jBKHDCqjg",
+      "segments": [
+        {
+          "text": "who is piri reis there was a *map* drawn",
+          "location": 850
+        },
+        {
+          "text": "even existed what is the boetsch a *map*",
+          "location": 867
+        },
+        {
+          "text": "said he drew this *map* in 1553 in it and",
+          "location": 1111
+        },
+        {
+          "text": "the *map* the notes actually say that he",
+          "location": 1116
+        },
+        {
+          "text": "the *map* itself it was that he had pieced",
+          "location": 1126
+        },
+        {
+          "text": "actually two components of this *map* that",
+          "location": 1143
+        },
+        {
+          "text": "*map* and and the piri reis *map* and then",
+          "location": 1165
+        },
+        {
+          "text": "there was one other *map* that had it - i",
+          "location": 1169
+        },
+        {
+          "text": "believe it was the aransas phineas *map*",
+          "location": 1171
+        },
+        {
+          "text": "tool that was used to accurately *map*",
+          "location": 1183
+        },
+        {
+          "text": "at this *map* and you see first of all how",
+          "location": 1192
+        },
+        {
+          "text": "side of the *map* that's very much the the",
+          "location": 1198
+        },
+        {
+          "text": "man and how did they also accurately *map*",
+          "location": 1251
+        },
+        {
+          "text": "studying the peary *map* and i'm finding",
+          "location": 1329
+        },
+        {
+          "text": "so if so the *map* the *map* of of reese was",
+          "location": 1374
+        },
+        {
+          "text": "at the north side of the *map* that is",
+          "location": 1410
+        },
+        {
+          "text": "to remember he had sourced that *map* so",
+          "location": 1432
+        },
+        {
+          "text": "with the *map* that's being shown the *map*",
+          "location": 1479
+        },
+        {
+          "text": "left side of the *map* is antarctica the",
+          "location": 1492
+        },
+        {
+          "text": "africa sticking out into the *map* so",
+          "location": 1505
+        },
+        {
+          "text": "the links to the *map* and whatnot well",
+          "location": 1591
+        },
+        {
+          "text": "the *map* was actually taken from the",
+          "location": 1798
+        }
+      ]
+    },
+    {
+      "id": "8rCRN8p-qaE",
+      "segments": [
+        {
+          "text": "we look down here to the cube *map* and it",
+          "location": 1614
+        }
+      ]
+    },
+    {
+      "id": "AAr6KmurWHk",
+      "segments": [
+        {
+          "text": "okay also we had the queue *map* this is",
+          "location": 1044
+        },
+        {
+          "text": "this is extremely important so the *map*",
+          "location": 1051
+        },
+        {
+          "text": "shell learn to read the *map* so very cool",
+          "location": 1141
+        }
+      ]
+    },
+    {
+      "id": "Adlk-Fd9Z3c",
+      "segments": [
+        {
+          "text": "when did they ever *map* two miles an hour",
+          "location": 2970
+        }
+      ]
+    },
+    {
+      "id": "ASj7Z_A6VvQ",
+      "segments": [
+        {
+          "text": "cabal the *map* where illegal immigrants",
+          "location": 160
+        }
+      ]
+    },
+    {
+      "id": "aUHn1LK7qyo",
+      "segments": [
+        {
+          "text": "*map* william bill cooper we are all well",
+          "location": 1766
+        },
+        {
+          "text": "another large piece of the *map* a",
+          "location": 1772
+        },
+        {
+          "text": "this *map* is pointing to there's so much",
+          "location": 1932
+        }
+      ]
+    },
+    {
+      "id": "ax706dVg8Y4",
+      "segments": [
+        {
+          "text": "vito has he been arrested post the *map*",
+          "location": 1804
+        }
+      ]
+    },
+    {
+      "id": "BGBjHI5vEms",
+      "segments": [
+        {
+          "text": "entitled remember q says follow the *map*",
+          "location": 372
+        },
+        {
+          "text": "narrative bracketed *map* if you will i",
+          "location": 381
+        }
+      ]
+    },
+    {
+      "id": "bk7ldBrVG6o",
+      "segments": [
+        {
+          "text": "on the 17 *map* okay",
+          "location": 639
+        }
+      ]
+    },
+    {
+      "id": "cugV1VK6jV4",
+      "segments": [
+        {
+          "text": "*map* hit right here and we are right",
+          "location": 1397
+        }
+      ]
+    },
+    {
+      "id": "cZzJIudDGHI",
+      "segments": [
+        {
+          "text": "some suggestions but how does it *map*",
+          "location": 512
+        },
+        {
+          "text": "line across a *map* saying do not issue",
+          "location": 2143
+        }
+      ]
+    },
+    {
+      "id": "DRu4kDanXk0",
+      "segments": [
+        {
+          "text": "cue *map* and we'll check this out real",
+          "location": 759
+        }
+      ]
+    },
+    {
+      "id": "EAuzZaV6FsM",
+      "segments": [
+        {
+          "text": "coronavirus across america the first *map*",
+          "location": 1983
+        },
+        {
+          "text": "*map* reflects our data about the total",
+          "location": 1993
+        },
+        {
+          "text": "and look at the *map* of the country and",
+          "location": 3007
+        }
+      ]
+    },
+    {
+      "id": "ENkWUPcpOE0",
+      "segments": [
+        {
+          "text": "poison why is greenland on the *map* the",
+          "location": 1878
+        }
+      ]
+    },
+    {
+      "id": "EoiuSDSivh4",
+      "segments": [
+        {
+          "text": "*map* media sensation but then we were",
+          "location": 914
+        }
+      ]
+    },
+    {
+      "id": "GQbjkSj7F-Y",
+      "segments": [
+        {
+          "text": "here and then i looked at this *map* they",
+          "location": 2161
+        },
+        {
+          "text": "i use q *map* so i just didn't look at it",
+          "location": 3864
+        }
+      ]
+    },
+    {
+      "id": "H7USwoa5QqI",
+      "segments": [
+        {
+          "text": "fast and check out this cool road *map*",
+          "location": 51
+        }
+      ]
+    },
+    {
+      "id": "h9sI48iPRFs",
+      "segments": [
+        {
+          "text": "put on the *map* he was talking about the",
+          "location": 929
+        },
+        {
+          "text": "put me on the *map* i guess a few weeks",
+          "location": 1573
+        }
+      ]
+    },
+    {
+      "id": "HaGG5aApgTA",
+      "segments": [
+        {
+          "text": "to do is go to cue *map* pub checkout",
+          "location": 844
+        }
+      ]
+    },
+    {
+      "id": "hwFa7lTr0vs",
+      "segments": [
+        {
+          "text": "*map* that i have and there's a bunch of",
+          "location": 1306
+        }
+      ]
+    },
+    {
+      "id": "I5Ja0sd6VAk",
+      "segments": [
+        {
+          "text": "had this great trafficking *map* around",
+          "location": 1059
+        },
+        {
+          "text": "what the heck and overlaid it it's a *map*",
+          "location": 1079
+        },
+        {
+          "text": "with the trafficking heat *map* and voila",
+          "location": 1096
+        },
+        {
+          "text": "and some of those points over a *map*",
+          "location": 1126
+        },
+        {
+          "text": "underground military base *map* without",
+          "location": 1154
+        },
+        {
+          "text": "pin *map* and let the overlay do the",
+          "location": 1193
+        },
+        {
+          "text": "course there is oh the *map* helps make",
+          "location": 1352
+        },
+        {
+          "text": "at every *map* here",
+          "location": 1566
+        },
+        {
+          "text": "each *map* that you have seen today as",
+          "location": 1697
+        }
+      ]
+    },
+    {
+      "id": "InoVWK8a5H8",
+      "segments": [
+        {
+          "text": "at the *map* showing a couple of circular",
+          "location": 676
+        }
+      ]
+    },
+    {
+      "id": "IQCa2padKIM",
+      "segments": [
+        {
+          "text": "this q the q *map* and it's basically you",
+          "location": 677
+        }
+      ]
+    },
+    {
+      "id": "j1KcS2TccCw",
+      "segments": [
+        {
+          "text": "is giving here let's build the *map*",
+          "location": 105
+        }
+      ]
+    },
+    {
+      "id": "lHJn-XwhkpU",
+      "segments": [
+        {
+          "text": "crossing on the *map* seriously pull up",
+          "location": 1004
+        }
+      ]
+    },
+    {
+      "id": "lJzeDEQ6J9Y",
+      "segments": [
+        {
+          "text": "*map* when i went onto google *map* these",
+          "location": 486
+        }
+      ]
+    },
+    {
+      "id": "lOqhbDn7RCY",
+      "segments": [
+        {
+          "text": "follow the maps news unlocks *map* *map*",
+          "location": 525
+        },
+        {
+          "text": "provides the key *map* is critical to",
+          "location": 529
+        },
+        {
+          "text": "understand the *map* is in front of you",
+          "location": 532
+        },
+        {
+          "text": "learn to read the *map* these people are",
+          "location": 534
+        },
+        {
+          "text": "scratcher here sealed indictments *map*",
+          "location": 555
+        },
+        {
+          "text": "corresponds with the quarantine *map* same",
+          "location": 558
+        }
+      ]
+    },
+    {
+      "id": "mftoxsrzl9w",
+      "segments": [
+        {
+          "text": "so far 200,000 people on queue *map* pub",
+          "location": 3680
+        }
+      ]
+    },
+    {
+      "id": "MiI61UMtf70",
+      "segments": [
+        {
+          "text": "q pub *map* i believe or a q *map* pub that",
+          "location": 556
+        }
+      ]
+    },
+    {
+      "id": "MKlHF7hjMrk",
+      "segments": [
+        {
+          "text": "*map*",
+          "location": 407
+        },
+        {
+          "text": "excuse me news unlocks the *map* anton's",
+          "location": 408
+        }
+      ]
+    },
+    {
+      "id": "MmC4KQ5ScNw",
+      "segments": [
+        {
+          "text": "according to the cue *map* december first",
+          "location": 2020
+        },
+        {
+          "text": "gotta follow the to *map* and you're gonna",
+          "location": 2058
+        }
+      ]
+    },
+    {
+      "id": "N7qholrxyf4",
+      "segments": [
+        {
+          "text": "and put that *map* together they they",
+          "location": 734
+        }
+      ]
+    },
+    {
+      "id": "p-SzWzFERN8",
+      "segments": [
+        {
+          "text": "queue *map* top pub and type in any",
+          "location": 469
+        }
+      ]
+    },
+    {
+      "id": "PCImEJv37ZA",
+      "segments": [
+        {
+          "text": "*map*",
+          "location": 3323
+        }
+      ]
+    },
+    {
+      "id": "PtgW7xTG428",
+      "segments": [
+        {
+          "text": "they're off the *map* and then that's why",
+          "location": 2235
+        }
+      ]
+    },
+    {
+      "id": "qRjUM6Fx7ww",
+      "segments": [
+        {
+          "text": "not just historical documents but a *map*",
+          "location": 163
+        }
+      ]
+    },
+    {
+      "id": "SqJmoJANdrY",
+      "segments": [
+        {
+          "text": "two days of *map* mass protests in",
+          "location": 749
+        }
+      ]
+    },
+    {
+      "id": "swnXUdVp3Dc",
+      "segments": [
+        {
+          "text": "stout and feinstein is tall yak you *map*",
+          "location": 1741
+        }
+      ]
+    },
+    {
+      "id": "T4SaRz8JME8",
+      "segments": [
+        {
+          "text": "all the q drops on q *map* pub that's the",
+          "location": 86
+        }
+      ]
+    },
+    {
+      "id": "TgZrDSK3HGg",
+      "segments": [
+        {
+          "text": "go to q *map* and they've got they've got",
+          "location": 2565
+        }
+      ]
+    },
+    {
+      "id": "TOGn8EBE7Q0",
+      "segments": [
+        {
+          "text": "*map* fagging on cm x locations odd that",
+          "location": 2058
+        }
+      ]
+    },
+    {
+      "id": "uBmS5RboEs0",
+      "segments": [
+        {
+          "text": "i do not see the link *map* if you want to",
+          "location": 2246
+        }
+      ]
+    },
+    {
+      "id": "ugXxmj3thCA",
+      "segments": [
+        {
+          "text": "definitely go into the q *map* q *map* pub",
+          "location": 331
+        }
+      ]
+    },
+    {
+      "id": "url3_C-M2S4",
+      "segments": [
+        {
+          "text": "gates do you health gate i have the *map*",
+          "location": 1532
+        }
+      ]
+    },
+    {
+      "id": "vKC-7RdORbw",
+      "segments": [
+        {
+          "text": "dictionary the blanket term *map* includes",
+          "location": 1554
+        },
+        {
+          "text": "sick look into the word *map*",
+          "location": 1584
+        }
+      ]
+    },
+    {
+      "id": "VvB-9_zxEBA",
+      "segments": [
+        {
+          "text": "live outage *map* showed the issue was",
+          "location": 242
+        }
+      ]
+    },
+    {
+      "id": "VzUVq1K6If0",
+      "segments": [
+        {
+          "text": "when we go all annie also has the *map*",
+          "location": 609
+        }
+      ]
+    },
+    {
+      "id": "W46qLjiG6bE",
+      "segments": [
+        {
+          "text": "maps itself the listing of it on the *map*",
+          "location": 197
+        }
+      ]
+    },
+    {
+      "id": "W6sLZKBHAN0",
+      "segments": [
+        {
+          "text": "you can go to cue *map* pub and pull up",
+          "location": 314
+        }
+      ]
+    },
+    {
+      "id": "wACjGwOYhBQ",
+      "segments": [
+        {
+          "text": "you know put their finger on a *map* and",
+          "location": 1838
+        }
+      ]
+    },
+    {
+      "id": "wD66LPDIP20",
+      "segments": [
+        {
+          "text": "indictment *map* in my estimation which it",
+          "location": 1103
+        }
+      ]
+    },
+    {
+      "id": "wvRjXXxowDk",
+      "segments": [
+        {
+          "text": "cemeteries *map* so why a lot of people",
+          "location": 814
+        }
+      ]
+    },
+    {
+      "id": "X0yOJO_Xq0o",
+      "segments": [
+        {
+          "text": "*map* only earthquakes of magnitude",
+          "location": 752
+        }
+      ]
+    },
+    {
+      "id": "XMMKDHO9cDI",
+      "segments": [
+        {
+          "text": "you *map* dot pub here we go let me bring",
+          "location": 713
+        }
+      ]
+    },
+    {
+      "id": "xqa5koaMZN4",
+      "segments": [
+        {
+          "text": "*map* calibration error transponder error",
+          "location": 630
+        }
+      ]
+    },
+    {
+      "id": "Yu6P4YYW0vs",
+      "segments": [
+        {
+          "text": "is i took a *map* and i'm telling you you",
+          "location": 2770
+        }
+      ]
+    },
+    {
+      "id": "Z5Y49GjEPqg",
+      "segments": [
+        {
+          "text": "timing *map* of worldwide arrests timing",
+          "location": 892
+        }
+      ]
+    },
+    {
+      "id": "ZrBZdi00St0",
+      "segments": [
+        {
+          "text": "forever 1234 t- 1234 room 1234 *map*",
+          "location": 1048
+        }
+      ]
+    },
+    {
+      "id": "Zrjz_9qqKHU",
+      "segments": [
+        {
+          "text": "and and how the *map* really comes",
+          "location": 2580
+        }
+      ]
+    }
+  ]
+}
