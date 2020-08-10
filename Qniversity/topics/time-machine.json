@@ -1,5 +1,5 @@
 {
-  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI,RifZD15SWXw,2FBs1pbwhGI",
+  "indexed": "3P6x4vs4PHQ,GM_dtM2nr24,Hgk-U4PlV14,hO2yFcDbiso,LYi9ICll9Rg,OMmPMT6VIAI,poOFqR-UEAc,QM97mA2sX60,qz_g4XZjTmE,uKF_DkIXJQw,zN04caIexBI,RifZD15SWXw,2FBs1pbwhGI,IqM82FhADlM",
   "topic": "Time machine",
   "aliases": null,
   "hash": null,
@@ -14,6 +14,19 @@
         {
           "text": "*machine* which he calls a toynbee",
           "location": 280
+        }
+      ]
+    },
+    {
+      "id": "IqM82FhADlM",
+      "segments": [
+        {
+          "text": "but you watch it every *time*",
+          "location": 2057
+        },
+        {
+          "text": "know that video tape *machine*",
+          "location": 2067
         }
       ]
     }
