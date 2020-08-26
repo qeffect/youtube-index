@@ -1,0 +1,47 @@
+[
+  {
+    "start": 0.08,
+    "duraction": 0.91,
+    "value": "[Applause]"
+  },
+  {
+    "start": 0.65,
+    "duraction": 0.34,
+    "value": "[Music]"
+  },
+  {
+    "start": 0.99,
+    "duraction": 13.16,
+    "value": "[Applause]"
+  },
+  {
+    "start": 0.99,
+    "duraction": 13.16,
+    "value": "[Music]"
+  },
+  {
+    "start": 14.92,
+    "duraction": 3.0,
+    "value": "um"
+  },
+  {
+    "start": 18.09,
+    "duraction": 13.06,
+    "value": "[Music]"
+  },
+  {
+    "start": 29.039,
+    "duraction": 10.801,
+    "value": "a medical um"
+  },
+  {
+    "start": 31.15,
+    "duraction": 11.789,
+    "value": "[Music]"
+  },
+  {
+    "start": 39.84,
+    "duraction": 3.099,
+    "value": "[Applause]"
+  }
+]
