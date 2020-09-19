@@ -1,0 +1,636 @@
+{
+  "indexed": "_-tnEOuY44w,_0wPPTxMjjo,_21NlFSsQnE,_2Fk8FU1xbk,_4RwHZb9_PA,_G_hcKUWhf4,_hQM9Ddf6Ho,_ldIMw-SPw0,_OAMEAuRc0E,_OshCG9SNpU,_Qn-Y81PD0I,_qo0lW53uNc,_W3h-RuNK1c,_y08t0-Kul8,_yEtqIDVuLg,-2iyGGoLxEs,-6O-Uw_C7SM,-9sQzYO6uO8,-BJ2TOmqBNM,-C6AID7hb6g,-CQjD6FjO14,-EB6aP-QKME,-ewUXSK6_1M,-fZrlftujAQ,-jzE8UnmpJg,-lbO1wtwoCo,-lY_U-haiG4,-LzcwUA1fWQ,-t4etiU5sgk,-tNvowSC3V8,-uo4_SzSMoI,-WO8P0r86HE,-XALeLZm2MI,-XeQxtgwwl4,-Z2g2yhP7kA,0-XI67-YZpc,06_KHnpD7G8,0CCewULy8GA,0Dv_ps_4dHw,0hAmFxhaMwM,0IoRkuBXGig,0LPBblPTXHk,0p0dH3XruuQ,0p5VmIXYchU,0s9V0iQmJ_M,0vbtmE6Lef0,0wCDGLhtROs,135fiJ3kuq8,13RlARBS1VU,18GHu3BC0cY,1CRk10IKzbA,1ej-XIDp0kY,1iK_oT2Qw8E,1kGmSf2dxdo,1kTNLU3Jiz4,1L2dyq17mA0,1lvuw_IJ-qc,1MZAvXjciLg,1NjJwaKIup0,1UCPjVCqRPA,1Xe4qxL0ZK4,1Z1zJa-VgbA,1z8NEmTk3xM,25DiuvxURwI,28Ec4Fgp_08,2abaVibjrBU,2BJBfTIaULs,2Kr3Dye0nqw,2McXsEA5S88,2P4jZNAi4p0,2sXd9lKGjF0,2tmmhGN0G7c,2u_0oOHn3cc,2Uskig4HZ54,2vDAKqjbt9k,2W-JE1HswFM,2YJOWqy25xU,2YrUmFEUOy0,3-4nPSO-BxM,3-5xzopjz7Q,323zMbxMQWQ,34L9V7Gc9_I,3E5xPRJ6doY,3FSxcPxdxzc,3gu5UliwPJ0,3huZuddL6zQ,3JPMM05BTQw,3LWJQCE0NY8,3O29kMXvRKc,3q6JtBAvjHk,3qh_BUO5oy4,3s8BKySj5-s,3SCH1DeLwv4,3WQRlcS37VE,3XJOOD7sOMc,4d5S6uzT7ks,4fPYYyoPxLA,4LqGCb0nh-Y,4qUGwQAO7ic,4qZfqvdYehg,4WM32_p5NZI,4zVdTluDrD8,51iINaAkefs,57oztiaMydA,5aYW1IN7vi0,5Ck-fsB8Q_U,5gPcHDIwkyA,5kQBp7OM6dg,5NBJ12AkJns,5nV3vp4B_ow,5NyzM2zIPes,5pMOgATYg-c,5pyuJBCVahI,5vPhgtoigFs,5xYb6J66_LU,6_2izcUsyrQ,6--Hc7wqWAk,6-pY3oARgQk,613qfjAAqcg,6CSmW0EJSgY,6dKqBAta0x4,6HePdAjoYQQ,6mQIxm00H8M,6MRqq5U_VS8,6sj8lf8pJO8,6uFBMOwZKGo,6uKolDWoCBE,6WOv1O2Z_9U,6yrkVT-dM-Q,7-GGvpafPTc,70dDv2y0glc,7CK6T90Mgy8,7ckUpCzidOA,7hGuJjouBto,7MrP2pNvhsI,7P4bVQlGURM,7qWN-KY9CbI,7Rnp47Qi8l8,7WeJWvryFcc,827Sd1G0HPo,84O62FZOdrI,86n0EMbRr3M,8At1sYv76gM,8D9QWIy7Nyk,8HGBJmVNfRU,8jdzDntzOjo,8nFH4sumkNQ,8rUGX4_84ek,8SLd0KJoiKg,8TxM-MAPhe8,8u0N4Ih1nBA,8UnzsP-6LyU,8YFY8Or8m7c,8ZOoSqoXljY,9-lDzwUkPU8,965rRK4RWHk,9BbamzHl6Q4,9ln9zFZvXs4,9lr00PpSxXE,9mfW16YxL3U,9othBV0EKh8,9OvOOHdNr-w,9YEBZGETgDI,A_q9loFp_yE,a-CAZE9SbiU,A-eNCnX290A,a4QNEfYYmOQ,a5IzBF25Tj0,a8-7B3NdLT8,A8rW-Jm59zA,AaaD9MZjrlY,AamTwoNyBuw,ab3ffWtoCxM,acI59qHys3k,afGyOwyZntI,AHAriy9a5qk,Ahp1ZWfmJzw,AhzHP5aEUHo,AIviFsM_c8c,aL95wyL2Nno,alB7IdYFoBM,AMxJAFsBR8Y,aolzsrFMuXo,aQX9OR9uJtA,AreJ43v82jM,aRlY7w_y-WM,aTgdbr0RZnU,aTuhFgTinnM,aVDs9iQ0Jm4,AvitG7krXmI,AvJNKjbB5Gk,AWlDjsuvegI,awxXcSm8kOM,axHwWgdMBDM,AxZQ1B58Mhs,ay2sBCw3H1c,aZ6ftibSF6M,b1W_xQ1A09o,b5IGFGNCz7k,ba_itdPbtfY,BbCgNTo63ig,bcNJ3UUQi_8,bHgnXTF3F-Q,Bng4OrgNzSw,BnjNJpdrhvg,BpACk9-P94M,BqVOJIE8f3M,bUst18PCsRk,BvBYBxwRNU8,BVosPouGqYw,bwsT5IsAGVE,bX18mBXJBMA,bxMEFbSDYD8,BXPH_yc4SIw,BxPHea1tBXs,c_qd3M0g1mI,C3LnwjLf43M,c3zKX-0J_Xw,C9Q2lpYkchM,CfISqraufaE,CGHH33l1s2g,CJ8uZRyYee4,cMHDA1G5tEY,cmj-73z3RoQ,cogyNOVuTf4,CPwsC1JSknk,CRKu4oKBjLE,ct8Lnf3AvAw,ctaiPYR6ttk,ctWPdhQ40q8,CU8XyMTvAyQ,cWkxC4Tlpvg,cXh0mwM2f28,CYXzhK5NCm0,cZ0p8JfpMa0,CzhfhzlcR5E,d_6OLQB1s5Y,d_mnryTta64,d_xFTAOC_YE,D3wKX57FniM,D6N4IAv0PtA,d853bKYShMY,daO3qCnHZwE,DdWglthG9o0,dEnpchD0nl8,DexTvYPWEkI,DfRLhVYQ54o,DH_4-LejBsY,DJ-nzeBcXCo,Dkl4cq28gAw,DKPKj1sseNo,dM7iVM7D3Zc,dNHBSVXukH8,Dq4lP7VOOdA,ds-la4lNg-I,Ds0QpX6SUyU,dS3ubI47nZ4,DWDL5lHxI3U,Dwj7Lu58Zhc,dxcsoemOuJc,DYcjeYgkXOY,DZk4Ryo-hZA,dZkRBsyl2Do,E-_VAE0DGl4,e4aVHRbw4F4,e5h2szmD38A,eA4KRwTuFtg,EDHOCwVFMsI,EdXZTbHTCOg,EFCrLOl1JOs,EfpRJf5_h-s,eg32_J6VcY4,Ej0d9QRlGbs,ek3hyvqmmVE,EK8UqyjddIQ,EMLuLIE6rd4,eqtoBrJvIs8,eqv3b3fryLM,ETwGW9WSg4s,EV5DgL5JW2k,EVlvp7NT7Z8,EvO7Dkp8pjM,EWd3dvmJ9Qg,F_SsV7hLmRk,F4j8qjRHIcU,F57JWrkZS1I,F9eRvDnk8UU,fA4yB3dv8WM,faMcO2QNeoo,FDymSJmMgAo,fE_SHtfWPPc,FFiBOIoE4RQ,fG7B--DXcA0,fhbydy18DwA,Fjm284ukOdU,FjNeBSGnyDo,fjRRhcyM20Y,fjsyJDEWRrE,fjUDFb5W-oE,fk2ppQfB_7o,FPLwAaG-_eY,fSKqUHvxB2s,FSOYILVQ9Uo,fuDgdt7tolU,fvsqg6OhqdA,fwTMg5XRc7M,FxovRRLjYIo,fyR3g4UvvtE,G9vIpCbj9J0,gazd0GNSADg,gbz5P5cQhXI,GbzkeijF6jI,gEoUvLUJFK8,gfIp6kBozG8,GgWd74zCSSc,gHlzxRULGMk,gI51l6Wh3Yk,gIt9yrUSDao,GJceEhZ4pJY,GMVz0QyQYxM,gNBeehgARp0,GNoMu2tYzu4,GppWaKxBy6s,gqjbHxz-aao,gQyJoGmPKB0,GswLPG3Y-Ok,gTpPMF8zGzM,GVj_wOEPhkc,GvVNIZPpagc,gw7NTDLYZBM,Gwt2xFm0loo,GwUemploGT0,GXkfdi8tJd0,GY-HVyhkwVY,gyu-KR6lN_g,gzUS_FdDBeY,h-UucfDaVkk,H37RxhQm_vA,H46XPd29Bv0,h65eCjixBGk,haLSsJsM7Pw,HAm-X1FyxBg,hcpXvsbEWbE,hCzo3d1lWwE,hEU1mQ2qefM,hgOkTMxqW6s,hhEEfBRF2eo,hJNxGkvhTcQ,Hlnd0h3mV3M,hNL-KPNmCPU,Huo4wOCK2dg,hVo5YhmSvxg,HwfkXQF0S78,Hy6_6-GcpcY,hYFmksb07d0,i_kG99qtXzk,i-_tMOZDkYc,I0dQf0jNtcI,I0OTSHBfcaM,i2OVR_i8MCw,i3J_ofuCq0M,I3rhKJiPcV0,i4cyrrt39MU,IBiyU8RfKkI,iF59Z6IAiUU,ifFW5gGGqSY,IgeUGYmKHnI,iGXfBR_jrAc,im5Dv2nNqj8,iMax5qGzpdA,IpPRL2hv_hk,Irdqtfi1cJk,iRHLnm3z5ok,irKzl9ixCOk,IRReQnEzKJo,iwYcG1yKrrA,j4hiKMfATkg,j55fin9F39A,J6MXY_WIEik,j8tLiy9F3NQ,jAEjyK8R2xk,Jawv5OeHcNE,jCJD4OtVxT0,jCvI5QK4FEs,JdVBAPt7DE4,JG9Tg3Hwiw8,JH5M8aBGbDY,jJOZODo8iQE,jkFbm5g-CM8,JKp-gk5rcfg,JLFlESy1tGI,jM20EJcS0Ck,jMts3I4Dm0Y,jmzTFedjsRc,JoHtkvjcU6g,jPtn7SFvfy4,JqJT-9QnDX4,jReoknnvXUk,JTK8lrosaDI,jUY45J7zfzQ,Jvb90xAWgk8,jVl0qH2y-RM,JvVq_kmurSU,jW96-WGef_A,JXHk43Ug2DA,JxvZfcKw8E4,k_4kW5f71iA,KbneA0K0N24,KcpCRNFTRI8,kEcJKTb5XVs,KEDZQ5XW-qM,KFYT9lZ9bpk,KNtMOnWkOGk,KogmxzL09S4,KpJi0Rv_d1s,kRqWa5DeoeA,kT8he7l3-jg,kue6Nh4SQQ8,KuRzooUC74k,kvBYHiktgrU,Kve5L6tt_YA,KVM6KUrOVvQ,kWwNGy2rC9o,kysCfEmY3co,kZnsG1Lh-_U,l13jZtmN9Ws,L4hhYlRmT7E,L99bHnNivtk,L9iHVWO-gUs,laBXRSSdnJs,lcBNIvAc_fE,lDJaUL7J8OE,LH21GUrCFlU,LhgiGwn0A94,lHRqbIp5r80,LIPkAVc_ahI,LkmcI2NRIMs,lKMKTF21Izc,Ll66PRHokQo,LMdBTiuCAmQ,lnISt1u_xfw,LPwKlPNJybM,lREbK2wmUtw,lrztFj5ZOX0,Lt4ZWuQXOMU,lUXxLRmbMZM,lVPANbwla1Q,LwNvdC73xvM,LxmrwJLc9-U,lYEe6urReXk,lyVm8IL9agw,M-BcoSZwlxw,m0Q0wjturig,m1rNjyjIvwY,m6DdCQ0YZPs,m7znvs_j8_k,M9z_2C08vO0,MdXPWY7KLdo,MEJjCT8OD1I,mELNZujblCw,MFPvdpl9HYY,MIjma3vEaQw,mJLK3mS_PUg,mKnIFxEz9j8,MmXG8tasvp8,mqHdtTAJqZ4,MqY7u40JJAM,MUDnPOu7OQU,Mvu_Tfn3mVA,MWEBNGiL7lo,mxDKhJURX5c,MXOwJVJKF9I,mzD0WsRspB0,n__2EsOFs8s,n_-myZ6nkf0,n734Bpyl2c0,N7dmOThRoCg,N9M7HdiUIKg,NAGmEcfq2U0,nbChzBjreJQ,NbrnyPtVF1A,NBVVn2POPfU,neDSIJscdS8,NhA9zMOZV_8,nhVE68wUjmY,NIX-X-w64eA,nmcNFT4SL8E,NmvUHTDYhZs,nn9GfBgPdlA,NNS8VvpDBz4,NnuHDa-zasg,nPGpxqq2CUE,NpXTf8oz5KY,nRJljCpC1zU,nV0ccXSbz8Y,o0uEQgFJnGY,O63eWMktkkY,ob2pqqwGzJc,oByMihQhXo8,obzKAKgcoC0,oDHjGfi4HE8,oEr26PgUaz0,oF5MtUaBlpU,OIjil5O_Pos,oKdgB6X-_ts,OknuCuFb27Q,OL4lCwtlpns,omVzgMDSzMA,OnAwEzhtW_s,oOmcvPdqGcY,op8EcWf_QnI,oqWCfr0jN3Q,orW_ZHHtF-c,OvgvEHoD_v0,OXGsPf0HW0w,OZA3EvkBHLk,OzHoLzJXXcM,P-AP48CeZcA,p4up4xd6rxM,P9hR-iNR2eE,pbrJ1XxupEg,PbWOmJQtciI,PcWhowZbiX4,Pd42k6l0BOY,peVgkp1gMSA,pGl8QQUXoiM,PgWXixHr8i0,pgZ_c02-7XY,pGz1JhWd-hw,piclzeZJadE,pjCREYAxFCU,PkxlJCoPxtw,pMhedqnnY-I,pn7XxxfmrJk,POOYNiwCiPg,pVncvL_Ns3U,PwmbkeKu7Mc,px1bN6l_Gv4,pyAT8bKb7XU,q_LY8VPchs0,Q4BzmR9UHIQ,Q4ImyzwBy9g,QaaeRCWBqIk,qb3w1OboNvo,qdRYf3N08UY,qe4v8LGob4Y,qkfsoUw_wcw,qmdFYiXPY18,QPN3h2F9EbE,qr_3BOeVgKg,QrBVmjRpJwI,QS98lwr2p2U,Qse6ME4Tfec,QThFVV4NNqg,qUyxN64q4Ag,QwpDTbUsF3E,R12uPqdkkPI,R41Sfh4kBMg,RBHQL96deP4,RblERU2ASro,RBtIMZCG-Oo,RC38ZjyfhkA,Rdq0Hi-_XRo,RDVZSWXkyrU,RgbA-OzbBg4,rJdqcsQ0QP0,rKfcFhIrUnI,RkvnHtI4Txg,rMQCT25EfEs,RrQPki8bI4A,rsavFC1lrtw,RtMZg04mJ2Y,rvNVbjFQH-o,rWW48Wpg5HA,RXfO2VclQGI,rzaDPTTIbhg,rZtPca6s96Y,S0GVaPlofDU,S1uA3--3ExQ,s3KjT-k31UU,s4qifyO_Ho4,S4ylVMsxOcc,s61iV9hbSRI,sa0om_BBv3A,SbMv9mrXatk,sbtKWPTkyTQ,Sfanj7kgy4g,Sfo1QBymKNs,sIG-J8EARa0,Sk7HnqvW520,smTJcjfSIuo,SpiT4GrgTLs,SS7s22Fnxms,STHwpjP2Uag,SvhpCXCxUfU,SVogkaAV66s,svUSURNXhbM,swCSjVRE2bo,sZEDu22LOic,t_7dq1TQ4Lg,t_9SNDOoHWg,t_iV35zfQI0,T-TtciIe0QA,T6QgUHTZumg,t8lUnjRzmEA,Tbctut7NVk0,TBKDVUQpVM4,td4eN2xb4Tk,TDk_CUDy-gU,TF52s3GOJFE,Tfk9yg39u9w,TFu3NGQdatM,tgvnjOIaFcI,tIk2zHxCpNA,tk6dQdgVDr0,tKMjx-IaKCU,TmYttL1Y62w,TOeFXMgVkRM,ToxI_8MSPMc,TPcXzcq5ezU,tqILea18Ki8,tsqysbA1Sqo,TTAKyQXMQaM,tUv6KIiNY0A,TVjx2ooENfg,TwH-91D_4cA,tXKoS9V8ydU,Ty2mFF1LB_Q,U_GsF_n_WbQ,U2g7WcwIHHE,U3dsdiae1Bg,u3FYvlb2EiI,U3pocCVZuxM,UBqFWGxhZ20,UcLKjCZhKNg,uDowh-vlocM,uIDDTBfsA7Q,ulfINyPBJkk,UOUMoG1AXro,uRKKG5LoYbQ,Us-WzO9pR7Q,utpftrDE2js,uUCkBUzuNio,UViOK8UBgYk,uVpLuuIxjSw,uwC-LYqe1RA,uXYxNzkUuIw,Uyc7XcOLvSc,uykGoyVB8pM,v_5EKGmNPW4,V-fa3I5dJFQ,V3KIFqANBfU,V6h6opS8FMY,VBIJVUzcqgs,VbUvS3OE47o,vcCJ0CDPkzk,vcHz3dGt-1M,vd39QLgNNH4,vf4cXnF_noc,VFWWzYpJ3vw,VgBeVe-cudA,VhlOJznJluQ,VKk8ZZmxM68,Vn-bbVdmmDY,Vn6ucpVEWLg,VnBar3klKuM,vO0Voa_Lisw,VogpaMrDQ2g,Vp3fIO4fK8c,vPN_ECcJEho,VQGp5UP7QUk,VrWJhVsCI3E,VstfqsB3kWA,vuPqn7eBZSg,vwnMMj6IMr8,VyhODMtOPjE,W1FejBQxNzQ,W4W0lYqJc68,w85LBpbDyU8,wAdcvMuRPgE,WaG1AHl_-g8,WajmcB3KCbY,WBn0nakKr4I,wbr999AMWgk,wcIWIgRUTy0,wdjECnQZREM,WE2d5fJ_1BM,Wf1KgiaTz9o,WJoq6-kEdxU,wm_ZuIwfmzA,WmocY8qNi1U,WQzdkZp967w,WSkWQskVZIg,wYDsgBWrQIc,WyY8v0ELRPs,WZLyuv5egbw,X-104lYPfPI,x2OGExAn9vw,x4YswNQcnek,X6NEeXNQJzg,x9wG6ZuqJRE,x9zA1a9MS64,Xb08NOyakJQ,XbLNBGWOiy8,xC7cGGC1gLE,xCIWCSaCdmA,XeyZumUcfw4,XG03yPfdf00,XGjq_LrJlJ0,xgwHJC-vG0U,xH_FtMZau6U,XHsPNYQXy1g,XI_3ot9AVRc,XJr7Q4tbrT8,xjtbxj2hGEk,XKffl6CAS9I,XMedk-SpjJU,XNnr9LQN_LI,XO2nK03NahQ,XRyBWFOS1QE,XV9y1gDUVgw,xwp8ay22ojc,XXhLOXdWdxA,xY_lPkCsAPQ,xyvX8ME69nI,XZ2Z9CdGc50,Xzbvod8pzjI,XZeIqNQ3kkM,Y_RMMbc6TNo,Y-46yEmK9FQ,Y0BXDzU6kHM,y37qBYWD6Hw,Y3iYk00cX4o,y3SRsQQm9_w,Y4c202or2dc,Y8ABhUh5_Pg,yA5kzWWMyJc,YDYKFLJcXjs,YFR517RuObA,yIYsfr3g_po,YjdAs47casg,ylSWzt4ml3I,yMrbI1KLFx4,YNm2DzdbJ-E,YOnx_oNDwic,YOr_YXfwH8M,yoYvunNGK0E,YRDZYN8n2gE,yuiv2YbQAtQ,YvCeoj7VLko,yvPaH6jzaCA,yw5DzVosHrI,YwKXFQ6XQXE,ywqkVBuDLww,YxizdmOvN1c,yzH3A2WACUA,Z1r05ISz5Hs,z3hpssm5_1g,Z7G8j3aZvbE,zG5D6Uk3Chg,ZGF0_jSX-Fc,ZHhi5bP6j30,ZkKSlqN7Bjs,ZkoOAhaFt-Q,zLZiddgP5tc,znYs-6J5rR4,zNzKAjZwcdo,Zpozrhe5xWk,zpw7Bc07h9Y,ZQK30bEDDpU,ZSOLaD-kbZY,zVdQ0QBwFkE,zw69mTcI9U8,zx6MVLXCzhU,zxqkLPMdp_g,zYWTyeZZcT0,zZ3lGqFFaYI",
+  "topic": "Ruth Bader Ginsburg",
+  "aliases": null,
+  "hash": null,
+  "results": [
+    {
+      "id": "_OAMEAuRc0E",
+      "segments": [
+        {
+          "text": "but *ruth* *bader* *ginsburg* says",
+          "location": 2470
+        }
+      ]
+    },
+    {
+      "id": "0vbtmE6Lef0",
+      "segments": [
+        {
+          "text": "how that plays out *ruth* *bader* *ginsburg*",
+          "location": 514
+        }
+      ]
+    },
+    {
+      "id": "18GHu3BC0cY",
+      "segments": [
+        {
+          "text": "wouldn't call *ruth* *bader* *ginsburg* cute",
+          "location": 326
+        },
+        {
+          "text": "it all the time and that's what *ruth*",
+          "location": 529
+        },
+        {
+          "text": "*bader* *ginsburg* is",
+          "location": 531
+        },
+        {
+          "text": "replaces *ruth* *bader* *ginsburg* she's a",
+          "location": 558
+        }
+      ]
+    },
+    {
+      "id": "323zMbxMQWQ",
+      "segments": [
+        {
+          "text": "*ruth* *bader* *ginsburg* coordinated planned",
+          "location": 198
+        },
+        {
+          "text": "*ruth* *bader* *ginsburg* the big problems",
+          "location": 206
+        },
+        {
+          "text": "spelling it out *ruth* *bader* *ginsburg* i",
+          "location": 225
+        },
+        {
+          "text": "equals supreme court rbg *ruth* *bader*",
+          "location": 1207
+        },
+        {
+          "text": "*ginsburg* a s 187 so antonin scalia's",
+          "location": 1209
+        },
+        {
+          "text": "same message supreme court *ruth* *bader*",
+          "location": 1275
+        },
+        {
+          "text": "*ginsburg* scalia murder clown black",
+          "location": 1277
+        },
+        {
+          "text": "tarmac deal supreme court *ruth* *bader*",
+          "location": 1293
+        },
+        {
+          "text": "*ginsburg* we made sure a reporter was",
+          "location": 1296
+        },
+        {
+          "text": "pdf for *ruth* *bader* ginsberg now this is",
+          "location": 1317
+        },
+        {
+          "text": "*ruth* *bader* *ginsburg* by susan hirshman",
+          "location": 1326
+        },
+        {
+          "text": "talking about kate *bader* *ginsburg* *ruth*",
+          "location": 1339
+        },
+        {
+          "text": "*bader* *ginsburg* writing show her to be a",
+          "location": 1342
+        },
+        {
+          "text": "institution a typical feminist *ruth*",
+          "location": 1384
+        },
+        {
+          "text": "*bader* *ginsburg* wants affirmative action",
+          "location": 1387
+        }
+      ]
+    },
+    {
+      "id": "4qZfqvdYehg",
+      "segments": [
+        {
+          "text": "is from yesterday justice *ruth* *bader*",
+          "location": 2098
+        },
+        {
+          "text": "*ginsburg* cancels public appearance in",
+          "location": 2101
+        },
+        {
+          "text": "notorious rbg the life and times of *ruth*",
+          "location": 2123
+        },
+        {
+          "text": "*bader* *ginsburg* you guys noticed too they",
+          "location": 2126
+        }
+      ]
+    },
+    {
+      "id": "5NBJ12AkJns",
+      "segments": [
+        {
+          "text": "comment section about *ruth* *bader*",
+          "location": 1422
+        },
+        {
+          "text": "*ginsburg* right so it says i'm somebody",
+          "location": 1424
+        },
+        {
+          "text": "that's close to *ruth* and i've decided to",
+          "location": 1426
+        }
+      ]
+    },
+    {
+      "id": "9-lDzwUkPU8",
+      "segments": [
+        {
+          "text": "and as you see here again *ruth* *bader*",
+          "location": 36
+        },
+        {
+          "text": "*ginsburg* undergoes procedure",
+          "location": 39
+        }
+      ]
+    },
+    {
+      "id": "9mfW16YxL3U",
+      "segments": [
+        {
+          "text": "also a quick *ruth* *bader* *ginsburg* update",
+          "location": 85
+        },
+        {
+          "text": "pictures of *ruth* *bader* *ginsburg* getting",
+          "location": 957
+        }
+      ]
+    },
+    {
+      "id": "A8rW-Jm59zA",
+      "segments": [
+        {
+          "text": "the other day we had a *ruth* *bader*",
+          "location": 721
+        },
+        {
+          "text": "*ginsburg* sighting supposedly at a most",
+          "location": 723
+        }
+      ]
+    },
+    {
+      "id": "Bng4OrgNzSw",
+      "segments": [
+        {
+          "text": "testifying on the 11th methinks *ruth*",
+          "location": 1104
+        },
+        {
+          "text": "*bader* *ginsburg* and jimmy carter need to",
+          "location": 1108
+        }
+      ]
+    },
+    {
+      "id": "CGHH33l1s2g",
+      "segments": [
+        {
+          "text": "closer up it's a *ruth* *bader* *ginsburg* and",
+          "location": 380
+        },
+        {
+          "text": "that is *ruth* *bader* *ginsburg* in hanoi in",
+          "location": 386
+        },
+        {
+          "text": "q drops an image of *ruth* *bader* *ginsburg*",
+          "location": 497
+        },
+        {
+          "text": "in hanoi saying image drop seems *ruth*",
+          "location": 499
+        }
+      ]
+    },
+    {
+      "id": "fhbydy18DwA",
+      "segments": [
+        {
+          "text": "wishing supreme court justice *ruth* *bader*",
+          "location": 775
+        },
+        {
+          "text": "*ginsburg* a full and speedy recovery now",
+          "location": 777
+        }
+      ]
+    },
+    {
+      "id": "gzUS_FdDBeY",
+      "segments": [
+        {
+          "text": "the highlights of *ruth* *bader* *ginsburg*",
+          "location": 332
+        },
+        {
+          "text": "*ginsburg* rule when senator joseph biden",
+          "location": 476
+        },
+        {
+          "text": "hearings for supreme court nominee *ruth*",
+          "location": 482
+        },
+        {
+          "text": "*bader* *ginsburg* in 1993 he established",
+          "location": 484
+        },
+        {
+          "text": "record of *ruth* *bader* *ginsburg* obviously",
+          "location": 570
+        },
+        {
+          "text": "treating *ruth* *bader* *ginsburg* all right",
+          "location": 579
+        },
+        {
+          "text": "encouraging signs from *ruth* *bader*",
+          "location": 586
+        },
+        {
+          "text": "*ginsburg* that justice ginsburg is alive",
+          "location": 588
+        },
+        {
+          "text": "*ruth* *bader* *ginsburg* in order to sustain",
+          "location": 629
+        },
+        {
+          "text": "court justices you know like *ruth* *bader*",
+          "location": 1899
+        },
+        {
+          "text": "*ginsburg* there who they're making a",
+          "location": 1902
+        },
+        {
+          "text": "a *ruth* *bader* *ginsburg* movie and they're",
+          "location": 1908
+        }
+      ]
+    },
+    {
+      "id": "i3J_ofuCq0M",
+      "segments": [
+        {
+          "text": "number three is *ruth* *bader* *ginsburg* tba",
+          "location": 638
+        }
+      ]
+    },
+    {
+      "id": "kEcJKTb5XVs",
+      "segments": [
+        {
+          "text": "*ginsburg* *ruth* *bader* *ginsburg* to miss",
+          "location": 745
+        },
+        {
+          "text": "besides q *ruth* *bader* *ginsburg* mrs.",
+          "location": 753
+        },
+        {
+          "text": "2667 *ginsburg* missing supreme court",
+          "location": 793
+        },
+        {
+          "text": "*ruth* *bader* *ginsburg* is missing arguments",
+          "location": 801
+        }
+      ]
+    },
+    {
+      "id": "LMdBTiuCAmQ",
+      "segments": [
+        {
+          "text": "replacement *ruth* *bader* *ginsburg*",
+          "location": 213
+        }
+      ]
+    },
+    {
+      "id": "Mvu_Tfn3mVA",
+      "segments": [
+        {
+          "text": "today was *ruth* *bader* *ginsburg* and",
+          "location": 1140
+        },
+        {
+          "text": "nothing else that's it just *ruth* *bader*",
+          "location": 1144
+        },
+        {
+          "text": "*ginsburg* and time stamp at snowden truth",
+          "location": 1146
+        },
+        {
+          "text": "*ruth* *bader* *ginsburg* i thought it",
+          "location": 1194
+        },
+        {
+          "text": "important to note that *ruth* *bader*",
+          "location": 1197
+        },
+        {
+          "text": "*ginsburg* is an associate justice of the",
+          "location": 1198
+        }
+      ]
+    },
+    {
+      "id": "OvgvEHoD_v0",
+      "segments": [
+        {
+          "text": "supposedly at *ruth* *bader* *ginsburg* home",
+          "location": 2303
+        },
+        {
+          "text": "this point *ruth* *bader* *ginsburg* her",
+          "location": 2531
+        }
+      ]
+    },
+    {
+      "id": "p4up4xd6rxM",
+      "segments": [
+        {
+          "text": "week if i was jimmy carter or *ruth* *bader*",
+          "location": 1403
+        },
+        {
+          "text": "*ginsburg* i would literally be walking",
+          "location": 1406
+        }
+      ]
+    },
+    {
+      "id": "QrBVmjRpJwI",
+      "segments": [
+        {
+          "text": "take out *ruth* *bader* *ginsburg* they don't",
+          "location": 848
+        }
+      ]
+    },
+    {
+      "id": "s3KjT-k31UU",
+      "segments": [
+        {
+          "text": "supreme court position of *ruth* *bader*",
+          "location": 500
+        },
+        {
+          "text": "*ginsburg* coordinated planned",
+          "location": 501
+        }
+      ]
+    },
+    {
+      "id": "svUSURNXhbM",
+      "segments": [
+        {
+          "text": "over this morning *ruth* *bader* *ginsburg* is",
+          "location": 109
+        },
+        {
+          "text": "person that's going around as *ruth* *bader*",
+          "location": 127
+        },
+        {
+          "text": "*ginsburg* right now is that still the",
+          "location": 129
+        },
+        {
+          "text": "real *ruth* or is it side",
+          "location": 131
+        }
+      ]
+    },
+    {
+      "id": "td4eN2xb4Tk",
+      "segments": [
+        {
+          "text": "*ruth* *bader* *ginsburg* was doing a live",
+          "location": 557
+        }
+      ]
+    },
+    {
+      "id": "tsqysbA1Sqo",
+      "segments": [
+        {
+          "text": "if i was *ruth* *bader* *ginsburg* or jimmy",
+          "location": 515
+        }
+      ]
+    },
+    {
+      "id": "TwH-91D_4cA",
+      "segments": [
+        {
+          "text": "*ruth* *bader* *ginsburg* treated for cancer",
+          "location": 376
+        },
+        {
+          "text": "us supreme court justice *ruth* *bader*",
+          "location": 383
+        },
+        {
+          "text": "*ginsburg* recently underwent three weeks",
+          "location": 386
+        },
+        {
+          "text": "part of *ginsburg* treatment doctors",
+          "location": 408
+        },
+        {
+          "text": "quote justice *ruth* *bader* *ginsburg* today",
+          "location": 414
+        }
+      ]
+    },
+    {
+      "id": "UcLKjCZhKNg",
+      "segments": [
+        {
+          "text": "after this you have *ruth* *bader* *ginsburg*",
+          "location": 74
+        },
+        {
+          "text": "at 1956 where *ruth* *bader* *ginsburg* had",
+          "location": 113
+        }
+      ]
+    },
+    {
+      "id": "uUCkBUzuNio",
+      "segments": [
+        {
+          "text": "*ruth* *bader* *ginsburg*",
+          "location": 931
+        },
+        {
+          "text": "rbg directors assure *ruth* *bader* *ginsburg*",
+          "location": 935
+        },
+        {
+          "text": "supreme court position of *ruth* *bader*",
+          "location": 962
+        },
+        {
+          "text": "*ginsburg* coordinated planned",
+          "location": 965
+        },
+        {
+          "text": "question what was *ruth* *bader* *ginsburg*",
+          "location": 972
+        }
+      ]
+    },
+    {
+      "id": "uykGoyVB8pM",
+      "segments": [
+        {
+          "text": "jimmy carter right we have *ruth* *bader*",
+          "location": 2058
+        },
+        {
+          "text": "*ginsburg* apparently has like the flu or",
+          "location": 2061
+        }
+      ]
+    },
+    {
+      "id": "V-fa3I5dJFQ",
+      "segments": [
+        {
+          "text": "it has to do with *ruth* *bader* *ginsburg* he",
+          "location": 946
+        }
+      ]
+    },
+    {
+      "id": "V6h6opS8FMY",
+      "segments": [
+        {
+          "text": "from hugh that simply said a name *ruth*",
+          "location": 9
+        },
+        {
+          "text": "*bader* *ginsburg* and then an an on at",
+          "location": 14
+        }
+      ]
+    },
+    {
+      "id": "w85LBpbDyU8",
+      "segments": [
+        {
+          "text": "the pdf in regards to *ruth* *bader*",
+          "location": 24
+        },
+        {
+          "text": "*ginsburg* being confirmed all right this",
+          "location": 29
+        },
+        {
+          "text": "are things that *ruth* *bader* *ginsburg*",
+          "location": 44
+        }
+      ]
+    },
+    {
+      "id": "WE2d5fJ_1BM",
+      "segments": [
+        {
+          "text": "picture of *ruth* *bader* *ginsburg* i hear",
+          "location": 857
+        }
+      ]
+    },
+    {
+      "id": "XGjq_LrJlJ0",
+      "segments": [
+        {
+          "text": "the next one is 2670 *ruth* *bader* *ginsburg*",
+          "location": 224
+        },
+        {
+          "text": "that they were talking about *ruth* *bader*",
+          "location": 304
+        },
+        {
+          "text": "*ginsburg* on sunday well she was a",
+          "location": 306
+        }
+      ]
+    },
+    {
+      "id": "XNnr9LQN_LI",
+      "segments": [
+        {
+          "text": "triggered a graphic of *ruth* *bader*",
+          "location": 119
+        },
+        {
+          "text": "*ginsburg* with the date on it we don't",
+          "location": 121
+        }
+      ]
+    },
+    {
+      "id": "XO2nK03NahQ",
+      "segments": [
+        {
+          "text": "*ruth* *bader* *ginsburg* coordinated planned",
+          "location": 1346
+        },
+        {
+          "text": "supreme court position of *ruth* *bader*",
+          "location": 1368
+        },
+        {
+          "text": "*ginsburg* so just something to keep in",
+          "location": 1371
+        }
+      ]
+    },
+    {
+      "id": "yw5DzVosHrI",
+      "segments": [
+        {
+          "text": "the supreme court position of *ruth* *bader*",
+          "location": 370
+        },
+        {
+          "text": "*ginsburg* coordinated planned *ruth* *bader*",
+          "location": 372
+        },
+        {
+          "text": "*ginsburg* big problems q and we have the",
+          "location": 376
+        },
+        {
+          "text": "*ruth* *bader* *ginsburg* while she clerked",
+          "location": 424
+        }
+      ]
+    }
+  ]
+}
