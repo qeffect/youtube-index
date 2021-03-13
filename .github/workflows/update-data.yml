@@ -30,8 +30,6 @@ jobs:
 
     - name: Update index
       run: |
-        ./update-db.sh
-        ./update-captions.sh
         ./update-topics.sh
 
     - name: Commit files
